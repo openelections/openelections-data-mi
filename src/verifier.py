@@ -65,8 +65,8 @@ class Verifier(object):
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
 	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
-	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
-	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
+	# pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
+	# normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
 
 	# Return the appropriate subclass based on the path
 	def __new__(cls, path):
@@ -217,18 +217,18 @@ class Verifier(object):
 		candidate = row['candidate']
 		normalizedCandidate = charsRE.sub('', candidate).lower()
 
-		if candidate not in Verifier.pseudocandidates:
-			if normalizedCandidate in Verifier.normalizedPseudocandidates:
-				self.printError("Misspelled pseudocandidate a: '{}'".format(candidate), row)
-			else:
-				# Compare the normalized strings to determine if they match
-				for npc in Verifier.normalizedPseudocandidates:
-					if normalizedCandidate.startswith(npc[0:4]): # Only check the first 4 characters
-						self.printError("Misspelled pseudocandidate b: '{}'".format(candidate), row)
-						break
+		# if candidate not in Verifier.pseudocandidates:
+		# 	if normalizedCandidate in Verifier.normalizedPseudocandidates:
+		# 		self.printError("Misspelled pseudocandidate a: '{}'".format(candidate), row)
+		# 	else:
+		# 		# Compare the normalized strings to determine if they match
+		# 		for npc in Verifier.normalizedPseudocandidates:
+		# 			if normalizedCandidate.startswith(npc[0:4]): # Only check the first 4 characters
+		# 				self.printError("Misspelled pseudocandidate b: '{}'".format(candidate), row)
+		# 				break
 
 	def verifyParty(self, row):
-		if row['candidate'] not in Verifier.pseudocandidates and not row['party']:
+		if not row['party']:
 			self.printError("Party missing", row)
 
 	def verifyVotes(self, row):

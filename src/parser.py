@@ -89,7 +89,7 @@ class MIParser(object):
         df3 = pandas.merge(df2, table('name'), on=['year', 'type', 'officeCode', 'district', 'status', 'candidateID'])
 
         # Sort into sensible order
-        self.merged = df3.sort_values(['countyName', 'cityCode', 'precinct', 'officeCode', 'district'])
+        self.merged = df3.sort_values(['countyName', 'cityCode', 'precinct', 'precinctLabel', 'ward', 'officeCode', 'district'])
 
     
     def process(self):

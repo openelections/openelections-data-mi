@@ -470,37 +470,37 @@ Wayne,Garden City 10,State House,11,REP,Robert E. Pope,429
 Wayne,Garden City 10,State House,11,DEM,Lauren Plawecki,567
 Wayne,Garden City 10,State House,11,UST,Marc Joseph Sosnowski,63
 Wayne,Inkster City 1 Ward 1,State House,11,REP,Robert E. Pope,33
-Wayne,Inkster City 1 Ward 2,State House,11,REP,Robert E. Pope,63
-Wayne,Inkster City 1 Ward 3,State House,11,REP,Robert E. Pope,35
-Wayne,Inkster City 1 Ward 4,State House,11,REP,Robert E. Pope,133
-Wayne,Inkster City 1 Ward 5,State House,11,REP,Robert E. Pope,48
-Wayne,Inkster City 1 Ward 6,State House,11,REP,Robert E. Pope,50
 Wayne,Inkster City 1 Ward 1,State House,11,DEM,Lauren Plawecki,686
-Wayne,Inkster City 1 Ward 2,State House,11,DEM,Lauren Plawecki,861
-Wayne,Inkster City 1 Ward 3,State House,11,DEM,Lauren Plawecki,791
-Wayne,Inkster City 1 Ward 4,State House,11,DEM,Lauren Plawecki,864
-Wayne,Inkster City 1 Ward 5,State House,11,DEM,Lauren Plawecki,1096
-Wayne,Inkster City 1 Ward 6,State House,11,DEM,Lauren Plawecki,660
 Wayne,Inkster City 1 Ward 1,State House,11,UST,Marc Joseph Sosnowski,9
+Wayne,Inkster City 1 Ward 2,State House,11,REP,Robert E. Pope,63
+Wayne,Inkster City 1 Ward 2,State House,11,DEM,Lauren Plawecki,861
 Wayne,Inkster City 1 Ward 2,State House,11,UST,Marc Joseph Sosnowski,29
+Wayne,Inkster City 1 Ward 3,State House,11,REP,Robert E. Pope,35
+Wayne,Inkster City 1 Ward 3,State House,11,DEM,Lauren Plawecki,791
 Wayne,Inkster City 1 Ward 3,State House,11,UST,Marc Joseph Sosnowski,24
+Wayne,Inkster City 1 Ward 4,State House,11,REP,Robert E. Pope,133
+Wayne,Inkster City 1 Ward 4,State House,11,DEM,Lauren Plawecki,864
 Wayne,Inkster City 1 Ward 4,State House,11,UST,Marc Joseph Sosnowski,37
+Wayne,Inkster City 1 Ward 5,State House,11,REP,Robert E. Pope,48
+Wayne,Inkster City 1 Ward 5,State House,11,DEM,Lauren Plawecki,1096
 Wayne,Inkster City 1 Ward 5,State House,11,UST,Marc Joseph Sosnowski,22
+Wayne,Inkster City 1 Ward 6,State House,11,REP,Robert E. Pope,50
+Wayne,Inkster City 1 Ward 6,State House,11,DEM,Lauren Plawecki,660
 Wayne,Inkster City 1 Ward 6,State House,11,UST,Marc Joseph Sosnowski,25
 Wayne,Inkster City 2 Ward 1,State House,11,REP,Robert E. Pope,13
-Wayne,Inkster City 2 Ward 2,State House,11,REP,Robert E. Pope,44
-Wayne,Inkster City 2 Ward 3,State House,11,REP,Robert E. Pope,38
-Wayne,Inkster City 2 Ward 4,State House,11,REP,Robert E. Pope,75
-Wayne,Inkster City 2 Ward 6,State House,11,REP,Robert E. Pope,81
 Wayne,Inkster City 2 Ward 1,State House,11,DEM,Lauren Plawecki,402
-Wayne,Inkster City 2 Ward 2,State House,11,DEM,Lauren Plawecki,770
-Wayne,Inkster City 2 Ward 3,State House,11,DEM,Lauren Plawecki,775
-Wayne,Inkster City 2 Ward 4,State House,11,DEM,Lauren Plawecki,746
-Wayne,Inkster City 2 Ward 6,State House,11,DEM,Lauren Plawecki,586
 Wayne,Inkster City 2 Ward 1,State House,11,UST,Marc Joseph Sosnowski,5
+Wayne,Inkster City 2 Ward 2,State House,11,REP,Robert E. Pope,44
+Wayne,Inkster City 2 Ward 2,State House,11,DEM,Lauren Plawecki,770
 Wayne,Inkster City 2 Ward 2,State House,11,UST,Marc Joseph Sosnowski,8
+Wayne,Inkster City 2 Ward 3,State House,11,REP,Robert E. Pope,38
+Wayne,Inkster City 2 Ward 3,State House,11,DEM,Lauren Plawecki,775
 Wayne,Inkster City 2 Ward 3,State House,11,UST,Marc Joseph Sosnowski,17
+Wayne,Inkster City 2 Ward 4,State House,11,REP,Robert E. Pope,75
+Wayne,Inkster City 2 Ward 4,State House,11,DEM,Lauren Plawecki,746
 Wayne,Inkster City 2 Ward 4,State House,11,UST,Marc Joseph Sosnowski,22
+Wayne,Inkster City 2 Ward 6,State House,11,REP,Robert E. Pope,81
+Wayne,Inkster City 2 Ward 6,State House,11,DEM,Lauren Plawecki,586
 Wayne,Inkster City 2 Ward 6,State House,11,UST,Marc Joseph Sosnowski,20
 Wayne,Lincoln Park City 2,State Senate,4,DEM,Ian Conyers,937
 Wayne,Lincoln Park City 2,State Senate,4,REP,Keith Franklin,406
@@ -527,13 +527,13 @@ Wayne,Lincoln Park City 22,State Senate,4,REP,Keith Franklin,438
 Wayne,Lincoln Park City 24,State Senate,4,DEM,Ian Conyers,396
 Wayne,Lincoln Park City 24,State Senate,4,REP,Keith Franklin,355
 Wayne,Livonia City 35A,State House,11,REP,Robert E. Pope,452
-Wayne,Livonia City 35B,State House,11,REP,Robert E. Pope,309
-Wayne,Livonia City 35C,State House,11,REP,Robert E. Pope,287
 Wayne,Livonia City 35A,State House,11,DEM,Lauren Plawecki,479
-Wayne,Livonia City 35B,State House,11,DEM,Lauren Plawecki,347
-Wayne,Livonia City 35C,State House,11,DEM,Lauren Plawecki,316
 Wayne,Livonia City 35A,State House,11,UST,Marc Joseph Sosnowski,63
+Wayne,Livonia City 35B,State House,11,REP,Robert E. Pope,309
+Wayne,Livonia City 35B,State House,11,DEM,Lauren Plawecki,347
 Wayne,Livonia City 35B,State House,11,UST,Marc Joseph Sosnowski,24
+Wayne,Livonia City 35C,State House,11,REP,Robert E. Pope,287
+Wayne,Livonia City 35C,State House,11,DEM,Lauren Plawecki,316
 Wayne,Livonia City 35C,State House,11,UST,Marc Joseph Sosnowski,26
 Wayne,Southgate City 1,State Senate,4,DEM,Ian Conyers,480
 Wayne,Southgate City 1,State Senate,4,REP,Keith Franklin,479

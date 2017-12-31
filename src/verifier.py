@@ -40,6 +40,7 @@ def main():
 			parser.print_help()
 		else:
 			verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
+			verifier.showMissingPartyError = not args.muteMissingPartyError
 			verifier.showXForDistrictError = not args.muteXForDistrictError
 			verifier.singleErrorMode = args.singleError
 
@@ -50,6 +51,7 @@ def main():
 def buildArgumentParser():
 	parser = argparse.ArgumentParser(description="Verify openelections CSV files. Ensure the file name is in the OE format: {date}__{state}__{election_type}__{county}__precicnt.csv")
 	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
+	parser.add_argument('--muteMissingPartyError', dest='muteMissingPartyError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
 	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
@@ -96,6 +98,7 @@ class Verifier(object):
 		self.reader = None
 		self.ready = False
 		self.showPrimaryPartiesError = True
+		self.showMissingPartyError = True
 		self.showXForDistrictError = True
 		self.singleErrorMode = False
 
@@ -228,8 +231,9 @@ class Verifier(object):
 		# 				break
 
 	def verifyParty(self, row):
-		if not row['party']:
-			self.printError("Party missing", row)
+		if self.showMissingPartyError:
+			if not row['party']:
+				self.printError("Party missing", row)
 
 	def verifyVotes(self, row):
 		if not self.verifyInteger(row['votes']):

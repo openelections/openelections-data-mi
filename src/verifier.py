@@ -29,20 +29,26 @@ import re
 import argparse
 
 def main():
-	args = parseArguments()
+	parser = buildArgumentParser()
+	args = parser.parse_args()
 
 	for path in args.paths:
 		verifier = Verifier(path)
-		verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
-		verifier.showXForDistrictError = not args.muteXForDistrictError
-		verifier.singleErrorMode = args.singleError
 
-		if verifier.ready and "matrix" not in verifier.filename:
-			verifier.verify()
+		if not verifier:
+			# Probably the filename doesn't match a known format
+			parser.print_help()
+		else:
+			verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
+			verifier.showXForDistrictError = not args.muteXForDistrictError
+			verifier.singleErrorMode = args.singleError
+
+			if verifier.ready and "matrix" not in verifier.filename:
+				verifier.verify()
 
 
-def parseArguments():
-	parser = argparse.ArgumentParser(description='Verify openelections CSV files')
+def buildArgumentParser():
+	parser = argparse.ArgumentParser(description="Verify openelections CSV files. Ensure the file name is in the OE format: {date}__{state}__{election_type}__{county}__precicnt.csv")
 	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
@@ -50,14 +56,14 @@ def parseArguments():
 	parser.add_argument('paths', metavar='path', type=str, nargs='+',
 					   help='path to a CSV file')
 
-	return parser.parse_args()
+	return parser
 
 
 class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
 	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
-	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Auditor', 'Commissioner of Agriculture',])
+	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
 	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
@@ -99,7 +105,7 @@ class Verifier(object):
 			self.pathSanityCheck(path)
 
 			self.filename = os.path.basename(path)
-			self.filenameState, self.filenameCounty = self.deriveStateCountyFromFilename(self.filename)
+			(self.filenameState, self.filenameCounty) = self.deriveStateCountyFromFilename(self.filename)
 
 			self.ready = True
 		except Exception as e:
@@ -118,18 +124,20 @@ class Verifier(object):
 		print("==> {}".format(path))
 
 	def deriveStateCountyFromFilename(self, filename):
+		# import pdb; pdb.set_trace()
 		components = filename.split("__")
 		countyIndex = 0
 
 		if "special" in components and ("primary" in components or "general" in components): # special primary or special general
 			countyIndex = 4
 		elif ("primary" in components or "general" in components): # normal primary or general
-			countyIndex = 3
+			if len(components) > 4:
+				countyIndex = 3
 
 		if countyIndex:
 			return (components[1], components[countyIndex].replace("_", " ").title())
-
-		return (None, None)
+		else:
+			return (components[1], None)
 
 	def parseFileAtPath(self, path):
 		with open(path, 'rU') as csvfile:
@@ -182,7 +190,7 @@ class Verifier(object):
 	def verifyCounty(self, row):
 		normalisedCounty = row['county'].title()
 
-		if not normalisedCounty == self.filenameCounty:
+		if self.filenameCounty and not normalisedCounty == self.filenameCounty:
 			self.printError("County doesn't match filename", row)
 
 		if not row['county'] == normalisedCounty:
@@ -227,7 +235,8 @@ class Verifier(object):
 		if not self.verifyInteger(row['votes']):
 			self.printError("Vote count must be an integer", row)
 		elif not int(row['votes']) >= 0:
-			self.printError("Vote count must be greater than or equal to zero", row)
+			if row['precinct'] != '9999': # Negative results allowed in statistical adjustment pseudo-precincts
+				self.printError("Vote count must be greater than or equal to zero", row)
 
 	def verifyRowIsUnique(self, row):
 		rowTuple = tuple(row[col] for col in Verifier.uniqueRowIDSet)

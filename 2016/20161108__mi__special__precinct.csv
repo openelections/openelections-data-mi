@@ -1,0 +1,580 @@
+county,precinct,office,district,party,candidate,votes
+Macomb,Center Line City 1,State House,28,DEM,Patrick Green,454
+Macomb,Center Line City 1,State House,28,REP,Antoine M. Davison,327
+Macomb,Center Line City 2,State House,28,DEM,Patrick Green,437
+Macomb,Center Line City 2,State House,28,REP,Antoine M. Davison,183
+Macomb,Center Line City 3,State House,28,DEM,Patrick Green,695
+Macomb,Center Line City 3,State House,28,REP,Antoine M. Davison,315
+Macomb,Center Line City 4,State House,28,DEM,Patrick Green,291
+Macomb,Center Line City 4,State House,28,REP,Antoine M. Davison,180
+Macomb,Center Line City 5,State House,28,DEM,Patrick Green,285
+Macomb,Center Line City 5,State House,28,REP,Antoine M. Davison,199
+Macomb,Warren City 1 Ward 1,State House,28,DEM,Patrick Green,836
+Macomb,Warren City 1 Ward 1,State House,28,REP,Antoine M. Davison,203
+Macomb,Warren City 2 Ward 1,State House,28,DEM,Patrick Green,370
+Macomb,Warren City 2 Ward 1,State House,28,REP,Antoine M. Davison,162
+Macomb,Warren City 3 Ward 5,State House,28,DEM,Patrick Green,1025
+Macomb,Warren City 3 Ward 5,State House,28,REP,Antoine M. Davison,319
+Macomb,Warren City 4 Ward 5,State House,28,DEM,Patrick Green,646
+Macomb,Warren City 4 Ward 5,State House,28,REP,Antoine M. Davison,313
+Macomb,Warren City 5 Ward 1,State House,28,DEM,Patrick Green,608
+Macomb,Warren City 5 Ward 1,State House,28,REP,Antoine M. Davison,243
+Macomb,Warren City 6 Ward 1,State House,28,DEM,Patrick Green,774
+Macomb,Warren City 6 Ward 1,State House,28,REP,Antoine M. Davison,366
+Macomb,Warren City 7 Ward 5,State House,28,DEM,Patrick Green,622
+Macomb,Warren City 7 Ward 5,State House,28,REP,Antoine M. Davison,194
+Macomb,Warren City 8 Ward 5,State House,28,DEM,Patrick Green,773
+Macomb,Warren City 8 Ward 5,State House,28,REP,Antoine M. Davison,165
+Macomb,Warren City 9 Ward 5,State House,28,DEM,Patrick Green,743
+Macomb,Warren City 9 Ward 5,State House,28,REP,Antoine M. Davison,264
+Macomb,Warren City 11 Ward 3,State House,28,DEM,Patrick Green,9
+Macomb,Warren City 11 Ward 3,State House,28,REP,Antoine M. Davison,5
+Macomb,Warren City 12 Ward 5,State House,28,DEM,Patrick Green,451
+Macomb,Warren City 12 Ward 5,State House,28,REP,Antoine M. Davison,153
+Macomb,Warren City 18 Ward 5,State House,28,DEM,Patrick Green,292
+Macomb,Warren City 18 Ward 5,State House,28,REP,Antoine M. Davison,92
+Macomb,Warren City 19 Ward 1,State House,28,DEM,Patrick Green,629
+Macomb,Warren City 19 Ward 1,State House,28,REP,Antoine M. Davison,352
+Macomb,Warren City 20 Ward 2,State House,28,DEM,Patrick Green,853
+Macomb,Warren City 20 Ward 2,State House,28,REP,Antoine M. Davison,479
+Macomb,Warren City 22 Ward 5,State House,28,DEM,Patrick Green,764
+Macomb,Warren City 22 Ward 5,State House,28,REP,Antoine M. Davison,493
+Macomb,Warren City 28 Ward 3,State House,28,DEM,Patrick Green,1143
+Macomb,Warren City 28 Ward 3,State House,28,REP,Antoine M. Davison,565
+Macomb,Warren City 32 Ward 3,State House,28,DEM,Patrick Green,711
+Macomb,Warren City 32 Ward 3,State House,28,REP,Antoine M. Davison,577
+Macomb,Warren City 34 Ward 1,State House,28,DEM,Patrick Green,451
+Macomb,Warren City 34 Ward 1,State House,28,REP,Antoine M. Davison,247
+Macomb,Warren City 35 Ward 2,State House,28,DEM,Patrick Green,903
+Macomb,Warren City 35 Ward 2,State House,28,REP,Antoine M. Davison,463
+Macomb,Warren City 36 Ward 2,State House,28,DEM,Patrick Green,485
+Macomb,Warren City 36 Ward 2,State House,28,REP,Antoine M. Davison,316
+Macomb,Warren City 37 Ward 2,State House,28,DEM,Patrick Green,721
+Macomb,Warren City 37 Ward 2,State House,28,REP,Antoine M. Davison,481
+Macomb,Warren City 38 Ward 1,State House,28,DEM,Patrick Green,1240
+Macomb,Warren City 38 Ward 1,State House,28,REP,Antoine M. Davison,569
+Macomb,Warren City 45 Ward 2,State House,28,DEM,Patrick Green,680
+Macomb,Warren City 45 Ward 2,State House,28,REP,Antoine M. Davison,398
+Macomb,Warren City 46 Ward 1,State House,28,DEM,Patrick Green,654
+Macomb,Warren City 46 Ward 1,State House,28,REP,Antoine M. Davison,314
+Macomb,Warren City 47 Ward 1,State House,28,DEM,Patrick Green,921
+Macomb,Warren City 47 Ward 1,State House,28,REP,Antoine M. Davison,560
+Macomb,Warren City 48 Ward 2,State House,28,DEM,Patrick Green,434
+Macomb,Warren City 48 Ward 2,State House,28,REP,Antoine M. Davison,196
+Macomb,Warren City 54 Ward 3,State House,28,DEM,Patrick Green,643
+Macomb,Warren City 54 Ward 3,State House,28,REP,Antoine M. Davison,451
+Macomb,Warren City 55 Ward 2,State House,28,DEM,Patrick Green,610
+Macomb,Warren City 55 Ward 2,State House,28,REP,Antoine M. Davison,535
+Macomb,Warren City 56 Ward 1,State House,28,DEM,Patrick Green,360
+Macomb,Warren City 56 Ward 1,State House,28,REP,Antoine M. Davison,251
+Macomb,Warren City 57 Ward 2,State House,28,DEM,Patrick Green,644
+Macomb,Warren City 57 Ward 2,State House,28,REP,Antoine M. Davison,451
+Wayne,Allen Park City 1,State Senate,4,DEM,Ian Conyers,490
+Wayne,Allen Park City 1,State Senate,4,REP,Keith Franklin,418
+Wayne,Allen Park City 2,State Senate,4,DEM,Ian Conyers,459
+Wayne,Allen Park City 2,State Senate,4,REP,Keith Franklin,498
+Wayne,Allen Park City 3,State Senate,4,DEM,Ian Conyers,443
+Wayne,Allen Park City 3,State Senate,4,REP,Keith Franklin,477
+Wayne,Allen Park City 4,State Senate,4,DEM,Ian Conyers,336
+Wayne,Allen Park City 4,State Senate,4,REP,Keith Franklin,395
+Wayne,Allen Park City 5,State Senate,4,DEM,Ian Conyers,277
+Wayne,Allen Park City 5,State Senate,4,REP,Keith Franklin,351
+Wayne,Allen Park City 6,State Senate,4,DEM,Ian Conyers,294
+Wayne,Allen Park City 6,State Senate,4,REP,Keith Franklin,334
+Wayne,Allen Park City 7,State Senate,4,DEM,Ian Conyers,495
+Wayne,Allen Park City 7,State Senate,4,REP,Keith Franklin,528
+Wayne,Allen Park City 8,State Senate,4,DEM,Ian Conyers,420
+Wayne,Allen Park City 8,State Senate,4,REP,Keith Franklin,447
+Wayne,Allen Park City 9,State Senate,4,DEM,Ian Conyers,544
+Wayne,Allen Park City 9,State Senate,4,REP,Keith Franklin,589
+Wayne,Allen Park City 10,State Senate,4,DEM,Ian Conyers,297
+Wayne,Allen Park City 10,State Senate,4,REP,Keith Franklin,327
+Wayne,Allen Park City 11,State Senate,4,DEM,Ian Conyers,460
+Wayne,Allen Park City 11,State Senate,4,REP,Keith Franklin,569
+Wayne,Allen Park City 12,State Senate,4,DEM,Ian Conyers,345
+Wayne,Allen Park City 12,State Senate,4,REP,Keith Franklin,346
+Wayne,Allen Park City 13,State Senate,4,DEM,Ian Conyers,325
+Wayne,Allen Park City 13,State Senate,4,REP,Keith Franklin,453
+Wayne,Allen Park City 14,State Senate,4,DEM,Ian Conyers,435
+Wayne,Allen Park City 14,State Senate,4,REP,Keith Franklin,554
+Wayne,Allen Park City 15,State Senate,4,DEM,Ian Conyers,357
+Wayne,Allen Park City 15,State Senate,4,REP,Keith Franklin,382
+Wayne,Allen Park City 16,State Senate,4,DEM,Ian Conyers,292
+Wayne,Allen Park City 16,State Senate,4,REP,Keith Franklin,470
+Wayne,Dearborn Heights City 1,State House,11,REP,Robert E. Pope,149
+Wayne,Dearborn Heights City 1,State House,11,DEM,Lauren Plawecki,677
+Wayne,Dearborn Heights City 1,State House,11,UST,Marc Joseph Sosnowski,33
+Wayne,Dearborn Heights City 2,State House,11,REP,Robert E. Pope,246
+Wayne,Dearborn Heights City 2,State House,11,DEM,Lauren Plawecki,516
+Wayne,Dearborn Heights City 2,State House,11,UST,Marc Joseph Sosnowski,25
+Wayne,Dearborn Heights City 3,State House,11,REP,Robert E. Pope,92
+Wayne,Dearborn Heights City 3,State House,11,DEM,Lauren Plawecki,449
+Wayne,Dearborn Heights City 3,State House,11,UST,Marc Joseph Sosnowski,20
+Wayne,Dearborn Heights City 4,State House,11,REP,Robert E. Pope,118
+Wayne,Dearborn Heights City 4,State House,11,DEM,Lauren Plawecki,573
+Wayne,Dearborn Heights City 4,State House,11,UST,Marc Joseph Sosnowski,34
+Wayne,Dearborn Heights City 5,State House,11,REP,Robert E. Pope,197
+Wayne,Dearborn Heights City 5,State House,11,DEM,Lauren Plawecki,455
+Wayne,Dearborn Heights City 5,State House,11,UST,Marc Joseph Sosnowski,32
+Wayne,Dearborn Heights City 6,State House,11,REP,Robert E. Pope,311
+Wayne,Dearborn Heights City 6,State House,11,DEM,Lauren Plawecki,550
+Wayne,Dearborn Heights City 6,State House,11,UST,Marc Joseph Sosnowski,45
+Wayne,Dearborn Heights City 7,State House,11,REP,Robert E. Pope,239
+Wayne,Dearborn Heights City 7,State House,11,DEM,Lauren Plawecki,378
+Wayne,Dearborn Heights City 7,State House,11,UST,Marc Joseph Sosnowski,36
+Wayne,Dearborn Heights City 8,State House,11,REP,Robert E. Pope,280
+Wayne,Dearborn Heights City 8,State House,11,DEM,Lauren Plawecki,658
+Wayne,Dearborn Heights City 8,State House,11,UST,Marc Joseph Sosnowski,32
+Wayne,Dearborn Heights City 9,State House,11,REP,Robert E. Pope,170
+Wayne,Dearborn Heights City 9,State House,11,DEM,Lauren Plawecki,401
+Wayne,Dearborn Heights City 9,State House,11,UST,Marc Joseph Sosnowski,18
+Wayne,Dearborn Heights City 10,State House,11,REP,Robert E. Pope,196
+Wayne,Dearborn Heights City 10,State House,11,DEM,Lauren Plawecki,435
+Wayne,Dearborn Heights City 10,State House,11,UST,Marc Joseph Sosnowski,19
+Wayne,Dearborn Heights City 11,State House,11,REP,Robert E. Pope,256
+Wayne,Dearborn Heights City 11,State House,11,DEM,Lauren Plawecki,753
+Wayne,Dearborn Heights City 11,State House,11,UST,Marc Joseph Sosnowski,31
+Wayne,Dearborn Heights City 12,State House,11,REP,Robert E. Pope,256
+Wayne,Dearborn Heights City 12,State House,11,DEM,Lauren Plawecki,835
+Wayne,Dearborn Heights City 12,State House,11,UST,Marc Joseph Sosnowski,30
+Wayne,Detroit City 61,State Senate,4,DEM,Ian Conyers,332
+Wayne,Detroit City 61,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 62,State Senate,4,DEM,Ian Conyers,177
+Wayne,Detroit City 62,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 86,State Senate,4,DEM,Ian Conyers,438
+Wayne,Detroit City 86,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 88,State Senate,4,DEM,Ian Conyers,451
+Wayne,Detroit City 88,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 162,State Senate,4,DEM,Ian Conyers,150
+Wayne,Detroit City 162,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 163,State Senate,4,DEM,Ian Conyers,464
+Wayne,Detroit City 163,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 172,State Senate,4,DEM,Ian Conyers,306
+Wayne,Detroit City 172,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 176,State Senate,4,DEM,Ian Conyers,172
+Wayne,Detroit City 176,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 178,State Senate,4,DEM,Ian Conyers,345
+Wayne,Detroit City 178,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 181,State Senate,4,DEM,Ian Conyers,137
+Wayne,Detroit City 181,State Senate,4,REP,Keith Franklin,1
+Wayne,Detroit City 182,State Senate,4,DEM,Ian Conyers,551
+Wayne,Detroit City 182,State Senate,4,REP,Keith Franklin,26
+Wayne,Detroit City 183,State Senate,4,DEM,Ian Conyers,275
+Wayne,Detroit City 183,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 184,State Senate,4,DEM,Ian Conyers,611
+Wayne,Detroit City 184,State Senate,4,REP,Keith Franklin,25
+Wayne,Detroit City 185,State Senate,4,DEM,Ian Conyers,172
+Wayne,Detroit City 185,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 186,State Senate,4,DEM,Ian Conyers,215
+Wayne,Detroit City 186,State Senate,4,REP,Keith Franklin,15
+Wayne,Detroit City 187,State Senate,4,DEM,Ian Conyers,328
+Wayne,Detroit City 187,State Senate,4,REP,Keith Franklin,19
+Wayne,Detroit City 188,State Senate,4,DEM,Ian Conyers,353
+Wayne,Detroit City 188,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 189,State Senate,4,DEM,Ian Conyers,358
+Wayne,Detroit City 189,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 190,State Senate,4,DEM,Ian Conyers,358
+Wayne,Detroit City 190,State Senate,4,REP,Keith Franklin,12
+Wayne,Detroit City 191,State Senate,4,DEM,Ian Conyers,414
+Wayne,Detroit City 191,State Senate,4,REP,Keith Franklin,19
+Wayne,Detroit City 192,State Senate,4,DEM,Ian Conyers,379
+Wayne,Detroit City 192,State Senate,4,REP,Keith Franklin,17
+Wayne,Detroit City 193,State Senate,4,DEM,Ian Conyers,373
+Wayne,Detroit City 193,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 194,State Senate,4,DEM,Ian Conyers,331
+Wayne,Detroit City 194,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 198,State Senate,4,DEM,Ian Conyers,208
+Wayne,Detroit City 198,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 199,State Senate,4,DEM,Ian Conyers,252
+Wayne,Detroit City 199,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 200,State Senate,4,DEM,Ian Conyers,322
+Wayne,Detroit City 200,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 201,State Senate,4,DEM,Ian Conyers,427
+Wayne,Detroit City 201,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 202,State Senate,4,DEM,Ian Conyers,404
+Wayne,Detroit City 202,State Senate,4,REP,Keith Franklin,26
+Wayne,Detroit City 203,State Senate,4,DEM,Ian Conyers,415
+Wayne,Detroit City 203,State Senate,4,REP,Keith Franklin,42
+Wayne,Detroit City 204,State Senate,4,DEM,Ian Conyers,404
+Wayne,Detroit City 204,State Senate,4,REP,Keith Franklin,22
+Wayne,Detroit City 205,State Senate,4,DEM,Ian Conyers,220
+Wayne,Detroit City 205,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 206,State Senate,4,DEM,Ian Conyers,266
+Wayne,Detroit City 206,State Senate,4,REP,Keith Franklin,4
+Wayne,Detroit City 207,State Senate,4,DEM,Ian Conyers,678
+Wayne,Detroit City 207,State Senate,4,REP,Keith Franklin,41
+Wayne,Detroit City 208,State Senate,4,DEM,Ian Conyers,635
+Wayne,Detroit City 208,State Senate,4,REP,Keith Franklin,31
+Wayne,Detroit City 209,State Senate,4,DEM,Ian Conyers,313
+Wayne,Detroit City 209,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 210,State Senate,4,DEM,Ian Conyers,301
+Wayne,Detroit City 210,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 211,State Senate,4,DEM,Ian Conyers,245
+Wayne,Detroit City 211,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 213,State Senate,4,DEM,Ian Conyers,236
+Wayne,Detroit City 213,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 216,State Senate,4,DEM,Ian Conyers,188
+Wayne,Detroit City 216,State Senate,4,REP,Keith Franklin,12
+Wayne,Detroit City 217,State Senate,4,DEM,Ian Conyers,486
+Wayne,Detroit City 217,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 219,State Senate,4,DEM,Ian Conyers,277
+Wayne,Detroit City 219,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 221,State Senate,4,DEM,Ian Conyers,417
+Wayne,Detroit City 221,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 222,State Senate,4,DEM,Ian Conyers,201
+Wayne,Detroit City 222,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 223,State Senate,4,DEM,Ian Conyers,494
+Wayne,Detroit City 223,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 224,State Senate,4,DEM,Ian Conyers,184
+Wayne,Detroit City 224,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 225,State Senate,4,DEM,Ian Conyers,611
+Wayne,Detroit City 225,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 226,State Senate,4,DEM,Ian Conyers,346
+Wayne,Detroit City 226,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 236,State Senate,4,DEM,Ian Conyers,575
+Wayne,Detroit City 236,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 237,State Senate,4,DEM,Ian Conyers,513
+Wayne,Detroit City 237,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 238,State Senate,4,DEM,Ian Conyers,335
+Wayne,Detroit City 238,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 239,State Senate,4,DEM,Ian Conyers,359
+Wayne,Detroit City 239,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 240,State Senate,4,DEM,Ian Conyers,421
+Wayne,Detroit City 240,State Senate,4,REP,Keith Franklin,19
+Wayne,Detroit City 241,State Senate,4,DEM,Ian Conyers,387
+Wayne,Detroit City 241,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 242,State Senate,4,DEM,Ian Conyers,481
+Wayne,Detroit City 242,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 243,State Senate,4,DEM,Ian Conyers,273
+Wayne,Detroit City 243,State Senate,4,REP,Keith Franklin,12
+Wayne,Detroit City 244,State Senate,4,DEM,Ian Conyers,443
+Wayne,Detroit City 244,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 256,State Senate,4,DEM,Ian Conyers,392
+Wayne,Detroit City 256,State Senate,4,REP,Keith Franklin,15
+Wayne,Detroit City 257,State Senate,4,DEM,Ian Conyers,662
+Wayne,Detroit City 257,State Senate,4,REP,Keith Franklin,24
+Wayne,Detroit City 258,State Senate,4,DEM,Ian Conyers,520
+Wayne,Detroit City 258,State Senate,4,REP,Keith Franklin,28
+Wayne,Detroit City 259,State Senate,4,DEM,Ian Conyers,429
+Wayne,Detroit City 259,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 260,State Senate,4,DEM,Ian Conyers,398
+Wayne,Detroit City 260,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 386,State Senate,4,DEM,Ian Conyers,402
+Wayne,Detroit City 386,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 387,State Senate,4,DEM,Ian Conyers,342
+Wayne,Detroit City 387,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 388,State Senate,4,DEM,Ian Conyers,170
+Wayne,Detroit City 388,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 389,State Senate,4,DEM,Ian Conyers,406
+Wayne,Detroit City 389,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 390,State Senate,4,DEM,Ian Conyers,168
+Wayne,Detroit City 390,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 403,State Senate,4,DEM,Ian Conyers,400
+Wayne,Detroit City 403,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 417,State Senate,4,DEM,Ian Conyers,214
+Wayne,Detroit City 417,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 418,State Senate,4,DEM,Ian Conyers,469
+Wayne,Detroit City 418,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 419,State Senate,4,DEM,Ian Conyers,275
+Wayne,Detroit City 419,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 422,State Senate,4,DEM,Ian Conyers,396
+Wayne,Detroit City 422,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 423,State Senate,4,DEM,Ian Conyers,328
+Wayne,Detroit City 423,State Senate,4,REP,Keith Franklin,31
+Wayne,Detroit City 424,State Senate,4,DEM,Ian Conyers,356
+Wayne,Detroit City 424,State Senate,4,REP,Keith Franklin,50
+Wayne,Detroit City 425,State Senate,4,DEM,Ian Conyers,408
+Wayne,Detroit City 425,State Senate,4,REP,Keith Franklin,74
+Wayne,Detroit City 426,State Senate,4,DEM,Ian Conyers,214
+Wayne,Detroit City 426,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 427,State Senate,4,DEM,Ian Conyers,383
+Wayne,Detroit City 427,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 428,State Senate,4,DEM,Ian Conyers,454
+Wayne,Detroit City 428,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 429,State Senate,4,DEM,Ian Conyers,323
+Wayne,Detroit City 429,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 430,State Senate,4,DEM,Ian Conyers,221
+Wayne,Detroit City 430,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 431,State Senate,4,DEM,Ian Conyers,296
+Wayne,Detroit City 431,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 432,State Senate,4,DEM,Ian Conyers,351
+Wayne,Detroit City 432,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 433,State Senate,4,DEM,Ian Conyers,293
+Wayne,Detroit City 433,State Senate,4,REP,Keith Franklin,15
+Wayne,Detroit City 434,State Senate,4,DEM,Ian Conyers,361
+Wayne,Detroit City 434,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 435,State Senate,4,DEM,Ian Conyers,164
+Wayne,Detroit City 435,State Senate,4,REP,Keith Franklin,12
+Wayne,Detroit City 436,State Senate,4,DEM,Ian Conyers,427
+Wayne,Detroit City 436,State Senate,4,REP,Keith Franklin,30
+Wayne,Detroit City 437,State Senate,4,DEM,Ian Conyers,287
+Wayne,Detroit City 437,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 438,State Senate,4,DEM,Ian Conyers,256
+Wayne,Detroit City 438,State Senate,4,REP,Keith Franklin,15
+Wayne,Detroit City 442,State Senate,4,DEM,Ian Conyers,164
+Wayne,Detroit City 442,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 444,State Senate,4,DEM,Ian Conyers,295
+Wayne,Detroit City 444,State Senate,4,REP,Keith Franklin,9
+Wayne,Detroit City 445,State Senate,4,DEM,Ian Conyers,258
+Wayne,Detroit City 445,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 446,State Senate,4,DEM,Ian Conyers,251
+Wayne,Detroit City 446,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 447,State Senate,4,DEM,Ian Conyers,446
+Wayne,Detroit City 447,State Senate,4,REP,Keith Franklin,29
+Wayne,Detroit City 448,State Senate,4,DEM,Ian Conyers,194
+Wayne,Detroit City 448,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 449,State Senate,4,DEM,Ian Conyers,341
+Wayne,Detroit City 449,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 450,State Senate,4,DEM,Ian Conyers,10
+Wayne,Detroit City 450,State Senate,4,REP,Keith Franklin,0
+Wayne,Detroit City 451,State Senate,4,DEM,Ian Conyers,199
+Wayne,Detroit City 451,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 452,State Senate,4,DEM,Ian Conyers,234
+Wayne,Detroit City 452,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 453,State Senate,4,DEM,Ian Conyers,223
+Wayne,Detroit City 453,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 454,State Senate,4,DEM,Ian Conyers,4
+Wayne,Detroit City 454,State Senate,4,REP,Keith Franklin,0
+Wayne,Detroit City 459,State Senate,4,DEM,Ian Conyers,10
+Wayne,Detroit City 459,State Senate,4,REP,Keith Franklin,0
+Wayne,Detroit City 470,State Senate,4,DEM,Ian Conyers,348
+Wayne,Detroit City 470,State Senate,4,REP,Keith Franklin,73
+Wayne,Detroit City 480,State Senate,4,DEM,Ian Conyers,325
+Wayne,Detroit City 480,State Senate,4,REP,Keith Franklin,79
+Wayne,Detroit City 481,State Senate,4,DEM,Ian Conyers,377
+Wayne,Detroit City 481,State Senate,4,REP,Keith Franklin,63
+Wayne,Detroit City 482,State Senate,4,DEM,Ian Conyers,444
+Wayne,Detroit City 482,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 483,State Senate,4,DEM,Ian Conyers,465
+Wayne,Detroit City 483,State Senate,4,REP,Keith Franklin,20
+Wayne,Detroit City 484,State Senate,4,DEM,Ian Conyers,410
+Wayne,Detroit City 484,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 485,State Senate,4,DEM,Ian Conyers,526
+Wayne,Detroit City 485,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 486,State Senate,4,DEM,Ian Conyers,122
+Wayne,Detroit City 486,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 488,State Senate,4,DEM,Ian Conyers,264
+Wayne,Detroit City 488,State Senate,4,REP,Keith Franklin,69
+Wayne,Detroit City 933 AVCB,State Senate,4,DEM,Ian Conyers,282
+Wayne,Detroit City 933 AVCB,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 934 AVCB,State Senate,4,DEM,Ian Conyers,315
+Wayne,Detroit City 934 AVCB,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 935 AVCB,State Senate,4,DEM,Ian Conyers,339
+Wayne,Detroit City 935 AVCB,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 936 AVCB,State Senate,4,DEM,Ian Conyers,365
+Wayne,Detroit City 936 AVCB,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 937 AVCB,State Senate,4,DEM,Ian Conyers,326
+Wayne,Detroit City 937 AVCB,State Senate,4,REP,Keith Franklin,17
+Wayne,Detroit City 938 AVCB,State Senate,4,DEM,Ian Conyers,344
+Wayne,Detroit City 938 AVCB,State Senate,4,REP,Keith Franklin,12
+Wayne,Detroit City 939 AVCB,State Senate,4,DEM,Ian Conyers,324
+Wayne,Detroit City 939 AVCB,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 940 AVCB,State Senate,4,DEM,Ian Conyers,412
+Wayne,Detroit City 940 AVCB,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 941 AVCB,State Senate,4,DEM,Ian Conyers,372
+Wayne,Detroit City 941 AVCB,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 942 AVCB,State Senate,4,DEM,Ian Conyers,387
+Wayne,Detroit City 942 AVCB,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 943 AVCB,State Senate,4,DEM,Ian Conyers,347
+Wayne,Detroit City 943 AVCB,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 953 AVCB,State Senate,4,DEM,Ian Conyers,263
+Wayne,Detroit City 953 AVCB,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 954 AVCB,State Senate,4,DEM,Ian Conyers,345
+Wayne,Detroit City 954 AVCB,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 962 AVCB,State Senate,4,DEM,Ian Conyers,210
+Wayne,Detroit City 962 AVCB,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 963 AVCB,State Senate,4,DEM,Ian Conyers,247
+Wayne,Detroit City 963 AVCB,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 964 AVCB,State Senate,4,DEM,Ian Conyers,148
+Wayne,Detroit City 964 AVCB,State Senate,4,REP,Keith Franklin,36
+Wayne,Detroit City 965 AVCB,State Senate,4,DEM,Ian Conyers,226
+Wayne,Detroit City 965 AVCB,State Senate,4,REP,Keith Franklin,64
+Wayne,Detroit City 966 AVCB,State Senate,4,DEM,Ian Conyers,344
+Wayne,Detroit City 966 AVCB,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 967 AVCB,State Senate,4,DEM,Ian Conyers,233
+Wayne,Detroit City 967 AVCB,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 968 AVCB,State Senate,4,DEM,Ian Conyers,221
+Wayne,Detroit City 968 AVCB,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 969 AVCB,State Senate,4,DEM,Ian Conyers,225
+Wayne,Detroit City 969 AVCB,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 970 AVCB,State Senate,4,DEM,Ian Conyers,336
+Wayne,Detroit City 970 AVCB,State Senate,4,REP,Keith Franklin,13
+Wayne,Detroit City 974 AVCB,State Senate,4,DEM,Ian Conyers,332
+Wayne,Detroit City 974 AVCB,State Senate,4,REP,Keith Franklin,18
+Wayne,Detroit City 975 AVCB,State Senate,4,DEM,Ian Conyers,292
+Wayne,Detroit City 975 AVCB,State Senate,4,REP,Keith Franklin,17
+Wayne,Detroit City 991 AVCB,State Senate,4,DEM,Ian Conyers,266
+Wayne,Detroit City 991 AVCB,State Senate,4,REP,Keith Franklin,10
+Wayne,Detroit City 992 AVCB,State Senate,4,DEM,Ian Conyers,262
+Wayne,Detroit City 992 AVCB,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 1001 AVCB,State Senate,4,DEM,Ian Conyers,226
+Wayne,Detroit City 1001 AVCB,State Senate,4,REP,Keith Franklin,7
+Wayne,Detroit City 1002 AVCB,State Senate,4,DEM,Ian Conyers,301
+Wayne,Detroit City 1002 AVCB,State Senate,4,REP,Keith Franklin,11
+Wayne,Detroit City 1003 AVCB,State Senate,4,DEM,Ian Conyers,327
+Wayne,Detroit City 1003 AVCB,State Senate,4,REP,Keith Franklin,8
+Wayne,Detroit City 1004 AVCB,State Senate,4,DEM,Ian Conyers,393
+Wayne,Detroit City 1004 AVCB,State Senate,4,REP,Keith Franklin,23
+Wayne,Detroit City 1005 AVCB,State Senate,4,DEM,Ian Conyers,316
+Wayne,Detroit City 1005 AVCB,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 1006 AVCB,State Senate,4,DEM,Ian Conyers,298
+Wayne,Detroit City 1006 AVCB,State Senate,4,REP,Keith Franklin,4
+Wayne,Detroit City 1007 AVCB,State Senate,4,DEM,Ian Conyers,393
+Wayne,Detroit City 1007 AVCB,State Senate,4,REP,Keith Franklin,16
+Wayne,Detroit City 1008 AVCB,State Senate,4,DEM,Ian Conyers,402
+Wayne,Detroit City 1008 AVCB,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 1009 AVCB,State Senate,4,DEM,Ian Conyers,363
+Wayne,Detroit City 1009 AVCB,State Senate,4,REP,Keith Franklin,14
+Wayne,Detroit City 1010 AVCB,State Senate,4,DEM,Ian Conyers,352
+Wayne,Detroit City 1010 AVCB,State Senate,4,REP,Keith Franklin,5
+Wayne,Detroit City 1053 AVCB,State Senate,4,DEM,Ian Conyers,414
+Wayne,Detroit City 1053 AVCB,State Senate,4,REP,Keith Franklin,21
+Wayne,Detroit City 1056 AVCB,State Senate,4,DEM,Ian Conyers,104
+Wayne,Detroit City 1056 AVCB,State Senate,4,REP,Keith Franklin,6
+Wayne,Detroit City 1065 AVCB,State Senate,4,DEM,Ian Conyers,134
+Wayne,Detroit City 1065 AVCB,State Senate,4,REP,Keith Franklin,4
+Wayne,Detroit City 1067 AVCB,State Senate,4,DEM,Ian Conyers,45
+Wayne,Detroit City 1067 AVCB,State Senate,4,REP,Keith Franklin,1
+Wayne,Detroit City 1069 AVCB,State Senate,4,DEM,Ian Conyers,47
+Wayne,Detroit City 1069 AVCB,State Senate,4,REP,Keith Franklin,3
+Wayne,Detroit City 1070 AVCB,State Senate,4,DEM,Ian Conyers,43
+Wayne,Detroit City 1070 AVCB,State Senate,4,REP,Keith Franklin,1
+Wayne,Garden City 1,State House,11,REP,Robert E. Pope,704
+Wayne,Garden City 1,State House,11,DEM,Lauren Plawecki,723
+Wayne,Garden City 1,State House,11,UST,Marc Joseph Sosnowski,79
+Wayne,Garden City 2,State House,11,REP,Robert E. Pope,490
+Wayne,Garden City 2,State House,11,DEM,Lauren Plawecki,537
+Wayne,Garden City 2,State House,11,UST,Marc Joseph Sosnowski,72
+Wayne,Garden City 3,State House,11,REP,Robert E. Pope,582
+Wayne,Garden City 3,State House,11,DEM,Lauren Plawecki,678
+Wayne,Garden City 3,State House,11,UST,Marc Joseph Sosnowski,71
+Wayne,Garden City 4,State House,11,REP,Robert E. Pope,307
+Wayne,Garden City 4,State House,11,DEM,Lauren Plawecki,342
+Wayne,Garden City 4,State House,11,UST,Marc Joseph Sosnowski,45
+Wayne,Garden City 5,State House,11,REP,Robert E. Pope,375
+Wayne,Garden City 5,State House,11,DEM,Lauren Plawecki,367
+Wayne,Garden City 5,State House,11,UST,Marc Joseph Sosnowski,41
+Wayne,Garden City 6,State House,11,REP,Robert E. Pope,573
+Wayne,Garden City 6,State House,11,DEM,Lauren Plawecki,522
+Wayne,Garden City 6,State House,11,UST,Marc Joseph Sosnowski,78
+Wayne,Garden City 7,State House,11,REP,Robert E. Pope,536
+Wayne,Garden City 7,State House,11,DEM,Lauren Plawecki,606
+Wayne,Garden City 7,State House,11,UST,Marc Joseph Sosnowski,64
+Wayne,Garden City 8,State House,11,REP,Robert E. Pope,680
+Wayne,Garden City 8,State House,11,DEM,Lauren Plawecki,759
+Wayne,Garden City 8,State House,11,UST,Marc Joseph Sosnowski,104
+Wayne,Garden City 9,State House,11,REP,Robert E. Pope,405
+Wayne,Garden City 9,State House,11,DEM,Lauren Plawecki,559
+Wayne,Garden City 9,State House,11,UST,Marc Joseph Sosnowski,72
+Wayne,Garden City 10,State House,11,REP,Robert E. Pope,429
+Wayne,Garden City 10,State House,11,DEM,Lauren Plawecki,567
+Wayne,Garden City 10,State House,11,UST,Marc Joseph Sosnowski,63
+Wayne,Inkster City 1 Ward 1,State House,11,REP,Robert E. Pope,33
+Wayne,Inkster City 1 Ward 2,State House,11,REP,Robert E. Pope,63
+Wayne,Inkster City 1 Ward 3,State House,11,REP,Robert E. Pope,35
+Wayne,Inkster City 1 Ward 4,State House,11,REP,Robert E. Pope,133
+Wayne,Inkster City 1 Ward 5,State House,11,REP,Robert E. Pope,48
+Wayne,Inkster City 1 Ward 6,State House,11,REP,Robert E. Pope,50
+Wayne,Inkster City 1 Ward 1,State House,11,DEM,Lauren Plawecki,686
+Wayne,Inkster City 1 Ward 2,State House,11,DEM,Lauren Plawecki,861
+Wayne,Inkster City 1 Ward 3,State House,11,DEM,Lauren Plawecki,791
+Wayne,Inkster City 1 Ward 4,State House,11,DEM,Lauren Plawecki,864
+Wayne,Inkster City 1 Ward 5,State House,11,DEM,Lauren Plawecki,1096
+Wayne,Inkster City 1 Ward 6,State House,11,DEM,Lauren Plawecki,660
+Wayne,Inkster City 1 Ward 1,State House,11,UST,Marc Joseph Sosnowski,9
+Wayne,Inkster City 1 Ward 2,State House,11,UST,Marc Joseph Sosnowski,29
+Wayne,Inkster City 1 Ward 3,State House,11,UST,Marc Joseph Sosnowski,24
+Wayne,Inkster City 1 Ward 4,State House,11,UST,Marc Joseph Sosnowski,37
+Wayne,Inkster City 1 Ward 5,State House,11,UST,Marc Joseph Sosnowski,22
+Wayne,Inkster City 1 Ward 6,State House,11,UST,Marc Joseph Sosnowski,25
+Wayne,Inkster City 2 Ward 1,State House,11,REP,Robert E. Pope,13
+Wayne,Inkster City 2 Ward 2,State House,11,REP,Robert E. Pope,44
+Wayne,Inkster City 2 Ward 3,State House,11,REP,Robert E. Pope,38
+Wayne,Inkster City 2 Ward 4,State House,11,REP,Robert E. Pope,75
+Wayne,Inkster City 2 Ward 6,State House,11,REP,Robert E. Pope,81
+Wayne,Inkster City 2 Ward 1,State House,11,DEM,Lauren Plawecki,402
+Wayne,Inkster City 2 Ward 2,State House,11,DEM,Lauren Plawecki,770
+Wayne,Inkster City 2 Ward 3,State House,11,DEM,Lauren Plawecki,775
+Wayne,Inkster City 2 Ward 4,State House,11,DEM,Lauren Plawecki,746
+Wayne,Inkster City 2 Ward 6,State House,11,DEM,Lauren Plawecki,586
+Wayne,Inkster City 2 Ward 1,State House,11,UST,Marc Joseph Sosnowski,5
+Wayne,Inkster City 2 Ward 2,State House,11,UST,Marc Joseph Sosnowski,8
+Wayne,Inkster City 2 Ward 3,State House,11,UST,Marc Joseph Sosnowski,17
+Wayne,Inkster City 2 Ward 4,State House,11,UST,Marc Joseph Sosnowski,22
+Wayne,Inkster City 2 Ward 6,State House,11,UST,Marc Joseph Sosnowski,20
+Wayne,Lincoln Park City 2,State Senate,4,DEM,Ian Conyers,937
+Wayne,Lincoln Park City 2,State Senate,4,REP,Keith Franklin,406
+Wayne,Lincoln Park City 4,State Senate,4,DEM,Ian Conyers,498
+Wayne,Lincoln Park City 4,State Senate,4,REP,Keith Franklin,266
+Wayne,Lincoln Park City 6,State Senate,4,DEM,Ian Conyers,603
+Wayne,Lincoln Park City 6,State Senate,4,REP,Keith Franklin,369
+Wayne,Lincoln Park City 8,State Senate,4,DEM,Ian Conyers,595
+Wayne,Lincoln Park City 8,State Senate,4,REP,Keith Franklin,475
+Wayne,Lincoln Park City 10,State Senate,4,DEM,Ian Conyers,683
+Wayne,Lincoln Park City 10,State Senate,4,REP,Keith Franklin,477
+Wayne,Lincoln Park City 12,State Senate,4,DEM,Ian Conyers,658
+Wayne,Lincoln Park City 12,State Senate,4,REP,Keith Franklin,430
+Wayne,Lincoln Park City 14,State Senate,4,DEM,Ian Conyers,678
+Wayne,Lincoln Park City 14,State Senate,4,REP,Keith Franklin,527
+Wayne,Lincoln Park City 16,State Senate,4,DEM,Ian Conyers,862
+Wayne,Lincoln Park City 16,State Senate,4,REP,Keith Franklin,643
+Wayne,Lincoln Park City 18,State Senate,4,DEM,Ian Conyers,824
+Wayne,Lincoln Park City 18,State Senate,4,REP,Keith Franklin,644
+Wayne,Lincoln Park City 20,State Senate,4,DEM,Ian Conyers,534
+Wayne,Lincoln Park City 20,State Senate,4,REP,Keith Franklin,428
+Wayne,Lincoln Park City 22,State Senate,4,DEM,Ian Conyers,455
+Wayne,Lincoln Park City 22,State Senate,4,REP,Keith Franklin,438
+Wayne,Lincoln Park City 24,State Senate,4,DEM,Ian Conyers,396
+Wayne,Lincoln Park City 24,State Senate,4,REP,Keith Franklin,355
+Wayne,Livonia City 35A,State House,11,REP,Robert E. Pope,452
+Wayne,Livonia City 35B,State House,11,REP,Robert E. Pope,309
+Wayne,Livonia City 35C,State House,11,REP,Robert E. Pope,287
+Wayne,Livonia City 35A,State House,11,DEM,Lauren Plawecki,479
+Wayne,Livonia City 35B,State House,11,DEM,Lauren Plawecki,347
+Wayne,Livonia City 35C,State House,11,DEM,Lauren Plawecki,316
+Wayne,Livonia City 35A,State House,11,UST,Marc Joseph Sosnowski,63
+Wayne,Livonia City 35B,State House,11,UST,Marc Joseph Sosnowski,24
+Wayne,Livonia City 35C,State House,11,UST,Marc Joseph Sosnowski,26
+Wayne,Southgate City 1,State Senate,4,DEM,Ian Conyers,480
+Wayne,Southgate City 1,State Senate,4,REP,Keith Franklin,479
+Wayne,Southgate City 2,State Senate,4,DEM,Ian Conyers,492
+Wayne,Southgate City 2,State Senate,4,REP,Keith Franklin,477
+Wayne,Southgate City 3,State Senate,4,DEM,Ian Conyers,652
+Wayne,Southgate City 3,State Senate,4,REP,Keith Franklin,705
+Wayne,Southgate City 4,State Senate,4,DEM,Ian Conyers,641
+Wayne,Southgate City 4,State Senate,4,REP,Keith Franklin,514
+Wayne,Southgate City 5,State Senate,4,DEM,Ian Conyers,466
+Wayne,Southgate City 5,State Senate,4,REP,Keith Franklin,426
+Wayne,Southgate City 6,State Senate,4,DEM,Ian Conyers,404
+Wayne,Southgate City 6,State Senate,4,REP,Keith Franklin,480
+Wayne,Southgate City 7,State Senate,4,DEM,Ian Conyers,341
+Wayne,Southgate City 7,State Senate,4,REP,Keith Franklin,302
+Wayne,Southgate City 8,State Senate,4,DEM,Ian Conyers,563
+Wayne,Southgate City 8,State Senate,4,REP,Keith Franklin,482
+Wayne,Southgate City 9,State Senate,4,DEM,Ian Conyers,501
+Wayne,Southgate City 9,State Senate,4,REP,Keith Franklin,506
+Wayne,Southgate City 10,State Senate,4,DEM,Ian Conyers,418
+Wayne,Southgate City 10,State Senate,4,REP,Keith Franklin,347
+Wayne,Southgate City 11,State Senate,4,DEM,Ian Conyers,276
+Wayne,Southgate City 11,State Senate,4,REP,Keith Franklin,281
+Wayne,Southgate City 12,State Senate,4,DEM,Ian Conyers,613
+Wayne,Southgate City 12,State Senate,4,REP,Keith Franklin,508
+Wayne,Southgate City 13,State Senate,4,DEM,Ian Conyers,402
+Wayne,Southgate City 13,State Senate,4,REP,Keith Franklin,356
+Wayne,Southgate City 14,State Senate,4,DEM,Ian Conyers,461
+Wayne,Southgate City 14,State Senate,4,REP,Keith Franklin,303
+Wayne,Westland City 12,State House,11,REP,Robert E. Pope,320
+Wayne,Westland City 12,State House,11,DEM,Lauren Plawecki,471
+Wayne,Westland City 12,State House,11,UST,Marc Joseph Sosnowski,36
+Wayne,Westland City 25,State House,11,REP,Robert E. Pope,537
+Wayne,Westland City 25,State House,11,DEM,Lauren Plawecki,685
+Wayne,Westland City 25,State House,11,UST,Marc Joseph Sosnowski,47
+Wayne,Westland City 30,State House,11,REP,Robert E. Pope,441
+Wayne,Westland City 30,State House,11,DEM,Lauren Plawecki,523
+Wayne,Westland City 30,State House,11,UST,Marc Joseph Sosnowski,59
+Wayne,Westland City 31,State House,11,REP,Robert E. Pope,61
+Wayne,Westland City 31,State House,11,DEM,Lauren Plawecki,254
+Wayne,Westland City 31,State House,11,UST,Marc Joseph Sosnowski,16
+Wayne,Westland City 35,State House,11,REP,Robert E. Pope,294
+Wayne,Westland City 35,State House,11,DEM,Lauren Plawecki,368
+Wayne,Westland City 35,State House,11,UST,Marc Joseph Sosnowski,53

@@ -1,0 +1,163 @@
+county,precinct,office,district,party,candidate,votes
+Eaton,Brookfield Township 1,State House,65,REP,Mike Shirkey,330
+Eaton,Brookfield Township 1,State House,65,DEM,Janet C. Rochefort,198
+Eaton,Hamlin Township 1,State House,65,REP,Mike Shirkey,744
+Eaton,Hamlin Township 1,State House,65,DEM,Janet C. Rochefort,474
+Eaton,Eaton Rapids City 1,State House,65,REP,Mike Shirkey,256
+Eaton,Eaton Rapids City 1,State House,65,DEM,Janet C. Rochefort,160
+Eaton,Eaton Rapids City 2,State House,65,REP,Mike Shirkey,253
+Eaton,Eaton Rapids City 2,State House,65,DEM,Janet C. Rochefort,174
+Eaton,Eaton Rapids City 3,State House,65,REP,Mike Shirkey,396
+Eaton,Eaton Rapids City 3,State House,65,DEM,Janet C. Rochefort,220
+Jackson,Blackman Township 1,State House,65,REP,Mike Shirkey,177
+Jackson,Blackman Township 1,State House,65,DEM,Janet C. Rochefort,206
+Jackson,Blackman Township 2,State House,65,REP,Mike Shirkey,178
+Jackson,Blackman Township 2,State House,65,DEM,Janet C. Rochefort,132
+Jackson,Blackman Township 3,State House,65,REP,Mike Shirkey,126
+Jackson,Blackman Township 3,State House,65,DEM,Janet C. Rochefort,109
+Jackson,Blackman Township 4,State House,65,REP,Mike Shirkey,123
+Jackson,Blackman Township 4,State House,65,DEM,Janet C. Rochefort,119
+Jackson,Blackman Township 5,State House,65,REP,Mike Shirkey,208
+Jackson,Blackman Township 5,State House,65,DEM,Janet C. Rochefort,162
+Jackson,Blackman Township 6,State House,65,REP,Mike Shirkey,405
+Jackson,Blackman Township 6,State House,65,DEM,Janet C. Rochefort,190
+Jackson,Blackman Township 7,State House,65,REP,Mike Shirkey,457
+Jackson,Blackman Township 7,State House,65,DEM,Janet C. Rochefort,215
+Jackson,Blackman Township 8,State House,65,REP,Mike Shirkey,404
+Jackson,Blackman Township 8,State House,65,DEM,Janet C. Rochefort,227
+Jackson,Blackman Township 901 AVCB,State House,65,REP,Mike Shirkey,856
+Jackson,Blackman Township 901 AVCB,State House,65,DEM,Janet C. Rochefort,529
+Jackson,Columbia Township 1,State House,65,REP,Mike Shirkey,320
+Jackson,Columbia Township 1,State House,65,DEM,Janet C. Rochefort,172
+Jackson,Columbia Township 2,State House,65,REP,Mike Shirkey,585
+Jackson,Columbia Township 2,State House,65,DEM,Janet C. Rochefort,268
+Jackson,Columbia Township 3,State House,65,REP,Mike Shirkey,870
+Jackson,Columbia Township 3,State House,65,DEM,Janet C. Rochefort,409
+Jackson,Columbia Township 4,State House,65,REP,Mike Shirkey,284
+Jackson,Columbia Township 4,State House,65,DEM,Janet C. Rochefort,142
+Jackson,Grass Lake Township 1,State House,65,REP,Mike Shirkey,550
+Jackson,Grass Lake Township 1,State House,65,DEM,Janet C. Rochefort,300
+Jackson,Grass Lake Township 2,State House,65,REP,Mike Shirkey,415
+Jackson,Grass Lake Township 2,State House,65,DEM,Janet C. Rochefort,195
+Jackson,Grass Lake Township 3,State House,65,REP,Mike Shirkey,210
+Jackson,Grass Lake Township 3,State House,65,DEM,Janet C. Rochefort,124
+Jackson,Grass Lake Township 901 AVCB,State House,65,REP,Mike Shirkey,304
+Jackson,Grass Lake Township 901 AVCB,State House,65,DEM,Janet C. Rochefort,118
+Jackson,Henrietta Township 1,State House,65,REP,Mike Shirkey,470
+Jackson,Henrietta Township 1,State House,65,DEM,Janet C. Rochefort,303
+Jackson,Henrietta Township 2,State House,65,REP,Mike Shirkey,423
+Jackson,Henrietta Township 2,State House,65,DEM,Janet C. Rochefort,316
+Jackson,Leoni Township 1,State House,65,REP,Mike Shirkey,710
+Jackson,Leoni Township 1,State House,65,DEM,Janet C. Rochefort,476
+Jackson,Leoni Township 2,State House,65,REP,Mike Shirkey,437
+Jackson,Leoni Township 2,State House,65,DEM,Janet C. Rochefort,299
+Jackson,Leoni Township 3,State House,65,REP,Mike Shirkey,435
+Jackson,Leoni Township 3,State House,65,DEM,Janet C. Rochefort,368
+Jackson,Leoni Township 4,State House,65,REP,Mike Shirkey,717
+Jackson,Leoni Township 4,State House,65,DEM,Janet C. Rochefort,479
+Jackson,Leoni Township 5,State House,65,REP,Mike Shirkey,112
+Jackson,Leoni Township 5,State House,65,DEM,Janet C. Rochefort,64
+Jackson,Liberty Township 1,State House,65,REP,Mike Shirkey,522
+Jackson,Liberty Township 1,State House,65,DEM,Janet C. Rochefort,206
+Jackson,Liberty Township 2,State House,65,REP,Mike Shirkey,365
+Jackson,Liberty Township 2,State House,65,DEM,Janet C. Rochefort,144
+Jackson,Norvell Township 1,State House,65,REP,Mike Shirkey,352
+Jackson,Norvell Township 1,State House,65,DEM,Janet C. Rochefort,176
+Jackson,Norvell Township 2,State House,65,REP,Mike Shirkey,419
+Jackson,Norvell Township 2,State House,65,DEM,Janet C. Rochefort,247
+Jackson,Rives Township 1,State House,65,REP,Mike Shirkey,590
+Jackson,Rives Township 1,State House,65,DEM,Janet C. Rochefort,258
+Jackson,Rives Township 2,State House,65,REP,Mike Shirkey,500
+Jackson,Rives Township 2,State House,65,DEM,Janet C. Rochefort,242
+Jackson,Springport Township 1,State House,65,REP,Mike Shirkey,411
+Jackson,Springport Township 1,State House,65,DEM,Janet C. Rochefort,166
+Jackson,Tompkins Township 1,State House,65,REP,Mike Shirkey,588
+Jackson,Tompkins Township 1,State House,65,DEM,Janet C. Rochefort,362
+Jackson,Waterloo Township 1,State House,65,REP,Mike Shirkey,517
+Jackson,Waterloo Township 1,State House,65,DEM,Janet C. Rochefort,399
+Lenawee,Cambridge Township 1,State House,65,REP,Mike Shirkey,459
+Lenawee,Cambridge Township 1,State House,65,DEM,Janet C. Rochefort,228
+Lenawee,Cambridge Township 2,State House,65,REP,Mike Shirkey,334
+Lenawee,Cambridge Township 2,State House,65,DEM,Janet C. Rochefort,246
+Lenawee,Cambridge Township 3,State House,65,REP,Mike Shirkey,340
+Lenawee,Cambridge Township 3,State House,65,DEM,Janet C. Rochefort,179
+Lenawee,Cambridge Township 904 AVCB,State House,65,REP,Mike Shirkey,337
+Lenawee,Cambridge Township 904 AVCB,State House,65,DEM,Janet C. Rochefort,191
+Saginaw,Bridgeport Township 1,State House,95,DEM,Stacy Erwin Oakes,241
+Saginaw,Bridgeport Township 1,State House,95,REP,Sarge Harvey,198
+Saginaw,Bridgeport Township 2,State House,95,DEM,Stacy Erwin Oakes,358
+Saginaw,Bridgeport Township 2,State House,95,REP,Sarge Harvey,229
+Saginaw,Bridgeport Township 3,State House,95,DEM,Stacy Erwin Oakes,408
+Saginaw,Bridgeport Township 3,State House,95,REP,Sarge Harvey,464
+Saginaw,Bridgeport Township 4,State House,95,DEM,Stacy Erwin Oakes,844
+Saginaw,Bridgeport Township 4,State House,95,REP,Sarge Harvey,222
+Saginaw,Bridgeport Township 5,State House,95,DEM,Stacy Erwin Oakes,289
+Saginaw,Bridgeport Township 5,State House,95,REP,Sarge Harvey,351
+Saginaw,Buena Vista Township 1,State House,95,DEM,Stacy Erwin Oakes,176
+Saginaw,Buena Vista Township 1,State House,95,REP,Sarge Harvey,208
+Saginaw,Buena Vista Township 2,State House,95,DEM,Stacy Erwin Oakes,488
+Saginaw,Buena Vista Township 2,State House,95,REP,Sarge Harvey,37
+Saginaw,Buena Vista Township 3,State House,95,DEM,Stacy Erwin Oakes,535
+Saginaw,Buena Vista Township 3,State House,95,REP,Sarge Harvey,12
+Saginaw,Buena Vista Township 4,State House,95,DEM,Stacy Erwin Oakes,303
+Saginaw,Buena Vista Township 4,State House,95,REP,Sarge Harvey,31
+Saginaw,Buena Vista Township 5,State House,95,DEM,Stacy Erwin Oakes,580
+Saginaw,Buena Vista Township 5,State House,95,REP,Sarge Harvey,110
+Saginaw,Spaulding Township 1,State House,95,DEM,Stacy Erwin Oakes,363
+Saginaw,Spaulding Township 1,State House,95,REP,Sarge Harvey,359
+Saginaw,Saginaw City 1,State House,95,DEM,Stacy Erwin Oakes,280
+Saginaw,Saginaw City 1,State House,95,REP,Sarge Harvey,7
+Saginaw,Saginaw City 2,State House,95,DEM,Stacy Erwin Oakes,365
+Saginaw,Saginaw City 2,State House,95,REP,Sarge Harvey,9
+Saginaw,Saginaw City 3,State House,95,DEM,Stacy Erwin Oakes,611
+Saginaw,Saginaw City 3,State House,95,REP,Sarge Harvey,9
+Saginaw,Saginaw City 4A,State House,95,DEM,Stacy Erwin Oakes,235
+Saginaw,Saginaw City 4A,State House,95,REP,Sarge Harvey,8
+Saginaw,Saginaw City 4B,State House,95,DEM,Stacy Erwin Oakes,269
+Saginaw,Saginaw City 4B,State House,95,REP,Sarge Harvey,22
+Saginaw,Saginaw City 5,State House,95,DEM,Stacy Erwin Oakes,451
+Saginaw,Saginaw City 5,State House,95,REP,Sarge Harvey,17
+Saginaw,Saginaw City 6,State House,95,DEM,Stacy Erwin Oakes,398
+Saginaw,Saginaw City 6,State House,95,REP,Sarge Harvey,12
+Saginaw,Saginaw City 7,State House,95,DEM,Stacy Erwin Oakes,412
+Saginaw,Saginaw City 7,State House,95,REP,Sarge Harvey,33
+Saginaw,Saginaw City 8,State House,95,DEM,Stacy Erwin Oakes,663
+Saginaw,Saginaw City 8,State House,95,REP,Sarge Harvey,11
+Saginaw,Saginaw City 9,State House,95,DEM,Stacy Erwin Oakes,411
+Saginaw,Saginaw City 9,State House,95,REP,Sarge Harvey,26
+Saginaw,Saginaw City 10,State House,95,DEM,Stacy Erwin Oakes,360
+Saginaw,Saginaw City 10,State House,95,REP,Sarge Harvey,9
+Saginaw,Saginaw City 11,State House,95,DEM,Stacy Erwin Oakes,426
+Saginaw,Saginaw City 11,State House,95,REP,Sarge Harvey,288
+Saginaw,Saginaw City 12,State House,95,DEM,Stacy Erwin Oakes,181
+Saginaw,Saginaw City 12,State House,95,REP,Sarge Harvey,140
+Saginaw,Saginaw City 13,State House,95,DEM,Stacy Erwin Oakes,372
+Saginaw,Saginaw City 13,State House,95,REP,Sarge Harvey,260
+Saginaw,Saginaw City 14,State House,95,DEM,Stacy Erwin Oakes,311
+Saginaw,Saginaw City 14,State House,95,REP,Sarge Harvey,126
+Saginaw,Saginaw City 15,State House,95,DEM,Stacy Erwin Oakes,400
+Saginaw,Saginaw City 15,State House,95,REP,Sarge Harvey,263
+Saginaw,Saginaw City 16,State House,95,DEM,Stacy Erwin Oakes,468
+Saginaw,Saginaw City 16,State House,95,REP,Sarge Harvey,334
+Saginaw,Saginaw City 17,State House,95,DEM,Stacy Erwin Oakes,300
+Saginaw,Saginaw City 17,State House,95,REP,Sarge Harvey,294
+Saginaw,Saginaw City 18A,State House,95,DEM,Stacy Erwin Oakes,222
+Saginaw,Saginaw City 18A,State House,95,REP,Sarge Harvey,120
+Saginaw,Saginaw City 18B,State House,95,DEM,Stacy Erwin Oakes,156
+Saginaw,Saginaw City 18B,State House,95,REP,Sarge Harvey,79
+Saginaw,Saginaw City 19,State House,95,DEM,Stacy Erwin Oakes,340
+Saginaw,Saginaw City 19,State House,95,REP,Sarge Harvey,327
+Saginaw,Saginaw City 20,State House,95,DEM,Stacy Erwin Oakes,337
+Saginaw,Saginaw City 20,State House,95,REP,Sarge Harvey,164
+Saginaw,Saginaw City 901 AVCB,State House,95,DEM,Stacy Erwin Oakes,160
+Saginaw,Saginaw City 901 AVCB,State House,95,REP,Sarge Harvey,22
+Saginaw,Saginaw City 902 AVCB,State House,95,DEM,Stacy Erwin Oakes,188
+Saginaw,Saginaw City 902 AVCB,State House,95,REP,Sarge Harvey,7
+Saginaw,Saginaw City 903 AVCB,State House,95,DEM,Stacy Erwin Oakes,242
+Saginaw,Saginaw City 903 AVCB,State House,95,REP,Sarge Harvey,15
+Saginaw,Saginaw City 904 AVCB,State House,95,DEM,Stacy Erwin Oakes,210
+Saginaw,Saginaw City 904 AVCB,State House,95,REP,Sarge Harvey,213
+Saginaw,Saginaw City 905 AVCB,State House,95,DEM,Stacy Erwin Oakes,259
+Saginaw,Saginaw City 905 AVCB,State House,95,REP,Sarge Harvey,256
+Saginaw,Saginaw City 906 AVCB,State House,95,DEM,Stacy Erwin Oakes,166
+Saginaw,Saginaw City 906 AVCB,State House,95,REP,Sarge Harvey,129

@@ -54,7 +54,7 @@ def buildArgumentParser():
 	parser.add_argument('--muteMissingPartyError', dest='muteMissingPartyError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
-	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
+	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False, muteMissingPartyError=False)
 	parser.add_argument('paths', metavar='path', type=str, nargs='+',
 					   help='path to a CSV file')
 

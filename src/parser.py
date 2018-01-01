@@ -124,7 +124,7 @@ class MIParser(object):
                 if row['status'] == 0:
                     electionType = 'general'
                 elif row['status'] == 8:
-                    electionType = 'special'
+                    electionType = 'special__general'
                 
                 if not electionType:
                     print(f"ERROR: Unknown status for vote: {row}")

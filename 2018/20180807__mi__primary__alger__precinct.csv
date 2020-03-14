@@ -1,0 +1,441 @@
+county,precinct,office,district,party,candidate,votes
+Alger,"Au Train Township, Precinct 1",State House,109,REP,Melody Wagner,140
+Alger,"Burt Township, Precinct 1",State House,109,REP,Melody Wagner,89
+Alger,"City of Munising, Precinct 1",State House,109,REP,Melody Wagner,149
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Melody Wagner,8
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Melody Wagner,41
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Melody Wagner,29
+Alger,"Munising Township, Precinct 1",State House,109,REP,Melody Wagner,97
+Alger,"Munising Township, Precinct 2",State House,109,REP,Melody Wagner,132
+Alger,"Onota Township, Precinct 1",State House,109,REP,Melody Wagner,56
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Melody Wagner,111
+Alger,Total,State House,109,REP,Melody Wagner,852
+Alger,"Au Train Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Burt Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"City of Munising, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Munising Township, Precinct 1",State House,109,REP,Write-ins,1
+Alger,"Munising Township, Precinct 2",State House,109,REP,Write-ins,0
+Alger,"Onota Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Write-ins,0
+Alger,Total,State House,109,REP,Write-ins,1
+Alger,"Au Train Township, Precinct 1",State House,109,DEM,Sara Cambensy,122
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Sara Cambensy,67
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Sara Cambensy,272
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Sara Cambensy,13
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Sara Cambensy,56
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Sara Cambensy,63
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Sara Cambensy,109
+Alger,"Munising Township, Precinct 2",State House,109,DEM,Sara Cambensy,93
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Sara Cambensy,71
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Sara Cambensy,181
+Alger,Total,State House,109,DEM,Sara Cambensy,1047
+Alger,"Au Train Township, Precinct 1",State House,109,DEM,Write-ins,1
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Write-ins,0
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Write-ins,1
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Write-ins,1
+Alger,"Munising Township, Precinct 2",State House,109,DEM,Write-ins,0
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Write-ins,1
+Alger,Total,State House,109,DEM,Write-ins,4
+Alger,"Au Train Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Burt Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"City of Munising, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 2",State House,109,LIB,Write-ins,0
+Alger,"Onota Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State House,109,LIB,Write-ins,0
+Alger,Total,State House,109,LIB,Write-ins,0
+Alger,"Au Train Township, Precinct 1",State Senate,38,REP,Mike Carey,64
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Mike Carey,39
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Mike Carey,71
+Alger,Grand Island Township. Precinct 1,State Senate,38,REP,Mike Carey,5
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Mike Carey,14
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Mike Carey,11
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Mike Carey,39
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,REP,Mike Carey,56
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Mike Carey,39
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Mike Carey,37
+Alger,Total,State Senate,38,REP,Mike Carey,375
+Alger,"Au Train Township, Precinct 1",State Senate,38,REP,Ed McBroom,106
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Ed McBroom,61
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Ed McBroom,104
+Alger,Grand Island Township. Precinct 1,State Senate,38,REP,Ed McBroom,3
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Ed McBroom,33
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Ed McBroom,27
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Ed McBroom,79
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,REP,Ed McBroom,82
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Ed McBroom,25
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Ed McBroom,97
+Alger,Total,State Senate,38,REP,Ed McBroom,617
+Alger,"Au Train Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"Burt Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"City of Munising, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,Grand Island Township. Precinct 1,State Senate,38,REP,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"Munising Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,REP,Write-ins,0
+Alger,"Onota Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Alger,Total,State Senate,38,REP,Write-ins,0
+Alger,"Au Train Township, Precinct 1",State Senate,38,DEM,Scott Dianda,115
+Alger,"Burt Township, Precinct 1",State Senate,38,DEM,Scott Dianda,62
+Alger,"City of Munising, Precinct 1",State Senate,38,DEM,Scott Dianda,253
+Alger,Grand Island Township. Precinct 1,State Senate,38,DEM,Scott Dianda,11
+Alger,"Limestone Township, Precinct 1",State Senate,38,DEM,Scott Dianda,56
+Alger,"Mathias Township, Precinct 1",State Senate,38,DEM,Scott Dianda,57
+Alger,"Munising Township, Precinct 1",State Senate,38,DEM,Scott Dianda,99
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,DEM,Scott Dianda,87
+Alger,"Onota Township, Precinct 1",State Senate,38,DEM,Scott Dianda,66
+Alger,"Rock River Township, Precinct 1",State Senate,38,DEM,Scott Dianda,172
+Alger,Total,State Senate,38,DEM,Scott Dianda,978
+Alger,"Au Train Township, Precinct 1",State Senate,38,DEM,Write-ins,2
+Alger,"Burt Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Alger,"City of Munising, Precinct 1",State Senate,38,DEM,Write-ins,1
+Alger,Grand Island Township. Precinct 1,State Senate,38,DEM,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State Senate,38,DEM,Write-ins,2
+Alger,"Munising Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,DEM,Write-ins,0
+Alger,"Onota Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State Senate,38,DEM,Write-ins,2
+Alger,Total,State Senate,38,DEM,Write-ins,8
+Alger,"Au Train Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"Burt Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"City of Munising, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,Grand Island Township. Precinct 1,State Senate,38,LIB,Write-ins,0
+Alger,"Limestone Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"Mathias Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"Muntsmg Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Alger,"Onota Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,"Rock River Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Alger,Total,State Senate,38,LIB,Write-ins,0
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,REP,John James,109
+Alger,"Burt Township, Precinct 1",U.S. Senator,,REP,John James,73
+Alger,"City of Munising, Precinct 1",U.S. Senator,,REP,John James,98
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,REP,John James,3
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,REP,John James,37
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,REP,John James,21
+Alger,"Munising Township, Precinct 1",U.S. Senator,,REP,John James,78
+Alger,"Munising Township, Precinct 2",U.S. Senator,,REP,John James,92
+Alger,"Onota Township, Precinct 1",U.S. Senator,,REP,John James,42
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,REP,John James,77
+Alger,Total,U.S. Senator,,REP,John James,630
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,59
+Alger,"Burt Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,25
+Alger,"City of Munising, Precinct 1",U.S. Senator,,REP,Sandy Pensler,73
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,REP,Sandy Pensler,5
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,13
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,15
+Alger,"Munising Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,33
+Alger,"Munising Township, Precinct 2",U.S. Senator,,REP,Sandy Pensler,56
+Alger,"Onota Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,20
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,REP,Sandy Pensler,50
+Alger,Total,U.S. Senator,,REP,Sandy Pensler,349
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Burt Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"City of Munising, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Munising Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Munising Township, Precinct 2",U.S. Senator,,REP,William F. White,0
+Alger,"Onota Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,REP,William F. White,0
+Alger,Total,U.S. Senator,,REP,William F. White,0
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Burt Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"City of Munising, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Munising Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Munising Township, Precinct 2",U.S. Senator,,REP,Write-ins,0
+Alger,"Onota Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,REP,Write-ins,0
+Alger,Total,U.S. Senator,,REP,Write-ins,0
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,122
+Alger,"Burt Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,74
+Alger,"City of Munising, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,269
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,DEM,Debbie Stabenow,13
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,55
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,62
+Alger,"Munising Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,113
+Alger,"Munising Township, Precinct 2",U.S. Senator,,DEM,Debbie Stabenow,94
+Alger,"Onota Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,75
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,DEM,Debbie Stabenow,183
+Alger,Total,U.S. Senator,,DEM,Debbie Stabenow,1060
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,DEM,Write-ins,4
+Alger,"Burt Township, Precinct 1",U.S. Senator,,DEM,Write-ins,1
+Alger,"City of Munising, Precinct 1",U.S. Senator,,DEM,Write-ins,1
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,DEM,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,DEM,Write-ins,1
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,DEM,Write-ins,0
+Alger,"Munising Township, Precinct 1",U.S. Senator,,DEM,Write-ins,0
+Alger,"Munising Township, Precinct 2",U.S. Senator,,DEM,Write-ins,2
+Alger,"Onota Township, Precinct 1",U.S. Senator,,DEM,Write-ins,0
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,DEM,Write-ins,2
+Alger,Total,U.S. Senator,,DEM,Write-ins,11
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Burt Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"City of Munising, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Munising Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Munising Township, Precinct 2",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Onota Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,LIB,Tim Yow,0
+Alger,Total,U.S. Senator,,LIB,Tim Yow,0
+Alger,"Au Train Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Burt Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"City of Munising, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Grand Island Township, Precmct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Mathias Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 2",U.S. Senator,,LIB,Write-ins,0
+Alger,"Onota Township, Precinct 1",U.S. Senator,,LIB,Write-ins,1
+Alger,"Rock River Township, Precinct 1",U.S. Senator,,LIB,Write-ins,0
+Alger,Total,U.S. Senator,,LIB,Write-ins,1
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Brian Calley,46
+Alger,"Burt Township, Precinct 1",Governor,,REP,Brian Calley,16
+Alger,"City of Munising, Precinct 1",Governor,,REP,Brian Calley,49
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Brian Calley,3
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Brian Calley,12
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Brian Calley,7
+Alger,"Munising Township, Precinct 1",Governor,,REP,Brian Calley,33
+Alger,"Munising Township, Precinct 2",Governor,,REP,Brian Calley,33
+Alger,"Onota Township, Precinct 1",Governor,,REP,Brian Calley,20
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Brian Calley,34
+Alger,Total,Governor,,REP,Brian Calley,253
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Patrick Colbeck,21
+Alger,"Burt Township, Precinct 1",Governor,,REP,Patrick Colbeck,5
+Alger,"City of Munising, Precinct 1",Governor,,REP,Patrick Colbeck,13
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Patrick Colbeck,12
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Alger,"Munising Township, Precinct 1",Governor,,REP,Patrick Colbeck,15
+Alger,"Munising Township, Precinct 2",Governor,,REP,Patrick Colbeck,16
+Alger,"Onota Township, Precinct 1",Governor,,REP,Patrick Colbeck,10
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Patrick Colbeck,16
+Alger,Total,Governor,,REP,Patrick Colbeck,112
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Jim Hines,23
+Alger,"Burt Township, Precinct 1",Governor,,REP,Jim Hines,16
+Alger,"City of Munising, Precinct 1",Governor,,REP,Jim Hines,40
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Jim Hines,0
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Jim Hines,13
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Jim Hines,9
+Alger,"Munising Township, Precinct 1",Governor,,REP,Jim Hines,24
+Alger,"Munising Township, Precinct 2",Governor,,REP,Jim Hines,22
+Alger,"Onota Township, Precinct 1",Governor,,REP,Jim Hines,8
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Jim Hines,24
+Alger,Total,Governor,,REP,Jim Hines,179
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Bill Schuette,87
+Alger,"Burt Township, Precinct 1",Governor,,REP,Bill Schuette,66
+Alger,"City of Munising, Precinct 1",Governor,,REP,Bill Schuette,75
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Bill Schuette,3
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Bill Schuette,14
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Bill Schuette,20
+Alger,"Munising Township, Precinct 1",Governor,,REP,Bill Schuette,47
+Alger,"Munising Township, Precinct 2",Governor,,REP,Bill Schuette,82
+Alger,"Onota Township, Precinct 1",Governor,,REP,Bill Schuette,28
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Bill Schuette,64
+Alger,Total,Governor,,REP,Bill Schuette,486
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Burt Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"City of Munising, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Munising Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Munising Township, Precinct 2",Governor,,REP,Evan Space,0
+Alger,"Onota Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Evan Space,0
+Alger,Total,Governor,,REP,Evan Space,0
+Alger,"Au Train Township, Precinct 1",Governor,,REP,Write-ins,1
+Alger,"Burt Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"City of Munising, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"Limestone Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"Mathias Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"Munising Township, Precinct 1",Governor,,REP,Write-ins,1
+Alger,"Munising Township, Precinct 2",Governor,,REP,Write-ins,0
+Alger,"Onota Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,"Rock River Township, Precinct 1",Governor,,REP,Write-ins,0
+Alger,Total,Governor,,REP,Write-ins,2
+Alger,"Au Train Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,21
+Alger,"Burt Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,32
+Alger,"City of Munising, Precinct 1",Governor,,DEM,Abdul El-Sayed,44
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,18
+Alger,"Munising Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,17
+Alger,"Munising Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,18
+Alger,"Onota Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,29
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,55
+Alger,Total,Governor,,DEM,Abdul El-Sayed,249
+Alger,"Au Train Township, Precinct 1",Governor,,DEM,Shri Thanedar,39
+Alger,"Burt Township, Precinct 1",Governor,,DEM,Shri Thanedar,25
+Alger,"City of Munising, Precinct 1",Governor,,DEM,Shri Thanedar,90
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,Shri Thanedar,3
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,Shri Thanedar,21
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,Shri Thanedar,24
+Alger,"Munising Township, Precinct 1",Governor,,DEM,Shri Thanedar,34
+Alger,"Munising Township, Precinct 2",Governor,,DEM,Shri Thanedar,36
+Alger,"Onota Township, Precinct 1",Governor,,DEM,Shri Thanedar,9
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,Shri Thanedar,39
+Alger,Total,Governor,,DEM,Shri Thanedar,320
+Alger,"Au Train Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,67
+Alger,"Burt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,19
+Alger,"City of Munising, Precinct 1",Governor,,DEM,Gretchen Whitmer,141
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,7
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,23
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,24
+Alger,"Munising Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,63
+Alger,"Munising Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,45
+Alger,"Onota Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,42
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,94
+Alger,Total,Governor,,DEM,Gretchen Whitmer,525
+Alger,"Au Train Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Burt Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"City of Munising, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Munising Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Munising Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Alger,"Onota Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alger,Total,Governor,,DEM,William Cobbs,0
+Alger,"Au Train Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alger,"Burt Township, Precinct 1",Governor,,DEM,Write-ins,2
+Alger,"City of Munising, Precinct 1",Governor,,DEM,Write-ins,2
+Alger,"Grand Island Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alger,"Limestone Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alger,"Mathias Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alger,"Munising Township, Precinct 1",Governor,,DEM,Write-ins,3
+Alger,"Munising Township, Precinct 2",Governor,,DEM,Write-ins,1
+Alger,"Onota Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alger,"Rock River Township, Precinct 1",Governor,,DEM,Write-ins,2
+Alger,Total,Governor,,DEM,Write-ins,10
+Alger,"Au Train Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Alger,"Burt Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"City of Munising, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"Grand Island Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"Limestone Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"Mathias Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"Munising Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,"Munising Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Alger,"Onota Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Alger,"Rock River Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alger,Total,Governor,,LIB,Bill Gelineau,2
+Alger,"Au Train Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Burt Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"City of Munising, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Grand Island Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Limestone Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Mathias Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Munising Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,"Munising Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Alger,"Onota Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Alger,"Rock River Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Alger,Total,Governor,,LIB,John J. Tatar,1
+Alger,"Au Train Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Burt Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"City of Munising, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Limestone Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Mathias Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 2",Governor,,LIB,Write-ins,0
+Alger,"Onota Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,"Rock River Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alger,Total,Governor,,LIB,Write-ins,0
+Alger,"Au Train Township, Precinct 1",Registered Voters,,   ,Registered Voters,1128
+Alger,"Burt Township, Precinct 1",Registered Voters,,   ,Registered Voters,428
+Alger,"City of Munising, Precinct 1",Registered Voters,,   ,Registered Voters,1831
+Alger,Grand Island Township. Precinct 1,Registered Voters,,   ,Registered Voters,27
+Alger,Limestone township. Precinct 1,Registered Voters,,   ,Registered Voters,344
+Alger,"Mathias Township, Precinct 1",Registered Voters,,   ,Registered Voters,417
+Alger,"Mumsing Township, Precinct 1",Registered Voters,,   ,Registered Voters,743
+Alger,"Munising Township, Precinct 2",Registered Voters,,   ,Registered Voters,954
+Alger,"Onota Township, Precinct 1",Registered Voters,,   ,Registered Voters,339
+Alger,"Rock River Township, Precinct 1",Registered Voters,,   ,Registered Voters,982
+Alger,Total,Registered Voters,,   ,Registered Voters,7193
+Alger,"Au Train Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,319
+Alger,"Burt Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,190
+Alger,"City of Munising, Precinct 1",Ballots Cast,,   ,Ballots Cast,479
+Alger,Grand Island Township. Precinct 1,Ballots Cast,,   ,Ballots Cast,21
+Alger,Limestone township. Precinct 1,Ballots Cast,,   ,Ballots Cast,113
+Alger,"Mathias Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,109
+Alger,"Mumsing Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,249
+Alger,"Munising Township, Precinct 2",Ballots Cast,,   ,Ballots Cast,266
+Alger,"Onota Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,151
+Alger,"Rock River Township, Precinct 1",Ballots Cast,,   ,Ballots Cast,334
+Alger,Total,Ballots Cast,,   ,Ballots Cast,2231
+Alger,"Au Train Township, Precinct 1",U.S. House,1,REP,Jack Bergman,163
+Alger,"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,98
+Alger,"City of Munising, Precinct 1",U.S. House,1,REP,Jack Bergman,164
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,8
+Alger,"Limestone Township, Precinct 1",U.S. House,1,REP,Jack Bergman,47
+Alger,"Mathias Township, Precinct 1",U.S. House,1,REP,Jack Bergman,36
+Alger,"Munising Township, Precinct 1",U.S. House,1,REP,Jack Bergman,108
+Alger,"Munising Township, Precinct 2",U.S. House,1,REP,Jack Bergman,143
+Alger,"Onota Township, Precinct 1",U.S. House,1,REP,Jack Bergman,61
+Alger,"Rock River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,124
+Alger,Total,U.S. House,1,REP,Jack Bergman,952
+Alger,"Au Train Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Burt Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"City of Munising, Precinct 1",U.S. House,1,REP,Write-ins,1
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Mathias Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Munising Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Munising Township, Precinct 2",U.S. House,1,REP,Write-ins,0
+Alger,"Onota Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,"Rock River Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alger,Total,U.S. House,1,REP,Write-ins,1
+Alger,"Au Train Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,60
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,34
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Matthew Morgan,104
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,6
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,29
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,32
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,35
+Alger,"Munising Township, Precinct 2",U.S. House,1,DEM,Matthew Morgan,38
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,44
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,81
+Alger,Total,U.S. House,1,DEM,Matthew Morgan,463
+Alger,"Au Train Township, Precinct 1",U.S. House,1,DEM,Write-ins,10
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Write-ins,7
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Write-ins,15
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Alger,"Munising Township, Precinct 2",U.S. House,1,DEM,Write-ins,5
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Write-ins,1
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Write-ins,12
+Alger,Total,U.S. House,1,DEM,Write-ins,58
+Alger,"Au Train Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Burt Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"City of Munising, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Limestone Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Mathias Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,"Munising Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Alger,"Onota Township, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Alger,"Rock River Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alger,Total,U.S. House,1,LIB,Write-ins,1

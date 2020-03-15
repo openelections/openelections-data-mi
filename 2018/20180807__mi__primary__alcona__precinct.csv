@@ -1,0 +1,261 @@
+county,precinct,office,district,party,candidate,votes
+Alcona,Alcona,Registered Voters,,   ,,963
+Alcona,Caledonia,Registered Voters,,   ,,923
+Alcona,City Harrisville,Registered Voters,,   ,,389
+Alcona,Curtis,Registered Voters,,   ,,1026
+Alcona,Greenbush,Registered Voters,,   ,,1212
+Alcona,Gustin,Registered Voters,,   ,,611
+Alcona,Harrisville,Registered Voters,,   ,,1142
+Alcona,Hawes,Registered Voters,,   ,,884
+Alcona,Haynes,Registered Voters,,   ,,626
+Alcona,Mikado,Registered Voters,,   ,,781
+Alcona,Millen,Registered Voters,,   ,,353
+Alcona,Mitchell,Registered Voters,,   ,,327
+Alcona,Totals,Registered Voters,,   ,,9237
+Alcona,Alcona,Ballots Cast,,   ,,439
+Alcona,Caledonia,Ballots Cast,,   ,,393
+Alcona,City Harrisville,Ballots Cast,,   ,,171
+Alcona,Curtis,Ballots Cast,,   ,,349
+Alcona,Greenbush,Ballots Cast,,   ,,423
+Alcona,Gustin,Ballots Cast,,   ,,180
+Alcona,Harrisville,Ballots Cast,,   ,,430
+Alcona,Hawes,Ballots Cast,,   ,,293
+Alcona,Haynes,Ballots Cast,,   ,,275
+Alcona,Mikado,Ballots Cast,,   ,,208
+Alcona,Millen,Ballots Cast,,   ,,139
+Alcona,Mitchell,Ballots Cast,,   ,,96
+Alcona,Totals,Ballots Cast,,   ,,3396
+Alcona,Alcona,Governor,,REP,Brian Calley,55
+Alcona,Caledonia,Governor,,REP,Brian Calley,40
+Alcona,City Harrisville,Governor,,REP,Brian Calley,16
+Alcona,Curtis,Governor,,REP,Brian Calley,30
+Alcona,Greenbush,Governor,,REP,Brian Calley,56
+Alcona,Gustin,Governor,,REP,Brian Calley,22
+Alcona,Harrisville,Governor,,REP,Brian Calley,45
+Alcona,Hawes,Governor,,REP,Brian Calley,38
+Alcona,Haynes,Governor,,REP,Brian Calley,31
+Alcona,Mikado,Governor,,REP,Brian Calley,19
+Alcona,Millen,Governor,,REP,Brian Calley,7
+Alcona,Mitchell,Governor,,REP,Brian Calley,12
+Alcona,Totals,Governor,,REP,Brian Calley,371
+Alcona,Alcona,Governor,,REP,Patrick Colbeck,26
+Alcona,Caledonia,Governor,,REP,Patrick Colbeck,23
+Alcona,City Harrisville,Governor,,REP,Patrick Colbeck,15
+Alcona,Curtis,Governor,,REP,Patrick Colbeck,30
+Alcona,Greenbush,Governor,,REP,Patrick Colbeck,26
+Alcona,Gustin,Governor,,REP,Patrick Colbeck,35
+Alcona,Harrisville,Governor,,REP,Patrick Colbeck,90
+Alcona,Hawes,Governor,,REP,Patrick Colbeck,36
+Alcona,Haynes,Governor,,REP,Patrick Colbeck,20
+Alcona,Mikado,Governor,,REP,Patrick Colbeck,39
+Alcona,Millen,Governor,,REP,Patrick Colbeck,16
+Alcona,Mitchell,Governor,,REP,Patrick Colbeck,17
+Alcona,Totals,Governor,,REP,Patrick Colbeck,373
+Alcona,Alcona,Governor,,REP,Jim Hines,47
+Alcona,Caledonia,Governor,,REP,Jim Hines,45
+Alcona,City Harrisville,Governor,,REP,Jim Hines,18
+Alcona,Curtis,Governor,,REP,Jim Hines,25
+Alcona,Greenbush,Governor,,REP,Jim Hines,40
+Alcona,Gustin,Governor,,REP,Jim Hines,17
+Alcona,Harrisville,Governor,,REP,Jim Hines,29
+Alcona,Hawes,Governor,,REP,Jim Hines,27
+Alcona,Haynes,Governor,,REP,Jim Hines,32
+Alcona,Mikado,Governor,,REP,Jim Hines,17
+Alcona,Millen,Governor,,REP,Jim Hines,13
+Alcona,Mitchell,Governor,,REP,Jim Hines,7
+Alcona,Totals,Governor,,REP,Jim Hines,317
+Alcona,Alcona,Governor,,REP,Bill Schuette,164
+Alcona,Caledonia,Governor,,REP,Bill Schuette,158
+Alcona,City Harrisville,Governor,,REP,Bill Schuette,35
+Alcona,Curtis,Governor,,REP,Bill Schuette,102
+Alcona,Greenbush,Governor,,REP,Bill Schuette,126
+Alcona,Gustin,Governor,,REP,Bill Schuette,55
+Alcona,Harrisville,Governor,,REP,Bill Schuette,101
+Alcona,Hawes,Governor,,REP,Bill Schuette,109
+Alcona,Haynes,Governor,,REP,Bill Schuette,104
+Alcona,Mikado,Governor,,REP,Bill Schuette,81
+Alcona,Millen,Governor,,REP,Bill Schuette,38
+Alcona,Mitchell,Governor,,REP,Bill Schuette,29
+Alcona,Totals,Governor,,REP,Bill Schuette,1102
+Alcona,Alcona,Governor,,DEM,Abdul El-Sayed,15
+Alcona,Caledonia,Governor,,DEM,Abdul El-Sayed,5
+Alcona,City Harrisville,Governor,,DEM,Abdul El-Sayed,13
+Alcona,Curtis,Governor,,DEM,Abdul El-Sayed,21
+Alcona,Greenbush,Governor,,DEM,Abdul El-Sayed,19
+Alcona,Gustin,Governor,,DEM,Abdul El-Sayed,0
+Alcona,Harrisville,Governor,,DEM,Abdul El-Sayed,19
+Alcona,Hawes,Governor,,DEM,Abdul El-Sayed,8
+Alcona,Haynes,Governor,,DEM,Abdul El-Sayed,11
+Alcona,Mikado,Governor,,DEM,Abdul El-Sayed,6
+Alcona,Millen,Governor,,DEM,Abdul El-Sayed,10
+Alcona,Mitchell,Governor,,DEM,Abdul El-Sayed,5
+Alcona,Totals,Governor,,DEM,Abdul El-Sayed,132
+Alcona,Alcona,Governor,,DEM,Shri Thanedar,28
+Alcona,Caledonia,Governor,,DEM,Shri Thanedar,15
+Alcona,City Harrisville,Governor,,DEM,Shri Thanedar,20
+Alcona,Curtis,Governor,,DEM,Shri Thanedar,22
+Alcona,Greenbush,Governor,,DEM,Shri Thanedar,35
+Alcona,Gustin,Governor,,DEM,Shri Thanedar,10
+Alcona,Harrisville,Governor,,DEM,Shri Thanedar,20
+Alcona,Hawes,Governor,,DEM,Shri Thanedar,11
+Alcona,Haynes,Governor,,DEM,Shri Thanedar,9
+Alcona,Mikado,Governor,,DEM,Shri Thanedar,4
+Alcona,Millen,Governor,,DEM,Shri Thanedar,8
+Alcona,Mitchell,Governor,,DEM,Shri Thanedar,5
+Alcona,Totals,Governor,,DEM,Shri Thanedar,187
+Alcona,Alcona,Governor,,DEM,Gretchen Whitmer,80
+Alcona,Caledonia,Governor,,DEM,Gretchen Whitmer,68
+Alcona,City Harrisville,Governor,,DEM,Gretchen Whitmer,44
+Alcona,Curtis,Governor,,DEM,Gretchen Whitmer,90
+Alcona,Greenbush,Governor,,DEM,Gretchen Whitmer,93
+Alcona,Gustin,Governor,,DEM,Gretchen Whitmer,27
+Alcona,Harrisville,Governor,,DEM,Gretchen Whitmer,93
+Alcona,Hawes,Governor,,DEM,Gretchen Whitmer,46
+Alcona,Haynes,Governor,,DEM,Gretchen Whitmer,48
+Alcona,Mikado,Governor,,DEM,Gretchen Whitmer,32
+Alcona,Millen,Governor,,DEM,Gretchen Whitmer,36
+Alcona,Mitchell,Governor,,DEM,Gretchen Whitmer,20
+Alcona,Totals,Governor,,DEM,Gretchen Whitmer,677
+Alcona,Alcona,Governor,,LIB,Bill Gelineau,0
+Alcona,Caledonia,Governor,,LIB,Bill Gelineau,0
+Alcona,City Harrisville,Governor,,LIB,Bill Gelineau,0
+Alcona,Curtis,Governor,,LIB,Bill Gelineau,0
+Alcona,Greenbush,Governor,,LIB,Bill Gelineau,3
+Alcona,Gustin,Governor,,LIB,Bill Gelineau,0
+Alcona,Harrisville,Governor,,LIB,Bill Gelineau,0
+Alcona,Hawes,Governor,,LIB,Bill Gelineau,0
+Alcona,Haynes,Governor,,LIB,Bill Gelineau,2
+Alcona,Mikado,Governor,,LIB,Bill Gelineau,0
+Alcona,Millen,Governor,,LIB,Bill Gelineau,1
+Alcona,Mitchell,Governor,,LIB,Bill Gelineau,0
+Alcona,Totals,Governor,,LIB,Bill Gelineau,6
+Alcona,Alcona,Governor,,LIB,John J. Tatar,0
+Alcona,Caledonia,Governor,,LIB,John J. Tatar,0
+Alcona,City Harrisville,Governor,,LIB,John J. Tatar,2
+Alcona,Curtis,Governor,,LIB,John J. Tatar,0
+Alcona,Greenbush,Governor,,LIB,John J. Tatar,0
+Alcona,Gustin,Governor,,LIB,John J. Tatar,1
+Alcona,Harrisville,Governor,,LIB,John J. Tatar,0
+Alcona,Hawes,Governor,,LIB,John J. Tatar,1
+Alcona,Haynes,Governor,,LIB,John J. Tatar,0
+Alcona,Mikado,Governor,,LIB,John J. Tatar,0
+Alcona,Millen,Governor,,LIB,John J. Tatar,0
+Alcona,Mitchell,Governor,,LIB,John J. Tatar,0
+Alcona,Totals,Governor,,LIB,John J. Tatar,4
+Alcona,Alcona,U.S. Senate,,REP,John James,173
+Alcona,Caledonia,U.S. Senate,,REP,John James,150
+Alcona,City Harrisville,U.S. Senate,,REP,John James,49
+Alcona,Curtis,U.S. Senate,,REP,John James,95
+Alcona,Greenbush,U.S. Senate,,REP,John James,104
+Alcona,Gustin,U.S. Senate,,REP,John James,73
+Alcona,Harrisville,U.S. Senate,,REP,John James,155
+Alcona,Hawes,U.S. Senate,,REP,John James,121
+Alcona,Haynes,U.S. Senate,,REP,John James,121
+Alcona,Mikado,U.S. Senate,,REP,John James,90
+Alcona,Millen,U.S. Senate,,REP,John James,49
+Alcona,Mitchell,U.S. Senate,,REP,John James,41
+Alcona,Totals,U.S. Senate,,REP,John James,1221
+Alcona,Alcona,U.S. Senate,,REP,Sandy Pensler,111
+Alcona,Caledonia,U.S. Senate,,REP,Sandy Pensler,103
+Alcona,City Harrisville,U.S. Senate,,REP,Sandy Pensler,31
+Alcona,Curtis,U.S. Senate,,REP,Sandy Pensler,84
+Alcona,Greenbush,U.S. Senate,,REP,Sandy Pensler,131
+Alcona,Gustin,U.S. Senate,,REP,Sandy Pensler,45
+Alcona,Harrisville,U.S. Senate,,REP,Sandy Pensler,94
+Alcona,Hawes,U.S. Senate,,REP,Sandy Pensler,84
+Alcona,Haynes,U.S. Senate,,REP,Sandy Pensler,53
+Alcona,Mikado,U.S. Senate,,REP,Sandy Pensler,63
+Alcona,Millen,U.S. Senate,,REP,Sandy Pensler,19
+Alcona,Mitchell,U.S. Senate,,REP,Sandy Pensler,17
+Alcona,Totals,U.S. Senate,,REP,Sandy Pensler,835
+Alcona,Alcona,U.S. Senate,,DEM,Debbie Stabenow,117
+Alcona,Caledonia,U.S. Senate,,DEM,Debbie Stabenow,85
+Alcona,City Harrisville,U.S. Senate,,DEM,Debbie Stabenow,71
+Alcona,Curtis,U.S. Senate,,DEM,Debbie Stabenow,126
+Alcona,Greenbush,U.S. Senate,,DEM,Debbie Stabenow,136
+Alcona,Gustin,U.S. Senate,,DEM,Debbie Stabenow,32
+Alcona,Harrisville,U.S. Senate,,DEM,Debbie Stabenow,126
+Alcona,Hawes,U.S. Senate,,DEM,Debbie Stabenow,62
+Alcona,Haynes,U.S. Senate,,DEM,Debbie Stabenow,66
+Alcona,Mikado,U.S. Senate,,DEM,Debbie Stabenow,40
+Alcona,Millen,U.S. Senate,,DEM,Debbie Stabenow,47
+Alcona,Mitchell,U.S. Senate,,DEM,Debbie Stabenow,28
+Alcona,Totals,U.S. Senate,,DEM,Debbie Stabenow,936
+Alcona,Alcona,U.S. House,1,REP,Jack Bergman,268
+Alcona,Caledonia,U.S. House,1,REP,Jack Bergman,244
+Alcona,City Harrisville,U.S. House,1,REP,Jack Bergman,78
+Alcona,Curtis,U.S. House,1,REP,Jack Bergman,159
+Alcona,Greenbush,U.S. House,1,REP,Jack Bergman,208
+Alcona,Gustin,U.S. House,1,REP,Jack Bergman,108
+Alcona,Harrisville,U.S. House,1,REP,Jack Bergman,226
+Alcona,Hawes,U.S. House,1,REP,Jack Bergman,192
+Alcona,Haynes,U.S. House,1,REP,Jack Bergman,163
+Alcona,Mikado,U.S. House,1,REP,Jack Bergman,149
+Alcona,Millen,U.S. House,1,REP,Jack Bergman,62
+Alcona,Mitchell,U.S. House,1,REP,Jack Bergman,57
+Alcona,Totals,U.S. House,1,REP,Jack Bergman,1914
+Alcona,Alcona,State Senate,36,REP,Jim Stamas,272
+Alcona,Caledonia,State Senate,36,REP,Jim Stamas,247
+Alcona,City Harrisville,State Senate,36,REP,Jim Stamas,80
+Alcona,Curtis,State Senate,36,REP,Jim Stamas,164
+Alcona,Greenbush,State Senate,36,REP,Jim Stamas,213
+Alcona,Gustin,State Senate,36,REP,Jim Stamas,104
+Alcona,Harrisville,State Senate,36,REP,Jim Stamas,226
+Alcona,Hawes,State Senate,36,REP,Jim Stamas,195
+Alcona,Haynes,State Senate,36,REP,Jim Stamas,163
+Alcona,Mikado,State Senate,36,REP,Jim Stamas,149
+Alcona,Millen,State Senate,36,REP,Jim Stamas,66
+Alcona,Mitchell,State Senate,36,REP,Jim Stamas,55
+Alcona,Totals,State Senate,36,REP,Jim Stamas,1934
+Alcona,Alcona,State Senate,36,DEM,Joe Weir,106
+Alcona,Caledonia,State Senate,36,DEM,Joe Weir,73
+Alcona,City Harrisville,State Senate,36,DEM,Joe Weir,60
+Alcona,Curtis,State Senate,36,DEM,Joe Weir,112
+Alcona,Greenbush,State Senate,36,DEM,Joe Weir,123
+Alcona,Gustin,State Senate,36,DEM,Joe Weir,30
+Alcona,Harrisville,State Senate,36,DEM,Joe Weir,109
+Alcona,Hawes,State Senate,36,DEM,Joe Weir,53
+Alcona,Haynes,State Senate,36,DEM,Joe Weir,62
+Alcona,Mikado,State Senate,36,DEM,Joe Weir,35
+Alcona,Millen,State Senate,36,DEM,Joe Weir,40
+Alcona,Mitchell,State Senate,36,DEM,Joe Weir,26
+Alcona,Totals,State Senate,36,DEM,Joe Weir,829
+Alcona,Alcona,State House,106,REP,Sue Allor,275
+Alcona,Caledonia,State House,106,REP,Sue Allor,254
+Alcona,City Harrisville,State House,106,REP,Sue Allor,82
+Alcona,Curtis,State House,106,REP,Sue Allor,162
+Alcona,Greenbush,State House,106,REP,Sue Allor,214
+Alcona,Gustin,State House,106,REP,Sue Allor,111
+Alcona,Harrisville,State House,106,REP,Sue Allor,232
+Alcona,Hawes,State House,106,REP,Sue Allor,195
+Alcona,Haynes,State House,106,REP,Sue Allor,173
+Alcona,Mikado,State House,106,REP,Sue Allor,145
+Alcona,Millen,State House,106,REP,Sue Allor,67
+Alcona,Mitchell,State House,106,REP,Sue Allor,57
+Alcona,Totals,State House,106,REP,Sue Allor,1967
+Alcona,Alcona,State House,106,DEM,Lora Greene,94
+Alcona,Caledonia,State House,106,DEM,Lora Greene,69
+Alcona,City Harrisville,State House,106,DEM,Lora Greene,66
+Alcona,Curtis,State House,106,DEM,Lora Greene,77
+Alcona,Greenbush,State House,106,DEM,Lora Greene,112
+Alcona,Gustin,State House,106,DEM,Lora Greene,26
+Alcona,Harrisville,State House,106,DEM,Lora Greene,116
+Alcona,Hawes,State House,106,DEM,Lora Greene,45
+Alcona,Haynes,State House,106,DEM,Lora Greene,60
+Alcona,Mikado,State House,106,DEM,Lora Greene,32
+Alcona,Millen,State House,106,DEM,Lora Greene,41
+Alcona,Mitchell,State House,106,DEM,Lora Greene,21
+Alcona,Totals,State House,106,DEM,Lora Greene,759
+Alcona,Alcona,State House,106,DEM,"John E. Norton, III",17
+Alcona,Caledonia,State House,106,DEM,"John E. Norton, III",10
+Alcona,City Harrisville,State House,106,DEM,"John E. Norton, III",5
+Alcona,Curtis,State House,106,DEM,"John E. Norton, III",31
+Alcona,Greenbush,State House,106,DEM,"John E. Norton, III",18
+Alcona,Gustin,State House,106,DEM,"John E. Norton, III",10
+Alcona,Harrisville,State House,106,DEM,"John E. Norton, III",6
+Alcona,Hawes,State House,106,DEM,"John E. Norton, III",7
+Alcona,Haynes,State House,106,DEM,"John E. Norton, III",8
+Alcona,Mikado,State House,106,DEM,"John E. Norton, III",7
+Alcona,Millen,State House,106,DEM,"John E. Norton, III",3
+Alcona,Mitchell,State House,106,DEM,"John E. Norton, III",6
+Alcona,Totals,State House,106,DEM,"John E. Norton, III",128

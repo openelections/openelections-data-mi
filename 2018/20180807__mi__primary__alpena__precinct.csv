@@ -1,0 +1,664 @@
+county,precinct,office,district,party,candidate,votes
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Sue Allor,181
+Alpena,"City of Alpena, Precinct 3",State House,106,REP,Sue Allor,156
+Alpena,"City of Alpena, Precinct 4",State House,106,REP,Sue Allor,192
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Sue Allor,197
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Sue Allor,173
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Sue Allor,189
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Sue Allor,262
+Alpena,"Alpena Township, Precinct 3",State House,106,REP,Sue Allor,277
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Sue Allor,355
+Alpena,"Green Township, Precinct 1",State House,106,REP,Sue Allor,162
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Sue Allor,157
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Sue Allor,178
+Alpena,"Ossineke Township, Precinct 1",State House,106,REP,Sue Allor,274
+Alpena,"Sanborn Township, Precinct 1",State House,106,REP,Sue Allor,262
+Alpena,"Wellington Township, Precinct 1",State House,106,REP,Sue Allor,49
+Alpena,"Wilson Township, Precinct 1",State House,106,REP,Sue Allor,340
+Alpena,Total,State House,106,REP,Sue Allor,3404
+Alpena,"City of Alpena, Precinct 1",State House,106,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 3",State House,106,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 4",State House,106,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",State House,106,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",State House,106,REP,Write-ins,2
+Alpena,"Alpena Township, Precinct 1",State House,106,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 2",State House,106,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 3",State House,106,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",State House,106,REP,Write-ins,1
+Alpena,"Green Township, Precinct 1",State House,106,REP,Write-ins,2
+Alpena,"Long Rapids Township, Precinct 1",State House,106,REP,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,REP,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",State House,106,REP,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",State House,106,REP,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",State House,106,REP,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State House,106,REP,Write-ins,0
+Alpena,Total,State House,106,REP,Write-ins,11
+Alpena,"City of Alpena, Precinct 1",State House,106,DEM,Lora Greene,202
+Alpena,"City of Alpena, Precinct 3",State House,106,DEM,Lora Greene,175
+Alpena,"City of Alpena, Precinct 4",State House,106,DEM,Lora Greene,180
+Alpena,"City of Alpena, Precinct 5",State House,106,DEM,Lora Greene,228
+Alpena,"City of Alpena, Precinct 6",State House,106,DEM,Lora Greene,185
+Alpena,"Alpena Township, Precinct 1",State House,106,DEM,Lora Greene,103
+Alpena,"Alpena Township, Precinct 2",State House,106,DEM,Lora Greene,206
+Alpena,"Alpena Township, Precinct 3",State House,106,DEM,Lora Greene,222
+Alpena,"Alpena Township, Precinct 4",State House,106,DEM,Lora Greene,281
+Alpena,"Green Township, Precinct 1",State House,106,DEM,Lora Greene,67
+Alpena,"Long Rapids Township, Precinct 1",State House,106,DEM,Lora Greene,78
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,DEM,Lora Greene,98
+Alpena,"Ossineke Township, Precinct 1",State House,106,DEM,Lora Greene,74
+Alpena,"Sanborn Township, Precinct 1",State House,106,DEM,Lora Greene,146
+Alpena,"Wellington Township, Precinct 1",State House,106,DEM,Lora Greene,13
+Alpena,"Wilson Township, Precinct 1",State House,106,DEM,Lora Greene,79
+Alpena,Total,State House,106,DEM,Lora Greene,2337
+Alpena,"City of Alpena, Precinct 1",State House,106,DEM,"John E. Norton, III",32
+Alpena,"City of Alpena, Precinct 3",State House,106,DEM,"John E. Norton, III",14
+Alpena,"City of Alpena, Precinct 4",State House,106,DEM,"John E. Norton, III",14
+Alpena,"City of Alpena, Precinct 5",State House,106,DEM,"John E. Norton, III",12
+Alpena,"City of Alpena, Precinct 6",State House,106,DEM,"John E. Norton, III",16
+Alpena,"Alpena Township, Precinct 1",State House,106,DEM,"John E. Norton, III",17
+Alpena,"Alpena Township, Precinct 2",State House,106,DEM,"John E. Norton, III",20
+Alpena,"Alpena Township, Precinct 3",State House,106,DEM,"John E. Norton, III",31
+Alpena,"Alpena Township, Precinct 4",State House,106,DEM,"John E. Norton, III",34
+Alpena,"Green Township, Precinct 1",State House,106,DEM,"John E. Norton, III",16
+Alpena,"Long Rapids Township, Precinct 1",State House,106,DEM,"John E. Norton, III",5
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,DEM,"John E. Norton, III",14
+Alpena,"Ossineke Township, Precinct 1",State House,106,DEM,"John E. Norton, III",6
+Alpena,"Sanborn Township, Precinct 1",State House,106,DEM,"John E. Norton, III",17
+Alpena,"Wellington Township, Precinct 1",State House,106,DEM,"John E. Norton, III",0
+Alpena,"Wilson Township, Precinct 1",State House,106,DEM,"John E. Norton, III",12
+Alpena,Total,State House,106,DEM,"John E. Norton, III",260
+Alpena,"City of Alpena, Precinct 1",State House,106,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 3",State House,106,DEM,Write-ins,2
+Alpena,"City of Alpena, Precinct 4",State House,106,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",State House,106,DEM,Write-ins,3
+Alpena,"City of Alpena, Precinct 6",State House,106,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",State House,106,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",State House,106,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",State House,106,DEM,Write-ins,1
+Alpena,"Alpena Township, Precinct 4",State House,106,DEM,Write-ins,2
+Alpena,"Green Township, Precinct 1",State House,106,DEM,Write-ins,1
+Alpena,"Long Rapids Township, Precinct 1",State House,106,DEM,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,DEM,Write-ins,1
+Alpena,"Ossineke Township, Precinct 1",State House,106,DEM,Write-ins,1
+Alpena,"Sanborn Township, Precinct 1",State House,106,DEM,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",State House,106,DEM,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State House,106,DEM,Write-ins,0
+Alpena,Total,State House,106,DEM,Write-ins,13
+Alpena,"City of Alpena, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",State House,106,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",State House,106,LIB,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",State House,106,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",State House,106,LIB,Write-ins,1
+Alpena,"Alpena Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",State House,106,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",State House,106,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",State House,106,LIB,Write-ins,0
+Alpena,"Green Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",State House,106,LIB,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State House,106,LIB,Write-ins,0
+Alpena,Total,State House,106,LIB,Write-ins,3
+Alpena,"City of Alpena, Precinct 1",State Senate,36,REP,Jim Stamas,186
+Alpena,"City of Alpena, Precinct 3",State Senate,36,REP,Jim Stamas,155
+Alpena,"City of Alpena, Precinct 4",State Senate,36,REP,Jim Stamas,189
+Alpena,"City of Alpena, Precinct 5",State Senate,36,REP,Jim Stamas,194
+Alpena,"City of Alpena, Precinct 6",State Senate,36,REP,Jim Stamas,174
+Alpena,"Alpena Township, Precinct 1",State Senate,36,REP,Jim Stamas,192
+Alpena,"Alpena Township, Precinct 2",State Senate,36,REP,Jim Stamas,261
+Alpena,"Alpena Township, Precinct 3",State Senate,36,REP,Jim Stamas,274
+Alpena,"Alpena Township, Precinct 4",State Senate,36,REP,Jim Stamas,357
+Alpena,"Green Township, Precinct 1",State Senate,36,REP,Jim Stamas,158
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,REP,Jim Stamas,159
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,REP,Jim Stamas,179
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,REP,Jim Stamas,274
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,REP,Jim Stamas,258
+Alpena,"Wellington Township, Precinct 1",State Senate,36,REP,Jim Stamas,50
+Alpena,"Wilson Township, Precinct 1",State Senate,36,REP,Jim Stamas,336
+Alpena,Total,State Senate,36,REP,Jim Stamas,3396
+Alpena,"City of Alpena, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",State Senate,36,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",State Senate,36,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",State Senate,36,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",State Senate,36,REP,Write-ins,2
+Alpena,"Alpena Township, Precinct 1",State Senate,36,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 2",State Senate,36,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 3",State Senate,36,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",State Senate,36,REP,Write-ins,3
+Alpena,"Green Township, Precinct 1",State Senate,36,REP,Write-ins,1
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State Senate,36,REP,Write-ins,0
+Alpena,Total,State Senate,36,REP,Write-ins,9
+Alpena,"City of Alpena, Precinct 1",State Senate,36,DEM,Joe Weir,203
+Alpena,"City of Alpena, Precinct 3",State Senate,36,DEM,Joe Weir,162
+Alpena,"City of Alpena, Precinct 4",State Senate,36,DEM,Joe Weir,161
+Alpena,"City of Alpena, Precinct 5",State Senate,36,DEM,Joe Weir,195
+Alpena,"City of Alpena, Precinct 6",State Senate,36,DEM,Joe Weir,174
+Alpena,"Alpena Township, Precinct 1",State Senate,36,DEM,Joe Weir,103
+Alpena,"Alpena Township, Precinct 2",State Senate,36,DEM,Joe Weir,184
+Alpena,"Alpena Township, Precinct 3",State Senate,36,DEM,Joe Weir,230
+Alpena,"Alpena Township, Precinct 4",State Senate,36,DEM,Joe Weir,273
+Alpena,"Green Township, Precinct 1",State Senate,36,DEM,Joe Weir,76
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,DEM,Joe Weir,78
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,DEM,Joe Weir,98
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,DEM,Joe Weir,74
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,DEM,Joe Weir,152
+Alpena,"Wellington Township, Precinct 1",State Senate,36,DEM,Joe Weir,13
+Alpena,"Wilson Township, Precinct 1",State Senate,36,DEM,Joe Weir,83
+Alpena,Total,State Senate,36,DEM,Joe Weir,2259
+Alpena,"City of Alpena, Precinct 1",State Senate,36,DEM,Write-ins,2
+Alpena,"City of Alpena, Precinct 3",State Senate,36,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 4",State Senate,36,DEM,Write-ins,0
+Alpena,"City of Alpena, Precinct 5",State Senate,36,DEM,Write-ins,3
+Alpena,"City of Alpena, Precinct 6",State Senate,36,DEM,Write-ins,2
+Alpena,"Alpena Township, Precinct 1",State Senate,36,DEM,Write-ins,1
+Alpena,"Alpena Township, Precinct 2",State Senate,36,DEM,Write-ins,2
+Alpena,"Alpena Township, Precinct 3",State Senate,36,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",State Senate,36,DEM,Write-ins,2
+Alpena,"Green Township, Precinct 1",State Senate,36,DEM,Write-ins,1
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,DEM,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,DEM,Write-ins,3
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,DEM,Write-ins,1
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,DEM,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",State Senate,36,DEM,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State Senate,36,DEM,Write-ins,1
+Alpena,Total,State Senate,36,DEM,Write-ins,19
+Alpena,"City of Alpena, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",State Senate,36,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",State Senate,36,LIB,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",State Senate,36,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",State Senate,36,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",State Senate,36,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",State Senate,36,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",State Senate,36,LIB,Write-ins,1
+Alpena,"Green Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",State Senate,36,LIB,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",State Senate,36,LIB,Write-ins,0
+Alpena,Total,State Senate,36,LIB,Write-ins,3
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,REP,Jack Bergman,184
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,REP,Jack Bergman,156
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,REP,Jack Bergman,184
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,REP,Jack Bergman,194
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,REP,Jack Bergman,182
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,REP,Jack Bergman,193
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,REP,Jack Bergman,256
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,REP,Jack Bergman,274
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,REP,Jack Bergman,356
+Alpena,"Green Township, Precinct 1",U.S. House,1,REP,Jack Bergman,159
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,REP,Jack Bergman,154
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Jack Bergman,175
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,REP,Jack Bergman,278
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,REP,Jack Bergman,259
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,REP,Jack Bergman,50
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,REP,Jack Bergman,337
+Alpena,Total,U.S. House,1,REP,Jack Bergman,3391
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,REP,Write-ins,3
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,REP,Write-ins,2
+Alpena,"Green Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Alpena,Total,U.S. House,1,REP,Write-ins,11
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,DEM,Write-ins,53
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,DEM,Write-ins,59
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,DEM,Write-ins,62
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,DEM,Write-ins,94
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,DEM,Write-ins,72
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,DEM,Write-ins,40
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,DEM,Write-ins,71
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,DEM,Write-ins,66
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,DEM,Write-ins,92
+Alpena,"Green Township, Precinct 1",U.S. House,1,DEM,Write-ins,23
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,DEM,Write-ins,19
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,DEM,Write-ins,28
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,DEM,Write-ins,33
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,DEM,Write-ins,47
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,DEM,Write-ins,5
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,DEM,Write-ins,12
+Alpena,Total,U.S. House,1,DEM,Write-ins,776
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,DEM,Matthew Morgan,35
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,DEM,Matthew Morgan,38
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,DEM,Matthew Morgan,52
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,DEM,Matthew Morgan,83
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,DEM,Matthew Morgan,57
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,33
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,DEM,Matthew Morgan,54
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,DEM,Matthew Morgan,48
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,DEM,Matthew Morgan,71
+Alpena,"Green Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,18
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,9
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,14
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,21
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,34
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,1
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,6
+Alpena,Total,U.S. House,1,DEM,Matthew Morgan,574
+Alpena,"City of Alpena, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",U.S. House,1,LIB,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",U.S. House,1,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",U.S. House,1,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",U.S. House,1,LIB,Write-ins,0
+Alpena,"Green Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Alpena,Total,U.S. House,1,LIB,Write-ins,2
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,REP,John James,118
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,REP,John James,78
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,REP,John James,114
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,REP,John James,123
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,REP,John James,126
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,REP,John James,114
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,REP,John James,151
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,REP,John James,154
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,REP,John James,229
+Alpena,"Green Township, Precinct 1",U.S. Senate,,REP,John James,113
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,REP,John James,84
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,John James,109
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,REP,John James,189
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,REP,John James,164
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,REP,John James,34
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,REP,John James,180
+Alpena,Total,U.S. Senate,,REP,John James,2080
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,REP,Sandy Pensler,72
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,REP,Sandy Pensler,84
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,REP,Sandy Pensler,86
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,REP,Sandy Pensler,80
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,REP,Sandy Pensler,56
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,91
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,128
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,132
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,REP,Sandy Pensler,153
+Alpena,"Green Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,70
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,78
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,76
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,95
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,106
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,19
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,165
+Alpena,Total,U.S. Senate,,REP,Sandy Pensler,1491
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,REP,Write-ins,1
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,REP,Write-ins,2
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,REP,Write-ins,2
+Alpena,"Green Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Alpena,Total,U.S. Senate,,REP,Write-ins,5
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,REP,William F White,0
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,REP,William F White,0
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,REP,William F White,0
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,REP,William F White,0
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,REP,William F White,0
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,REP,William F White,0
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,REP,William F White,0
+Alpena,"Green Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,REP,William F White,0
+Alpena,Total,U.S. Senate,,REP,William F White,0
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,226
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,186
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,173
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,DEM,Debbie Stabenow,223
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,DEM,Debbie Stabenow,200
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,118
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,212
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,262
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,303
+Alpena,"Green Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,80
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,85
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,110
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,78
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,165
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,14
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,92
+Alpena,Total,U.S. Senate,,DEM,Debbie Stabenow,2527
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,DEM,Write-ins,2
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,DEM,Write-ins,3
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,DEM,Write-ins,5
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,DEM,Write-ins,1
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,DEM,Write-ins,1
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Green Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Alpena,Total,U.S. Senate,,DEM,Write-ins,17
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,LIB,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,LIB,Write-ins,1
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,LIB,Write-ins,1
+Alpena,"Green Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Alpena,Total,U.S. Senate,,LIB,Write-ins,4
+Alpena,"City of Alpena, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"City of Alpena, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"City of Alpena, Precinct 4",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"City of Alpena, Precinct 5",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"City of Alpena, Precinct 6",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Alpena Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Alpena Township, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Alpena Township, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Alpena Township, Precinct 4",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Green Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Long Rapids Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Maple Ridge Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Ossineke Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Sanborn Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,1
+Alpena,"Wellington Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,"Wilson Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Alpena,Total,U.S. Senate,,LIB,Tim Yow,1
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Brian Calley,34
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Brian Calley,32
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Brian Calley,42
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Brian Calley,32
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Brian Calley,42
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Brian Calley,34
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Brian Calley,46
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Brian Calley,71
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Brian Calley,69
+Alpena,"Green Township, Precinct 1",Governor,,REP,Brian Calley,40
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Brian Calley,35
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Brian Calley,25
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Brian Calley,51
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Brian Calley,46
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Brian Calley,12
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Brian Calley,70
+Alpena,Total,Governor,,REP,Brian Calley,681
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Patrick Colbeck,36
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Patrick Colbeck,23
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Patrick Colbeck,24
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Patrick Colbeck,29
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Patrick Colbeck,16
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Patrick Colbeck,19
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Patrick Colbeck,30
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Patrick Colbeck,36
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Patrick Colbeck,55
+Alpena,"Green Township, Precinct 1",Governor,,REP,Patrick Colbeck,34
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Patrick Colbeck,21
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Patrick Colbeck,11
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Patrick Colbeck,30
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Patrick Colbeck,23
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Patrick Colbeck,4
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Patrick Colbeck,59
+Alpena,Total,Governor,,REP,Patrick Colbeck,450
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Jim Hines,31
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Jim Hines,30
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Jim Hines,37
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Jim Hines,17
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Jim Hines,24
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Jim Hines,29
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Jim Hines,63
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Jim Hines,37
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Jim Hines,59
+Alpena,"Green Township, Precinct 1",Governor,,REP,Jim Hines,29
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Jim Hines,24
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Jim Hines,40
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Jim Hines,51
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Jim Hines,62
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Jim Hines,15
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Jim Hines,36
+Alpena,Total,Governor,,REP,Jim Hines,584
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Bill Schuette,94
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Bill Schuette,84
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Bill Schuette,102
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Bill Schuette,133
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Bill Schuette,111
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Bill Schuette,135
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Bill Schuette,154
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Bill Schuette,150
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Bill Schuette,217
+Alpena,"Green Township, Precinct 1",Governor,,REP,Bill Schuette,88
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Bill Schuette,86
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Bill Schuette,113
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Bill Schuette,162
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Bill Schuette,147
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Bill Schuette,23
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Bill Schuette,196
+Alpena,Total,Governor,,REP,Bill Schuette,1995
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Write-ins,1
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Write-ins,2
+Alpena,"Green Township, Precinct 1",Governor,,REP,Write-ins,1
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Write-ins,1
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Write-ins,0
+Alpena,Total,Governor,,REP,Write-ins,5
+Alpena,"City of Alpena, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"City of Alpena, Precinct 3",Governor,,REP,Evan Space,0
+Alpena,"City of Alpena, Precinct 4",Governor,,REP,Evan Space,0
+Alpena,"City of Alpena, Precinct 5",Governor,,REP,Evan Space,0
+Alpena,"City of Alpena, Precinct 6",Governor,,REP,Evan Space,0
+Alpena,"Alpena Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Alpena Township, Precinct 2",Governor,,REP,Evan Space,0
+Alpena,"Alpena Township, Precinct 3",Governor,,REP,Evan Space,0
+Alpena,"Alpena Township, Precinct 4",Governor,,REP,Evan Space,0
+Alpena,"Green Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Sanborn Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Wellington Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,"Wilson Township, Precinct 1",Governor,,REP,Evan Space,0
+Alpena,Total,Governor,,REP,Evan Space,0
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,Abdul El-Sayed,54
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,Abdul El-Sayed,37
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,Abdul El-Sayed,31
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,Abdul El-Sayed,33
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,Abdul El-Sayed,43
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,14
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,28
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,23
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Abdul El-Sayed,42
+Alpena,"Green Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,19
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,19
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,1
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,20
+Alpena,Total,Governor,,DEM,Abdul El-Sayed,394
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,Shri Thanedar,40
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,Shri Thanedar,29
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,Shri Thanedar,26
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,Shri Thanedar,22
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,Shri Thanedar,35
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Shri Thanedar,22
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,Shri Thanedar,40
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,Shri Thanedar,46
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Shri Thanedar,68
+Alpena,"Green Township, Precinct 1",Governor,,DEM,Shri Thanedar,8
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,Shri Thanedar,21
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,Shri Thanedar,15
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,Shri Thanedar,12
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,Shri Thanedar,41
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,Shri Thanedar,1
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,Shri Thanedar,13
+Alpena,Total,Governor,,DEM,Shri Thanedar,439
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,Gretchen Whitmer,145
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,Gretchen Whitmer,127
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,Gretchen Whitmer,138
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,Gretchen Whitmer,189
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,Gretchen Whitmer,132
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,88
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,167
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,199
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,219
+Alpena,"Green Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,73
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,54
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,88
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,49
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,111
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,12
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,64
+Alpena,Total,Governor,,DEM,Gretchen Whitmer,1855
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,Write-ins,1
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,Write-ins,1
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,Write-ins,0
+Alpena,"Green Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,Write-ins,2
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,Write-ins,1
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,Write-ins,0
+Alpena,Total,Governor,,DEM,Write-ins,7
+Alpena,"City of Alpena, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"City of Alpena, Precinct 3",Governor,,DEM,William Cobbs,0
+Alpena,"City of Alpena, Precinct 4",Governor,,DEM,William Cobbs,0
+Alpena,"City of Alpena, Precinct 5",Governor,,DEM,William Cobbs,0
+Alpena,"City of Alpena, Precinct 6",Governor,,DEM,William Cobbs,0
+Alpena,"Alpena Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Alpena Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Alpena,"Alpena Township, Precinct 3",Governor,,DEM,William Cobbs,0
+Alpena,"Alpena Township, Precinct 4",Governor,,DEM,William Cobbs,0
+Alpena,"Green Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Sanborn Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Wellington Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,"Wilson Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Alpena,Total,Governor,,DEM,William Cobbs,0
+Alpena,"City of Alpena, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Alpena,"City of Alpena, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Alpena,"City of Alpena, Precinct 4",Governor,,LIB,Bill Gelineau,0
+Alpena,"City of Alpena, Precinct 5",Governor,,LIB,Bill Gelineau,0
+Alpena,"City of Alpena, Precinct 6",Governor,,LIB,Bill Gelineau,3
+Alpena,"Alpena Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Alpena Township, Precinct 2",Governor,,LIB,Bill Gelineau,2
+Alpena,"Alpena Township, Precinct 3",Governor,,LIB,Bill Gelineau,4
+Alpena,"Alpena Township, Precinct 4",Governor,,LIB,Bill Gelineau,1
+Alpena,"Green Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Sanborn Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Alpena,"Wellington Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,"Wilson Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Alpena,Total,Governor,,LIB,Bill Gelineau,16
+Alpena,"City of Alpena, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"City of Alpena, Precinct 3",Governor,,LIB,John J Tatar,0
+Alpena,"City of Alpena, Precinct 4",Governor,,LIB,John J Tatar,1
+Alpena,"City of Alpena, Precinct 5",Governor,,LIB,John J Tatar,1
+Alpena,"City of Alpena, Precinct 6",Governor,,LIB,John J Tatar,0
+Alpena,"Alpena Township, Precinct 1",Governor,,LIB,John J Tatar,1
+Alpena,"Alpena Township, Precinct 2",Governor,,LIB,John J Tatar,0
+Alpena,"Alpena Township, Precinct 3",Governor,,LIB,John J Tatar,0
+Alpena,"Alpena Township, Precinct 4",Governor,,LIB,John J Tatar,2
+Alpena,"Green Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Sanborn Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Wellington Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,"Wilson Township, Precinct 1",Governor,,LIB,John J Tatar,0
+Alpena,Total,Governor,,LIB,John J Tatar,5
+Alpena,"City of Alpena, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 3",Governor,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 4",Governor,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 5",Governor,,LIB,Write-ins,0
+Alpena,"City of Alpena, Precinct 6",Governor,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 2",Governor,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 3",Governor,,LIB,Write-ins,0
+Alpena,"Alpena Township, Precinct 4",Governor,,LIB,Write-ins,0
+Alpena,"Green Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Long Rapids Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Maple Ridge Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Ossineke Township, Precinct 1",Governor,,LIB,Write-ins,1
+Alpena,"Sanborn Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Wellington Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,"Wilson Township, Precinct 1",Governor,,LIB,Write-ins,0
+Alpena,Total,Governor,,LIB,Write-ins,1
+Alpena,"City of Alpena, Precinct 1",Ballots Cast,,   ,,456
+Alpena,City of Alpena Precinct 3,Ballots Cast,,   ,,380
+Alpena,"City of Alpena, Precinct 4",Ballots Cast,,   ,,427
+Alpena,City of Alpena. Precinct 5,Ballots Cast,,   ,,473
+Alpena,City of Alpena. Precinct 6,Ballots Cast,,   ,,419
+Alpena,"Alpena Township, Precinct 1",Ballots Cast,,   ,,355
+Alpena,"Alpena Township, Precinct 2",Ballots Cast,,   ,,552
+Alpena,"Alpena Township, Precinct 3",Ballots Cast,,   ,,586
+Alpena,"Alpena Township, Precinct 4",Ballots Cast,,   ,,769
+Alpena,"Green Township, Precinct 1",Ballots Cast,,   ,,292
+Alpena,"Long Rapids Township, Precinct 1",Ballots Cast,,   ,,273
+Alpena,"Maple Ridge Township, Precinct 1",Ballots Cast,,   ,,337
+Alpena,"Ossineke Township, Precinct 1",Ballots Cast,,   ,,392
+Alpena,"Sanborn Township, Precinct 1",Ballots Cast,,   ,,468
+Alpena,"Wellington Township, Precinct 1",Ballots Cast,,   ,,71
+Alpena,"Wilson Township, Precinct 1",Ballots Cast,,   ,,479
+Alpena,Total,Ballots Cast,,   ,,6729

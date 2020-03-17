@@ -1,0 +1,305 @@
+county,precinct,office,district,party,candidate,votes
+Arenac,Adams Township,State House,97,REP,Jason Wentworth,49
+Arenac,Arenac Township,State House,97,REP,Jason Wentworth,73
+Arenac,AuGres Township,State House,97,REP,Jason Wentworth,192
+Arenac,Clayton Township,State House,97,REP,Jason Wentworth,78
+Arenac,Deep River Township,State House,97,REP,Jason Wentworth,196
+Arenac,Lincoln Township,State House,97,REP,Jason Wentworth,92
+Arenac,Mason Township,State House,97,REP,Jason Wentworth,48
+Arenac,Moffatt Township,State House,97,REP,Jason Wentworth,191
+Arenac,Sims Township,State House,97,REP,Jason Wentworth,203
+Arenac,Standish Township,State House,97,REP,Jason Wentworth,178
+Arenac,Turner Township,State House,97,REP,Jason Wentworth,67
+Arenac,Whitney Twp,State House,97,REP,Jason Wentworth,167
+Arenac,AuGres City,State House,97,REP,Jason Wentworth,142
+Arenac,Omer City,State House,97,REP,Jason Wentworth,36
+Arenac,Standish City,State House,97,REP,Jason Wentworth,99
+Arenac,Total,State House,97,REP,Jason Wentworth,1811
+Arenac,Adams Township,State House,97,DEM,Celia Yound-Wenkel,21
+Arenac,Arenac Township,State House,97,DEM,Celia Yound-Wenkel,23
+Arenac,AuGres Township,State House,97,DEM,Celia Yound-Wenkel,34
+Arenac,Clayton Township,State House,97,DEM,Celia Yound-Wenkel,42
+Arenac,Deep River Township,State House,97,DEM,Celia Yound-Wenkel,100
+Arenac,Lincoln Township,State House,97,DEM,Celia Yound-Wenkel,35
+Arenac,Mason Township,State House,97,DEM,Celia Yound-Wenkel,18
+Arenac,Moffatt Township,State House,97,DEM,Celia Yound-Wenkel,68
+Arenac,Sims Township,State House,97,DEM,Celia Yound-Wenkel,48
+Arenac,Standish Township,State House,97,DEM,Celia Yound-Wenkel,85
+Arenac,Turner Township,State House,97,DEM,Celia Yound-Wenkel,7
+Arenac,Whitney Twp,State House,97,DEM,Celia Yound-Wenkel,43
+Arenac,AuGres City,State House,97,DEM,Celia Yound-Wenkel,29
+Arenac,Omer City,State House,97,DEM,Celia Yound-Wenkel,13
+Arenac,Standish City,State House,97,DEM,Celia Yound-Wenkel,40
+Arenac,Total,State House,97,DEM,Celia Yound-Wenkel,606
+Arenac,Adams Township,State House,97,DEM,Bob Townsend,16
+Arenac,Arenac Township,State House,97,DEM,Bob Townsend,27
+Arenac,AuGres Township,State House,97,DEM,Bob Townsend,48
+Arenac,Clayton Township,State House,97,DEM,Bob Townsend,31
+Arenac,Deep River Township,State House,97,DEM,Bob Townsend,54
+Arenac,Lincoln Township,State House,97,DEM,Bob Townsend,9
+Arenac,Mason Township,State House,97,DEM,Bob Townsend,24
+Arenac,Moffatt Township,State House,97,DEM,Bob Townsend,45
+Arenac,Sims Township,State House,97,DEM,Bob Townsend,62
+Arenac,Standish Township,State House,97,DEM,Bob Townsend,71
+Arenac,Turner Township,State House,97,DEM,Bob Townsend,10
+Arenac,Whitney Twp,State House,97,DEM,Bob Townsend,34
+Arenac,AuGres City,State House,97,DEM,Bob Townsend,34
+Arenac,Omer City,State House,97,DEM,Bob Townsend,9
+Arenac,Standish City,State House,97,DEM,Bob Townsend,30
+Arenac,Total,State House,97,DEM,Bob Townsend,504
+Arenac,Adams Township,State Senate,36,REP,Jim Stamas,48
+Arenac,Arenac Township,State Senate,36,REP,Jim Stamas,73
+Arenac,AuGres Township,State Senate,36,REP,Jim Stamas,195
+Arenac,Clayton Township,State Senate,36,REP,Jim Stamas,83
+Arenac,Deep River Township,State Senate,36,REP,Jim Stamas,195
+Arenac,Lincoln Township,State Senate,36,REP,Jim Stamas,94
+Arenac,Mason Township,State Senate,36,REP,Jim Stamas,54
+Arenac,Moffatt Township,State Senate,36,REP,Jim Stamas,192
+Arenac,Sims Township,State Senate,36,REP,Jim Stamas,201
+Arenac,Standish Township,State Senate,36,REP,Jim Stamas,177
+Arenac,Turner Township,State Senate,36,REP,Jim Stamas,65
+Arenac,Whitney Twp,State Senate,36,REP,Jim Stamas,174
+Arenac,AuGres City,State Senate,36,REP,Jim Stamas,137
+Arenac,Omer City,State Senate,36,REP,Jim Stamas,36
+Arenac,Standish City,State Senate,36,REP,Jim Stamas,99
+Arenac,Total,State Senate,36,REP,Jim Stamas,1823
+Arenac,Adams Township,State Senate,36,DEM,Joe Weir,34
+Arenac,Arenac Township,State Senate,36,DEM,Joe Weir,48
+Arenac,AuGres Township,State Senate,36,DEM,Joe Weir,78
+Arenac,Clayton Township,State Senate,36,DEM,Joe Weir,69
+Arenac,Deep River Township,State Senate,36,DEM,Joe Weir,143
+Arenac,Lincoln Township,State Senate,36,DEM,Joe Weir,36
+Arenac,Mason Township,State Senate,36,DEM,Joe Weir,40
+Arenac,Moffatt Township,State Senate,36,DEM,Joe Weir,103
+Arenac,Sims Township,State Senate,36,DEM,Joe Weir,108
+Arenac,Standish Township,State Senate,36,DEM,Joe Weir,146
+Arenac,Turner Township,State Senate,36,DEM,Joe Weir,19
+Arenac,Whitney Twp,State Senate,36,DEM,Joe Weir,77
+Arenac,AuGres City,State Senate,36,DEM,Joe Weir,63
+Arenac,Omer City,State Senate,36,DEM,Joe Weir,21
+Arenac,Standish City,State Senate,36,DEM,Joe Weir,71
+Arenac,Total,State Senate,36,DEM,Joe Weir,1056
+Arenac,Adams Township,U.S. House,5,REP,Travis Wines,42
+Arenac,Arenac Township,U.S. House,5,REP,Travis Wines,68
+Arenac,AuGres Township,U.S. House,5,REP,Travis Wines,174
+Arenac,Clayton Township,U.S. House,5,REP,Travis Wines,75
+Arenac,Deep River Township,U.S. House,5,REP,Travis Wines,183
+Arenac,Lincoln Township,U.S. House,5,REP,Travis Wines,91
+Arenac,Mason Township,U.S. House,5,REP,Travis Wines,46
+Arenac,Moffatt Township,U.S. House,5,REP,Travis Wines,181
+Arenac,Sims Township,U.S. House,5,REP,Travis Wines,196
+Arenac,Standish Township,U.S. House,5,REP,Travis Wines,165
+Arenac,Turner Township,U.S. House,5,REP,Travis Wines,65
+Arenac,Whitney Twp,U.S. House,5,REP,Travis Wines,160
+Arenac,AuGres City,U.S. House,5,REP,Travis Wines,126
+Arenac,Omer City,U.S. House,5,REP,Travis Wines,33
+Arenac,Standish City,U.S. House,5,REP,Travis Wines,94
+Arenac,Total,U.S. House,5,REP,Travis Wines,1699
+Arenac,Adams Township,U.S. House,5,DEM,Daniel T. Kildee,33
+Arenac,Arenac Township,U.S. House,5,DEM,Daniel T. Kildee,57
+Arenac,AuGres Township,U.S. House,5,DEM,Daniel T. Kildee,90
+Arenac,Clayton Township,U.S. House,5,DEM,Daniel T. Kildee,72
+Arenac,Deep River Township,U.S. House,5,DEM,Daniel T. Kildee,150
+Arenac,Lincoln Township,U.S. House,5,DEM,Daniel T. Kildee,40
+Arenac,Mason Township,U.S. House,5,DEM,Daniel T. Kildee,39
+Arenac,Moffatt Township,U.S. House,5,DEM,Daniel T. Kildee,112
+Arenac,Sims Township,U.S. House,5,DEM,Daniel T. Kildee,122
+Arenac,Standish Township,U.S. House,5,DEM,Daniel T. Kildee,156
+Arenac,Turner Township,U.S. House,5,DEM,Daniel T. Kildee,19
+Arenac,Whitney Twp,U.S. House,5,DEM,Daniel T. Kildee,83
+Arenac,AuGres City,U.S. House,5,DEM,Daniel T. Kildee,67
+Arenac,Omer City,U.S. House,5,DEM,Daniel T. Kildee,25
+Arenac,Standish City,U.S. House,5,DEM,Daniel T. Kildee,69
+Arenac,Total,U.S. House,5,DEM,Daniel T. Kildee,1134
+Arenac,Adams Township,U.S. Senate,,REP,Sandy Pensler,29
+Arenac,Arenac Township,U.S. Senate,,REP,Sandy Pensler,62
+Arenac,AuGres Township,U.S. Senate,,REP,Sandy Pensler,127
+Arenac,Clayton Township,U.S. Senate,,REP,Sandy Pensler,52
+Arenac,Deep River Township,U.S. Senate,,REP,Sandy Pensler,113
+Arenac,Lincoln Township,U.S. Senate,,REP,Sandy Pensler,47
+Arenac,Mason Township,U.S. Senate,,REP,Sandy Pensler,39
+Arenac,Moffatt Township,U.S. Senate,,REP,Sandy Pensler,116
+Arenac,Sims Township,U.S. Senate,,REP,Sandy Pensler,141
+Arenac,Standish Township,U.S. Senate,,REP,Sandy Pensler,100
+Arenac,Turner Township,U.S. Senate,,REP,Sandy Pensler,58
+Arenac,Whitney Twp,U.S. Senate,,REP,Sandy Pensler,100
+Arenac,AuGres City,U.S. Senate,,REP,Sandy Pensler,76
+Arenac,Omer City,U.S. Senate,,REP,Sandy Pensler,20
+Arenac,Standish City,U.S. Senate,,REP,Sandy Pensler,57
+Arenac,Total,U.S. Senate,,REP,Sandy Pensler,1137
+Arenac,Adams Township,U.S. Senate,,REP,John James,33
+Arenac,Arenac Township,U.S. Senate,,REP,John James,34
+Arenac,AuGres Township,U.S. Senate,,REP,John James,93
+Arenac,Clayton Township,U.S. Senate,,REP,John James,42
+Arenac,Deep River Township,U.S. Senate,,REP,John James,121
+Arenac,Lincoln Township,U.S. Senate,,REP,John James,57
+Arenac,Mason Township,U.S. Senate,,REP,John James,30
+Arenac,Moffatt Township,U.S. Senate,,REP,John James,111
+Arenac,Sims Township,U.S. Senate,,REP,John James,97
+Arenac,Standish Township,U.S. Senate,,REP,John James,111
+Arenac,Turner Township,U.S. Senate,,REP,John James,21
+Arenac,Whitney Twp,U.S. Senate,,REP,John James,105
+Arenac,AuGres City,U.S. Senate,,REP,John James,86
+Arenac,Omer City,U.S. Senate,,REP,John James,19
+Arenac,Standish City,U.S. Senate,,REP,John James,62
+Arenac,Total,U.S. Senate,,REP,John James,1022
+Arenac,Adams Township,U.S. Senate,,DEM,Debbie Stabenow,37
+Arenac,Arenac Township,U.S. Senate,,DEM,Debbie Stabenow,57
+Arenac,AuGres Township,U.S. Senate,,DEM,Debbie Stabenow,91
+Arenac,Clayton Township,U.S. Senate,,DEM,Debbie Stabenow,69
+Arenac,Deep River Township,U.S. Senate,,DEM,Debbie Stabenow,150
+Arenac,Lincoln Township,U.S. Senate,,DEM,Debbie Stabenow,43
+Arenac,Mason Township,U.S. Senate,,DEM,Debbie Stabenow,41
+Arenac,Moffatt Township,U.S. Senate,,DEM,Debbie Stabenow,114
+Arenac,Sims Township,U.S. Senate,,DEM,Debbie Stabenow,120
+Arenac,Standish Township,U.S. Senate,,DEM,Debbie Stabenow,162
+Arenac,Turner Township,U.S. Senate,,DEM,Debbie Stabenow,19
+Arenac,Whitney Twp,U.S. Senate,,DEM,Debbie Stabenow,82
+Arenac,AuGres City,U.S. Senate,,DEM,Debbie Stabenow,70
+Arenac,Omer City,U.S. Senate,,DEM,Debbie Stabenow,25
+Arenac,Standish City,U.S. Senate,,DEM,Debbie Stabenow,71
+Arenac,Total,U.S. Senate,,DEM,Debbie Stabenow,1151
+Arenac,Adams Township,Governor,,REP,Bill Schuette,42
+Arenac,Arenac Township,Governor,,REP,Bill Schuette,54
+Arenac,AuGres Township,Governor,,REP,Bill Schuette,121
+Arenac,Clayton Township,Governor,,REP,Bill Schuette,56
+Arenac,Deep River Township,Governor,,REP,Bill Schuette,133
+Arenac,Lincoln Township,Governor,,REP,Bill Schuette,77
+Arenac,Mason Township,Governor,,REP,Bill Schuette,51
+Arenac,Moffatt Township,Governor,,REP,Bill Schuette,123
+Arenac,Sims Township,Governor,,REP,Bill Schuette,138
+Arenac,Standish Township,Governor,,REP,Bill Schuette,121
+Arenac,Turner Township,Governor,,REP,Bill Schuette,49
+Arenac,Whitney Twp,Governor,,REP,Bill Schuette,114
+Arenac,AuGres City,Governor,,REP,Bill Schuette,93
+Arenac,Omer City,Governor,,REP,Bill Schuette,25
+Arenac,Standish City,Governor,,REP,Bill Schuette,85
+Arenac,Total,Governor,,REP,Bill Schuette,1282
+Arenac,Adams Township,Governor,,REP,Brian Calley,11
+Arenac,Arenac Township,Governor,,REP,Brian Calley,22
+Arenac,AuGres Township,Governor,,REP,Brian Calley,56
+Arenac,Clayton Township,Governor,,REP,Brian Calley,20
+Arenac,Deep River Township,Governor,,REP,Brian Calley,56
+Arenac,Lincoln Township,Governor,,REP,Brian Calley,14
+Arenac,Mason Township,Governor,,REP,Brian Calley,12
+Arenac,Moffatt Township,Governor,,REP,Brian Calley,40
+Arenac,Sims Township,Governor,,REP,Brian Calley,60
+Arenac,Standish Township,Governor,,REP,Brian Calley,42
+Arenac,Turner Township,Governor,,REP,Brian Calley,13
+Arenac,Whitney Twp,Governor,,REP,Brian Calley,50
+Arenac,AuGres City,Governor,,REP,Brian Calley,45
+Arenac,Omer City,Governor,,REP,Brian Calley,7
+Arenac,Standish City,Governor,,REP,Brian Calley,17
+Arenac,Total,Governor,,REP,Brian Calley,465
+Arenac,Adams Township,Governor,,REP,Patrick Colbeck,1
+Arenac,Arenac Township,Governor,,REP,Patrick Colbeck,6
+Arenac,AuGres Township,Governor,,REP,Patrick Colbeck,17
+Arenac,Clayton Township,Governor,,REP,Patrick Colbeck,10
+Arenac,Deep River Township,Governor,,REP,Patrick Colbeck,18
+Arenac,Lincoln Township,Governor,,REP,Patrick Colbeck,11
+Arenac,Mason Township,Governor,,REP,Patrick Colbeck,5
+Arenac,Moffatt Township,Governor,,REP,Patrick Colbeck,29
+Arenac,Sims Township,Governor,,REP,Patrick Colbeck,12
+Arenac,Standish Township,Governor,,REP,Patrick Colbeck,13
+Arenac,Turner Township,Governor,,REP,Patrick Colbeck,5
+Arenac,Whitney Twp,Governor,,REP,Patrick Colbeck,14
+Arenac,AuGres City,Governor,,REP,Patrick Colbeck,10
+Arenac,Omer City,Governor,,REP,Patrick Colbeck,7
+Arenac,Standish City,Governor,,REP,Patrick Colbeck,8
+Arenac,Total,Governor,,REP,Patrick Colbeck,166
+Arenac,Adams Township,Governor,,REP,Jim Hines,9
+Arenac,Arenac Township,Governor,,REP,Jim Hines,17
+Arenac,AuGres Township,Governor,,REP,Jim Hines,35
+Arenac,Clayton Township,Governor,,REP,Jim Hines,12
+Arenac,Deep River Township,Governor,,REP,Jim Hines,35
+Arenac,Lincoln Township,Governor,,REP,Jim Hines,8
+Arenac,Mason Township,Governor,,REP,Jim Hines,6
+Arenac,Moffatt Township,Governor,,REP,Jim Hines,39
+Arenac,Sims Township,Governor,,REP,Jim Hines,37
+Arenac,Standish Township,Governor,,REP,Jim Hines,38
+Arenac,Turner Township,Governor,,REP,Jim Hines,12
+Arenac,Whitney Twp,Governor,,REP,Jim Hines,31
+Arenac,AuGres City,Governor,,REP,Jim Hines,26
+Arenac,Omer City,Governor,,REP,Jim Hines,5
+Arenac,Standish City,Governor,,REP,Jim Hines,10
+Arenac,Total,Governor,,REP,Jim Hines,320
+Arenac,Adams Township,Governor,,DEM,Abdul El-Sayed,9
+Arenac,Arenac Township,Governor,,DEM,Abdul El-Sayed,14
+Arenac,AuGres Township,Governor,,DEM,Abdul El-Sayed,12
+Arenac,Clayton Township,Governor,,DEM,Abdul El-Sayed,16
+Arenac,Deep River Township,Governor,,DEM,Abdul El-Sayed,32
+Arenac,Lincoln Township,Governor,,DEM,Abdul El-Sayed,4
+Arenac,Mason Township,Governor,,DEM,Abdul El-Sayed,3
+Arenac,Moffatt Township,Governor,,DEM,Abdul El-Sayed,21
+Arenac,Sims Township,Governor,,DEM,Abdul El-Sayed,18
+Arenac,Standish Township,Governor,,DEM,Abdul El-Sayed,33
+Arenac,Turner Township,Governor,,DEM,Abdul El-Sayed,9
+Arenac,Whitney Twp,Governor,,DEM,Abdul El-Sayed,18
+Arenac,AuGres City,Governor,,DEM,Abdul El-Sayed,15
+Arenac,Omer City,Governor,,DEM,Abdul El-Sayed,4
+Arenac,Standish City,Governor,,DEM,Abdul El-Sayed,18
+Arenac,Total,Governor,,DEM,Abdul El-Sayed,226
+Arenac,Adams Township,Governor,,DEM,Shri Thanedar,10
+Arenac,Arenac Township,Governor,,DEM,Shri Thanedar,16
+Arenac,AuGres Township,Governor,,DEM,Shri Thanedar,16
+Arenac,Clayton Township,Governor,,DEM,Shri Thanedar,24
+Arenac,Deep River Township,Governor,,DEM,Shri Thanedar,40
+Arenac,Lincoln Township,Governor,,DEM,Shri Thanedar,12
+Arenac,Mason Township,Governor,,DEM,Shri Thanedar,8
+Arenac,Moffatt Township,Governor,,DEM,Shri Thanedar,25
+Arenac,Sims Township,Governor,,DEM,Shri Thanedar,37
+Arenac,Standish Township,Governor,,DEM,Shri Thanedar,39
+Arenac,Turner Township,Governor,,DEM,Shri Thanedar,1
+Arenac,Whitney Twp,Governor,,DEM,Shri Thanedar,17
+Arenac,AuGres City,Governor,,DEM,Shri Thanedar,23
+Arenac,Omer City,Governor,,DEM,Shri Thanedar,9
+Arenac,Standish City,Governor,,DEM,Shri Thanedar,20
+Arenac,Total,Governor,,DEM,Shri Thanedar,297
+Arenac,Adams Township,Governor,,DEM,Gretchen Whitmer,22
+Arenac,Arenac Township,Governor,,DEM,Gretchen Whitmer,31
+Arenac,AuGres Township,Governor,,DEM,Gretchen Whitmer,69
+Arenac,Clayton Township,Governor,,DEM,Gretchen Whitmer,40
+Arenac,Deep River Township,Governor,,DEM,Gretchen Whitmer,92
+Arenac,Lincoln Township,Governor,,DEM,Gretchen Whitmer,36
+Arenac,Mason Township,Governor,,DEM,Gretchen Whitmer,35
+Arenac,Moffatt Township,Governor,,DEM,Gretchen Whitmer,75
+Arenac,Sims Township,Governor,,DEM,Gretchen Whitmer,80
+Arenac,Standish Township,Governor,,DEM,Gretchen Whitmer,100
+Arenac,Turner Township,Governor,,DEM,Gretchen Whitmer,11
+Arenac,Whitney Twp,Governor,,DEM,Gretchen Whitmer,51
+Arenac,AuGres City,Governor,,DEM,Gretchen Whitmer,43
+Arenac,Omer City,Governor,,DEM,Gretchen Whitmer,15
+Arenac,Standish City,Governor,,DEM,Gretchen Whitmer,40
+Arenac,Total,Governor,,DEM,Gretchen Whitmer,740
+Arenac,Adams Township,Governor,,LIB,John J Tatar,0
+Arenac,Arenac Township,Governor,,LIB,John J Tatar,0
+Arenac,AuGres Township,Governor,,LIB,John J Tatar,0
+Arenac,Clayton Township,Governor,,LIB,John J Tatar,0
+Arenac,Deep River Township,Governor,,LIB,John J Tatar,1
+Arenac,Lincoln Township,Governor,,LIB,John J Tatar,2
+Arenac,Mason Township,Governor,,LIB,John J Tatar,0
+Arenac,Moffatt Township,Governor,,LIB,John J Tatar,1
+Arenac,Sims Township,Governor,,LIB,John J Tatar,1
+Arenac,Standish Township,Governor,,LIB,John J Tatar,0
+Arenac,Turner Township,Governor,,LIB,John J Tatar,0
+Arenac,Whitney Twp,Governor,,LIB,John J Tatar,0
+Arenac,AuGres City,Governor,,LIB,John J Tatar,0
+Arenac,Omer City,Governor,,LIB,John J Tatar,0
+Arenac,Standish City,Governor,,LIB,John J Tatar,0
+Arenac,Total,Governor,,LIB,John J Tatar,5
+Arenac,Adams Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Arenac Township,Governor,,LIB,Bill Gelineau,1
+Arenac,AuGres Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Clayton Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Deep River Township,Governor,,LIB,Bill Gelineau,1
+Arenac,Lincoln Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Mason Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Moffatt Township,Governor,,LIB,Bill Gelineau,1
+Arenac,Sims Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Standish Township,Governor,,LIB,Bill Gelineau,0
+Arenac,Turner Township,Governor,,LIB,Bill Gelineau,4
+Arenac,Whitney Twp,Governor,,LIB,Bill Gelineau,0
+Arenac,AuGres City,Governor,,LIB,Bill Gelineau,1
+Arenac,Omer City,Governor,,LIB,Bill Gelineau,0
+Arenac,Standish City,Governor,,LIB,Bill Gelineau,1
+Arenac,Total,Governor,,LIB,Bill Gelineau,9

@@ -1,0 +1,963 @@
+county,precinct,office,district,party,candidate,votes
+Barry,"Assyria Township, Precinct 1",State House,87,REP,Julie A. Calley,286
+Barry,"Baltimore Township, Precinct 1",State House,87,REP,Julie A. Calley,325
+Barry,"Barry Township, Precinct 1",State House,87,REP,Julie A. Calley,216
+Barry,"Barry Township, Precinct 2",State House,87,REP,Julie A. Calley,247
+Barry,"Carlton Township, Precinct 1",State House,87,REP,Julie A. Calley,436
+Barry,"Castleton Township, Precinct 1",State House,87,REP,Julie A. Calley,346
+Barry,"Hastings Township, Precinct 1",State House,87,REP,Julie A. Calley,543
+Barry,"Hope Township, Precinct 1",State House,87,REP,Julie A. Calley,442
+Barry,"Irving Township, Precinct 1",State House,87,REP,Julie A. Calley,484
+Barry,"Johnstown Township, Precinct 1",State House,87,REP,Julie A. Calley,441
+Barry,"Maple Grove Township, Precinct 1",State House,87,REP,Julie A. Calley,219
+Barry,"Orangeville Township, Precinct 1",State House,87,REP,Julie A. Calley,433
+Barry,"Prairieville Township, Precinct 1",State House,87,REP,Julie A. Calley,368
+Barry,"Rutland Charter Township, Precinct 1",State House,87,REP,Julie A. Calley,284
+Barry,"Rutland Charter Township, Precinct 2",State House,87,REP,Julie A. Calley,366
+Barry,"Thornapple Township, Precinct 1",State House,87,REP,Julie A. Calley,387
+Barry,"Thornapple Township, Precinct 2",State House,87,REP,Julie A. Calley,306
+Barry,"Thornapple Township, Precinct 3",State House,87,REP,Julie A. Calley,290
+Barry,"Woodland Township, Precinct 1",State House,87,REP,Julie A. Calley,317
+Barry,"Yankee Springs Township, Precinct 1",State House,87,REP,Julie A. Calley,453
+Barry,"Yankee Springs Township, Precinct 2",State House,87,REP,Julie A. Calley,349
+Barry,"City of Hastings, Ward 1, Precinct 1",State House,87,REP,Julie A. Calley,328
+Barry,"City of Hastings, Ward 2, Precinct 2",State House,87,REP,Julie A. Calley,154
+Barry,"City of Hastings, Ward 3, Precinct 3",State House,87,REP,Julie A. Calley,193
+Barry,"City of Hastings, Ward 4, Precinct 4",State House,87,REP,Julie A. Calley,285
+Barry,Total,State House,87,REP,Julie A. Calley,8498
+Barry,"Assyria Township, Precinct 1",State House,87,REP,Write-ins,1
+Barry,"Baltimore Township, Precinct 1",State House,87,REP,Write-ins,4
+Barry,"Barry Township, Precinct 1",State House,87,REP,Write-ins,2
+Barry,"Barry Township, Precinct 2",State House,87,REP,Write-ins,4
+Barry,"Carlton Township, Precinct 1",State House,87,REP,Write-ins,5
+Barry,"Castleton Township, Precinct 1",State House,87,REP,Write-ins,4
+Barry,"Hastings Township, Precinct 1",State House,87,REP,Write-ins,3
+Barry,"Hope Township, Precinct 1",State House,87,REP,Write-ins,6
+Barry,"Irving Township, Precinct 1",State House,87,REP,Write-ins,3
+Barry,"Johnstown Township, Precinct 1",State House,87,REP,Write-ins,3
+Barry,"Maple Grove Township, Precinct 1",State House,87,REP,Write-ins,1
+Barry,"Orangeville Township, Precinct 1",State House,87,REP,Write-ins,2
+Barry,"Prairieville Township, Precinct 1",State House,87,REP,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 1",State House,87,REP,Write-ins,5
+Barry,"Rutland Charter Township, Precinct 2",State House,87,REP,Write-ins,2
+Barry,"Thornapple Township, Precinct 1",State House,87,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",State House,87,REP,Write-ins,3
+Barry,"Thornapple Township, Precinct 3",State House,87,REP,Write-ins,2
+Barry,"Woodland Township, Precinct 1",State House,87,REP,Write-ins,2
+Barry,"Yankee Springs Township, Precinct 1",State House,87,REP,Write-ins,6
+Barry,"Yankee Springs Township, Precinct 2",State House,87,REP,Write-ins,2
+Barry,"City of Hastings, Ward 1, Precinct 1",State House,87,REP,Write-ins,4
+Barry,"City of Hastings, Ward 2, Precinct 2",State House,87,REP,Write-ins,3
+Barry,"City of Hastings, Ward 3, Precinct 3",State House,87,REP,Write-ins,5
+Barry,"City of Hastings, Ward 4, Precinct 4",State House,87,REP,Write-ins,2
+Barry,Total,State House,87,REP,Write-ins,76
+Barry,"Assyria Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,83
+Barry,"Baltimore Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,104
+Barry,"Barry Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,116
+Barry,"Barry Township, Precinct 2",State House,87,DEM,Shawn Marie Winters,139
+Barry,"Carlton Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,137
+Barry,"Castleton Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,138
+Barry,"Hastings Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,220
+Barry,"Hope Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,231
+Barry,"Irving Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,169
+Barry,"Johnstown Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,233
+Barry,"Maple Grove Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,59
+Barry,"Orangeville Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,227
+Barry,"Prairieville Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,272
+Barry,"Rutland Charter Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,146
+Barry,"Rutland Charter Township, Precinct 2",State House,87,DEM,Shawn Marie Winters,186
+Barry,"Thornapple Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,119
+Barry,"Thornapple Township, Precinct 2",State House,87,DEM,Shawn Marie Winters,95
+Barry,"Thornapple Township, Precinct 3",State House,87,DEM,Shawn Marie Winters,220
+Barry,"Woodland Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,109
+Barry,"Yankee Springs Township, Precinct 1",State House,87,DEM,Shawn Marie Winters,170
+Barry,"Yankee Springs Township, Precinct 2",State House,87,DEM,Shawn Marie Winters,142
+Barry,"City of Hastings, Ward 1, Precinct 1",State House,87,DEM,Shawn Marie Winters,168
+Barry,"City of Hastings, Ward 2, Precinct 2",State House,87,DEM,Shawn Marie Winters,105
+Barry,"City of Hastings, Ward 3, Precinct 3",State House,87,DEM,Shawn Marie Winters,132
+Barry,"City of Hastings, Ward 4, Precinct 4",State House,87,DEM,Shawn Marie Winters,190
+Barry,Total,State House,87,DEM,Shawn Marie Winters,3910
+Barry,"Assyria Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 2",State House,87,DEM,Write-ins,2
+Barry,"Carlton Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Castleton Township, Precinct 1",State House,87,DEM,Write-ins,3
+Barry,"Hastings Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Hope Township, Precinct 1",State House,87,DEM,Write-ins,3
+Barry,"Irving Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 2",State House,87,DEM,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",State House,87,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",State House,87,DEM,Write-ins,2
+Barry,"Woodland Township, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",State House,87,DEM,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 2",State House,87,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",State House,87,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 2, Precinct 2",State House,87,DEM,Write-ins,2
+Barry,"City of Hastings, Ward 3, Precinct 3",State House,87,DEM,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",State House,87,DEM,Write-ins,1
+Barry,Total,State House,87,DEM,Write-ins,22
+Barry,"Assyria Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 2",State House,87,LIB,Write-ins,0
+Barry,"Carlton Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Castleton Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Hastings Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Hope Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Irving Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Prairieville Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",State House,87,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",State House,87,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",State House,87,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",State House,87,LIB,Write-ins,2
+Barry,"Woodland Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",State House,87,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",State House,87,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",State House,87,LIB,Write-ins,2
+Barry,"City of Hastings, Ward 2, Precinct 2",State House,87,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",State House,87,LIB,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",State House,87,LIB,Write-ins,0
+Barry,Total,State House,87,LIB,Write-ins,12
+Barry,"Assyria Township, Precinct 1",State Senate,19,REP,John Bizon,199
+Barry,"Baltimore Township, Precinct 1",State Senate,19,REP,John Bizon,176
+Barry,"Barry Township, Precinct 1",State Senate,19,REP,John Bizon,156
+Barry,"Barry Township, Precinct 2",State Senate,19,REP,John Bizon,155
+Barry,"Carlton Township, Precinct 1",State Senate,19,REP,John Bizon,221
+Barry,"Castleton Township, Precinct 1",State Senate,19,REP,John Bizon,144
+Barry,"Hastings Township, Precinct 1",State Senate,19,REP,John Bizon,262
+Barry,"Hope Township, Precinct 1",State Senate,19,REP,John Bizon,251
+Barry,"Irving Township, Precinct 1",State Senate,19,REP,John Bizon,263
+Barry,"Johnstown Township, Precinct 1",State Senate,19,REP,John Bizon,318
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,REP,John Bizon,93
+Barry,"Orangeville Township, Precinct 1",State Senate,19,REP,John Bizon,201
+Barry,"Prairieville Township, Precinct 1",State Senate,19,REP,John Bizon,213
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,REP,John Bizon,147
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,REP,John Bizon,185
+Barry,"Thornapple Township, Precinct 1",State Senate,19,REP,John Bizon,186
+Barry,"Thornapple Township, Precinct 2",State Senate,19,REP,John Bizon,158
+Barry,"Thornapple Township, Precinct 3",State Senate,19,REP,John Bizon,137
+Barry,"Woodland Township, Precinct 1",State Senate,19,REP,John Bizon,153
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,REP,John Bizon,211
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,REP,John Bizon,211
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,REP,John Bizon,123
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,REP,John Bizon,78
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,REP,John Bizon,83
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,REP,John Bizon,105
+Barry,Total,State Senate,19,REP,John Bizon,4429
+Barry,"Assyria Township, Precinct 1",State Senate,19,REP,Mike Callton,123
+Barry,"Baltimore Township, Precinct 1",State Senate,19,REP,Mike Callton,192
+Barry,"Barry Township, Precinct 1",State Senate,19,REP,Mike Callton,92
+Barry,"Barry Township, Precinct 2",State Senate,19,REP,Mike Callton,139
+Barry,"Carlton Township, Precinct 1",State Senate,19,REP,Mike Callton,256
+Barry,"Castleton Township, Precinct 1",State Senate,19,REP,Mike Callton,257
+Barry,"Hastings Township, Precinct 1",State Senate,19,REP,Mike Callton,354
+Barry,"Hope Township, Precinct 1",State Senate,19,REP,Mike Callton,265
+Barry,"Irving Township, Precinct 1",State Senate,19,REP,Mike Callton,273
+Barry,"Johnstown Township, Precinct 1",State Senate,19,REP,Mike Callton,199
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,REP,Mike Callton,152
+Barry,"Orangeville Township, Precinct 1",State Senate,19,REP,Mike Callton,254
+Barry,"Prairieville Township, Precinct 1",State Senate,19,REP,Mike Callton,202
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,REP,Mike Callton,192
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,REP,Mike Callton,219
+Barry,"Thornapple Township, Precinct 1",State Senate,19,REP,Mike Callton,239
+Barry,"Thornapple Township, Precinct 2",State Senate,19,REP,Mike Callton,189
+Barry,"Thornapple Township, Precinct 3",State Senate,19,REP,Mike Callton,169
+Barry,"Woodland Township, Precinct 1",State Senate,19,REP,Mike Callton,191
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,REP,Mike Callton,272
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,REP,Mike Callton,181
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,REP,Mike Callton,225
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,REP,Mike Callton,90
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,REP,Mike Callton,130
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,REP,Mike Callton,194
+Barry,Total,State Senate,19,REP,Mike Callton,5049
+Barry,"Assyria Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",State Senate,19,REP,Write-ins,2
+Barry,"Barry Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Barry Township, Precinct 2",State Senate,19,REP,Write-ins,2
+Barry,"Carlton Township, Precinct 1",State Senate,19,REP,Write-ins,3
+Barry,"Castleton Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Hastings Township, Precinct 1",State Senate,19,REP,Write-ins,1
+Barry,"Hope Township, Precinct 1",State Senate,19,REP,Write-ins,2
+Barry,"Irving Township, Precinct 1",State Senate,19,REP,Write-ins,3
+Barry,"Johnstown Township, Precinct 1",State Senate,19,REP,Write-ins,1
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",State Senate,19,REP,Write-ins,2
+Barry,"Prairieville Township, Precinct 1",State Senate,19,REP,Write-ins,3
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",State Senate,19,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 3",State Senate,19,REP,Write-ins,1
+Barry,"Woodland Township, Precinct 1",State Senate,19,REP,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,REP,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,REP,Write-ins,3
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,REP,Write-ins,2
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,REP,Write-ins,2
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,REP,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,REP,Write-ins,0
+Barry,Total,State Senate,19,REP,Write-ins,31
+Barry,"Assyria Township, Precinct 1",State Senate,19,DEM,Jason Noble,84
+Barry,"Baltimore Township, Precinct 1",State Senate,19,DEM,Jason Noble,107
+Barry,"Barry Township, Precinct 1",State Senate,19,DEM,Jason Noble,116
+Barry,"Barry Township, Precinct 2",State Senate,19,DEM,Jason Noble,137
+Barry,"Carlton Township, Precinct 1",State Senate,19,DEM,Jason Noble,138
+Barry,"Castleton Township, Precinct 1",State Senate,19,DEM,Jason Noble,137
+Barry,"Hastings Township, Precinct 1",State Senate,19,DEM,Jason Noble,223
+Barry,"Hope Township, Precinct 1",State Senate,19,DEM,Jason Noble,231
+Barry,"Irving Township, Precinct 1",State Senate,19,DEM,Jason Noble,168
+Barry,"Johnstown Township, Precinct 1",State Senate,19,DEM,Jason Noble,230
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,DEM,Jason Noble,58
+Barry,"Orangeville Township, Precinct 1",State Senate,19,DEM,Jason Noble,226
+Barry,"Prairieville Township, Precinct 1",State Senate,19,DEM,Jason Noble,270
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,DEM,Jason Noble,145
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,DEM,Jason Noble,189
+Barry,"Thornapple Township, Precinct 1",State Senate,19,DEM,Jason Noble,123
+Barry,"Thornapple Township, Precinct 2",State Senate,19,DEM,Jason Noble,98
+Barry,"Thornapple Township, Precinct 3",State Senate,19,DEM,Jason Noble,225
+Barry,"Woodland Township, Precinct 1",State Senate,19,DEM,Jason Noble,108
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,DEM,Jason Noble,173
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,DEM,Jason Noble,143
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,DEM,Jason Noble,168
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,DEM,Jason Noble,106
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,DEM,Jason Noble,131
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,DEM,Jason Noble,188
+Barry,Total,State Senate,19,DEM,Jason Noble,3922
+Barry,"Assyria Township, Precinct 1",State Senate,19,DEM,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 2",State Senate,19,DEM,Write-ins,3
+Barry,"Carlton Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Castleton Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Hastings Township, Precinct 1",State Senate,19,DEM,Write-ins,0
+Barry,"Hope Township, Precinct 1",State Senate,19,DEM,Write-ins,7
+Barry,"Irving Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,DEM,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",State Senate,19,DEM,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,DEM,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",State Senate,19,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",State Senate,19,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",State Senate,19,DEM,Write-ins,2
+Barry,"Woodland Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,DEM,Write-ins,1
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,DEM,Write-ins,2
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,DEM,Write-ins,1
+Barry,Total,State Senate,19,DEM,Write-ins,27
+Barry,"Assyria Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,1
+Barry,"Baltimore Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"Barry Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,1
+Barry,"Barry Township, Precinct 2",State Senate,19,LIB,Joseph P. Gillotte,2
+Barry,"Carlton Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,2
+Barry,"Castleton Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,1
+Barry,"Hastings Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,3
+Barry,"Hope Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,6
+Barry,"Irving Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,3
+Barry,"Johnstown Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,6
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,1
+Barry,"Orangeville Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,5
+Barry,"Prairieville Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,4
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,LIB,Joseph P. Gillotte,3
+Barry,"Thornapple Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,5
+Barry,"Thornapple Township, Precinct 2",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"Thornapple Township, Precinct 3",State Senate,19,LIB,Joseph P. Gillotte,1
+Barry,"Woodland Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,6
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,LIB,Joseph P. Gillotte,4
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,LIB,Joseph P. Gillotte,0
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,LIB,Joseph P. Gillotte,4
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,LIB,Joseph P. Gillotte,3
+Barry,Total,State Senate,19,LIB,Joseph P. Gillotte,61
+Barry,"Assyria Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 2",State Senate,19,LIB,Write-ins,0
+Barry,"Carlton Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Castleton Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Hastings Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Hope Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Irving Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Johnstown Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",State Senate,19,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",State Senate,19,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",State Senate,19,LIB,Write-ins,1
+Barry,"Woodland Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",State Senate,19,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",State Senate,19,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 2, Precinct 2",State Senate,19,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",State Senate,19,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",State Senate,19,LIB,Write-ins,0
+Barry,Total,State Senate,19,LIB,Write-ins,2
+Barry,"Assyria Township, Precinct 1",U.S. House,3,REP,Justin Amash,281
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,REP,Justin Amash,328
+Barry,"Barry Township, Precinct 1",U.S. House,3,REP,Justin Amash,218
+Barry,"Barry Township, Precinct 2",U.S. House,3,REP,Justin Amash,247
+Barry,"Carlton Township, Precinct 1",U.S. House,3,REP,Justin Amash,403
+Barry,"Castleton Township, Precinct 1",U.S. House,3,REP,Justin Amash,338
+Barry,"Hastings Township, Precinct 1",U.S. House,3,REP,Justin Amash,502
+Barry,"Hope Township, Precinct 1",U.S. House,3,REP,Justin Amash,425
+Barry,"Irving Township, Precinct 1",U.S. House,3,REP,Justin Amash,471
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,REP,Justin Amash,453
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,REP,Justin Amash,207
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,REP,Justin Amash,413
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,REP,Justin Amash,364
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,REP,Justin Amash,286
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,REP,Justin Amash,358
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,REP,Justin Amash,377
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,REP,Justin Amash,308
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,REP,Justin Amash,274
+Barry,"Woodland Township, Precinct 1",U.S. House,3,REP,Justin Amash,294
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,REP,Justin Amash,444
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,REP,Justin Amash,338
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,REP,Justin Amash,300
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,REP,Justin Amash,146
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,REP,Justin Amash,192
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,REP,Justin Amash,254
+Barry,Total,U.S. House,3,REP,Justin Amash,8221
+Barry,"Assyria Township, Precinct 1",U.S. House,3,REP,Write-ins,6
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,REP,Write-ins,4
+Barry,"Barry Township, Precinct 1",U.S. House,3,REP,Write-ins,3
+Barry,"Barry Township, Precinct 2",U.S. House,3,REP,Write-ins,3
+Barry,"Carlton Township, Precinct 1",U.S. House,3,REP,Write-ins,9
+Barry,"Castleton Township, Precinct 1",U.S. House,3,REP,Write-ins,5
+Barry,"Hastings Township, Precinct 1",U.S. House,3,REP,Write-ins,3
+Barry,"Hope Township, Precinct 1",U.S. House,3,REP,Write-ins,10
+Barry,"Irving Township, Precinct 1",U.S. House,3,REP,Write-ins,10
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,REP,Write-ins,6
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,REP,Write-ins,2
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,REP,Write-ins,7
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,REP,Write-ins,6
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,REP,Write-ins,8
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,REP,Write-ins,6
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,REP,Write-ins,2
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,REP,Write-ins,5
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,REP,Write-ins,8
+Barry,"Woodland Township, Precinct 1",U.S. House,3,REP,Write-ins,6
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,REP,Write-ins,4
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,REP,Write-ins,4
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,REP,Write-ins,3
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,REP,Write-ins,5
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,REP,Write-ins,5
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,REP,Write-ins,4
+Barry,Total,U.S. House,3,REP,Write-ins,134
+Barry,"Assyria Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,59
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,74
+Barry,"Barry Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,96
+Barry,"Barry Township, Precinct 2",U.S. House,3,DEM,Cathy Albro,102
+Barry,"Carlton Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,102
+Barry,"Castleton Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,112
+Barry,"Hastings Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,153
+Barry,"Hope Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,174
+Barry,"Irving Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,138
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,149
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,45
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,163
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,212
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,109
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,DEM,Cathy Albro,148
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,92
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,DEM,Cathy Albro,69
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,DEM,Cathy Albro,162
+Barry,"Woodland Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,76
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,DEM,Cathy Albro,122
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,DEM,Cathy Albro,104
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,DEM,Cathy Albro,122
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,DEM,Cathy Albro,84
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,DEM,Cathy Albro,96
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,DEM,Cathy Albro,140
+Barry,Total,U.S. House,3,DEM,Cathy Albro,2903
+Barry,"Assyria Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,30
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,34
+Barry,"Barry Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,25
+Barry,"Barry Township, Precinct 2",U.S. House,3,DEM,Fred Wooden,43
+Barry,"Carlton Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,46
+Barry,"Castleton Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,37
+Barry,"Hastings Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,74
+Barry,"Hope Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,71
+Barry,"Irving Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,41
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,92
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,14
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,74
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,76
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,37
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,DEM,Fred Wooden,54
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,32
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,DEM,Fred Wooden,40
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,DEM,Fred Wooden,60
+Barry,"Woodland Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,34
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,DEM,Fred Wooden,62
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,DEM,Fred Wooden,48
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,DEM,Fred Wooden,51
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,DEM,Fred Wooden,28
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,DEM,Fred Wooden,37
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,DEM,Fred Wooden,49
+Barry,Total,U.S. House,3,DEM,Fred Wooden,1189
+Barry,"Assyria Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 1",U.S. House,3,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 2",U.S. House,3,DEM,Write-ins,1
+Barry,"Carlton Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Castleton Township, Precinct 1",U.S. House,3,DEM,Write-ins,2
+Barry,"Hastings Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Hope Township, Precinct 1",U.S. House,3,DEM,Write-ins,2
+Barry,"Irving Township, Precinct 1",U.S. House,3,DEM,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,DEM,Write-ins,1
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,DEM,Write-ins,2
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,DEM,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,DEM,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,DEM,Write-ins,3
+Barry,"Woodland Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,DEM,Write-ins,1
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,DEM,Write-ins,1
+Barry,Total,U.S. House,3,DEM,Write-ins,18
+Barry,"Assyria Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 2",U.S. House,3,LIB,Write-ins,0
+Barry,"Carlton Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Castleton Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Hastings Township, Precinct 1",U.S. House,3,LIB,Write-ins,1
+Barry,"Hope Township, Precinct 1",U.S. House,3,LIB,Write-ins,1
+Barry,"Irving Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Johnstown Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",U.S. House,3,LIB,Write-ins,1
+Barry,"Prairieville Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",U.S. House,3,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",U.S. House,3,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",U.S. House,3,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",U.S. House,3,LIB,Write-ins,2
+Barry,"Woodland Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",U.S. House,3,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",U.S. House,3,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. House,3,LIB,Write-ins,2
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. House,3,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. House,3,LIB,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. House,3,LIB,Write-ins,0
+Barry,Total,U.S. House,3,LIB,Write-ins,10
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,REP,John James,177
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,REP,John James,178
+Barry,"Barry Township, Precinct 1",U.S. Senate,,REP,John James,157
+Barry,"Barry Township, Precinct 2",U.S. Senate,,REP,John James,161
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,REP,John James,246
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,REP,John James,196
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,REP,John James,295
+Barry,"Hope Township, Precinct 1",U.S. Senate,,REP,John James,254
+Barry,"Irving Township, Precinct 1",U.S. Senate,,REP,John James,286
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,REP,John James,260
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,REP,John James,123
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,REP,John James,230
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,REP,John James,219
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,REP,John James,161
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,REP,John James,202
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,REP,John James,219
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,REP,John James,177
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,REP,John James,148
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,REP,John James,186
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,REP,John James,242
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,REP,John James,192
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,REP,John James,163
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,REP,John James,72
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,REP,John James,104
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,REP,John James,155
+Barry,Total,U.S. Senate,,REP,John James,4803
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,136
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,180
+Barry,"Barry Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,97
+Barry,"Barry Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,137
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,221
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,186
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,301
+Barry,"Hope Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,261
+Barry,"Irving Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,241
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,248
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,117
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,242
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,205
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,171
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,194
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,206
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,172
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,163
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,146
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,253
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,214
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,REP,Sandy Pensler,169
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,REP,Sandy Pensler,91
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,REP,Sandy Pensler,99
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,REP,Sandy Pensler,133
+Barry,Total,U.S. Senate,,REP,Sandy Pensler,4583
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Barry Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Barry,"Barry Township, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Hope Township, Precinct 1",U.S. Senate,,REP,Write-ins,3
+Barry,"Irving Township, Precinct 1",U.S. Senate,,REP,Write-ins,4
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,REP,Write-ins,3
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,REP,Write-ins,1
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,REP,Write-ins,2
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,REP,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,REP,Write-ins,0
+Barry,Total,U.S. Senate,,REP,Write-ins,28
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,90
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,116
+Barry,"Barry Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,124
+Barry,"Barry Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,145
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,152
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,154
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,236
+Barry,"Hope Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,248
+Barry,"Irving Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,182
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,245
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,60
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,241
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,290
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,152
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,215
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,131
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,111
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,232
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,109
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,184
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,156
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,178
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,117
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,140
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,201
+Barry,Total,U.S. Senate,,DEM,Debbie Stabenow,4209
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,DEM,Write-ins,3
+Barry,"Barry Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Barry Township, Precinct 2",U.S. Senate,,DEM,Write-ins,2
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Barry,"Hope Township, Precinct 1",U.S. Senate,,DEM,Write-ins,5
+Barry,"Irving Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,DEM,Write-ins,2
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,DEM,Write-ins,3
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,DEM,Write-ins,3
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,DEM,Write-ins,1
+Barry,Total,U.S. Senate,,DEM,Write-ins,32
+Barry,"Assyria Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Barry,"Carlton Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Castleton Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Hastings Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Hope Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Irving Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Prairieville Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Rutland Charter Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",U.S. Senate,,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",U.S. Senate,,LIB,Write-ins,1
+Barry,"Woodland Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",U.S. Senate,,LIB,Write-ins,2
+Barry,"City of Hastings, Ward 2, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",U.S. Senate,,LIB,Write-ins,1
+Barry,"City of Hastings, Ward 4, Precinct 4",U.S. Senate,,LIB,Write-ins,0
+Barry,Total,U.S. Senate,,LIB,Write-ins,11
+Barry,"Assyria Township, Precinct 1",Governor,,REP,Brian Calley,98
+Barry,"Baltimore Township, Precinct 1",Governor,,REP,Brian Calley,154
+Barry,"Barry Township, Precinct 1",Governor,,REP,Brian Calley,93
+Barry,"Barry Township, Precinct 2",Governor,,REP,Brian Calley,99
+Barry,"Carlton Township, Precinct 1",Governor,,REP,Brian Calley,284
+Barry,"Castleton Township, Precinct 1",Governor,,REP,Brian Calley,171
+Barry,"Hastings Township, Precinct 1",Governor,,REP,Brian Calley,338
+Barry,"Hope Township, Precinct 1",Governor,,REP,Brian Calley,225
+Barry,"Irving Township, Precinct 1",Governor,,REP,Brian Calley,250
+Barry,"Johnstown Township, Precinct 1",Governor,,REP,Brian Calley,151
+Barry,"Maple Grove Township, Precinct 1",Governor,,REP,Brian Calley,113
+Barry,"Orangeville Township, Precinct 1",Governor,,REP,Brian Calley,203
+Barry,"Prairieville Township, Precinct 1",Governor,,REP,Brian Calley,184
+Barry,"Rutland Charter Township, Precinct 1",Governor,,REP,Brian Calley,183
+Barry,"Rutland Charter Township, Precinct 2",Governor,,REP,Brian Calley,227
+Barry,"Thornapple Township, Precinct 1",Governor,,REP,Brian Calley,171
+Barry,"Thornapple Township, Precinct 2",Governor,,REP,Brian Calley,141
+Barry,"Thornapple Township, Precinct 3",Governor,,REP,Brian Calley,97
+Barry,"Woodland Township, Precinct 1",Governor,,REP,Brian Calley,174
+Barry,"Yankee Springs Township, Precinct 1",Governor,,REP,Brian Calley,218
+Barry,"Yankee Springs Township, Precinct 2",Governor,,REP,Brian Calley,164
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,REP,Brian Calley,229
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,REP,Brian Calley,83
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,REP,Brian Calley,122
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,REP,Brian Calley,197
+Barry,Total,Governor,,REP,Brian Calley,4369
+Barry,"Assyria Township, Precinct 1",Governor,,REP,Patrick Colbeck,48
+Barry,"Baltimore Township, Precinct 1",Governor,,REP,Patrick Colbeck,41
+Barry,"Barry Township, Precinct 1",Governor,,REP,Patrick Colbeck,25
+Barry,"Barry Township, Precinct 2",Governor,,REP,Patrick Colbeck,37
+Barry,"Carlton Township, Precinct 1",Governor,,REP,Patrick Colbeck,47
+Barry,"Castleton Township, Precinct 1",Governor,,REP,Patrick Colbeck,33
+Barry,"Hastings Township, Precinct 1",Governor,,REP,Patrick Colbeck,48
+Barry,"Hope Township, Precinct 1",Governor,,REP,Patrick Colbeck,64
+Barry,"Irving Township, Precinct 1",Governor,,REP,Patrick Colbeck,69
+Barry,"Johnstown Township, Precinct 1",Governor,,REP,Patrick Colbeck,69
+Barry,"Maple Grove Township, Precinct 1",Governor,,REP,Patrick Colbeck,16
+Barry,"Orangeville Township, Precinct 1",Governor,,REP,Patrick Colbeck,48
+Barry,"Prairieville Township, Precinct 1",Governor,,REP,Patrick Colbeck,39
+Barry,"Rutland Charter Township, Precinct 1",Governor,,REP,Patrick Colbeck,26
+Barry,"Rutland Charter Township, Precinct 2",Governor,,REP,Patrick Colbeck,24
+Barry,"Thornapple Township, Precinct 1",Governor,,REP,Patrick Colbeck,39
+Barry,"Thornapple Township, Precinct 2",Governor,,REP,Patrick Colbeck,37
+Barry,"Thornapple Township, Precinct 3",Governor,,REP,Patrick Colbeck,46
+Barry,"Woodland Township, Precinct 1",Governor,,REP,Patrick Colbeck,30
+Barry,"Yankee Springs Township, Precinct 1",Governor,,REP,Patrick Colbeck,39
+Barry,"Yankee Springs Township, Precinct 2",Governor,,REP,Patrick Colbeck,38
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,REP,Patrick Colbeck,24
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,REP,Patrick Colbeck,7
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,REP,Patrick Colbeck,20
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,REP,Patrick Colbeck,11
+Barry,Total,Governor,,REP,Patrick Colbeck,925
+Barry,"Assyria Township, Precinct 1",Governor,,REP,Jim Hines,29
+Barry,"Baltimore Township, Precinct 1",Governor,,REP,Jim Hines,24
+Barry,"Barry Township, Precinct 1",Governor,,REP,Jim Hines,35
+Barry,"Barry Township, Precinct 2",Governor,,REP,Jim Hines,39
+Barry,"Carlton Township, Precinct 1",Governor,,REP,Jim Hines,28
+Barry,"Castleton Township, Precinct 1",Governor,,REP,Jim Hines,40
+Barry,"Hastings Township, Precinct 1",Governor,,REP,Jim Hines,54
+Barry,"Hope Township, Precinct 1",Governor,,REP,Jim Hines,49
+Barry,"Irving Township, Precinct 1",Governor,,REP,Jim Hines,36
+Barry,"Johnstown Township, Precinct 1",Governor,,REP,Jim Hines,58
+Barry,"Maple Grove Township, Precinct 1",Governor,,REP,Jim Hines,29
+Barry,"Orangeville Township, Precinct 1",Governor,,REP,Jim Hines,40
+Barry,"Prairieville Township, Precinct 1",Governor,,REP,Jim Hines,31
+Barry,"Rutland Charter Township, Precinct 1",Governor,,REP,Jim Hines,22
+Barry,"Rutland Charter Township, Precinct 2",Governor,,REP,Jim Hines,28
+Barry,"Thornapple Township, Precinct 1",Governor,,REP,Jim Hines,38
+Barry,"Thornapple Township, Precinct 2",Governor,,REP,Jim Hines,30
+Barry,"Thornapple Township, Precinct 3",Governor,,REP,Jim Hines,37
+Barry,"Woodland Township, Precinct 1",Governor,,REP,Jim Hines,41
+Barry,"Yankee Springs Township, Precinct 1",Governor,,REP,Jim Hines,38
+Barry,"Yankee Springs Township, Precinct 2",Governor,,REP,Jim Hines,39
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,REP,Jim Hines,19
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,REP,Jim Hines,11
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,REP,Jim Hines,21
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,REP,Jim Hines,22
+Barry,Total,Governor,,REP,Jim Hines,838
+Barry,"Assyria Township, Precinct 1",Governor,,REP,Bill Schuette,152
+Barry,"Baltimore Township, Precinct 1",Governor,,REP,Bill Schuette,164
+Barry,"Barry Township, Precinct 1",Governor,,REP,Bill Schuette,104
+Barry,"Barry Township, Precinct 2",Governor,,REP,Bill Schuette,131
+Barry,"Carlton Township, Precinct 1",Governor,,REP,Bill Schuette,134
+Barry,"Castleton Township, Precinct 1",Governor,,REP,Bill Schuette,159
+Barry,"Hastings Township, Precinct 1",Governor,,REP,Bill Schuette,204
+Barry,"Hope Township, Precinct 1",Governor,,REP,Bill Schuette,209
+Barry,"Irving Township, Precinct 1",Governor,,REP,Bill Schuette,192
+Barry,"Johnstown Township, Precinct 1",Governor,,REP,Bill Schuette,252
+Barry,"Maple Grove Township, Precinct 1",Governor,,REP,Bill Schuette,91
+Barry,"Orangeville Township, Precinct 1",Governor,,REP,Bill Schuette,204
+Barry,"Prairieville Township, Precinct 1",Governor,,REP,Bill Schuette,199
+Barry,"Rutland Charter Township, Precinct 1",Governor,,REP,Bill Schuette,132
+Barry,"Rutland Charter Township, Precinct 2",Governor,,REP,Bill Schuette,140
+Barry,"Thornapple Township, Precinct 1",Governor,,REP,Bill Schuette,205
+Barry,"Thornapple Township, Precinct 2",Governor,,REP,Bill Schuette,159
+Barry,"Thornapple Township, Precinct 3",Governor,,REP,Bill Schuette,145
+Barry,"Woodland Township, Precinct 1",Governor,,REP,Bill Schuette,106
+Barry,"Yankee Springs Township, Precinct 1",Governor,,REP,Bill Schuette,231
+Barry,"Yankee Springs Township, Precinct 2",Governor,,REP,Bill Schuette,182
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,REP,Bill Schuette,87
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,REP,Bill Schuette,72
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,REP,Bill Schuette,52
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,REP,Bill Schuette,84
+Barry,Total,Governor,,REP,Bill Schuette,3790
+Barry,"Assyria Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Baltimore Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Barry Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Barry Township, Precinct 2",Governor,,REP,Write-ins,0
+Barry,"Carlton Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Castleton Township, Precinct 1",Governor,,REP,Write-ins,2
+Barry,"Hastings Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Hope Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Irving Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Johnstown Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Maple Grove Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",Governor,,REP,Write-ins,2
+Barry,"Thornapple Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",Governor,,REP,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",Governor,,REP,Write-ins,0
+Barry,"Woodland Township, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 1",Governor,,REP,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",Governor,,REP,Write-ins,1
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,REP,Write-ins,1
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,REP,Write-ins,3
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,REP,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,REP,Write-ins,0
+Barry,Total,Governor,,REP,Write-ins,16
+Barry,"Assyria Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,25
+Barry,"Baltimore Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,22
+Barry,"Barry Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,45
+Barry,"Barry Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,37
+Barry,"Carlton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,35
+Barry,"Castleton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,45
+Barry,"Hastings Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,56
+Barry,"Hope Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,56
+Barry,"Irving Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,50
+Barry,"Johnstown Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,43
+Barry,"Maple Grove Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,21
+Barry,"Orangeville Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,64
+Barry,"Prairieville Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,79
+Barry,"Rutland Charter Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,47
+Barry,"Rutland Charter Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,67
+Barry,"Thornapple Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,59
+Barry,"Thornapple Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,34
+Barry,"Thornapple Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,92
+Barry,"Woodland Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,19
+Barry,"Yankee Springs Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,47
+Barry,"Yankee Springs Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,39
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,DEM,Abdul El-Sayed,50
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,DEM,Abdul El-Sayed,21
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,DEM,Abdul El-Sayed,46
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,DEM,Abdul El-Sayed,63
+Barry,Total,Governor,,DEM,Abdul El-Sayed,1162
+Barry,"Assyria Township, Precinct 1",Governor,,DEM,Shri Thanedar,23
+Barry,"Baltimore Township, Precinct 1",Governor,,DEM,Shri Thanedar,31
+Barry,"Barry Township, Precinct 1",Governor,,DEM,Shri Thanedar,15
+Barry,"Barry Township, Precinct 2",Governor,,DEM,Shri Thanedar,24
+Barry,"Carlton Township, Precinct 1",Governor,,DEM,Shri Thanedar,28
+Barry,"Castleton Township, Precinct 1",Governor,,DEM,Shri Thanedar,41
+Barry,"Hastings Township, Precinct 1",Governor,,DEM,Shri Thanedar,45
+Barry,"Hope Township, Precinct 1",Governor,,DEM,Shri Thanedar,67
+Barry,"Irving Township, Precinct 1",Governor,,DEM,Shri Thanedar,45
+Barry,"Johnstown Township, Precinct 1",Governor,,DEM,Shri Thanedar,68
+Barry,"Maple Grove Township, Precinct 1",Governor,,DEM,Shri Thanedar,10
+Barry,"Orangeville Township, Precinct 1",Governor,,DEM,Shri Thanedar,58
+Barry,"Prairieville Township, Precinct 1",Governor,,DEM,Shri Thanedar,69
+Barry,"Rutland Charter Township, Precinct 1",Governor,,DEM,Shri Thanedar,27
+Barry,"Rutland Charter Township, Precinct 2",Governor,,DEM,Shri Thanedar,33
+Barry,"Thornapple Township, Precinct 1",Governor,,DEM,Shri Thanedar,16
+Barry,"Thornapple Township, Precinct 2",Governor,,DEM,Shri Thanedar,17
+Barry,"Thornapple Township, Precinct 3",Governor,,DEM,Shri Thanedar,50
+Barry,"Woodland Township, Precinct 1",Governor,,DEM,Shri Thanedar,30
+Barry,"Yankee Springs Township, Precinct 1",Governor,,DEM,Shri Thanedar,32
+Barry,"Yankee Springs Township, Precinct 2",Governor,,DEM,Shri Thanedar,29
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,DEM,Shri Thanedar,37
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,DEM,Shri Thanedar,24
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,DEM,Shri Thanedar,28
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,DEM,Shri Thanedar,40
+Barry,Total,Governor,,DEM,Shri Thanedar,887
+Barry,"Assyria Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,54
+Barry,"Baltimore Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,77
+Barry,"Barry Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,75
+Barry,"Barry Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,94
+Barry,"Carlton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,101
+Barry,"Castleton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,75
+Barry,"Hastings Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,152
+Barry,"Hope Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,147
+Barry,"Irving Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,107
+Barry,"Johnstown Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,158
+Barry,"Maple Grove Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,33
+Barry,"Orangeville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,139
+Barry,"Prairieville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,163
+Barry,"Rutland Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,96
+Barry,"Rutland Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,132
+Barry,"Thornapple Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,70
+Barry,"Thornapple Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,71
+Barry,"Thornapple Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,106
+Barry,"Woodland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,67
+Barry,"Yankee Springs Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,123
+Barry,"Yankee Springs Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,106
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,DEM,Gretchen Whitmer,105
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,DEM,Gretchen Whitmer,84
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,DEM,Gretchen Whitmer,78
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,DEM,Gretchen Whitmer,116
+Barry,Total,Governor,,DEM,Gretchen Whitmer,2529
+Barry,"Assyria Township, Precinct 1",Governor,,DEM,Write-ins,1
+Barry,"Baltimore Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Barry Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Barry Township, Precinct 2",Governor,,DEM,Write-ins,1
+Barry,"Carlton Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Castleton Township, Precinct 1",Governor,,DEM,Write-ins,2
+Barry,"Hastings Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Hope Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Irving Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Johnstown Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",Governor,,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 1",Governor,,DEM,Write-ins,1
+Barry,"Thornapple Township, Precinct 2",Governor,,DEM,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",Governor,,DEM,Write-ins,1
+Barry,"Woodland Township, Precinct 1",Governor,,DEM,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",Governor,,DEM,Write-ins,1
+Barry,"Yankee Springs Township, Precinct 2",Governor,,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,DEM,Write-ins,1
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,DEM,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,DEM,Write-ins,0
+Barry,Total,Governor,,DEM,Write-ins,8
+Barry,"Assyria Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Baltimore Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Barry Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Barry Township, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Barry,"Carlton Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Barry,"Castleton Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Hastings Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Barry,"Hope Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Barry,"Irving Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Barry,"Johnstown Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Barry,"Maple Grove Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Orangeville Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Barry,"Prairieville Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Barry,"Rutland Charter Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Rutland Charter Township, Precinct 2",Governor,,LIB,Bill Gelineau,3
+Barry,"Thornapple Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Barry,"Thornapple Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Barry,"Thornapple Township, Precinct 3",Governor,,LIB,Bill Gelineau,2
+Barry,"Woodland Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Barry,"Yankee Springs Township, Precinct 1",Governor,,LIB,Bill Gelineau,5
+Barry,"Yankee Springs Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,LIB,Bill Gelineau,2
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,LIB,Bill Gelineau,2
+Barry,Total,Governor,,LIB,Bill Gelineau,37
+Barry,"Assyria Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Baltimore Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Barry,"Barry Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"Barry Township, Precinct 2",Governor,,LIB,John J. Tatar,1
+Barry,"Carlton Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Barry,"Castleton Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Hastings Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"Hope Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Barry,"Irving Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"Johnstown Township, Precinct 1",Governor,,LIB,John J. Tatar,4
+Barry,"Maple Grove Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Orangeville Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"Prairieville Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Rutland Charter Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Barry,"Rutland Charter Township, Precinct 2",Governor,,LIB,John J. Tatar,2
+Barry,"Thornapple Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"Thornapple Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Barry,"Thornapple Township, Precinct 3",Governor,,LIB,John J. Tatar,0
+Barry,"Woodland Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Yankee Springs Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Barry,"Yankee Springs Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,LIB,John J. Tatar,2
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,LIB,John J. Tatar,0
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,LIB,John J. Tatar,2
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,LIB,John J. Tatar,1
+Barry,Total,Governor,,LIB,John J. Tatar,31
+Barry,"Assyria Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Baltimore Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Barry Township, Precinct 2",Governor,,LIB,Write-ins,0
+Barry,"Carlton Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Castleton Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Hastings Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Hope Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Irving Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Johnstown Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Maple Grove Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Orangeville Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Prairieville Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Rutland Charter Township, Precinct 2",Governor,,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 2",Governor,,LIB,Write-ins,0
+Barry,"Thornapple Township, Precinct 3",Governor,,LIB,Write-ins,1
+Barry,"Woodland Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"Yankee Springs Township, Precinct 2",Governor,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 1, Precinct 1",Governor,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 2, Precinct 2",Governor,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 3, Precinct 3",Governor,,LIB,Write-ins,0
+Barry,"City of Hastings, Ward 4, Precinct 4",Governor,,LIB,Write-ins,0
+Barry,Total,Governor,,LIB,Write-ins,1
+Barry,"Assyria Township, Precinct 1",Ballots Cast,,   ,,433
+Barry,"Baltimore Township, Precinct 1",Ballots Cast,,   ,,528
+Barry,"Barry Township, Precinct 1",Ballots Cast,,   ,,410
+Barry,"Barry Township, Precinct 2",Ballots Cast,,   ,,480
+Barry,"Carlton Township, Precinct 1",Ballots Cast,,   ,,685
+Barry,"Castleton Township, Precinct 1",Ballots Cast,,   ,,580
+Barry,"Hastings Township, Precinct 1",Ballots Cast,,   ,,958
+Barry,"Hope Township, Precinct 1",Ballots Cast,,   ,,847
+Barry,"Irving Township, Precinct 1",Ballots Cast,,   ,,766
+Barry,"Johnstown Township, Precinct 1",Ballots Cast,,   ,,834
+Barry,"Maple Grove Township, Precinct 1",Ballots Cast,,   ,,316
+Barry,"Orangeville Township, Precinct 1",Ballots Cast,,   ,,768
+Barry,"Prairieville Township, Precinct 1",Ballots Cast,,   ,,785
+Barry,"Rutland Charter Township, Precinct 1",Ballots Cast,,   ,,564
+Barry,"Rutland Charter Township, Precinct 2",Ballots Cast,,   ,,693
+Barry,"Thornapple Township, Precinct 1",Ballots Cast,,   ,,606
+Barry,"Thornapple Township, Precinct 2",Ballots Cast,,   ,,495
+Barry,"Thornapple Township, Precinct 3",Ballots Cast,,   ,,585
+Barry,"Woodland Township, Precinct 1",Ballots Cast,,   ,,480
+Barry,"Yankee Springs Township, Precinct 1",Ballots Cast,,   ,,754
+Barry,"Yankee Springs Township, Precinct 2",Ballots Cast,,   ,,617
+Barry,"City of Hastings, Ward 1, Precinct 1",Ballots Cast,,   ,,583
+Barry,"City of Hastings, Ward 2, Precinct 2",Ballots Cast,,   ,,319
+Barry,"City of Hastings, Ward 3, Precinct 3",Ballots Cast,,   ,,390
+Barry,"City of Hastings, Ward 4, Precinct 4",Ballots Cast,,   ,,550
+Barry,Total,Ballots Cast,,   ,,15026

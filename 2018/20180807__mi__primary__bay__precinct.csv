@@ -1,0 +1,1144 @@
+county,precinct,office,district,party,candidate,votes
+Bay,"Auburn City, Pct 1",State House,98,REP,Annette Glenn,147
+Bay,"Midland City, Ward 1, Pct 1",State House,98,REP,Annette Glenn,2
+Bay,"Pinconning City, Pct 1",State House,98,REP,Annette Glenn,53
+Bay,"Beaver Twp., Pct 1",State House,98,REP,Annette Glenn,165
+Bay,"Fraser Twp., Pct 1",State House,98,REP,Annette Glenn,173
+Bay,"Garfield Twp,, Pct 1",State House,98,REP,Annette Glenn,95
+Bay,"Gibson Twp., Pct 1",State House,98,REP,Annette Glenn,46
+Bay,"Mt. Forest Twp., Pct 1",State House,98,REP,Annette Glenn,81
+Bay,"Pinconning Twp., Pct 1",State House,98,REP,Annette Glenn,127
+Bay,"Williams Twp., Pct 1",State House,98,REP,Annette Glenn,192
+Bay,"Williams Twp., Pct 2",State House,98,REP,Annette Glenn,104
+Bay,"Williams Twp., Pct 3",State House,98,REP,Annette Glenn,38
+Bay,Total,State House,98,REP,Annette Glenn,1223
+Bay,"Auburn City, Pct 1",State House,98,REP,Carl Hamman,100
+Bay,"Midland City, Ward 1, Pct 1",State House,98,REP,Carl Hamman,6
+Bay,"Pinconning City, Pct 1",State House,98,REP,Carl Hamman,32
+Bay,"Beaver Twp., Pct 1",State House,98,REP,Carl Hamman,167
+Bay,"Fraser Twp., Pct 1",State House,98,REP,Carl Hamman,121
+Bay,"Garfield Twp,, Pct 1",State House,98,REP,Carl Hamman,109
+Bay,"Gibson Twp., Pct 1",State House,98,REP,Carl Hamman,54
+Bay,"Mt. Forest Twp., Pct 1",State House,98,REP,Carl Hamman,76
+Bay,"Pinconning Twp., Pct 1",State House,98,REP,Carl Hamman,127
+Bay,"Williams Twp., Pct 1",State House,98,REP,Carl Hamman,154
+Bay,"Williams Twp., Pct 2",State House,98,REP,Carl Hamman,86
+Bay,"Williams Twp., Pct 3",State House,98,REP,Carl Hamman,47
+Bay,Total,State House,98,REP,Carl Hamman,1079
+Bay,"Auburn City, Pct 1",State House,98,DEM,Sarah Schultz,182
+Bay,"Midland City, Ward 1, Pct 1",State House,98,DEM,Sarah Schultz,8
+Bay,"Pinconning City, Pct 1",State House,98,DEM,Sarah Schultz,86
+Bay,"Beaver Twp., Pct 1",State House,98,DEM,Sarah Schultz,195
+Bay,"Fraser Twp., Pct 1",State House,98,DEM,Sarah Schultz,269
+Bay,"Garfield Twp,, Pct 1",State House,98,DEM,Sarah Schultz,146
+Bay,"Gibson Twp., Pct 1",State House,98,DEM,Sarah Schultz,74
+Bay,"Mt. Forest Twp., Pct 1",State House,98,DEM,Sarah Schultz,94
+Bay,"Pinconning Twp., Pct 1",State House,98,DEM,Sarah Schultz,209
+Bay,"Williams Twp., Pct 1",State House,98,DEM,Sarah Schultz,219
+Bay,"Williams Twp., Pct 2",State House,98,DEM,Sarah Schultz,153
+Bay,"Williams Twp., Pct 3",State House,98,DEM,Sarah Schultz,59
+Bay,Total,State House,98,DEM,Sarah Schultz,1694
+Bay,"Bay City, ward X, Pct 1",State House,96,REP,Susan Kay Kowalski,196
+Bay,"Bay City, Ward 2, Pct 1",State House,96,REP,Susan Kay Kowalski,188
+Bay,"Bay City, Ward 3, Pct 1",State House,96,REP,Susan Kay Kowalski,131
+Bay,"Bay City, Ward 4, Pct 1",State House,96,REP,Susan Kay Kowalski,125
+Bay,"Bay City, Ward 5, Pct 1",State House,96,REP,Susan Kay Kowalski,212
+Bay,"Bay City, Ward 6, Pct 1",State House,96,REP,Susan Kay Kowalski,140
+Bay,"Bay City, Ward 7, Pct 1",State House,96,REP,Susan Kay Kowalski,190
+Bay,"Bay City, Ward 8, Pct 1",State House,96,REP,Susan Kay Kowalski,158
+Bay,"Bay City, Ward 9, Pct 1",State House,96,REP,Susan Kay Kowalski,171
+Bay,"Essexville City, Pct 1",State House,96,REP,Susan Kay Kowalski,135
+Bay,"Essexville City, Pct 2",State House,96,REP,Susan Kay Kowalski,149
+Bay,"Bangor Twp,, Pct 1",State House,96,REP,Susan Kay Kowalski,196
+Bay,"Bangor Twp., Pct 2",State House,96,REP,Susan Kay Kowalski,216
+Bay,"Bangor Twp., Pct 3",State House,96,REP,Susan Kay Kowalski,181
+Bay,"Bangor Twp., Pct 4",State House,96,REP,Susan Kay Kowalski,176
+Bay,"Bangor Twp., Pct 5",State House,96,REP,Susan Kay Kowalski,293
+Bay,"Bangor Twp., Pct 6",State House,96,REP,Susan Kay Kowalski,250
+Bay,"Frankenlust Twp., Pct 1",State House,96,REP,Susan Kay Kowalski,564
+Bay,"Hampton Twp., Pct 1",State House,96,REP,Susan Kay Kowalski,94
+Bay,"Hampton Twp., Pct 2",State House,96,REP,Susan Kay Kowalski,139
+Bay,"Hampton Twp., Pct 3",State House,96,REP,Susan Kay Kowalski,153
+Bay,"Hampton Twp,, Pct 4",State House,96,REP,Susan Kay Kowalski,123
+Bay,"Hampton Twp., Pct 5",State House,96,REP,Susan Kay Kowalski,109
+Bay,"Kawkawlin Twp., Pct 1",State House,96,REP,Susan Kay Kowalski,213
+Bay,"Kawkawlin Twp., Pct 2",State House,96,REP,Susan Kay Kowalski,188
+Bay,"Merritt Twp,, Pct 1",State House,96,REP,Susan Kay Kowalski,156
+Bay,"Monitor Twp., Pct 1",State House,96,REP,Susan Kay Kowalski,110
+Bay,"Monitor Twp., Pct 2",State House,96,REP,Susan Kay Kowalski,221
+Bay,"Monitor Twp., Pct 3",State House,96,REP,Susan Kay Kowalski,234
+Bay,"Monitor Twp,, Pct 4",State House,96,REP,Susan Kay Kowalski,237
+Bay,"Monitor Twp., Pct 5",State House,96,REP,Susan Kay Kowalski,223
+Bay,"Monitor Twp., Pct 6",State House,96,REP,Susan Kay Kowalski,155
+Bay,"Portsmouth Twp., Pct 1",State House,96,REP,Susan Kay Kowalski,123
+Bay,"Portsmouth Twp., Pct 2",State House,96,REP,Susan Kay Kowalski,158
+Bay,Total,State House,96,REP,Susan Kay Kowalski,6307
+Bay,"Bay City, ward X, Pct 1",State House,96,DEM,Brian K. Elder,365
+Bay,"Bay City, Ward 2, Pct 1",State House,96,DEM,Brian K. Elder,450
+Bay,"Bay City, Ward 3, Pct 1",State House,96,DEM,Brian K. Elder,311
+Bay,"Bay City, Ward 4, Pct 1",State House,96,DEM,Brian K. Elder,368
+Bay,"Bay City, Ward 5, Pct 1",State House,96,DEM,Brian K. Elder,501
+Bay,"Bay City, Ward 6, Pct 1",State House,96,DEM,Brian K. Elder,270
+Bay,"Bay City, Ward 7, Pct 1",State House,96,DEM,Brian K. Elder,343
+Bay,"Bay City, Ward 8, Pct 1",State House,96,DEM,Brian K. Elder,341
+Bay,"Bay City, Ward 9, Pct 1",State House,96,DEM,Brian K. Elder,348
+Bay,"Essexville City, Pct 1",State House,96,DEM,Brian K. Elder,229
+Bay,"Essexville City, Pct 2",State House,96,DEM,Brian K. Elder,233
+Bay,"Bangor Twp,, Pct 1",State House,96,DEM,Brian K. Elder,212
+Bay,"Bangor Twp., Pct 2",State House,96,DEM,Brian K. Elder,318
+Bay,"Bangor Twp., Pct 3",State House,96,DEM,Brian K. Elder,285
+Bay,"Bangor Twp., Pct 4",State House,96,DEM,Brian K. Elder,249
+Bay,"Bangor Twp., Pct 5",State House,96,DEM,Brian K. Elder,440
+Bay,"Bangor Twp., Pct 6",State House,96,DEM,Brian K. Elder,323
+Bay,"Frankenlust Twp., Pct 1",State House,96,DEM,Brian K. Elder,360
+Bay,"Hampton Twp., Pct 1",State House,96,DEM,Brian K. Elder,168
+Bay,"Hampton Twp., Pct 2",State House,96,DEM,Brian K. Elder,270
+Bay,"Hampton Twp., Pct 3",State House,96,DEM,Brian K. Elder,234
+Bay,"Hampton Twp,, Pct 4",State House,96,DEM,Brian K. Elder,306
+Bay,"Hampton Twp., Pct 5",State House,96,DEM,Brian K. Elder,205
+Bay,"Kawkawlin Twp., Pct 1",State House,96,DEM,Brian K. Elder,238
+Bay,"Kawkawlin Twp., Pct 2",State House,96,DEM,Brian K. Elder,198
+Bay,"Merritt Twp,, Pct 1",State House,96,DEM,Brian K. Elder,139
+Bay,"Monitor Twp., Pct 1",State House,96,DEM,Brian K. Elder,135
+Bay,"Monitor Twp., Pct 2",State House,96,DEM,Brian K. Elder,262
+Bay,"Monitor Twp., Pct 3",State House,96,DEM,Brian K. Elder,197
+Bay,"Monitor Twp,, Pct 4",State House,96,DEM,Brian K. Elder,239
+Bay,"Monitor Twp., Pct 5",State House,96,DEM,Brian K. Elder,236
+Bay,"Monitor Twp., Pct 6",State House,96,DEM,Brian K. Elder,133
+Bay,"Portsmouth Twp., Pct 1",State House,96,DEM,Brian K. Elder,185
+Bay,"Portsmouth Twp., Pct 2",State House,96,DEM,Brian K. Elder,237
+Bay,Total,State House,96,DEM,Brian K. Elder,9328
+Bay,"Auburn City, Pct 1",State Senate,31,REP,Kevin Daley,124
+Bay,"Bay City, ward X, Pct 1",State Senate,31,REP,Kevin Daley,125
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,REP,Kevin Daley,121
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,REP,Kevin Daley,84
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,REP,Kevin Daley,94
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,REP,Kevin Daley,145
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,REP,Kevin Daley,103
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,REP,Kevin Daley,105
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,REP,Kevin Daley,108
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,REP,Kevin Daley,110
+Bay,"Essexville City, Pct 1",State Senate,31,REP,Kevin Daley,98
+Bay,"Essexville City, Pct 2",State Senate,31,REP,Kevin Daley,102
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,REP,Kevin Daley,6
+Bay,"Pinconning City, Pct 1",State Senate,31,REP,Kevin Daley,38
+Bay,"Bangor Twp,, Pct 1",State Senate,31,REP,Kevin Daley,136
+Bay,"Bangor Twp., Pct 2",State Senate,31,REP,Kevin Daley,139
+Bay,"Bangor Twp., Pct 3",State Senate,31,REP,Kevin Daley,138
+Bay,"Bangor Twp., Pct 4",State Senate,31,REP,Kevin Daley,123
+Bay,"Bangor Twp., Pct 5",State Senate,31,REP,Kevin Daley,207
+Bay,"Bangor Twp., Pct 6",State Senate,31,REP,Kevin Daley,159
+Bay,"Beaver Twp., Pct 1",State Senate,31,REP,Kevin Daley,155
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,REP,Kevin Daley,412
+Bay,"Fraser Twp., Pct 1",State Senate,31,REP,Kevin Daley,151
+Bay,"Garfield Twp,, Pct 1",State Senate,31,REP,Kevin Daley,104
+Bay,"Gibson Twp., Pct 1",State Senate,31,REP,Kevin Daley,63
+Bay,"Hampton Twp., Pct 1",State Senate,31,REP,Kevin Daley,77
+Bay,"Hampton Twp., Pct 2",State Senate,31,REP,Kevin Daley,113
+Bay,"Hampton Twp., Pct 3",State Senate,31,REP,Kevin Daley,108
+Bay,"Hampton Twp,, Pct 4",State Senate,31,REP,Kevin Daley,94
+Bay,"Hampton Twp., Pct 5",State Senate,31,REP,Kevin Daley,66
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,REP,Kevin Daley,152
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,REP,Kevin Daley,130
+Bay,"Merritt Twp,, Pct 1",State Senate,31,REP,Kevin Daley,139
+Bay,"Monitor Twp., Pct 1",State Senate,31,REP,Kevin Daley,79
+Bay,"Monitor Twp., Pct 2",State Senate,31,REP,Kevin Daley,146
+Bay,"Monitor Twp., Pct 3",State Senate,31,REP,Kevin Daley,109
+Bay,"Monitor Twp,, Pct 4",State Senate,31,REP,Kevin Daley,157
+Bay,"Monitor Twp., Pct 5",State Senate,31,REP,Kevin Daley,137
+Bay,"Monitor Twp., Pct 6",State Senate,31,REP,Kevin Daley,103
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,REP,Kevin Daley,77
+Bay,"Pinconning Twp., Pct 1",State Senate,31,REP,Kevin Daley,141
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,REP,Kevin Daley,95
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,REP,Kevin Daley,135
+Bay,"Williams Twp., Pct 1",State Senate,31,REP,Kevin Daley,161
+Bay,"Williams Twp., Pct 2",State Senate,31,REP,Kevin Daley,94
+Bay,"Williams Twp., Pct 3",State Senate,31,REP,Kevin Daley,54
+Bay,Total,State Senate,31,REP,Kevin Daley,5517
+Bay,"Auburn City, Pct 1",State Senate,31,REP,Gary Glenn,151
+Bay,"Bay City, ward X, Pct 1",State Senate,31,REP,Gary Glenn,118
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,REP,Gary Glenn,113
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,REP,Gary Glenn,77
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,REP,Gary Glenn,62
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,REP,Gary Glenn,102
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,REP,Gary Glenn,78
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,REP,Gary Glenn,123
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,REP,Gary Glenn,88
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,REP,Gary Glenn,111
+Bay,"Essexville City, Pct 1",State Senate,31,REP,Gary Glenn,70
+Bay,"Essexville City, Pct 2",State Senate,31,REP,Gary Glenn,83
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,REP,Gary Glenn,3
+Bay,"Pinconning City, Pct 1",State Senate,31,REP,Gary Glenn,52
+Bay,"Bangor Twp,, Pct 1",State Senate,31,REP,Gary Glenn,118
+Bay,"Bangor Twp., Pct 2",State Senate,31,REP,Gary Glenn,129
+Bay,"Bangor Twp., Pct 3",State Senate,31,REP,Gary Glenn,94
+Bay,"Bangor Twp., Pct 4",State Senate,31,REP,Gary Glenn,84
+Bay,"Bangor Twp., Pct 5",State Senate,31,REP,Gary Glenn,145
+Bay,"Bangor Twp., Pct 6",State Senate,31,REP,Gary Glenn,149
+Bay,"Beaver Twp., Pct 1",State Senate,31,REP,Gary Glenn,215
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,REP,Gary Glenn,243
+Bay,"Fraser Twp., Pct 1",State Senate,31,REP,Gary Glenn,172
+Bay,"Garfield Twp,, Pct 1",State Senate,31,REP,Gary Glenn,114
+Bay,"Gibson Twp., Pct 1",State Senate,31,REP,Gary Glenn,44
+Bay,"Hampton Twp., Pct 1",State Senate,31,REP,Gary Glenn,49
+Bay,"Hampton Twp., Pct 2",State Senate,31,REP,Gary Glenn,69
+Bay,"Hampton Twp., Pct 3",State Senate,31,REP,Gary Glenn,88
+Bay,"Hampton Twp,, Pct 4",State Senate,31,REP,Gary Glenn,62
+Bay,"Hampton Twp., Pct 5",State Senate,31,REP,Gary Glenn,76
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,REP,Gary Glenn,130
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,REP,Gary Glenn,105
+Bay,"Merritt Twp,, Pct 1",State Senate,31,REP,Gary Glenn,71
+Bay,"Monitor Twp., Pct 1",State Senate,31,REP,Gary Glenn,57
+Bay,"Monitor Twp., Pct 2",State Senate,31,REP,Gary Glenn,118
+Bay,"Monitor Twp., Pct 3",State Senate,31,REP,Gary Glenn,194
+Bay,"Monitor Twp,, Pct 4",State Senate,31,REP,Gary Glenn,117
+Bay,"Monitor Twp., Pct 5",State Senate,31,REP,Gary Glenn,146
+Bay,"Monitor Twp., Pct 6",State Senate,31,REP,Gary Glenn,82
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,REP,Gary Glenn,84
+Bay,"Pinconning Twp., Pct 1",State Senate,31,REP,Gary Glenn,138
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,REP,Gary Glenn,62
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,REP,Gary Glenn,64
+Bay,"Williams Twp., Pct 1",State Senate,31,REP,Gary Glenn,216
+Bay,"Williams Twp., Pct 2",State Senate,31,REP,Gary Glenn,110
+Bay,"Williams Twp., Pct 3",State Senate,31,REP,Gary Glenn,45
+Bay,Total,State Senate,31,REP,Gary Glenn,4821
+Bay,"Auburn City, Pct 1",State Senate,31,DEM,Joni Batterbee,18
+Bay,"Bay City, ward X, Pct 1",State Senate,31,DEM,Joni Batterbee,48
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,DEM,Joni Batterbee,58
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,DEM,Joni Batterbee,30
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,DEM,Joni Batterbee,39
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,DEM,Joni Batterbee,45
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,DEM,Joni Batterbee,26
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,DEM,Joni Batterbee,26
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,DEM,Joni Batterbee,48
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,DEM,Joni Batterbee,29
+Bay,"Essexville City, Pct 1",State Senate,31,DEM,Joni Batterbee,29
+Bay,"Essexville City, Pct 2",State Senate,31,DEM,Joni Batterbee,29
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,DEM,Joni Batterbee,2
+Bay,"Pinconning City, Pct 1",State Senate,31,DEM,Joni Batterbee,12
+Bay,"Bangor Twp,, Pct 1",State Senate,31,DEM,Joni Batterbee,11
+Bay,"Bangor Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,35
+Bay,"Bangor Twp., Pct 3",State Senate,31,DEM,Joni Batterbee,26
+Bay,"Bangor Twp., Pct 4",State Senate,31,DEM,Joni Batterbee,16
+Bay,"Bangor Twp., Pct 5",State Senate,31,DEM,Joni Batterbee,35
+Bay,"Bangor Twp., Pct 6",State Senate,31,DEM,Joni Batterbee,17
+Bay,"Beaver Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,21
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,22
+Bay,"Fraser Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,21
+Bay,"Garfield Twp,, Pct 1",State Senate,31,DEM,Joni Batterbee,17
+Bay,"Gibson Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,9
+Bay,"Hampton Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,17
+Bay,"Hampton Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,20
+Bay,"Hampton Twp., Pct 3",State Senate,31,DEM,Joni Batterbee,17
+Bay,"Hampton Twp,, Pct 4",State Senate,31,DEM,Joni Batterbee,25
+Bay,"Hampton Twp., Pct 5",State Senate,31,DEM,Joni Batterbee,12
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,16
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,20
+Bay,"Merritt Twp,, Pct 1",State Senate,31,DEM,Joni Batterbee,9
+Bay,"Monitor Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,10
+Bay,"Monitor Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,21
+Bay,"Monitor Twp., Pct 3",State Senate,31,DEM,Joni Batterbee,16
+Bay,"Monitor Twp,, Pct 4",State Senate,31,DEM,Joni Batterbee,20
+Bay,"Monitor Twp., Pct 5",State Senate,31,DEM,Joni Batterbee,13
+Bay,"Monitor Twp., Pct 6",State Senate,31,DEM,Joni Batterbee,6
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,4
+Bay,"Pinconning Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,21
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,12
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,9
+Bay,"Williams Twp., Pct 1",State Senate,31,DEM,Joni Batterbee,22
+Bay,"Williams Twp., Pct 2",State Senate,31,DEM,Joni Batterbee,20
+Bay,"Williams Twp., Pct 3",State Senate,31,DEM,Joni Batterbee,3
+Bay,Total,State Senate,31,DEM,Joni Batterbee,982
+Bay,"Auburn City, Pct 1",State Senate,31,DEM,Bill Jordan,30
+Bay,"Bay City, ward X, Pct 1",State Senate,31,DEM,Bill Jordan,83
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,DEM,Bill Jordan,119
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,DEM,Bill Jordan,59
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,DEM,Bill Jordan,69
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,DEM,Bill Jordan,84
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,DEM,Bill Jordan,54
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,DEM,Bill Jordan,43
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,DEM,Bill Jordan,82
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,DEM,Bill Jordan,62
+Bay,"Essexville City, Pct 1",State Senate,31,DEM,Bill Jordan,51
+Bay,"Essexville City, Pct 2",State Senate,31,DEM,Bill Jordan,30
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,DEM,Bill Jordan,1
+Bay,"Pinconning City, Pct 1",State Senate,31,DEM,Bill Jordan,12
+Bay,"Bangor Twp,, Pct 1",State Senate,31,DEM,Bill Jordan,35
+Bay,"Bangor Twp., Pct 2",State Senate,31,DEM,Bill Jordan,59
+Bay,"Bangor Twp., Pct 3",State Senate,31,DEM,Bill Jordan,59
+Bay,"Bangor Twp., Pct 4",State Senate,31,DEM,Bill Jordan,67
+Bay,"Bangor Twp., Pct 5",State Senate,31,DEM,Bill Jordan,79
+Bay,"Bangor Twp., Pct 6",State Senate,31,DEM,Bill Jordan,99
+Bay,"Beaver Twp., Pct 1",State Senate,31,DEM,Bill Jordan,30
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,DEM,Bill Jordan,92
+Bay,"Fraser Twp., Pct 1",State Senate,31,DEM,Bill Jordan,31
+Bay,"Garfield Twp,, Pct 1",State Senate,31,DEM,Bill Jordan,13
+Bay,"Gibson Twp., Pct 1",State Senate,31,DEM,Bill Jordan,12
+Bay,"Hampton Twp., Pct 1",State Senate,31,DEM,Bill Jordan,37
+Bay,"Hampton Twp., Pct 2",State Senate,31,DEM,Bill Jordan,59
+Bay,"Hampton Twp., Pct 3",State Senate,31,DEM,Bill Jordan,43
+Bay,"Hampton Twp,, Pct 4",State Senate,31,DEM,Bill Jordan,55
+Bay,"Hampton Twp., Pct 5",State Senate,31,DEM,Bill Jordan,56
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,DEM,Bill Jordan,31
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,DEM,Bill Jordan,27
+Bay,"Merritt Twp,, Pct 1",State Senate,31,DEM,Bill Jordan,40
+Bay,"Monitor Twp., Pct 1",State Senate,31,DEM,Bill Jordan,18
+Bay,"Monitor Twp., Pct 2",State Senate,31,DEM,Bill Jordan,68
+Bay,"Monitor Twp., Pct 3",State Senate,31,DEM,Bill Jordan,47
+Bay,"Monitor Twp,, Pct 4",State Senate,31,DEM,Bill Jordan,60
+Bay,"Monitor Twp., Pct 5",State Senate,31,DEM,Bill Jordan,76
+Bay,"Monitor Twp., Pct 6",State Senate,31,DEM,Bill Jordan,31
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,DEM,Bill Jordan,12
+Bay,"Pinconning Twp., Pct 1",State Senate,31,DEM,Bill Jordan,25
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,DEM,Bill Jordan,35
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,DEM,Bill Jordan,43
+Bay,"Williams Twp., Pct 1",State Senate,31,DEM,Bill Jordan,46
+Bay,"Williams Twp., Pct 2",State Senate,31,DEM,Bill Jordan,22
+Bay,"Williams Twp., Pct 3",State Senate,31,DEM,Bill Jordan,10
+Bay,Total,State Senate,31,DEM,Bill Jordan,2196
+Bay,"Auburn City, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,123
+Bay,"Bay City, ward X, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,230
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,272
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,215
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,252
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,370
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,197
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,247
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,214
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,248
+Bay,"Essexville City, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,152
+Bay,"Essexville City, Pct 2",State Senate,31,DEM,Cynthia A. Luczak,160
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,3
+Bay,"Pinconning City, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,64
+Bay,"Bangor Twp,, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,183
+Bay,"Bangor Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,229
+Bay,"Bangor Twp., Pct 3",State Senate,31,DEM,Cynthia A. Luczak,215
+Bay,"Bangor Twp., Pct 4",State Senate,31,DEM,Cynthia A. Luczak,163
+Bay,"Bangor Twp., Pct 5",State Senate,31,DEM,Cynthia A. Luczak,332
+Bay,"Bangor Twp., Pct 6",State Senate,31,DEM,Cynthia A. Luczak,241
+Bay,"Beaver Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,157
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,222
+Bay,"Fraser Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,212
+Bay,"Garfield Twp,, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,110
+Bay,"Gibson Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,51
+Bay,"Hampton Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,115
+Bay,"Hampton Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,181
+Bay,"Hampton Twp., Pct 3",State Senate,31,DEM,Cynthia A. Luczak,174
+Bay,"Hampton Twp,, Pct 4",State Senate,31,DEM,Cynthia A. Luczak,227
+Bay,"Hampton Twp., Pct 5",State Senate,31,DEM,Cynthia A. Luczak,130
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,199
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,148
+Bay,"Merritt Twp,, Pct 1",State Senate,31,DEM,Cynthia A. Luczak,89
+Bay,"Monitor Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,114
+Bay,"Monitor Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,183
+Bay,"Monitor Twp., Pct 3",State Senate,31,DEM,Cynthia A. Luczak,127
+Bay,"Monitor Twp,, Pct 4",State Senate,31,DEM,Cynthia A. Luczak,143
+Bay,"Monitor Twp., Pct 5",State Senate,31,DEM,Cynthia A. Luczak,149
+Bay,"Monitor Twp., Pct 6",State Senate,31,DEM,Cynthia A. Luczak,102
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,75
+Bay,"Pinconning Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,166
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,144
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,191
+Bay,"Williams Twp., Pct 1",State Senate,31,DEM,Cynthia A. Luczak,137
+Bay,"Williams Twp., Pct 2",State Senate,31,DEM,Cynthia A. Luczak,109
+Bay,"Williams Twp., Pct 3",State Senate,31,DEM,Cynthia A. Luczak,41
+Bay,Total,State Senate,31,DEM,Cynthia A. Luczak,7806
+Bay,"Auburn City, Pct 1",State Senate,31,DEM,Chuck Stadler,9
+Bay,"Bay City, ward X, Pct 1",State Senate,31,DEM,Chuck Stadler,27
+Bay,"Bay City, Ward 2, Pct 1",State Senate,31,DEM,Chuck Stadler,25
+Bay,"Bay City, Ward 3, Pct 1",State Senate,31,DEM,Chuck Stadler,21
+Bay,"Bay City, Ward 4, Pct 1",State Senate,31,DEM,Chuck Stadler,23
+Bay,"Bay City, Ward 5, Pct 1",State Senate,31,DEM,Chuck Stadler,30
+Bay,"Bay City, Ward 6, Pct 1",State Senate,31,DEM,Chuck Stadler,11
+Bay,"Bay City, Ward 7, Pct 1",State Senate,31,DEM,Chuck Stadler,37
+Bay,"Bay City, Ward 8, Pct 1",State Senate,31,DEM,Chuck Stadler,20
+Bay,"Bay City, Ward 9, Pct 1",State Senate,31,DEM,Chuck Stadler,34
+Bay,"Essexville City, Pct 1",State Senate,31,DEM,Chuck Stadler,21
+Bay,"Essexville City, Pct 2",State Senate,31,DEM,Chuck Stadler,25
+Bay,"Midland City, Ward 1, Pct 1",State Senate,31,DEM,Chuck Stadler,1
+Bay,"Pinconning City, Pct 1",State Senate,31,DEM,Chuck Stadler,7
+Bay,"Bangor Twp,, Pct 1",State Senate,31,DEM,Chuck Stadler,7
+Bay,"Bangor Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,19
+Bay,"Bangor Twp., Pct 3",State Senate,31,DEM,Chuck Stadler,16
+Bay,"Bangor Twp., Pct 4",State Senate,31,DEM,Chuck Stadler,14
+Bay,"Bangor Twp., Pct 5",State Senate,31,DEM,Chuck Stadler,33
+Bay,"Bangor Twp., Pct 6",State Senate,31,DEM,Chuck Stadler,15
+Bay,"Beaver Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,19
+Bay,"Frankenlust Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,26
+Bay,"Fraser Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,21
+Bay,"Garfield Twp,, Pct 1",State Senate,31,DEM,Chuck Stadler,25
+Bay,"Gibson Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,2
+Bay,"Hampton Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,11
+Bay,"Hampton Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,21
+Bay,"Hampton Twp., Pct 3",State Senate,31,DEM,Chuck Stadler,17
+Bay,"Hampton Twp,, Pct 4",State Senate,31,DEM,Chuck Stadler,17
+Bay,"Hampton Twp., Pct 5",State Senate,31,DEM,Chuck Stadler,19
+Bay,"Kawkawlin Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,18
+Bay,"Kawkawlin Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,15
+Bay,"Merritt Twp,, Pct 1",State Senate,31,DEM,Chuck Stadler,7
+Bay,"Monitor Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,3
+Bay,"Monitor Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,9
+Bay,"Monitor Twp., Pct 3",State Senate,31,DEM,Chuck Stadler,15
+Bay,"Monitor Twp,, Pct 4",State Senate,31,DEM,Chuck Stadler,12
+Bay,"Monitor Twp., Pct 5",State Senate,31,DEM,Chuck Stadler,11
+Bay,"Monitor Twp., Pct 6",State Senate,31,DEM,Chuck Stadler,6
+Bay,"Mt. Forest Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,13
+Bay,"Pinconning Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,17
+Bay,"Portsmouth Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,9
+Bay,"Portsmouth Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,6
+Bay,"Williams Twp., Pct 1",State Senate,31,DEM,Chuck Stadler,26
+Bay,"Williams Twp., Pct 2",State Senate,31,DEM,Chuck Stadler,10
+Bay,"Williams Twp., Pct 3",State Senate,31,DEM,Chuck Stadler,6
+Bay,Total,State Senate,31,DEM,Chuck Stadler,756
+Bay,"Auburn City, Pct 1",U.S. House,5,REP,Travis Wines,212
+Bay,"Bay City, ward X, Pct 1",U.S. House,5,REP,Travis Wines,203
+Bay,"Bay City, Ward 2, Pct 1",U.S. House,5,REP,Travis Wines,188
+Bay,"Bay City, Ward 3, Pct 1",U.S. House,5,REP,Travis Wines,131
+Bay,"Bay City, Ward 4, Pct 1",U.S. House,5,REP,Travis Wines,125
+Bay,"Bay City, Ward 5, Pct 1",U.S. House,5,REP,Travis Wines,214
+Bay,"Bay City, Ward 6, Pct 1",U.S. House,5,REP,Travis Wines,146
+Bay,"Bay City, Ward 7, Pct 1",U.S. House,5,REP,Travis Wines,179
+Bay,"Bay City, Ward 8, Pct 1",U.S. House,5,REP,Travis Wines,160
+Bay,"Bay City, Ward 9, Pct 1",U.S. House,5,REP,Travis Wines,169
+Bay,"Essexville City, Pct 1",U.S. House,5,REP,Travis Wines,140
+Bay,"Essexville City, Pct 2",U.S. House,5,REP,Travis Wines,146
+Bay,"Midland City, Ward 1, Pct 1",U.S. House,5,REP,Travis Wines,7
+Bay,"Pinconning City, Pct 1",U.S. House,5,REP,Travis Wines,77
+Bay,"Bangor Twp,, Pct 1",U.S. House,5,REP,Travis Wines,190
+Bay,"Bangor Twp., Pct 2",U.S. House,5,REP,Travis Wines,210
+Bay,"Bangor Twp., Pct 3",U.S. House,5,REP,Travis Wines,179
+Bay,"Bangor Twp., Pct 4",U.S. House,5,REP,Travis Wines,167
+Bay,"Bangor Twp., Pct 5",U.S. House,5,REP,Travis Wines,284
+Bay,"Bangor Twp., Pct 6",U.S. House,5,REP,Travis Wines,251
+Bay,"Beaver Twp., Pct 1",U.S. House,5,REP,Travis Wines,267
+Bay,"Frankenlust Twp., Pct 1",U.S. House,5,REP,Travis Wines,551
+Bay,"Fraser Twp., Pct 1",U.S. House,5,REP,Travis Wines,247
+Bay,"Garfield Twp,, Pct 1",U.S. House,5,REP,Travis Wines,159
+Bay,"Gibson Twp., Pct 1",U.S. House,5,REP,Travis Wines,90
+Bay,"Hampton Twp., Pct 1",U.S. House,5,REP,Travis Wines,93
+Bay,"Hampton Twp., Pct 2",U.S. House,5,REP,Travis Wines,135
+Bay,"Hampton Twp., Pct 3",U.S. House,5,REP,Travis Wines,147
+Bay,"Hampton Twp,, Pct 4",U.S. House,5,REP,Travis Wines,118
+Bay,"Hampton Twp., Pct 5",U.S. House,5,REP,Travis Wines,110
+Bay,"Kawkawlin Twp., Pct 1",U.S. House,5,REP,Travis Wines,210
+Bay,"Kawkawlin Twp., Pct 2",U.S. House,5,REP,Travis Wines,184
+Bay,"Merritt Twp,, Pct 1",U.S. House,5,REP,Travis Wines,157
+Bay,"Monitor Twp., Pct 1",U.S. House,5,REP,Travis Wines,109
+Bay,"Monitor Twp., Pct 2",U.S. House,5,REP,Travis Wines,220
+Bay,"Monitor Twp., Pct 3",U.S. House,5,REP,Travis Wines,229
+Bay,"Monitor Twp,, Pct 4",U.S. House,5,REP,Travis Wines,227
+Bay,"Monitor Twp., Pct 5",U.S. House,5,REP,Travis Wines,215
+Bay,"Monitor Twp., Pct 6",U.S. House,5,REP,Travis Wines,152
+Bay,"Mt. Forest Twp., Pct 1",U.S. House,5,REP,Travis Wines,134
+Bay,"Pinconning Twp., Pct 1",U.S. House,5,REP,Travis Wines,236
+Bay,"Portsmouth Twp., Pct 1",U.S. House,5,REP,Travis Wines,126
+Bay,"Portsmouth Twp., Pct 2",U.S. House,5,REP,Travis Wines,149
+Bay,"Williams Twp., Pct 1",U.S. House,5,REP,Travis Wines,272
+Bay,"Williams Twp., Pct 2",U.S. House,5,REP,Travis Wines,158
+Bay,"Williams Twp., Pct 3",U.S. House,5,REP,Travis Wines,69
+Bay,Total,U.S. House,5,REP,Travis Wines,8142
+Bay,"Auburn City, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,190
+Bay,"Bay City, ward X, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,370
+Bay,"Bay City, Ward 2, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,464
+Bay,"Bay City, Ward 3, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,322
+Bay,"Bay City, Ward 4, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,377
+Bay,"Bay City, Ward 5, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,524
+Bay,"Bay City, Ward 6, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,286
+Bay,"Bay City, Ward 7, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,342
+Bay,"Bay City, Ward 8, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,358
+Bay,"Bay City, Ward 9, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,363
+Bay,"Essexville City, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,246
+Bay,"Essexville City, Pct 2",U.S. House,5,DEM,Daniel T. Kildee,240
+Bay,"Midland City, Ward 1, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,8
+Bay,"Pinconning City, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,93
+Bay,"Bangor Twp,, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,222
+Bay,"Bangor Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,334
+Bay,"Bangor Twp., Pct 3",U.S. House,5,DEM,Daniel T. Kildee,308
+Bay,"Bangor Twp., Pct 4",U.S. House,5,DEM,Daniel T. Kildee,257
+Bay,"Bangor Twp., Pct 5",U.S. House,5,DEM,Daniel T. Kildee,464
+Bay,"Bangor Twp., Pct 6",U.S. House,5,DEM,Daniel T. Kildee,334
+Bay,"Beaver Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,214
+Bay,"Frankenlust Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,367
+Bay,"Fraser Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,281
+Bay,"Garfield Twp,, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,161
+Bay,"Gibson Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,77
+Bay,"Hampton Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,166
+Bay,"Hampton Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,282
+Bay,"Hampton Twp., Pct 3",U.S. House,5,DEM,Daniel T. Kildee,237
+Bay,"Hampton Twp,, Pct 4",U.S. House,5,DEM,Daniel T. Kildee,312
+Bay,"Hampton Twp., Pct 5",U.S. House,5,DEM,Daniel T. Kildee,206
+Bay,"Kawkawlin Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,242
+Bay,"Kawkawlin Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,215
+Bay,"Merritt Twp,, Pct 1",U.S. House,5,DEM,Daniel T. Kildee,143
+Bay,"Monitor Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,144
+Bay,"Monitor Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,271
+Bay,"Monitor Twp., Pct 3",U.S. House,5,DEM,Daniel T. Kildee,200
+Bay,"Monitor Twp,, Pct 4",U.S. House,5,DEM,Daniel T. Kildee,240
+Bay,"Monitor Twp., Pct 5",U.S. House,5,DEM,Daniel T. Kildee,247
+Bay,"Monitor Twp., Pct 6",U.S. House,5,DEM,Daniel T. Kildee,141
+Bay,"Mt. Forest Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,105
+Bay,"Pinconning Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,219
+Bay,"Portsmouth Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,186
+Bay,"Portsmouth Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,245
+Bay,"Williams Twp., Pct 1",U.S. House,5,DEM,Daniel T. Kildee,228
+Bay,"Williams Twp., Pct 2",U.S. House,5,DEM,Daniel T. Kildee,165
+Bay,"Williams Twp., Pct 3",U.S. House,5,DEM,Daniel T. Kildee,60
+Bay,Total,U.S. House,5,DEM,Daniel T. Kildee,11456
+Bay,"Auburn City, Pct 1",U.S. Senate,,REP,John James,111
+Bay,"Bay City, ward X, Pct 1",U.S. Senate,,REP,John James,131
+Bay,"Bay City, Ward 2, Pct 1",U.S. Senate,,REP,John James,120
+Bay,"Bay City, Ward 3, Pct 1",U.S. Senate,,REP,John James,73
+Bay,"Bay City, Ward 4, Pct 1",U.S. Senate,,REP,John James,81
+Bay,"Bay City, Ward 5, Pct 1",U.S. Senate,,REP,John James,106
+Bay,"Bay City, Ward 6, Pct 1",U.S. Senate,,REP,John James,88
+Bay,"Bay City, Ward 7, Pct 1",U.S. Senate,,REP,John James,106
+Bay,"Bay City, Ward 8, Pct 1",U.S. Senate,,REP,John James,98
+Bay,"Bay City, Ward 9, Pct 1",U.S. Senate,,REP,John James,96
+Bay,"Essexville City, Pct 1",U.S. Senate,,REP,John James,86
+Bay,"Essexville City, Pct 2",U.S. Senate,,REP,John James,98
+Bay,"Midland City, Ward 1, Pct 1",U.S. Senate,,REP,John James,6
+Bay,"Pinconning City, Pct 1",U.S. Senate,,REP,John James,49
+Bay,"Bangor Twp,, Pct 1",U.S. Senate,,REP,John James,141
+Bay,"Bangor Twp., Pct 2",U.S. Senate,,REP,John James,119
+Bay,"Bangor Twp., Pct 3",U.S. Senate,,REP,John James,105
+Bay,"Bangor Twp., Pct 4",U.S. Senate,,REP,John James,81
+Bay,"Bangor Twp., Pct 5",U.S. Senate,,REP,John James,155
+Bay,"Bangor Twp., Pct 6",U.S. Senate,,REP,John James,150
+Bay,"Beaver Twp., Pct 1",U.S. Senate,,REP,John James,168
+Bay,"Frankenlust Twp., Pct 1",U.S. Senate,,REP,John James,300
+Bay,"Fraser Twp., Pct 1",U.S. Senate,,REP,John James,127
+Bay,"Garfield Twp,, Pct 1",U.S. Senate,,REP,John James,87
+Bay,"Gibson Twp., Pct 1",U.S. Senate,,REP,John James,62
+Bay,"Hampton Twp., Pct 1",U.S. Senate,,REP,John James,56
+Bay,"Hampton Twp., Pct 2",U.S. Senate,,REP,John James,81
+Bay,"Hampton Twp., Pct 3",U.S. Senate,,REP,John James,77
+Bay,"Hampton Twp,, Pct 4",U.S. Senate,,REP,John James,64
+Bay,"Hampton Twp., Pct 5",U.S. Senate,,REP,John James,67
+Bay,"Kawkawlin Twp., Pct 1",U.S. Senate,,REP,John James,150
+Bay,"Kawkawlin Twp., Pct 2",U.S. Senate,,REP,John James,99
+Bay,"Merritt Twp,, Pct 1",U.S. Senate,,REP,John James,79
+Bay,"Monitor Twp., Pct 1",U.S. Senate,,REP,John James,66
+Bay,"Monitor Twp., Pct 2",U.S. Senate,,REP,John James,118
+Bay,"Monitor Twp., Pct 3",U.S. Senate,,REP,John James,135
+Bay,"Monitor Twp,, Pct 4",U.S. Senate,,REP,John James,105
+Bay,"Monitor Twp., Pct 5",U.S. Senate,,REP,John James,113
+Bay,"Monitor Twp., Pct 6",U.S. Senate,,REP,John James,81
+Bay,"Mt. Forest Twp., Pct 1",U.S. Senate,,REP,John James,51
+Bay,"Pinconning Twp., Pct 1",U.S. Senate,,REP,John James,131
+Bay,"Portsmouth Twp., Pct 1",U.S. Senate,,REP,John James,79
+Bay,"Portsmouth Twp., Pct 2",U.S. Senate,,REP,John James,80
+Bay,"Williams Twp., Pct 1",U.S. Senate,,REP,John James,160
+Bay,"Williams Twp., Pct 2",U.S. Senate,,REP,John James,75
+Bay,"Williams Twp., Pct 3",U.S. Senate,,REP,John James,42
+Bay,Total,U.S. Senate,,REP,John James,4653
+Bay,"Auburn City, Pct 1",U.S. Senate,,REP,Sandy Pensler,154
+Bay,"Bay City, ward X, Pct 1",U.S. Senate,,REP,Sandy Pensler,116
+Bay,"Bay City, Ward 2, Pct 1",U.S. Senate,,REP,Sandy Pensler,117
+Bay,"Bay City, Ward 3, Pct 1",U.S. Senate,,REP,Sandy Pensler,93
+Bay,"Bay City, Ward 4, Pct 1",U.S. Senate,,REP,Sandy Pensler,78
+Bay,"Bay City, Ward 5, Pct 1",U.S. Senate,,REP,Sandy Pensler,149
+Bay,"Bay City, Ward 6, Pct 1",U.S. Senate,,REP,Sandy Pensler,93
+Bay,"Bay City, Ward 7, Pct 1",U.S. Senate,,REP,Sandy Pensler,125
+Bay,"Bay City, Ward 8, Pct 1",U.S. Senate,,REP,Sandy Pensler,98
+Bay,"Bay City, Ward 9, Pct 1",U.S. Senate,,REP,Sandy Pensler,132
+Bay,"Essexville City, Pct 1",U.S. Senate,,REP,Sandy Pensler,82
+Bay,"Essexville City, Pct 2",U.S. Senate,,REP,Sandy Pensler,88
+Bay,"Midland City, Ward 1, Pct 1",U.S. Senate,,REP,Sandy Pensler,3
+Bay,"Pinconning City, Pct 1",U.S. Senate,,REP,Sandy Pensler,40
+Bay,"Bangor Twp,, Pct 1",U.S. Senate,,REP,Sandy Pensler,117
+Bay,"Bangor Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,150
+Bay,"Bangor Twp., Pct 3",U.S. Senate,,REP,Sandy Pensler,133
+Bay,"Bangor Twp., Pct 4",U.S. Senate,,REP,Sandy Pensler,133
+Bay,"Bangor Twp., Pct 5",U.S. Senate,,REP,Sandy Pensler,205
+Bay,"Bangor Twp., Pct 6",U.S. Senate,,REP,Sandy Pensler,152
+Bay,"Beaver Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,189
+Bay,"Frankenlust Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,355
+Bay,"Fraser Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,196
+Bay,"Garfield Twp,, Pct 1",U.S. Senate,,REP,Sandy Pensler,129
+Bay,"Gibson Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,48
+Bay,"Hampton Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,75
+Bay,"Hampton Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,106
+Bay,"Hampton Twp., Pct 3",U.S. Senate,,REP,Sandy Pensler,123
+Bay,"Hampton Twp,, Pct 4",U.S. Senate,,REP,Sandy Pensler,93
+Bay,"Hampton Twp., Pct 5",U.S. Senate,,REP,Sandy Pensler,74
+Bay,"Kawkawlin Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,144
+Bay,"Kawkawlin Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,138
+Bay,"Merritt Twp,, Pct 1",U.S. Senate,,REP,Sandy Pensler,127
+Bay,"Monitor Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,72
+Bay,"Monitor Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,146
+Bay,"Monitor Twp., Pct 3",U.S. Senate,,REP,Sandy Pensler,164
+Bay,"Monitor Twp,, Pct 4",U.S. Senate,,REP,Sandy Pensler,178
+Bay,"Monitor Twp., Pct 5",U.S. Senate,,REP,Sandy Pensler,164
+Bay,"Monitor Twp., Pct 6",U.S. Senate,,REP,Sandy Pensler,105
+Bay,"Mt. Forest Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,109
+Bay,"Pinconning Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,149
+Bay,"Portsmouth Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,75
+Bay,"Portsmouth Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,120
+Bay,"Williams Twp., Pct 1",U.S. Senate,,REP,Sandy Pensler,204
+Bay,"Williams Twp., Pct 2",U.S. Senate,,REP,Sandy Pensler,128
+Bay,"Williams Twp., Pct 3",U.S. Senate,,REP,Sandy Pensler,55
+Bay,Total,U.S. Senate,,REP,Sandy Pensler,5724
+Bay,"Auburn City, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,193
+Bay,"Bay City, ward X, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,372
+Bay,"Bay City, Ward 2, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,478
+Bay,"Bay City, Ward 3, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,327
+Bay,"Bay City, Ward 4, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,379
+Bay,"Bay City, Ward 5, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,524
+Bay,"Bay City, Ward 6, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,286
+Bay,"Bay City, Ward 7, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,347
+Bay,"Bay City, Ward 8, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,359
+Bay,"Bay City, Ward 9, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,369
+Bay,"Essexville City, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,246
+Bay,"Essexville City, Pct 2",U.S. Senate,,DEM,Debbie Stabenow,244
+Bay,"Midland City, Ward 1, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,7
+Bay,"Pinconning City, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,90
+Bay,"Bangor Twp,, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,225
+Bay,"Bangor Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,332
+Bay,"Bangor Twp., Pct 3",U.S. Senate,,DEM,Debbie Stabenow,309
+Bay,"Bangor Twp., Pct 4",U.S. Senate,,DEM,Debbie Stabenow,264
+Bay,"Bangor Twp., Pct 5",U.S. Senate,,DEM,Debbie Stabenow,470
+Bay,"Bangor Twp., Pct 6",U.S. Senate,,DEM,Debbie Stabenow,335
+Bay,"Beaver Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,212
+Bay,"Frankenlust Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,366
+Bay,"Fraser Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,287
+Bay,"Garfield Twp,, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,165
+Bay,"Gibson Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,82
+Bay,"Hampton Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,165
+Bay,"Hampton Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,279
+Bay,"Hampton Twp., Pct 3",U.S. Senate,,DEM,Debbie Stabenow,244
+Bay,"Hampton Twp,, Pct 4",U.S. Senate,,DEM,Debbie Stabenow,319
+Bay,"Hampton Twp., Pct 5",U.S. Senate,,DEM,Debbie Stabenow,209
+Bay,"Kawkawlin Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,248
+Bay,"Kawkawlin Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,215
+Bay,"Merritt Twp,, Pct 1",U.S. Senate,,DEM,Debbie Stabenow,145
+Bay,"Monitor Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,150
+Bay,"Monitor Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,271
+Bay,"Monitor Twp., Pct 3",U.S. Senate,,DEM,Debbie Stabenow,200
+Bay,"Monitor Twp,, Pct 4",U.S. Senate,,DEM,Debbie Stabenow,246
+Bay,"Monitor Twp., Pct 5",U.S. Senate,,DEM,Debbie Stabenow,251
+Bay,"Monitor Twp., Pct 6",U.S. Senate,,DEM,Debbie Stabenow,142
+Bay,"Mt. Forest Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,101
+Bay,"Pinconning Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,221
+Bay,"Portsmouth Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,188
+Bay,"Portsmouth Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,241
+Bay,"Williams Twp., Pct 1",U.S. Senate,,DEM,Debbie Stabenow,230
+Bay,"Williams Twp., Pct 2",U.S. Senate,,DEM,Debbie Stabenow,164
+Bay,"Williams Twp., Pct 3",U.S. Senate,,DEM,Debbie Stabenow,60
+Bay,Total,U.S. Senate,,DEM,Debbie Stabenow,11557
+Bay,"Auburn City, Pct 1",Governor,,REP,Brian Calley,61
+Bay,"Bay City, ward X, Pct 1",Governor,,REP,Brian Calley,54
+Bay,"Bay City, Ward 2, Pct 1",Governor,,REP,Brian Calley,67
+Bay,"Bay City, Ward 3, Pct 1",Governor,,REP,Brian Calley,50
+Bay,"Bay City, Ward 4, Pct 1",Governor,,REP,Brian Calley,36
+Bay,"Bay City, Ward 5, Pct 1",Governor,,REP,Brian Calley,54
+Bay,"Bay City, Ward 6, Pct 1",Governor,,REP,Brian Calley,36
+Bay,"Bay City, Ward 7, Pct 1",Governor,,REP,Brian Calley,43
+Bay,"Bay City, Ward 8, Pct 1",Governor,,REP,Brian Calley,56
+Bay,"Bay City, Ward 9, Pct 1",Governor,,REP,Brian Calley,45
+Bay,"Essexville City, Pct 1",Governor,,REP,Brian Calley,44
+Bay,"Essexville City, Pct 2",Governor,,REP,Brian Calley,59
+Bay,"Midland City, Ward 1, Pct 1",Governor,,REP,Brian Calley,1
+Bay,"Pinconning City, Pct 1",Governor,,REP,Brian Calley,16
+Bay,"Bangor Twp,, Pct 1",Governor,,REP,Brian Calley,64
+Bay,"Bangor Twp., Pct 2",Governor,,REP,Brian Calley,55
+Bay,"Bangor Twp., Pct 3",Governor,,REP,Brian Calley,65
+Bay,"Bangor Twp., Pct 4",Governor,,REP,Brian Calley,37
+Bay,"Bangor Twp., Pct 5",Governor,,REP,Brian Calley,72
+Bay,"Bangor Twp., Pct 6",Governor,,REP,Brian Calley,71
+Bay,"Beaver Twp., Pct 1",Governor,,REP,Brian Calley,75
+Bay,"Frankenlust Twp., Pct 1",Governor,,REP,Brian Calley,143
+Bay,"Fraser Twp., Pct 1",Governor,,REP,Brian Calley,62
+Bay,"Garfield Twp,, Pct 1",Governor,,REP,Brian Calley,41
+Bay,"Gibson Twp., Pct 1",Governor,,REP,Brian Calley,22
+Bay,"Hampton Twp., Pct 1",Governor,,REP,Brian Calley,36
+Bay,"Hampton Twp., Pct 2",Governor,,REP,Brian Calley,46
+Bay,"Hampton Twp., Pct 3",Governor,,REP,Brian Calley,60
+Bay,"Hampton Twp,, Pct 4",Governor,,REP,Brian Calley,38
+Bay,"Hampton Twp., Pct 5",Governor,,REP,Brian Calley,34
+Bay,"Kawkawlin Twp., Pct 1",Governor,,REP,Brian Calley,54
+Bay,"Kawkawlin Twp., Pct 2",Governor,,REP,Brian Calley,55
+Bay,"Merritt Twp,, Pct 1",Governor,,REP,Brian Calley,61
+Bay,"Monitor Twp., Pct 1",Governor,,REP,Brian Calley,22
+Bay,"Monitor Twp., Pct 2",Governor,,REP,Brian Calley,63
+Bay,"Monitor Twp., Pct 3",Governor,,REP,Brian Calley,57
+Bay,"Monitor Twp,, Pct 4",Governor,,REP,Brian Calley,66
+Bay,"Monitor Twp., Pct 5",Governor,,REP,Brian Calley,55
+Bay,"Monitor Twp., Pct 6",Governor,,REP,Brian Calley,42
+Bay,"Mt. Forest Twp., Pct 1",Governor,,REP,Brian Calley,30
+Bay,"Pinconning Twp., Pct 1",Governor,,REP,Brian Calley,76
+Bay,"Portsmouth Twp., Pct 1",Governor,,REP,Brian Calley,37
+Bay,"Portsmouth Twp., Pct 2",Governor,,REP,Brian Calley,53
+Bay,"Williams Twp., Pct 1",Governor,,REP,Brian Calley,83
+Bay,"Williams Twp., Pct 2",Governor,,REP,Brian Calley,44
+Bay,"Williams Twp., Pct 3",Governor,,REP,Brian Calley,24
+Bay,Total,Governor,,REP,Brian Calley,2365
+Bay,"Auburn City, Pct 1",Governor,,REP,Patrick Colbeck,13
+Bay,"Bay City, ward X, Pct 1",Governor,,REP,Patrick Colbeck,11
+Bay,"Bay City, Ward 2, Pct 1",Governor,,REP,Patrick Colbeck,8
+Bay,"Bay City, Ward 3, Pct 1",Governor,,REP,Patrick Colbeck,18
+Bay,"Bay City, Ward 4, Pct 1",Governor,,REP,Patrick Colbeck,14
+Bay,"Bay City, Ward 5, Pct 1",Governor,,REP,Patrick Colbeck,14
+Bay,"Bay City, Ward 6, Pct 1",Governor,,REP,Patrick Colbeck,22
+Bay,"Bay City, Ward 7, Pct 1",Governor,,REP,Patrick Colbeck,24
+Bay,"Bay City, Ward 8, Pct 1",Governor,,REP,Patrick Colbeck,21
+Bay,"Bay City, Ward 9, Pct 1",Governor,,REP,Patrick Colbeck,21
+Bay,"Essexville City, Pct 1",Governor,,REP,Patrick Colbeck,9
+Bay,"Essexville City, Pct 2",Governor,,REP,Patrick Colbeck,8
+Bay,"Midland City, Ward 1, Pct 1",Governor,,REP,Patrick Colbeck,0
+Bay,"Pinconning City, Pct 1",Governor,,REP,Patrick Colbeck,10
+Bay,"Bangor Twp,, Pct 1",Governor,,REP,Patrick Colbeck,13
+Bay,"Bangor Twp., Pct 2",Governor,,REP,Patrick Colbeck,15
+Bay,"Bangor Twp., Pct 3",Governor,,REP,Patrick Colbeck,16
+Bay,"Bangor Twp., Pct 4",Governor,,REP,Patrick Colbeck,16
+Bay,"Bangor Twp., Pct 5",Governor,,REP,Patrick Colbeck,19
+Bay,"Bangor Twp., Pct 6",Governor,,REP,Patrick Colbeck,20
+Bay,"Beaver Twp., Pct 1",Governor,,REP,Patrick Colbeck,23
+Bay,"Frankenlust Twp., Pct 1",Governor,,REP,Patrick Colbeck,37
+Bay,"Fraser Twp., Pct 1",Governor,,REP,Patrick Colbeck,35
+Bay,"Garfield Twp,, Pct 1",Governor,,REP,Patrick Colbeck,15
+Bay,"Gibson Twp., Pct 1",Governor,,REP,Patrick Colbeck,7
+Bay,"Hampton Twp., Pct 1",Governor,,REP,Patrick Colbeck,9
+Bay,"Hampton Twp., Pct 2",Governor,,REP,Patrick Colbeck,17
+Bay,"Hampton Twp., Pct 3",Governor,,REP,Patrick Colbeck,12
+Bay,"Hampton Twp,, Pct 4",Governor,,REP,Patrick Colbeck,6
+Bay,"Hampton Twp., Pct 5",Governor,,REP,Patrick Colbeck,13
+Bay,"Kawkawlin Twp., Pct 1",Governor,,REP,Patrick Colbeck,50
+Bay,"Kawkawlin Twp., Pct 2",Governor,,REP,Patrick Colbeck,15
+Bay,"Merritt Twp,, Pct 1",Governor,,REP,Patrick Colbeck,11
+Bay,"Monitor Twp., Pct 1",Governor,,REP,Patrick Colbeck,14
+Bay,"Monitor Twp., Pct 2",Governor,,REP,Patrick Colbeck,15
+Bay,"Monitor Twp., Pct 3",Governor,,REP,Patrick Colbeck,25
+Bay,"Monitor Twp,, Pct 4",Governor,,REP,Patrick Colbeck,13
+Bay,"Monitor Twp., Pct 5",Governor,,REP,Patrick Colbeck,19
+Bay,"Monitor Twp., Pct 6",Governor,,REP,Patrick Colbeck,15
+Bay,"Mt. Forest Twp., Pct 1",Governor,,REP,Patrick Colbeck,10
+Bay,"Pinconning Twp., Pct 1",Governor,,REP,Patrick Colbeck,21
+Bay,"Portsmouth Twp., Pct 1",Governor,,REP,Patrick Colbeck,8
+Bay,"Portsmouth Twp., Pct 2",Governor,,REP,Patrick Colbeck,18
+Bay,"Williams Twp., Pct 1",Governor,,REP,Patrick Colbeck,21
+Bay,"Williams Twp., Pct 2",Governor,,REP,Patrick Colbeck,14
+Bay,"Williams Twp., Pct 3",Governor,,REP,Patrick Colbeck,6
+Bay,Total,Governor,,REP,Patrick Colbeck,741
+Bay,"Auburn City, Pct 1",Governor,,REP,Jim Hines,38
+Bay,"Bay City, ward X, Pct 1",Governor,,REP,Jim Hines,43
+Bay,"Bay City, Ward 2, Pct 1",Governor,,REP,Jim Hines,23
+Bay,"Bay City, Ward 3, Pct 1",Governor,,REP,Jim Hines,26
+Bay,"Bay City, Ward 4, Pct 1",Governor,,REP,Jim Hines,34
+Bay,"Bay City, Ward 5, Pct 1",Governor,,REP,Jim Hines,33
+Bay,"Bay City, Ward 6, Pct 1",Governor,,REP,Jim Hines,23
+Bay,"Bay City, Ward 7, Pct 1",Governor,,REP,Jim Hines,43
+Bay,"Bay City, Ward 8, Pct 1",Governor,,REP,Jim Hines,32
+Bay,"Bay City, Ward 9, Pct 1",Governor,,REP,Jim Hines,39
+Bay,"Essexville City, Pct 1",Governor,,REP,Jim Hines,25
+Bay,"Essexville City, Pct 2",Governor,,REP,Jim Hines,27
+Bay,"Midland City, Ward 1, Pct 1",Governor,,REP,Jim Hines,1
+Bay,"Pinconning City, Pct 1",Governor,,REP,Jim Hines,18
+Bay,"Bangor Twp,, Pct 1",Governor,,REP,Jim Hines,41
+Bay,"Bangor Twp., Pct 2",Governor,,REP,Jim Hines,41
+Bay,"Bangor Twp., Pct 3",Governor,,REP,Jim Hines,43
+Bay,"Bangor Twp., Pct 4",Governor,,REP,Jim Hines,43
+Bay,"Bangor Twp., Pct 5",Governor,,REP,Jim Hines,63
+Bay,"Bangor Twp., Pct 6",Governor,,REP,Jim Hines,40
+Bay,"Beaver Twp., Pct 1",Governor,,REP,Jim Hines,46
+Bay,"Frankenlust Twp., Pct 1",Governor,,REP,Jim Hines,127
+Bay,"Fraser Twp., Pct 1",Governor,,REP,Jim Hines,43
+Bay,"Garfield Twp,, Pct 1",Governor,,REP,Jim Hines,30
+Bay,"Gibson Twp., Pct 1",Governor,,REP,Jim Hines,9
+Bay,"Hampton Twp., Pct 1",Governor,,REP,Jim Hines,20
+Bay,"Hampton Twp., Pct 2",Governor,,REP,Jim Hines,27
+Bay,"Hampton Twp., Pct 3",Governor,,REP,Jim Hines,22
+Bay,"Hampton Twp,, Pct 4",Governor,,REP,Jim Hines,26
+Bay,"Hampton Twp., Pct 5",Governor,,REP,Jim Hines,19
+Bay,"Kawkawlin Twp., Pct 1",Governor,,REP,Jim Hines,34
+Bay,"Kawkawlin Twp., Pct 2",Governor,,REP,Jim Hines,29
+Bay,"Merritt Twp,, Pct 1",Governor,,REP,Jim Hines,26
+Bay,"Monitor Twp., Pct 1",Governor,,REP,Jim Hines,24
+Bay,"Monitor Twp., Pct 2",Governor,,REP,Jim Hines,55
+Bay,"Monitor Twp., Pct 3",Governor,,REP,Jim Hines,57
+Bay,"Monitor Twp,, Pct 4",Governor,,REP,Jim Hines,48
+Bay,"Monitor Twp., Pct 5",Governor,,REP,Jim Hines,53
+Bay,"Monitor Twp., Pct 6",Governor,,REP,Jim Hines,22
+Bay,"Mt. Forest Twp., Pct 1",Governor,,REP,Jim Hines,26
+Bay,"Pinconning Twp., Pct 1",Governor,,REP,Jim Hines,33
+Bay,"Portsmouth Twp., Pct 1",Governor,,REP,Jim Hines,25
+Bay,"Portsmouth Twp., Pct 2",Governor,,REP,Jim Hines,29
+Bay,"Williams Twp., Pct 1",Governor,,REP,Jim Hines,61
+Bay,"Williams Twp., Pct 2",Governor,,REP,Jim Hines,31
+Bay,"Williams Twp., Pct 3",Governor,,REP,Jim Hines,19
+Bay,Total,Governor,,REP,Jim Hines,1617
+Bay,"Auburn City, Pct 1",Governor,,REP,Bill Schuette,174
+Bay,"Bay City, ward X, Pct 1",Governor,,REP,Bill Schuette,148
+Bay,"Bay City, Ward 2, Pct 1",Governor,,REP,Bill Schuette,154
+Bay,"Bay City, Ward 3, Pct 1",Governor,,REP,Bill Schuette,75
+Bay,"Bay City, Ward 4, Pct 1",Governor,,REP,Bill Schuette,78
+Bay,"Bay City, Ward 5, Pct 1",Governor,,REP,Bill Schuette,161
+Bay,"Bay City, Ward 6, Pct 1",Governor,,REP,Bill Schuette,104
+Bay,"Bay City, Ward 7, Pct 1",Governor,,REP,Bill Schuette,128
+Bay,"Bay City, Ward 8, Pct 1",Governor,,REP,Bill Schuette,96
+Bay,"Bay City, Ward 9, Pct 1",Governor,,REP,Bill Schuette,133
+Bay,"Essexville City, Pct 1",Governor,,REP,Bill Schuette,102
+Bay,"Essexville City, Pct 2",Governor,,REP,Bill Schuette,108
+Bay,"Midland City, Ward 1, Pct 1",Governor,,REP,Bill Schuette,7
+Bay,"Pinconning City, Pct 1",Governor,,REP,Bill Schuette,47
+Bay,"Bangor Twp,, Pct 1",Governor,,REP,Bill Schuette,144
+Bay,"Bangor Twp., Pct 2",Governor,,REP,Bill Schuette,170
+Bay,"Bangor Twp., Pct 3",Governor,,REP,Bill Schuette,129
+Bay,"Bangor Twp., Pct 4",Governor,,REP,Bill Schuette,122
+Bay,"Bangor Twp., Pct 5",Governor,,REP,Bill Schuette,218
+Bay,"Bangor Twp., Pct 6",Governor,,REP,Bill Schuette,196
+Bay,"Beaver Twp., Pct 1",Governor,,REP,Bill Schuette,233
+Bay,"Frankenlust Twp., Pct 1",Governor,,REP,Bill Schuette,374
+Bay,"Fraser Twp., Pct 1",Governor,,REP,Bill Schuette,188
+Bay,"Garfield Twp,, Pct 1",Governor,,REP,Bill Schuette,142
+Bay,"Gibson Twp., Pct 1",Governor,,REP,Bill Schuette,71
+Bay,"Hampton Twp., Pct 1",Governor,,REP,Bill Schuette,70
+Bay,"Hampton Twp., Pct 2",Governor,,REP,Bill Schuette,106
+Bay,"Hampton Twp., Pct 3",Governor,,REP,Bill Schuette,118
+Bay,"Hampton Twp,, Pct 4",Governor,,REP,Bill Schuette,93
+Bay,"Hampton Twp., Pct 5",Governor,,REP,Bill Schuette,78
+Bay,"Kawkawlin Twp., Pct 1",Governor,,REP,Bill Schuette,162
+Bay,"Kawkawlin Twp., Pct 2",Governor,,REP,Bill Schuette,154
+Bay,"Merritt Twp,, Pct 1",Governor,,REP,Bill Schuette,113
+Bay,"Monitor Twp., Pct 1",Governor,,REP,Bill Schuette,81
+Bay,"Monitor Twp., Pct 2",Governor,,REP,Bill Schuette,144
+Bay,"Monitor Twp., Pct 3",Governor,,REP,Bill Schuette,170
+Bay,"Monitor Twp,, Pct 4",Governor,,REP,Bill Schuette,173
+Bay,"Monitor Twp., Pct 5",Governor,,REP,Bill Schuette,158
+Bay,"Monitor Twp., Pct 6",Governor,,REP,Bill Schuette,115
+Bay,"Mt. Forest Twp., Pct 1",Governor,,REP,Bill Schuette,96
+Bay,"Pinconning Twp., Pct 1",Governor,,REP,Bill Schuette,156
+Bay,"Portsmouth Twp., Pct 1",Governor,,REP,Bill Schuette,97
+Bay,"Portsmouth Twp., Pct 2",Governor,,REP,Bill Schuette,113
+Bay,"Williams Twp., Pct 1",Governor,,REP,Bill Schuette,224
+Bay,"Williams Twp., Pct 2",Governor,,REP,Bill Schuette,120
+Bay,"Williams Twp., Pct 3",Governor,,REP,Bill Schuette,54
+Bay,Total,Governor,,REP,Bill Schuette,6097
+Bay,"Auburn City, Pct 1",Governor,,DEM,Abdul El-Sayed,52
+Bay,"Bay City, ward X, Pct 1",Governor,,DEM,Abdul El-Sayed,121
+Bay,"Bay City, Ward 2, Pct 1",Governor,,DEM,Abdul El-Sayed,165
+Bay,"Bay City, Ward 3, Pct 1",Governor,,DEM,Abdul El-Sayed,115
+Bay,"Bay City, Ward 4, Pct 1",Governor,,DEM,Abdul El-Sayed,107
+Bay,"Bay City, Ward 5, Pct 1",Governor,,DEM,Abdul El-Sayed,125
+Bay,"Bay City, Ward 6, Pct 1",Governor,,DEM,Abdul El-Sayed,85
+Bay,"Bay City, Ward 7, Pct 1",Governor,,DEM,Abdul El-Sayed,101
+Bay,"Bay City, Ward 8, Pct 1",Governor,,DEM,Abdul El-Sayed,105
+Bay,"Bay City, Ward 9, Pct 1",Governor,,DEM,Abdul El-Sayed,108
+Bay,"Essexville City, Pct 1",Governor,,DEM,Abdul El-Sayed,61
+Bay,"Essexville City, Pct 2",Governor,,DEM,Abdul El-Sayed,59
+Bay,"Midland City, Ward 1, Pct 1",Governor,,DEM,Abdul El-Sayed,3
+Bay,"Pinconning City, Pct 1",Governor,,DEM,Abdul El-Sayed,16
+Bay,"Bangor Twp,, Pct 1",Governor,,DEM,Abdul El-Sayed,49
+Bay,"Bangor Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,51
+Bay,"Bangor Twp., Pct 3",Governor,,DEM,Abdul El-Sayed,59
+Bay,"Bangor Twp., Pct 4",Governor,,DEM,Abdul El-Sayed,49
+Bay,"Bangor Twp., Pct 5",Governor,,DEM,Abdul El-Sayed,83
+Bay,"Bangor Twp., Pct 6",Governor,,DEM,Abdul El-Sayed,64
+Bay,"Beaver Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,53
+Bay,"Frankenlust Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,95
+Bay,"Fraser Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,42
+Bay,"Garfield Twp,, Pct 1",Governor,,DEM,Abdul El-Sayed,25
+Bay,"Gibson Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,11
+Bay,"Hampton Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,50
+Bay,"Hampton Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,67
+Bay,"Hampton Twp., Pct 3",Governor,,DEM,Abdul El-Sayed,44
+Bay,"Hampton Twp,, Pct 4",Governor,,DEM,Abdul El-Sayed,73
+Bay,"Hampton Twp., Pct 5",Governor,,DEM,Abdul El-Sayed,71
+Bay,"Kawkawlin Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,36
+Bay,"Kawkawlin Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,41
+Bay,"Merritt Twp,, Pct 1",Governor,,DEM,Abdul El-Sayed,27
+Bay,"Monitor Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,29
+Bay,"Monitor Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,68
+Bay,"Monitor Twp., Pct 3",Governor,,DEM,Abdul El-Sayed,31
+Bay,"Monitor Twp,, Pct 4",Governor,,DEM,Abdul El-Sayed,45
+Bay,"Monitor Twp., Pct 5",Governor,,DEM,Abdul El-Sayed,67
+Bay,"Monitor Twp., Pct 6",Governor,,DEM,Abdul El-Sayed,22
+Bay,"Mt. Forest Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,21
+Bay,"Pinconning Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,37
+Bay,"Portsmouth Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,34
+Bay,"Portsmouth Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,39
+Bay,"Williams Twp., Pct 1",Governor,,DEM,Abdul El-Sayed,62
+Bay,"Williams Twp., Pct 2",Governor,,DEM,Abdul El-Sayed,45
+Bay,"Williams Twp., Pct 3",Governor,,DEM,Abdul El-Sayed,14
+Bay,Total,Governor,,DEM,Abdul El-Sayed,2727
+Bay,"Auburn City, Pct 1",Governor,,DEM,Shri Thanedar,45
+Bay,"Bay City, ward X, Pct 1",Governor,,DEM,Shri Thanedar,109
+Bay,"Bay City, Ward 2, Pct 1",Governor,,DEM,Shri Thanedar,84
+Bay,"Bay City, Ward 3, Pct 1",Governor,,DEM,Shri Thanedar,94
+Bay,"Bay City, Ward 4, Pct 1",Governor,,DEM,Shri Thanedar,102
+Bay,"Bay City, Ward 5, Pct 1",Governor,,DEM,Shri Thanedar,166
+Bay,"Bay City, Ward 6, Pct 1",Governor,,DEM,Shri Thanedar,90
+Bay,"Bay City, Ward 7, Pct 1",Governor,,DEM,Shri Thanedar,96
+Bay,"Bay City, Ward 8, Pct 1",Governor,,DEM,Shri Thanedar,96
+Bay,"Bay City, Ward 9, Pct 1",Governor,,DEM,Shri Thanedar,96
+Bay,"Essexville City, Pct 1",Governor,,DEM,Shri Thanedar,67
+Bay,"Essexville City, Pct 2",Governor,,DEM,Shri Thanedar,64
+Bay,"Midland City, Ward 1, Pct 1",Governor,,DEM,Shri Thanedar,1
+Bay,"Pinconning City, Pct 1",Governor,,DEM,Shri Thanedar,30
+Bay,"Bangor Twp,, Pct 1",Governor,,DEM,Shri Thanedar,52
+Bay,"Bangor Twp., Pct 2",Governor,,DEM,Shri Thanedar,96
+Bay,"Bangor Twp., Pct 3",Governor,,DEM,Shri Thanedar,83
+Bay,"Bangor Twp., Pct 4",Governor,,DEM,Shri Thanedar,61
+Bay,"Bangor Twp., Pct 5",Governor,,DEM,Shri Thanedar,129
+Bay,"Bangor Twp., Pct 6",Governor,,DEM,Shri Thanedar,94
+Bay,"Beaver Twp., Pct 1",Governor,,DEM,Shri Thanedar,53
+Bay,"Frankenlust Twp., Pct 1",Governor,,DEM,Shri Thanedar,69
+Bay,"Fraser Twp., Pct 1",Governor,,DEM,Shri Thanedar,73
+Bay,"Garfield Twp,, Pct 1",Governor,,DEM,Shri Thanedar,43
+Bay,"Gibson Twp., Pct 1",Governor,,DEM,Shri Thanedar,23
+Bay,"Hampton Twp., Pct 1",Governor,,DEM,Shri Thanedar,46
+Bay,"Hampton Twp., Pct 2",Governor,,DEM,Shri Thanedar,72
+Bay,"Hampton Twp., Pct 3",Governor,,DEM,Shri Thanedar,74
+Bay,"Hampton Twp,, Pct 4",Governor,,DEM,Shri Thanedar,109
+Bay,"Hampton Twp., Pct 5",Governor,,DEM,Shri Thanedar,44
+Bay,"Kawkawlin Twp., Pct 1",Governor,,DEM,Shri Thanedar,76
+Bay,"Kawkawlin Twp., Pct 2",Governor,,DEM,Shri Thanedar,55
+Bay,"Merritt Twp,, Pct 1",Governor,,DEM,Shri Thanedar,30
+Bay,"Monitor Twp., Pct 1",Governor,,DEM,Shri Thanedar,42
+Bay,"Monitor Twp., Pct 2",Governor,,DEM,Shri Thanedar,69
+Bay,"Monitor Twp., Pct 3",Governor,,DEM,Shri Thanedar,57
+Bay,"Monitor Twp,, Pct 4",Governor,,DEM,Shri Thanedar,58
+Bay,"Monitor Twp., Pct 5",Governor,,DEM,Shri Thanedar,54
+Bay,"Monitor Twp., Pct 6",Governor,,DEM,Shri Thanedar,37
+Bay,"Mt. Forest Twp., Pct 1",Governor,,DEM,Shri Thanedar,27
+Bay,"Pinconning Twp., Pct 1",Governor,,DEM,Shri Thanedar,67
+Bay,"Portsmouth Twp., Pct 1",Governor,,DEM,Shri Thanedar,48
+Bay,"Portsmouth Twp., Pct 2",Governor,,DEM,Shri Thanedar,61
+Bay,"Williams Twp., Pct 1",Governor,,DEM,Shri Thanedar,59
+Bay,"Williams Twp., Pct 2",Governor,,DEM,Shri Thanedar,39
+Bay,"Williams Twp., Pct 3",Governor,,DEM,Shri Thanedar,11
+Bay,Total,Governor,,DEM,Shri Thanedar,3051
+Bay,"Auburn City, Pct 1",Governor,,DEM,Gretchen Whitmer,103
+Bay,"Bay City, ward X, Pct 1",Governor,,DEM,Gretchen Whitmer,174
+Bay,"Bay City, Ward 2, Pct 1",Governor,,DEM,Gretchen Whitmer,261
+Bay,"Bay City, Ward 3, Pct 1",Governor,,DEM,Gretchen Whitmer,141
+Bay,"Bay City, Ward 4, Pct 1",Governor,,DEM,Gretchen Whitmer,188
+Bay,"Bay City, Ward 5, Pct 1",Governor,,DEM,Gretchen Whitmer,271
+Bay,"Bay City, Ward 6, Pct 1",Governor,,DEM,Gretchen Whitmer,134
+Bay,"Bay City, Ward 7, Pct 1",Governor,,DEM,Gretchen Whitmer,171
+Bay,"Bay City, Ward 8, Pct 1",Governor,,DEM,Gretchen Whitmer,179
+Bay,"Bay City, Ward 9, Pct 1",Governor,,DEM,Gretchen Whitmer,189
+Bay,"Essexville City, Pct 1",Governor,,DEM,Gretchen Whitmer,143
+Bay,"Essexville City, Pct 2",Governor,,DEM,Gretchen Whitmer,142
+Bay,"Midland City, Ward 1, Pct 1",Governor,,DEM,Gretchen Whitmer,4
+Bay,"Pinconning City, Pct 1",Governor,,DEM,Gretchen Whitmer,54
+Bay,"Bangor Twp,, Pct 1",Governor,,DEM,Gretchen Whitmer,147
+Bay,"Bangor Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,227
+Bay,"Bangor Twp., Pct 3",Governor,,DEM,Gretchen Whitmer,191
+Bay,"Bangor Twp., Pct 4",Governor,,DEM,Gretchen Whitmer,174
+Bay,"Bangor Twp., Pct 5",Governor,,DEM,Gretchen Whitmer,299
+Bay,"Bangor Twp., Pct 6",Governor,,DEM,Gretchen Whitmer,220
+Bay,"Beaver Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,136
+Bay,"Frankenlust Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,224
+Bay,"Fraser Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,185
+Bay,"Garfield Twp,, Pct 1",Governor,,DEM,Gretchen Whitmer,106
+Bay,"Gibson Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,52
+Bay,"Hampton Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,98
+Bay,"Hampton Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,168
+Bay,"Hampton Twp., Pct 3",Governor,,DEM,Gretchen Whitmer,146
+Bay,"Hampton Twp,, Pct 4",Governor,,DEM,Gretchen Whitmer,166
+Bay,"Hampton Twp., Pct 5",Governor,,DEM,Gretchen Whitmer,119
+Bay,"Kawkawlin Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,164
+Bay,"Kawkawlin Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,137
+Bay,"Merritt Twp,, Pct 1",Governor,,DEM,Gretchen Whitmer,96
+Bay,"Monitor Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,79
+Bay,"Monitor Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,164
+Bay,"Monitor Twp., Pct 3",Governor,,DEM,Gretchen Whitmer,126
+Bay,"Monitor Twp,, Pct 4",Governor,,DEM,Gretchen Whitmer,149
+Bay,"Monitor Twp., Pct 5",Governor,,DEM,Gretchen Whitmer,145
+Bay,"Monitor Twp., Pct 6",Governor,,DEM,Gretchen Whitmer,91
+Bay,"Mt. Forest Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,64
+Bay,"Pinconning Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,129
+Bay,"Portsmouth Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,117
+Bay,"Portsmouth Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,163
+Bay,"Williams Twp., Pct 1",Governor,,DEM,Gretchen Whitmer,128
+Bay,"Williams Twp., Pct 2",Governor,,DEM,Gretchen Whitmer,86
+Bay,"Williams Twp., Pct 3",Governor,,DEM,Gretchen Whitmer,35
+Bay,Total,Governor,,DEM,Gretchen Whitmer,6685
+Bay,"Auburn City, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Bay City, ward X, Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Bay City, Ward 2, Pct 1",Governor,,LIB,Bill Gelineau,2
+Bay,"Bay City, Ward 3, Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Bay City, Ward 4, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Bay City, Ward 5, Pct 1",Governor,,LIB,Bill Gelineau,2
+Bay,"Bay City, Ward 6, Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Bay City, Ward 7, Pct 1",Governor,,LIB,Bill Gelineau,3
+Bay,"Bay City, Ward 8, Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Bay City, Ward 9, Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Essexville City, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Essexville City, Pct 2",Governor,,LIB,Bill Gelineau,2
+Bay,"Midland City, Ward 1, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Pinconning City, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Bangor Twp,, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Bangor Twp., Pct 2",Governor,,LIB,Bill Gelineau,2
+Bay,"Bangor Twp., Pct 3",Governor,,LIB,Bill Gelineau,1
+Bay,"Bangor Twp., Pct 4",Governor,,LIB,Bill Gelineau,1
+Bay,"Bangor Twp., Pct 5",Governor,,LIB,Bill Gelineau,0
+Bay,"Bangor Twp., Pct 6",Governor,,LIB,Bill Gelineau,1
+Bay,"Beaver Twp., Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Frankenlust Twp., Pct 1",Governor,,LIB,Bill Gelineau,3
+Bay,"Fraser Twp., Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Garfield Twp,, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Gibson Twp., Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Hampton Twp., Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Hampton Twp., Pct 2",Governor,,LIB,Bill Gelineau,1
+Bay,"Hampton Twp., Pct 3",Governor,,LIB,Bill Gelineau,0
+Bay,"Hampton Twp,, Pct 4",Governor,,LIB,Bill Gelineau,0
+Bay,"Hampton Twp., Pct 5",Governor,,LIB,Bill Gelineau,0
+Bay,"Kawkawlin Twp., Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Kawkawlin Twp., Pct 2",Governor,,LIB,Bill Gelineau,0
+Bay,"Merritt Twp,, Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Monitor Twp., Pct 1",Governor,,LIB,Bill Gelineau,0
+Bay,"Monitor Twp., Pct 2",Governor,,LIB,Bill Gelineau,0
+Bay,"Monitor Twp., Pct 3",Governor,,LIB,Bill Gelineau,0
+Bay,"Monitor Twp,, Pct 4",Governor,,LIB,Bill Gelineau,0
+Bay,"Monitor Twp., Pct 5",Governor,,LIB,Bill Gelineau,2
+Bay,"Monitor Twp., Pct 6",Governor,,LIB,Bill Gelineau,1
+Bay,"Mt. Forest Twp., Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Pinconning Twp., Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Portsmouth Twp., Pct 1",Governor,,LIB,Bill Gelineau,1
+Bay,"Portsmouth Twp., Pct 2",Governor,,LIB,Bill Gelineau,1
+Bay,"Williams Twp., Pct 1",Governor,,LIB,Bill Gelineau,2
+Bay,"Williams Twp., Pct 2",Governor,,LIB,Bill Gelineau,1
+Bay,"Williams Twp., Pct 3",Governor,,LIB,Bill Gelineau,0
+Bay,Total,Governor,,LIB,Bill Gelineau,35
+Bay,"Auburn City, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, ward X, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 2, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 3, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 4, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 5, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 6, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 7, Pct 1",Governor,,LIB,John J. Tatar,2
+Bay,"Bay City, Ward 8, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bay City, Ward 9, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Essexville City, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Essexville City, Pct 2",Governor,,LIB,John J. Tatar,0
+Bay,"Midland City, Ward 1, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Pinconning City, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bangor Twp,, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Bangor Twp., Pct 2",Governor,,LIB,John J. Tatar,2
+Bay,"Bangor Twp., Pct 3",Governor,,LIB,John J. Tatar,0
+Bay,"Bangor Twp., Pct 4",Governor,,LIB,John J. Tatar,0
+Bay,"Bangor Twp., Pct 5",Governor,,LIB,John J. Tatar,1
+Bay,"Bangor Twp., Pct 6",Governor,,LIB,John J. Tatar,0
+Bay,"Beaver Twp., Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Frankenlust Twp., Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Fraser Twp., Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Garfield Twp,, Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Gibson Twp., Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Hampton Twp., Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Hampton Twp., Pct 2",Governor,,LIB,John J. Tatar,0
+Bay,"Hampton Twp., Pct 3",Governor,,LIB,John J. Tatar,0
+Bay,"Hampton Twp,, Pct 4",Governor,,LIB,John J. Tatar,1
+Bay,"Hampton Twp., Pct 5",Governor,,LIB,John J. Tatar,1
+Bay,"Kawkawlin Twp., Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Kawkawlin Twp., Pct 2",Governor,,LIB,John J. Tatar,0
+Bay,"Merritt Twp,, Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Monitor Twp., Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Monitor Twp., Pct 2",Governor,,LIB,John J. Tatar,0
+Bay,"Monitor Twp., Pct 3",Governor,,LIB,John J. Tatar,1
+Bay,"Monitor Twp,, Pct 4",Governor,,LIB,John J. Tatar,0
+Bay,"Monitor Twp., Pct 5",Governor,,LIB,John J. Tatar,1
+Bay,"Monitor Twp., Pct 6",Governor,,LIB,John J. Tatar,0
+Bay,"Mt. Forest Twp., Pct 1",Governor,,LIB,John J. Tatar,0
+Bay,"Pinconning Twp., Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Portsmouth Twp., Pct 1",Governor,,LIB,John J. Tatar,1
+Bay,"Portsmouth Twp., Pct 2",Governor,,LIB,John J. Tatar,0
+Bay,"Williams Twp., Pct 1",Governor,,LIB,John J. Tatar,2
+Bay,"Williams Twp., Pct 2",Governor,,LIB,John J. Tatar,2
+Bay,"Williams Twp., Pct 3",Governor,,LIB,John J. Tatar,1
+Bay,Total,Governor,,LIB,John J. Tatar,20
+Bay,"Auburn City, Pct 1",Registered Voters,,   ,,1476
+Bay,"Bay City, Ward 1, Pct 1",Registered Voters,,   ,,2537
+Bay,"Bay City, Ward 2, Pct 1",Registered Voters,,   ,,2589
+Bay,"Bay City, Ward 3, Pct 1",Registered Voters,,   ,,2494
+Bay,"Bay City, Ward 4, Pct 1",Registered Voters,,   ,,2636
+Bay,"Bay City, Ward 5, Pct 1",Registered Voters,,   ,,2844
+Bay,"Bay City, Ward 6, Pct 1",Registered Voters,,   ,,2569
+Bay,"Bay City, Ward 7, Pct 1",Registered Voters,,   ,,2585
+Bay,"Bay City, Ward 8, Pct 1",Registered Voters,,   ,,2532
+Bay,"Bay City, Ward 9, Pct 1",Registered Voters,,   ,,2584
+Bay,"Essexville City, Pct 1",Registered Voters,,   ,,1298
+Bay,"Essexville City, Pct 2",Registered Voters,,   ,,1361
+Bay,"Midland City, Ward 1, Pct 1",Registered Voters,,   ,,127
+Bay,"Pinconning City, Pct 1",Registered Voters,,   ,,869
+Bay,"Bangor Twp., Pct 1",Registered Voters,,   ,,1405
+Bay,"Bangor Twp., Pct 2",Registered Voters,,   ,,1860
+Bay,"Bangor Twp., Pct 3",Registered Voters,,   ,,1941
+Bay,"Bangor Twp., Pct 4",Registered Voters,,   ,,1594
+Bay,"Bangor Twp., Pct 5",Registered Voters,,   ,,2675
+Bay,"Bangor Twp., Pct 6",Registered Voters,,   ,,1958
+Bay,"Beaver Twp., Pct 1",Registered Voters,,   ,,2083
+Bay,"Frankenlust Twp., Pct 1",Registered Voters,,   ,,2899
+Bay,"Fraser Twp., Pct 1",Registered Voters,,   ,,2330
+Bay,"Garfield Twp., Pct 1",Registered Voters,,   ,,1290
+Bay,"Gibson Twp., Pct 1",Registered Voters,,   ,,842
+Bay,"Hampton Twp., Pct 1",Registered Voters,,   ,,921
+Bay,"Hampton Twp,, Pct 2",Registered Voters,,   ,,1402
+Bay,"Hampton Twp., Pct 3",Registered Voters,,   ,,1458
+Bay,"Hampton Twp., Pct 4",Registered Voters,,   ,,1803
+Bay,"Hampton Twp., Pct 5",Registered Voters,,   ,,1356
+Bay,"Kawkawlin Twp., Pct 1",Registered Voters,,   ,,2011
+Bay,"Kawkawlin Twp., Pct 2",Registered Voters,,   ,,1559
+Bay,"Merritt Twp,, Pct 1",Registered Voters,,   ,,1024
+Bay,"Monitor Twp., Pct 1",Registered Voters,,   ,,1121
+Bay,"Monitor Twp., Pct 2",Registered Voters,,   ,,1887
+Bay,"Monitor Twp., Pct 3",Registered Voters,,   ,,1523
+Bay,"Monitor Twp., Pct 4",Registered Voters,,   ,,1266
+Bay,"Monitor Twp., Pct 5",Registered Voters,,   ,,1696
+Bay,"Monitor Twp., Pct 6",Registered Voters,,   ,,985
+Bay,"Mt. Forest Twp., Pct 1",Registered Voters,,   ,,1071
+Bay,"Pinconning Twp., Pct 1",Registered Voters,,   ,,1792
+Bay,"Portsmouth Twp., Pct 1",Registered Voters,,   ,,1118
+Bay,"Portsmouth Twp., Pct 2",Registered Voters,,   ,,1591
+Bay,"Williams Twp., Pct 1",Registered Voters,,   ,,1855
+Bay,"Williams Twp., Pct 2",Registered Voters,,   ,,1399
+Bay,"Williams Twp., Pct 3",Registered Voters,,   ,,523
+Bay,Total,Registered Voters,,   ,,78739
+Bay,"Auburn City, Pct 1",Ballots Cast,,   ,,515
+Bay,"Bay City, Ward 1, Pct 1",Ballots Cast,,   ,,676
+Bay,"Bay City, Ward 2, Pct 1",Ballots Cast,,   ,,782
+Bay,"Bay City, Ward 3, Pct 1",Ballots Cast,,   ,,532
+Bay,"Bay City, Ward 4, Pct 1",Ballots Cast,,   ,,573
+Bay,"Bay City, Ward 5, Pct 1",Ballots Cast,,   ,,848
+Bay,"Bay City, Ward 6, Pct 1",Ballots Cast,,   ,,505
+Bay,"Bay City, Ward 7, Pct 1",Ballots Cast,,   ,,625
+Bay,"Bay City, Ward 8, Pct 1",Ballots Cast,,   ,,598
+Bay,"Bay City, Ward 9, Pct 1",Ballots Cast,,   ,,653
+Bay,"Essexville City, Pct 1",Ballots Cast,,   ,,467
+Bay,"Essexville City, Pct 2",Ballots Cast,,   ,,483
+Bay,"Midland City, Ward 1, Pct 1",Ballots Cast,,   ,,17
+Bay,"Pinconning City, Pct 1",Ballots Cast,,   ,,200
+Bay,"Bangor Twp., Pct 1",Ballots Cast,,   ,,546
+Bay,"Bangor Twp., Pct 2",Ballots Cast,,   ,,701
+Bay,"Bangor Twp., Pct 3",Ballots Cast,,   ,,624
+Bay,"Bangor Twp., Pct 4",Ballots Cast,,   ,,542
+Bay,"Bangor Twp., Pct 5",Ballots Cast,,   ,,934
+Bay,"Bangor Twp., Pct 6",Ballots Cast,,   ,,752
+Bay,"Beaver Twp., Pct 1",Ballots Cast,,   ,,630
+Bay,"Frankenlust Twp., Pct 1",Ballots Cast,,   ,,1113
+Bay,"Fraser Twp., Pct 1",Ballots Cast,,   ,,650
+Bay,"Garfield Twp., Pct 1",Ballots Cast,,   ,,424
+Bay,"Gibson Twp., Pct 1",Ballots Cast,,   ,,205
+Bay,"Hampton Twp., Pct 1",Ballots Cast,,   ,,363
+Bay,"Hampton Twp,, Pct 2",Ballots Cast,,   ,,557
+Bay,"Hampton Twp., Pct 3",Ballots Cast,,   ,,517
+Bay,"Hampton Twp., Pct 4",Ballots Cast,,   ,,533
+Bay,"Hampton Twp., Pct 5",Ballots Cast,,   ,,402
+Bay,"Kawkawlin Twp., Pct 1",Ballots Cast,,   ,,603
+Bay,"Kawkawlin Twp., Pct 2",Ballots Cast,,   ,,515
+Bay,"Merritt Twp,, Pct 1",Ballots Cast,,   ,,374
+Bay,"Monitor Twp., Pct 1",Ballots Cast,,   ,,300
+Bay,"Monitor Twp., Pct 2",Ballots Cast,,   ,,596
+Bay,"Monitor Twp., Pct 3",Ballots Cast,,   ,,540
+Bay,"Monitor Twp., Pct 4",Ballots Cast,,   ,,573
+Bay,"Monitor Twp., Pct 5",Ballots Cast,,   ,,568
+Bay,"Monitor Twp., Pct 6",Ballots Cast,,   ,,362
+Bay,"Mt. Forest Twp., Pct 1",Ballots Cast,,   ,,279
+Bay,"Pinconning Twp., Pct 1",Ballots Cast,,   ,,543
+Bay,"Portsmouth Twp., Pct 1",Ballots Cast,,   ,,384
+Bay,"Portsmouth Twp., Pct 2",Ballots Cast,,   ,,487
+Bay,"Williams Twp., Pct 1",Ballots Cast,,   ,,665
+Bay,"Williams Twp., Pct 2",Ballots Cast,,   ,,391
+Bay,"Williams Twp., Pct 3",Ballots Cast,,   ,,174
+Bay,Total,Ballots Cast,,   ,,24321

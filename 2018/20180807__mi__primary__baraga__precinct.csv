@@ -1,0 +1,388 @@
+county,precinct,office,district,party,candidate,votes
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Keith LaCosse,23
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Keith LaCosse,11
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Keith LaCosse,8
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Keith LaCosse,3
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Keith LaCosse,3
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Keith LaCosse,5
+Baraga,"L’Anse Township, Precinct 1",State House,110,REP,Keith LaCosse,38
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Keith LaCosse,14
+Baraga,Total,State House,110,REP,Keith LaCosse,105
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Gregory Markkanen,27
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Gregory Markkanen,39
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Gregory Markkanen,19
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Gregory Markkanen,23
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Gregory Markkanen,22
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Gregory Markkanen,26
+Baraga,"L’Anse Township, Precinct 1",State House,110,REP,Gregory Markkanen,90
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Gregory Markkanen,9
+Baraga,Total,State House,110,REP,Gregory Markkanen,255
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Kirk R. Schott,29
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Kirk R. Schott,21
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Kirk R. Schott,10
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Kirk R. Schott,22
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Kirk R. Schott,14
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Kirk R. Schott,11
+Baraga,"L’Anse Township, Precinct 1",State House,110,REP,Kirk R. Schott,88
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Kirk R. Schott,1
+Baraga,Total,State House,110,REP,Kirk R. Schott,196
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Brady J. Tervo,19
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Brady J. Tervo,20
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Brady J. Tervo,30
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Brady J. Tervo,6
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Brady J. Tervo,12
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Brady J. Tervo,12
+Baraga,"L’Anse Township, Precinct 1",State House,110,REP,Brady J. Tervo,77
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Brady J. Tervo,11
+Baraga,Total,State House,110,REP,Brady J. Tervo,187
+Baraga,"Arvon Township, Precinct 1",State House,110,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",State House,110,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State House,110,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State House,110,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",State House,110,REP,Write-ins,0
+Baraga,"Covington Township, Precinct 1",State House,110,REP,Write-ins,0
+Baraga,"L’Anse Township, Precinct 1",State House,110,REP,Write-ins,2
+Baraga,"Spurr Township, Precinct 1",State House,110,REP,Write-ins,0
+Baraga,Total,State House,110,REP,Write-ins,2
+Baraga,"Arvon Township, Precinct 1",State House,110,DEM,Ken Summers,43
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Ken Summers,101
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Ken Summers,31
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Ken Summers,23
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Ken Summers,36
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Ken Summers,31
+Baraga,"L’Anse Township, Precinct 1",State House,110,DEM,Ken Summers,306
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Ken Summers,36
+Baraga,Total,State House,110,DEM,Ken Summers,607
+Baraga,"Arvon Township, Precinct 1",State House,110,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",State House,110,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State House,110,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State House,110,DEM,Write-ins,1
+Baraga,"Baraga Township, Precinct 4",State House,110,DEM,Write-ins,1
+Baraga,"Covington Township, Precinct 1",State House,110,DEM,Write-ins,0
+Baraga,"L’Anse Township, Precinct 1",State House,110,DEM,Write-ins,1
+Baraga,"Spurr Township, Precinct 1",State House,110,DEM,Write-ins,0
+Baraga,Total,State House,110,DEM,Write-ins,3
+Baraga,"Arvon Township, Precinct 1",State House,110,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",State House,110,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State House,110,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State House,110,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",State House,110,LIB,Write-ins,0
+Baraga,"Covington Township, Precinct 1",State House,110,LIB,Write-ins,0
+Baraga,"L’Anse Township, Precinct 1",State House,110,LIB,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",State House,110,LIB,Write-ins,0
+Baraga,Total,State House,110,LIB,Write-ins,0
+Baraga,"Arvon Township, Precinct 1",State Senate,38,REP,Mike Carey,27
+Baraga,"Baraga Township, Precinct 1",State Senate,38,REP,Mike Carey,21
+Baraga,"Baraga Township, Precinct 2",State Senate,38,REP,Mike Carey,20
+Baraga,"Baraga Township, Precinct 3",State Senate,38,REP,Mike Carey,13
+Baraga,"Baraga Township, Precinct 4",State Senate,38,REP,Mike Carey,19
+Baraga,"Covington Township, Precinct 1",State Senate,38,REP,Mike Carey,13
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,REP,Mike Carey,135
+Baraga,"Spurr Township, Precinct 1",State Senate,38,REP,Mike Carey,9
+Baraga,Total,State Senate,38,REP,Mike Carey,257
+Baraga,"Arvon Township, Precinct 1",State Senate,38,REP,Ed McBroom,80
+Baraga,"Baraga Township, Precinct 1",State Senate,38,REP,Ed McBroom,79
+Baraga,"Baraga Township, Precinct 2",State Senate,38,REP,Ed McBroom,50
+Baraga,"Baraga Township, Precinct 3",State Senate,38,REP,Ed McBroom,46
+Baraga,"Baraga Township, Precinct 4",State Senate,38,REP,Ed McBroom,36
+Baraga,"Covington Township, Precinct 1",State Senate,38,REP,Ed McBroom,43
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,REP,Ed McBroom,190
+Baraga,"Spurr Township, Precinct 1",State Senate,38,REP,Ed McBroom,35
+Baraga,Total,State Senate,38,REP,Ed McBroom,559
+Baraga,"Arvon Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State Senate,38,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State Senate,38,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",State Senate,38,REP,Write-ins,0
+Baraga,"Covington Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,REP,Write-ins,1
+Baraga,"Spurr Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Baraga,Total,State Senate,38,REP,Write-ins,1
+Baraga,"Arvon Township, Precinct 1",State Senate,38,DEM,Scott Dianda,40
+Baraga,"Baraga Township, Precinct 1",State Senate,38,DEM,Scott Dianda,97
+Baraga,"Baraga Township, Precinct 2",State Senate,38,DEM,Scott Dianda,31
+Baraga,"Baraga Township, Precinct 3",State Senate,38,DEM,Scott Dianda,30
+Baraga,"Baraga Township, Precinct 4",State Senate,38,DEM,Scott Dianda,37
+Baraga,"Covington Township, Precinct 1",State Senate,38,DEM,Scott Dianda,33
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,DEM,Scott Dianda,304
+Baraga,"Spurr Township, Precinct 1",State Senate,38,DEM,Scott Dianda,36
+Baraga,Total,State Senate,38,DEM,Scott Dianda,608
+Baraga,"Arvon Township, Precinct 1",State Senate,38,DEM,Write-ins,2
+Baraga,"Baraga Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State Senate,38,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State Senate,38,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",State Senate,38,DEM,Write-ins,0
+Baraga,"Covington Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Baraga,"Spurr Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Baraga,Total,State Senate,38,DEM,Write-ins,3
+Baraga,"Arvon Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",State Senate,38,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",State Senate,38,LIB,Write-ins,0
+Baraga,"Covington Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Baraga,Total,State Senate,38,LIB,Write-ins,0
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,103
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,REP,Jack Bergman,97
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,REP,Jack Bergman,58
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,REP,Jack Bergman,50
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,REP,Jack Bergman,51
+Baraga,"Covington Township, Precinct 1",U.S. House,1,REP,Jack Bergman,55
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,REP,Jack Bergman,301
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,REP,Jack Bergman,40
+Baraga,Total,U.S. House,1,REP,Jack Bergman,755
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,REP,Write-ins,0
+Baraga,"Covington Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,REP,Write-ins,3
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Baraga,Total,U.S. House,1,REP,Write-ins,3
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,12
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,16
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,DEM,Matthew Morgan,18
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,DEM,Matthew Morgan,13
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Matthew Morgan,13
+Baraga,"Covington Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,10
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,139
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,21
+Baraga,Total,U.S. House,1,DEM,Matthew Morgan,242
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,DEM,Write-ins,7
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,DEM,Write-ins,2
+Baraga,"Covington Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,DEM,Write-ins,4
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Baraga,Total,U.S. House,1,DEM,Write-ins,16
+Baraga,"Arvon Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",U.S. House,1,LIB,Write-ins,0
+Baraga,"Covington Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Baraga,Total,U.S. House,1,LIB,Write-ins,0
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,John James,72
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,John James,58
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,John James,37
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,John James,38
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,John James,37
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,John James,30
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,John James,194
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,John James,26
+Baraga,Total,U.S. Senate,,REP,John James,492
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,32
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,35
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,27
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,16
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,Sandy Pensler,14
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,25
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,107
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,13
+Baraga,Total,U.S. Senate,,REP,Sandy Pensler,269
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,William F. White,0
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,William F. White,0
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,William F. White,0
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Baraga,Total,U.S. Senate,,REP,William F. White,0
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,REP,Write-ins,0
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Baraga,Total,U.S. Senate,,REP,Write-ins,1
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,40
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,98
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,28
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,29
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,35
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,31
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,294
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,38
+Baraga,Total,U.S. Senate,,DEM,Debbie Stabenow,593
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,DEM,Write-ins,1
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,DEM,Write-ins,0
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,DEM,Write-ins,4
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Baraga,Total,U.S. Senate,,DEM,Write-ins,5
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Baraga,Total,U.S. Senate,,LIB,Tim Yow,0
+Baraga,"Arvon Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Covington Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Baraga,Total,U.S. Senate,,LIB,Write-ins,0
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Patrick Colbeck,11
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Patrick Colbeck,4
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Patrick Colbeck,7
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Patrick Colbeck,9
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Patrick Colbeck,6
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Patrick Colbeck,24
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Baraga,Total,Governor,,REP,Patrick Colbeck,67
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Brian Calley,18
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Brian Calley,15
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Brian Calley,13
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Brian Calley,8
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Brian Calley,8
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Brian Calley,11
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Brian Calley,37
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Brian Calley,11
+Baraga,Total,Governor,,REP,Brian Calley,121
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Jim Hines,16
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Jim Hines,16
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Jim Hines,10
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Jim Hines,13
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Jim Hines,12
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Jim Hines,6
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Jim Hines,73
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Jim Hines,18
+Baraga,Total,Governor,,REP,Jim Hines,164
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Bill Schuette,63
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Bill Schuette,66
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Bill Schuette,39
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Bill Schuette,28
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Bill Schuette,29
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Bill Schuette,34
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Bill Schuette,193
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Bill Schuette,11
+Baraga,Total,Governor,,REP,Bill Schuette,463
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Evan Space,0
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Evan Space,0
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Evan Space,0
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Evan Space,0
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Evan Space,0
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Evan Space,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Evan Space,0
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Evan Space,0
+Baraga,Total,Governor,,REP,Evan Space,0
+Baraga,"Arvon Township, Precinct 1",Governor,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",Governor,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",Governor,,REP,Write-ins,2
+Baraga,"Baraga Township, Precinct 3",Governor,,REP,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",Governor,,REP,Write-ins,0
+Baraga,"Covington Township, Precinct 1",Governor,,REP,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,REP,Write-ins,1
+Baraga,"Spurr Township, Precinct 1",Governor,,REP,Write-ins,0
+Baraga,Total,Governor,,REP,Write-ins,3
+Baraga,"Arvon Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,11
+Baraga,"Baraga Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,19
+Baraga,"Baraga Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,7
+Baraga,"Baraga Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,9
+Baraga,"Baraga Township, Precinct 4",Governor,,DEM,Abdul El-Sayed,5
+Baraga,"Covington Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Baraga,"L'Anse Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,48
+Baraga,"Spurr Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Baraga,Total,Governor,,DEM,Abdul El-Sayed,104
+Baraga,"Arvon Township, Precinct 1",Governor,,DEM,Shri Thanedar,11
+Baraga,"Baraga Township, Precinct 1",Governor,,DEM,Shri Thanedar,34
+Baraga,"Baraga Township, Precinct 2",Governor,,DEM,Shri Thanedar,8
+Baraga,"Baraga Township, Precinct 3",Governor,,DEM,Shri Thanedar,5
+Baraga,"Baraga Township, Precinct 4",Governor,,DEM,Shri Thanedar,11
+Baraga,"Covington Township, Precinct 1",Governor,,DEM,Shri Thanedar,9
+Baraga,"L'Anse Township, Precinct 1",Governor,,DEM,Shri Thanedar,84
+Baraga,"Spurr Township, Precinct 1",Governor,,DEM,Shri Thanedar,16
+Baraga,Total,Governor,,DEM,Shri Thanedar,178
+Baraga,"Arvon Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,21
+Baraga,"Baraga Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,47
+Baraga,"Baraga Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,15
+Baraga,"Baraga Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,17
+Baraga,"Baraga Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,26
+Baraga,"Covington Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,19
+Baraga,"L'Anse Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,170
+Baraga,"Spurr Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,21
+Baraga,Total,Governor,,DEM,Gretchen Whitmer,336
+Baraga,"Arvon Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Baraga,"Baraga Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Baraga,"Baraga Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Baraga,"Baraga Township, Precinct 3",Governor,,DEM,William Cobbs,0
+Baraga,"Baraga Township, Precinct 4",Governor,,DEM,William Cobbs,0
+Baraga,"Covington Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Baraga,"Spurr Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Baraga,Total,Governor,,DEM,William Cobbs,0
+Baraga,"Arvon Township, Precinct 1",Governor,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",Governor,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",Governor,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",Governor,,DEM,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",Governor,,DEM,Write-ins,0
+Baraga,"Covington Township, Precinct 1",Governor,,DEM,Write-ins,1
+Baraga,"L'Anse Township, Precinct 1",Governor,,DEM,Write-ins,1
+Baraga,"Spurr Township, Precinct 1",Governor,,DEM,Write-ins,0
+Baraga,Total,Governor,,DEM,Write-ins,2
+Baraga,"Arvon Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Baraga,"Baraga Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Baraga,"Baraga Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Baraga,"Baraga Township, Precinct 3",Governor,,LIB,Bill Gelineau,0
+Baraga,"Baraga Township, Precinct 4",Governor,,LIB,Bill Gelineau,0
+Baraga,"Covington Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Baraga,"Spurr Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Baraga,Total,Governor,,LIB,Bill Gelineau,0
+Baraga,"Arvon Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Baraga,"Baraga Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Baraga,"Baraga Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Baraga,"Baraga Township, Precinct 3",Governor,,LIB,John J. Tatar,0
+Baraga,"Baraga Township, Precinct 4",Governor,,LIB,John J. Tatar,0
+Baraga,"Covington Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Baraga,"Spurr Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Baraga,Total,Governor,,LIB,John J. Tatar,1
+Baraga,"Arvon Township, Precinct 1",Governor,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 1",Governor,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 2",Governor,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 3",Governor,,LIB,Write-ins,0
+Baraga,"Baraga Township, Precinct 4",Governor,,LIB,Write-ins,0
+Baraga,"Covington Township, Precinct 1",Governor,,LIB,Write-ins,0
+Baraga,"L'Anse Township, Precinct 1",Governor,,LIB,Write-ins,0
+Baraga,"Spurr Township, Precinct 1",Governor,,LIB,Write-ins,0
+Baraga,Total,Governor,,LIB,Write-ins,0
+Baraga,"Arvon Township, Precinct 1",Registered Voters,,   ,,437
+Baraga,"Baraga Township, Precinct 1",Registered Voters,,   ,,1194
+Baraga,"Baraga Township, Precinct 2",Registered Voters,,   ,,361
+Baraga,"Baraga Township, Precinct 3",Registered Voters,,   ,,272
+Baraga,"Baraga Township, Precinct 4",Registered Voters,,   ,,413
+Baraga,"Covington Township, Precinct 1",Registered Voters,,   ,,341
+Baraga,"L’Anse Township, Precinct 1",Registered Voters,,   ,,3019
+Baraga,"Spurr Township, Precinct 1",Registered Voters,,   ,,245
+Baraga,Total,Registered Voters,,   ,,6282
+Baraga,"Arvon Township, Precinct 1",Ballots Cast,,   ,,154
+Baraga,"Baraga Township, Precinct 1",Ballots Cast,,   ,,216
+Baraga,"Baraga Township, Precinct 2",Ballots Cast,,   ,,107
+Baraga,"Baraga Township, Precinct 3",Ballots Cast,,   ,,91
+Baraga,"Baraga Township, Precinct 4",Ballots Cast,,   ,,108
+Baraga,"Covington Township, Precinct 1",Ballots Cast,,   ,,92
+Baraga,"L’Anse Township, Precinct 1",Ballots Cast,,   ,,668
+Baraga,"Spurr Township, Precinct 1",Ballots Cast,,   ,,83
+Baraga,Total,Ballots Cast,,   ,,1519

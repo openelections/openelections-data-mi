@@ -1,0 +1,393 @@
+county,precinct,office,district,party,candidate,votes
+Benzie,Almira,State House,101,REP,Carolyn Cater,44
+Benzie,Benzonia,State House,101,REP,Carolyn Cater,34
+Benzie,Blaine,State House,101,REP,Carolyn Cater,19
+Benzie,Colfax,State House,101,REP,Carolyn Cater,9
+Benzie,Crystal Lake,State House,101,REP,Carolyn Cater,33
+Benzie,Gilmore,State House,101,REP,Carolyn Cater,8
+Benzie,Homestead,State House,101,REP,Carolyn Cater,32
+Benzie,Inland,State House,101,REP,Carolyn Cater,34
+Benzie,Joyfield,State House,101,REP,Carolyn Cater,7
+Benzie,Lake,State House,101,REP,Carolyn Cater,33
+Benzie,Platte,State House,101,REP,Carolyn Cater,10
+Benzie,Weldon,State House,101,REP,Carolyn Cater,9
+Benzie,City of Frankfort,State House,101,REP,Carolyn Cater,33
+Benzie,Total,State House,101,REP,Carolyn Cater,305
+Benzie,Almira,State House,101,REP,Jack O'Malley,488
+Benzie,Benzonia,State House,101,REP,Jack O'Malley,353
+Benzie,Blaine,State House,101,REP,Jack O'Malley,98
+Benzie,Colfax,State House,101,REP,Jack O'Malley,76
+Benzie,Crystal Lake,State House,101,REP,Jack O'Malley,174
+Benzie,Gilmore,State House,101,REP,Jack O'Malley,81
+Benzie,Homestead,State House,101,REP,Jack O'Malley,295
+Benzie,Inland,State House,101,REP,Jack O'Malley,264
+Benzie,Joyfield,State House,101,REP,Jack O'Malley,112
+Benzie,Lake,State House,101,REP,Jack O'Malley,170
+Benzie,Platte,State House,101,REP,Jack O'Malley,60
+Benzie,Weldon,State House,101,REP,Jack O'Malley,65
+Benzie,City of Frankfort,State House,101,REP,Jack O'Malley,137
+Benzie,Total,State House,101,REP,Jack O'Malley,2373
+Benzie,Almira,State House,101,DEM,Edward Hoogterp,29
+Benzie,Benzonia,State House,101,DEM,Edward Hoogterp,67
+Benzie,Blaine,State House,101,DEM,Edward Hoogterp,15
+Benzie,Colfax,State House,101,DEM,Edward Hoogterp,3
+Benzie,Crystal Lake,State House,101,DEM,Edward Hoogterp,69
+Benzie,Gilmore,State House,101,DEM,Edward Hoogterp,19
+Benzie,Homestead,State House,101,DEM,Edward Hoogterp,34
+Benzie,Inland,State House,101,DEM,Edward Hoogterp,20
+Benzie,Joyfield,State House,101,DEM,Edward Hoogterp,12
+Benzie,Lake,State House,101,DEM,Edward Hoogterp,36
+Benzie,Platte,State House,101,DEM,Edward Hoogterp,8
+Benzie,Weldon,State House,101,DEM,Edward Hoogterp,4
+Benzie,City of Frankfort,State House,101,DEM,Edward Hoogterp,43
+Benzie,Total,State House,101,DEM,Edward Hoogterp,359
+Benzie,Almira,State House,101,DEM,Kathy Wiejaczka,386
+Benzie,Benzonia,State House,101,DEM,Kathy Wiejaczka,319
+Benzie,Blaine,State House,101,DEM,Kathy Wiejaczka,64
+Benzie,Colfax,State House,101,DEM,Kathy Wiejaczka,37
+Benzie,Crystal Lake,State House,101,DEM,Kathy Wiejaczka,168
+Benzie,Gilmore,State House,101,DEM,Kathy Wiejaczka,110
+Benzie,Homestead,State House,101,DEM,Kathy Wiejaczka,192
+Benzie,Inland,State House,101,DEM,Kathy Wiejaczka,188
+Benzie,Joyfield,State House,101,DEM,Kathy Wiejaczka,78
+Benzie,Lake,State House,101,DEM,Kathy Wiejaczka,150
+Benzie,Platte,State House,101,DEM,Kathy Wiejaczka,62
+Benzie,Weldon,State House,101,DEM,Kathy Wiejaczka,58
+Benzie,City of Frankfort,State House,101,DEM,Kathy Wiejaczka,185
+Benzie,Total,State House,101,DEM,Kathy Wiejaczka,1997
+Benzie,Almira,State Senate,35,REP,Ray A. Franz,267
+Benzie,Benzonia,State Senate,35,REP,Ray A. Franz,144
+Benzie,Blaine,State Senate,35,REP,Ray A. Franz,47
+Benzie,Colfax,State Senate,35,REP,Ray A. Franz,29
+Benzie,Crystal Lake,State Senate,35,REP,Ray A. Franz,64
+Benzie,Gilmore,State Senate,35,REP,Ray A. Franz,30
+Benzie,Homestead,State Senate,35,REP,Ray A. Franz,116
+Benzie,Inland,State Senate,35,REP,Ray A. Franz,89
+Benzie,Joyfield,State Senate,35,REP,Ray A. Franz,56
+Benzie,Lake,State Senate,35,REP,Ray A. Franz,91
+Benzie,Platte,State Senate,35,REP,Ray A. Franz,31
+Benzie,Weldon,State Senate,35,REP,Ray A. Franz,28
+Benzie,City of Frankfort,State Senate,35,REP,Ray A. Franz,57
+Benzie,Total,State Senate,35,REP,Ray A. Franz,1049
+Benzie,Almira,State Senate,35,REP,Bruce R. Rendon,18
+Benzie,Benzonia,State Senate,35,REP,Bruce R. Rendon,15
+Benzie,Blaine,State Senate,35,REP,Bruce R. Rendon,4
+Benzie,Colfax,State Senate,35,REP,Bruce R. Rendon,5
+Benzie,Crystal Lake,State Senate,35,REP,Bruce R. Rendon,10
+Benzie,Gilmore,State Senate,35,REP,Bruce R. Rendon,2
+Benzie,Homestead,State Senate,35,REP,Bruce R. Rendon,20
+Benzie,Inland,State Senate,35,REP,Bruce R. Rendon,19
+Benzie,Joyfield,State Senate,35,REP,Bruce R. Rendon,5
+Benzie,Lake,State Senate,35,REP,Bruce R. Rendon,8
+Benzie,Platte,State Senate,35,REP,Bruce R. Rendon,3
+Benzie,Weldon,State Senate,35,REP,Bruce R. Rendon,1
+Benzie,City of Frankfort,State Senate,35,REP,Bruce R. Rendon,10
+Benzie,Total,State Senate,35,REP,Bruce R. Rendon,120
+Benzie,Almira,State Senate,35,REP,Cary Urka,14
+Benzie,Benzonia,State Senate,35,REP,Cary Urka,9
+Benzie,Blaine,State Senate,35,REP,Cary Urka,3
+Benzie,Colfax,State Senate,35,REP,Cary Urka,7
+Benzie,Crystal Lake,State Senate,35,REP,Cary Urka,7
+Benzie,Gilmore,State Senate,35,REP,Cary Urka,2
+Benzie,Homestead,State Senate,35,REP,Cary Urka,14
+Benzie,Inland,State Senate,35,REP,Cary Urka,14
+Benzie,Joyfield,State Senate,35,REP,Cary Urka,4
+Benzie,Lake,State Senate,35,REP,Cary Urka,6
+Benzie,Platte,State Senate,35,REP,Cary Urka,3
+Benzie,Weldon,State Senate,35,REP,Cary Urka,1
+Benzie,City of Frankfort,State Senate,35,REP,Cary Urka,4
+Benzie,Total,State Senate,35,REP,Cary Urka,88
+Benzie,Almira,State Senate,35,REP,Curt VanderWall,224
+Benzie,Benzonia,State Senate,35,REP,Curt VanderWall,218
+Benzie,Blaine,State Senate,35,REP,Curt VanderWall,66
+Benzie,Colfax,State Senate,35,REP,Curt VanderWall,41
+Benzie,Crystal Lake,State Senate,35,REP,Curt VanderWall,129
+Benzie,Gilmore,State Senate,35,REP,Curt VanderWall,57
+Benzie,Homestead,State Senate,35,REP,Curt VanderWall,178
+Benzie,Inland,State Senate,35,REP,Curt VanderWall,166
+Benzie,Joyfield,State Senate,35,REP,Curt VanderWall,55
+Benzie,Lake,State Senate,35,REP,Curt VanderWall,109
+Benzie,Platte,State Senate,35,REP,Curt VanderWall,34
+Benzie,Weldon,State Senate,35,REP,Curt VanderWall,49
+Benzie,City of Frankfort,State Senate,35,REP,Curt VanderWall,99
+Benzie,Total,State Senate,35,REP,Curt VanderWall,1425
+Benzie,Almira,State Senate,35,DEM,Mike Taillard,378
+Benzie,Benzonia,State Senate,35,DEM,Mike Taillard,342
+Benzie,Blaine,State Senate,35,DEM,Mike Taillard,69
+Benzie,Colfax,State Senate,35,DEM,Mike Taillard,34
+Benzie,Crystal Lake,State Senate,35,DEM,Mike Taillard,217
+Benzie,Gilmore,State Senate,35,DEM,Mike Taillard,113
+Benzie,Homestead,State Senate,35,DEM,Mike Taillard,192
+Benzie,Inland,State Senate,35,DEM,Mike Taillard,182
+Benzie,Joyfield,State Senate,35,DEM,Mike Taillard,76
+Benzie,Lake,State Senate,35,DEM,Mike Taillard,156
+Benzie,Platte,State Senate,35,DEM,Mike Taillard,63
+Benzie,Weldon,State Senate,35,DEM,Mike Taillard,54
+Benzie,City of Frankfort,State Senate,35,DEM,Mike Taillard,195
+Benzie,Total,State Senate,35,DEM,Mike Taillard,2071
+Benzie,Almira,State Senate,35,LIB,Timothy Coon,3
+Benzie,Benzonia,State Senate,35,LIB,Timothy Coon,2
+Benzie,Blaine,State Senate,35,LIB,Timothy Coon,0
+Benzie,Colfax,State Senate,35,LIB,Timothy Coon,0
+Benzie,Crystal Lake,State Senate,35,LIB,Timothy Coon,0
+Benzie,Gilmore,State Senate,35,LIB,Timothy Coon,0
+Benzie,Homestead,State Senate,35,LIB,Timothy Coon,2
+Benzie,Inland,State Senate,35,LIB,Timothy Coon,1
+Benzie,Joyfield,State Senate,35,LIB,Timothy Coon,1
+Benzie,Lake,State Senate,35,LIB,Timothy Coon,0
+Benzie,Platte,State Senate,35,LIB,Timothy Coon,0
+Benzie,Weldon,State Senate,35,LIB,Timothy Coon,0
+Benzie,City of Frankfort,State Senate,35,LIB,Timothy Coon,0
+Benzie,Total,State Senate,35,LIB,Timothy Coon,9
+Benzie,Almira,U.S. House,1,REP,Jack Bergman,480
+Benzie,Benzonia,U.S. House,1,REP,Jack Bergman,364
+Benzie,Blaine,U.S. House,1,REP,Jack Bergman,101
+Benzie,Colfax,U.S. House,1,REP,Jack Bergman,75
+Benzie,Crystal Lake,U.S. House,1,REP,Jack Bergman,184
+Benzie,Gilmore,U.S. House,1,REP,Jack Bergman,75
+Benzie,Homestead,U.S. House,1,REP,Jack Bergman,294
+Benzie,Inland,U.S. House,1,REP,Jack Bergman,272
+Benzie,Joyfield,U.S. House,1,REP,Jack Bergman,102
+Benzie,Lake,U.S. House,1,REP,Jack Bergman,202
+Benzie,Platte,U.S. House,1,REP,Jack Bergman,65
+Benzie,Weldon,U.S. House,1,REP,Jack Bergman,70
+Benzie,City of Frankfort,U.S. House,1,REP,Jack Bergman,153
+Benzie,Total,U.S. House,1,REP,Jack Bergman,2437
+Benzie,Almira,U.S. House,1,DEM,Matthew Morgan,250
+Benzie,Benzonia,U.S. House,1,DEM,Matthew Morgan,223
+Benzie,Blaine,U.S. House,1,DEM,Matthew Morgan,44
+Benzie,Colfax,U.S. House,1,DEM,Matthew Morgan,13
+Benzie,Crystal Lake,U.S. House,1,DEM,Matthew Morgan,121
+Benzie,Gilmore,U.S. House,1,DEM,Matthew Morgan,66
+Benzie,Homestead,U.S. House,1,DEM,Matthew Morgan,106
+Benzie,Inland,U.S. House,1,DEM,Matthew Morgan,92
+Benzie,Joyfield,U.S. House,1,DEM,Matthew Morgan,35
+Benzie,Lake,U.S. House,1,DEM,Matthew Morgan,106
+Benzie,Platte,U.S. House,1,DEM,Matthew Morgan,35
+Benzie,Weldon,U.S. House,1,DEM,Matthew Morgan,28
+Benzie,City of Frankfort,U.S. House,1,DEM,Matthew Morgan,95
+Benzie,Total,U.S. House,1,DEM,Matthew Morgan,1214
+Benzie,Almira,U.S. Senate,,REP,John James,237
+Benzie,Benzonia,U.S. Senate,,REP,John James,140
+Benzie,Blaine,U.S. Senate,,REP,John James,45
+Benzie,Colfax,U.S. Senate,,REP,John James,34
+Benzie,Crystal Lake,U.S. Senate,,REP,John James,98
+Benzie,Gilmore,U.S. Senate,,REP,John James,41
+Benzie,Homestead,U.S. Senate,,REP,John James,112
+Benzie,Inland,U.S. Senate,,REP,John James,133
+Benzie,Joyfield,U.S. Senate,,REP,John James,60
+Benzie,Lake,U.S. Senate,,REP,John James,107
+Benzie,Platte,U.S. Senate,,REP,John James,32
+Benzie,Weldon,U.S. Senate,,REP,John James,28
+Benzie,City of Frankfort,U.S. Senate,,REP,John James,72
+Benzie,Total,U.S. Senate,,REP,John James,1139
+Benzie,Almira,U.S. Senate,,REP,Sandy Pensler,277
+Benzie,Benzonia,U.S. Senate,,REP,Sandy Pensler,238
+Benzie,Blaine,U.S. Senate,,REP,Sandy Pensler,67
+Benzie,Colfax,U.S. Senate,,REP,Sandy Pensler,49
+Benzie,Crystal Lake,U.S. Senate,,REP,Sandy Pensler,106
+Benzie,Gilmore,U.S. Senate,,REP,Sandy Pensler,44
+Benzie,Homestead,U.S. Senate,,REP,Sandy Pensler,200
+Benzie,Inland,U.S. Senate,,REP,Sandy Pensler,158
+Benzie,Joyfield,U.S. Senate,,REP,Sandy Pensler,55
+Benzie,Lake,U.S. Senate,,REP,Sandy Pensler,102
+Benzie,Platte,U.S. Senate,,REP,Sandy Pensler,40
+Benzie,Weldon,U.S. Senate,,REP,Sandy Pensler,42
+Benzie,City of Frankfort,U.S. Senate,,REP,Sandy Pensler,95
+Benzie,Total,U.S. Senate,,REP,Sandy Pensler,1473
+Benzie,Almira,U.S. Senate,,DEM,Debbie Stabenow,412
+Benzie,Benzonia,U.S. Senate,,DEM,Debbie Stabenow,381
+Benzie,Blaine,U.S. Senate,,DEM,Debbie Stabenow,78
+Benzie,Colfax,U.S. Senate,,DEM,Debbie Stabenow,41
+Benzie,Crystal Lake,U.S. Senate,,DEM,Debbie Stabenow,241
+Benzie,Gilmore,U.S. Senate,,DEM,Debbie Stabenow,133
+Benzie,Homestead,U.S. Senate,,DEM,Debbie Stabenow,213
+Benzie,Inland,U.S. Senate,,DEM,Debbie Stabenow,207
+Benzie,Joyfield,U.S. Senate,,DEM,Debbie Stabenow,85
+Benzie,Lake,U.S. Senate,,DEM,Debbie Stabenow,180
+Benzie,Platte,U.S. Senate,,DEM,Debbie Stabenow,69
+Benzie,Weldon,U.S. Senate,,DEM,Debbie Stabenow,61
+Benzie,City of Frankfort,U.S. Senate,,DEM,Debbie Stabenow,221
+Benzie,Total,U.S. Senate,,DEM,Debbie Stabenow,2322
+Benzie,Almira,U.S. Senate,,REP,William F. White,0
+Benzie,Benzonia,U.S. Senate,,REP,William F. White,0
+Benzie,Blaine,U.S. Senate,,REP,William F. White,0
+Benzie,Colfax,U.S. Senate,,REP,William F. White,0
+Benzie,Crystal Lake,U.S. Senate,,REP,William F. White,0
+Benzie,Gilmore,U.S. Senate,,REP,William F. White,0
+Benzie,Homestead,U.S. Senate,,REP,William F. White,0
+Benzie,Inland,U.S. Senate,,REP,William F. White,0
+Benzie,Joyfield,U.S. Senate,,REP,William F. White,0
+Benzie,Lake,U.S. Senate,,REP,William F. White,0
+Benzie,Platte,U.S. Senate,,REP,William F. White,0
+Benzie,Weldon,U.S. Senate,,REP,William F. White,0
+Benzie,City of Frankfort,U.S. Senate,,REP,William F. White,0
+Benzie,Total,U.S. Senate,,REP,William F. White,0
+Benzie,Almira,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Benzonia,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Blaine,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Colfax,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Crystal Lake,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Gilmore,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Homestead,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Inland,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Joyfield,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Lake,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Platte,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Weldon,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,City of Frankfort,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Total,U.S. Senate,,LIB - Write In,Tim Yow,0
+Benzie,Almira,Governor,,REP,Brian Calley,153
+Benzie,Benzonia,Governor,,REP,Brian Calley,110
+Benzie,Blaine,Governor,,REP,Brian Calley,44
+Benzie,Colfax,Governor,,REP,Brian Calley,23
+Benzie,Crystal Lake,Governor,,REP,Brian Calley,59
+Benzie,Gilmore,Governor,,REP,Brian Calley,34
+Benzie,Homestead,Governor,,REP,Brian Calley,80
+Benzie,Inland,Governor,,REP,Brian Calley,65
+Benzie,Joyfield,Governor,,REP,Brian Calley,36
+Benzie,Lake,Governor,,REP,Brian Calley,70
+Benzie,Platte,Governor,,REP,Brian Calley,24
+Benzie,Weldon,Governor,,REP,Brian Calley,21
+Benzie,City of Frankfort,Governor,,REP,Brian Calley,61
+Benzie,Total,Governor,,REP,Brian Calley,780
+Benzie,Almira,Governor,,REP,Patrick Colbeck,74
+Benzie,Benzonia,Governor,,REP,Patrick Colbeck,39
+Benzie,Blaine,Governor,,REP,Patrick Colbeck,6
+Benzie,Colfax,Governor,,REP,Patrick Colbeck,9
+Benzie,Crystal Lake,Governor,,REP,Patrick Colbeck,15
+Benzie,Gilmore,Governor,,REP,Patrick Colbeck,8
+Benzie,Homestead,Governor,,REP,Patrick Colbeck,32
+Benzie,Inland,Governor,,REP,Patrick Colbeck,43
+Benzie,Joyfield,Governor,,REP,Patrick Colbeck,15
+Benzie,Lake,Governor,,REP,Patrick Colbeck,18
+Benzie,Platte,Governor,,REP,Patrick Colbeck,5
+Benzie,Weldon,Governor,,REP,Patrick Colbeck,7
+Benzie,City of Frankfort,Governor,,REP,Patrick Colbeck,11
+Benzie,Total,Governor,,REP,Patrick Colbeck,282
+Benzie,Almira,Governor,,REP,Jim Hines,68
+Benzie,Benzonia,Governor,,REP,Jim Hines,52
+Benzie,Blaine,Governor,,REP,Jim Hines,12
+Benzie,Colfax,Governor,,REP,Jim Hines,10
+Benzie,Crystal Lake,Governor,,REP,Jim Hines,19
+Benzie,Gilmore,Governor,,REP,Jim Hines,4
+Benzie,Homestead,Governor,,REP,Jim Hines,34
+Benzie,Inland,Governor,,REP,Jim Hines,39
+Benzie,Joyfield,Governor,,REP,Jim Hines,10
+Benzie,Lake,Governor,,REP,Jim Hines,15
+Benzie,Platte,Governor,,REP,Jim Hines,3
+Benzie,Weldon,Governor,,REP,Jim Hines,6
+Benzie,City of Frankfort,Governor,,REP,Jim Hines,20
+Benzie,Total,Governor,,REP,Jim Hines,292
+Benzie,Almira,Governor,,REP,Bill Schuette,241
+Benzie,Benzonia,Governor,,REP,Bill Schuette,195
+Benzie,Blaine,Governor,,REP,Bill Schuette,59
+Benzie,Colfax,Governor,,REP,Bill Schuette,42
+Benzie,Crystal Lake,Governor,,REP,Bill Schuette,119
+Benzie,Gilmore,Governor,,REP,Bill Schuette,43
+Benzie,Homestead,Governor,,REP,Bill Schuette,182
+Benzie,Inland,Governor,,REP,Bill Schuette,155
+Benzie,Joyfield,Governor,,REP,Bill Schuette,61
+Benzie,Lake,Governor,,REP,Bill Schuette,116
+Benzie,Platte,Governor,,REP,Bill Schuette,41
+Benzie,Weldon,Governor,,REP,Bill Schuette,43
+Benzie,City of Frankfort,Governor,,REP,Bill Schuette,87
+Benzie,Total,Governor,,REP,Bill Schuette,1384
+Benzie,Almira,Governor,,DEM,Abdul El-Sayed,150
+Benzie,Benzonia,Governor,,DEM,Abdul El-Sayed,136
+Benzie,Blaine,Governor,,DEM,Abdul El-Sayed,20
+Benzie,Colfax,Governor,,DEM,Abdul El-Sayed,15
+Benzie,Crystal Lake,Governor,,DEM,Abdul El-Sayed,63
+Benzie,Gilmore,Governor,,DEM,Abdul El-Sayed,34
+Benzie,Homestead,Governor,,DEM,Abdul El-Sayed,81
+Benzie,Inland,Governor,,DEM,Abdul El-Sayed,58
+Benzie,Joyfield,Governor,,DEM,Abdul El-Sayed,18
+Benzie,Lake,Governor,,DEM,Abdul El-Sayed,36
+Benzie,Platte,Governor,,DEM,Abdul El-Sayed,31
+Benzie,Weldon,Governor,,DEM,Abdul El-Sayed,17
+Benzie,City of Frankfort,Governor,,DEM,Abdul El-Sayed,67
+Benzie,Total,Governor,,DEM,Abdul El-Sayed,726
+Benzie,Almira,Governor,,DEM,Shri Thanedar,44
+Benzie,Benzonia,Governor,,DEM,Shri Thanedar,39
+Benzie,Blaine,Governor,,DEM,Shri Thanedar,9
+Benzie,Colfax,Governor,,DEM,Shri Thanedar,2
+Benzie,Crystal Lake,Governor,,DEM,Shri Thanedar,25
+Benzie,Gilmore,Governor,,DEM,Shri Thanedar,23
+Benzie,Homestead,Governor,,DEM,Shri Thanedar,39
+Benzie,Inland,Governor,,DEM,Shri Thanedar,38
+Benzie,Joyfield,Governor,,DEM,Shri Thanedar,20
+Benzie,Lake,Governor,,DEM,Shri Thanedar,19
+Benzie,Platte,Governor,,DEM,Shri Thanedar,7
+Benzie,Weldon,Governor,,DEM,Shri Thanedar,11
+Benzie,City of Frankfort,Governor,,DEM,Shri Thanedar,26
+Benzie,Total,Governor,,DEM,Shri Thanedar,302
+Benzie,Almira,Governor,,DEM,Gretchen Whitmer,245
+Benzie,Benzonia,Governor,,DEM,Gretchen Whitmer,234
+Benzie,Blaine,Governor,,DEM,Gretchen Whitmer,53
+Benzie,Colfax,Governor,,DEM,Gretchen Whitmer,26
+Benzie,Crystal Lake,Governor,,DEM,Gretchen Whitmer,157
+Benzie,Gilmore,Governor,,DEM,Gretchen Whitmer,80
+Benzie,Homestead,Governor,,DEM,Gretchen Whitmer,121
+Benzie,Inland,Governor,,DEM,Gretchen Whitmer,124
+Benzie,Joyfield,Governor,,DEM,Gretchen Whitmer,56
+Benzie,Lake,Governor,,DEM,Gretchen Whitmer,135
+Benzie,Platte,Governor,,DEM,Gretchen Whitmer,37
+Benzie,Weldon,Governor,,DEM,Gretchen Whitmer,35
+Benzie,City of Frankfort,Governor,,DEM,Gretchen Whitmer,143
+Benzie,Total,Governor,,DEM,Gretchen Whitmer,1446
+Benzie,Almira,Governor,,LIB,Bill Gelineau,4
+Benzie,Benzonia,Governor,,LIB,Bill Gelineau,0
+Benzie,Blaine,Governor,,LIB,Bill Gelineau,0
+Benzie,Colfax,Governor,,LIB,Bill Gelineau,0
+Benzie,Crystal Lake,Governor,,LIB,Bill Gelineau,0
+Benzie,Gilmore,Governor,,LIB,Bill Gelineau,0
+Benzie,Homestead,Governor,,LIB,Bill Gelineau,2
+Benzie,Inland,Governor,,LIB,Bill Gelineau,0
+Benzie,Joyfield,Governor,,LIB,Bill Gelineau,1
+Benzie,Lake,Governor,,LIB,Bill Gelineau,0
+Benzie,Platte,Governor,,LIB,Bill Gelineau,0
+Benzie,Weldon,Governor,,LIB,Bill Gelineau,0
+Benzie,City of Frankfort,Governor,,LIB,Bill Gelineau,0
+Benzie,Total,Governor,,LIB,Bill Gelineau,7
+Benzie,Almira,Governor,,LIB,John J. Tatar,0
+Benzie,Benzonia,Governor,,LIB,John J. Tatar,2
+Benzie,Blaine,Governor,,LIB,John J. Tatar,0
+Benzie,Colfax,Governor,,LIB,John J. Tatar,0
+Benzie,Crystal Lake,Governor,,LIB,John J. Tatar,0
+Benzie,Gilmore,Governor,,LIB,John J. Tatar,0
+Benzie,Homestead,Governor,,LIB,John J. Tatar,0
+Benzie,Inland,Governor,,LIB,John J. Tatar,1
+Benzie,Joyfield,Governor,,LIB,John J. Tatar,0
+Benzie,Lake,Governor,,LIB,John J. Tatar,0
+Benzie,Platte,Governor,,LIB,John J. Tatar,0
+Benzie,Weldon,Governor,,LIB,John J. Tatar,0
+Benzie,City of Frankfort,Governor,,LIB,John J. Tatar,0
+Benzie,Total,Governor,,LIB,John J. Tatar,3
+Benzie,Almira,Governor,,REP,Evan Space,0
+Benzie,Benzonia,Governor,,REP,Evan Space,0
+Benzie,Blaine,Governor,,REP,Evan Space,0
+Benzie,Colfax,Governor,,REP,Evan Space,0
+Benzie,Crystal Lake,Governor,,REP,Evan Space,0
+Benzie,Gilmore,Governor,,REP,Evan Space,0
+Benzie,Homestead,Governor,,REP,Evan Space,0
+Benzie,Inland,Governor,,REP,Evan Space,0
+Benzie,Joyfield,Governor,,REP,Evan Space,0
+Benzie,Lake,Governor,,REP,Evan Space,0
+Benzie,Platte,Governor,,REP,Evan Space,0
+Benzie,Weldon,Governor,,REP,Evan Space,0
+Benzie,City of Frankfort,Governor,,REP,Evan Space,0
+Benzie,Total,Governor,,REP,Evan Space,0
+Benzie,Almira,Governor,,DEM,William Cobbs,0
+Benzie,Benzonia,Governor,,DEM,William Cobbs,0
+Benzie,Blaine,Governor,,DEM,William Cobbs,0
+Benzie,Colfax,Governor,,DEM,William Cobbs,0
+Benzie,Crystal Lake,Governor,,DEM,William Cobbs,0
+Benzie,Gilmore,Governor,,DEM,William Cobbs,0
+Benzie,Homestead,Governor,,DEM,William Cobbs,0
+Benzie,Inland,Governor,,DEM,William Cobbs,0
+Benzie,Joyfield,Governor,,DEM,William Cobbs,0
+Benzie,Lake,Governor,,DEM,William Cobbs,0
+Benzie,Platte,Governor,,DEM,William Cobbs,0
+Benzie,Weldon,Governor,,DEM,William Cobbs,0
+Benzie,City of Frankfort,Governor,,DEM,William Cobbs,0
+Benzie,Total,Governor,,DEM,William Cobbs,0

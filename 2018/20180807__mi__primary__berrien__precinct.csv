@@ -1,0 +1,638 @@
+county,precinct,office,district,party,candidate,votes
+Berrien,Bainbridge Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,10
+Berrien,Benton Charter Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,Benton Charter Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,Benton Charter Township Precinct 3,State House,79,REP,JoAnn DeMeulenaere,4
+Berrien,Benton Charter Township Precinct 4,State House,79,REP,JoAnn DeMeulenaere,4
+Berrien,Benton Charter Township Precinct 5,State House,79,REP,JoAnn DeMeulenaere,5
+Berrien,Benton Charter Township Precinct 6,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,City of Benton Harbor Precinct 1,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,City of Benton Harbor Precinct 2,State House,79,REP,JoAnn DeMeulenaere,2
+Berrien,City of Benton Harbor Precinct 3,State House,79,REP,JoAnn DeMeulenaere,1
+Berrien,City of Benton Harbor Precinct 4,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,City of Bridgman Precinct 1,State House,79,REP,JoAnn DeMeulenaere,77
+Berrien,City of Coloma Precinct 1,State House,79,REP,JoAnn DeMeulenaere,4
+Berrien,City of St. Joseph Precinct 1,State House,79,REP,JoAnn DeMeulenaere,10
+Berrien,City of St. Joseph Precinct 2,State House,79,REP,JoAnn DeMeulenaere,8
+Berrien,City of St. Joseph Precinct 3,State House,79,REP,JoAnn DeMeulenaere,5
+Berrien,City of Watervliet Precinct 1,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,Coloma Charter Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,5
+Berrien,Coloma Charter Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,8
+Berrien,Hagar Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,0
+Berrien,Hagar Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,5
+Berrien,Lake Charter Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,108
+Berrien,Lincoln Charter Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,18
+Berrien,Lincoln Charter Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,11
+Berrien,Lincoln Charter Township Precinct 3,State House,79,REP,JoAnn DeMeulenaere,14
+Berrien,Lincoln Charter Township Precinct 4,State House,79,REP,JoAnn DeMeulenaere,12
+Berrien,Lincoln Charter Township Precinct 5,State House,79,REP,JoAnn DeMeulenaere,6
+Berrien,Lincoln Charter Township Precinct 6,State House,79,REP,JoAnn DeMeulenaere,8
+Berrien,Royalton Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,13
+Berrien,Royalton Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,18
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,12
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,REP,JoAnn DeMeulenaere,8
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,REP,JoAnn DeMeulenaere,10
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,REP,JoAnn DeMeulenaere,10
+Berrien,Watervliet Township Precinct 1,State House,79,REP,JoAnn DeMeulenaere,4
+Berrien,Total,State House,79,REP,JoAnn DeMeulenaere,400
+Berrien,Bainbridge Township Precinct 1,State House,79,REP,Bruce Gorenflo,46
+Berrien,Benton Charter Township Precinct 1,State House,79,REP,Bruce Gorenflo,18
+Berrien,Benton Charter Township Precinct 2,State House,79,REP,Bruce Gorenflo,2
+Berrien,Benton Charter Township Precinct 3,State House,79,REP,Bruce Gorenflo,12
+Berrien,Benton Charter Township Precinct 4,State House,79,REP,Bruce Gorenflo,14
+Berrien,Benton Charter Township Precinct 5,State House,79,REP,Bruce Gorenflo,9
+Berrien,Benton Charter Township Precinct 6,State House,79,REP,Bruce Gorenflo,2
+Berrien,City of Benton Harbor Precinct 1,State House,79,REP,Bruce Gorenflo,0
+Berrien,City of Benton Harbor Precinct 2,State House,79,REP,Bruce Gorenflo,1
+Berrien,City of Benton Harbor Precinct 3,State House,79,REP,Bruce Gorenflo,0
+Berrien,City of Benton Harbor Precinct 4,State House,79,REP,Bruce Gorenflo,1
+Berrien,City of Bridgman Precinct 1,State House,79,REP,Bruce Gorenflo,29
+Berrien,City of Coloma Precinct 1,State House,79,REP,Bruce Gorenflo,20
+Berrien,City of St. Joseph Precinct 1,State House,79,REP,Bruce Gorenflo,55
+Berrien,City of St. Joseph Precinct 2,State House,79,REP,Bruce Gorenflo,63
+Berrien,City of St. Joseph Precinct 3,State House,79,REP,Bruce Gorenflo,45
+Berrien,City of Watervliet Precinct 1,State House,79,REP,Bruce Gorenflo,11
+Berrien,Coloma Charter Township Precinct 1,State House,79,REP,Bruce Gorenflo,31
+Berrien,Coloma Charter Township Precinct 2,State House,79,REP,Bruce Gorenflo,12
+Berrien,Hagar Township Precinct 1,State House,79,REP,Bruce Gorenflo,20
+Berrien,Hagar Township Precinct 2,State House,79,REP,Bruce Gorenflo,32
+Berrien,Lake Charter Township Precinct 1,State House,79,REP,Bruce Gorenflo,47
+Berrien,Lincoln Charter Township Precinct 1,State House,79,REP,Bruce Gorenflo,75
+Berrien,Lincoln Charter Township Precinct 2,State House,79,REP,Bruce Gorenflo,38
+Berrien,Lincoln Charter Township Precinct 3,State House,79,REP,Bruce Gorenflo,62
+Berrien,Lincoln Charter Township Precinct 4,State House,79,REP,Bruce Gorenflo,62
+Berrien,Lincoln Charter Township Precinct 5,State House,79,REP,Bruce Gorenflo,64
+Berrien,Lincoln Charter Township Precinct 6,State House,79,REP,Bruce Gorenflo,40
+Berrien,Royalton Township Precinct 1,State House,79,REP,Bruce Gorenflo,74
+Berrien,Royalton Township Precinct 2,State House,79,REP,Bruce Gorenflo,73
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,REP,Bruce Gorenflo,48
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,REP,Bruce Gorenflo,71
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,REP,Bruce Gorenflo,41
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,REP,Bruce Gorenflo,95
+Berrien,Watervliet Township Precinct 1,State House,79,REP,Bruce Gorenflo,23
+Berrien,Total,State House,79,REP,Bruce Gorenflo,1236
+Berrien,Bainbridge Township Precinct 1,State House,79,REP,Maria Moen,41
+Berrien,Benton Charter Township Precinct 1,State House,79,REP,Maria Moen,16
+Berrien,Benton Charter Township Precinct 2,State House,79,REP,Maria Moen,2
+Berrien,Benton Charter Township Precinct 3,State House,79,REP,Maria Moen,6
+Berrien,Benton Charter Township Precinct 4,State House,79,REP,Maria Moen,58
+Berrien,Benton Charter Township Precinct 5,State House,79,REP,Maria Moen,7
+Berrien,Benton Charter Township Precinct 6,State House,79,REP,Maria Moen,6
+Berrien,City of Benton Harbor Precinct 1,State House,79,REP,Maria Moen,2
+Berrien,City of Benton Harbor Precinct 2,State House,79,REP,Maria Moen,0
+Berrien,City of Benton Harbor Precinct 3,State House,79,REP,Maria Moen,0
+Berrien,City of Benton Harbor Precinct 4,State House,79,REP,Maria Moen,11
+Berrien,City of Bridgman Precinct 1,State House,79,REP,Maria Moen,65
+Berrien,City of Coloma Precinct 1,State House,79,REP,Maria Moen,14
+Berrien,City of St. Joseph Precinct 1,State House,79,REP,Maria Moen,147
+Berrien,City of St. Joseph Precinct 2,State House,79,REP,Maria Moen,118
+Berrien,City of St. Joseph Precinct 3,State House,79,REP,Maria Moen,69
+Berrien,City of Watervliet Precinct 1,State House,79,REP,Maria Moen,14
+Berrien,Coloma Charter Township Precinct 1,State House,79,REP,Maria Moen,39
+Berrien,Coloma Charter Township Precinct 2,State House,79,REP,Maria Moen,23
+Berrien,Hagar Township Precinct 1,State House,79,REP,Maria Moen,40
+Berrien,Hagar Township Precinct 2,State House,79,REP,Maria Moen,20
+Berrien,Lake Charter Township Precinct 1,State House,79,REP,Maria Moen,68
+Berrien,Lincoln Charter Township Precinct 1,State House,79,REP,Maria Moen,208
+Berrien,Lincoln Charter Township Precinct 2,State House,79,REP,Maria Moen,122
+Berrien,Lincoln Charter Township Precinct 3,State House,79,REP,Maria Moen,187
+Berrien,Lincoln Charter Township Precinct 4,State House,79,REP,Maria Moen,174
+Berrien,Lincoln Charter Township Precinct 5,State House,79,REP,Maria Moen,102
+Berrien,Lincoln Charter Township Precinct 6,State House,79,REP,Maria Moen,82
+Berrien,Royalton Township Precinct 1,State House,79,REP,Maria Moen,140
+Berrien,Royalton Township Precinct 2,State House,79,REP,Maria Moen,108
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,REP,Maria Moen,85
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,REP,Maria Moen,125
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,REP,Maria Moen,94
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,REP,Maria Moen,174
+Berrien,Watervliet Township Precinct 1,State House,79,REP,Maria Moen,39
+Berrien,Total,State House,79,REP,Maria Moen,2406
+Berrien,Bainbridge Township Precinct 1,State House,79,REP,Troy Rolling,63
+Berrien,Benton Charter Township Precinct 1,State House,79,REP,Troy Rolling,32
+Berrien,Benton Charter Township Precinct 2,State House,79,REP,Troy Rolling,6
+Berrien,Benton Charter Township Precinct 3,State House,79,REP,Troy Rolling,32
+Berrien,Benton Charter Township Precinct 4,State House,79,REP,Troy Rolling,31
+Berrien,Benton Charter Township Precinct 5,State House,79,REP,Troy Rolling,36
+Berrien,Benton Charter Township Precinct 6,State House,79,REP,Troy Rolling,15
+Berrien,City of Benton Harbor Precinct 1,State House,79,REP,Troy Rolling,3
+Berrien,City of Benton Harbor Precinct 2,State House,79,REP,Troy Rolling,5
+Berrien,City of Benton Harbor Precinct 3,State House,79,REP,Troy Rolling,5
+Berrien,City of Benton Harbor Precinct 4,State House,79,REP,Troy Rolling,3
+Berrien,City of Bridgman Precinct 1,State House,79,REP,Troy Rolling,29
+Berrien,City of Coloma Precinct 1,State House,79,REP,Troy Rolling,21
+Berrien,City of St. Joseph Precinct 1,State House,79,REP,Troy Rolling,72
+Berrien,City of St. Joseph Precinct 2,State House,79,REP,Troy Rolling,91
+Berrien,City of St. Joseph Precinct 3,State House,79,REP,Troy Rolling,52
+Berrien,City of Watervliet Precinct 1,State House,79,REP,Troy Rolling,22
+Berrien,Coloma Charter Township Precinct 1,State House,79,REP,Troy Rolling,50
+Berrien,Coloma Charter Township Precinct 2,State House,79,REP,Troy Rolling,21
+Berrien,Hagar Township Precinct 1,State House,79,REP,Troy Rolling,23
+Berrien,Hagar Township Precinct 2,State House,79,REP,Troy Rolling,25
+Berrien,Lake Charter Township Precinct 1,State House,79,REP,Troy Rolling,68
+Berrien,Lincoln Charter Township Precinct 1,State House,79,REP,Troy Rolling,216
+Berrien,Lincoln Charter Township Precinct 2,State House,79,REP,Troy Rolling,88
+Berrien,Lincoln Charter Township Precinct 3,State House,79,REP,Troy Rolling,126
+Berrien,Lincoln Charter Township Precinct 4,State House,79,REP,Troy Rolling,85
+Berrien,Lincoln Charter Township Precinct 5,State House,79,REP,Troy Rolling,37
+Berrien,Lincoln Charter Township Precinct 6,State House,79,REP,Troy Rolling,73
+Berrien,Royalton Township Precinct 1,State House,79,REP,Troy Rolling,70
+Berrien,Royalton Township Precinct 2,State House,79,REP,Troy Rolling,67
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,REP,Troy Rolling,46
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,REP,Troy Rolling,84
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,REP,Troy Rolling,98
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,REP,Troy Rolling,99
+Berrien,Watervliet Township Precinct 1,State House,79,REP,Troy Rolling,34
+Berrien,Total,State House,79,REP,Troy Rolling,1828
+Berrien,Bainbridge Township Precinct 1,State House,79,REP,Pauline Wendzel,442
+Berrien,Benton Charter Township Precinct 1,State House,79,REP,Pauline Wendzel,112
+Berrien,Benton Charter Township Precinct 2,State House,79,REP,Pauline Wendzel,20
+Berrien,Benton Charter Township Precinct 3,State House,79,REP,Pauline Wendzel,45
+Berrien,Benton Charter Township Precinct 4,State House,79,REP,Pauline Wendzel,79
+Berrien,Benton Charter Township Precinct 5,State House,79,REP,Pauline Wendzel,64
+Berrien,Benton Charter Township Precinct 6,State House,79,REP,Pauline Wendzel,20
+Berrien,City of Benton Harbor Precinct 1,State House,79,REP,Pauline Wendzel,7
+Berrien,City of Benton Harbor Precinct 2,State House,79,REP,Pauline Wendzel,1
+Berrien,City of Benton Harbor Precinct 3,State House,79,REP,Pauline Wendzel,1
+Berrien,City of Benton Harbor Precinct 4,State House,79,REP,Pauline Wendzel,5
+Berrien,City of Bridgman Precinct 1,State House,79,REP,Pauline Wendzel,105
+Berrien,City of Coloma Precinct 1,State House,79,REP,Pauline Wendzel,128
+Berrien,City of St. Joseph Precinct 1,State House,79,REP,Pauline Wendzel,155
+Berrien,City of St. Joseph Precinct 2,State House,79,REP,Pauline Wendzel,144
+Berrien,City of St. Joseph Precinct 3,State House,79,REP,Pauline Wendzel,143
+Berrien,City of Watervliet Precinct 1,State House,79,REP,Pauline Wendzel,114
+Berrien,Coloma Charter Township Precinct 1,State House,79,REP,Pauline Wendzel,282
+Berrien,Coloma Charter Township Precinct 2,State House,79,REP,Pauline Wendzel,215
+Berrien,Hagar Township Precinct 1,State House,79,REP,Pauline Wendzel,159
+Berrien,Hagar Township Precinct 2,State House,79,REP,Pauline Wendzel,152
+Berrien,Lake Charter Township Precinct 1,State House,79,REP,Pauline Wendzel,240
+Berrien,Lincoln Charter Township Precinct 1,State House,79,REP,Pauline Wendzel,255
+Berrien,Lincoln Charter Township Precinct 2,State House,79,REP,Pauline Wendzel,141
+Berrien,Lincoln Charter Township Precinct 3,State House,79,REP,Pauline Wendzel,176
+Berrien,Lincoln Charter Township Precinct 4,State House,79,REP,Pauline Wendzel,238
+Berrien,Lincoln Charter Township Precinct 5,State House,79,REP,Pauline Wendzel,125
+Berrien,Lincoln Charter Township Precinct 6,State House,79,REP,Pauline Wendzel,125
+Berrien,Royalton Township Precinct 1,State House,79,REP,Pauline Wendzel,168
+Berrien,Royalton Township Precinct 2,State House,79,REP,Pauline Wendzel,216
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,REP,Pauline Wendzel,159
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,REP,Pauline Wendzel,127
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,REP,Pauline Wendzel,126
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,REP,Pauline Wendzel,258
+Berrien,Watervliet Township Precinct 1,State House,79,REP,Pauline Wendzel,294
+Berrien,Total,State House,79,REP,Pauline Wendzel,5041
+Berrien,Bainbridge Township Precinct 1,State House,79,DEM,Joey B. Andrews,70
+Berrien,Benton Charter Township Precinct 1,State House,79,DEM,Joey B. Andrews,84
+Berrien,Benton Charter Township Precinct 2,State House,79,DEM,Joey B. Andrews,49
+Berrien,Benton Charter Township Precinct 3,State House,79,DEM,Joey B. Andrews,78
+Berrien,Benton Charter Township Precinct 4,State House,79,DEM,Joey B. Andrews,110
+Berrien,Benton Charter Township Precinct 5,State House,79,DEM,Joey B. Andrews,77
+Berrien,Benton Charter Township Precinct 6,State House,79,DEM,Joey B. Andrews,130
+Berrien,City of Benton Harbor Precinct 1,State House,79,DEM,Joey B. Andrews,96
+Berrien,City of Benton Harbor Precinct 2,State House,79,DEM,Joey B. Andrews,42
+Berrien,City of Benton Harbor Precinct 3,State House,79,DEM,Joey B. Andrews,94
+Berrien,City of Benton Harbor Precinct 4,State House,79,DEM,Joey B. Andrews,60
+Berrien,City of Bridgman Precinct 1,State House,79,DEM,Joey B. Andrews,90
+Berrien,City of Coloma Precinct 1,State House,79,DEM,Joey B. Andrews,49
+Berrien,City of St. Joseph Precinct 1,State House,79,DEM,Joey B. Andrews,218
+Berrien,City of St. Joseph Precinct 2,State House,79,DEM,Joey B. Andrews,225
+Berrien,City of St. Joseph Precinct 3,State House,79,DEM,Joey B. Andrews,171
+Berrien,City of Watervliet Precinct 1,State House,79,DEM,Joey B. Andrews,41
+Berrien,Coloma Charter Township Precinct 1,State House,79,DEM,Joey B. Andrews,71
+Berrien,Coloma Charter Township Precinct 2,State House,79,DEM,Joey B. Andrews,53
+Berrien,Hagar Township Precinct 1,State House,79,DEM,Joey B. Andrews,53
+Berrien,Hagar Township Precinct 2,State House,79,DEM,Joey B. Andrews,56
+Berrien,Lake Charter Township Precinct 1,State House,79,DEM,Joey B. Andrews,92
+Berrien,Lincoln Charter Township Precinct 1,State House,79,DEM,Joey B. Andrews,132
+Berrien,Lincoln Charter Township Precinct 2,State House,79,DEM,Joey B. Andrews,89
+Berrien,Lincoln Charter Township Precinct 3,State House,79,DEM,Joey B. Andrews,150
+Berrien,Lincoln Charter Township Precinct 4,State House,79,DEM,Joey B. Andrews,90
+Berrien,Lincoln Charter Township Precinct 5,State House,79,DEM,Joey B. Andrews,56
+Berrien,Lincoln Charter Township Precinct 6,State House,79,DEM,Joey B. Andrews,56
+Berrien,Royalton Township Precinct 1,State House,79,DEM,Joey B. Andrews,121
+Berrien,Royalton Township Precinct 2,State House,79,DEM,Joey B. Andrews,79
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,DEM,Joey B. Andrews,243
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,DEM,Joey B. Andrews,119
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,DEM,Joey B. Andrews,97
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,DEM,Joey B. Andrews,176
+Berrien,Watervliet Township Precinct 1,State House,79,DEM,Joey B. Andrews,68
+Berrien,Total,State House,79,DEM,Joey B. Andrews,3485
+Berrien,Bainbridge Township Precinct 1,State House,79,DEM,Marietta Seats,46
+Berrien,Benton Charter Township Precinct 1,State House,79,DEM,Marietta Seats,85
+Berrien,Benton Charter Township Precinct 2,State House,79,DEM,Marietta Seats,68
+Berrien,Benton Charter Township Precinct 3,State House,79,DEM,Marietta Seats,69
+Berrien,Benton Charter Township Precinct 4,State House,79,DEM,Marietta Seats,61
+Berrien,Benton Charter Township Precinct 5,State House,79,DEM,Marietta Seats,103
+Berrien,Benton Charter Township Precinct 6,State House,79,DEM,Marietta Seats,112
+Berrien,City of Benton Harbor Precinct 1,State House,79,DEM,Marietta Seats,94
+Berrien,City of Benton Harbor Precinct 2,State House,79,DEM,Marietta Seats,49
+Berrien,City of Benton Harbor Precinct 3,State House,79,DEM,Marietta Seats,104
+Berrien,City of Benton Harbor Precinct 4,State House,79,DEM,Marietta Seats,68
+Berrien,City of Bridgman Precinct 1,State House,79,DEM,Marietta Seats,77
+Berrien,City of Coloma Precinct 1,State House,79,DEM,Marietta Seats,38
+Berrien,City of St. Joseph Precinct 1,State House,79,DEM,Marietta Seats,116
+Berrien,City of St. Joseph Precinct 2,State House,79,DEM,Marietta Seats,115
+Berrien,City of St. Joseph Precinct 3,State House,79,DEM,Marietta Seats,108
+Berrien,City of Watervliet Precinct 1,State House,79,DEM,Marietta Seats,33
+Berrien,Coloma Charter Township Precinct 1,State House,79,DEM,Marietta Seats,67
+Berrien,Coloma Charter Township Precinct 2,State House,79,DEM,Marietta Seats,44
+Berrien,Hagar Township Precinct 1,State House,79,DEM,Marietta Seats,38
+Berrien,Hagar Township Precinct 2,State House,79,DEM,Marietta Seats,49
+Berrien,Lake Charter Township Precinct 1,State House,79,DEM,Marietta Seats,99
+Berrien,Lincoln Charter Township Precinct 1,State House,79,DEM,Marietta Seats,75
+Berrien,Lincoln Charter Township Precinct 2,State House,79,DEM,Marietta Seats,63
+Berrien,Lincoln Charter Township Precinct 3,State House,79,DEM,Marietta Seats,108
+Berrien,Lincoln Charter Township Precinct 4,State House,79,DEM,Marietta Seats,104
+Berrien,Lincoln Charter Township Precinct 5,State House,79,DEM,Marietta Seats,60
+Berrien,Lincoln Charter Township Precinct 6,State House,79,DEM,Marietta Seats,44
+Berrien,Royalton Township Precinct 1,State House,79,DEM,Marietta Seats,54
+Berrien,Royalton Township Precinct 2,State House,79,DEM,Marietta Seats,42
+Berrien,St. Joseph Charter Township Precinct 1,State House,79,DEM,Marietta Seats,172
+Berrien,St. Joseph Charter Township Precinct 2,State House,79,DEM,Marietta Seats,64
+Berrien,St. Joseph Charter Township Precinct 3,State House,79,DEM,Marietta Seats,41
+Berrien,St. Joseph Charter Township Precinct 4,State House,79,DEM,Marietta Seats,101
+Berrien,Watervliet Township Precinct 1,State House,79,DEM,Marietta Seats,57
+Berrien,Total,State House,79,DEM,Marietta Seats,2628
+Berrien,Baroda Township Precinct 1,State House,78,REP,Steve Bury,10
+Berrien,Berrien Township Precinct 1,State House,78,REP,Steve Bury,7
+Berrien,Berrien Township Precinct 2,State House,78,REP,Steve Bury,3
+Berrien,Bertrand Township Precinct 1,State House,78,REP,Steve Bury,1
+Berrien,Buchanan Township Precinct 1,State House,78,REP,Steve Bury,7
+Berrien,Chikaming Township Precinct 1,State House,78,REP,Steve Bury,18
+Berrien,City of Buchanan Precinct 1,State House,78,REP,Steve Bury,3
+Berrien,City of Buchanan Precinct 2,State House,78,REP,Steve Bury,3
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,Steve Bury,5
+Berrien,City of Niles Precinct 1,State House,78,REP,Steve Bury,3
+Berrien,City of Niles Precinct 2,State House,78,REP,Steve Bury,5
+Berrien,City of Niles Precinct 3,State House,78,REP,Steve Bury,2
+Berrien,City of Niles Precinct 4,State House,78,REP,Steve Bury,5
+Berrien,Galien Township Precinct 1,State House,78,REP,Steve Bury,2
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,Steve Bury,6
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,Steve Bury,6
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,Steve Bury,4
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,Steve Bury,1
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,Steve Bury,3
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,Steve Bury,2
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,Steve Bury,8
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,Steve Bury,2
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,Steve Bury,4
+Berrien,Pipestone Township Precinct 1,State House,78,REP,Steve Bury,9
+Berrien,Sodus Township Precinct 1,State House,78,REP,Steve Bury,18
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,Steve Bury,2
+Berrien,Weesaw Township Precinct 1,State House,78,REP,Steve Bury,3
+Berrien,Total,State House,78,REP,Steve Bury,142
+Berrien,Baroda Township Precinct 1,State House,78,REP,Dana Daniels,37
+Berrien,Berrien Township Precinct 1,State House,78,REP,Dana Daniels,12
+Berrien,Berrien Township Precinct 2,State House,78,REP,Dana Daniels,11
+Berrien,Bertrand Township Precinct 1,State House,78,REP,Dana Daniels,16
+Berrien,Buchanan Township Precinct 1,State House,78,REP,Dana Daniels,17
+Berrien,Chikaming Township Precinct 1,State House,78,REP,Dana Daniels,51
+Berrien,City of Buchanan Precinct 1,State House,78,REP,Dana Daniels,8
+Berrien,City of Buchanan Precinct 2,State House,78,REP,Dana Daniels,7
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,Dana Daniels,11
+Berrien,City of Niles Precinct 1,State House,78,REP,Dana Daniels,4
+Berrien,City of Niles Precinct 2,State House,78,REP,Dana Daniels,8
+Berrien,City of Niles Precinct 3,State House,78,REP,Dana Daniels,7
+Berrien,City of Niles Precinct 4,State House,78,REP,Dana Daniels,13
+Berrien,Galien Township Precinct 1,State House,78,REP,Dana Daniels,6
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,Dana Daniels,10
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,Dana Daniels,10
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,Dana Daniels,11
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,Dana Daniels,16
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,Dana Daniels,10
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,Dana Daniels,18
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,Dana Daniels,28
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,Dana Daniels,7
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,Dana Daniels,9
+Berrien,Pipestone Township Precinct 1,State House,78,REP,Dana Daniels,17
+Berrien,Sodus Township Precinct 1,State House,78,REP,Dana Daniels,22
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,Dana Daniels,19
+Berrien,Weesaw Township Precinct 1,State House,78,REP,Dana Daniels,5
+Berrien,Total,State House,78,REP,Dana Daniels,390
+Berrien,Baroda Township Precinct 1,State House,78,REP,Daniel Hinkle,65
+Berrien,Berrien Township Precinct 1,State House,78,REP,Daniel Hinkle,16
+Berrien,Berrien Township Precinct 2,State House,78,REP,Daniel Hinkle,13
+Berrien,Bertrand Township Precinct 1,State House,78,REP,Daniel Hinkle,18
+Berrien,Buchanan Township Precinct 1,State House,78,REP,Daniel Hinkle,44
+Berrien,Chikaming Township Precinct 1,State House,78,REP,Daniel Hinkle,23
+Berrien,City of Buchanan Precinct 1,State House,78,REP,Daniel Hinkle,27
+Berrien,City of Buchanan Precinct 2,State House,78,REP,Daniel Hinkle,26
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,Daniel Hinkle,21
+Berrien,City of Niles Precinct 1,State House,78,REP,Daniel Hinkle,12
+Berrien,City of Niles Precinct 2,State House,78,REP,Daniel Hinkle,5
+Berrien,City of Niles Precinct 3,State House,78,REP,Daniel Hinkle,7
+Berrien,City of Niles Precinct 4,State House,78,REP,Daniel Hinkle,15
+Berrien,Galien Township Precinct 1,State House,78,REP,Daniel Hinkle,15
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,Daniel Hinkle,22
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,Daniel Hinkle,11
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,Daniel Hinkle,9
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,Daniel Hinkle,9
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,Daniel Hinkle,10
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,Daniel Hinkle,16
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,Daniel Hinkle,36
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,Daniel Hinkle,8
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,Daniel Hinkle,9
+Berrien,Pipestone Township Precinct 1,State House,78,REP,Daniel Hinkle,43
+Berrien,Sodus Township Precinct 1,State House,78,REP,Daniel Hinkle,40
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,Daniel Hinkle,26
+Berrien,Weesaw Township Precinct 1,State House,78,REP,Daniel Hinkle,39
+Berrien,Total,State House,78,REP,Daniel Hinkle,585
+Berrien,Baroda Township Precinct 1,State House,78,REP,David Mann,75
+Berrien,Berrien Township Precinct 1,State House,78,REP,David Mann,47
+Berrien,Berrien Township Precinct 2,State House,78,REP,David Mann,65
+Berrien,Bertrand Township Precinct 1,State House,78,REP,David Mann,82
+Berrien,Buchanan Township Precinct 1,State House,78,REP,David Mann,99
+Berrien,Chikaming Township Precinct 1,State House,78,REP,David Mann,49
+Berrien,City of Buchanan Precinct 1,State House,78,REP,David Mann,27
+Berrien,City of Buchanan Precinct 2,State House,78,REP,David Mann,13
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,David Mann,16
+Berrien,City of Niles Precinct 1,State House,78,REP,David Mann,19
+Berrien,City of Niles Precinct 2,State House,78,REP,David Mann,30
+Berrien,City of Niles Precinct 3,State House,78,REP,David Mann,18
+Berrien,City of Niles Precinct 4,State House,78,REP,David Mann,44
+Berrien,Galien Township Precinct 1,State House,78,REP,David Mann,27
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,David Mann,17
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,David Mann,42
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,David Mann,24
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,David Mann,57
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,David Mann,62
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,David Mann,86
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,David Mann,104
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,David Mann,37
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,David Mann,95
+Berrien,Pipestone Township Precinct 1,State House,78,REP,David Mann,34
+Berrien,Sodus Township Precinct 1,State House,78,REP,David Mann,61
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,David Mann,35
+Berrien,Weesaw Township Precinct 1,State House,78,REP,David Mann,63
+Berrien,Total,State House,78,REP,David Mann,1328
+Berrien,Baroda Township Precinct 1,State House,78,REP,Brad Paquette,164
+Berrien,Berrien Township Precinct 1,State House,78,REP,Brad Paquette,208
+Berrien,Berrien Township Precinct 2,State House,78,REP,Brad Paquette,170
+Berrien,Bertrand Township Precinct 1,State House,78,REP,Brad Paquette,210
+Berrien,Buchanan Township Precinct 1,State House,78,REP,Brad Paquette,156
+Berrien,Chikaming Township Precinct 1,State House,78,REP,Brad Paquette,161
+Berrien,City of Buchanan Precinct 1,State House,78,REP,Brad Paquette,73
+Berrien,City of Buchanan Precinct 2,State House,78,REP,Brad Paquette,81
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,Brad Paquette,57
+Berrien,City of Niles Precinct 1,State House,78,REP,Brad Paquette,64
+Berrien,City of Niles Precinct 2,State House,78,REP,Brad Paquette,94
+Berrien,City of Niles Precinct 3,State House,78,REP,Brad Paquette,97
+Berrien,City of Niles Precinct 4,State House,78,REP,Brad Paquette,165
+Berrien,Galien Township Precinct 1,State House,78,REP,Brad Paquette,55
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,Brad Paquette,94
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,Brad Paquette,187
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,Brad Paquette,51
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,Brad Paquette,127
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,Brad Paquette,116
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,Brad Paquette,183
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,Brad Paquette,284
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,Brad Paquette,73
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,Brad Paquette,69
+Berrien,Pipestone Township Precinct 1,State House,78,REP,Brad Paquette,158
+Berrien,Sodus Township Precinct 1,State House,78,REP,Brad Paquette,105
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,Brad Paquette,77
+Berrien,Weesaw Township Precinct 1,State House,78,REP,Brad Paquette,94
+Berrien,Total,State House,78,REP,Brad Paquette,3373
+Berrien,Baroda Township Precinct 1,State House,78,REP,Kelly Priede,119
+Berrien,Berrien Township Precinct 1,State House,78,REP,Kelly Priede,20
+Berrien,Berrien Township Precinct 2,State House,78,REP,Kelly Priede,24
+Berrien,Bertrand Township Precinct 1,State House,78,REP,Kelly Priede,28
+Berrien,Buchanan Township Precinct 1,State House,78,REP,Kelly Priede,67
+Berrien,Chikaming Township Precinct 1,State House,78,REP,Kelly Priede,132
+Berrien,City of Buchanan Precinct 1,State House,78,REP,Kelly Priede,39
+Berrien,City of Buchanan Precinct 2,State House,78,REP,Kelly Priede,20
+Berrien,City of New Buffalo Precinct 1,State House,78,REP,Kelly Priede,34
+Berrien,City of Niles Precinct 1,State House,78,REP,Kelly Priede,15
+Berrien,City of Niles Precinct 2,State House,78,REP,Kelly Priede,17
+Berrien,City of Niles Precinct 3,State House,78,REP,Kelly Priede,6
+Berrien,City of Niles Precinct 4,State House,78,REP,Kelly Priede,27
+Berrien,Galien Township Precinct 1,State House,78,REP,Kelly Priede,34
+Berrien,New Buffalo Township Precinct 1,State House,78,REP,Kelly Priede,39
+Berrien,Niles Charter Township Precinct 1,State House,78,REP,Kelly Priede,23
+Berrien,Niles Charter Township Precinct 2,State House,78,REP,Kelly Priede,17
+Berrien,Niles Charter Township Precinct 3,State House,78,REP,Kelly Priede,33
+Berrien,Niles Charter Township Precinct 4,State House,78,REP,Kelly Priede,29
+Berrien,Niles Charter Township Precinct 5,State House,78,REP,Kelly Priede,28
+Berrien,Oronoko Charter Township Precinct 1,State House,78,REP,Kelly Priede,44
+Berrien,Oronoko Charter Township Precinct 2,State House,78,REP,Kelly Priede,19
+Berrien,Oronoko Charter Township Precinct 3,State House,78,REP,Kelly Priede,19
+Berrien,Pipestone Township Precinct 1,State House,78,REP,Kelly Priede,27
+Berrien,Sodus Township Precinct 1,State House,78,REP,Kelly Priede,36
+Berrien,Three Oaks Township Precinct 1,State House,78,REP,Kelly Priede,68
+Berrien,Weesaw Township Precinct 1,State House,78,REP,Kelly Priede,69
+Berrien,Total,State House,78,REP,Kelly Priede,1033
+Berrien,Baroda Township Precinct 1,State House,78,DEM,Dean E. Hill,128
+Berrien,Berrien Township Precinct 1,State House,78,DEM,Dean E. Hill,127
+Berrien,Berrien Township Precinct 2,State House,78,DEM,Dean E. Hill,49
+Berrien,Bertrand Township Precinct 1,State House,78,DEM,Dean E. Hill,152
+Berrien,Buchanan Township Precinct 1,State House,78,DEM,Dean E. Hill,168
+Berrien,Chikaming Township Precinct 1,State House,78,DEM,Dean E. Hill,390
+Berrien,City of Buchanan Precinct 1,State House,78,DEM,Dean E. Hill,121
+Berrien,City of Buchanan Precinct 2,State House,78,DEM,Dean E. Hill,88
+Berrien,City of New Buffalo Precinct 1,State House,78,DEM,Dean E. Hill,166
+Berrien,City of Niles Precinct 1,State House,78,DEM,Dean E. Hill,111
+Berrien,City of Niles Precinct 2,State House,78,DEM,Dean E. Hill,149
+Berrien,City of Niles Precinct 3,State House,78,DEM,Dean E. Hill,124
+Berrien,City of Niles Precinct 4,State House,78,DEM,Dean E. Hill,181
+Berrien,Galien Township Precinct 1,State House,78,DEM,Dean E. Hill,80
+Berrien,New Buffalo Township Precinct 1,State House,78,DEM,Dean E. Hill,232
+Berrien,Niles Charter Township Precinct 1,State House,78,DEM,Dean E. Hill,142
+Berrien,Niles Charter Township Precinct 2,State House,78,DEM,Dean E. Hill,94
+Berrien,Niles Charter Township Precinct 3,State House,78,DEM,Dean E. Hill,150
+Berrien,Niles Charter Township Precinct 4,State House,78,DEM,Dean E. Hill,153
+Berrien,Niles Charter Township Precinct 5,State House,78,DEM,Dean E. Hill,185
+Berrien,Oronoko Charter Township Precinct 1,State House,78,DEM,Dean E. Hill,148
+Berrien,Oronoko Charter Township Precinct 2,State House,78,DEM,Dean E. Hill,96
+Berrien,Oronoko Charter Township Precinct 3,State House,78,DEM,Dean E. Hill,160
+Berrien,Pipestone Township Precinct 1,State House,78,DEM,Dean E. Hill,77
+Berrien,Sodus Township Precinct 1,State House,78,DEM,Dean E. Hill,103
+Berrien,Three Oaks Township Precinct 1,State House,78,DEM,Dean E. Hill,221
+Berrien,Weesaw Township Precinct 1,State House,78,DEM,Dean E. Hill,119
+Berrien,Total,State House,78,DEM,Dean E. Hill,3914
+Berrien,Bainbridge Township Precinct 1,State Senate,21,REP,Kim LaSata,381
+Berrien,Baroda Township Precinct 1,State Senate,21,REP,Kim LaSata,228
+Berrien,Benton Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,119
+Berrien,Benton Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,24
+Berrien,Benton Charter Township Precinct 3,State Senate,21,REP,Kim LaSata,56
+Berrien,Benton Charter Township Precinct 4,State Senate,21,REP,Kim LaSata,114
+Berrien,Benton Charter Township Precinct 5,State Senate,21,REP,Kim LaSata,62
+Berrien,Benton Charter Township Precinct 6,State Senate,21,REP,Kim LaSata,23
+Berrien,Berrien Township Precinct 1,State Senate,21,REP,Kim LaSata,118
+Berrien,Berrien Township Precinct 2,State Senate,21,REP,Kim LaSata,137
+Berrien,Bertrand Township Precinct 1,State Senate,21,REP,Kim LaSata,155
+Berrien,Buchanan Township Precinct 1,State Senate,21,REP,Kim LaSata,172
+Berrien,Chikaming Township Precinct 1,State Senate,21,REP,Kim LaSata,203
+Berrien,City of Benton Harbor Precinct 1,State Senate,21,REP,Kim LaSata,9
+Berrien,City of Benton Harbor Precinct 2,State Senate,21,REP,Kim LaSata,2
+Berrien,City of Benton Harbor Precinct 3,State Senate,21,REP,Kim LaSata,5
+Berrien,City of Benton Harbor Precinct 4,State Senate,21,REP,Kim LaSata,11
+Berrien,City of Bridgman Precinct 1,State Senate,21,REP,Kim LaSata,184
+Berrien,City of Buchanan Precinct 1,State Senate,21,REP,Kim LaSata,75
+Berrien,City of Buchanan Precinct 2,State Senate,21,REP,Kim LaSata,52
+Berrien,City of Coloma Precinct 1,State Senate,21,REP,Kim LaSata,140
+Berrien,City of New Buffalo Precinct 1,State Senate,21,REP,Kim LaSata,91
+Berrien,City of Niles Precinct 1,State Senate,21,REP,Kim LaSata,58
+Berrien,City of Niles Precinct 2,State Senate,21,REP,Kim LaSata,82
+Berrien,City of Niles Precinct 3,State Senate,21,REP,Kim LaSata,64
+Berrien,City of Niles Precinct 4,State Senate,21,REP,Kim LaSata,138
+Berrien,City of St. Joseph Precinct 1,State Senate,21,REP,Kim LaSata,257
+Berrien,City of St. Joseph Precinct 2,State Senate,21,REP,Kim LaSata,239
+Berrien,City of St. Joseph Precinct 3,State Senate,21,REP,Kim LaSata,174
+Berrien,City of Watervliet Precinct 1,State Senate,21,REP,Kim LaSata,114
+Berrien,Coloma Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,290
+Berrien,Coloma Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,186
+Berrien,Galien Township Precinct 1,State Senate,21,REP,Kim LaSata,58
+Berrien,Hagar Township Precinct 1,State Senate,21,REP,Kim LaSata,163
+Berrien,Hagar Township Precinct 2,State Senate,21,REP,Kim LaSata,175
+Berrien,Lake Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,249
+Berrien,Lincoln Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,453
+Berrien,Lincoln Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,231
+Berrien,Lincoln Charter Township Precinct 3,State Senate,21,REP,Kim LaSata,333
+Berrien,Lincoln Charter Township Precinct 4,State Senate,21,REP,Kim LaSata,327
+Berrien,Lincoln Charter Township Precinct 5,State Senate,21,REP,Kim LaSata,193
+Berrien,Lincoln Charter Township Precinct 6,State Senate,21,REP,Kim LaSata,183
+Berrien,New Buffalo Township Precinct 1,State Senate,21,REP,Kim LaSata,110
+Berrien,Niles Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,134
+Berrien,Niles Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,56
+Berrien,Niles Charter Township Precinct 3,State Senate,21,REP,Kim LaSata,124
+Berrien,Niles Charter Township Precinct 4,State Senate,21,REP,Kim LaSata,114
+Berrien,Niles Charter Township Precinct 5,State Senate,21,REP,Kim LaSata,149
+Berrien,Oronoko Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,186
+Berrien,Oronoko Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,54
+Berrien,Oronoko Charter Township Precinct 3,State Senate,21,REP,Kim LaSata,72
+Berrien,Pipestone Township Precinct 1,State Senate,21,REP,Kim LaSata,147
+Berrien,Royalton Township Precinct 1,State Senate,21,REP,Kim LaSata,287
+Berrien,Royalton Township Precinct 2,State Senate,21,REP,Kim LaSata,256
+Berrien,Sodus Township Precinct 1,State Senate,21,REP,Kim LaSata,141
+Berrien,St. Joseph Charter Township Precinct 1,State Senate,21,REP,Kim LaSata,240
+Berrien,St. Joseph Charter Township Precinct 2,State Senate,21,REP,Kim LaSata,268
+Berrien,St. Joseph Charter Township Precinct 3,State Senate,21,REP,Kim LaSata,230
+Berrien,St. Joseph Charter Township Precinct 4,State Senate,21,REP,Kim LaSata,373
+Berrien,Three Oaks Township Precinct 1,State Senate,21,REP,Kim LaSata,134
+Berrien,Watervliet Township Precinct 1,State Senate,21,REP,Kim LaSata,277
+Berrien,Weesaw Township Precinct 1,State Senate,21,REP,Kim LaSata,141
+Berrien,Total,State Senate,21,REP,Kim LaSata,9821
+Berrien,Bainbridge Township Precinct 1,State Senate,21,REP,Dave Pagel,223
+Berrien,Baroda Township Precinct 1,State Senate,21,REP,Dave Pagel,280
+Berrien,Benton Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,63
+Berrien,Benton Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,6
+Berrien,Benton Charter Township Precinct 3,State Senate,21,REP,Dave Pagel,44
+Berrien,Benton Charter Township Precinct 4,State Senate,21,REP,Dave Pagel,76
+Berrien,Benton Charter Township Precinct 5,State Senate,21,REP,Dave Pagel,54
+Berrien,Benton Charter Township Precinct 6,State Senate,21,REP,Dave Pagel,21
+Berrien,Berrien Township Precinct 1,State Senate,21,REP,Dave Pagel,203
+Berrien,Berrien Township Precinct 2,State Senate,21,REP,Dave Pagel,156
+Berrien,Bertrand Township Precinct 1,State Senate,21,REP,Dave Pagel,199
+Berrien,Buchanan Township Precinct 1,State Senate,21,REP,Dave Pagel,232
+Berrien,Chikaming Township Precinct 1,State Senate,21,REP,Dave Pagel,267
+Berrien,City of Benton Harbor Precinct 1,State Senate,21,REP,Dave Pagel,2
+Berrien,City of Benton Harbor Precinct 2,State Senate,21,REP,Dave Pagel,5
+Berrien,City of Benton Harbor Precinct 3,State Senate,21,REP,Dave Pagel,3
+Berrien,City of Benton Harbor Precinct 4,State Senate,21,REP,Dave Pagel,10
+Berrien,City of Bridgman Precinct 1,State Senate,21,REP,Dave Pagel,133
+Berrien,City of Buchanan Precinct 1,State Senate,21,REP,Dave Pagel,106
+Berrien,City of Buchanan Precinct 2,State Senate,21,REP,Dave Pagel,101
+Berrien,City of Coloma Precinct 1,State Senate,21,REP,Dave Pagel,52
+Berrien,City of New Buffalo Precinct 1,State Senate,21,REP,Dave Pagel,57
+Berrien,City of Niles Precinct 1,State Senate,21,REP,Dave Pagel,58
+Berrien,City of Niles Precinct 2,State Senate,21,REP,Dave Pagel,78
+Berrien,City of Niles Precinct 3,State Senate,21,REP,Dave Pagel,70
+Berrien,City of Niles Precinct 4,State Senate,21,REP,Dave Pagel,132
+Berrien,City of St. Joseph Precinct 1,State Senate,21,REP,Dave Pagel,192
+Berrien,City of St. Joseph Precinct 2,State Senate,21,REP,Dave Pagel,193
+Berrien,City of St. Joseph Precinct 3,State Senate,21,REP,Dave Pagel,144
+Berrien,City of Watervliet Precinct 1,State Senate,21,REP,Dave Pagel,41
+Berrien,Coloma Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,115
+Berrien,Coloma Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,90
+Berrien,Galien Township Precinct 1,State Senate,21,REP,Dave Pagel,86
+Berrien,Hagar Township Precinct 1,State Senate,21,REP,Dave Pagel,81
+Berrien,Hagar Township Precinct 2,State Senate,21,REP,Dave Pagel,60
+Berrien,Lake Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,288
+Berrien,Lincoln Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,307
+Berrien,Lincoln Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,166
+Berrien,Lincoln Charter Township Precinct 3,State Senate,21,REP,Dave Pagel,233
+Berrien,Lincoln Charter Township Precinct 4,State Senate,21,REP,Dave Pagel,250
+Berrien,Lincoln Charter Township Precinct 5,State Senate,21,REP,Dave Pagel,142
+Berrien,Lincoln Charter Township Precinct 6,State Senate,21,REP,Dave Pagel,152
+Berrien,New Buffalo Township Precinct 1,State Senate,21,REP,Dave Pagel,88
+Berrien,Niles Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,151
+Berrien,Niles Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,68
+Berrien,Niles Charter Township Precinct 3,State Senate,21,REP,Dave Pagel,125
+Berrien,Niles Charter Township Precinct 4,State Senate,21,REP,Dave Pagel,120
+Berrien,Niles Charter Township Precinct 5,State Senate,21,REP,Dave Pagel,190
+Berrien,Oronoko Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,347
+Berrien,Oronoko Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,100
+Berrien,Oronoko Charter Township Precinct 3,State Senate,21,REP,Dave Pagel,141
+Berrien,Pipestone Township Precinct 1,State Senate,21,REP,Dave Pagel,154
+Berrien,Royalton Township Precinct 1,State Senate,21,REP,Dave Pagel,189
+Berrien,Royalton Township Precinct 2,State Senate,21,REP,Dave Pagel,234
+Berrien,Sodus Township Precinct 1,State Senate,21,REP,Dave Pagel,168
+Berrien,St. Joseph Charter Township Precinct 1,State Senate,21,REP,Dave Pagel,117
+Berrien,St. Joseph Charter Township Precinct 2,State Senate,21,REP,Dave Pagel,163
+Berrien,St. Joseph Charter Township Precinct 3,State Senate,21,REP,Dave Pagel,148
+Berrien,St. Joseph Charter Township Precinct 4,State Senate,21,REP,Dave Pagel,276
+Berrien,Three Oaks Township Precinct 1,State Senate,21,REP,Dave Pagel,110
+Berrien,Watervliet Township Precinct 1,State Senate,21,REP,Dave Pagel,108
+Berrien,Weesaw Township Precinct 1,State Senate,21,REP,Dave Pagel,153
+Berrien,Total,State Senate,21,REP,Dave Pagel,8321
+Berrien,Bainbridge Township Precinct 1,State Senate,21,DEM,Ian Haight,115
+Berrien,Baroda Township Precinct 1,State Senate,21,DEM,Ian Haight,129
+Berrien,Benton Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,152
+Berrien,Benton Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,102
+Berrien,Benton Charter Township Precinct 3,State Senate,21,DEM,Ian Haight,133
+Berrien,Benton Charter Township Precinct 4,State Senate,21,DEM,Ian Haight,166
+Berrien,Benton Charter Township Precinct 5,State Senate,21,DEM,Ian Haight,163
+Berrien,Benton Charter Township Precinct 6,State Senate,21,DEM,Ian Haight,215
+Berrien,Berrien Township Precinct 1,State Senate,21,DEM,Ian Haight,130
+Berrien,Berrien Township Precinct 2,State Senate,21,DEM,Ian Haight,47
+Berrien,Bertrand Township Precinct 1,State Senate,21,DEM,Ian Haight,154
+Berrien,Buchanan Township Precinct 1,State Senate,21,DEM,Ian Haight,167
+Berrien,Chikaming Township Precinct 1,State Senate,21,DEM,Ian Haight,391
+Berrien,City of Benton Harbor Precinct 1,State Senate,21,DEM,Ian Haight,164
+Berrien,City of Benton Harbor Precinct 2,State Senate,21,DEM,Ian Haight,74
+Berrien,City of Benton Harbor Precinct 3,State Senate,21,DEM,Ian Haight,162
+Berrien,City of Benton Harbor Precinct 4,State Senate,21,DEM,Ian Haight,110
+Berrien,City of Bridgman Precinct 1,State Senate,21,DEM,Ian Haight,155
+Berrien,City of Buchanan Precinct 1,State Senate,21,DEM,Ian Haight,120
+Berrien,City of Buchanan Precinct 2,State Senate,21,DEM,Ian Haight,89
+Berrien,City of Coloma Precinct 1,State Senate,21,DEM,Ian Haight,82
+Berrien,City of New Buffalo Precinct 1,State Senate,21,DEM,Ian Haight,167
+Berrien,City of Niles Precinct 1,State Senate,21,DEM,Ian Haight,106
+Berrien,City of Niles Precinct 2,State Senate,21,DEM,Ian Haight,147
+Berrien,City of Niles Precinct 3,State Senate,21,DEM,Ian Haight,123
+Berrien,City of Niles Precinct 4,State Senate,21,DEM,Ian Haight,176
+Berrien,City of St. Joseph Precinct 1,State Senate,21,DEM,Ian Haight,330
+Berrien,City of St. Joseph Precinct 2,State Senate,21,DEM,Ian Haight,324
+Berrien,City of St. Joseph Precinct 3,State Senate,21,DEM,Ian Haight,273
+Berrien,City of Watervliet Precinct 1,State Senate,21,DEM,Ian Haight,76
+Berrien,Coloma Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,132
+Berrien,Coloma Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,92
+Berrien,Galien Township Precinct 1,State Senate,21,DEM,Ian Haight,79
+Berrien,Hagar Township Precinct 1,State Senate,21,DEM,Ian Haight,83
+Berrien,Hagar Township Precinct 2,State Senate,21,DEM,Ian Haight,104
+Berrien,Lake Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,182
+Berrien,Lincoln Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,200
+Berrien,Lincoln Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,151
+Berrien,Lincoln Charter Township Precinct 3,State Senate,21,DEM,Ian Haight,251
+Berrien,Lincoln Charter Township Precinct 4,State Senate,21,DEM,Ian Haight,186
+Berrien,Lincoln Charter Township Precinct 5,State Senate,21,DEM,Ian Haight,110
+Berrien,Lincoln Charter Township Precinct 6,State Senate,21,DEM,Ian Haight,96
+Berrien,New Buffalo Township Precinct 1,State Senate,21,DEM,Ian Haight,231
+Berrien,Niles Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,141
+Berrien,Niles Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,91
+Berrien,Niles Charter Township Precinct 3,State Senate,21,DEM,Ian Haight,149
+Berrien,Niles Charter Township Precinct 4,State Senate,21,DEM,Ian Haight,152
+Berrien,Niles Charter Township Precinct 5,State Senate,21,DEM,Ian Haight,182
+Berrien,Oronoko Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,149
+Berrien,Oronoko Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,94
+Berrien,Oronoko Charter Township Precinct 3,State Senate,21,DEM,Ian Haight,161
+Berrien,Pipestone Township Precinct 1,State Senate,21,DEM,Ian Haight,79
+Berrien,Royalton Township Precinct 1,State Senate,21,DEM,Ian Haight,166
+Berrien,Royalton Township Precinct 2,State Senate,21,DEM,Ian Haight,115
+Berrien,Sodus Township Precinct 1,State Senate,21,DEM,Ian Haight,105
+Berrien,St. Joseph Charter Township Precinct 1,State Senate,21,DEM,Ian Haight,384
+Berrien,St. Joseph Charter Township Precinct 2,State Senate,21,DEM,Ian Haight,179
+Berrien,St. Joseph Charter Township Precinct 3,State Senate,21,DEM,Ian Haight,132
+Berrien,St. Joseph Charter Township Precinct 4,State Senate,21,DEM,Ian Haight,275
+Berrien,Three Oaks Township Precinct 1,State Senate,21,DEM,Ian Haight,218
+Berrien,Watervliet Township Precinct 1,State Senate,21,DEM,Ian Haight,114
+Berrien,Weesaw Township Precinct 1,State Senate,21,DEM,Ian Haight,120
+Berrien,Total,State Senate,21,DEM,Ian Haight,9645

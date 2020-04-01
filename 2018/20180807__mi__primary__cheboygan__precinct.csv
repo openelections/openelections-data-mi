@@ -1,0 +1,967 @@
+county,precinct,office,district,party,candidate,votes
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,REP,Lee Chatfield,45
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,REP,Lee Chatfield,251
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,REP,Lee Chatfield,56
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,REP,Lee Chatfield,165
+Cheboygan,"Hebron Township, Precinct 1",State House,107,REP,Lee Chatfield,27
+Cheboygan,"Inverness Township, Precinct 1",State House,107,REP,Lee Chatfield,7
+Cheboygan,"Koehler Township, Precinct 1",State House,107,REP,Lee Chatfield,129
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,REP,Lee Chatfield,88
+Cheboygan,"Munro Township, Precinct 1",State House,107,REP,Lee Chatfield,115
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,REP,Lee Chatfield,493
+Cheboygan,Total,State House,107,REP,Lee Chatfield,1376
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,REP,Bruce Newville Jr.,6
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,REP,Bruce Newville Jr.,53
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,REP,Bruce Newville Jr.,11
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,41
+Cheboygan,"Hebron Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,9
+Cheboygan,"Inverness Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,3
+Cheboygan,"Koehler Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,32
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,18
+Cheboygan,"Munro Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,17
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,REP,Bruce Newville Jr.,93
+Cheboygan,Total,State House,107,REP,Bruce Newville Jr.,283
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,REP,Write-ins,1
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,REP,Write-ins,1
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,REP,Write-ins,1
+Cheboygan,"Hebron Township, Precinct 1",State House,107,REP,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State House,107,REP,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",State House,107,REP,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,REP,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",State House,107,REP,Write-ins,2
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,REP,Write-ins,4
+Cheboygan,Total,State House,107,REP,Write-ins,9
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,15
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,DEM,Joanne Schmidt Galloway,196
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,DEM,Joanne Schmidt Galloway,21
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,73
+Cheboygan,"Hebron Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,22
+Cheboygan,"Inverness Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,7
+Cheboygan,"Koehler Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,43
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,54
+Cheboygan,"Munro Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,57
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,242
+Cheboygan,Total,State House,107,DEM,Joanne Schmidt Galloway,730
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,DEM,Kurt Perron,3
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,DEM,Kurt Perron,31
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,DEM,Kurt Perron,5
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,DEM,Kurt Perron,11
+Cheboygan,"Hebron Township, Precinct 1",State House,107,DEM,Kurt Perron,3
+Cheboygan,"Inverness Township, Precinct 1",State House,107,DEM,Kurt Perron,0
+Cheboygan,"Koehler Township, Precinct 1",State House,107,DEM,Kurt Perron,3
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,DEM,Kurt Perron,1
+Cheboygan,"Munro Township, Precinct 1",State House,107,DEM,Kurt Perron,8
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,DEM,Kurt Perron,39
+Cheboygan,Total,State House,107,DEM,Kurt Perron,104
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,DEM,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,DEM,Write-ins,2
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,DEM,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,DEM,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",State House,107,DEM,Write-ins,2
+Cheboygan,"Inverness Township, Precinct 1",State House,107,DEM,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",State House,107,DEM,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,DEM,Write-ins,1
+Cheboygan,"Munro Township, Precinct 1",State House,107,DEM,Write-ins,1
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,DEM,Write-ins,1
+Cheboygan,Total,State House,107,DEM,Write-ins,7
+Cheboygan,"City of Cheboygan, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State House,107,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",State House,107,LIB,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",State House,107,LIB,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",State House,107,LIB,Write-ins,0
+Cheboygan,Total,State House,107,LIB,Write-ins,1
+Cheboygan,"Aloha Township, Precinct 1",State House,106,REP,Sue Allor,146
+Cheboygan,"Benton Township, Precinct 1",State House,106,REP,Sue Allor,414
+Cheboygan,"Burt Township, Precinct 1",State House,106,REP,Sue Allor,159
+Cheboygan,"Ellis Township, Precinct 1",State House,106,REP,Sue Allor,84
+Cheboygan,"Forest Township, Precinct 1",State House,106,REP,Sue Allor,125
+Cheboygan,"Grant Township, Precinct 1",State House,106,REP,Sue Allor,133
+Cheboygan,"Inverness Township, Precinct 1",State House,106,REP,Sue Allor,318
+Cheboygan,"Mentor Township, Precinct 1",State House,106,REP,Sue Allor,125
+Cheboygan,"Mullett Township, Precinct 1",State House,106,REP,Sue Allor,219
+Cheboygan,"Nunda Township, Precinct 1",State House,106,REP,Sue Allor,154
+Cheboygan,"Walker Township, Precinct 1",State House,106,REP,Sue Allor,25
+Cheboygan,"Waverly Township, Precinct 1",State House,106,REP,Sue Allor,71
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,REP,Sue Allor,104
+Cheboygan,Total,State House,106,REP,Sue Allor,2077
+Cheboygan,"Aloha Township, Precinct 1",State House,106,REP,Write-ins,2
+Cheboygan,"Benton Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Burt Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Ellis Township, Precinct 1",State House,106,REP,Write-ins,2
+Cheboygan,"Forest Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Grant Township, Precinct 1",State House,106,REP,Write-ins,3
+Cheboygan,"Inverness Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Mentor Township, Precinct 1",State House,106,REP,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Nunda Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Walker Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Waverly Township, Precinct 1",State House,106,REP,Write-ins,1
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,REP,Write-ins,0
+Cheboygan,Total,State House,106,REP,Write-ins,15
+Cheboygan,"Aloha Township, Precinct 1",State House,106,DEM,Lora Greene,61
+Cheboygan,"Benton Township, Precinct 1",State House,106,DEM,Lora Greene,200
+Cheboygan,"Burt Township, Precinct 1",State House,106,DEM,Lora Greene,56
+Cheboygan,"Ellis Township, Precinct 1",State House,106,DEM,Lora Greene,31
+Cheboygan,"Forest Township, Precinct 1",State House,106,DEM,Lora Greene,64
+Cheboygan,"Grant Township, Precinct 1",State House,106,DEM,Lora Greene,81
+Cheboygan,"Inverness Township, Precinct 1",State House,106,DEM,Lora Greene,152
+Cheboygan,"Mentor Township, Precinct 1",State House,106,DEM,Lora Greene,51
+Cheboygan,"Mullett Township, Precinct 1",State House,106,DEM,Lora Greene,108
+Cheboygan,"Nunda Township, Precinct 1",State House,106,DEM,Lora Greene,38
+Cheboygan,"Walker Township, Precinct 1",State House,106,DEM,Lora Greene,18
+Cheboygan,"Waverly Township, Precinct 1",State House,106,DEM,Lora Greene,21
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,DEM,Lora Greene,30
+Cheboygan,Total,State House,106,DEM,Lora Greene,911
+Cheboygan,"Aloha Township, Precinct 1",State House,106,DEM,John Norton,9
+Cheboygan,"Benton Township, Precinct 1",State House,106,DEM,John Norton,49
+Cheboygan,"Burt Township, Precinct 1",State House,106,DEM,John Norton,6
+Cheboygan,"Ellis Township, Precinct 1",State House,106,DEM,John Norton,7
+Cheboygan,"Forest Township, Precinct 1",State House,106,DEM,John Norton,8
+Cheboygan,"Grant Township, Precinct 1",State House,106,DEM,John Norton,24
+Cheboygan,"Inverness Township, Precinct 1",State House,106,DEM,John Norton,29
+Cheboygan,"Mentor Township, Precinct 1",State House,106,DEM,John Norton,8
+Cheboygan,"Mullett Township, Precinct 1",State House,106,DEM,John Norton,12
+Cheboygan,"Nunda Township, Precinct 1",State House,106,DEM,John Norton,15
+Cheboygan,"Walker Township, Precinct 1",State House,106,DEM,John Norton,3
+Cheboygan,"Waverly Township, Precinct 1",State House,106,DEM,John Norton,2
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,DEM,John Norton,7
+Cheboygan,Total,State House,106,DEM,John Norton,179
+Cheboygan,"Aloha Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",State House,106,DEM,Write-ins,1
+Cheboygan,"Burt Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",State House,106,DEM,Write-ins,1
+Cheboygan,"Forest Township, Precinct 1",State House,106,DEM,Write-ins,2
+Cheboygan,"Grant Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State House,106,DEM,Write-ins,2
+Cheboygan,"Mentor Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,DEM,Write-ins,0
+Cheboygan,Total,State House,106,DEM,Write-ins,6
+Cheboygan,"Aloha Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",State House,106,LIB,Write-ins,0
+Cheboygan,Total,State House,106,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,REP,Jim Gurr,8
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,REP,Jim Gurr,70
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,REP,Jim Gurr,12
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,REP,Jim Gurr,28
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,REP,Jim Gurr,37
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,REP,Jim Gurr,90
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,REP,Jim Gurr,31
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,REP,Jim Gurr,14
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,REP,Jim Gurr,28
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,REP,Jim Gurr,26
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,REP,Jim Gurr,11
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,REP,Jim Gurr,62
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,REP,Jim Gurr,40
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,REP,Jim Gurr,22
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,REP,Jim Gurr,17
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,REP,Jim Gurr,44
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,REP,Jim Gurr,23
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,REP,Jim Gurr,26
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,REP,Jim Gurr,107
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,REP,Jim Gurr,4
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,REP,Jim Gurr,15
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,REP,Jim Gurr,24
+Cheboygan,Total,State Senate,37,REP,Jim Gurr,739
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,REP,Wayne Schmidt,42
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,REP,Wayne Schmidt,217
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,REP,Wayne Schmidt,50
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,126
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,146
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,336
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,130
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,66
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,89
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,113
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,21
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,279
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,106
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,79
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,102
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,178
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,103
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,120
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,415
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,15
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,54
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,76
+Cheboygan,Total,State Senate,37,REP,Wayne Schmidt,2863
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,REP,Write-ins,3
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,REP,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,REP,Write-ins,2
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,REP,Write-ins,3
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,REP,Write-ins,2
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,REP,Write-ins,2
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,REP,Write-ins,2
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,REP,Write-ins,4
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Cheboygan,Total,State Senate,37,REP,Write-ins,24
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,DEM,Jim Page,18
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,DEM,Jim Page,219
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,DEM,Jim Page,26
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,DEM,Jim Page,75
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,DEM,Jim Page,85
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,DEM,Jim Page,248
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,DEM,Jim Page,62
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,DEM,Jim Page,40
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,DEM,Jim Page,64
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,DEM,Jim Page,108
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,DEM,Jim Page,20
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,DEM,Jim Page,186
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,DEM,Jim Page,44
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,DEM,Jim Page,52
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,DEM,Jim Page,56
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,DEM,Jim Page,117
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,DEM,Jim Page,65
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,DEM,Jim Page,50
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,DEM,Jim Page,272
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,DEM,Jim Page,17
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,DEM,Jim Page,23
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,DEM,Jim Page,35
+Cheboygan,Total,State Senate,37,DEM,Jim Page,1882
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,DEM,Write-ins,3
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,DEM,Write-ins,2
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,DEM,Write-ins,1
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,DEM,Write-ins,1
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Cheboygan,Total,State Senate,37,DEM,Write-ins,7
+Cheboygan,"City of Cheboygan, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",State Senate,37,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",State Senate,37,LIB,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Cheboygan,Total,State Senate,37,LIB,Write-ins,1
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. House,1,REP,Jack Bergman,49
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. House,1,REP,Jack Bergman,278
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. House,1,REP,Jack Bergman,61
+Cheboygan,"Aloha Township, Precinct 1",U.S. House,1,REP,Jack Bergman,146
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. House,1,REP,Jack Bergman,172
+Cheboygan,"Benton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,411
+Cheboygan,"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,166
+Cheboygan,"Ellis Township, Precinct 1",U.S. House,1,REP,Jack Bergman,86
+Cheboygan,"Forest Township, Precinct 1",U.S. House,1,REP,Jack Bergman,123
+Cheboygan,"Grant Township, Precinct 1",U.S. House,1,REP,Jack Bergman,134
+Cheboygan,"Hebron Township, Precinct 1",U.S. House,1,REP,Jack Bergman,28
+Cheboygan,"Inverness Township, Precinct 1",U.S. House,1,REP,Jack Bergman,319
+Cheboygan,"Koehler Township, Precinct 1",U.S. House,1,REP,Jack Bergman,151
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. House,1,REP,Jack Bergman,92
+Cheboygan,"Mentor Township, Precinct 1",U.S. House,1,REP,Jack Bergman,117
+Cheboygan,"Mullett Township, Precinct 1",U.S. House,1,REP,Jack Bergman,221
+Cheboygan,"Munro Township, Precinct 1",U.S. House,1,REP,Jack Bergman,122
+Cheboygan,"Nunda Township, Precinct 1",U.S. House,1,REP,Jack Bergman,144
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. House,1,REP,Jack Bergman,511
+Cheboygan,"Walker Township, Precinct 1",U.S. House,1,REP,Jack Bergman,24
+Cheboygan,"Waveriy Township, Precinct 1",U.S. House,1,REP,Jack Bergman,70
+Cheboygan,"Wilmot Township, Precinct 1",U.S. House,1,REP,Jack Bergman,101
+Cheboygan,Total,U.S. House,1,REP,Jack Bergman,3526
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. House,1,REP,Write-ins,6
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. House,1,REP,Write-ins,2
+Cheboygan,"Aloha Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Cheboygan,"Benton Township, Precinct 1",U.S. House,1,REP,Write-ins,4
+Cheboygan,"Burt Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Cheboygan,"Forest Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Cheboygan,"Hebron Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Cheboygan,"Koehler Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. House,1,REP,Write-ins,4
+Cheboygan,"Walker Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,"Waveriy Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Cheboygan,"Wilmot Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Cheboygan,Total,U.S. House,1,REP,Write-ins,28
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. House,1,DEM,Matthew Morgan,1
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. House,1,DEM,Matthew Morgan,56
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. House,1,DEM,Matthew Morgan,10
+Cheboygan,"Aloha Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,17
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,19
+Cheboygan,"Benton Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,91
+Cheboygan,"Burt Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,22
+Cheboygan,"Ellis Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,12
+Cheboygan,"Forest Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,13
+Cheboygan,"Grant Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,21
+Cheboygan,"Hebron Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,1
+Cheboygan,"Inverness Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,42
+Cheboygan,"Koehler Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,15
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,19
+Cheboygan,"Mentor Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,16
+Cheboygan,"Mullett Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,39
+Cheboygan,"Munro Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,22
+Cheboygan,"Nunda Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,14
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,89
+Cheboygan,"Walker Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,1
+Cheboygan,"Waveriy Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,4
+Cheboygan,"Wilmot Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,6
+Cheboygan,Total,U.S. House,1,DEM,Matthew Morgan,530
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. House,1,DEM,Write-ins,1
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. House,1,DEM,Write-ins,20
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. House,1,DEM,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. House,1,DEM,Write-ins,9
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. House,1,DEM,Write-ins,8
+Cheboygan,"Benton Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Cheboygan,"Ellis Township, Precinct 1",U.S. House,1,DEM,Write-ins,8
+Cheboygan,"Forest Township, Precinct 1",U.S. House,1,DEM,Write-ins,7
+Cheboygan,"Grant Township, Precinct 1",U.S. House,1,DEM,Write-ins,7
+Cheboygan,"Hebron Township, Precinct 1",U.S. House,1,DEM,Write-ins,6
+Cheboygan,"Inverness Township, Precinct 1",U.S. House,1,DEM,Write-ins,14
+Cheboygan,"Koehler Township, Precinct 1",U.S. House,1,DEM,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Cheboygan,"Mentor Township, Precinct 1",U.S. House,1,DEM,Write-ins,7
+Cheboygan,"Mullett Township, Precinct 1",U.S. House,1,DEM,Write-ins,4
+Cheboygan,"Munro Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Cheboygan,"Nunda Township, Precinct 1",U.S. House,1,DEM,Write-ins,5
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. House,1,DEM,Write-ins,12
+Cheboygan,"Walker Township, Precinct 1",U.S. House,1,DEM,Write-ins,1
+Cheboygan,"Waveriy Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Cheboygan,"Wilmot Township, Precinct 1",U.S. House,1,DEM,Write-ins,5
+Cheboygan,Total,U.S. House,1,DEM,Write-ins,124
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Waveriy Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Cheboygan,Total,U.S. House,1,LIB,Write-ins,1
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,REP,John James,27
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,REP,John James,123
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,REP,John James,22
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,REP,John James,61
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,REP,John James,87
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,REP,John James,178
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,REP,John James,83
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,REP,John James,39
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,REP,John James,61
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,REP,John James,60
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,REP,John James,26
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,REP,John James,138
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,REP,John James,85
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,REP,John James,55
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,REP,John James,64
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,REP,John James,110
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,REP,John James,54
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,REP,John James,69
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,REP,John James,275
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,REP,John James,12
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,REP,John James,19
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,REP,John James,40
+Cheboygan,Total,U.S. Senate,,REP,John James,1688
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,REP,Sandy Pensler,24
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,REP,Sandy Pensler,177
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,REP,Sandy Pensler,44
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,100
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,110
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,284
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,97
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,51
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,66
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,90
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,9
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,224
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,75
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,49
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,66
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,126
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,73
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,93
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,301
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,14
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,60
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,66
+Cheboygan,Total,U.S. Senate,,REP,Sandy Pensler,2199
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,REP,William F. White,0
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Cheboygan,Total,U.S. Senate,,REP,William F. White,0
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,REP,Write-ins,3
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Cheboygan,Total,U.S. Senate,,REP,Write-ins,15
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,17
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,DEM,Debbie Stebenow,234
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,DEM,Debbie Stebenow,28
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,87
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,91
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,274
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,65
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,41
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,77
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,111
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,21
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,212
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,47
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,56
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,61
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,129
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,74
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,55
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,299
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,23
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,25
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,DEM,Debbie Stebenow,44
+Cheboygan,Total,U.S. Senate,,DEM,Debbie Stebenow,2071
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,DEM,Write-ins,3
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Cheboygan,Total,U.S. Senate,,DEM,Write-ins,13
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,1
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,2
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Cheboygan,Total,U.S. Senate,,LIB,Tim Yow,3
+Cheboygan,"City of Cheboygan, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Cheboygan,"Forest Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Cheboygan,"Mackinaw Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Cheboygan,"Waverly Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Cheboygan,Total,U.S. Senate,,LIB,Write-ins,3
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Brian Calley,12
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Brian Calley,63
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Brian Calley,25
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Brian Calley,53
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Brian Calley,56
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Brian Calley,117
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Brian Calley,57
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Brian Calley,18
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Brian Calley,43
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Brian Calley,35
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Brian Calley,9
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Brian Calley,98
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Brian Calley,50
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Brian Calley,39
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Brian Calley,44
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Brian Calley,63
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Brian Calley,61
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Brian Calley,49
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Brian Calley,171
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Brian Calley,4
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Brian Calley,24
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Brian Calley,23
+Cheboygan,Total,Governor,,REP,Brian Calley,1114
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Patrick Colbeck,15
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Patrick Colbeck,104
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Patrick Colbeck,13
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Patrick Colbeck,31
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Patrick Colbeck,61
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Patrick Colbeck,136
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Patrick Colbeck,23
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Patrick Colbeck,16
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Patrick Colbeck,24
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Patrick Colbeck,33
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Patrick Colbeck,12
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Patrick Colbeck,88
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Patrick Colbeck,27
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Patrick Colbeck,22
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Patrick Colbeck,19
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Patrick Colbeck,42
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Patrick Colbeck,20
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Patrick Colbeck,20
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Patrick Colbeck,86
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Patrick Colbeck,7
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Patrick Colbeck,20
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Patrick Colbeck,23
+Cheboygan,Total,Governor,,REP,Patrick Colbeck,842
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Jim Hines,4
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Jim Hines,27
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Jim Hines,12
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Jim Hines,20
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Jim Hines,18
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Jim Hines,49
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Jim Hines,17
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Jim Hines,13
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Jim Hines,17
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Jim Hines,19
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Jim Hines,5
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Jim Hines,43
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Jim Hines,20
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Jim Hines,6
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Jim Hines,20
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Jim Hines,15
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Jim Hines,11
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Jim Hines,16
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Jim Hines,89
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Jim Hines,1
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Jim Hines,9
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Jim Hines,18
+Cheboygan,Total,Governor,,REP,Jim Hines,449
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Bill Schuette,21
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Bill Schuette,119
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Bill Schuette,18
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Bill Schuette,70
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Bill Schuette,70
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Bill Schuette,181
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Bill Schuette,84
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Bill Schuette,45
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Bill Schuette,49
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Bill Schuette,67
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Bill Schuette,11
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Bill Schuette,143
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Bill Schuette,71
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Bill Schuette,44
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Bill Schuette,52
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Bill Schuette,124
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Bill Schuette,45
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Bill Schuette,80
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Bill Schuette,256
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Bill Schuette,18
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Bill Schuette,28
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Bill Schuette,46
+Cheboygan,Total,Governor,,REP,Bill Schuette,1642
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Evan Space,0
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Evan Space,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Evan Space,0
+Cheboygan,Total,Governor,,REP,Evan Space,0
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,REP,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,REP,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,REP,Write-ins,1
+Cheboygan,"Benton Township, Precinct 1",Governor,,REP,Write-ins,1
+Cheboygan,"Burt Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,REP,Write-ins,0
+Cheboygan,Total,Governor,,REP,Write-ins,2
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,DEM,Abdul El-Sayed,43
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,DEM,Abdul El-Sayed,5
+Cheboygan,"Aloha Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,15
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Cheboygan,"Benton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,35
+Cheboygan,"Burt Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,8
+Cheboygan,"Ellis Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,10
+Cheboygan,"Forest Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Cheboygan,"Grant Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,16
+Cheboygan,"Hebron Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,4
+Cheboygan,"Inverness Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,33
+Cheboygan,"Koehler Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,16
+Cheboygan,"Mentor Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Cheboygan,"Mullett Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,20
+Cheboygan,"Munro Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,8
+Cheboygan,"Nunda Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,59
+Cheboygan,"Walker Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,4
+Cheboygan,"Waverly Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Cheboygan,Total,Governor,,DEM,Abdul El-Sayed,340
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,DEM,Shri Thanedar,3
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,DEM,Shri Thanedar,53
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,DEM,Shri Thanedar,8
+Cheboygan,"Aloha Township, Precinct 1",Governor,,DEM,Shri Thanedar,18
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,DEM,Shri Thanedar,22
+Cheboygan,"Benton Township, Precinct 1",Governor,,DEM,Shri Thanedar,53
+Cheboygan,"Burt Township, Precinct 1",Governor,,DEM,Shri Thanedar,7
+Cheboygan,"Ellis Township, Precinct 1",Governor,,DEM,Shri Thanedar,10
+Cheboygan,"Forest Township, Precinct 1",Governor,,DEM,Shri Thanedar,25
+Cheboygan,"Grant Township, Precinct 1",Governor,,DEM,Shri Thanedar,19
+Cheboygan,"Hebron Township, Precinct 1",Governor,,DEM,Shri Thanedar,3
+Cheboygan,"Inverness Township, Precinct 1",Governor,,DEM,Shri Thanedar,41
+Cheboygan,"Koehler Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,DEM,Shri Thanedar,6
+Cheboygan,"Mentor Township, Precinct 1",Governor,,DEM,Shri Thanedar,6
+Cheboygan,"Mullett Township, Precinct 1",Governor,,DEM,Shri Thanedar,17
+Cheboygan,"Munro Township, Precinct 1",Governor,,DEM,Shri Thanedar,16
+Cheboygan,"Nunda Township, Precinct 1",Governor,,DEM,Shri Thanedar,14
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,DEM,Shri Thanedar,59
+Cheboygan,"Walker Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Cheboygan,"Waverly Township, Precinct 1",Governor,,DEM,Shri Thanedar,3
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,DEM,Shri Thanedar,7
+Cheboygan,Total,Governor,,DEM,Shri Thanedar,400
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,DEM,Gretchen Whitmer,12
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,DEM,Gretchen Whitmer,153
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,DEM,Gretchen Whitmer,16
+Cheboygan,"Aloha Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,57
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,60
+Cheboygan,"Benton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,202
+Cheboygan,"Burt Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,54
+Cheboygan,"Ellis Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,27
+Cheboygan,"Forest Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,48
+Cheboygan,"Grant Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,84
+Cheboygan,"Hebron Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,25
+Cheboygan,"Inverness Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,147
+Cheboygan,"Koehler Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,33
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,38
+Cheboygan,"Mentor Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,48
+Cheboygan,"Mullett Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,100
+Cheboygan,"Munro Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,56
+Cheboygan,"Nunda Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,43
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,194
+Cheboygan,"Walker Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,14
+Cheboygan,"Waverly Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,21
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,27
+Cheboygan,Total,Governor,,DEM,Gretchen Whitmer,1459
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,DEM,William Cobbs,0
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,DEM,William Cobbs,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Benton Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Burt Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Koehler Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Mentor Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Walker Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Cheboygan,Total,Governor,,DEM,William Cobbs,0
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,DEM,Write-ins,2
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,DEM,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,DEM,Write-ins,1
+Cheboygan,"Benton Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,DEM,Write-ins,1
+Cheboygan,"Koehler Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,DEM,Write-ins,2
+Cheboygan,"Mentor Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,DEM,Write-ins,1
+Cheboygan,"Walker Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,DEM,Write-ins,0
+Cheboygan,Total,Governor,,DEM,Write-ins,7
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Benton Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"Burt Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Cheboygan,"Forest Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Cheboygan,"Koehler Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Mentor Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"Munro Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"Nunda Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Cheboygan,"Walker Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Cheboygan,"Waverly Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Cheboygan,Total,Governor,,LIB,Bill Gelineau,12
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,LIB,John J. Tatar,1
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Benton Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Cheboygan,"Burt Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Cheboygan,"Grant Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Koehler Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Cheboygan,"Mentor Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Walker Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Cheboygan,Total,Governor,,LIB,John J. Tatar,7
+Cheboygan,"City of Cheboygan, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 2",Governor,,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 3",Governor,,LIB,Write-ins,0
+Cheboygan,"Aloha Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Beaugrand Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Benton Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Burt Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Ellis Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Forest Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Grant Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Hebron Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Inverness Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Koehler Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Mackinaw Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Mentor Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Mullett Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Munro Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Nunda Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Tuscarora Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Walker Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Waverly Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,"Wilmot Township, Precinct 1",Governor,,LIB,Write-ins,0
+Cheboygan,Total,Governor,,LIB,Write-ins,0
+Cheboygan,"City of Cheboygan, Precinct 1",Registered Voters,,   ,,315
+Cheboygan,"City of Cheboygan, Precinct 2",Registered Voters,,   ,,2745
+Cheboygan,"City of Cheboygan, Precinct 3",Registered Voters,,   ,,404
+Cheboygan,"Aloha Township, Precinct 1",Registered Voters,,   ,,801
+Cheboygan,"Beaugrand Township, Precinct 1",Registered Voters,,   ,,931
+Cheboygan,"Benton Township, Precinct 1",Registered Voters,,   ,,2631
+Cheboygan,"Burt Township, Precinct 1",Registered Voters,,   ,,667
+Cheboygan,"Ellis Township, Precinct 1",Registered Voters,,   ,,461
+Cheboygan,"Forest Township, Precinct 1",Registered Voters,,   ,,781
+Cheboygan,"Grant Township, Precinct 1",Registered Voters,,   ,,735
+Cheboygan,"Hebron Township, Precinct 1",Registered Voters,,   ,,253
+Cheboygan,"Inverness Township, Precinct 1",Registered Voters,,   ,,1991
+Cheboygan,"Koehler Township, Precinct 1",Registered Voters,,   ,,965
+Cheboygan,"Mackinaw Township, Precinct 1",Registered Voters,,   ,,448
+Cheboygan,"Mentor Township, Precinct 1",Registered Voters,,   ,,694
+Cheboygan,"Mullett Township, Precinct 1",Registered Voters,,   ,,1101
+Cheboygan,"Munro Township, Precinct 1",Registered Voters,,   ,,544
+Cheboygan,"Nunda Township, Precinct 1",Registered Voters,,   ,,856
+Cheboygan,"Tuscarora Township, Precinct 1",Registered Voters,,   ,,2687
+Cheboygan,"Walker Township, Precinct 1",Registered Voters,,   ,,227
+Cheboygan,"Waveriy Township, Precinct 1",Registered Voters,,   ,,358
+Cheboygan,"Wilmot Township, Precinct 1",Registered Voters,,   ,,638
+Cheboygan,Total,Registered Voters,,   ,,21233
+Cheboygan,"City of Cheboygan, Precinct 1",Ballots Cast,,   ,,72
+Cheboygan,"City of Cheboygan, Precinct 2",Ballots Cast,,   ,,588
+Cheboygan,"City of Cheboygan, Precinct 3",Ballots Cast,,   ,,100
+Cheboygan,"Aloha Township, Precinct 1",Ballots Cast,,   ,,274
+Cheboygan,"Beaugrand Township, Precinct 1",Ballots Cast,,   ,,312
+Cheboygan,"Benton Township, Precinct 1",Ballots Cast,,   ,,814
+Cheboygan,"Burt Township, Precinct 1",Ballots Cast,,   ,,261
+Cheboygan,"Ellis Township, Precinct 1",Ballots Cast,,   ,,149
+Cheboygan,"Forest Township, Precinct 1",Ballots Cast,,   ,,225
+Cheboygan,"Grant Township, Precinct 1",Ballots Cast,,   ,,282
+Cheboygan,"Hebron Township, Precinct 1",Ballots Cast,,   ,,72
+Cheboygan,"Inverness Township, Precinct 1",Ballots Cast,,   ,,630
+Cheboygan,"Koehler Township, Precinct 1",Ballots Cast,,   ,,217
+Cheboygan,"Mackinaw Township, Precinct 1",Ballots Cast,,   ,,181
+Cheboygan,"Mentor Township, Precinct 1",Ballots Cast,,   ,,208
+Cheboygan,"Mullett Township, Precinct 1",Ballots Cast,,   ,,390
+Cheboygan,"Munro Township, Precinct 1",Ballots Cast,,   ,,221
+Cheboygan,"Nunda Township, Precinct 1",Ballots Cast,,   ,,243
+Cheboygan,"Tuscarora Township, Precinct 1",Ballots Cast,,   ,,950
+Cheboygan,"Walker Township, Precinct 1",Ballots Cast,,   ,,55
+Cheboygan,"Waveriy Township, Precinct 1",Ballots Cast,,   ,,108
+Cheboygan,"Wilmot Township, Precinct 1",Ballots Cast,,   ,,169
+Cheboygan,Total,Ballots Cast,,   ,,6521

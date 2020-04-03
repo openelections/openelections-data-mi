@@ -1,0 +1,766 @@
+county,precinct,office,district,party,candidate,votes
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,REP,Lee Chatfield,253
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,REP,Lee Chatfield,255
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,REP,Lee Chatfield,263
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,REP,Lee Chatfield,92
+Chippewa,"Bruce Township, Precinct 1",State House,107,REP,Lee Chatfield,235
+Chippewa,"Chippewa Township, Precinct 1",State House,107,REP,Lee Chatfield,18
+Chippewa,"Dafter Township, Precinct 1",State House,107,REP,Lee Chatfield,123
+Chippewa,"Detour Township, Precinct 1",State House,107,REP,Lee Chatfield,119
+Chippewa,"Drummond Township, Precinct 1",State House,107,REP,Lee Chatfield,169
+Chippewa,"Hulbert Township, Precinct 1",State House,107,REP,Lee Chatfield,28
+Chippewa,"Kinross Township, Precinct 1",State House,107,REP,Lee Chatfield,322
+Chippewa,"Pickford Township, Precinct 1",State House,107,REP,Lee Chatfield,267
+Chippewa,"Raber Township, Precinct 1",State House,107,REP,Lee Chatfield,104
+Chippewa,"Rudyard Township, Precinct 1",State House,107,REP,Lee Chatfield,194
+Chippewa,"Soo Township, Precinct 1",State House,107,REP,Lee Chatfield,321
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,REP,Lee Chatfield,97
+Chippewa,"Superior Township, Precinct 1",State House,107,REP,Lee Chatfield,137
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,REP,Lee Chatfield,53
+Chippewa,"Whitefish Township, Precinct 1",State House,107,REP,Lee Chatfield,156
+Chippewa,Total,State House,107,REP,Lee Chatfield,3206
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",48
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,REP,"Bruce M. Newville, Jr.",46
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,REP,"Bruce M. Newville, Jr.",45
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",13
+Chippewa,"Bruce Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",24
+Chippewa,"Chippewa Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",2
+Chippewa,"Dafter Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",16
+Chippewa,"Detour Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",24
+Chippewa,"Drummond Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",29
+Chippewa,"Hulbert Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",4
+Chippewa,"Kinross Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",33
+Chippewa,"Pickford Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",9
+Chippewa,"Raber Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",20
+Chippewa,"Rudyard Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",29
+Chippewa,"Soo Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",50
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",25
+Chippewa,"Superior Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",20
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",17
+Chippewa,"Whitefish Township, Precinct 1",State House,107,REP,"Bruce M. Newville, Jr.",17
+Chippewa,Total,State House,107,REP,"Bruce M. Newville, Jr.",471
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,REP,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,REP,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,REP,Write-ins,1
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Pickford Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",State House,107,REP,Write-ins,1
+Chippewa,"Soo Township, Precinct 1",State House,107,REP,Write-ins,1
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,REP,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",State House,107,REP,Write-ins,0
+Chippewa,Total,State House,107,REP,Write-ins,5
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,302
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,DEM,Joanne Schmidt Galloway,208
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,DEM,Joanne Schmidt Galloway,191
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,93
+Chippewa,"Bruce Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,131
+Chippewa,"Chippewa Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,6
+Chippewa,"Dafter Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,46
+Chippewa,"Detour Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,93
+Chippewa,"Drummond Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,91
+Chippewa,"Hulbert Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,7
+Chippewa,"Kinross Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,163
+Chippewa,"Pickford Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,84
+Chippewa,"Raber Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,61
+Chippewa,"Rudyard Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,64
+Chippewa,"Soo Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,154
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,56
+Chippewa,"Superior Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,53
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,20
+Chippewa,"Whitefish Township, Precinct 1",State House,107,DEM,Joanne Schmidt Galloway,58
+Chippewa,Total,State House,107,DEM,Joanne Schmidt Galloway,1881
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,DEM,Kurt Perron,88
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,DEM,Kurt Perron,76
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,DEM,Kurt Perron,70
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,DEM,Kurt Perron,75
+Chippewa,"Bruce Township, Precinct 1",State House,107,DEM,Kurt Perron,46
+Chippewa,"Chippewa Township, Precinct 1",State House,107,DEM,Kurt Perron,4
+Chippewa,"Dafter Township, Precinct 1",State House,107,DEM,Kurt Perron,28
+Chippewa,"Detour Township, Precinct 1",State House,107,DEM,Kurt Perron,14
+Chippewa,"Drummond Township, Precinct 1",State House,107,DEM,Kurt Perron,16
+Chippewa,"Hulbert Township, Precinct 1",State House,107,DEM,Kurt Perron,13
+Chippewa,"Kinross Township, Precinct 1",State House,107,DEM,Kurt Perron,47
+Chippewa,"Pickford Township, Precinct 1",State House,107,DEM,Kurt Perron,23
+Chippewa,"Raber Township, Precinct 1",State House,107,DEM,Kurt Perron,14
+Chippewa,"Rudyard Township, Precinct 1",State House,107,DEM,Kurt Perron,25
+Chippewa,"Soo Township, Precinct 1",State House,107,DEM,Kurt Perron,60
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,DEM,Kurt Perron,29
+Chippewa,"Superior Township, Precinct 1",State House,107,DEM,Kurt Perron,51
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,DEM,Kurt Perron,11
+Chippewa,"Whitefish Township, Precinct 1",State House,107,DEM,Kurt Perron,21
+Chippewa,Total,State House,107,DEM,Kurt Perron,711
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,DEM,Write-ins,3
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,DEM,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,DEM,Write-ins,3
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",State House,107,DEM,Write-ins,1
+Chippewa,"Chippewa Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State House,107,DEM,Write-ins,1
+Chippewa,"Pickford Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",State House,107,DEM,Write-ins,1
+Chippewa,"Soo Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Superior Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",State House,107,DEM,Write-ins,0
+Chippewa,Total,State House,107,DEM,Write-ins,9
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State House,107,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State House,107,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State House,107,LIB,Write-ins,0
+Chippewa,"Bay Mills Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",State House,107,LIB,Write-ins,1
+Chippewa,"Chippewa Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State House,107,LIB,Write-ins,3
+Chippewa,"Pickford Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",State House,107,LIB,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",State House,107,LIB,Write-ins,0
+Chippewa,Total,State House,107,LIB,Write-ins,7
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,REP,Jim Gurr,49
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,REP,Jim Gurr,28
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,REP,Jim Gurr,43
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,REP,Jim Gurr,17
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,REP,Jim Gurr,43
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,REP,Jim Gurr,6
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,REP,Jim Gurr,25
+Chippewa,"Detour Township, Precinct 1",State Senate,37,REP,Jim Gurr,12
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,REP,Jim Gurr,34
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,REP,Jim Gurr,2
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,REP,Jim Gurr,59
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,REP,Jim Gurr,24
+Chippewa,"Raber Township, Precinct 1",State Senate,37,REP,Jim Gurr,22
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,REP,Jim Gurr,31
+Chippewa,"Soo Township, Precinct 1",State Senate,37,REP,Jim Gurr,53
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,REP,Jim Gurr,10
+Chippewa,"Superior Township, Precinct 1",State Senate,37,REP,Jim Gurr,13
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,REP,Jim Gurr,9
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,REP,Jim Gurr,28
+Chippewa,Total,State Senate,37,REP,Jim Gurr,508
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,REP,Wayne Schmidt,246
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,REP,Wayne Schmidt,266
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,REP,Wayne Schmidt,253
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,82
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,198
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,9
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,108
+Chippewa,"Detour Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,121
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,147
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,29
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,267
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,236
+Chippewa,"Raber Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,96
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,177
+Chippewa,"Soo Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,307
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,106
+Chippewa,"Superior Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,135
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,54
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,REP,Wayne Schmidt,126
+Chippewa,Total,State Senate,37,REP,Wayne Schmidt,2963
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,REP,Write-ins,2
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,REP,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,REP,Write-ins,1
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,REP,Write-ins,3
+Chippewa,"Soo Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,REP,Write-ins,2
+Chippewa,"Superior Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,REP,Write-ins,1
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,REP,Write-ins,0
+Chippewa,Total,State Senate,37,REP,Write-ins,12
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,DEM,Jim Page,355
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,DEM,Jim Page,245
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,DEM,Jim Page,236
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,DEM,Jim Page,137
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,DEM,Jim Page,157
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,DEM,Jim Page,9
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,DEM,Jim Page,69
+Chippewa,"Detour Township, Precinct 1",State Senate,37,DEM,Jim Page,91
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,DEM,Jim Page,100
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,DEM,Jim Page,18
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,DEM,Jim Page,189
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,DEM,Jim Page,86
+Chippewa,"Raber Township, Precinct 1",State Senate,37,DEM,Jim Page,59
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,DEM,Jim Page,73
+Chippewa,"Soo Township, Precinct 1",State Senate,37,DEM,Jim Page,202
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,DEM,Jim Page,81
+Chippewa,"Superior Township, Precinct 1",State Senate,37,DEM,Jim Page,92
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,DEM,Jim Page,28
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,DEM,Jim Page,72
+Chippewa,Total,State Senate,37,DEM,Jim Page,2299
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,DEM,Write-ins,5
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,DEM,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,DEM,Write-ins,4
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,DEM,Write-ins,1
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,DEM,Write-ins,3
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,DEM,Write-ins,2
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",State Senate,37,DEM,Write-ins,1
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Superior Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,DEM,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,DEM,Write-ins,1
+Chippewa,Total,State Senate,37,DEM,Write-ins,17
+Chippewa,"City of Sault Ste. Marie, Precinct 1",State Senate,37,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",State Senate,37,LIB,Write-ins,2
+Chippewa,"City of Sault Ste. Marie, Precinct 3",State Senate,37,LIB,Write-ins,0
+Chippewa,"Bay Mills Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",State Senate,37,LIB,Write-ins,2
+Chippewa,"Chippewa Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",State Senate,37,LIB,Write-ins,3
+Chippewa,"Pickford Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",State Senate,37,LIB,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",State Senate,37,LIB,Write-ins,0
+Chippewa,Total,State Senate,37,LIB,Write-ins,9
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. House,1,REP,Jack Bergman,286
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. House,1,REP,Jack Bergman,273
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. House,1,REP,Jack Bergman,281
+Chippewa,"Bay Mills Township, Precinct 1",U.S. House,1,REP,Jack Bergman,94
+Chippewa,"Bruce Township, Precinct 1",U.S. House,1,REP,Jack Bergman,246
+Chippewa,"Chippewa Township, Precinct 1",U.S. House,1,REP,Jack Bergman,22
+Chippewa,"Dafter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,135
+Chippewa,"Detour Township, Precinct 1",U.S. House,1,REP,Jack Bergman,136
+Chippewa,"Drummond Township, Precinct 1",U.S. House,1,REP,Jack Bergman,178
+Chippewa,"Hulbert Township, Precinct 1",U.S. House,1,REP,Jack Bergman,32
+Chippewa,"Kinross Township, Precinct 1",U.S. House,1,REP,Jack Bergman,307
+Chippewa,"Pickford Township, Precinct 1",U.S. House,1,REP,Jack Bergman,263
+Chippewa,"Raber Township, Precinct 1",U.S. House,1,REP,Jack Bergman,117
+Chippewa,"Rudyard Township, Precinct 1",U.S. House,1,REP,Jack Bergman,207
+Chippewa,"Soo Township, Precinct 1",U.S. House,1,REP,Jack Bergman,353
+Chippewa,"Sugar Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,106
+Chippewa,"Superior Township, Precinct 1",U.S. House,1,REP,Jack Bergman,144
+Chippewa,"Trout Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,68
+Chippewa,"Whitefish Township, Precinct 1",U.S. House,1,REP,Jack Bergman,160
+Chippewa,AV Counting Brd,U.S. House,1,REP,Jack Bergman,0
+Chippewa,Total,U.S. House,1,REP,Jack Bergman,3408
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. House,1,REP,Write-ins,3
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. House,1,REP,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. House,1,REP,Write-ins,2
+Chippewa,"Bay Mills Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,"Drummond Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,"Hulbert Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,"Pickford Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,"Rudyard Township, Precinct 1",U.S. House,1,REP,Write-ins,4
+Chippewa,"Soo Township, Precinct 1",U.S. House,1,REP,Write-ins,3
+Chippewa,"Sugar Island Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Chippewa,AV Counting Brd,U.S. House,1,REP,Write-ins,0
+Chippewa,Total,U.S. House,1,REP,Write-ins,19
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. House,1,DEM,Matthew Morgan,124
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. House,1,DEM,Matthew Morgan,66
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. House,1,DEM,Matthew Morgan,59
+Chippewa,"Bay Mills Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,57
+Chippewa,"Bruce Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,41
+Chippewa,"Chippewa Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Chippewa,"Dafter Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,22
+Chippewa,"Detour Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Chippewa,"Drummond Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,29
+Chippewa,"Hulbert Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,3
+Chippewa,"Kinross Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,38
+Chippewa,"Pickford Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,21
+Chippewa,"Raber Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,13
+Chippewa,"Rudyard Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,12
+Chippewa,"Soo Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,54
+Chippewa,"Sugar Island Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,22
+Chippewa,"Superior Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,15
+Chippewa,"Trout Lake Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,6
+Chippewa,"Whitefish Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,26
+Chippewa,AV Counting Brd,U.S. House,1,DEM,Matthew Morgan,56
+Chippewa,Total,U.S. House,1,DEM,Matthew Morgan,664
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. House,1,DEM,Write-ins,161
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. House,1,DEM,Write-ins,105
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. House,1,DEM,Write-ins,98
+Chippewa,"Bay Mills Township, Precinct 1",U.S. House,1,DEM,Write-ins,62
+Chippewa,"Bruce Township, Precinct 1",U.S. House,1,DEM,Write-ins,46
+Chippewa,"Chippewa Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Chippewa,"Dafter Township, Precinct 1",U.S. House,1,DEM,Write-ins,23
+Chippewa,"Detour Township, Precinct 1",U.S. House,1,DEM,Write-ins,50
+Chippewa,"Drummond Township, Precinct 1",U.S. House,1,DEM,Write-ins,39
+Chippewa,"Hulbert Township, Precinct 1",U.S. House,1,DEM,Write-ins,3
+Chippewa,"Kinross Township, Precinct 1",U.S. House,1,DEM,Write-ins,60
+Chippewa,"Pickford Township, Precinct 1",U.S. House,1,DEM,Write-ins,26
+Chippewa,"Raber Township, Precinct 1",U.S. House,1,DEM,Write-ins,18
+Chippewa,"Rudyard Township, Precinct 1",U.S. House,1,DEM,Write-ins,24
+Chippewa,"Soo Township, Precinct 1",U.S. House,1,DEM,Write-ins,61
+Chippewa,"Sugar Island Township, Precinct 1",U.S. House,1,DEM,Write-ins,30
+Chippewa,"Superior Township, Precinct 1",U.S. House,1,DEM,Write-ins,22
+Chippewa,"Trout Lake Township, Precinct 1",U.S. House,1,DEM,Write-ins,8
+Chippewa,"Whitefish Township, Precinct 1",U.S. House,1,DEM,Write-ins,31
+Chippewa,AV Counting Brd,U.S. House,1,DEM,Write-ins,0
+Chippewa,Total,U.S. House,1,DEM,Write-ins,870
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. House,1,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Bay Mills Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",U.S. House,1,LIB,Write-ins,2
+Chippewa,"Chippewa Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",U.S. House,1,LIB,Write-ins,3
+Chippewa,"Pickford Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Chippewa,AV Counting Brd,U.S. House,1,LIB,Write-ins,0
+Chippewa,Total,U.S. House,1,LIB,Write-ins,8
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,REP,John James,148
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,REP,John James,117
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,REP,John James,148
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,REP,John James,42
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,REP,John James,90
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,REP,John James,11
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,REP,John James,59
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,REP,John James,49
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,REP,John James,83
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,REP,John James,15
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,REP,John James,155
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,REP,John James,110
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,REP,John James,51
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,REP,John James,94
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,REP,John James,167
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,REP,John James,41
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,REP,John James,67
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,REP,John James,31
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,REP,John James,82
+Chippewa,Total,U.S. Senate,,REP,John James,1560
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,REP,Sandy Pensler,146
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,REP,Sandy Pensler,179
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,REP,Sandy Pensler,152
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,59
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,157
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,13
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,81
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,89
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,113
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,17
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,186
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,153
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,69
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,119
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,200
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,78
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,84
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,46
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,88
+Chippewa,Total,U.S. Senate,,REP,Sandy Pensler,2029
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,REP,Write-ins,2
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,REP,Write-ins,2
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Chippewa,Total,U.S. Senate,,REP,Write-ins,8
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,386
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,283
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,269
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,160
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,171
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,8
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,74
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,108
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,107
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,20
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,200
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,103
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,72
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,90
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,216
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,89
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,101
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,35
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,78
+Chippewa,Total,U.S. Senate,,DEM,Debbie Stabenow,2570
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,DEM,Write-ins,6
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,DEM,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,DEM,Write-ins,1
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Chippewa,Total,U.S. Senate,,DEM,Write-ins,14
+Chippewa,"City of Sault Ste. Marie, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",U.S. Senate,,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Bay Mills Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Chippewa,"Chippewa Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",U.S. Senate,,LIB,Write-ins,3
+Chippewa,"Pickford Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Chippewa,Total,U.S. Senate,,LIB,Write-ins,7
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,REP,Brian Calley,89
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,REP,Brian Calley,90
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,REP,Brian Calley,84
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,REP,Brian Calley,35
+Chippewa,"Bruce Township, Precinct 1",Governor,,REP,Brian Calley,89
+Chippewa,"Chippewa Township, Precinct 1",Governor,,REP,Brian Calley,7
+Chippewa,"Dafter Township, Precinct 1",Governor,,REP,Brian Calley,35
+Chippewa,"Detour Township, Precinct 1",Governor,,REP,Brian Calley,39
+Chippewa,"Drummond Township, Precinct 1",Governor,,REP,Brian Calley,66
+Chippewa,"Hulbert Township, Precinct 1",Governor,,REP,Brian Calley,14
+Chippewa,"Kinross Township, Precinct 1",Governor,,REP,Brian Calley,92
+Chippewa,"Pickford Township, Precinct 1",Governor,,REP,Brian Calley,55
+Chippewa,"Raber Township, Precinct 1",Governor,,REP,Brian Calley,26
+Chippewa,"Rudyard Township, Precinct 1",Governor,,REP,Brian Calley,55
+Chippewa,"Soo Township, Precinct 1",Governor,,REP,Brian Calley,110
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,REP,Brian Calley,31
+Chippewa,"Superior Township, Precinct 1",Governor,,REP,Brian Calley,41
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,REP,Brian Calley,19
+Chippewa,"Whitefish Township, Precinct 1",Governor,,REP,Brian Calley,59
+Chippewa,Total,Governor,,REP,Brian Calley,1036
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,REP,Patrick Colbeck,20
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,REP,Patrick Colbeck,26
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,REP,Patrick Colbeck,17
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,REP,Patrick Colbeck,6
+Chippewa,"Bruce Township, Precinct 1",Governor,,REP,Patrick Colbeck,19
+Chippewa,"Chippewa Township, Precinct 1",Governor,,REP,Patrick Colbeck,1
+Chippewa,"Dafter Township, Precinct 1",Governor,,REP,Patrick Colbeck,15
+Chippewa,"Detour Township, Precinct 1",Governor,,REP,Patrick Colbeck,8
+Chippewa,"Drummond Township, Precinct 1",Governor,,REP,Patrick Colbeck,4
+Chippewa,"Hulbert Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Chippewa,"Kinross Township, Precinct 1",Governor,,REP,Patrick Colbeck,48
+Chippewa,"Pickford Township, Precinct 1",Governor,,REP,Patrick Colbeck,36
+Chippewa,"Raber Township, Precinct 1",Governor,,REP,Patrick Colbeck,21
+Chippewa,"Rudyard Township, Precinct 1",Governor,,REP,Patrick Colbeck,39
+Chippewa,"Soo Township, Precinct 1",Governor,,REP,Patrick Colbeck,25
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Chippewa,"Superior Township, Precinct 1",Governor,,REP,Patrick Colbeck,8
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,REP,Patrick Colbeck,4
+Chippewa,"Whitefish Township, Precinct 1",Governor,,REP,Patrick Colbeck,13
+Chippewa,Total,Governor,,REP,Patrick Colbeck,315
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,REP,Jim Hines,46
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,REP,Jim Hines,41
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,REP,Jim Hines,44
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,REP,Jim Hines,21
+Chippewa,"Bruce Township, Precinct 1",Governor,,REP,Jim Hines,27
+Chippewa,"Chippewa Township, Precinct 1",Governor,,REP,Jim Hines,3
+Chippewa,"Dafter Township, Precinct 1",Governor,,REP,Jim Hines,17
+Chippewa,"Detour Township, Precinct 1",Governor,,REP,Jim Hines,25
+Chippewa,"Drummond Township, Precinct 1",Governor,,REP,Jim Hines,23
+Chippewa,"Hulbert Township, Precinct 1",Governor,,REP,Jim Hines,5
+Chippewa,"Kinross Township, Precinct 1",Governor,,REP,Jim Hines,56
+Chippewa,"Pickford Township, Precinct 1",Governor,,REP,Jim Hines,31
+Chippewa,"Raber Township, Precinct 1",Governor,,REP,Jim Hines,20
+Chippewa,"Rudyard Township, Precinct 1",Governor,,REP,Jim Hines,27
+Chippewa,"Soo Township, Precinct 1",Governor,,REP,Jim Hines,51
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,REP,Jim Hines,22
+Chippewa,"Superior Township, Precinct 1",Governor,,REP,Jim Hines,23
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,REP,Jim Hines,8
+Chippewa,"Whitefish Township, Precinct 1",Governor,,REP,Jim Hines,24
+Chippewa,Total,Governor,,REP,Jim Hines,514
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,REP,Bill Schuette,157
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,REP,Bill Schuette,157
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,REP,Bill Schuette,171
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,REP,Bill Schuette,43
+Chippewa,"Bruce Township, Precinct 1",Governor,,REP,Bill Schuette,128
+Chippewa,"Chippewa Township, Precinct 1",Governor,,REP,Bill Schuette,14
+Chippewa,"Dafter Township, Precinct 1",Governor,,REP,Bill Schuette,77
+Chippewa,"Detour Township, Precinct 1",Governor,,REP,Bill Schuette,75
+Chippewa,"Drummond Township, Precinct 1",Governor,,REP,Bill Schuette,114
+Chippewa,"Hulbert Township, Precinct 1",Governor,,REP,Bill Schuette,13
+Chippewa,"Kinross Township, Precinct 1",Governor,,REP,Bill Schuette,153
+Chippewa,"Pickford Township, Precinct 1",Governor,,REP,Bill Schuette,151
+Chippewa,"Raber Township, Precinct 1",Governor,,REP,Bill Schuette,58
+Chippewa,"Rudyard Township, Precinct 1",Governor,,REP,Bill Schuette,110
+Chippewa,"Soo Township, Precinct 1",Governor,,REP,Bill Schuette,189
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,REP,Bill Schuette,68
+Chippewa,"Superior Township, Precinct 1",Governor,,REP,Bill Schuette,79
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,REP,Bill Schuette,49
+Chippewa,"Whitefish Township, Precinct 1",Governor,,REP,Bill Schuette,80
+Chippewa,Total,Governor,,REP,Bill Schuette,1886
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,REP,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,REP,Write-ins,1
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",Governor,,REP,Write-ins,1
+Chippewa,"Drummond Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",Governor,,REP,Write-ins,1
+Chippewa,"Pickford Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",Governor,,REP,Write-ins,1
+Chippewa,"Soo Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,REP,Write-ins,1
+Chippewa,"Superior Township, Precinct 1",Governor,,REP,Write-ins,1
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",Governor,,REP,Write-ins,0
+Chippewa,Total,Governor,,REP,Write-ins,7
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,DEM,Abdul El-Sayed,134
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,DEM,Abdul El-Sayed,74
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,DEM,Abdul El-Sayed,62
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,37
+Chippewa,"Bruce Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,23
+Chippewa,"Chippewa Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,1
+Chippewa,"Dafter Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Chippewa,"Detour Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,10
+Chippewa,"Drummond Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,17
+Chippewa,"Hulbert Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Chippewa,"Kinross Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,43
+Chippewa,"Pickford Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,18
+Chippewa,"Raber Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Chippewa,"Rudyard Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Chippewa,"Soo Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,18
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,11
+Chippewa,"Superior Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,16
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Chippewa,"Whitefish Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,11
+Chippewa,Total,Governor,,DEM,Abdul El-Sayed,518
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,DEM,Shri Thanedar,94
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,DEM,Shri Thanedar,47
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,DEM,Shri Thanedar,51
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,DEM,Shri Thanedar,28
+Chippewa,"Bruce Township, Precinct 1",Governor,,DEM,Shri Thanedar,30
+Chippewa,"Chippewa Township, Precinct 1",Governor,,DEM,Shri Thanedar,4
+Chippewa,"Dafter Township, Precinct 1",Governor,,DEM,Shri Thanedar,7
+Chippewa,"Detour Township, Precinct 1",Governor,,DEM,Shri Thanedar,12
+Chippewa,"Drummond Township, Precinct 1",Governor,,DEM,Shri Thanedar,18
+Chippewa,"Hulbert Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Chippewa,"Kinross Township, Precinct 1",Governor,,DEM,Shri Thanedar,57
+Chippewa,"Pickford Township, Precinct 1",Governor,,DEM,Shri Thanedar,10
+Chippewa,"Raber Township, Precinct 1",Governor,,DEM,Shri Thanedar,15
+Chippewa,"Rudyard Township, Precinct 1",Governor,,DEM,Shri Thanedar,17
+Chippewa,"Soo Township, Precinct 1",Governor,,DEM,Shri Thanedar,45
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,DEM,Shri Thanedar,21
+Chippewa,"Superior Township, Precinct 1",Governor,,DEM,Shri Thanedar,24
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,DEM,Shri Thanedar,10
+Chippewa,"Whitefish Township, Precinct 1",Governor,,DEM,Shri Thanedar,18
+Chippewa,Total,Governor,,DEM,Shri Thanedar,513
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,DEM,Gretchen Whitmer,194
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,DEM,Gretchen Whitmer,187
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,DEM,Gretchen Whitmer,169
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,103
+Chippewa,"Bruce Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,136
+Chippewa,"Chippewa Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,5
+Chippewa,"Dafter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,56
+Chippewa,"Detour Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,88
+Chippewa,"Drummond Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,82
+Chippewa,"Hulbert Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,13
+Chippewa,"Kinross Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,115
+Chippewa,"Pickford Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,82
+Chippewa,"Raber Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,60
+Chippewa,"Rudyard Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68
+Chippewa,"Soo Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,161
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,63
+Chippewa,"Superior Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,71
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,22
+Chippewa,"Whitefish Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,54
+Chippewa,Total,Governor,,DEM,Gretchen Whitmer,1729
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,DEM,Write-ins,2
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,DEM,Write-ins,0
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,DEM,Write-ins,0
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,DEM,Write-ins,1
+Chippewa,"Bruce Township, Precinct 1",Governor,,DEM,Write-ins,2
+Chippewa,"Chippewa Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",Governor,,DEM,Write-ins,1
+Chippewa,"Detour Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Pickford Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",Governor,,DEM,Write-ins,1
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Superior Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",Governor,,DEM,Write-ins,0
+Chippewa,Total,Governor,,DEM,Write-ins,7
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,LIB,Bill Gelineau,2
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Bruce Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Chippewa,"Chippewa Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Chippewa,"Dafter Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Detour Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Drummond Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Hulbert Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Kinross Township, Precinct 1",Governor,,LIB,Bill Gelineau,6
+Chippewa,"Pickford Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Raber Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Rudyard Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Soo Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Chippewa,"Superior Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Chippewa,"Whitefish Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Chippewa,Total,Governor,,LIB,Bill Gelineau,18
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,LIB,John J. Tatar,2
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,LIB,John J. Tatar,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,LIB,John J. Tatar,0
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Bruce Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Chippewa Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Dafter Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Chippewa,"Detour Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Drummond Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Hulbert Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Kinross Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Chippewa,"Pickford Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Raber Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Rudyard Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Chippewa,"Soo Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Chippewa,"Superior Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,"Whitefish Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Chippewa,Total,Governor,,LIB,John J. Tatar,9
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Governor,,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Governor,,LIB,Write-ins,1
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Governor,,LIB,Write-ins,1
+Chippewa,"Bay Mills Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Bruce Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Chippewa Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Dafter Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Detour Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Drummond Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Hulbert Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Kinross Township, Precinct 1",Governor,,LIB,Write-ins,1
+Chippewa,"Pickford Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Raber Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Rudyard Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Soo Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Sugar Island Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Superior Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Trout Lake Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,"Whitefish Township, Precinct 1",Governor,,LIB,Write-ins,0
+Chippewa,Total,Governor,,LIB,Write-ins,4
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Registered Voters,,   ,,3140
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Registered Voters,,   ,,2639
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Registered Voters,,   ,,2654
+Chippewa,"Bay Mills Township, Precinct 1",Registered Voters,,   ,,1133
+Chippewa,"Bruce Township, Precinct 1",Registered Voters,,   ,,1543
+Chippewa,"Chippewa Township, Precinct 1",Registered Voters,,   ,,155
+Chippewa,"Dafter Township, Precinct 1",Registered Voters,,   ,,952
+Chippewa,Detour Township. Precinct 1,Registered Voters,,   ,,689
+Chippewa,"Drummond Township, Precinct 1",Registered Voters,,   ,,969
+Chippewa,"Hulbert Township, Precinct 1",Registered Voters,,   ,,158
+Chippewa,"Kinross Township, Precinct 1",Registered Voters,,   ,,2243
+Chippewa,"Pickford Township, Precinct 1",Registered Voters,,   ,,1199
+Chippewa,"Raber Township, Precinct 1",Registered Voters,,   ,,520
+Chippewa,"Rudyard Township, Precinct 1",Registered Voters,,   ,,969
+Chippewa,"Soo Township, Precinct 1",Registered Voters,,   ,,2360
+Chippewa,"Sugar Island Township, Precinct 1",Registered Voters,,   ,,619
+Chippewa,"Superior Township, Precinct 1",Registered Voters,,   ,,1044
+Chippewa,"Trout Lake Township, Precinct 1",Registered Voters,,   ,,304
+Chippewa,"Whitefish Township, Precinct 1",Registered Voters,,   ,,543
+Chippewa,Total,Registered Voters,,   ,,23833
+Chippewa,"City of Sault Ste. Marie, Precinct 1",Ballots Cast,,   ,,757
+Chippewa,"City of Sault Ste. Marie, Precinct 2",Ballots Cast,,   ,,633
+Chippewa,"City of Sault Ste. Marie, Precinct 3",Ballots Cast,,   ,,635
+Chippewa,"Bay Mills Township, Precinct 1",Ballots Cast,,   ,,278
+Chippewa,"Bruce Township, Precinct 1",Ballots Cast,,   ,,469
+Chippewa,"Chippewa Township, Precinct 1",Ballots Cast,,   ,,40
+Chippewa,"Dafter Township, Precinct 1",Ballots Cast,,   ,,222
+Chippewa,Detour Township. Precinct 1,Ballots Cast,,   ,,264
+Chippewa,"Drummond Township, Precinct 1",Ballots Cast,,   ,,337
+Chippewa,"Hulbert Township, Precinct 1",Ballots Cast,,   ,,60
+Chippewa,"Kinross Township, Precinct 1",Ballots Cast,,   ,,602
+Chippewa,"Pickford Township, Precinct 1",Ballots Cast,,   ,,397
+Chippewa,"Raber Township, Precinct 1",Ballots Cast,,   ,,217
+Chippewa,"Rudyard Township, Precinct 1",Ballots Cast,,   ,,336
+Chippewa,"Soo Township, Precinct 1",Ballots Cast,,   ,,618
+Chippewa,"Sugar Island Township, Precinct 1",Ballots Cast,,   ,,225
+Chippewa,"Superior Township, Precinct 1",Ballots Cast,,   ,,271
+Chippewa,"Trout Lake Township, Precinct 1",Ballots Cast,,   ,,120
+Chippewa,"Whitefish Township, Precinct 1",Ballots Cast,,   ,,277
+Chippewa,Total,Ballots Cast,,   ,,6758

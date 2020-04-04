@@ -1,0 +1,775 @@
+county,precinct,office,district,party,candidate,votes
+Clare,"City of Clare, Precinct 1",State House,99,REP,Roger Hauck,4
+Clare,Total,State House,99,REP,Roger Hauck,4
+Clare,"City of Clare, Precinct 1",State House,99,REP,Write-ins,0
+Clare,Total,State House,99,REP,Write-ins,0
+Clare,"City of Clare, Precinct 1",State House,99,DEM,Kristen Brown,1
+Clare,Total,State House,99,DEM,Kristen Brown,1
+Clare,"City of Clare, Precinct 1",State House,99,DEM,Randall Doyle,0
+Clare,Total,State House,99,DEM,Randall Doyle,0
+Clare,"City of Clare, Precinct 1",State House,99,DEM,Allison Quast-Lents,0
+Clare,Total,State House,99,DEM,Allison Quast-Lents,0
+Clare,"City of Clare, Precinct 1",State House,99,DEM,Write-ins,0
+Clare,Total,State House,99,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",State House,99,LIB,Write-ins,0
+Clare,Total,State House,99,LIB,Write-ins,0
+Clare,"Arthur Township, Precinct 1",State House,97,REP,Jason Wentworth,123
+Clare,"Franklin Township, Precinct 1",State House,97,REP,Jason Wentworth,90
+Clare,"Freeman Township, Precinct 1",State House,97,REP,Jason Wentworth,154
+Clare,"Frost Township, Precinct 1",State House,97,REP,Jason Wentworth,110
+Clare,"Garfield Township, Precinct 1",State House,97,REP,Jason Wentworth,212
+Clare,"Grant Township, Precinct 1",State House,97,REP,Jason Wentworth,375
+Clare,"Greenwood Township, Precinct 1",State House,97,REP,Jason Wentworth,145
+Clare,"Hamilton Township, Precinct 1",State House,97,REP,Jason Wentworth,173
+Clare,"Hatton Township, Precinct 1",State House,97,REP,Jason Wentworth,139
+Clare,"Hayes Township, Precinct 1",State House,97,REP,Jason Wentworth,207
+Clare,"Hayes Township, Precinct 2",State House,97,REP,Jason Wentworth,182
+Clare,"Lincoln Township, Precinct 1",State House,97,REP,Jason Wentworth,163
+Clare,"Redding Township, Precinct 1",State House,97,REP,Jason Wentworth,43
+Clare,"Sheridan Township, Precinct 1",State House,97,REP,Jason Wentworth,140
+Clare,"Summerfield Township, Precinct 1",State House,97,REP,Jason Wentworth,47
+Clare,"Surrey Township, Precinct 1",State House,97,REP,Jason Wentworth,326
+Clare,"Winterfield Township, Precinct 1",State House,97,REP,Jason Wentworth,58
+Clare,"City of Clare, Precinct 1",State House,97,REP,Jason Wentworth,236
+Clare,"City of Harrison, Precinct 1",State House,97,REP,Jason Wentworth,189
+Clare,Total,State House,97,REP,Jason Wentworth,3112
+Clare,"Arthur Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Franklin Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Freeman Township, Precinct 1",State House,97,REP,Write-ins,1
+Clare,"Frost Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Garfield Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Grant Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",State House,97,REP,Write-ins,3
+Clare,"Hatton Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State House,97,REP,Write-ins,1
+Clare,"Hayes Township, Precinct 2",State House,97,REP,Write-ins,1
+Clare,"Lincoln Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Redding Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"Winterfield Township, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"City of Clare, Precinct 1",State House,97,REP,Write-ins,0
+Clare,"City of Harrison, Precinct 1",State House,97,REP,Write-ins,1
+Clare,Total,State House,97,REP,Write-ins,7
+Clare,"Arthur Township, Precinct 1",State House,97,DEM,Bob Townsend,13
+Clare,"Franklin Township, Precinct 1",State House,97,DEM,Bob Townsend,17
+Clare,"Freeman Township, Precinct 1",State House,97,DEM,Bob Townsend,62
+Clare,"Frost Township, Precinct 1",State House,97,DEM,Bob Townsend,35
+Clare,"Garfield Township, Precinct 1",State House,97,DEM,Bob Townsend,72
+Clare,"Grant Township, Precinct 1",State House,97,DEM,Bob Townsend,96
+Clare,"Greenwood Township, Precinct 1",State House,97,DEM,Bob Townsend,50
+Clare,"Hamilton Township, Precinct 1",State House,97,DEM,Bob Townsend,50
+Clare,"Hatton Township, Precinct 1",State House,97,DEM,Bob Townsend,20
+Clare,"Hayes Township, Precinct 1",State House,97,DEM,Bob Townsend,48
+Clare,"Hayes Township, Precinct 2",State House,97,DEM,Bob Townsend,79
+Clare,"Lincoln Township, Precinct 1",State House,97,DEM,Bob Townsend,50
+Clare,"Redding Township, Precinct 1",State House,97,DEM,Bob Townsend,20
+Clare,"Sheridan Township, Precinct 1",State House,97,DEM,Bob Townsend,40
+Clare,"Summerfield Township, Precinct 1",State House,97,DEM,Bob Townsend,13
+Clare,"Surrey Township, Precinct 1",State House,97,DEM,Bob Townsend,118
+Clare,"Winterfield Township, Precinct 1",State House,97,DEM,Bob Townsend,24
+Clare,"City of Clare, Precinct 1",State House,97,DEM,Bob Townsend,101
+Clare,"City of Harrison, Precinct 1",State House,97,DEM,Bob Townsend,55
+Clare,Total,State House,97,DEM,Bob Townsend,963
+Clare,"Arthur Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,8
+Clare,"Franklin Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,29
+Clare,"Freeman Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,31
+Clare,"Frost Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,25
+Clare,"Garfield Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,61
+Clare,"Grant Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,89
+Clare,"Greenwood Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,33
+Clare,"Hamilton Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,37
+Clare,"Hatton Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,28
+Clare,"Hayes Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,64
+Clare,"Hayes Township, Precinct 2",State House,97,DEM,Celia Young-Wenkel,45
+Clare,"Lincoln Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,82
+Clare,"Redding Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,13
+Clare,"Sheridan Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,15
+Clare,"Summerfield Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,13
+Clare,"Surrey Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,118
+Clare,"Winterfield Township, Precinct 1",State House,97,DEM,Celia Young-Wenkel,14
+Clare,"City of Clare, Precinct 1",State House,97,DEM,Celia Young-Wenkel,96
+Clare,"City of Harrison, Precinct 1",State House,97,DEM,Celia Young-Wenkel,65
+Clare,Total,State House,97,DEM,Celia Young-Wenkel,866
+Clare,"Arthur Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Franklin Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Freeman Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Frost Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Garfield Township, Precinct 1",State House,97,DEM,Write-ins,1
+Clare,"Grant Township, Precinct 1",State House,97,DEM,Write-ins,2
+Clare,"Greenwood Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",State House,97,DEM,Write-ins,1
+Clare,"Hatton Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State House,97,DEM,Write-ins,1
+Clare,"Hayes Township, Precinct 2",State House,97,DEM,Write-ins,0
+Clare,"Lincoln Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Redding Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State House,97,DEM,Write-ins,2
+Clare,"Winterfield Township, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,"City of Harrison, Precinct 1",State House,97,DEM,Write-ins,0
+Clare,Total,State House,97,DEM,Write-ins,7
+Clare,"Arthur Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Franklin Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Freeman Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Frost Township, Precinct 1",State House,97,LIB,Write-ins,1
+Clare,"Garfield Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Grant Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Hatton Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 2",State House,97,LIB,Write-ins,1
+Clare,"Lincoln Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Redding Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"Winterfield Township, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"City of Clare, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,"City of Harrison, Precinct 1",State House,97,LIB,Write-ins,0
+Clare,Total,State House,97,LIB,Write-ins,2
+Clare,"Arthur Township, Precinct 1",State Senate,33,REP,Greg Alexander,43
+Clare,"Franklin Township, Precinct 1",State Senate,33,REP,Greg Alexander,38
+Clare,Freeman Township. Precinct 1,State Senate,33,REP,Greg Alexander,64
+Clare,"Frost Township, Precinct 1",State Senate,33,REP,Greg Alexander,38
+Clare,"Garfield Township, Precinct 1",State Senate,33,REP,Greg Alexander,90
+Clare,"Grant Township, Precinct 1",State Senate,33,REP,Greg Alexander,97
+Clare,"Greenwood Township, Precinct 1",State Senate,33,REP,Greg Alexander,52
+Clare,"Hamilton Township, Precinct 1",State Senate,33,REP,Greg Alexander,67
+Clare,"Hatton Township, Precinct 1",State Senate,33,REP,Greg Alexander,40
+Clare,"Hayes Township, Precinct 1",State Senate,33,REP,Greg Alexander,72
+Clare,"Hayes Township, Precinct 2",State Senate,33,REP,Greg Alexander,79
+Clare,Lincoln Township. Precinct 1,State Senate,33,REP,Greg Alexander,73
+Clare,"Redding Township, Precinct 1",State Senate,33,REP,Greg Alexander,22
+Clare,"Sheridan Township, Precinct 1",State Senate,33,REP,Greg Alexander,49
+Clare,"Summerfield Township, Precinct 1",State Senate,33,REP,Greg Alexander,21
+Clare,"Surrey Township, Precinct 1",State Senate,33,REP,Greg Alexander,111
+Clare,"Winterfield Township, Precinct 1",State Senate,33,REP,Greg Alexander,17
+Clare,"City of Clare, Precinct 1",State Senate,33,REP,Greg Alexander,58
+Clare,"City of Harrison, Precinct 1",State Senate,33,REP,Greg Alexander,61
+Clare,Total,State Senate,33,REP,Greg Alexander,1092
+Clare,"Arthur Township, Precinct 1",State Senate,33,REP,Rick Outman,68
+Clare,"Franklin Township, Precinct 1",State Senate,33,REP,Rick Outman,51
+Clare,Freeman Township. Precinct 1,State Senate,33,REP,Rick Outman,83
+Clare,"Frost Township, Precinct 1",State Senate,33,REP,Rick Outman,71
+Clare,"Garfield Township, Precinct 1",State Senate,33,REP,Rick Outman,109
+Clare,"Grant Township, Precinct 1",State Senate,33,REP,Rick Outman,229
+Clare,"Greenwood Township, Precinct 1",State Senate,33,REP,Rick Outman,78
+Clare,"Hamilton Township, Precinct 1",State Senate,33,REP,Rick Outman,104
+Clare,"Hatton Township, Precinct 1",State Senate,33,REP,Rick Outman,87
+Clare,"Hayes Township, Precinct 1",State Senate,33,REP,Rick Outman,129
+Clare,"Hayes Township, Precinct 2",State Senate,33,REP,Rick Outman,91
+Clare,Lincoln Township. Precinct 1,State Senate,33,REP,Rick Outman,89
+Clare,"Redding Township, Precinct 1",State Senate,33,REP,Rick Outman,20
+Clare,"Sheridan Township, Precinct 1",State Senate,33,REP,Rick Outman,84
+Clare,"Summerfield Township, Precinct 1",State Senate,33,REP,Rick Outman,27
+Clare,"Surrey Township, Precinct 1",State Senate,33,REP,Rick Outman,183
+Clare,"Winterfield Township, Precinct 1",State Senate,33,REP,Rick Outman,40
+Clare,"City of Clare, Precinct 1",State Senate,33,REP,Rick Outman,162
+Clare,"City of Harrison, Precinct 1",State Senate,33,REP,Rick Outman,111
+Clare,Total,State Senate,33,REP,Rick Outman,1816
+Clare,"Arthur Township, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,"Franklin Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,Freeman Township. Precinct 1,State Senate,33,REP,Write-ins,1
+Clare,"Frost Township, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,"Garfield Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Grant Township, Precinct 1",State Senate,33,REP,Write-ins,2
+Clare,"Greenwood Township, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,"Hamilton Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Hatton Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,"Hayes Township, Precinct 2",State Senate,33,REP,Write-ins,0
+Clare,Lincoln Township. Precinct 1,State Senate,33,REP,Write-ins,1
+Clare,"Redding Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,"Winterfield Township, Precinct 1",State Senate,33,REP,Write-ins,0
+Clare,"City of Clare, Precinct 1",State Senate,33,REP,Write-ins,2
+Clare,"City of Harrison, Precinct 1",State Senate,33,REP,Write-ins,1
+Clare,Total,State Senate,33,REP,Write-ins,12
+Clare,"Arthur Township, Precinct 1",State Senate,33,DEM,Mark Bignell,12
+Clare,"Franklin Township, Precinct 1",State Senate,33,DEM,Mark Bignell,26
+Clare,Freeman Township. Precinct 1,State Senate,33,DEM,Mark Bignell,56
+Clare,"Frost Township, Precinct 1",State Senate,33,DEM,Mark Bignell,39
+Clare,"Garfield Township, Precinct 1",State Senate,33,DEM,Mark Bignell,94
+Clare,"Grant Township, Precinct 1",State Senate,33,DEM,Mark Bignell,102
+Clare,"Greenwood Township, Precinct 1",State Senate,33,DEM,Mark Bignell,62
+Clare,"Hamilton Township, Precinct 1",State Senate,33,DEM,Mark Bignell,56
+Clare,"Hatton Township, Precinct 1",State Senate,33,DEM,Mark Bignell,28
+Clare,"Hayes Township, Precinct 1",State Senate,33,DEM,Mark Bignell,71
+Clare,"Hayes Township, Precinct 2",State Senate,33,DEM,Mark Bignell,82
+Clare,Lincoln Township. Precinct 1,State Senate,33,DEM,Mark Bignell,85
+Clare,"Redding Township, Precinct 1",State Senate,33,DEM,Mark Bignell,17
+Clare,"Sheridan Township, Precinct 1",State Senate,33,DEM,Mark Bignell,27
+Clare,"Summerfield Township, Precinct 1",State Senate,33,DEM,Mark Bignell,20
+Clare,"Surrey Township, Precinct 1",State Senate,33,DEM,Mark Bignell,138
+Clare,"Winterfield Township, Precinct 1",State Senate,33,DEM,Mark Bignell,23
+Clare,"City of Clare, Precinct 1",State Senate,33,DEM,Mark Bignell,116
+Clare,"City of Harrison, Precinct 1",State Senate,33,DEM,Mark Bignell,78
+Clare,Total,State Senate,33,DEM,Mark Bignell,1132
+Clare,"Arthur Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,6
+Clare,"Franklin Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,16
+Clare,Freeman Township. Precinct 1,State Senate,33,DEM,John M. Hoppough,33
+Clare,"Frost Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,20
+Clare,"Garfield Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,28
+Clare,"Grant Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,70
+Clare,"Greenwood Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,18
+Clare,"Hamilton Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,30
+Clare,"Hatton Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,17
+Clare,"Hayes Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,36
+Clare,"Hayes Township, Precinct 2",State Senate,33,DEM,John M. Hoppough,38
+Clare,Lincoln Township. Precinct 1,State Senate,33,DEM,John M. Hoppough,41
+Clare,"Redding Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,11
+Clare,"Sheridan Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,20
+Clare,"Summerfield Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,5
+Clare,"Surrey Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,89
+Clare,"Winterfield Township, Precinct 1",State Senate,33,DEM,John M. Hoppough,13
+Clare,"City of Clare, Precinct 1",State Senate,33,DEM,John M. Hoppough,64
+Clare,"City of Harrison, Precinct 1",State Senate,33,DEM,John M. Hoppough,37
+Clare,Total,State Senate,33,DEM,John M. Hoppough,592
+Clare,"Arthur Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Franklin Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,Freeman Township. Precinct 1,State Senate,33,DEM,Write-ins,0
+Clare,"Frost Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Garfield Township, Precinct 1",State Senate,33,DEM,Write-ins,2
+Clare,"Grant Township, Precinct 1",State Senate,33,DEM,Write-ins,3
+Clare,"Greenwood Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Hatton Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State Senate,33,DEM,Write-ins,2
+Clare,"Hayes Township, Precinct 2",State Senate,33,DEM,Write-ins,0
+Clare,Lincoln Township. Precinct 1,State Senate,33,DEM,Write-ins,0
+Clare,"Redding Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State Senate,33,DEM,Write-ins,3
+Clare,"Winterfield Township, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,"City of Harrison, Precinct 1",State Senate,33,DEM,Write-ins,0
+Clare,Total,State Senate,33,DEM,Write-ins,10
+Clare,"Arthur Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Franklin Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,Freeman Township. Precinct 1,State Senate,33,LIB,Write-ins,0
+Clare,"Frost Township, Precinct 1",State Senate,33,LIB,Write-ins,1
+Clare,"Garfield Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Grant Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Hatton Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 2",State Senate,33,LIB,Write-ins,1
+Clare,Lincoln Township. Precinct 1,State Senate,33,LIB,Write-ins,0
+Clare,"Redding Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Surrey Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"Winterfield Township, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"City of Clare, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,"City of Harrison, Precinct 1",State Senate,33,LIB,Write-ins,0
+Clare,Total,State Senate,33,LIB,Write-ins,2
+Clare,"Arthur Township, Precinct 1",U.S. House,4,REP,John Moolenaar,124
+Clare,"Franklin Township, Precinct 1",U.S. House,4,REP,John Moolenaar,87
+Clare,Freeman Township. Precinct 1,U.S. House,4,REP,John Moolenaar,153
+Clare,"Frost Township, Precinct 1",U.S. House,4,REP,John Moolenaar,114
+Clare,"Garfield Township, Precinct 1",U.S. House,4,REP,John Moolenaar,213
+Clare,"Grant Township, Precinct 1",U.S. House,4,REP,John Moolenaar,365
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,REP,John Moolenaar,140
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,REP,John Moolenaar,180
+Clare,"Hatton Township, Precinct 1",U.S. House,4,REP,John Moolenaar,134
+Clare,"Hayes Township, Precinct 1",U.S. House,4,REP,John Moolenaar,205
+Clare,"Hayes Township, Precinct 2",U.S. House,4,REP,John Moolenaar,182
+Clare,Lincoln Township. Precinct 1,U.S. House,4,REP,John Moolenaar,165
+Clare,"Redding Township, Precinct 1",U.S. House,4,REP,John Moolenaar,42
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,REP,John Moolenaar,136
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,REP,John Moolenaar,47
+Clare,"Surrey Township, Precinct 1",U.S. House,4,REP,John Moolenaar,319
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,REP,John Moolenaar,56
+Clare,"City of Clare, Precinct 1",U.S. House,4,REP,John Moolenaar,230
+Clare,"City of Harrison, Precinct 1",U.S. House,4,REP,John Moolenaar,188
+Clare,Total,U.S. House,4,REP,John Moolenaar,3080
+Clare,"Arthur Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. House,4,REP,Write-ins,1
+Clare,Freeman Township. Precinct 1,U.S. House,4,REP,Write-ins,1
+Clare,"Frost Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Garfield Township, Precinct 1",U.S. House,4,REP,Write-ins,1
+Clare,"Grant Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,REP,Write-ins,3
+Clare,"Hatton Township, Precinct 1",U.S. House,4,REP,Write-ins,3
+Clare,"Hayes Township, Precinct 1",U.S. House,4,REP,Write-ins,2
+Clare,"Hayes Township, Precinct 2",U.S. House,4,REP,Write-ins,2
+Clare,Lincoln Township. Precinct 1,U.S. House,4,REP,Write-ins,3
+Clare,"Redding Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,REP,Write-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. House,4,REP,Write-ins,3
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,REP,Write-ins,1
+Clare,"City of Clare, Precinct 1",U.S. House,4,REP,Write-ins,2
+Clare,"City of Harrison, Precinct 1",U.S. House,4,REP,Write-ins,1
+Clare,Total,U.S. House,4,REP,Write-ins,23
+Clare,"Arthur Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,15
+Clare,"Franklin Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,38
+Clare,Freeman Township. Precinct 1,U.S. House,4,DEM,Jerry Hilliard,56
+Clare,"Frost Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,49
+Clare,"Garfield Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,101
+Clare,"Grant Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,119
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,70
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,66
+Clare,"Hatton Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,41
+Clare,"Hayes Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,87
+Clare,"Hayes Township, Precinct 2",U.S. House,4,DEM,Jerry Hilliard,95
+Clare,Lincoln Township. Precinct 1,U.S. House,4,DEM,Jerry Hilliard,85
+Clare,"Redding Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,19
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,42
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,21
+Clare,"Surrey Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,154
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,29
+Clare,"City of Clare, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,118
+Clare,"City of Harrison, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,97
+Clare,Total,U.S. House,4,DEM,Jerry Hilliard,1302
+Clare,"Arthur Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,6
+Clare,"Franklin Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,10
+Clare,Freeman Township. Precinct 1,U.S. House,4,DEM,Zigmond A. Kozicki,34
+Clare,"Frost Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,11
+Clare,"Garfield Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,31
+Clare,"Grant Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,59
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,14
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,23
+Clare,"Hatton Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,8
+Clare,"Hayes Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,26
+Clare,"Hayes Township, Precinct 2",U.S. House,4,DEM,Zigmond A. Kozicki,27
+Clare,Lincoln Township. Precinct 1,U.S. House,4,DEM,Zigmond A. Kozicki,43
+Clare,"Redding Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,11
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,11
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,5
+Clare,"Surrey Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,79
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,8
+Clare,"City of Clare, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,69
+Clare,"City of Harrison, Precinct 1",U.S. House,4,DEM,Zigmond A. Kozicki,27
+Clare,Total,U.S. House,4,DEM,Zigmond A. Kozicki,502
+Clare,"Arthur Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,Freeman Township. Precinct 1,U.S. House,4,DEM,Write-ins,0
+Clare,"Frost Township, Precinct 1",U.S. House,4,DEM,Write-ins,1
+Clare,"Garfield Township, Precinct 1",U.S. House,4,DEM,Write-ins,1
+Clare,"Grant Township, Precinct 1",U.S. House,4,DEM,Write-ins,3
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Hatton Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Hayes Township, Precinct 1",U.S. House,4,DEM,Write-ins,1
+Clare,"Hayes Township, Precinct 2",U.S. House,4,DEM,Write-ins,0
+Clare,Lincoln Township. Precinct 1,U.S. House,4,DEM,Write-ins,0
+Clare,"Redding Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. House,4,DEM,Write-ins,2
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,"City of Harrison, Precinct 1",U.S. House,4,DEM,Write-ins,0
+Clare,Total,U.S. House,4,DEM,Write-ins,8
+Clare,"Arthur Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,Freeman Township. Precinct 1,U.S. House,4,LIB,Write-ins,0
+Clare,"Frost Township, Precinct 1",U.S. House,4,LIB,Write-ins,1
+Clare,"Garfield Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Grant Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Hatton Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Hayes Township, Precinct 2",U.S. House,4,LIB,Write-ins,1
+Clare,Lincoln Township. Precinct 1,U.S. House,4,LIB,Write-ins,0
+Clare,"Redding Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"Winterfield Township, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"City of Clare, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,"City of Harrison, Precinct 1",U.S. House,4,LIB,Write-ins,0
+Clare,Total,U.S. House,4,LIB,Write-ins,2
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,REP,John James,74
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,REP,John James,46
+Clare,Freeman Township. Precinct 1,U.S. Senate,,REP,John James,71
+Clare,"Frost Township, Precinct 1",U.S. Senate,,REP,John James,47
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,REP,John James,94
+Clare,"Grant Township, Precinct 1",U.S. Senate,,REP,John James,182
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,REP,John James,72
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,REP,John James,83
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,REP,John James,84
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,REP,John James,104
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,REP,John James,95
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,REP,John James,72
+Clare,"Redding Township, Precinct 1",U.S. Senate,,REP,John James,17
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,REP,John James,85
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,REP,John James,22
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,REP,John James,130
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,REP,John James,27
+Clare,"City of Clare, Precinct 1",U.S. Senate,,REP,John James,133
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,REP,John James,85
+Clare,Total,U.S. Senate,,REP,John James,1523
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,64
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,55
+Clare,Freeman Township. Precinct 1,U.S. Senate,,REP,Sandy Pensler,93
+Clare,"Frost Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,86
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,134
+Clare,"Grant Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,209
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,79
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,114
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,69
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,122
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,98
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,REP,Sandy Pensler,120
+Clare,"Redding Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,31
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,72
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,30
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,219
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,33
+Clare,"City of Clare, Precinct 1",U.S. Senate,,REP,Sandy Pensler,121
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,REP,Sandy Pensler,112
+Clare,Total,U.S. Senate,,REP,Sandy Pensler,1861
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,Freeman Township. Precinct 1,U.S. Senate,,REP,Write-ins,0
+Clare,"Frost Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Grant Township, Precinct 1",U.S. Senate,,REP,Write-ins,3
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,REP,Write-ins,1
+Clare,"Redding Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"City of Clare, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Clare,Total,U.S. Senate,,REP,Write-ins,5
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,19
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,47
+Clare,Freeman Township. Precinct 1,U.S. Senate,,DEM,Debbie Stabenow,100
+Clare,"Frost Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,58
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,137
+Clare,"Grant Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,194
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,84
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,92
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,48
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,112
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,125
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,DEM,Debbie Stabenow,132
+Clare,"Redding Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,32
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,52
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,28
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,248
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,37
+Clare,"City of Clare, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,209
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,124
+Clare,Total,U.S. Senate,,DEM,Debbie Stabenow,1878
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Clare,Freeman Township. Precinct 1,U.S. Senate,,DEM,Write-ins,0
+Clare,"Frost Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Clare,"Grant Township, Precinct 1",U.S. Senate,,DEM,Write-ins,3
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,DEM,Write-ins,3
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,DEM,Write-ins,2
+Clare,"Redding Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,DEM,Write-ins,5
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Clare,Total,U.S. Senate,,DEM,Write-ins,18
+Clare,"Arthur Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Franklin Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,Freeman Township. Precinct 1,U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Frost Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,1
+Clare,"Garfield Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Grant Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Greenwood Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Hamilton Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Hatton Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Hayes Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Hayes Township, Precinct 2",U.S. Senate,,LIB,Wnte-ins,1
+Clare,Lincoln Township. Precinct 1,U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Redding Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Sheridan Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Summerfield Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Surrey Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"Winterfield Township, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"City of Clare, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,"City of Harrison, Precinct 1",U.S. Senate,,LIB,Wnte-ins,0
+Clare,Total,U.S. Senate,,LIB,Wnte-ins,2
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Brian Calley,21
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Brian Calley,24
+Clare,Freeman Township. Precinct 1,Governor,,REP,Brian Calley,35
+Clare,"Frost Township, Precinct 1",Governor,,REP,Brian Calley,51
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Brian Calley,45
+Clare,"Grant Township, Precinct 1",Governor,,REP,Brian Calley,100
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Brian Calley,35
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Brian Calley,40
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Brian Calley,32
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Brian Calley,50
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Brian Calley,35
+Clare,Lincoln Township. Precinct 1,Governor,,REP,Brian Calley,49
+Clare,"Redding Township, Precinct 1",Governor,,REP,Brian Calley,11
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Brian Calley,36
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Brian Calley,14
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Brian Calley,79
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Brian Calley,16
+Clare,"City of Clare, Precinct 1",Governor,,REP,Brian Calley,55
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Brian Calley,52
+Clare,Total,Governor,,REP,Brian Calley,780
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Patrick Colbeck,9
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Patrick Colbeck,9
+Clare,Freeman Township. Precinct 1,Governor,,REP,Patrick Colbeck,13
+Clare,"Frost Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Patrick Colbeck,21
+Clare,"Grant Township, Precinct 1",Governor,,REP,Patrick Colbeck,27
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Patrick Colbeck,12
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Patrick Colbeck,12
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Patrick Colbeck,9
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Patrick Colbeck,18
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Patrick Colbeck,20
+Clare,Lincoln Township. Precinct 1,Governor,,REP,Patrick Colbeck,14
+Clare,"Redding Township, Precinct 1",Governor,,REP,Patrick Colbeck,1
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Patrick Colbeck,8
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Patrick Colbeck,21
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Clare,"City of Clare, Precinct 1",Governor,,REP,Patrick Colbeck,24
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Patrick Colbeck,9
+Clare,Total,Governor,,REP,Patrick Colbeck,234
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Jim Hines,13
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Jim Hines,13
+Clare,Freeman Township. Precinct 1,Governor,,REP,Jim Hines,36
+Clare,"Frost Township, Precinct 1",Governor,,REP,Jim Hines,17
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Jim Hines,31
+Clare,"Grant Township, Precinct 1",Governor,,REP,Jim Hines,47
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Jim Hines,23
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Jim Hines,25
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Jim Hines,15
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Jim Hines,33
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Jim Hines,29
+Clare,Lincoln Township. Precinct 1,Governor,,REP,Jim Hines,42
+Clare,"Redding Township, Precinct 1",Governor,,REP,Jim Hines,5
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Jim Hines,19
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Jim Hines,7
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Jim Hines,40
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Jim Hines,13
+Clare,"City of Clare, Precinct 1",Governor,,REP,Jim Hines,27
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Jim Hines,27
+Clare,Total,Governor,,REP,Jim Hines,462
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Bill Schuette,96
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Bill Schuette,58
+Clare,Freeman Township. Precinct 1,Governor,,REP,Bill Schuette,85
+Clare,"Frost Township, Precinct 1",Governor,,REP,Bill Schuette,68
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Bill Schuette,142
+Clare,"Grant Township, Precinct 1",Governor,,REP,Bill Schuette,228
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Bill Schuette,90
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Bill Schuette,123
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Bill Schuette,102
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Bill Schuette,134
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Bill Schuette,110
+Clare,Lincoln Township. Precinct 1,Governor,,REP,Bill Schuette,94
+Clare,"Redding Township, Precinct 1",Governor,,REP,Bill Schuette,32
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Bill Schuette,97
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Bill Schuette,30
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Bill Schuette,216
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Bill Schuette,30
+Clare,"City of Clare, Precinct 1",Governor,,REP,Bill Schuette,154
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Bill Schuette,114
+Clare,Total,Governor,,REP,Bill Schuette,2003
+Clare,"Arthur Township, Precinct 1",Governor,,REP,Write-ins,1
+Clare,"Franklin Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,Freeman Township. Precinct 1,Governor,,REP,Write-ins,1
+Clare,"Frost Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Garfield Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Grant Township, Precinct 1",Governor,,REP,Write-ins,3
+Clare,"Greenwood Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Hamilton Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Hatton Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Hayes Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Hayes Township, Precinct 2",Governor,,REP,Write-ins,0
+Clare,Lincoln Township. Precinct 1,Governor,,REP,Write-ins,0
+Clare,"Redding Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"Surrey Township, Precinct 1",Governor,,REP,Write-ins,1
+Clare,"Winterfield Township, Precinct 1",Governor,,REP,Write-ins,1
+Clare,"City of Clare, Precinct 1",Governor,,REP,Write-ins,0
+Clare,"City of Harrison, Precinct 1",Governor,,REP,Write-ins,0
+Clare,Total,Governor,,REP,Write-ins,7
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Clare,Freeman Township. Precinct 1,Governor,,DEM,Abdul El-Sayed,12
+Clare,"Frost Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,7
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,18
+Clare,"Grant Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,38
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,16
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,22
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,23
+Clare,Lincoln Township. Precinct 1,Governor,,DEM,Abdul El-Sayed,28
+Clare,"Redding Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,4
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,53
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Clare,"City of Clare, Precinct 1",Governor,,DEM,Abdul El-Sayed,52
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,Abdul El-Sayed,19
+Clare,Total,Governor,,DEM,Abdul El-Sayed,341
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,Shri Thanedar,12
+Clare,Freeman Township. Precinct 1,Governor,,DEM,Shri Thanedar,25
+Clare,"Frost Township, Precinct 1",Governor,,DEM,Shri Thanedar,11
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,Shri Thanedar,30
+Clare,"Grant Township, Precinct 1",Governor,,DEM,Shri Thanedar,37
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,Shri Thanedar,22
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,Shri Thanedar,28
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,Shri Thanedar,26
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,Shri Thanedar,30
+Clare,Lincoln Township. Precinct 1,Governor,,DEM,Shri Thanedar,22
+Clare,"Redding Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,Shri Thanedar,6
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,Shri Thanedar,5
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,Shri Thanedar,53
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,Shri Thanedar,10
+Clare,"City of Clare, Precinct 1",Governor,,DEM,Shri Thanedar,32
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,Shri Thanedar,27
+Clare,Total,Governor,,DEM,Shri Thanedar,391
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,12
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,31
+Clare,Freeman Township. Precinct 1,Governor,,DEM,Gretchen Whitmer,67
+Clare,"Frost Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,52
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,102
+Clare,"Grant Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,139
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,53
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,56
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,38
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,70
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,80
+Clare,Lincoln Township. Precinct 1,Governor,,DEM,Gretchen Whitmer,90
+Clare,"Redding Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,26
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,45
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,20
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,152
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,28
+Clare,"City of Clare, Precinct 1",Governor,,DEM,Gretchen Whitmer,136
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,Gretchen Whitmer,92
+Clare,Total,Governor,,DEM,Gretchen Whitmer,1289
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,Freeman Township. Precinct 1,Governor,,DEM,Write-ins,0
+Clare,"Frost Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Grant Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,Write-ins,1
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,Write-ins,1
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,Write-ins,0
+Clare,Lincoln Township. Precinct 1,Governor,,DEM,Write-ins,0
+Clare,"Redding Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,Write-ins,3
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"City of Clare, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,Write-ins,0
+Clare,Total,Governor,,DEM,Write-ins,5
+Clare,"Arthur Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Franklin Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,Freeman Township. Precinct 1,Governor,,DEM,William Cobbs,0
+Clare,"Frost Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Garfield Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Grant Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Greenwood Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Hamilton Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Hatton Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Hayes Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Hayes Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Clare,Lincoln Township. Precinct 1,Governor,,DEM,William Cobbs,0
+Clare,"Redding Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Sheridan Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Summerfield Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"Surrey Township, Precinct 1",Governor,,DEM,William Cobbs,2
+Clare,"Winterfield Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"City of Clare, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,"City of Harrison, Precinct 1",Governor,,DEM,William Cobbs,0
+Clare,Total,Governor,,DEM,William Cobbs,2
+Clare,"Arthur Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Franklin Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,Freeman Township. Precinct 1,Governor,,LIB,Bill Gelineau,2
+Clare,"Frost Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Clare,"Garfield Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Clare,"Grant Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Clare,"Greenwood Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Hamilton Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Clare,"Hatton Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Hayes Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Hayes Township, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Clare,Lincoln Township. Precinct 1,Governor,,LIB,Bill Gelineau,0
+Clare,"Redding Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Sheridan Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Summerfield Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Surrey Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"Winterfield Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"City of Clare, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,"City of Harrison, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Clare,Total,Governor,,LIB,Bill Gelineau,7
+Clare,"Arthur Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Franklin Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Clare,Freeman Township. Precinct 1,Governor,,LIB,John J. Tatar,1
+Clare,"Frost Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Garfield Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Grant Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Greenwood Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Clare,"Hamilton Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Clare,"Hatton Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Hayes Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Hayes Township, Precinct 2",Governor,,LIB,John J. Tatar,1
+Clare,Lincoln Township. Precinct 1,Governor,,LIB,John J. Tatar,1
+Clare,"Redding Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Sheridan Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Summerfield Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Clare,"Surrey Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"Winterfield Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"City of Clare, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,"City of Harrison, Precinct 1",Governor,,LIB,John J. Tatar,0
+Clare,Total,Governor,,LIB,John J. Tatar,7
+Clare,"Arthur Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Franklin Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,Freeman Township. Precinct 1,Governor,,LIB,Wnte-ins,0
+Clare,"Frost Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Garfield Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Grant Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Greenwood Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Hamilton Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Hatton Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Hayes Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Hayes Township, Precinct 2",Governor,,LIB,Wnte-ins,0
+Clare,Lincoln Township. Precinct 1,Governor,,LIB,Wnte-ins,0
+Clare,"Redding Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Sheridan Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Summerfield Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Surrey Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"Winterfield Township, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"City of Clare, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,"City of Harrison, Precinct 1",Governor,,LIB,Wnte-ins,0
+Clare,Total,Governor,,LIB,Wnte-ins,0

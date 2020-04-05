@@ -1,0 +1,276 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,1 - Beaver Creek Twsp,State House,103,REP,Daire Rendon,211
+Crawford,2 - Frederick Twsp,State House,103,REP,Daire Rendon,183
+Crawford,302 - Grayling Twsp,State House,103,REP,Daire Rendon,41
+Crawford,304 - Grayling Twsp,State House,103,REP,Daire Rendon,293
+Crawford,305 - Grayling Twsp,State House,103,REP,Daire Rendon,194
+Crawford,306 - Grayling Twsp,State House,103,REP,Daire Rendon,129
+Crawford,4 - Lovells Twsp,State House,103,REP,Daire Rendon,108
+Crawford,5 - Maple Forest Twsp,State House,103,REP,Daire Rendon,93
+Crawford,6 - South Branch Twsp,State House,103,REP,Daire Rendon,239
+Crawford,7 - Grayling City,State House,103,REP,Daire Rendon,150
+Crawford,Total,State House,103,REP,Daire Rendon,1641
+Crawford,1 - Beaver Creek Twsp,State House,103,DEM,Steve Loomis,52
+Crawford,2 - Frederick Twsp,State House,103,DEM,Steve Loomis,57
+Crawford,302 - Grayling Twsp,State House,103,DEM,Steve Loomis,10
+Crawford,304 - Grayling Twsp,State House,103,DEM,Steve Loomis,87
+Crawford,305 - Grayling Twsp,State House,103,DEM,Steve Loomis,61
+Crawford,306 - Grayling Twsp,State House,103,DEM,Steve Loomis,38
+Crawford,4 - Lovells Twsp,State House,103,DEM,Steve Loomis,23
+Crawford,5 - Maple Forest Twsp,State House,103,DEM,Steve Loomis,16
+Crawford,6 - South Branch Twsp,State House,103,DEM,Steve Loomis,75
+Crawford,7 - Grayling City,State House,103,DEM,Steve Loomis,41
+Crawford,Total,State House,103,DEM,Steve Loomis,460
+Crawford,1 - Beaver Creek Twsp,State House,103,DEM,Tim Schaiberger,58
+Crawford,2 - Frederick Twsp,State House,103,DEM,Tim Schaiberger,30
+Crawford,302 - Grayling Twsp,State House,103,DEM,Tim Schaiberger,15
+Crawford,304 - Grayling Twsp,State House,103,DEM,Tim Schaiberger,61
+Crawford,305 - Grayling Twsp,State House,103,DEM,Tim Schaiberger,52
+Crawford,306 - Grayling Twsp,State House,103,DEM,Tim Schaiberger,128
+Crawford,4 - Lovells Twsp,State House,103,DEM,Tim Schaiberger,14
+Crawford,5 - Maple Forest Twsp,State House,103,DEM,Tim Schaiberger,17
+Crawford,6 - South Branch Twsp,State House,103,DEM,Tim Schaiberger,58
+Crawford,7 - Grayling City,State House,103,DEM,Tim Schaiberger,28
+Crawford,Total,State House,103,DEM,Tim Schaiberger,461
+Crawford,1 - Beaver Creek Twsp,State Senate,35,REP,Ray A Franz,32
+Crawford,2 - Frederick Twsp,State Senate,35,REP,Ray A Franz,40
+Crawford,302 - Grayling Twsp,State Senate,35,REP,Ray A Franz,6
+Crawford,304 - Grayling Twsp,State Senate,35,REP,Ray A Franz,82
+Crawford,305 - Grayling Twsp,State Senate,35,REP,Ray A Franz,30
+Crawford,306 - Grayling Twsp,State Senate,35,REP,Ray A Franz,22
+Crawford,4 - Lovells Twsp,State Senate,35,REP,Ray A Franz,28
+Crawford,5 - Maple Forest Twsp,State Senate,35,REP,Ray A Franz,31
+Crawford,6 - South Branch Twsp,State Senate,35,REP,Ray A Franz,30
+Crawford,7 - Grayling City,State Senate,35,REP,Ray A Franz,19
+Crawford,Total,State Senate,35,REP,Ray A Franz,320
+Crawford,1 - Beaver Creek Twsp,State Senate,35,REP,Bruce R Rendon,126
+Crawford,2 - Frederick Twsp,State Senate,35,REP,Bruce R Rendon,78
+Crawford,302 - Grayling Twsp,State Senate,35,REP,Bruce R Rendon,22
+Crawford,304 - Grayling Twsp,State Senate,35,REP,Bruce R Rendon,154
+Crawford,305 - Grayling Twsp,State Senate,35,REP,Bruce R Rendon,113
+Crawford,306 - Grayling Twsp,State Senate,35,REP,Bruce R Rendon,64
+Crawford,4 - Lovells Twsp,State Senate,35,REP,Bruce R Rendon,30
+Crawford,5 - Maple Forest Twsp,State Senate,35,REP,Bruce R Rendon,37
+Crawford,6 - South Branch Twsp,State Senate,35,REP,Bruce R Rendon,138
+Crawford,7 - Grayling City,State Senate,35,REP,Bruce R Rendon,89
+Crawford,Total,State Senate,35,REP,Bruce R Rendon,851
+Crawford,1 - Beaver Creek Twsp,State Senate,35,REP,Cary Urka,6
+Crawford,2 - Frederick Twsp,State Senate,35,REP,Cary Urka,8
+Crawford,302 - Grayling Twsp,State Senate,35,REP,Cary Urka,1
+Crawford,304 - Grayling Twsp,State Senate,35,REP,Cary Urka,6
+Crawford,305 - Grayling Twsp,State Senate,35,REP,Cary Urka,10
+Crawford,306 - Grayling Twsp,State Senate,35,REP,Cary Urka,5
+Crawford,4 - Lovells Twsp,State Senate,35,REP,Cary Urka,6
+Crawford,5 - Maple Forest Twsp,State Senate,35,REP,Cary Urka,3
+Crawford,6 - South Branch Twsp,State Senate,35,REP,Cary Urka,8
+Crawford,7 - Grayling City,State Senate,35,REP,Cary Urka,5
+Crawford,Total,State Senate,35,REP,Cary Urka,58
+Crawford,1 - Beaver Creek Twsp,State Senate,35,REP,Curt VanderWall,90
+Crawford,2 - Frederick Twsp,State Senate,35,REP,Curt VanderWall,85
+Crawford,302 - Grayling Twsp,State Senate,35,REP,Curt VanderWall,20
+Crawford,304 - Grayling Twsp,State Senate,35,REP,Curt VanderWall,126
+Crawford,305 - Grayling Twsp,State Senate,35,REP,Curt VanderWall,85
+Crawford,306 - Grayling Twsp,State Senate,35,REP,Curt VanderWall,62
+Crawford,4 - Lovells Twsp,State Senate,35,REP,Curt VanderWall,57
+Crawford,5 - Maple Forest Twsp,State Senate,35,REP,Curt VanderWall,31
+Crawford,6 - South Branch Twsp,State Senate,35,REP,Curt VanderWall,93
+Crawford,7 - Grayling City,State Senate,35,REP,Curt VanderWall,63
+Crawford,Total,State Senate,35,REP,Curt VanderWall,712
+Crawford,1 - Beaver Creek Twsp,State Senate,35,DEM,Mike Taillard,110
+Crawford,2 - Frederick Twsp,State Senate,35,DEM,Mike Taillard,91
+Crawford,302 - Grayling Twsp,State Senate,35,DEM,Mike Taillard,28
+Crawford,304 - Grayling Twsp,State Senate,35,DEM,Mike Taillard,146
+Crawford,305 - Grayling Twsp,State Senate,35,DEM,Mike Taillard,123
+Crawford,306 - Grayling Twsp,State Senate,35,DEM,Mike Taillard,69
+Crawford,4 - Lovells Twsp,State Senate,35,DEM,Mike Taillard,40
+Crawford,5 - Maple Forest Twsp,State Senate,35,DEM,Mike Taillard,34
+Crawford,6 - South Branch Twsp,State Senate,35,DEM,Mike Taillard,143
+Crawford,7 - Grayling City,State Senate,35,DEM,Mike Taillard,72
+Crawford,Total,State Senate,35,DEM,Mike Taillard,856
+Crawford,1 - Beaver Creek Twsp,State Senate,35,LIB,Timothy Coon,1
+Crawford,2 - Frederick Twsp,State Senate,35,LIB,Timothy Coon,1
+Crawford,302 - Grayling Twsp,State Senate,35,LIB,Timothy Coon,1
+Crawford,304 - Grayling Twsp,State Senate,35,LIB,Timothy Coon,2
+Crawford,305 - Grayling Twsp,State Senate,35,LIB,Timothy Coon,2
+Crawford,306 - Grayling Twsp,State Senate,35,LIB,Timothy Coon,0
+Crawford,4 - Lovells Twsp,State Senate,35,LIB,Timothy Coon,4
+Crawford,5 - Maple Forest Twsp,State Senate,35,LIB,Timothy Coon,1
+Crawford,6 - South Branch Twsp,State Senate,35,LIB,Timothy Coon,2
+Crawford,7 - Grayling City,State Senate,35,LIB,Timothy Coon,3
+Crawford,Total,State Senate,35,LIB,Timothy Coon,17
+Crawford,1 - Beaver Creek Twsp,U.S. House,1,REP,Jack Bergman,232
+Crawford,2 - Frederick Twsp,U.S. House,1,REP,Jack Bergman,194
+Crawford,302 - Grayling Twsp,U.S. House,1,REP,Jack Bergman,42
+Crawford,304 - Grayling Twsp,U.S. House,1,REP,Jack Bergman,327
+Crawford,305 - Grayling Twsp,U.S. House,1,REP,Jack Bergman,223
+Crawford,306 - Grayling Twsp,U.S. House,1,REP,Jack Bergman,140
+Crawford,4 - Lovells Twsp,U.S. House,1,REP,Jack Bergman,118
+Crawford,5 - Maple Forest Twsp,U.S. House,1,REP,Jack Bergman,101
+Crawford,6 - South Branch Twsp,U.S. House,1,REP,Jack Bergman,249
+Crawford,7 - Grayling City,U.S. House,1,REP,Jack Bergman,162
+Crawford,Total,U.S. House,1,REP,Jack Bergman,1788
+Crawford,1 - Beaver Creek Twsp,U.S. House,1,REP,Matt Morgan,27
+Crawford,2 - Frederick Twsp,U.S. House,1,REP,Matt Morgan,13
+Crawford,302 - Grayling Twsp,U.S. House,1,REP,Matt Morgan,12
+Crawford,304 - Grayling Twsp,U.S. House,1,REP,Matt Morgan,71
+Crawford,305 - Grayling Twsp,U.S. House,1,REP,Matt Morgan,34
+Crawford,306 - Grayling Twsp,U.S. House,1,REP,Matt Morgan,25
+Crawford,4 - Lovells Twsp,U.S. House,1,REP,Matt Morgan,5
+Crawford,5 - Maple Forest Twsp,U.S. House,1,REP,Matt Morgan,5
+Crawford,6 - South Branch Twsp,U.S. House,1,REP,Matt Morgan,17
+Crawford,7 - Grayling City,U.S. House,1,REP,Matt Morgan,22
+Crawford,Total,U.S. House,1,REP,Matt Morgan,231
+Crawford,1 - Beaver Creek Twsp,U.S. Senate,,REP,John James,92
+Crawford,2 - Frederick Twsp,U.S. Senate,,REP,John James,87
+Crawford,302 - Grayling Twsp,U.S. Senate,,REP,John James,24
+Crawford,304 - Grayling Twsp,U.S. Senate,,REP,John James,146
+Crawford,305 - Grayling Twsp,U.S. Senate,,REP,John James,102
+Crawford,306 - Grayling Twsp,U.S. Senate,,REP,John James,64
+Crawford,4 - Lovells Twsp,U.S. Senate,,REP,John James,51
+Crawford,5 - Maple Forest Twsp,U.S. Senate,,REP,John James,48
+Crawford,6 - South Branch Twsp,U.S. Senate,,REP,John James,113
+Crawford,7 - Grayling City,U.S. Senate,,REP,John James,83
+Crawford,Total,U.S. Senate,,REP,John James,810
+Crawford,1 - Beaver Creek Twsp,U.S. Senate,,REP,Sandy Pensler,168
+Crawford,2 - Frederick Twsp,U.S. Senate,,REP,Sandy Pensler,133
+Crawford,302 - Grayling Twsp,U.S. Senate,,REP,Sandy Pensler,26
+Crawford,304 - Grayling Twsp,U.S. Senate,,REP,Sandy Pensler,217
+Crawford,305 - Grayling Twsp,U.S. Senate,,REP,Sandy Pensler,136
+Crawford,306 - Grayling Twsp,U.S. Senate,,REP,Sandy Pensler,100
+Crawford,4 - Lovells Twsp,U.S. Senate,,REP,Sandy Pensler,76
+Crawford,5 - Maple Forest Twsp,U.S. Senate,,REP,Sandy Pensler,56
+Crawford,6 - South Branch Twsp,U.S. Senate,,REP,Sandy Pensler,160
+Crawford,7 - Grayling City,U.S. Senate,,REP,Sandy Pensler,92
+Crawford,Total,U.S. Senate,,REP,Sandy Pensler,1164
+Crawford,1 - Beaver Creek Twsp,U.S. Senate,,DEM,Debbie Stabenow,118
+Crawford,2 - Frederick Twsp,U.S. Senate,,DEM,Debbie Stabenow,106
+Crawford,302 - Grayling Twsp,U.S. Senate,,DEM,Debbie Stabenow,30
+Crawford,304 - Grayling Twsp,U.S. Senate,,DEM,Debbie Stabenow,176
+Crawford,305 - Grayling Twsp,U.S. Senate,,DEM,Debbie Stabenow,147
+Crawford,306 - Grayling Twsp,U.S. Senate,,DEM,Debbie Stabenow,82
+Crawford,4 - Lovells Twsp,U.S. Senate,,DEM,Debbie Stabenow,51
+Crawford,5 - Maple Forest Twsp,U.S. Senate,,DEM,Debbie Stabenow,37
+Crawford,6 - South Branch Twsp,U.S. Senate,,DEM,Debbie Stabenow,146
+Crawford,7 - Grayling City,U.S. Senate,,DEM,Debbie Stabenow,78
+Crawford,Total,U.S. Senate,,DEM,Debbie Stabenow,971
+Crawford,1 - Beaver Creek Twsp,Governor,,REP,Brian Calley,65
+Crawford,2 - Frederick Twsp,Governor,,REP,Brian Calley,69
+Crawford,302 - Grayling Twsp,Governor,,REP,Brian Calley,11
+Crawford,304 - Grayling Twsp,Governor,,REP,Brian Calley,134
+Crawford,305 - Grayling Twsp,Governor,,REP,Brian Calley,88
+Crawford,306 - Grayling Twsp,Governor,,REP,Brian Calley,51
+Crawford,4 - Lovells Twsp,Governor,,REP,Brian Calley,41
+Crawford,5 - Maple Forest Twsp,Governor,,REP,Brian Calley,27
+Crawford,6 - South Branch Twsp,Governor,,REP,Brian Calley,74
+Crawford,7 - Grayling City,Governor,,REP,Brian Calley,50
+Crawford,Total,Governor,,REP,Brian Calley,610
+Crawford,1 - Beaver Creek Twsp,Governor,,REP,Patrick Colbeck,16
+Crawford,2 - Frederick Twsp,Governor,,REP,Patrick Colbeck,18
+Crawford,302 - Grayling Twsp,Governor,,REP,Patrick Colbeck,4
+Crawford,304 - Grayling Twsp,Governor,,REP,Patrick Colbeck,22
+Crawford,305 - Grayling Twsp,Governor,,REP,Patrick Colbeck,13
+Crawford,306 - Grayling Twsp,Governor,,REP,Patrick Colbeck,6
+Crawford,4 - Lovells Twsp,Governor,,REP,Patrick Colbeck,9
+Crawford,5 - Maple Forest Twsp,Governor,,REP,Patrick Colbeck,5
+Crawford,6 - South Branch Twsp,Governor,,REP,Patrick Colbeck,15
+Crawford,7 - Grayling City,Governor,,REP,Patrick Colbeck,13
+Crawford,Total,Governor,,REP,Patrick Colbeck,121
+Crawford,1 - Beaver Creek Twsp,Governor,,REP,Jim Hines,45
+Crawford,2 - Frederick Twsp,Governor,,REP,Jim Hines,31
+Crawford,302 - Grayling Twsp,Governor,,REP,Jim Hines,4
+Crawford,304 - Grayling Twsp,Governor,,REP,Jim Hines,38
+Crawford,305 - Grayling Twsp,Governor,,REP,Jim Hines,36
+Crawford,306 - Grayling Twsp,Governor,,REP,Jim Hines,18
+Crawford,4 - Lovells Twsp,Governor,,REP,Jim Hines,16
+Crawford,5 - Maple Forest Twsp,Governor,,REP,Jim Hines,14
+Crawford,6 - South Branch Twsp,Governor,,REP,Jim Hines,33
+Crawford,7 - Grayling City,Governor,,REP,Jim Hines,22
+Crawford,Total,Governor,,REP,Jim Hines,257
+Crawford,1 - Beaver Creek Twsp,Governor,,REP,Bill Schuette,143
+Crawford,2 - Frederick Twsp,Governor,,REP,Bill Schuette,112
+Crawford,302 - Grayling Twsp,Governor,,REP,Bill Schuette,31
+Crawford,304 - Grayling Twsp,Governor,,REP,Bill Schuette,187
+Crawford,305 - Grayling Twsp,Governor,,REP,Bill Schuette,115
+Crawford,306 - Grayling Twsp,Governor,,REP,Bill Schuette,95
+Crawford,4 - Lovells Twsp,Governor,,REP,Bill Schuette,66
+Crawford,5 - Maple Forest Twsp,Governor,,REP,Bill Schuette,66
+Crawford,6 - South Branch Twsp,Governor,,REP,Bill Schuette,163
+Crawford,7 - Grayling City,Governor,,REP,Bill Schuette,95
+Crawford,Total,Governor,,REP,Bill Schuette,1073
+Crawford,1 - Beaver Creek Twsp,Governor,,DEM,Abdul El-Sayed,18
+Crawford,2 - Frederick Twsp,Governor,,DEM,Abdul El-Sayed,13
+Crawford,302 - Grayling Twsp,Governor,,DEM,Abdul El-Sayed,6
+Crawford,304 - Grayling Twsp,Governor,,DEM,Abdul El-Sayed,44
+Crawford,305 - Grayling Twsp,Governor,,DEM,Abdul El-Sayed,24
+Crawford,306 - Grayling Twsp,Governor,,DEM,Abdul El-Sayed,24
+Crawford,4 - Lovells Twsp,Governor,,DEM,Abdul El-Sayed,7
+Crawford,5 - Maple Forest Twsp,Governor,,DEM,Abdul El-Sayed,3
+Crawford,6 - South Branch Twsp,Governor,,DEM,Abdul El-Sayed,26
+Crawford,7 - Grayling City,Governor,,DEM,Abdul El-Sayed,16
+Crawford,Total,Governor,,DEM,Abdul El-Sayed,181
+Crawford,1 - Beaver Creek Twsp,Governor,,DEM,Shri Thanedar,32
+Crawford,2 - Frederick Twsp,Governor,,DEM,Shri Thanedar,19
+Crawford,302 - Grayling Twsp,Governor,,DEM,Shri Thanedar,5
+Crawford,304 - Grayling Twsp,Governor,,DEM,Shri Thanedar,31
+Crawford,305 - Grayling Twsp,Governor,,DEM,Shri Thanedar,19
+Crawford,306 - Grayling Twsp,Governor,,DEM,Shri Thanedar,16
+Crawford,4 - Lovells Twsp,Governor,,DEM,Shri Thanedar,17
+Crawford,5 - Maple Forest Twsp,Governor,,DEM,Shri Thanedar,9
+Crawford,6 - South Branch Twsp,Governor,,DEM,Shri Thanedar,37
+Crawford,7 - Grayling City,Governor,,DEM,Shri Thanedar,19
+Crawford,Total,Governor,,DEM,Shri Thanedar,204
+Crawford,1 - Beaver Creek Twsp,Governor,,DEM,Gretchen Whitmer,89
+Crawford,2 - Frederick Twsp,Governor,,DEM,Gretchen Whitmer,85
+Crawford,302 - Grayling Twsp,Governor,,DEM,Gretchen Whitmer,20
+Crawford,304 - Grayling Twsp,Governor,,DEM,Gretchen Whitmer,120
+Crawford,305 - Grayling Twsp,Governor,,DEM,Gretchen Whitmer,122
+Crawford,306 - Grayling Twsp,Governor,,DEM,Gretchen Whitmer,53
+Crawford,4 - Lovells Twsp,Governor,,DEM,Gretchen Whitmer,35
+Crawford,5 - Maple Forest Twsp,Governor,,DEM,Gretchen Whitmer,26
+Crawford,6 - South Branch Twsp,Governor,,DEM,Gretchen Whitmer,95
+Crawford,7 - Grayling City,Governor,,DEM,Gretchen Whitmer,53
+Crawford,Total,Governor,,DEM,Gretchen Whitmer,698
+Crawford,1 - Beaver Creek Twsp,Governor,,LIB,Bill Gelineau,1
+Crawford,2 - Frederick Twsp,Governor,,LIB,Bill Gelineau,0
+Crawford,302 - Grayling Twsp,Governor,,LIB,Bill Gelineau,0
+Crawford,304 - Grayling Twsp,Governor,,LIB,Bill Gelineau,2
+Crawford,305 - Grayling Twsp,Governor,,LIB,Bill Gelineau,2
+Crawford,306 - Grayling Twsp,Governor,,LIB,Bill Gelineau,0
+Crawford,4 - Lovells Twsp,Governor,,LIB,Bill Gelineau,2
+Crawford,5 - Maple Forest Twsp,Governor,,LIB,Bill Gelineau,1
+Crawford,6 - South Branch Twsp,Governor,,LIB,Bill Gelineau,2
+Crawford,7 - Grayling City,Governor,,LIB,Bill Gelineau,2
+Crawford,Total,Governor,,LIB,Bill Gelineau,12
+Crawford,1 - Beaver Creek Twsp,Governor,,LIB,John J Tatar,0
+Crawford,2 - Frederick Twsp,Governor,,LIB,John J Tatar,3
+Crawford,302 - Grayling Twsp,Governor,,LIB,John J Tatar,1
+Crawford,304 - Grayling Twsp,Governor,,LIB,John J Tatar,1
+Crawford,305 - Grayling Twsp,Governor,,LIB,John J Tatar,0
+Crawford,306 - Grayling Twsp,Governor,,LIB,John J Tatar,0
+Crawford,4 - Lovells Twsp,Governor,,LIB,John J Tatar,2
+Crawford,5 - Maple Forest Twsp,Governor,,LIB,John J Tatar,0
+Crawford,6 - South Branch Twsp,Governor,,LIB,John J Tatar,0
+Crawford,7 - Grayling City,Governor,,LIB,John J Tatar,0
+Crawford,Total,Governor,,LIB,John J Tatar,7
+Crawford,1 - Beaver Creek Twsp,Registered Voters,,   ,,1353
+Crawford,2 - Frederick Twsp,Registered Voters,,   ,,1352
+Crawford,302 - Grayling Twsp,Registered Voters,,   ,,327
+Crawford,304 - Grayling Twsp,Registered Voters,,   ,,1672
+Crawford,305 - Grayling Twsp,Registered Voters,,   ,,1636
+Crawford,306 - Grayling Twsp,Registered Voters,,   ,,1042
+Crawford,4 - Lovells Twsp,Registered Voters,,   ,,514
+Crawford,5 - Maple Forest Twsp,Registered Voters,,   ,,554
+Crawford,6 - South Branch Twsp,Registered Voters,,   ,,1530
+Crawford,7 - Grayling City,Registered Voters,,   ,,1357
+Crawford,Total,Registered Voters,,   ,,11337
+Crawford,1 - Beaver Creek Twsp,Ballots Cast,,   ,,417
+Crawford,2 - Frederick Twsp,Ballots Cast,,   ,,360
+Crawford,302 - Grayling Twsp,Ballots Cast,,   ,,83
+Crawford,304 - Grayling Twsp,Ballots Cast,,   ,,602
+Crawford,305 - Grayling Twsp,Ballots Cast,,   ,,441
+Crawford,306 - Grayling Twsp,Ballots Cast,,   ,,274
+Crawford,4 - Lovells Twsp,Ballots Cast,,   ,,200
+Crawford,5 - Maple Forest Twsp,Ballots Cast,,   ,,154
+Crawford,6 - South Branch Twsp,Ballots Cast,,   ,,456
+Crawford,7 - Grayling City,Ballots Cast,,   ,,285
+Crawford,Total,Ballots Cast,,   ,,3272

@@ -1,0 +1,817 @@
+county,precinct,office,district,party,candidate,votes
+Delta,"Baldwin Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,88
+Delta,"Bark River Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,174
+Delta,"Bay De Noc Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,58
+Delta,"Brampton Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,112
+Delta,"Cornell Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,71
+Delta,"Ensign Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,84
+Delta,"City of Escanaba, Precinct 1",State House,108,REP,Beau Matthew LaFave,207
+Delta,"City of Escanaba, Precinct 2",State House,108,REP,Beau Matthew LaFave,442
+Delta,"City of Escanaba, Precinct 3",State House,108,REP,Beau Matthew LaFave,257
+Delta,"City of Escanaba, Precinct 4",State House,108,REP,Beau Matthew LaFave,108
+Delta,"Escanaba Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,266
+Delta,"Escanaba Township, Precinct 2",State House,108,REP,Beau Matthew LaFave,90
+Delta,"Escanaba Township, Precinct 3",State House,108,REP,Beau Matthew LaFave,78
+Delta,"Fairbanks Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,46
+Delta,"Ford River Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,237
+Delta,"Garden Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,95
+Delta,"City of Gladstone, Precinct 1",State House,108,REP,Beau Matthew LaFave,223
+Delta,"City of Gladstone, Precinct 2",State House,108,REP,Beau Matthew LaFave,257
+Delta,"Maple Ridge Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,87
+Delta,"Masonville Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,189
+Delta,"Nahma Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,47
+Delta,"Wells Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,159
+Delta,"Wells Township, Precinct 2",State House,108,REP,Beau Matthew LaFave,293
+Delta,Total,State House,108,REP,Beau Matthew LaFave,3668
+Delta,"Baldwin Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Bark River Township, Precinct 1",State House,108,REP,Write-ins,4
+Delta,"Bay De Noc Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Brampton Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",State House,108,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",State House,108,REP,Write-ins,2
+Delta,"City of Escanaba, Precinct 4",State House,108,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",State House,108,REP,Write-ins,1
+Delta,"Escanaba Township, Precinct 2",State House,108,REP,Write-ins,1
+Delta,"Escanaba Township, Precinct 3",State House,108,REP,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State House,108,REP,Write-ins,1
+Delta,"Ford River Township, Precinct 1",State House,108,REP,Write-ins,2
+Delta,"Garden Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",State House,108,REP,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Masonville Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Nahma Township, Precinct 1",State House,108,REP,Write-ins,0
+Delta,"Wells Township, Precinct 1",State House,108,REP,Write-ins,1
+Delta,"Wells Township, Precinct 2",State House,108,REP,Write-ins,0
+Delta,Total,State House,108,REP,Write-ins,12
+Delta,"Baldwin Township, Precinct 1",State House,108,DEM,Bob Romps,36
+Delta,"Bark River Township, Precinct 1",State House,108,DEM,Bob Romps,56
+Delta,"Bay De Noc Township, Precinct 1",State House,108,DEM,Bob Romps,39
+Delta,"Brampton Township, Precinct 1",State House,108,DEM,Bob Romps,81
+Delta,"Cornell Township, Precinct 1",State House,108,DEM,Bob Romps,49
+Delta,"Ensign Township, Precinct 1",State House,108,DEM,Bob Romps,81
+Delta,"City of Escanaba, Precinct 1",State House,108,DEM,Bob Romps,223
+Delta,"City of Escanaba, Precinct 2",State House,108,DEM,Bob Romps,386
+Delta,"City of Escanaba, Precinct 3",State House,108,DEM,Bob Romps,302
+Delta,"City of Escanaba, Precinct 4",State House,108,DEM,Bob Romps,126
+Delta,"Escanaba Township, Precinct 1",State House,108,DEM,Bob Romps,189
+Delta,"Escanaba Township, Precinct 2",State House,108,DEM,Bob Romps,60
+Delta,"Escanaba Township, Precinct 3",State House,108,DEM,Bob Romps,56
+Delta,"Fairbanks Township, Precinct 1",State House,108,DEM,Bob Romps,25
+Delta,"Ford River Township, Precinct 1",State House,108,DEM,Bob Romps,150
+Delta,"Garden Township, Precinct 1",State House,108,DEM,Bob Romps,80
+Delta,"City of Gladstone, Precinct 1",State House,108,DEM,Bob Romps,233
+Delta,"City of Gladstone, Precinct 2",State House,108,DEM,Bob Romps,169
+Delta,"Maple Ridge Township, Precinct 1",State House,108,DEM,Bob Romps,55
+Delta,"Masonville Township, Precinct 1",State House,108,DEM,Bob Romps,115
+Delta,"Nahma Township, Precinct 1",State House,108,DEM,Bob Romps,24
+Delta,"Wells Township, Precinct 1",State House,108,DEM,Bob Romps,125
+Delta,"Wells Township, Precinct 2",State House,108,DEM,Bob Romps,228
+Delta,Total,State House,108,DEM,Bob Romps,2888
+Delta,"Baldwin Township, Precinct 1",State House,108,DEM,Write-ins,1
+Delta,"Bark River Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",State House,108,DEM,Write-ins,1
+Delta,"Brampton Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State House,108,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 1",State House,108,DEM,Write-ins,1
+Delta,"City of Escanaba, Precinct 2",State House,108,DEM,Write-ins,3
+Delta,"City of Escanaba, Precinct 3",State House,108,DEM,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",State House,108,DEM,Write-ins,2
+Delta,"Escanaba Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",State House,108,DEM,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",State House,108,DEM,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Ford River Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Garden Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State House,108,DEM,Write-ins,1
+Delta,"City of Gladstone, Precinct 2",State House,108,DEM,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Masonville Township, Precinct 1",State House,108,DEM,Write-ins,2
+Delta,"Nahma Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 1",State House,108,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 2",State House,108,DEM,Write-ins,4
+Delta,Total,State House,108,DEM,Write-ins,17
+Delta,"Baldwin Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Bark River Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Brampton Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",State House,108,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",State House,108,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",State House,108,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",State House,108,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",State House,108,LIB,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Ford River Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Garden Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",State House,108,LIB,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Masonville Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Nahma Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 1",State House,108,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 2",State House,108,LIB,Write-ins,0
+Delta,Total,State House,108,LIB,Write-ins,0
+Delta,"Baldwin Township, Precinct 1",State Senate,38,REP,Mike Carey,11
+Delta,"Bark River Township, Precinct 1",State Senate,38,REP,Mike Carey,21
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,REP,Mike Carey,8
+Delta,"Brampton Township, Precinct 1",State Senate,38,REP,Mike Carey,12
+Delta,"Cornell Township, Precinct 1",State Senate,38,REP,Mike Carey,15
+Delta,"Ensign Township, Precinct 1",State Senate,38,REP,Mike Carey,11
+Delta,"City of Escanaba, Precinct 1",State Senate,38,REP,Mike Carey,26
+Delta,"City of Escanaba, Precinct 2",State Senate,38,REP,Mike Carey,59
+Delta,"City of Escanaba, Precinct 3",State Senate,38,REP,Mike Carey,50
+Delta,"City of Escanaba, Precinct 4",State Senate,38,REP,Mike Carey,16
+Delta,"Escanaba Township, Precinct 1",State Senate,38,REP,Mike Carey,33
+Delta,"Escanaba Township, Precinct 2",State Senate,38,REP,Mike Carey,7
+Delta,"Escanaba Township, Precinct 3",State Senate,38,REP,Mike Carey,7
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,REP,Mike Carey,9
+Delta,"Ford River Township, Precinct 1",State Senate,38,REP,Mike Carey,34
+Delta,"Garden Township, Precinct 1",State Senate,38,REP,Mike Carey,25
+Delta,"City of Gladstone, Precinct 1",State Senate,38,REP,Mike Carey,34
+Delta,"City of Gladstone, Precinct 2",State Senate,38,REP,Mike Carey,53
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,REP,Mike Carey,17
+Delta,"Masonville Township, Precinct 1",State Senate,38,REP,Mike Carey,31
+Delta,"Nahma Township, Precinct 1",State Senate,38,REP,Mike Carey,8
+Delta,"Wells Township, Precinct 1",State Senate,38,REP,Mike Carey,22
+Delta,"Wells Township, Precinct 2",State Senate,38,REP,Mike Carey,52
+Delta,Total,State Senate,38,REP,Mike Carey,561
+Delta,"Baldwin Township, Precinct 1",State Senate,38,REP,Ed McBroom,83
+Delta,"Bark River Township, Precinct 1",State Senate,38,REP,Ed McBroom,169
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,REP,Ed McBroom,51
+Delta,"Brampton Township, Precinct 1",State Senate,38,REP,Ed McBroom,106
+Delta,"Cornell Township, Precinct 1",State Senate,38,REP,Ed McBroom,59
+Delta,"Ensign Township, Precinct 1",State Senate,38,REP,Ed McBroom,75
+Delta,"City of Escanaba, Precinct 1",State Senate,38,REP,Ed McBroom,190
+Delta,"City of Escanaba, Precinct 2",State Senate,38,REP,Ed McBroom,431
+Delta,"City of Escanaba, Precinct 3",State Senate,38,REP,Ed McBroom,228
+Delta,"City of Escanaba, Precinct 4",State Senate,38,REP,Ed McBroom,99
+Delta,"Escanaba Township, Precinct 1",State Senate,38,REP,Ed McBroom,245
+Delta,"Escanaba Township, Precinct 2",State Senate,38,REP,Ed McBroom,97
+Delta,"Escanaba Township, Precinct 3",State Senate,38,REP,Ed McBroom,76
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,REP,Ed McBroom,47
+Delta,"Ford River Township, Precinct 1",State Senate,38,REP,Ed McBroom,226
+Delta,"Garden Township, Precinct 1",State Senate,38,REP,Ed McBroom,79
+Delta,"City of Gladstone, Precinct 1",State Senate,38,REP,Ed McBroom,203
+Delta,"City of Gladstone, Precinct 2",State Senate,38,REP,Ed McBroom,223
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,REP,Ed McBroom,75
+Delta,"Masonville Township, Precinct 1",State Senate,38,REP,Ed McBroom,176
+Delta,"Nahma Township, Precinct 1",State Senate,38,REP,Ed McBroom,45
+Delta,"Wells Township, Precinct 1",State Senate,38,REP,Ed McBroom,151
+Delta,"Wells Township, Precinct 2",State Senate,38,REP,Ed McBroom,265
+Delta,Total,State Senate,38,REP,Ed McBroom,3399
+Delta,"Baldwin Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Bark River Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Brampton Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",State Senate,38,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",State Senate,38,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",State Senate,38,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",State Senate,38,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",State Senate,38,REP,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Ford River Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Garden Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",State Senate,38,REP,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Masonville Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Nahma Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Wells Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Delta,"Wells Township, Precinct 2",State Senate,38,REP,Write-ins,1
+Delta,Total,State Senate,38,REP,Write-ins,1
+Delta,"Baldwin Township, Precinct 1",State Senate,38,DEM,Scott Dianda,38
+Delta,"Bark River Township, Precinct 1",State Senate,38,DEM,Scott Dianda,56
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,DEM,Scott Dianda,41
+Delta,"Brampton Township, Precinct 1",State Senate,38,DEM,Scott Dianda,87
+Delta,"Cornell Township, Precinct 1",State Senate,38,DEM,Scott Dianda,48
+Delta,"Ensign Township, Precinct 1",State Senate,38,DEM,Scott Dianda,84
+Delta,"City of Escanaba, Precinct 1",State Senate,38,DEM,Scott Dianda,222
+Delta,"City of Escanaba, Precinct 2",State Senate,38,DEM,Scott Dianda,378
+Delta,"City of Escanaba, Precinct 3",State Senate,38,DEM,Scott Dianda,297
+Delta,"City of Escanaba, Precinct 4",State Senate,38,DEM,Scott Dianda,128
+Delta,"Escanaba Township, Precinct 1",State Senate,38,DEM,Scott Dianda,188
+Delta,"Escanaba Township, Precinct 2",State Senate,38,DEM,Scott Dianda,57
+Delta,"Escanaba Township, Precinct 3",State Senate,38,DEM,Scott Dianda,57
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,DEM,Scott Dianda,27
+Delta,"Ford River Township, Precinct 1",State Senate,38,DEM,Scott Dianda,151
+Delta,"Garden Township, Precinct 1",State Senate,38,DEM,Scott Dianda,87
+Delta,"City of Gladstone, Precinct 1",State Senate,38,DEM,Scott Dianda,238
+Delta,"City of Gladstone, Precinct 2",State Senate,38,DEM,Scott Dianda,170
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,DEM,Scott Dianda,59
+Delta,"Masonville Township, Precinct 1",State Senate,38,DEM,Scott Dianda,117
+Delta,"Nahma Township, Precinct 1",State Senate,38,DEM,Scott Dianda,25
+Delta,"Wells Township, Precinct 1",State Senate,38,DEM,Scott Dianda,121
+Delta,"Wells Township, Precinct 2",State Senate,38,DEM,Scott Dianda,225
+Delta,Total,State Senate,38,DEM,Scott Dianda,2901
+Delta,"Baldwin Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Bark River Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Brampton Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State Senate,38,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 1",State Senate,38,DEM,Write-ins,3
+Delta,"City of Escanaba, Precinct 2",State Senate,38,DEM,Write-ins,1
+Delta,"City of Escanaba, Precinct 3",State Senate,38,DEM,Write-ins,1
+Delta,"City of Escanaba, Precinct 4",State Senate,38,DEM,Write-ins,1
+Delta,"Escanaba Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Delta,"Escanaba Township, Precinct 2",State Senate,38,DEM,Write-ins,1
+Delta,"Escanaba Township, Precinct 3",State Senate,38,DEM,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Delta,"Ford River Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Delta,"Garden Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State Senate,38,DEM,Write-ins,1
+Delta,"City of Gladstone, Precinct 2",State Senate,38,DEM,Write-ins,1
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Delta,"Masonville Township, Precinct 1",State Senate,38,DEM,Write-ins,3
+Delta,"Nahma Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 2",State Senate,38,DEM,Write-ins,0
+Delta,Total,State Senate,38,DEM,Write-ins,18
+Delta,"Baldwin Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Bark River Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Brampton Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Cornell Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Ensign Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",State Senate,38,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",State Senate,38,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",State Senate,38,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",State Senate,38,LIB,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Ford River Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Garden Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",State Senate,38,LIB,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Masonville Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Nahma Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Delta,Total,State Senate,38,LIB,Write-ins,0
+Delta,"Baldwin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,87
+Delta,"Bark River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,177
+Delta,"Bay De Noc Township, Precinct 1",U.S. House,1,REP,Jack Bergman,56
+Delta,"Brampton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,106
+Delta,"Cornell Township, Precinct 1",U.S. House,1,REP,Jack Bergman,71
+Delta,"Ensign Township, Precinct 1",U.S. House,1,REP,Jack Bergman,82
+Delta,"City of Escanaba, Precinct 1",U.S. House,1,REP,Jack Bergman,203
+Delta,"City of Escanaba, Precinct 2",U.S. House,1,REP,Jack Bergman,439
+Delta,"City of Escanaba, Precinct 3",U.S. House,1,REP,Jack Bergman,258
+Delta,"City of Escanaba, Precinct 4",U.S. House,1,REP,Jack Bergman,106
+Delta,"Escanaba Township, Precinct 1",U.S. House,1,REP,Jack Bergman,259
+Delta,"Escanaba Township, Precinct 2",U.S. House,1,REP,Jack Bergman,85
+Delta,"Escanaba Township, Precinct 3",U.S. House,1,REP,Jack Bergman,74
+Delta,"Fairbanks Township, Precinct 1",U.S. House,1,REP,Jack Bergman,50
+Delta,"Ford River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,226
+Delta,"Garden Township, Precinct 1",U.S. House,1,REP,Jack Bergman,93
+Delta,"City of Gladstone, Precinct 1",U.S. House,1,REP,Jack Bergman,218
+Delta,"City of Gladstone, Precinct 2",U.S. House,1,REP,Jack Bergman,247
+Delta,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Jack Bergman,88
+Delta,"Masonville Township, Precinct 1",U.S. House,1,REP,Jack Bergman,184
+Delta,"Nahma Township, Precinct 1",U.S. House,1,REP,Jack Bergman,47
+Delta,"Wells Township, Precinct 1",U.S. House,1,REP,Jack Bergman,159
+Delta,"Wells Township, Precinct 2",U.S. House,1,REP,Jack Bergman,278
+Delta,Total,U.S. House,1,REP,Jack Bergman,3593
+Delta,"Baldwin Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Bark River Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Brampton Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Delta,"Cornell Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Ensign Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",U.S. House,1,REP,Write-ins,1
+Delta,"City of Escanaba, Precinct 3",U.S. House,1,REP,Write-ins,2
+Delta,"City of Escanaba, Precinct 4",U.S. House,1,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",U.S. House,1,REP,Write-ins,4
+Delta,"Escanaba Township, Precinct 3",U.S. House,1,REP,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Ford River Township, Precinct 1",U.S. House,1,REP,Write-ins,4
+Delta,"Garden Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",U.S. House,1,REP,Write-ins,1
+Delta,"City of Gladstone, Precinct 2",U.S. House,1,REP,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Masonville Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Nahma Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Delta,"Wells Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Delta,"Wells Township, Precinct 2",U.S. House,1,REP,Write-ins,3
+Delta,Total,U.S. House,1,REP,Write-ins,17
+Delta,"Baldwin Township, Precinct 1",U.S. House,1,DEM,Write-ins,15
+Delta,"Bark River Township, Precinct 1",U.S. House,1,DEM,Write-ins,25
+Delta,"Bay De Noc Township, Precinct 1",U.S. House,1,DEM,Write-ins,25
+Delta,"Brampton Township, Precinct 1",U.S. House,1,DEM,Write-ins,40
+Delta,"Cornell Township, Precinct 1",U.S. House,1,DEM,Write-ins,20
+Delta,"Ensign Township, Precinct 1",U.S. House,1,DEM,Write-ins,41
+Delta,"City of Escanaba, Precinct 1",U.S. House,1,DEM,Write-ins,127
+Delta,"City of Escanaba, Precinct 2",U.S. House,1,DEM,Write-ins,195
+Delta,"City of Escanaba, Precinct 3",U.S. House,1,DEM,Write-ins,118
+Delta,"City of Escanaba, Precinct 4",U.S. House,1,DEM,Write-ins,56
+Delta,"Escanaba Township, Precinct 1",U.S. House,1,DEM,Write-ins,71
+Delta,"Escanaba Township, Precinct 2",U.S. House,1,DEM,Write-ins,28
+Delta,"Escanaba Township, Precinct 3",U.S. House,1,DEM,Write-ins,23
+Delta,"Fairbanks Township, Precinct 1",U.S. House,1,DEM,Write-ins,12
+Delta,"Ford River Township, Precinct 1",U.S. House,1,DEM,Write-ins,84
+Delta,"Garden Township, Precinct 1",U.S. House,1,DEM,Write-ins,57
+Delta,"City of Gladstone, Precinct 1",U.S. House,1,DEM,Write-ins,118
+Delta,"City of Gladstone, Precinct 2",U.S. House,1,DEM,Write-ins,78
+Delta,"Maple Ridge Township, Precinct 1",U.S. House,1,DEM,Write-ins,26
+Delta,"Masonville Township, Precinct 1",U.S. House,1,DEM,Write-ins,66
+Delta,"Nahma Township, Precinct 1",U.S. House,1,DEM,Write-ins,10
+Delta,"Wells Township, Precinct 1",U.S. House,1,DEM,Write-ins,55
+Delta,"Wells Township, Precinct 2",U.S. House,1,DEM,Write-ins,133
+Delta,Total,U.S. House,1,DEM,Write-ins,1423
+Delta,"Baldwin Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Bark River Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Bay De Noc Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Brampton Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Cornell Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Ensign Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Escanaba, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Escanaba, Precinct 2",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Escanaba, Precinct 3",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Escanaba, Precinct 4",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Escanaba Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Escanaba Township, Precinct 2",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Escanaba Township, Precinct 3",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Fairbanks Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Ford River Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Garden Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Gladstone, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"City of Gladstone, Precinct 2",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Maple Ridge Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Masonville Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Nahma Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Wells Township, Precinct 1",U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Wells Township, Precinct 2",U.S. House,1,DEM,Matthew Morgan,0
+Delta,Total,U.S. House,1,DEM,Matthew Morgan,0
+Delta,"Baldwin Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Bark River Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Brampton Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Cornell Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Ensign Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",U.S. House,1,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",U.S. House,1,LIB,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Ford River Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Garden Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Masonville Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Nahma Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Delta,Total,U.S. House,1,LIB,Write-ins,0
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,REP,John James,56
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,REP,John James,113
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,REP,John James,39
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,REP,John James,54
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,REP,John James,51
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,REP,John James,49
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,REP,John James,120
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,REP,John James,245
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,REP,John James,140
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,REP,John James,63
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,REP,John James,156
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,REP,John James,60
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,REP,John James,52
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,REP,John James,27
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,REP,John James,164
+Delta,"Garden Township, Precinct 1",U.S. Senate,,REP,John James,58
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,REP,John James,136
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,REP,John James,170
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,John James,52
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,REP,John James,108
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,REP,John James,38
+Delta,"Wells Township, Precinct 1",U.S. Senate,,REP,John James,94
+Delta,"Wells Township, Precinct 2",U.S. Senate,,REP,John James,201
+Delta,Total,U.S. Senate,,REP,John James,2246
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,31
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,63
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,15
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,55
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,20
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,31
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,REP,Sandy Pensler,80
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,REP,Sandy Pensler,207
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,REP,Sandy Pensler,114
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,REP,Sandy Pensler,44
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,106
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,32
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,24
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,24
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,73
+Delta,"Garden Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,41
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,REP,Sandy Pensler,79
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,REP,Sandy Pensler,95
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,36
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,86
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,12
+Delta,"Wells Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,67
+Delta,"Wells Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,94
+Delta,Total,U.S. Senate,,REP,Sandy Pensler,1429
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,REP,Write-ins,3
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Delta,"Garden Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Wells Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Delta,"Wells Township, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Delta,Total,U.S. Senate,,REP,Write-ins,9
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,40
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,62
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,43
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,87
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,54
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,91
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,232
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,395
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,309
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,134
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,193
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,62
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,58
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,32
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,162
+Delta,"Garden Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,90
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,246
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,175
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,62
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,123
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,25
+Delta,"Wells Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,131
+Delta,"Wells Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,245
+Delta,Total,U.S. Senate,,DEM,Debbie Stabenow,3051
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,DEM,Write-ins,1
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,DEM,Write-ins,1
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,DEM,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Garden Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,DEM,Write-ins,1
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Delta,Total,U.S. Senate,,DEM,Write-ins,15
+Delta,"Baldwin Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Bark River Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Brampton Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Cornell Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Ensign Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",U.S. Senate,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Ford River Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Garden Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Masonville Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Nahma Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Delta,Total,U.S. Senate,,LIB,Write-ins,0
+Delta,"Baldwin Township, Precinct 1",Governor,,REP,Brian Calley,15
+Delta,"Bark River Township, Precinct 1",Governor,,REP,Brian Calley,25
+Delta,"Bay De Noc Township, Precinct 1",Governor,,REP,Brian Calley,7
+Delta,"Brampton Township, Precinct 1",Governor,,REP,Brian Calley,21
+Delta,"Cornell Township, Precinct 1",Governor,,REP,Brian Calley,7
+Delta,"Ensign Township, Precinct 1",Governor,,REP,Brian Calley,14
+Delta,"City of Escanaba, Precinct 1",Governor,,REP,Brian Calley,37
+Delta,"City of Escanaba, Precinct 2",Governor,,REP,Brian Calley,53
+Delta,"City of Escanaba, Precinct 3",Governor,,REP,Brian Calley,38
+Delta,"City of Escanaba, Precinct 4",Governor,,REP,Brian Calley,15
+Delta,"Escanaba Township, Precinct 1",Governor,,REP,Brian Calley,35
+Delta,"Escanaba Township, Precinct 2",Governor,,REP,Brian Calley,12
+Delta,"Escanaba Township, Precinct 3",Governor,,REP,Brian Calley,10
+Delta,"Fairbanks Township, Precinct 1",Governor,,REP,Brian Calley,6
+Delta,"Ford River Township, Precinct 1",Governor,,REP,Brian Calley,51
+Delta,"Garden Township, Precinct 1",Governor,,REP,Brian Calley,17
+Delta,"City of Gladstone, Precinct 1",Governor,,REP,Brian Calley,47
+Delta,"City of Gladstone, Precinct 2",Governor,,REP,Brian Calley,41
+Delta,"Maple Ridge Township, Precinct 1",Governor,,REP,Brian Calley,12
+Delta,"Masonville Township, Precinct 1",Governor,,REP,Brian Calley,25
+Delta,"Nahma Township, Precinct 1",Governor,,REP,Brian Calley,7
+Delta,"Wells Township, Precinct 1",Governor,,REP,Brian Calley,19
+Delta,"Wells Township, Precinct 2",Governor,,REP,Brian Calley,32
+Delta,Total,Governor,,REP,Brian Calley,546
+Delta,"Baldwin Township, Precinct 1",Governor,,REP,Patrick Colbeck,5
+Delta,"Bark River Township, Precinct 1",Governor,,REP,Patrick Colbeck,14
+Delta,"Bay De Noc Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Delta,"Brampton Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Delta,"Cornell Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Delta,"Ensign Township, Precinct 1",Governor,,REP,Patrick Colbeck,6
+Delta,"City of Escanaba, Precinct 1",Governor,,REP,Patrick Colbeck,6
+Delta,"City of Escanaba, Precinct 2",Governor,,REP,Patrick Colbeck,16
+Delta,"City of Escanaba, Precinct 3",Governor,,REP,Patrick Colbeck,13
+Delta,"City of Escanaba, Precinct 4",Governor,,REP,Patrick Colbeck,7
+Delta,"Escanaba Township, Precinct 1",Governor,,REP,Patrick Colbeck,11
+Delta,"Escanaba Township, Precinct 2",Governor,,REP,Patrick Colbeck,2
+Delta,"Escanaba Township, Precinct 3",Governor,,REP,Patrick Colbeck,4
+Delta,"Fairbanks Township, Precinct 1",Governor,,REP,Patrick Colbeck,1
+Delta,"Ford River Township, Precinct 1",Governor,,REP,Patrick Colbeck,12
+Delta,"Garden Township, Precinct 1",Governor,,REP,Patrick Colbeck,5
+Delta,"City of Gladstone, Precinct 1",Governor,,REP,Patrick Colbeck,7
+Delta,"City of Gladstone, Precinct 2",Governor,,REP,Patrick Colbeck,19
+Delta,"Maple Ridge Township, Precinct 1",Governor,,REP,Patrick Colbeck,9
+Delta,"Masonville Township, Precinct 1",Governor,,REP,Patrick Colbeck,5
+Delta,"Nahma Township, Precinct 1",Governor,,REP,Patrick Colbeck,3
+Delta,"Wells Township, Precinct 1",Governor,,REP,Patrick Colbeck,5
+Delta,"Wells Township, Precinct 2",Governor,,REP,Patrick Colbeck,25
+Delta,Total,Governor,,REP,Patrick Colbeck,182
+Delta,"Baldwin Township, Precinct 1",Governor,,REP,Jim Hines,17
+Delta,"Bark River Township, Precinct 1",Governor,,REP,Jim Hines,39
+Delta,"Bay De Noc Township, Precinct 1",Governor,,REP,Jim Hines,17
+Delta,"Brampton Township, Precinct 1",Governor,,REP,Jim Hines,11
+Delta,"Cornell Township, Precinct 1",Governor,,REP,Jim Hines,5
+Delta,"Ensign Township, Precinct 1",Governor,,REP,Jim Hines,13
+Delta,"City of Escanaba, Precinct 1",Governor,,REP,Jim Hines,20
+Delta,"City of Escanaba, Precinct 2",Governor,,REP,Jim Hines,71
+Delta,"City of Escanaba, Precinct 3",Governor,,REP,Jim Hines,42
+Delta,"City of Escanaba, Precinct 4",Governor,,REP,Jim Hines,22
+Delta,"Escanaba Township, Precinct 1",Governor,,REP,Jim Hines,60
+Delta,"Escanaba Township, Precinct 2",Governor,,REP,Jim Hines,17
+Delta,"Escanaba Township, Precinct 3",Governor,,REP,Jim Hines,12
+Delta,"Fairbanks Township, Precinct 1",Governor,,REP,Jim Hines,7
+Delta,"Ford River Township, Precinct 1",Governor,,REP,Jim Hines,47
+Delta,"Garden Township, Precinct 1",Governor,,REP,Jim Hines,23
+Delta,"City of Gladstone, Precinct 1",Governor,,REP,Jim Hines,27
+Delta,"City of Gladstone, Precinct 2",Governor,,REP,Jim Hines,47
+Delta,"Maple Ridge Township, Precinct 1",Governor,,REP,Jim Hines,19
+Delta,"Masonville Township, Precinct 1",Governor,,REP,Jim Hines,38
+Delta,"Nahma Township, Precinct 1",Governor,,REP,Jim Hines,9
+Delta,"Wells Township, Precinct 1",Governor,,REP,Jim Hines,23
+Delta,"Wells Township, Precinct 2",Governor,,REP,Jim Hines,61
+Delta,Total,Governor,,REP,Jim Hines,647
+Delta,"Baldwin Township, Precinct 1",Governor,,REP,Bill Schuette,53
+Delta,"Bark River Township, Precinct 1",Governor,,REP,Bill Schuette,113
+Delta,"Bay De Noc Township, Precinct 1",Governor,,REP,Bill Schuette,31
+Delta,"Brampton Township, Precinct 1",Governor,,REP,Bill Schuette,81
+Delta,"Cornell Township, Precinct 1",Governor,,REP,Bill Schuette,58
+Delta,"Ensign Township, Precinct 1",Governor,,REP,Bill Schuette,48
+Delta,"City of Escanaba, Precinct 1",Governor,,REP,Bill Schuette,147
+Delta,"City of Escanaba, Precinct 2",Governor,,REP,Bill Schuette,347
+Delta,"City of Escanaba, Precinct 3",Governor,,REP,Bill Schuette,172
+Delta,"City of Escanaba, Precinct 4",Governor,,REP,Bill Schuette,71
+Delta,"Escanaba Township, Precinct 1",Governor,,REP,Bill Schuette,169
+Delta,"Escanaba Township, Precinct 2",Governor,,REP,Bill Schuette,67
+Delta,"Escanaba Township, Precinct 3",Governor,,REP,Bill Schuette,52
+Delta,"Fairbanks Township, Precinct 1",Governor,,REP,Bill Schuette,37
+Delta,"Ford River Township, Precinct 1",Governor,,REP,Bill Schuette,146
+Delta,"Garden Township, Precinct 1",Governor,,REP,Bill Schuette,59
+Delta,"City of Gladstone, Precinct 1",Governor,,REP,Bill Schuette,151
+Delta,"City of Gladstone, Precinct 2",Governor,,REP,Bill Schuette,164
+Delta,"Maple Ridge Township, Precinct 1",Governor,,REP,Bill Schuette,54
+Delta,"Masonville Township, Precinct 1",Governor,,REP,Bill Schuette,137
+Delta,"Nahma Township, Precinct 1",Governor,,REP,Bill Schuette,32
+Delta,"Wells Township, Precinct 1",Governor,,REP,Bill Schuette,120
+Delta,"Wells Township, Precinct 2",Governor,,REP,Bill Schuette,189
+Delta,Total,Governor,,REP,Bill Schuette,2498
+Delta,"Baldwin Township, Precinct 1",Governor,,REP,Write-ins,2
+Delta,"Bark River Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Brampton Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Cornell Township, Precinct 1",Governor,,REP,Write-ins,1
+Delta,"Ensign Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",Governor,,REP,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",Governor,,REP,Write-ins,1
+Delta,"City of Escanaba, Precinct 4",Governor,,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",Governor,,REP,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",Governor,,REP,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Ford River Township, Precinct 1",Governor,,REP,Write-ins,1
+Delta,"Garden Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",Governor,,REP,Write-ins,1
+Delta,"Maple Ridge Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Masonville Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Nahma Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Wells Township, Precinct 1",Governor,,REP,Write-ins,0
+Delta,"Wells Township, Precinct 2",Governor,,REP,Write-ins,1
+Delta,Total,Governor,,REP,Write-ins,7
+Delta,"Baldwin Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Delta,"Bark River Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Delta,"Bay De Noc Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Delta,"Brampton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Delta,"Cornell Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Delta,"Ensign Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Delta,"City of Escanaba, Precinct 1",Governor,,DEM,Abdul El-Sayed,52
+Delta,"City of Escanaba, Precinct 2",Governor,,DEM,Abdul El-Sayed,58
+Delta,"City of Escanaba, Precinct 3",Governor,,DEM,Abdul El-Sayed,45
+Delta,"City of Escanaba, Precinct 4",Governor,,DEM,Abdul El-Sayed,15
+Delta,"Escanaba Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,27
+Delta,"Escanaba Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,3
+Delta,"Escanaba Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,5
+Delta,"Fairbanks Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,2
+Delta,"Ford River Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,18
+Delta,"Garden Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Delta,"City of Gladstone, Precinct 1",Governor,,DEM,Abdul El-Sayed,32
+Delta,"City of Gladstone, Precinct 2",Governor,,DEM,Abdul El-Sayed,25
+Delta,"Maple Ridge Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,10
+Delta,"Masonville Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,12
+Delta,"Nahma Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,6
+Delta,"Wells Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,22
+Delta,"Wells Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,33
+Delta,Total,Governor,,DEM,Abdul El-Sayed,410
+Delta,"Baldwin Township, Precinct 1",Governor,,DEM,Shri Thanedar,16
+Delta,"Bark River Township, Precinct 1",Governor,,DEM,Shri Thanedar,22
+Delta,"Bay De Noc Township, Precinct 1",Governor,,DEM,Shri Thanedar,7
+Delta,"Brampton Township, Precinct 1",Governor,,DEM,Shri Thanedar,23
+Delta,"Cornell Township, Precinct 1",Governor,,DEM,Shri Thanedar,25
+Delta,"Ensign Township, Precinct 1",Governor,,DEM,Shri Thanedar,26
+Delta,"City of Escanaba, Precinct 1",Governor,,DEM,Shri Thanedar,66
+Delta,"City of Escanaba, Precinct 2",Governor,,DEM,Shri Thanedar,131
+Delta,"City of Escanaba, Precinct 3",Governor,,DEM,Shri Thanedar,100
+Delta,"City of Escanaba, Precinct 4",Governor,,DEM,Shri Thanedar,57
+Delta,"Escanaba Township, Precinct 1",Governor,,DEM,Shri Thanedar,57
+Delta,"Escanaba Township, Precinct 2",Governor,,DEM,Shri Thanedar,22
+Delta,"Escanaba Township, Precinct 3",Governor,,DEM,Shri Thanedar,20
+Delta,"Fairbanks Township, Precinct 1",Governor,,DEM,Shri Thanedar,11
+Delta,"Ford River Township, Precinct 1",Governor,,DEM,Shri Thanedar,56
+Delta,"Garden Township, Precinct 1",Governor,,DEM,Shri Thanedar,37
+Delta,"City of Gladstone, Precinct 1",Governor,,DEM,Shri Thanedar,72
+Delta,"City of Gladstone, Precinct 2",Governor,,DEM,Shri Thanedar,54
+Delta,"Maple Ridge Township, Precinct 1",Governor,,DEM,Shri Thanedar,23
+Delta,"Masonville Township, Precinct 1",Governor,,DEM,Shri Thanedar,34
+Delta,"Nahma Township, Precinct 1",Governor,,DEM,Shri Thanedar,6
+Delta,"Wells Township, Precinct 1",Governor,,DEM,Shri Thanedar,44
+Delta,"Wells Township, Precinct 2",Governor,,DEM,Shri Thanedar,79
+Delta,Total,Governor,,DEM,Shri Thanedar,988
+Delta,"Baldwin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,21
+Delta,"Bark River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,40
+Delta,"Bay De Noc Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,29
+Delta,"Brampton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,61
+Delta,"Cornell Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,33
+Delta,"Ensign Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,60
+Delta,"City of Escanaba, Precinct 1",Governor,,DEM,Gretchen Whitmer,127
+Delta,"City of Escanaba, Precinct 2",Governor,,DEM,Gretchen Whitmer,221
+Delta,"City of Escanaba, Precinct 3",Governor,,DEM,Gretchen Whitmer,174
+Delta,"City of Escanaba, Precinct 4",Governor,,DEM,Gretchen Whitmer,75
+Delta,"Escanaba Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,118
+Delta,"Escanaba Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,40
+Delta,"Escanaba Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,34
+Delta,"Fairbanks Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,23
+Delta,"Ford River Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,94
+Delta,"Garden Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,55
+Delta,"City of Gladstone, Precinct 1",Governor,,DEM,Gretchen Whitmer,151
+Delta,"City of Gladstone, Precinct 2",Governor,,DEM,Gretchen Whitmer,108
+Delta,"Maple Ridge Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,34
+Delta,"Masonville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,83
+Delta,"Nahma Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,16
+Delta,"Wells Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,67
+Delta,"Wells Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,145
+Delta,Total,Governor,,DEM,Gretchen Whitmer,1809
+Delta,"Baldwin Township, Precinct 1",Governor,,DEM,Write-ins,1
+Delta,"Bark River Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Brampton Township, Precinct 1",Governor,,DEM,Write-ins,1
+Delta,"Cornell Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Ensign Township, Precinct 1",Governor,,DEM,Write-ins,2
+Delta,"City of Escanaba, Precinct 1",Governor,,DEM,Write-ins,5
+Delta,"City of Escanaba, Precinct 2",Governor,,DEM,Write-ins,1
+Delta,"City of Escanaba, Precinct 3",Governor,,DEM,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",Governor,,DEM,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",Governor,,DEM,Write-ins,1
+Delta,"Escanaba Township, Precinct 2",Governor,,DEM,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",Governor,,DEM,Write-ins,1
+Delta,"Fairbanks Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Ford River Township, Precinct 1",Governor,,DEM,Write-ins,1
+Delta,"Garden Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",Governor,,DEM,Write-ins,4
+Delta,"Maple Ridge Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Masonville Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Nahma Township, Precinct 1",Governor,,DEM,Write-ins,0
+Delta,"Wells Township, Precinct 1",Governor,,DEM,Write-ins,3
+Delta,"Wells Township, Precinct 2",Governor,,DEM,Write-ins,1
+Delta,Total,Governor,,DEM,Write-ins,21
+Delta,"Baldwin Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Delta,"Bark River Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Bay De Noc Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Brampton Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Cornell Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Ensign Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"City of Escanaba, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Delta,"City of Escanaba, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Delta,"City of Escanaba, Precinct 3",Governor,,LIB,Bill Gelineau,0
+Delta,"City of Escanaba, Precinct 4",Governor,,LIB,Bill Gelineau,0
+Delta,"Escanaba Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Delta,"Escanaba Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Delta,"Escanaba Township, Precinct 3",Governor,,LIB,Bill Gelineau,0
+Delta,"Fairbanks Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Ford River Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Garden Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"City of Gladstone, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"City of Gladstone, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Delta,"Maple Ridge Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Masonville Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Delta,"Nahma Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Wells Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Delta,"Wells Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Delta,Total,Governor,,LIB,Bill Gelineau,7
+Delta,"Baldwin Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Delta,"Bark River Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Bay De Noc Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Delta,"Brampton Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Delta,"Cornell Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Ensign Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"City of Escanaba, Precinct 1",Governor,,LIB,John J. Tatar,1
+Delta,"City of Escanaba, Precinct 2",Governor,,LIB,John J. Tatar,0
+Delta,"City of Escanaba, Precinct 3",Governor,,LIB,John J. Tatar,0
+Delta,"City of Escanaba, Precinct 4",Governor,,LIB,John J. Tatar,0
+Delta,"Escanaba Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Escanaba Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Delta,"Escanaba Township, Precinct 3",Governor,,LIB,John J. Tatar,0
+Delta,"Fairbanks Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Ford River Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Garden Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"City of Gladstone, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"City of Gladstone, Precinct 2",Governor,,LIB,John J. Tatar,1
+Delta,"Maple Ridge Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Masonville Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Nahma Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Wells Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Delta,"Wells Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Delta,Total,Governor,,LIB,John J. Tatar,6
+Delta,"Baldwin Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Bark River Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Bay De Noc Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Brampton Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Cornell Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Ensign Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 2",Governor,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 3",Governor,,LIB,Write-ins,0
+Delta,"City of Escanaba, Precinct 4",Governor,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 2",Governor,,LIB,Write-ins,0
+Delta,"Escanaba Township, Precinct 3",Governor,,LIB,Write-ins,0
+Delta,"Fairbanks Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Ford River Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Garden Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"City of Gladstone, Precinct 2",Governor,,LIB,Write-ins,0
+Delta,"Maple Ridge Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Masonville Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Nahma Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 1",Governor,,LIB,Write-ins,0
+Delta,"Wells Township, Precinct 2",Governor,,LIB,Write-ins,0
+Delta,Total,Governor,,LIB,Write-ins,0

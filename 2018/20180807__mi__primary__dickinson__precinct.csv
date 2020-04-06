@@ -1,0 +1,613 @@
+county,precinct,office,district,party,candidate,votes
+Dickinson,"Breen Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,92
+Dickinson,"Breitung Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,241
+Dickinson,"Breitung Township, Precinct 2",State House,108,REP,Beau Matthew LeFave,216
+Dickinson,"Breitung Township, Precinct 3",State House,108,REP,Beau Matthew LeFave,373
+Dickinson,"City of Iron Mountain, Precinct 1",State House,108,REP,Beau Matthew LeFave,228
+Dickinson,"City of Iron Mountain, Precinct 2",State House,108,REP,Beau Matthew LeFave,213
+Dickinson,"City of Iron Mountain, Precinct 3",State House,108,REP,Beau Matthew LeFave,230
+Dickinson,"City of Kingsford, Precinct 1",State House,108,REP,Beau Matthew LeFave,234
+Dickinson,"City of Kingsford, Precinct 2",State House,108,REP,Beau Matthew LeFave,254
+Dickinson,"City of Norway, Precinct 1",State House,108,REP,Beau Matthew LeFave,307
+Dickinson,"Felch Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,95
+Dickinson,"Norway Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,223
+Dickinson,"Sagola Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,147
+Dickinson,"Sagola Township, Precinct 2",State House,108,REP,Beau Matthew LeFave,63
+Dickinson,"Waucedah Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,148
+Dickinson,"West Branch Township, Precinct 1",State House,108,REP,Beau Matthew LeFave,13
+Dickinson,Total,State House,108,REP,Beau Matthew LeFave,3077
+Dickinson,"Breen Township, Precinct 1",State House,108,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State House,108,REP,Write-ins,2
+Dickinson,"Breitung Township, Precinct 2",State House,108,REP,Write-ins,2
+Dickinson,"Breitung Township, Precinct 3",State House,108,REP,Write-ins,3
+Dickinson,"City of Iron Mountain, Precinct 1",State House,108,REP,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 2",State House,108,REP,Write-ins,5
+Dickinson,"City of Iron Mountain, Precinct 3",State House,108,REP,Write-ins,2
+Dickinson,"City of Kingsford, Precinct 1",State House,108,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 2",State House,108,REP,Write-ins,3
+Dickinson,"City of Norway, Precinct 1",State House,108,REP,Write-ins,2
+Dickinson,"Felch Township, Precinct 1",State House,108,REP,Write-ins,1
+Dickinson,"Norway Township, Precinct 1",State House,108,REP,Write-ins,1
+Dickinson,"Sagola Township, Precinct 1",State House,108,REP,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State House,108,REP,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State House,108,REP,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",State House,108,REP,Write-ins,0
+Dickinson,Total,State House,108,REP,Write-ins,24
+Dickinson,"Breen Township, Precinct 1",State House,108,DEM,Bob Romps,9
+Dickinson,"Breitung Township, Precinct 1",State House,108,DEM,Bob Romps,121
+Dickinson,"Breitung Township, Precinct 2",State House,108,DEM,Bob Romps,92
+Dickinson,"Breitung Township, Precinct 3",State House,108,DEM,Bob Romps,139
+Dickinson,"City of Iron Mountain, Precinct 1",State House,108,DEM,Bob Romps,153
+Dickinson,"City of Iron Mountain, Precinct 2",State House,108,DEM,Bob Romps,160
+Dickinson,"City of Iron Mountain, Precinct 3",State House,108,DEM,Bob Romps,153
+Dickinson,"City of Kingsford, Precinct 1",State House,108,DEM,Bob Romps,134
+Dickinson,"City of Kingsford, Precinct 2",State House,108,DEM,Bob Romps,171
+Dickinson,"City of Norway, Precinct 1",State House,108,DEM,Bob Romps,228
+Dickinson,"Felch Township, Precinct 1",State House,108,DEM,Bob Romps,34
+Dickinson,"Norway Township, Precinct 1",State House,108,DEM,Bob Romps,141
+Dickinson,"Sagola Township, Precinct 1",State House,108,DEM,Bob Romps,32
+Dickinson,"Sagola Township, Precinct 2",State House,108,DEM,Bob Romps,17
+Dickinson,"Waucedah Township, Precinct 1",State House,108,DEM,Bob Romps,50
+Dickinson,"West Branch Township, Precinct 1",State House,108,DEM,Bob Romps,8
+Dickinson,Total,State House,108,DEM,Bob Romps,1642
+Dickinson,"Breen Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",State House,108,DEM,Write-ins,2
+Dickinson,"Breitung Township, Precinct 3",State House,108,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 1",State House,108,DEM,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 2",State House,108,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 3",State House,108,DEM,Write-ins,2
+Dickinson,"City of Kingsford, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",State House,108,DEM,Write-ins,3
+Dickinson,"City of Norway, Precinct 1",State House,108,DEM,Write-ins,1
+Dickinson,"Felch Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State House,108,DEM,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",State House,108,DEM,Write-ins,0
+Dickinson,Total,State House,108,DEM,Write-ins,13
+Dickinson,"Breen Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",State House,108,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",State House,108,LIB,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",State House,108,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",State House,108,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",State House,108,LIB,Write-ins,1
+Dickinson,"City of Norway, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State House,108,LIB,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State House,108,LIB,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",State House,108,LIB,Write-ins,0
+Dickinson,Total,State House,108,LIB,Write-ins,3
+Dickinson,"Breen Township, Precinct 1",State Senate,38,REP,Mike Carey,21
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,REP,Mike Carey,60
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,REP,Mike Carey,76
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,REP,Mike Carey,101
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,REP,Mike Carey,96
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,REP,Mike Carey,85
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,REP,Mike Carey,90
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,REP,Mike Carey,67
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,REP,Mike Carey,70
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,REP,Mike Carey,63
+Dickinson,"Felch Township, Precinct 1",State Senate,38,REP,Mike Carey,30
+Dickinson,"Norway Township, Precinct 1",State Senate,38,REP,Mike Carey,66
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,REP,Mike Carey,65
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,REP,Mike Carey,16
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,REP,Mike Carey,33
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,REP,Mike Carey,4
+Dickinson,Total,State Senate,38,REP,Mike Carey,943
+Dickinson,"Breen Township, Precinct 1",State Senate,38,REP,Ed McBroom,81
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,REP,Ed McBroom,213
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,REP,Ed McBroom,161
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,REP,Ed McBroom,300
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,REP,Ed McBroom,168
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,REP,Ed McBroom,169
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,REP,Ed McBroom,172
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,REP,Ed McBroom,185
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,REP,Ed McBroom,203
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,REP,Ed McBroom,288
+Dickinson,"Felch Township, Precinct 1",State Senate,38,REP,Ed McBroom,77
+Dickinson,"Norway Township, Precinct 1",State Senate,38,REP,Ed McBroom,199
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,REP,Ed McBroom,112
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,REP,Ed McBroom,55
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,REP,Ed McBroom,145
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,REP,Ed McBroom,10
+Dickinson,Total,State Senate,38,REP,Ed McBroom,2538
+Dickinson,"Breen Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,REP,Write-ins,0
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,REP,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,REP,Write-ins,0
+Dickinson,Total,State Senate,38,REP,Write-ins,0
+Dickinson,"Breen Township, Precinct 1",State Senate,38,DEM,Scott Dianda,10
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,DEM,Scott Dianda,128
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,DEM,Scott Dianda,93
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,DEM,Scott Dianda,142
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,DEM,Scott Dianda,155
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,DEM,Scott Dianda,158
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,DEM,Scott Dianda,154
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,DEM,Scott Dianda,141
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,DEM,Scott Dianda,181
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,DEM,Scott Dianda,230
+Dickinson,"Felch Township, Precinct 1",State Senate,38,DEM,Scott Dianda,34
+Dickinson,"Norway Township, Precinct 1",State Senate,38,DEM,Scott Dianda,139
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,DEM,Scott Dianda,35
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,DEM,Scott Dianda,18
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,DEM,Scott Dianda,51
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,DEM,Scott Dianda,8
+Dickinson,Total,State Senate,38,DEM,Scott Dianda,1677
+Dickinson,"Breen Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,DEM,Write-ins,1
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,DEM,Write-ins,3
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,DEM,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,DEM,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,DEM,Write-ins,0
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,DEM,Write-ins,1
+Dickinson,"Felch Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,DEM,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,DEM,Write-ins,0
+Dickinson,Total,State Senate,38,DEM,Write-ins,11
+Dickinson,"Breen Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",State Senate,38,LIB,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",State Senate,38,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",State Senate,38,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",State Senate,38,LIB,Write-ins,1
+Dickinson,"City of Nonway, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",State Senate,38,LIB,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",State Senate,38,LIB,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",State Senate,38,LIB,Write-ins,1
+Dickinson,Total,State Senate,38,LIB,Write-ins,3
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,REP,Jack Bergman,84
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,REP,Jack Bergman,230
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,REP,Jack Bergman,208
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,REP,Jack Bergman,369
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. House,1,REP,Jack Bergman,224
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. House,1,REP,Jack Bergman,222
+Dickinson,"City of Iron Mountain, Precinct B",U.S. House,1,REP,Jack Bergman,228
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,REP,Jack Bergman,223
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,REP,Jack Bergman,248
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,REP,Jack Bergman,294
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,97
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,REP,Jack Bergman,228
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,REP,Jack Bergman,145
+Dickinson,"Sagola Township, Precinct 2",U.S. House,1,REP,Jack Bergman,62
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,REP,Jack Bergman,140
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,12
+Dickinson,Total,U.S. House,1,REP,Jack Bergman,3014
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. House,1,REP,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. House,1,REP,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct B",U.S. House,1,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,REP,Write-ins,1
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,REP,Write-ins,2
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,REP,Write-ins,2
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",U.S. House,1,REP,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,REP,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,REP,Write-ins,0
+Dickinson,Total,U.S. House,1,REP,Write-ins,13
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,4
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,38
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,DEM,Matt Morgan,43
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,DEM,Matt Morgan,64
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. House,1,DEM,Matt Morgan,60
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. House,1,DEM,Matt Morgan,63
+Dickinson,"City of Iron Mountain, Precinct B",U.S. House,1,DEM,Matt Morgan,54
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,DEM,Matt Morgan,54
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,DEM,Matt Morgan,68
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,DEM,Matt Morgan,77
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,10
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,36
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,9
+Dickinson,"Sagola Township, Precinct 2",U.S. House,1,DEM,Matt Morgan,2
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,14
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,DEM,Matt Morgan,1
+Dickinson,Total,U.S. House,1,DEM,Matt Morgan,597
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,DEM,Write-ins,9
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,DEM,Write-ins,6
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,DEM,Write-ins,10
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. House,1,DEM,Write-ins,10
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. House,1,DEM,Write-ins,12
+Dickinson,"City of Iron Mountain, Precinct B",U.S. House,1,DEM,Write-ins,9
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,DEM,Write-ins,8
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,DEM,Write-ins,9
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,DEM,Write-ins,13
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,DEM,Write-ins,4
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,DEM,Write-ins,4
+Dickinson,"Sagola Township, Precinct 2",U.S. House,1,DEM,Write-ins,1
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,DEM,Write-ins,2
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,DEM,Write-ins,0
+Dickinson,Total,U.S. House,1,DEM,Write-ins,99
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,LIB,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. House,1,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct B",U.S. House,1,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,LIB,Write-ins,1
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",U.S. House,1,LIB,Write-ins,1
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,LIB,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,LIB,Write-ins,0
+Dickinson,Total,U.S. House,1,LIB,Write-ins,4
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,REP,John James,60
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,REP,John James,148
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,REP,John James,133
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,REP,John James,209
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,REP,John James,159
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,REP,John James,150
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,REP,John James,163
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,REP,John James,133
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,REP,John James,159
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,REP,John James,182
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,REP,John James,65
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,REP,John James,131
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,REP,John James,94
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,REP,John James,35
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,REP,John James,93
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,REP,John James,9
+Dickinson,Total,U.S. Senate,,REP,John James,1923
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,24
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,94
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,86
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,163
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,REP,Sandy Pensler,83
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,REP,Sandy Pensler,77
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,REP,Sandy Pensler,78
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,REP,Sandy Pensler,98
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,REP,Sandy Pensler,90
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,REP,Sandy Pensler,116
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,29
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,98
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,51
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,28
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,51
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,5
+Dickinson,Total,U.S. Senate,,REP,Sandy Pensler,1171
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,REP,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,REP,Write-ins,1
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,REP,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,REP,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,REP,Write-ins,0
+Dickinson,Total,U.S. Senate,,REP,Write-ins,8
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,9
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,130
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,94
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,155
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,167
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,163
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,170
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,157
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,183
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,242
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,36
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,144
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,33
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,19
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,53
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,8
+Dickinson,Total,U.S. Senate,,DEM,Debbie Stabenow,1763
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,DEM,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,DEM,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,DEM,Write-ins,2
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,DEM,Write-ins,0
+Dickinson,Total,U.S. Senate,,DEM,Write-ins,14
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,LIB,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,LIB,Write-ins,1
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",U.S. Senate,,LIB,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,LIB,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,LIB,Write-ins,0
+Dickinson,Total,U.S. Senate,,LIB,Write-ins,3
+Dickinson,"Breen Township, Piecinct 1",Governor,,REP,Brian Calley,9
+Dickinson,"Breitung Township, Precinct 1",Governor,,REP,Brian Calley,32
+Dickinson,"Breitung Township, Precinct 2",Governor,,REP,Brian Calley,31
+Dickinson,"Breitung Township, Precinct 3",Governor,,REP,Brian Calley,49
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,REP,Brian Calley,40
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,REP,Brian Calley,27
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,REP,Brian Calley,26
+Dickinson,"City of Kingsford, Precinct 1",Governor,,REP,Brian Calley,17
+Dickinson,"City of Kingsford, Precinct 2",Governor,,REP,Brian Calley,39
+Dickinson,"City of Norway, Precinct 1",Governor,,REP,Brian Calley,22
+Dickinson,"Felch Township, Precinct 1",Governor,,REP,Brian Calley,9
+Dickinson,"Norway Township, Precinct 1",Governor,,REP,Brian Calley,32
+Dickinson,"Sagola Township, Precinct 1",Governor,,REP,Brian Calley,29
+Dickinson,"Sagola Township, Precinct 2",Governor,,REP,Brian Calley,11
+Dickinson,"Waucedah Township, Precinct 1",Governor,,REP,Brian Calley,17
+Dickinson,"West Branch Township, Precinct 1",Governor,,REP,Brian Calley,0
+Dickinson,Total,Governor,,REP,Brian Calley,390
+Dickinson,"Breen Township, Piecinct 1",Governor,,REP,Patrick Colbeck,1
+Dickinson,"Breitung Township, Precinct 1",Governor,,REP,Patrick Colbeck,15
+Dickinson,"Breitung Township, Precinct 2",Governor,,REP,Patrick Colbeck,10
+Dickinson,"Breitung Township, Precinct 3",Governor,,REP,Patrick Colbeck,19
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,REP,Patrick Colbeck,24
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,REP,Patrick Colbeck,31
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,REP,Patrick Colbeck,12
+Dickinson,"City of Kingsford, Precinct 1",Governor,,REP,Patrick Colbeck,10
+Dickinson,"City of Kingsford, Precinct 2",Governor,,REP,Patrick Colbeck,16
+Dickinson,"City of Norway, Precinct 1",Governor,,REP,Patrick Colbeck,34
+Dickinson,"Felch Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Dickinson,"Norway Township, Precinct 1",Governor,,REP,Patrick Colbeck,16
+Dickinson,"Sagola Township, Precinct 1",Governor,,REP,Patrick Colbeck,7
+Dickinson,"Sagola Township, Precinct 2",Governor,,REP,Patrick Colbeck,5
+Dickinson,"Waucedah Township, Precinct 1",Governor,,REP,Patrick Colbeck,8
+Dickinson,"West Branch Township, Precinct 1",Governor,,REP,Patrick Colbeck,2
+Dickinson,Total,Governor,,REP,Patrick Colbeck,212
+Dickinson,"Breen Township, Piecinct 1",Governor,,REP,Jim Hines,23
+Dickinson,"Breitung Township, Precinct 1",Governor,,REP,Jim Hines,45
+Dickinson,"Breitung Township, Precinct 2",Governor,,REP,Jim Hines,61
+Dickinson,"Breitung Township, Precinct 3",Governor,,REP,Jim Hines,70
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,REP,Jim Hines,32
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,REP,Jim Hines,33
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,REP,Jim Hines,46
+Dickinson,"City of Kingsford, Precinct 1",Governor,,REP,Jim Hines,50
+Dickinson,"City of Kingsford, Precinct 2",Governor,,REP,Jim Hines,50
+Dickinson,"City of Norway, Precinct 1",Governor,,REP,Jim Hines,63
+Dickinson,"Felch Township, Precinct 1",Governor,,REP,Jim Hines,25
+Dickinson,"Norway Township, Precinct 1",Governor,,REP,Jim Hines,47
+Dickinson,"Sagola Township, Precinct 1",Governor,,REP,Jim Hines,43
+Dickinson,"Sagola Township, Precinct 2",Governor,,REP,Jim Hines,19
+Dickinson,"Waucedah Township, Precinct 1",Governor,,REP,Jim Hines,37
+Dickinson,"West Branch Township, Precinct 1",Governor,,REP,Jim Hines,5
+Dickinson,Total,Governor,,REP,Jim Hines,649
+Dickinson,"Breen Township, Piecinct 1",Governor,,REP,Bill Schuette,54
+Dickinson,"Breitung Township, Precinct 1",Governor,,REP,Bill Schuette,162
+Dickinson,"Breitung Township, Precinct 2",Governor,,REP,Bill Schuette,125
+Dickinson,"Breitung Township, Precinct 3",Governor,,REP,Bill Schuette,245
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,REP,Bill Schuette,160
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,REP,Bill Schuette,148
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,REP,Bill Schuette,166
+Dickinson,"City of Kingsford, Precinct 1",Governor,,REP,Bill Schuette,166
+Dickinson,"City of Kingsford, Precinct 2",Governor,,REP,Bill Schuette,157
+Dickinson,"City of Norway, Precinct 1",Governor,,REP,Bill Schuette,196
+Dickinson,"Felch Township, Precinct 1",Governor,,REP,Bill Schuette,61
+Dickinson,"Norway Township, Precinct 1",Governor,,REP,Bill Schuette,154
+Dickinson,"Sagola Township, Precinct 1",Governor,,REP,Bill Schuette,73
+Dickinson,"Sagola Township, Precinct 2",Governor,,REP,Bill Schuette,33
+Dickinson,"Waucedah Township, Precinct 1",Governor,,REP,Bill Schuette,96
+Dickinson,"West Branch Township, Precinct 1",Governor,,REP,Bill Schuette,7
+Dickinson,Total,Governor,,REP,Bill Schuette,2003
+Dickinson,"Breen Township, Piecinct 1",Governor,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",Governor,,REP,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",Governor,,REP,Write-ins,2
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,REP,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 1",Governor,,REP,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 2",Governor,,REP,Write-ins,0
+Dickinson,"City of Norway, Precinct 1",Governor,,REP,Write-ins,3
+Dickinson,"Felch Township, Precinct 1",Governor,,REP,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",Governor,,REP,Write-ins,1
+Dickinson,"Sagola Township, Precinct 1",Governor,,REP,Write-ins,1
+Dickinson,"Sagola Township, Precinct 2",Governor,,REP,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",Governor,,REP,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",Governor,,REP,Write-ins,0
+Dickinson,Total,Governor,,REP,Write-ins,9
+Dickinson,"Breen Township, Piecinct 1",Governor,,DEM,Abdul El-Sayed,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,29
+Dickinson,"Breitung Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,19
+Dickinson,"Breitung Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,24
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,DEM,Abdul El-Sayed,32
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,DEM,Abdul El-Sayed,43
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,DEM,Abdul El-Sayed,36
+Dickinson,"City of Kingsford, Precinct 1",Governor,,DEM,Abdul El-Sayed,30
+Dickinson,"City of Kingsford, Precinct 2",Governor,,DEM,Abdul El-Sayed,41
+Dickinson,"City of Norway, Precinct 1",Governor,,DEM,Abdul El-Sayed,31
+Dickinson,"Felch Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,9
+Dickinson,"Norway Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Dickinson,"Sagola Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,13
+Dickinson,"Sagola Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,4
+Dickinson,"Waucedah Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,5
+Dickinson,"West Branch Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,3
+Dickinson,Total,Governor,,DEM,Abdul El-Sayed,332
+Dickinson,"Breen Township, Piecinct 1",Governor,,DEM,Shri Thanedar,2
+Dickinson,"Breitung Township, Precinct 1",Governor,,DEM,Shri Thanedar,61
+Dickinson,"Breitung Township, Precinct 2",Governor,,DEM,Shri Thanedar,27
+Dickinson,"Breitung Township, Precinct 3",Governor,,DEM,Shri Thanedar,64
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,DEM,Shri Thanedar,44
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,DEM,Shri Thanedar,53
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,DEM,Shri Thanedar,52
+Dickinson,"City of Kingsford, Precinct 1",Governor,,DEM,Shri Thanedar,60
+Dickinson,"City of Kingsford, Precinct 2",Governor,,DEM,Shri Thanedar,51
+Dickinson,"City of Norway, Precinct 1",Governor,,DEM,Shri Thanedar,95
+Dickinson,"Felch Township, Precinct 1",Governor,,DEM,Shri Thanedar,13
+Dickinson,"Norway Township, Precinct 1",Governor,,DEM,Shri Thanedar,49
+Dickinson,"Sagola Township, Precinct 1",Governor,,DEM,Shri Thanedar,6
+Dickinson,"Sagola Township, Precinct 2",Governor,,DEM,Shri Thanedar,4
+Dickinson,"Waucedah Township, Precinct 1",Governor,,DEM,Shri Thanedar,25
+Dickinson,"West Branch Township, Precinct 1",Governor,,DEM,Shri Thanedar,2
+Dickinson,Total,Governor,,DEM,Shri Thanedar,608
+Dickinson,"Breen Township, Piecinct 1",Governor,,DEM,Gretchen Whitmer,10
+Dickinson,"Breitung Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,53
+Dickinson,"Breitung Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,58
+Dickinson,"Breitung Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,77
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,DEM,Gretchen Whitmer,95
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,DEM,Gretchen Whitmer,76
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,DEM,Gretchen Whitmer,92
+Dickinson,"City of Kingsford, Precinct 1",Governor,,DEM,Gretchen Whitmer,66
+Dickinson,"City of Kingsford, Precinct 2",Governor,,DEM,Gretchen Whitmer,102
+Dickinson,"City of Norway, Precinct 1",Governor,,DEM,Gretchen Whitmer,132
+Dickinson,"Felch Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,18
+Dickinson,"Norway Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,82
+Dickinson,"Sagola Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,18
+Dickinson,"Sagola Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,10
+Dickinson,"Waucedah Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,27
+Dickinson,"West Branch Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,3
+Dickinson,Total,Governor,,DEM,Gretchen Whitmer,919
+Dickinson,"Breen Township, Piecinct 1",Governor,,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,DEM,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",Governor,,DEM,Write-ins,1
+Dickinson,"Breitung Township, Precinct 3",Governor,,DEM,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,DEM,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,DEM,Write-ins,1
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,DEM,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",Governor,,DEM,Write-ins,1
+Dickinson,"City of Kingsford, Precinct 2",Governor,,DEM,Write-ins,0
+Dickinson,"City of Norway, Precinct 1",Governor,,DEM,Write-ins,1
+Dickinson,"Felch Township, Precinct 1",Governor,,DEM,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",Governor,,DEM,Write-ins,1
+Dickinson,"Sagola Township, Precinct 1",Governor,,DEM,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",Governor,,DEM,Write-ins,2
+Dickinson,"Waucedah Township, Precinct 1",Governor,,DEM,Write-ins,1
+Dickinson,"West Branch Township, Precinct 1",Governor,,DEM,Write-ins,0
+Dickinson,Total,Governor,,DEM,Write-ins,9
+Dickinson,"Breen Township, Piecinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Breitung Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Breitung Township, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Dickinson,"City of Kingsford, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"City of Kingsford, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Dickinson,"City of Norway, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Felch Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Norway Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Sagola Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Sagola Township, Precinct 2",Governor,,LIB,Bill Gelineau,0
+Dickinson,"Waucedah Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,"West Branch Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Dickinson,Total,Governor,,LIB,Bill Gelineau,2
+Dickinson,"Breen Township, Piecinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"Breitung Township, Precinct 2",Governor,,LIB,John J. Tatar,1
+Dickinson,"Breitung Township, Precinct 3",Governor,,LIB,John J. Tatar,0
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,LIB,John J. Tatar,0
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,LIB,John J. Tatar,0
+Dickinson,"City of Kingsford, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"City of Kingsford, Precinct 2",Governor,,LIB,John J. Tatar,1
+Dickinson,"City of Norway, Precinct 1",Governor,,LIB,John J. Tatar,1
+Dickinson,"Felch Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"Norway Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"Sagola Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,"Sagola Township, Precinct 2",Governor,,LIB,John J. Tatar,1
+Dickinson,"Waucedah Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Dickinson,"West Branch Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Dickinson,Total,Governor,,LIB,John J. Tatar,7
+Dickinson,"Breen Township, Piecinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 2",Governor,,LIB,Write-ins,0
+Dickinson,"Breitung Township, Precinct 3",Governor,,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 2",Governor,,LIB,Write-ins,0
+Dickinson,"City of Iron Mountain, Precinct 3",Governor,,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"City of Kingsford, Precinct 2",Governor,,LIB,Write-ins,0
+Dickinson,"City of Norway, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Felch Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Norway Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"Sagola Township, Precinct 2",Governor,,LIB,Write-ins,0
+Dickinson,"Waucedah Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,"West Branch Township, Precinct 1",Governor,,LIB,Write-ins,0
+Dickinson,Total,Governor,,LIB,Write-ins,0
+Dickinson,"Breen Township, Precinct 1",Ballots Cast,,   ,,118
+Dickinson,"Breitung Township, Precinct 1",Ballots Cast,,   ,,428
+Dickinson,"Breitung Township, Precinct 2",Ballots Cast,,   ,,349
+Dickinson,"Breitung Township, Precinct 3",Ballots Cast,,   ,,596
+Dickinson,"City of Iron Mountain, Precinct 1",Ballots Cast,,   ,,449
+Dickinson,"City of iron Mountain, Precinct 2",Ballots Cast,,   ,,434
+Dickinson,"City of Iron Mountain, Precinct 3",Ballots Cast,,   ,,451
+Dickinson,"City of Kingsford, Precinct 1",Ballots Cast,,   ,,434
+Dickinson,"City of Kingsford, Precinct 2",Ballots Cast,,   ,,484
+Dickinson,"City of Norway, Precinct 1",Ballots Cast,,   ,,678
+Dickinson,"Felch Township, Precinct 1",Ballots Cast,,   ,,150
+Dickinson,"Norway Township, Precinct 1",Ballots Cast,,   ,,460
+Dickinson,"Sagola Township, Precinct 1",Ballots Cast,,   ,,218
+Dickinson,"Sagola Township, Precinct 2",Ballots Cast,,   ,,94
+Dickinson,"Waucedah Township, Precinct 1",Ballots Cast,,   ,,244
+Dickinson,"West Branch Township, Precinct 1",Ballots Cast,,   ,,22
+Dickinson,Total,Ballots Cast,,   ,,5609
+Dickinson,"Breen Township, Precinct 1",Registered Voters,,   ,,358
+Dickinson,"Breitung Township, Precinct 1",Registered Voters,,   ,,1454
+Dickinson,"Breitung Township, Precinct 2",Registered Voters,,   ,,1143
+Dickinson,"Breitung Township, Precinct 3",Registered Voters,,   ,,2219
+Dickinson,"City of Iron Mountain, Precinct 1",Registered Voters,,   ,,2073
+Dickinson,"City of iron Mountain, Precinct 2",Registered Voters,,   ,,2133
+Dickinson,"City of Iron Mountain, Precinct 3",Registered Voters,,   ,,2075
+Dickinson,"City of Kingsford, Precinct 1",Registered Voters,,   ,,1711
+Dickinson,"City of Kingsford, Precinct 2",Registered Voters,,   ,,2302
+Dickinson,"City of Norway, Precinct 1",Registered Voters,,   ,,2646
+Dickinson,"Felch Township, Precinct 1",Registered Voters,,   ,,541
+Dickinson,"Norway Township, Precinct 1",Registered Voters,,   ,,1256
+Dickinson,"Sagola Township, Precinct 1",Registered Voters,,   ,,703
+Dickinson,"Sagola Township, Precinct 2",Registered Voters,,   ,,253
+Dickinson,"Waucedah Township, Precinct 1",Registered Voters,,   ,,725
+Dickinson,"West Branch Township, Precinct 1",Registered Voters,,   ,,49
+Dickinson,Total,Registered Voters,,   ,,21641

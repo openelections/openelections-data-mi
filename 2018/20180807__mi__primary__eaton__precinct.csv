@@ -1,0 +1,1919 @@
+county,precinct,office,district,party,candidate,votes
+Eaton,"Brookfield Township, Precinct 1",State House,65,REP,Tom Brittain,46
+Eaton,"Eaton Township, Precinct 1",State House,65,REP,Tom Brittain,97
+Eaton,"Eaton Township, Precinct 2",State House,65,REP,Tom Brittain,36
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,REP,Tom Brittain,28
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,REP,Tom Brittain,43
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,REP,Tom Brittain,27
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,REP,Tom Brittain,24
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,REP,Tom Brittain,27
+Eaton,Total,State House,65,REP,Tom Brittain,328
+Eaton,"Brookfield Township, Precinct 1",State House,65,REP,Matt Eyer,14
+Eaton,"Eaton Township, Precinct 1",State House,65,REP,Matt Eyer,31
+Eaton,"Eaton Township, Precinct 2",State House,65,REP,Matt Eyer,11
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,REP,Matt Eyer,8
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,REP,Matt Eyer,7
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,REP,Matt Eyer,13
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,REP,Matt Eyer,7
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,REP,Matt Eyer,5
+Eaton,Total,State House,65,REP,Matt Eyer,96
+Eaton,"Brookfield Township, Precinct 1",State House,65,REP,Sarah Lightner,125
+Eaton,"Eaton Township, Precinct 1",State House,65,REP,Sarah Lightner,343
+Eaton,"Eaton Township, Precinct 2",State House,65,REP,Sarah Lightner,86
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,REP,Sarah Lightner,136
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,REP,Sarah Lightner,138
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,REP,Sarah Lightner,68
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,REP,Sarah Lightner,79
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,REP,Sarah Lightner,126
+Eaton,Total,State House,65,REP,Sarah Lightner,1101
+Eaton,"Brookfield Township, Precinct 1",State House,65,REP,"Carl Rudolph Rice, Jr.",7
+Eaton,"Eaton Township, Precinct 1",State House,65,REP,"Carl Rudolph Rice, Jr.",22
+Eaton,"Eaton Township, Precinct 2",State House,65,REP,"Carl Rudolph Rice, Jr.",10
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,REP,"Carl Rudolph Rice, Jr.",16
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,REP,"Carl Rudolph Rice, Jr.",9
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,REP,"Carl Rudolph Rice, Jr.",3
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,REP,"Carl Rudolph Rice, Jr.",5
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,REP,"Carl Rudolph Rice, Jr.",10
+Eaton,Total,State House,65,REP,"Carl Rudolph Rice, Jr.",82
+Eaton,"Brookfield Township, Precinct 1",State House,65,DEM,Terri McKinnon,80
+Eaton,"Eaton Township, Precinct 1",State House,65,DEM,Terri McKinnon,207
+Eaton,"Eaton Township, Precinct 2",State House,65,DEM,Terri McKinnon,77
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,DEM,Terri McKinnon,143
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,DEM,Terri McKinnon,130
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,DEM,Terri McKinnon,101
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,DEM,Terri McKinnon,90
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,DEM,Terri McKinnon,147
+Eaton,Total,State House,65,DEM,Terri McKinnon,975
+Eaton,"Brookfield Township, Precinct 1",State House,65,LIB,Jason B. Rees,0
+Eaton,"Eaton Township, Precinct 1",State House,65,LIB,Jason B. Rees,8
+Eaton,"Eaton Township, Precinct 2",State House,65,LIB,Jason B. Rees,0
+Eaton,"Hamlin Township, Precinct 1 - A",State House,65,LIB,Jason B. Rees,1
+Eaton,"Hamlin Township, Precinct 1 - B",State House,65,LIB,Jason B. Rees,0
+Eaton,"City of Eaton Rapids, Precinct 1",State House,65,LIB,Jason B. Rees,0
+Eaton,"City of Eaton Rapids, Precinct 2",State House,65,LIB,Jason B. Rees,3
+Eaton,"City of Eaton Rapids, Precinct 3",State House,65,LIB,Jason B. Rees,2
+Eaton,Total,State House,65,LIB,Jason B. Rees,14
+Eaton,"Bellevue Township, Precinct 1",State House,71,REP,Christine E. Barnes,135
+Eaton,"Benton Township, Precinct 1 - A",State House,71,REP,Christine E. Barnes,64
+Eaton,"Benton Township, Precinct 1 - B",State House,71,REP,Christine E. Barnes,137
+Eaton,"Carmel Township, Precinct 1",State House,71,REP,Christine E. Barnes,172
+Eaton,"Chester Township, Precinct 1",State House,71,REP,Christine E. Barnes,146
+Eaton,"Delta Charter Township, Precinct 1",State House,71,REP,Christine E. Barnes,89
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,REP,Christine E. Barnes,106
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,REP,Christine E. Barnes,35
+Eaton,"Delta Charter Township, Precinct 3",State House,71,REP,Christine E. Barnes,57
+Eaton,"Delta Charter Township, Precinct 4",State House,71,REP,Christine E. Barnes,128
+Eaton,"Delta Charter Township, Precinct 5",State House,71,REP,Christine E. Barnes,70
+Eaton,"Delta Charter Township, Precinct 6",State House,71,REP,Christine E. Barnes,70
+Eaton,"Delta Charter Township, Precinct 7",State House,71,REP,Christine E. Barnes,41
+Eaton,"Delta Charter Township, Precinct 8",State House,71,REP,Christine E. Barnes,37
+Eaton,"Delta Charter Township, Precinct 9",State House,71,REP,Christine E. Barnes,92
+Eaton,"Delta Charter Township, Precinct 10",State House,71,REP,Christine E. Barnes,104
+Eaton,"Delta Charter Township, Precinct 11",State House,71,REP,Christine E. Barnes,51
+Eaton,"Delta Charter Township, Precinct 12",State House,71,REP,Christine E. Barnes,109
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,REP,Christine E. Barnes,80
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,REP,Christine E. Barnes,10
+Eaton,"Delta Charter Township, Precinct 14",State House,71,REP,Christine E. Barnes,81
+Eaton,"Delta Charter Township, Precinct 15",State House,71,REP,Christine E. Barnes,42
+Eaton,"Delta Charter Township, Precinct 16",State House,71,REP,Christine E. Barnes,55
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,REP,Christine E. Barnes,95
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,REP,Christine E. Barnes,84
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,REP,Christine E. Barnes,51
+Eaton,"Kalamo Township, Precinct 1",State House,71,REP,Christine E. Barnes,103
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,REP,Christine E. Barnes,195
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,REP,Christine E. Barnes,80
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,REP,Christine E. Barnes,120
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,REP,Christine E. Barnes,30
+Eaton,"Sunfield Township, Precinct 1",State House,71,REP,Christine E. Barnes,161
+Eaton,"Vermontville Township, Precinct 1",State House,71,REP,Christine E. Barnes,107
+Eaton,"Walton Township, Precinct 1",State House,71,REP,Christine E. Barnes,140
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,REP,Christine E. Barnes,137
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,REP,Christine E. Barnes,112
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,REP,Christine E. Barnes,31
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,REP,Christine E. Barnes,60
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,REP,Christine E. Barnes,95
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,REP,Christine E. Barnes,11
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,REP,Christine E. Barnes,50
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,REP,Christine E. Barnes,88
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,REP,Christine E. Barnes,113
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,REP,Christine E. Barnes,107
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,REP,Christine E. Barnes,84
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,REP,Christine E. Barnes,70
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,REP,Christine E. Barnes,53
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,REP,Christine E. Barnes,11
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,REP,Christine E. Barnes,16
+Eaton,"City of Olivet, Precinct 1",State House,71,REP,Christine E. Barnes,26
+Eaton,"City of Potterville, Precinct 1",State House,71,REP,Christine E. Barnes,106
+Eaton,Total,State House,71,REP,Christine E. Barnes,4247
+Eaton,"Bellevue Township, Precinct 1",State House,71,REP,Chuck Cascarilla,127
+Eaton,"Benton Township, Precinct 1 - A",State House,71,REP,Chuck Cascarilla,28
+Eaton,"Benton Township, Precinct 1 - B",State House,71,REP,Chuck Cascarilla,59
+Eaton,"Carmel Township, Precinct 1",State House,71,REP,Chuck Cascarilla,103
+Eaton,"Chester Township, Precinct 1",State House,71,REP,Chuck Cascarilla,49
+Eaton,"Delta Charter Township, Precinct 1",State House,71,REP,Chuck Cascarilla,152
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,REP,Chuck Cascarilla,127
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,REP,Chuck Cascarilla,26
+Eaton,"Delta Charter Township, Precinct 3",State House,71,REP,Chuck Cascarilla,32
+Eaton,"Delta Charter Township, Precinct 4",State House,71,REP,Chuck Cascarilla,174
+Eaton,"Delta Charter Township, Precinct 5",State House,71,REP,Chuck Cascarilla,107
+Eaton,"Delta Charter Township, Precinct 6",State House,71,REP,Chuck Cascarilla,156
+Eaton,"Delta Charter Township, Precinct 7",State House,71,REP,Chuck Cascarilla,38
+Eaton,"Delta Charter Township, Precinct 8",State House,71,REP,Chuck Cascarilla,33
+Eaton,"Delta Charter Township, Precinct 9",State House,71,REP,Chuck Cascarilla,80
+Eaton,"Delta Charter Township, Precinct 10",State House,71,REP,Chuck Cascarilla,74
+Eaton,"Delta Charter Township, Precinct 11",State House,71,REP,Chuck Cascarilla,39
+Eaton,"Delta Charter Township, Precinct 12",State House,71,REP,Chuck Cascarilla,123
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,REP,Chuck Cascarilla,88
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,REP,Chuck Cascarilla,5
+Eaton,"Delta Charter Township, Precinct 14",State House,71,REP,Chuck Cascarilla,80
+Eaton,"Delta Charter Township, Precinct 15",State House,71,REP,Chuck Cascarilla,56
+Eaton,"Delta Charter Township, Precinct 16",State House,71,REP,Chuck Cascarilla,46
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,REP,Chuck Cascarilla,48
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,REP,Chuck Cascarilla,76
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,REP,Chuck Cascarilla,14
+Eaton,"Kalamo Township, Precinct 1",State House,71,REP,Chuck Cascarilla,46
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,REP,Chuck Cascarilla,95
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,REP,Chuck Cascarilla,55
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,REP,Chuck Cascarilla,31
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,REP,Chuck Cascarilla,9
+Eaton,"Sunfield Township, Precinct 1",State House,71,REP,Chuck Cascarilla,38
+Eaton,"Vermontville Township, Precinct 1",State House,71,REP,Chuck Cascarilla,52
+Eaton,"Walton Township, Precinct 1",State House,71,REP,Chuck Cascarilla,80
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,REP,Chuck Cascarilla,77
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,REP,Chuck Cascarilla,94
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,REP,Chuck Cascarilla,19
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,REP,Chuck Cascarilla,58
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,REP,Chuck Cascarilla,52
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,REP,Chuck Cascarilla,16
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,REP,Chuck Cascarilla,56
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,REP,Chuck Cascarilla,73
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,REP,Chuck Cascarilla,59
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,REP,Chuck Cascarilla,50
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,REP,Chuck Cascarilla,42
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,REP,Chuck Cascarilla,46
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,REP,Chuck Cascarilla,82
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,REP,Chuck Cascarilla,5
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,REP,Chuck Cascarilla,9
+Eaton,"City of Olivet, Precinct 1",State House,71,REP,Chuck Cascarilla,28
+Eaton,"City of Potterville, Precinct 1",State House,71,REP,Chuck Cascarilla,42
+Eaton,Total,State House,71,REP,Chuck Cascarilla,3154
+Eaton,"Bellevue Township, Precinct 1",State House,71,REP,Chris Stewart,74
+Eaton,"Benton Township, Precinct 1 - A",State House,71,REP,Chris Stewart,18
+Eaton,"Benton Township, Precinct 1 - B",State House,71,REP,Chris Stewart,65
+Eaton,"Carmel Township, Precinct 1",State House,71,REP,Chris Stewart,93
+Eaton,"Chester Township, Precinct 1",State House,71,REP,Chris Stewart,80
+Eaton,"Delta Charter Township, Precinct 1",State House,71,REP,Chris Stewart,34
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,REP,Chris Stewart,44
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,REP,Chris Stewart,15
+Eaton,"Delta Charter Township, Precinct 3",State House,71,REP,Chris Stewart,24
+Eaton,"Delta Charter Township, Precinct 4",State House,71,REP,Chris Stewart,50
+Eaton,"Delta Charter Township, Precinct 5",State House,71,REP,Chris Stewart,24
+Eaton,"Delta Charter Township, Precinct 6",State House,71,REP,Chris Stewart,42
+Eaton,"Delta Charter Township, Precinct 7",State House,71,REP,Chris Stewart,19
+Eaton,"Delta Charter Township, Precinct 8",State House,71,REP,Chris Stewart,25
+Eaton,"Delta Charter Township, Precinct 9",State House,71,REP,Chris Stewart,40
+Eaton,"Delta Charter Township, Precinct 10",State House,71,REP,Chris Stewart,51
+Eaton,"Delta Charter Township, Precinct 11",State House,71,REP,Chris Stewart,21
+Eaton,"Delta Charter Township, Precinct 12",State House,71,REP,Chris Stewart,50
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,REP,Chris Stewart,32
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,REP,Chris Stewart,1
+Eaton,"Delta Charter Township, Precinct 14",State House,71,REP,Chris Stewart,42
+Eaton,"Delta Charter Township, Precinct 15",State House,71,REP,Chris Stewart,41
+Eaton,"Delta Charter Township, Precinct 16",State House,71,REP,Chris Stewart,26
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,REP,Chris Stewart,57
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,REP,Chris Stewart,56
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,REP,Chris Stewart,27
+Eaton,"Kalamo Township, Precinct 1",State House,71,REP,Chris Stewart,51
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,REP,Chris Stewart,95
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,REP,Chris Stewart,32
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,REP,Chris Stewart,39
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,REP,Chris Stewart,16
+Eaton,"Sunfield Township, Precinct 1",State House,71,REP,Chris Stewart,73
+Eaton,"Vermontville Township, Precinct 1",State House,71,REP,Chris Stewart,92
+Eaton,"Walton Township, Precinct 1",State House,71,REP,Chris Stewart,65
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,REP,Chris Stewart,71
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,REP,Chris Stewart,82
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,REP,Chris Stewart,19
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,REP,Chris Stewart,37
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,REP,Chris Stewart,69
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,REP,Chris Stewart,11
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,REP,Chris Stewart,28
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,REP,Chris Stewart,50
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,REP,Chris Stewart,52
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,REP,Chris Stewart,42
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,REP,Chris Stewart,60
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,REP,Chris Stewart,42
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,REP,Chris Stewart,20
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,REP,Chris Stewart,2
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,REP,Chris Stewart,18
+Eaton,"City of Olivet, Precinct 1",State House,71,REP,Chris Stewart,35
+Eaton,"City of Potterville, Precinct 1",State House,71,REP,Chris Stewart,63
+Eaton,Total,State House,71,REP,Chris Stewart,2215
+Eaton,"Bellevue Township, Precinct 1",State House,71,REP,Clarisa Trevino,13
+Eaton,"Benton Township, Precinct 1 - A",State House,71,REP,Clarisa Trevino,4
+Eaton,"Benton Township, Precinct 1 - B",State House,71,REP,Clarisa Trevino,14
+Eaton,"Carmel Township, Precinct 1",State House,71,REP,Clarisa Trevino,19
+Eaton,"Chester Township, Precinct 1",State House,71,REP,Clarisa Trevino,8
+Eaton,"Delta Charter Township, Precinct 1",State House,71,REP,Clarisa Trevino,3
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,REP,Clarisa Trevino,15
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,REP,Clarisa Trevino,6
+Eaton,"Delta Charter Township, Precinct 3",State House,71,REP,Clarisa Trevino,4
+Eaton,"Delta Charter Township, Precinct 4",State House,71,REP,Clarisa Trevino,16
+Eaton,"Delta Charter Township, Precinct 5",State House,71,REP,Clarisa Trevino,4
+Eaton,"Delta Charter Township, Precinct 6",State House,71,REP,Clarisa Trevino,9
+Eaton,"Delta Charter Township, Precinct 7",State House,71,REP,Clarisa Trevino,10
+Eaton,"Delta Charter Township, Precinct 8",State House,71,REP,Clarisa Trevino,11
+Eaton,"Delta Charter Township, Precinct 9",State House,71,REP,Clarisa Trevino,10
+Eaton,"Delta Charter Township, Precinct 10",State House,71,REP,Clarisa Trevino,12
+Eaton,"Delta Charter Township, Precinct 11",State House,71,REP,Clarisa Trevino,6
+Eaton,"Delta Charter Township, Precinct 12",State House,71,REP,Clarisa Trevino,17
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,REP,Clarisa Trevino,7
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,REP,Clarisa Trevino,0
+Eaton,"Delta Charter Township, Precinct 14",State House,71,REP,Clarisa Trevino,8
+Eaton,"Delta Charter Township, Precinct 15",State House,71,REP,Clarisa Trevino,6
+Eaton,"Delta Charter Township, Precinct 16",State House,71,REP,Clarisa Trevino,14
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,REP,Clarisa Trevino,15
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,REP,Clarisa Trevino,11
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,REP,Clarisa Trevino,7
+Eaton,"Kalamo Township, Precinct 1",State House,71,REP,Clarisa Trevino,18
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,REP,Clarisa Trevino,9
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,REP,Clarisa Trevino,8
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,REP,Clarisa Trevino,2
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,REP,Clarisa Trevino,2
+Eaton,"Sunfield Township, Precinct 1",State House,71,REP,Clarisa Trevino,10
+Eaton,"Vermontville Township, Precinct 1",State House,71,REP,Clarisa Trevino,18
+Eaton,"Walton Township, Precinct 1",State House,71,REP,Clarisa Trevino,16
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,REP,Clarisa Trevino,20
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,REP,Clarisa Trevino,18
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,REP,Clarisa Trevino,2
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,REP,Clarisa Trevino,14
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,REP,Clarisa Trevino,13
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,REP,Clarisa Trevino,1
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,REP,Clarisa Trevino,6
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,REP,Clarisa Trevino,13
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,REP,Clarisa Trevino,5
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,REP,Clarisa Trevino,10
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,REP,Clarisa Trevino,11
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,REP,Clarisa Trevino,1
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,REP,Clarisa Trevino,7
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,REP,Clarisa Trevino,2
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,REP,Clarisa Trevino,5
+Eaton,"City of Olivet, Precinct 1",State House,71,REP,Clarisa Trevino,5
+Eaton,"City of Potterville, Precinct 1",State House,71,REP,Clarisa Trevino,16
+Eaton,Total,State House,71,REP,Clarisa Trevino,481
+Eaton,"Bellevue Township, Precinct 1",State House,71,DEM,Beth Bowen,65
+Eaton,"Benton Township, Precinct 1 - A",State House,71,DEM,Beth Bowen,36
+Eaton,"Benton Township, Precinct 1 - B",State House,71,DEM,Beth Bowen,54
+Eaton,"Carmel Township, Precinct 1",State House,71,DEM,Beth Bowen,113
+Eaton,"Chester Township, Precinct 1",State House,71,DEM,Beth Bowen,62
+Eaton,"Delta Charter Township, Precinct 1",State House,71,DEM,Beth Bowen,94
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,DEM,Beth Bowen,89
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,DEM,Beth Bowen,34
+Eaton,"Delta Charter Township, Precinct 3",State House,71,DEM,Beth Bowen,80
+Eaton,"Delta Charter Township, Precinct 4",State House,71,DEM,Beth Bowen,80
+Eaton,"Delta Charter Township, Precinct 5",State House,71,DEM,Beth Bowen,89
+Eaton,"Delta Charter Township, Precinct 6",State House,71,DEM,Beth Bowen,114
+Eaton,"Delta Charter Township, Precinct 7",State House,71,DEM,Beth Bowen,68
+Eaton,"Delta Charter Township, Precinct 8",State House,71,DEM,Beth Bowen,68
+Eaton,"Delta Charter Township, Precinct 9",State House,71,DEM,Beth Bowen,65
+Eaton,"Delta Charter Township, Precinct 10",State House,71,DEM,Beth Bowen,110
+Eaton,"Delta Charter Township, Precinct 11",State House,71,DEM,Beth Bowen,52
+Eaton,"Delta Charter Township, Precinct 12",State House,71,DEM,Beth Bowen,99
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,DEM,Beth Bowen,60
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,DEM,Beth Bowen,6
+Eaton,"Delta Charter Township, Precinct 14",State House,71,DEM,Beth Bowen,112
+Eaton,"Delta Charter Township, Precinct 15",State House,71,DEM,Beth Bowen,70
+Eaton,"Delta Charter Township, Precinct 16",State House,71,DEM,Beth Bowen,72
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,DEM,Beth Bowen,50
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,DEM,Beth Bowen,72
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,DEM,Beth Bowen,29
+Eaton,"Kalamo Township, Precinct 1",State House,71,DEM,Beth Bowen,42
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,DEM,Beth Bowen,108
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,DEM,Beth Bowen,41
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,DEM,Beth Bowen,44
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,DEM,Beth Bowen,6
+Eaton,"Sunfield Township, Precinct 1",State House,71,DEM,Beth Bowen,57
+Eaton,"Vermontville Township, Precinct 1",State House,71,DEM,Beth Bowen,41
+Eaton,"Walton Township, Precinct 1",State House,71,DEM,Beth Bowen,51
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,DEM,Beth Bowen,109
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,DEM,Beth Bowen,159
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,DEM,Beth Bowen,50
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,DEM,Beth Bowen,74
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,DEM,Beth Bowen,74
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,DEM,Beth Bowen,16
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,DEM,Beth Bowen,72
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,DEM,Beth Bowen,62
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,DEM,Beth Bowen,81
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,DEM,Beth Bowen,97
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,DEM,Beth Bowen,71
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,DEM,Beth Bowen,75
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,DEM,Beth Bowen,51
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,DEM,Beth Bowen,52
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,DEM,Beth Bowen,95
+Eaton,"City of Olivet, Precinct 1",State House,71,DEM,Beth Bowen,30
+Eaton,"City of Potterville, Precinct 1",State House,71,DEM,Beth Bowen,62
+Eaton,Total,State House,71,DEM,Beth Bowen,3463
+Eaton,"Bellevue Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,17
+Eaton,"Benton Township, Precinct 1 - A",State House,71,DEM,Dominic Michael Natoli,8
+Eaton,"Benton Township, Precinct 1 - B",State House,71,DEM,Dominic Michael Natoli,12
+Eaton,"Carmel Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,13
+Eaton,"Chester Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,6
+Eaton,"Delta Charter Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,19
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,DEM,Dominic Michael Natoli,10
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,DEM,Dominic Michael Natoli,19
+Eaton,"Delta Charter Township, Precinct 3",State House,71,DEM,Dominic Michael Natoli,16
+Eaton,"Delta Charter Township, Precinct 4",State House,71,DEM,Dominic Michael Natoli,27
+Eaton,"Delta Charter Township, Precinct 5",State House,71,DEM,Dominic Michael Natoli,19
+Eaton,"Delta Charter Township, Precinct 6",State House,71,DEM,Dominic Michael Natoli,28
+Eaton,"Delta Charter Township, Precinct 7",State House,71,DEM,Dominic Michael Natoli,16
+Eaton,"Delta Charter Township, Precinct 8",State House,71,DEM,Dominic Michael Natoli,30
+Eaton,"Delta Charter Township, Precinct 9",State House,71,DEM,Dominic Michael Natoli,22
+Eaton,"Delta Charter Township, Precinct 10",State House,71,DEM,Dominic Michael Natoli,23
+Eaton,"Delta Charter Township, Precinct 11",State House,71,DEM,Dominic Michael Natoli,18
+Eaton,"Delta Charter Township, Precinct 12",State House,71,DEM,Dominic Michael Natoli,15
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,DEM,Dominic Michael Natoli,12
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,DEM,Dominic Michael Natoli,6
+Eaton,"Delta Charter Township, Precinct 14",State House,71,DEM,Dominic Michael Natoli,28
+Eaton,"Delta Charter Township, Precinct 15",State House,71,DEM,Dominic Michael Natoli,20
+Eaton,"Delta Charter Township, Precinct 16",State House,71,DEM,Dominic Michael Natoli,11
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,8
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,DEM,Dominic Michael Natoli,15
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,DEM,Dominic Michael Natoli,5
+Eaton,"Kalamo Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,12
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,17
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,DEM,Dominic Michael Natoli,4
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,DEM,Dominic Michael Natoli,11
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,DEM,Dominic Michael Natoli,6
+Eaton,"Sunfield Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,16
+Eaton,"Vermontville Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,13
+Eaton,"Walton Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,13
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,DEM,Dominic Michael Natoli,23
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,DEM,Dominic Michael Natoli,16
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,DEM,Dominic Michael Natoli,5
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,DEM,Dominic Michael Natoli,13
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,DEM,Dominic Michael Natoli,17
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,DEM,Dominic Michael Natoli,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,DEM,Dominic Michael Natoli,5
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,DEM,Dominic Michael Natoli,18
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,DEM,Dominic Michael Natoli,17
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,DEM,Dominic Michael Natoli,16
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,DEM,Dominic Michael Natoli,13
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,DEM,Dominic Michael Natoli,14
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,DEM,Dominic Michael Natoli,7
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,DEM,Dominic Michael Natoli,19
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,DEM,Dominic Michael Natoli,42
+Eaton,"City of Olivet, Precinct 1",State House,71,DEM,Dominic Michael Natoli,2
+Eaton,"City of Potterville, Precinct 1",State House,71,DEM,Dominic Michael Natoli,22
+Eaton,Total,State House,71,DEM,Dominic Michael Natoli,764
+Eaton,"Bellevue Township, Precinct 1",State House,71,DEM,Angela Witwer,78
+Eaton,"Benton Township, Precinct 1 - A",State House,71,DEM,Angela Witwer,53
+Eaton,"Benton Township, Precinct 1 - B",State House,71,DEM,Angela Witwer,103
+Eaton,"Carmel Township, Precinct 1",State House,71,DEM,Angela Witwer,103
+Eaton,"Chester Township, Precinct 1",State House,71,DEM,Angela Witwer,54
+Eaton,"Delta Charter Township, Precinct 1",State House,71,DEM,Angela Witwer,229
+Eaton,"Delta Charter Township, Precinct 2 - A",State House,71,DEM,Angela Witwer,175
+Eaton,"Delta Charter Township, Precinct 2 - B",State House,71,DEM,Angela Witwer,94
+Eaton,"Delta Charter Township, Precinct 3",State House,71,DEM,Angela Witwer,141
+Eaton,"Delta Charter Township, Precinct 4",State House,71,DEM,Angela Witwer,313
+Eaton,"Delta Charter Township, Precinct 5",State House,71,DEM,Angela Witwer,280
+Eaton,"Delta Charter Township, Precinct 6",State House,71,DEM,Angela Witwer,283
+Eaton,"Delta Charter Township, Precinct 7",State House,71,DEM,Angela Witwer,183
+Eaton,"Delta Charter Township, Precinct 8",State House,71,DEM,Angela Witwer,174
+Eaton,"Delta Charter Township, Precinct 9",State House,71,DEM,Angela Witwer,233
+Eaton,"Delta Charter Township, Precinct 10",State House,71,DEM,Angela Witwer,220
+Eaton,"Delta Charter Township, Precinct 11",State House,71,DEM,Angela Witwer,95
+Eaton,"Delta Charter Township, Precinct 12",State House,71,DEM,Angela Witwer,189
+Eaton,"Delta Charter Township, Precinct 13 - A",State House,71,DEM,Angela Witwer,128
+Eaton,"Delta Charter Township, Precinct 13 - B",State House,71,DEM,Angela Witwer,13
+Eaton,"Delta Charter Township, Precinct 14",State House,71,DEM,Angela Witwer,242
+Eaton,"Delta Charter Township, Precinct 15",State House,71,DEM,Angela Witwer,207
+Eaton,"Delta Charter Township, Precinct 16",State House,71,DEM,Angela Witwer,121
+Eaton,"Eaton Rapids Township, Precinct 1",State House,71,DEM,Angela Witwer,79
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State House,71,DEM,Angela Witwer,67
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State House,71,DEM,Angela Witwer,32
+Eaton,"Kalamo Township, Precinct 1",State House,71,DEM,Angela Witwer,62
+Eaton,"Oneida Charter Township, Precinct 1",State House,71,DEM,Angela Witwer,147
+Eaton,"Oneida Charter Township, Precinct 2",State House,71,DEM,Angela Witwer,101
+Eaton,"Roxand Township, Precinct 1 - A",State House,71,DEM,Angela Witwer,60
+Eaton,"Roxand Township, Precinct 1 - B",State House,71,DEM,Angela Witwer,10
+Eaton,"Sunfield Township, Precinct 1",State House,71,DEM,Angela Witwer,87
+Eaton,"Vermontville Township, Precinct 1",State House,71,DEM,Angela Witwer,71
+Eaton,"Walton Township, Precinct 1",State House,71,DEM,Angela Witwer,72
+Eaton,"Windsor Charter Township, Precinct 1",State House,71,DEM,Angela Witwer,120
+Eaton,"Windsor Charter Township, Precinct 2",State House,71,DEM,Angela Witwer,176
+Eaton,"Windsor Charter Township, Precinct 3 - A",State House,71,DEM,Angela Witwer,40
+Eaton,"Windsor Charter Township, Precinct 3 - B",State House,71,DEM,Angela Witwer,132
+Eaton,"City of Charlotte, District 1 Precinct 1",State House,71,DEM,Angela Witwer,123
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State House,71,DEM,Angela Witwer,21
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State House,71,DEM,Angela Witwer,76
+Eaton,"City of Charlotte, District 2 Precinct 1",State House,71,DEM,Angela Witwer,102
+Eaton,"City of Charlotte, District 2 Precinct 2",State House,71,DEM,Angela Witwer,102
+Eaton,"City of Grand Ledge, Precinct 1",State House,71,DEM,Angela Witwer,167
+Eaton,"City of Grand Ledge, Precinct 2",State House,71,DEM,Angela Witwer,154
+Eaton,"City of Grand Ledge, Precinct 3",State House,71,DEM,Angela Witwer,127
+Eaton,"City of Grand Ledge, Precinct 4",State House,71,DEM,Angela Witwer,119
+Eaton,"City of Lansing, Ward 3 Precinct 22",State House,71,DEM,Angela Witwer,68
+Eaton,"City of Lansing, Ward 3 Precinct 23",State House,71,DEM,Angela Witwer,209
+Eaton,"City of Olivet, Precinct 1",State House,71,DEM,Angela Witwer,30
+Eaton,"City of Potterville, Precinct 1",State House,71,DEM,Angela Witwer,99
+Eaton,Total,State House,71,DEM,Angela Witwer,6364
+Eaton,"Bellevue Township, Precinct 1",State Senate,24,REP,Tom Barrett,278
+Eaton,"Benton Township, Precinct 1 - A",State Senate,24,REP,Tom Barrett,98
+Eaton,"Benton Township, Precinct 1 - B",State Senate,24,REP,Tom Barrett,211
+Eaton,"Brookfield Township, Precinct 1",State Senate,24,REP,Tom Barrett,85
+Eaton,"Carmel Township, Precinct 1",State Senate,24,REP,Tom Barrett,292
+Eaton,"Chester Township, Precinct 1",State Senate,24,REP,Tom Barrett,210
+Eaton,"Delta Charter Township, Precinct 1",State Senate,24,REP,Tom Barrett,255
+Eaton,"Delta Charter Township, Precinct 2 - A",State Senate,24,REP,Tom Barrett,245
+Eaton,"Delta Charter Township, Precinct 2 - B",State Senate,24,REP,Tom Barrett,71
+Eaton,"Delta Charter Township, Precinct 3",State Senate,24,REP,Tom Barrett,102
+Eaton,"Delta Charter Township, Precinct 4",State Senate,24,REP,Tom Barrett,331
+Eaton,"Delta Charter Township, Precinct 5",State Senate,24,REP,Tom Barrett,170
+Eaton,"Delta Charter Township, Precinct 6",State Senate,24,REP,Tom Barrett,247
+Eaton,"Delta Charter Township, Precinct 7",State Senate,24,REP,Tom Barrett,94
+Eaton,"Delta Charter Township, Precinct 8",State Senate,24,REP,Tom Barrett,100
+Eaton,"Delta Charter Township, Precinct 9",State Senate,24,REP,Tom Barrett,186
+Eaton,"Delta Charter Township, Precinct 10",State Senate,24,REP,Tom Barrett,197
+Eaton,"Delta Charter Township, Precinct 11",State Senate,24,REP,Tom Barrett,104
+Eaton,"Delta Charter Township, Precinct 12",State Senate,24,REP,Tom Barrett,263
+Eaton,"Delta Charter Township, Precinct 13 - A",State Senate,24,REP,Tom Barrett,195
+Eaton,"Delta Charter Township, Precinct 13 - B",State Senate,24,REP,Tom Barrett,17
+Eaton,"Delta Charter Township, Precinct 14",State Senate,24,REP,Tom Barrett,170
+Eaton,"Delta Charter Township, Precinct 15",State Senate,24,REP,Tom Barrett,126
+Eaton,"Delta Charter Township, Precinct 16",State Senate,24,REP,Tom Barrett,126
+Eaton,"Eaton Township, Precinct 1",State Senate,24,REP,Tom Barrett,260
+Eaton,"Eaton Township, Precinct 2",State Senate,24,REP,Tom Barrett,61
+Eaton,"Eaton Rapids Township, Precinct 1",State Senate,24,REP,Tom Barrett,148
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State Senate,24,REP,Tom Barrett,182
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State Senate,24,REP,Tom Barrett,75
+Eaton,"Hamlin Township, Precinct 1 - A",State Senate,24,REP,Tom Barrett,79
+Eaton,"Hamlin Township, Precinct 1 - B",State Senate,24,REP,Tom Barrett,102
+Eaton,"Kalamo Township, Precinct 1",State Senate,24,REP,Tom Barrett,164
+Eaton,"Oneida Charter Township, Precinct 1",State Senate,24,REP,Tom Barrett,324
+Eaton,"Oneida Charter Township, Precinct 2",State Senate,24,REP,Tom Barrett,155
+Eaton,"Roxand Township, Precinct 1 - A",State Senate,24,REP,Tom Barrett,148
+Eaton,"Roxand Township, Precinct 1 - B",State Senate,24,REP,Tom Barrett,40
+Eaton,"Sunfield Township, Precinct 1",State Senate,24,REP,Tom Barrett,214
+Eaton,"Vermontville Township, Precinct 1",State Senate,24,REP,Tom Barrett,207
+Eaton,"Walton Township, Precinct 1",State Senate,24,REP,Tom Barrett,230
+Eaton,"Windsor Charter Township, Precinct 1",State Senate,24,REP,Tom Barrett,265
+Eaton,"Windsor Charter Township, Precinct 2",State Senate,24,REP,Tom Barrett,281
+Eaton,"Windsor Charter Township, Precinct 3 - A",State Senate,24,REP,Tom Barrett,75
+Eaton,"Windsor Charter Township, Precinct 3 - B",State Senate,24,REP,Tom Barrett,146
+Eaton,"City of Charlotte, District 1 Precinct 1",State Senate,24,REP,Tom Barrett,192
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State Senate,24,REP,Tom Barrett,25
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State Senate,24,REP,Tom Barrett,130
+Eaton,"City of Charlotte, District 2 Precinct 1",State Senate,24,REP,Tom Barrett,208
+Eaton,"City of Charlotte, District 2 Precinct 2",State Senate,24,REP,Tom Barrett,197
+Eaton,"City of Eaton Rapids, Precinct 1",State Senate,24,REP,Tom Barrett,71
+Eaton,"City of Eaton Rapids, Precinct 2",State Senate,24,REP,Tom Barrett,61
+Eaton,"City of Eaton Rapids, Precinct 3",State Senate,24,REP,Tom Barrett,105
+Eaton,"City of Grand Ledge, Precinct 1",State Senate,24,REP,Tom Barrett,202
+Eaton,"City of Grand Ledge, Precinct 2",State Senate,24,REP,Tom Barrett,170
+Eaton,"City of Grand Ledge, Precinct 3",State Senate,24,REP,Tom Barrett,151
+Eaton,"City of Grand Ledge, Precinct 4",State Senate,24,REP,Tom Barrett,143
+Eaton,"City of Lansing, Ward 3 Precinct 22",State Senate,24,REP,Tom Barrett,20
+Eaton,"City of Lansing, Ward 3 Precinct 23",State Senate,24,REP,Tom Barrett,34
+Eaton,"City of Olivet, Precinct 1",State Senate,24,REP,Tom Barrett,79
+Eaton,"City of Potterville, Precinct 1",State Senate,24,REP,Tom Barrett,197
+Eaton,Total,State Senate,24,REP,Tom Barrett,9314
+Eaton,"Bellevue Township, Precinct 1",State Senate,24,REP,Brett Roberts,103
+Eaton,"Benton Township, Precinct 1 - A",State Senate,24,REP,Brett Roberts,27
+Eaton,"Benton Township, Precinct 1 - B",State Senate,24,REP,Brett Roberts,88
+Eaton,"Brookfield Township, Precinct 1",State Senate,24,REP,Brett Roberts,115
+Eaton,"Carmel Township, Precinct 1",State Senate,24,REP,Brett Roberts,139
+Eaton,"Chester Township, Precinct 1",State Senate,24,REP,Brett Roberts,90
+Eaton,"Delta Charter Township, Precinct 1",State Senate,24,REP,Brett Roberts,35
+Eaton,"Delta Charter Township, Precinct 2 - A",State Senate,24,REP,Brett Roberts,59
+Eaton,"Delta Charter Township, Precinct 2 - B",State Senate,24,REP,Brett Roberts,19
+Eaton,"Delta Charter Township, Precinct 3",State Senate,24,REP,Brett Roberts,23
+Eaton,"Delta Charter Township, Precinct 4",State Senate,24,REP,Brett Roberts,72
+Eaton,"Delta Charter Township, Precinct 5",State Senate,24,REP,Brett Roberts,51
+Eaton,"Delta Charter Township, Precinct 6",State Senate,24,REP,Brett Roberts,53
+Eaton,"Delta Charter Township, Precinct 7",State Senate,24,REP,Brett Roberts,19
+Eaton,"Delta Charter Township, Precinct 8",State Senate,24,REP,Brett Roberts,19
+Eaton,"Delta Charter Township, Precinct 9",State Senate,24,REP,Brett Roberts,50
+Eaton,"Delta Charter Township, Precinct 10",State Senate,24,REP,Brett Roberts,55
+Eaton,"Delta Charter Township, Precinct 11",State Senate,24,REP,Brett Roberts,27
+Eaton,"Delta Charter Township, Precinct 12",State Senate,24,REP,Brett Roberts,61
+Eaton,"Delta Charter Township, Precinct 13 - A",State Senate,24,REP,Brett Roberts,37
+Eaton,"Delta Charter Township, Precinct 13 - B",State Senate,24,REP,Brett Roberts,1
+Eaton,"Delta Charter Township, Precinct 14",State Senate,24,REP,Brett Roberts,47
+Eaton,"Delta Charter Township, Precinct 15",State Senate,24,REP,Brett Roberts,25
+Eaton,"Delta Charter Township, Precinct 16",State Senate,24,REP,Brett Roberts,27
+Eaton,"Eaton Township, Precinct 1",State Senate,24,REP,Brett Roberts,274
+Eaton,"Eaton Township, Precinct 2",State Senate,24,REP,Brett Roberts,89
+Eaton,"Eaton Rapids Township, Precinct 1",State Senate,24,REP,Brett Roberts,81
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State Senate,24,REP,Brett Roberts,60
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State Senate,24,REP,Brett Roberts,37
+Eaton,"Hamlin Township, Precinct 1 - A",State Senate,24,REP,Brett Roberts,117
+Eaton,"Hamlin Township, Precinct 1 - B",State Senate,24,REP,Brett Roberts,102
+Eaton,"Kalamo Township, Precinct 1",State Senate,24,REP,Brett Roberts,74
+Eaton,"Oneida Charter Township, Precinct 1",State Senate,24,REP,Brett Roberts,93
+Eaton,"Oneida Charter Township, Precinct 2",State Senate,24,REP,Brett Roberts,25
+Eaton,"Roxand Township, Precinct 1 - A",State Senate,24,REP,Brett Roberts,51
+Eaton,"Roxand Township, Precinct 1 - B",State Senate,24,REP,Brett Roberts,25
+Eaton,"Sunfield Township, Precinct 1",State Senate,24,REP,Brett Roberts,82
+Eaton,"Vermontville Township, Precinct 1",State Senate,24,REP,Brett Roberts,86
+Eaton,"Walton Township, Precinct 1",State Senate,24,REP,Brett Roberts,105
+Eaton,"Windsor Charter Township, Precinct 1",State Senate,24,REP,Brett Roberts,74
+Eaton,"Windsor Charter Township, Precinct 2",State Senate,24,REP,Brett Roberts,68
+Eaton,"Windsor Charter Township, Precinct 3 - A",State Senate,24,REP,Brett Roberts,9
+Eaton,"Windsor Charter Township, Precinct 3 - B",State Senate,24,REP,Brett Roberts,37
+Eaton,"City of Charlotte, District 1 Precinct 1",State Senate,24,REP,Brett Roberts,56
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State Senate,24,REP,Brett Roberts,16
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State Senate,24,REP,Brett Roberts,21
+Eaton,"City of Charlotte, District 2 Precinct 1",State Senate,24,REP,Brett Roberts,52
+Eaton,"City of Charlotte, District 2 Precinct 2",State Senate,24,REP,Brett Roberts,58
+Eaton,"City of Eaton Rapids, Precinct 1",State Senate,24,REP,Brett Roberts,49
+Eaton,"City of Eaton Rapids, Precinct 2",State Senate,24,REP,Brett Roberts,64
+Eaton,"City of Eaton Rapids, Precinct 3",State Senate,24,REP,Brett Roberts,77
+Eaton,"City of Grand Ledge, Precinct 1",State Senate,24,REP,Brett Roberts,26
+Eaton,"City of Grand Ledge, Precinct 2",State Senate,24,REP,Brett Roberts,31
+Eaton,"City of Grand Ledge, Precinct 3",State Senate,24,REP,Brett Roberts,22
+Eaton,"City of Grand Ledge, Precinct 4",State Senate,24,REP,Brett Roberts,33
+Eaton,"City of Lansing, Ward 3 Precinct 22",State Senate,24,REP,Brett Roberts,2
+Eaton,"City of Lansing, Ward 3 Precinct 23",State Senate,24,REP,Brett Roberts,14
+Eaton,"City of Olivet, Precinct 1",State Senate,24,REP,Brett Roberts,24
+Eaton,"City of Potterville, Precinct 1",State Senate,24,REP,Brett Roberts,46
+Eaton,Total,State Senate,24,REP,Brett Roberts,3322
+Eaton,"Bellevue Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,153
+Eaton,"Benton Township, Precinct 1 - A",State Senate,24,DEM,Kelly Rossman-McKinney,86
+Eaton,"Benton Township, Precinct 1 - B",State Senate,24,DEM,Kelly Rossman-McKinney,158
+Eaton,"Brookfield Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,84
+Eaton,"Carmel Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,210
+Eaton,"Chester Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,109
+Eaton,"Delta Charter Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,333
+Eaton,"Delta Charter Township, Precinct 2 - A",State Senate,24,DEM,Kelly Rossman-McKinney,258
+Eaton,"Delta Charter Township, Precinct 2 - B",State Senate,24,DEM,Kelly Rossman-McKinney,138
+Eaton,"Delta Charter Township, Precinct 3",State Senate,24,DEM,Kelly Rossman-McKinney,236
+Eaton,"Delta Charter Township, Precinct 4",State Senate,24,DEM,Kelly Rossman-McKinney,417
+Eaton,"Delta Charter Township, Precinct 5",State Senate,24,DEM,Kelly Rossman-McKinney,370
+Eaton,"Delta Charter Township, Precinct 6",State Senate,24,DEM,Kelly Rossman-McKinney,400
+Eaton,"Delta Charter Township, Precinct 7",State Senate,24,DEM,Kelly Rossman-McKinney,258
+Eaton,"Delta Charter Township, Precinct 8",State Senate,24,DEM,Kelly Rossman-McKinney,257
+Eaton,"Delta Charter Township, Precinct 9",State Senate,24,DEM,Kelly Rossman-McKinney,307
+Eaton,"Delta Charter Township, Precinct 10",State Senate,24,DEM,Kelly Rossman-McKinney,350
+Eaton,"Delta Charter Township, Precinct 11",State Senate,24,DEM,Kelly Rossman-McKinney,159
+Eaton,"Delta Charter Township, Precinct 12",State Senate,24,DEM,Kelly Rossman-McKinney,290
+Eaton,"Delta Charter Township, Precinct 13 - A",State Senate,24,DEM,Kelly Rossman-McKinney,189
+Eaton,"Delta Charter Township, Precinct 13 - B",State Senate,24,DEM,Kelly Rossman-McKinney,23
+Eaton,"Delta Charter Township, Precinct 14",State Senate,24,DEM,Kelly Rossman-McKinney,367
+Eaton,"Delta Charter Township, Precinct 15",State Senate,24,DEM,Kelly Rossman-McKinney,269
+Eaton,"Delta Charter Township, Precinct 16",State Senate,24,DEM,Kelly Rossman-McKinney,202
+Eaton,"Eaton Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,212
+Eaton,"Eaton Township, Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,75
+Eaton,"Eaton Rapids Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,132
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State Senate,24,DEM,Kelly Rossman-McKinney,146
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State Senate,24,DEM,Kelly Rossman-McKinney,60
+Eaton,"Hamlin Township, Precinct 1 - A",State Senate,24,DEM,Kelly Rossman-McKinney,144
+Eaton,"Hamlin Township, Precinct 1 - B",State Senate,24,DEM,Kelly Rossman-McKinney,131
+Eaton,"Kalamo Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,114
+Eaton,"Oneida Charter Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,250
+Eaton,"Oneida Charter Township, Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,136
+Eaton,"Roxand Township, Precinct 1 - A",State Senate,24,DEM,Kelly Rossman-McKinney,107
+Eaton,"Roxand Township, Precinct 1 - B",State Senate,24,DEM,Kelly Rossman-McKinney,21
+Eaton,"Sunfield Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,151
+Eaton,"Vermontville Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,102
+Eaton,"Walton Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,127
+Eaton,"Windsor Charter Township, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,245
+Eaton,"Windsor Charter Township, Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,334
+Eaton,"Windsor Charter Township, Precinct 3 - A",State Senate,24,DEM,Kelly Rossman-McKinney,88
+Eaton,"Windsor Charter Township, Precinct 3 - B",State Senate,24,DEM,Kelly Rossman-McKinney,207
+Eaton,"City of Charlotte, District 1 Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,208
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State Senate,24,DEM,Kelly Rossman-McKinney,32
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State Senate,24,DEM,Kelly Rossman-McKinney,142
+Eaton,"City of Charlotte, District 2 Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,164
+Eaton,"City of Charlotte, District 2 Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,195
+Eaton,"City of Eaton Rapids, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,102
+Eaton,"City of Eaton Rapids, Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,93
+Eaton,"City of Eaton Rapids, Precinct 3",State Senate,24,DEM,Kelly Rossman-McKinney,148
+Eaton,"City of Grand Ledge, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,265
+Eaton,"City of Grand Ledge, Precinct 2",State Senate,24,DEM,Kelly Rossman-McKinney,226
+Eaton,"City of Grand Ledge, Precinct 3",State Senate,24,DEM,Kelly Rossman-McKinney,195
+Eaton,"City of Grand Ledge, Precinct 4",State Senate,24,DEM,Kelly Rossman-McKinney,159
+Eaton,"City of Lansing, Ward 3 Precinct 22",State Senate,24,DEM,Kelly Rossman-McKinney,135
+Eaton,"City of Lansing, Ward 3 Precinct 23",State Senate,24,DEM,Kelly Rossman-McKinney,336
+Eaton,"City of Olivet, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,61
+Eaton,"City of Potterville, Precinct 1",State Senate,24,DEM,Kelly Rossman-McKinney,176
+Eaton,Total,State Senate,24,DEM,Kelly Rossman-McKinney,11042
+Eaton,"Bellevue Township, Precinct 1",State Senate,24,LIB,Katie Nepton,2
+Eaton,"Benton Township, Precinct 1 - A",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Benton Township, Precinct 1 - B",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Brookfield Township, Precinct 1",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Carmel Township, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Chester Township, Precinct 1",State Senate,24,LIB,Katie Nepton,3
+Eaton,"Delta Charter Township, Precinct 1",State Senate,24,LIB,Katie Nepton,2
+Eaton,"Delta Charter Township, Precinct 2 - A",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 2 - B",State Senate,24,LIB,Katie Nepton,3
+Eaton,"Delta Charter Township, Precinct 3",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Delta Charter Township, Precinct 4",State Senate,24,LIB,Katie Nepton,3
+Eaton,"Delta Charter Township, Precinct 5",State Senate,24,LIB,Katie Nepton,5
+Eaton,"Delta Charter Township, Precinct 6",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 7",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 8",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 9",State Senate,24,LIB,Katie Nepton,2
+Eaton,"Delta Charter Township, Precinct 10",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Delta Charter Township, Precinct 11",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 12",State Senate,24,LIB,Katie Nepton,2
+Eaton,"Delta Charter Township, Precinct 13 - A",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 13 - B",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 14",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Delta Charter Township, Precinct 15",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Delta Charter Township, Precinct 16",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Eaton Township, Precinct 1",State Senate,24,LIB,Katie Nepton,8
+Eaton,"Eaton Township, Precinct 2",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Eaton Rapids Township, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Eaton Rapids Township, Precinct 2 - A",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Eaton Rapids Township, Precinct 2 - B",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Hamlin Township, Precinct 1 - A",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Hamlin Township, Precinct 1 - B",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Kalamo Township, Precinct 1",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Oneida Charter Township, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Oneida Charter Township, Precinct 2",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Roxand Township, Precinct 1 - A",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Roxand Township, Precinct 1 - B",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Sunfield Township, Precinct 1",State Senate,24,LIB,Katie Nepton,2
+Eaton,"Vermontville Township, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Walton Township, Precinct 1",State Senate,24,LIB,Katie Nepton,0
+Eaton,"Windsor Charter Township, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Windsor Charter Township, Precinct 2",State Senate,24,LIB,Katie Nepton,3
+Eaton,"Windsor Charter Township, Precinct 3 - A",State Senate,24,LIB,Katie Nepton,1
+Eaton,"Windsor Charter Township, Precinct 3 - B",State Senate,24,LIB,Katie Nepton,1
+Eaton,"City of Charlotte, District 1 Precinct 1",State Senate,24,LIB,Katie Nepton,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",State Senate,24,LIB,Katie Nepton,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",State Senate,24,LIB,Katie Nepton,3
+Eaton,"City of Charlotte, District 2 Precinct 1",State Senate,24,LIB,Katie Nepton,4
+Eaton,"City of Charlotte, District 2 Precinct 2",State Senate,24,LIB,Katie Nepton,2
+Eaton,"City of Eaton Rapids, Precinct 1",State Senate,24,LIB,Katie Nepton,0
+Eaton,"City of Eaton Rapids, Precinct 2",State Senate,24,LIB,Katie Nepton,3
+Eaton,"City of Eaton Rapids, Precinct 3",State Senate,24,LIB,Katie Nepton,2
+Eaton,"City of Grand Ledge, Precinct 1",State Senate,24,LIB,Katie Nepton,1
+Eaton,"City of Grand Ledge, Precinct 2",State Senate,24,LIB,Katie Nepton,2
+Eaton,"City of Grand Ledge, Precinct 3",State Senate,24,LIB,Katie Nepton,2
+Eaton,"City of Grand Ledge, Precinct 4",State Senate,24,LIB,Katie Nepton,1
+Eaton,"City of Lansing, Ward 3 Precinct 22",State Senate,24,LIB,Katie Nepton,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",State Senate,24,LIB,Katie Nepton,1
+Eaton,"City of Olivet, Precinct 1",State Senate,24,LIB,Katie Nepton,3
+Eaton,"City of Potterville, Precinct 1",State Senate,24,LIB,Katie Nepton,3
+Eaton,Total,State Senate,24,LIB,Katie Nepton,80
+Eaton,"Bellevue Township, Precinct 1",U.S. House,7,REP,Tim Walberg,326
+Eaton,"Benton Township, Precinct 1 - A",U.S. House,7,REP,Tim Walberg,111
+Eaton,"Benton Township, Precinct 1 - B",U.S. House,7,REP,Tim Walberg,266
+Eaton,"Brookfield Township, Precinct 1",U.S. House,7,REP,Tim Walberg,176
+Eaton,"Carmel Township, Precinct 1",U.S. House,7,REP,Tim Walberg,370
+Eaton,"Chester Township, Precinct 1",U.S. House,7,REP,Tim Walberg,256
+Eaton,"Delta Charter Township, Precinct 1",U.S. House,7,REP,Tim Walberg,254
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. House,7,REP,Tim Walberg,263
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. House,7,REP,Tim Walberg,80
+Eaton,"Delta Charter Township, Precinct 3",U.S. House,7,REP,Tim Walberg,111
+Eaton,"Delta Charter Township, Precinct 4",U.S. House,7,REP,Tim Walberg,349
+Eaton,"Delta Charter Township, Precinct 5",U.S. House,7,REP,Tim Walberg,193
+Eaton,"Delta Charter Township, Precinct 6",U.S. House,7,REP,Tim Walberg,258
+Eaton,"Delta Charter Township, Precinct 7",U.S. House,7,REP,Tim Walberg,103
+Eaton,"Delta Charter Township, Precinct 8",U.S. House,7,REP,Tim Walberg,103
+Eaton,"Delta Charter Township, Precinct 9",U.S. House,7,REP,Tim Walberg,215
+Eaton,"Delta Charter Township, Precinct 10",U.S. House,7,REP,Tim Walberg,230
+Eaton,"Delta Charter Township, Precinct 11",U.S. House,7,REP,Tim Walberg,117
+Eaton,"Delta Charter Township, Precinct 12",U.S. House,7,REP,Tim Walberg,289
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. House,7,REP,Tim Walberg,198
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. House,7,REP,Tim Walberg,18
+Eaton,"Delta Charter Township, Precinct 14",U.S. House,7,REP,Tim Walberg,188
+Eaton,"Delta Charter Township, Precinct 15",U.S. House,7,REP,Tim Walberg,133
+Eaton,"Delta Charter Township, Precinct 16",U.S. House,7,REP,Tim Walberg,134
+Eaton,"Eaton Township, Precinct 1",U.S. House,7,REP,Tim Walberg,441
+Eaton,"Eaton Township, Precinct 2",U.S. House,7,REP,Tim Walberg,129
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. House,7,REP,Tim Walberg,197
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. House,7,REP,Tim Walberg,214
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. House,7,REP,Tim Walberg,100
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. House,7,REP,Tim Walberg,164
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. House,7,REP,Tim Walberg,172
+Eaton,"Kalamo Township, Precinct 1",U.S. House,7,REP,Tim Walberg,201
+Eaton,"Oneida Charter Township, Precinct 1",U.S. House,7,REP,Tim Walberg,354
+Eaton,"Oneida Charter Township, Precinct 2",U.S. House,7,REP,Tim Walberg,158
+Eaton,"Roxand Township, Precinct 1 - A",U.S. House,7,REP,Tim Walberg,178
+Eaton,"Roxand Township, Precinct 1 - B",U.S. House,7,REP,Tim Walberg,55
+Eaton,"Sunfield Township, Precinct 1",U.S. House,7,REP,Tim Walberg,250
+Eaton,"Vermontville Township, Precinct 1",U.S. House,7,REP,Tim Walberg,258
+Eaton,"Walton Township, Precinct 1",U.S. House,7,REP,Tim Walberg,290
+Eaton,"Windsor Charter Township, Precinct 1",U.S. House,7,REP,Tim Walberg,291
+Eaton,"Windsor Charter Township, Precinct 2",U.S. House,7,REP,Tim Walberg,298
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. House,7,REP,Tim Walberg,76
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. House,7,REP,Tim Walberg,157
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. House,7,REP,Tim Walberg,206
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. House,7,REP,Tim Walberg,32
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. House,7,REP,Tim Walberg,127
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. House,7,REP,Tim Walberg,219
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. House,7,REP,Tim Walberg,217
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. House,7,REP,Tim Walberg,98
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. House,7,REP,Tim Walberg,114
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. House,7,REP,Tim Walberg,154
+Eaton,"City of Grand Ledge, Precinct 1",U.S. House,7,REP,Tim Walberg,193
+Eaton,"City of Grand Ledge, Precinct 2",U.S. House,7,REP,Tim Walberg,182
+Eaton,"City of Grand Ledge, Precinct 3",U.S. House,7,REP,Tim Walberg,147
+Eaton,"City of Grand Ledge, Precinct 4",U.S. House,7,REP,Tim Walberg,147
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. House,7,REP,Tim Walberg,19
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. House,7,REP,Tim Walberg,40
+Eaton,"City of Olivet, Precinct 1",U.S. House,7,REP,Tim Walberg,87
+Eaton,"City of Potterville, Precinct 1",U.S. House,7,REP,Tim Walberg,217
+Eaton,Total,U.S. House,7,REP,Tim Walberg,10923
+Eaton,"Bellevue Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,146
+Eaton,"Benton Township, Precinct 1 - A",U.S. House,7,DEM,Gretchen Driskell,93
+Eaton,"Benton Township, Precinct 1 - B",U.S. House,7,DEM,Gretchen Driskell,155
+Eaton,"Brookfield Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,75
+Eaton,"Carmel Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,206
+Eaton,"Chester Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,107
+Eaton,"Delta Charter Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,310
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. House,7,DEM,Gretchen Driskell,256
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. House,7,DEM,Gretchen Driskell,127
+Eaton,"Delta Charter Township, Precinct 3",U.S. House,7,DEM,Gretchen Driskell,204
+Eaton,"Delta Charter Township, Precinct 4",U.S. House,7,DEM,Gretchen Driskell,393
+Eaton,"Delta Charter Township, Precinct 5",U.S. House,7,DEM,Gretchen Driskell,336
+Eaton,"Delta Charter Township, Precinct 6",U.S. House,7,DEM,Gretchen Driskell,387
+Eaton,"Delta Charter Township, Precinct 7",U.S. House,7,DEM,Gretchen Driskell,241
+Eaton,"Delta Charter Township, Precinct 8",U.S. House,7,DEM,Gretchen Driskell,240
+Eaton,"Delta Charter Township, Precinct 9",U.S. House,7,DEM,Gretchen Driskell,284
+Eaton,"Delta Charter Township, Precinct 10",U.S. House,7,DEM,Gretchen Driskell,319
+Eaton,"Delta Charter Township, Precinct 11",U.S. House,7,DEM,Gretchen Driskell,140
+Eaton,"Delta Charter Township, Precinct 12",U.S. House,7,DEM,Gretchen Driskell,280
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. House,7,DEM,Gretchen Driskell,178
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. House,7,DEM,Gretchen Driskell,20
+Eaton,"Delta Charter Township, Precinct 14",U.S. House,7,DEM,Gretchen Driskell,331
+Eaton,"Delta Charter Township, Precinct 15",U.S. House,7,DEM,Gretchen Driskell,256
+Eaton,"Delta Charter Township, Precinct 16",U.S. House,7,DEM,Gretchen Driskell,181
+Eaton,"Eaton Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,200
+Eaton,"Eaton Township, Precinct 2",U.S. House,7,DEM,Gretchen Driskell,63
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,126
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. House,7,DEM,Gretchen Driskell,141
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. House,7,DEM,Gretchen Driskell,60
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. House,7,DEM,Gretchen Driskell,135
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. House,7,DEM,Gretchen Driskell,119
+Eaton,"Kalamo Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,111
+Eaton,"Oneida Charter Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,253
+Eaton,"Oneida Charter Township, Precinct 2",U.S. House,7,DEM,Gretchen Driskell,143
+Eaton,"Roxand Township, Precinct 1 - A",U.S. House,7,DEM,Gretchen Driskell,98
+Eaton,"Roxand Township, Precinct 1 - B",U.S. House,7,DEM,Gretchen Driskell,21
+Eaton,"Sunfield Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,140
+Eaton,"Vermontville Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,110
+Eaton,"Walton Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,119
+Eaton,"Windsor Charter Township, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,219
+Eaton,"Windsor Charter Township, Precinct 2",U.S. House,7,DEM,Gretchen Driskell,313
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. House,7,DEM,Gretchen Driskell,86
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. House,7,DEM,Gretchen Driskell,194
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. House,7,DEM,Gretchen Driskell,194
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. House,7,DEM,Gretchen Driskell,30
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. House,7,DEM,Gretchen Driskell,135
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. House,7,DEM,Gretchen Driskell,152
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. House,7,DEM,Gretchen Driskell,183
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,85
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. House,7,DEM,Gretchen Driskell,81
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. House,7,DEM,Gretchen Driskell,133
+Eaton,"City of Grand Ledge, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,245
+Eaton,"City of Grand Ledge, Precinct 2",U.S. House,7,DEM,Gretchen Driskell,214
+Eaton,"City of Grand Ledge, Precinct 3",U.S. House,7,DEM,Gretchen Driskell,196
+Eaton,"City of Grand Ledge, Precinct 4",U.S. House,7,DEM,Gretchen Driskell,157
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. House,7,DEM,Gretchen Driskell,124
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. House,7,DEM,Gretchen Driskell,298
+Eaton,"City of Olivet, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,58
+Eaton,"City of Potterville, Precinct 1",U.S. House,7,DEM,Gretchen Driskell,170
+Eaton,Total,U.S. House,7,DEM,Gretchen Driskell,10371
+Eaton,"Bellevue Township, Precinct 1",U.S. House,7,DEM,Steven Friday,21
+Eaton,"Benton Township, Precinct 1 - A",U.S. House,7,DEM,Steven Friday,8
+Eaton,"Benton Township, Precinct 1 - B",U.S. House,7,DEM,Steven Friday,19
+Eaton,"Brookfield Township, Precinct 1",U.S. House,7,DEM,Steven Friday,17
+Eaton,"Carmel Township, Precinct 1",U.S. House,7,DEM,Steven Friday,38
+Eaton,"Chester Township, Precinct 1",U.S. House,7,DEM,Steven Friday,17
+Eaton,"Delta Charter Township, Precinct 1",U.S. House,7,DEM,Steven Friday,40
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. House,7,DEM,Steven Friday,25
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. House,7,DEM,Steven Friday,19
+Eaton,"Delta Charter Township, Precinct 3",U.S. House,7,DEM,Steven Friday,35
+Eaton,"Delta Charter Township, Precinct 4",U.S. House,7,DEM,Steven Friday,42
+Eaton,"Delta Charter Township, Precinct 5",U.S. House,7,DEM,Steven Friday,51
+Eaton,"Delta Charter Township, Precinct 6",U.S. House,7,DEM,Steven Friday,43
+Eaton,"Delta Charter Township, Precinct 7",U.S. House,7,DEM,Steven Friday,31
+Eaton,"Delta Charter Township, Precinct 8",U.S. House,7,DEM,Steven Friday,36
+Eaton,"Delta Charter Township, Precinct 9",U.S. House,7,DEM,Steven Friday,41
+Eaton,"Delta Charter Township, Precinct 10",U.S. House,7,DEM,Steven Friday,38
+Eaton,"Delta Charter Township, Precinct 11",U.S. House,7,DEM,Steven Friday,23
+Eaton,"Delta Charter Township, Precinct 12",U.S. House,7,DEM,Steven Friday,26
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. House,7,DEM,Steven Friday,19
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. House,7,DEM,Steven Friday,5
+Eaton,"Delta Charter Township, Precinct 14",U.S. House,7,DEM,Steven Friday,60
+Eaton,"Delta Charter Township, Precinct 15",U.S. House,7,DEM,Steven Friday,31
+Eaton,"Delta Charter Township, Precinct 16",U.S. House,7,DEM,Steven Friday,24
+Eaton,"Eaton Township, Precinct 1",U.S. House,7,DEM,Steven Friday,38
+Eaton,"Eaton Township, Precinct 2",U.S. House,7,DEM,Steven Friday,18
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. House,7,DEM,Steven Friday,23
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. House,7,DEM,Steven Friday,18
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. House,7,DEM,Steven Friday,9
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. House,7,DEM,Steven Friday,25
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. House,7,DEM,Steven Friday,20
+Eaton,"Kalamo Township, Precinct 1",U.S. House,7,DEM,Steven Friday,16
+Eaton,"Oneida Charter Township, Precinct 1",U.S. House,7,DEM,Steven Friday,30
+Eaton,"Oneida Charter Township, Precinct 2",U.S. House,7,DEM,Steven Friday,10
+Eaton,"Roxand Township, Precinct 1 - A",U.S. House,7,DEM,Steven Friday,21
+Eaton,"Roxand Township, Precinct 1 - B",U.S. House,7,DEM,Steven Friday,1
+Eaton,"Sunfield Township, Precinct 1",U.S. House,7,DEM,Steven Friday,23
+Eaton,"Vermontville Township, Precinct 1",U.S. House,7,DEM,Steven Friday,17
+Eaton,"Walton Township, Precinct 1",U.S. House,7,DEM,Steven Friday,21
+Eaton,"Windsor Charter Township, Precinct 1",U.S. House,7,DEM,Steven Friday,45
+Eaton,"Windsor Charter Township, Precinct 2",U.S. House,7,DEM,Steven Friday,48
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. House,7,DEM,Steven Friday,11
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. House,7,DEM,Steven Friday,30
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. House,7,DEM,Steven Friday,30
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. House,7,DEM,Steven Friday,5
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. House,7,DEM,Steven Friday,19
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. House,7,DEM,Steven Friday,35
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. House,7,DEM,Steven Friday,27
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. House,7,DEM,Steven Friday,23
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. House,7,DEM,Steven Friday,20
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. House,7,DEM,Steven Friday,36
+Eaton,"City of Grand Ledge, Precinct 1",U.S. House,7,DEM,Steven Friday,47
+Eaton,"City of Grand Ledge, Precinct 2",U.S. House,7,DEM,Steven Friday,28
+Eaton,"City of Grand Ledge, Precinct 3",U.S. House,7,DEM,Steven Friday,20
+Eaton,"City of Grand Ledge, Precinct 4",U.S. House,7,DEM,Steven Friday,17
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. House,7,DEM,Steven Friday,15
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. House,7,DEM,Steven Friday,53
+Eaton,"City of Olivet, Precinct 1",U.S. House,7,DEM,Steven Friday,6
+Eaton,"City of Potterville, Precinct 1",U.S. House,7,DEM,Steven Friday,21
+Eaton,Total,U.S. House,7,DEM,Steven Friday,1535
+Eaton,"Bellevue Township, Precinct 1",U.S. Senate,,REP,John James,203
+Eaton,"Benton Township, Precinct 1 - A",U.S. Senate,,REP,John James,64
+Eaton,"Benton Township, Precinct 1 - B",U.S. Senate,,REP,John James,185
+Eaton,"Brookfield Township, Precinct 1",U.S. Senate,,REP,John James,108
+Eaton,"Carmel Township, Precinct 1",U.S. Senate,,REP,John James,227
+Eaton,"Chester Township, Precinct 1",U.S. Senate,,REP,John James,154
+Eaton,"Delta Charter Township, Precinct 1",U.S. Senate,,REP,John James,169
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. Senate,,REP,John James,173
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. Senate,,REP,John James,55
+Eaton,"Delta Charter Township, Precinct 3",U.S. Senate,,REP,John James,67
+Eaton,"Delta Charter Township, Precinct 4",U.S. Senate,,REP,John James,225
+Eaton,"Delta Charter Township, Precinct 5",U.S. Senate,,REP,John James,127
+Eaton,"Delta Charter Township, Precinct 6",U.S. Senate,,REP,John James,172
+Eaton,"Delta Charter Township, Precinct 7",U.S. Senate,,REP,John James,61
+Eaton,"Delta Charter Township, Precinct 8",U.S. Senate,,REP,John James,73
+Eaton,"Delta Charter Township, Precinct 9",U.S. Senate,,REP,John James,130
+Eaton,"Delta Charter Township, Precinct 10",U.S. Senate,,REP,John James,133
+Eaton,"Delta Charter Township, Precinct 11",U.S. Senate,,REP,John James,62
+Eaton,"Delta Charter Township, Precinct 12",U.S. Senate,,REP,John James,176
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. Senate,,REP,John James,138
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. Senate,,REP,John James,7
+Eaton,"Delta Charter Township, Precinct 14",U.S. Senate,,REP,John James,111
+Eaton,"Delta Charter Township, Precinct 15",U.S. Senate,,REP,John James,76
+Eaton,"Delta Charter Township, Precinct 16",U.S. Senate,,REP,John James,92
+Eaton,"Eaton Township, Precinct 1",U.S. Senate,,REP,John James,281
+Eaton,"Eaton Township, Precinct 2",U.S. Senate,,REP,John James,69
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. Senate,,REP,John James,137
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. Senate,,REP,John James,162
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. Senate,,REP,John James,70
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. Senate,,REP,John James,121
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. Senate,,REP,John James,111
+Eaton,"Kalamo Township, Precinct 1",U.S. Senate,,REP,John James,147
+Eaton,"Oneida Charter Township, Precinct 1",U.S. Senate,,REP,John James,242
+Eaton,"Oneida Charter Township, Precinct 2",U.S. Senate,,REP,John James,85
+Eaton,"Roxand Township, Precinct 1 - A",U.S. Senate,,REP,John James,113
+Eaton,"Roxand Township, Precinct 1 - B",U.S. Senate,,REP,John James,27
+Eaton,"Sunfield Township, Precinct 1",U.S. Senate,,REP,John James,175
+Eaton,"Vermontville Township, Precinct 1",U.S. Senate,,REP,John James,162
+Eaton,"Walton Township, Precinct 1",U.S. Senate,,REP,John James,195
+Eaton,"Windsor Charter Township, Precinct 1",U.S. Senate,,REP,John James,196
+Eaton,"Windsor Charter Township, Precinct 2",U.S. Senate,,REP,John James,212
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. Senate,,REP,John James,50
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. Senate,,REP,John James,93
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. Senate,,REP,John James,145
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. Senate,,REP,John James,18
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. Senate,,REP,John James,84
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. Senate,,REP,John James,127
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. Senate,,REP,John James,137
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. Senate,,REP,John James,59
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. Senate,,REP,John James,64
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. Senate,,REP,John James,96
+Eaton,"City of Grand Ledge, Precinct 1",U.S. Senate,,REP,John James,128
+Eaton,"City of Grand Ledge, Precinct 2",U.S. Senate,,REP,John James,99
+Eaton,"City of Grand Ledge, Precinct 3",U.S. Senate,,REP,John James,100
+Eaton,"City of Grand Ledge, Precinct 4",U.S. Senate,,REP,John James,92
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. Senate,,REP,John James,11
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. Senate,,REP,John James,27
+Eaton,"City of Olivet, Precinct 1",U.S. Senate,,REP,John James,50
+Eaton,"City of Potterville, Precinct 1",U.S. Senate,,REP,John James,141
+Eaton,Total,U.S. Senate,,REP,John James,7014
+Eaton,"Bellevue Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,167
+Eaton,"Benton Township, Precinct 1 - A",U.S. Senate,,REP,Sandy Pensler,53
+Eaton,"Benton Township, Precinct 1 - B",U.S. Senate,,REP,Sandy Pensler,100
+Eaton,"Brookfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,84
+Eaton,"Carmel Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,157
+Eaton,"Chester Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,128
+Eaton,"Delta Charter Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,107
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. Senate,,REP,Sandy Pensler,112
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. Senate,,REP,Sandy Pensler,33
+Eaton,"Delta Charter Township, Precinct 3",U.S. Senate,,REP,Sandy Pensler,56
+Eaton,"Delta Charter Township, Precinct 4",U.S. Senate,,REP,Sandy Pensler,159
+Eaton,"Delta Charter Township, Precinct 5",U.S. Senate,,REP,Sandy Pensler,82
+Eaton,"Delta Charter Township, Precinct 6",U.S. Senate,,REP,Sandy Pensler,106
+Eaton,"Delta Charter Township, Precinct 7",U.S. Senate,,REP,Sandy Pensler,49
+Eaton,"Delta Charter Township, Precinct 8",U.S. Senate,,REP,Sandy Pensler,43
+Eaton,"Delta Charter Township, Precinct 9",U.S. Senate,,REP,Sandy Pensler,92
+Eaton,"Delta Charter Township, Precinct 10",U.S. Senate,,REP,Sandy Pensler,111
+Eaton,"Delta Charter Township, Precinct 11",U.S. Senate,,REP,Sandy Pensler,64
+Eaton,"Delta Charter Township, Precinct 12",U.S. Senate,,REP,Sandy Pensler,134
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. Senate,,REP,Sandy Pensler,79
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. Senate,,REP,Sandy Pensler,10
+Eaton,"Delta Charter Township, Precinct 14",U.S. Senate,,REP,Sandy Pensler,99
+Eaton,"Delta Charter Township, Precinct 15",U.S. Senate,,REP,Sandy Pensler,71
+Eaton,"Delta Charter Township, Precinct 16",U.S. Senate,,REP,Sandy Pensler,51
+Eaton,"Eaton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,216
+Eaton,"Eaton Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,67
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,81
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. Senate,,REP,Sandy Pensler,75
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. Senate,,REP,Sandy Pensler,42
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. Senate,,REP,Sandy Pensler,66
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. Senate,,REP,Sandy Pensler,88
+Eaton,"Kalamo Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,90
+Eaton,"Oneida Charter Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,158
+Eaton,"Oneida Charter Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,83
+Eaton,"Roxand Township, Precinct 1 - A",U.S. Senate,,REP,Sandy Pensler,78
+Eaton,"Roxand Township, Precinct 1 - B",U.S. Senate,,REP,Sandy Pensler,30
+Eaton,"Sunfield Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,109
+Eaton,"Vermontville Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,114
+Eaton,"Walton Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,111
+Eaton,"Windsor Charter Township, Precinct 1",U.S. Senate,,REP,Sandy Pensler,132
+Eaton,"Windsor Charter Township, Precinct 2",U.S. Senate,,REP,Sandy Pensler,123
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. Senate,,REP,Sandy Pensler,29
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. Senate,,REP,Sandy Pensler,85
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. Senate,,REP,Sandy Pensler,87
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. Senate,,REP,Sandy Pensler,18
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. Senate,,REP,Sandy Pensler,55
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. Senate,,REP,Sandy Pensler,105
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. Senate,,REP,Sandy Pensler,101
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. Senate,,REP,Sandy Pensler,59
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. Senate,,REP,Sandy Pensler,57
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. Senate,,REP,Sandy Pensler,75
+Eaton,"City of Grand Ledge, Precinct 1",U.S. Senate,,REP,Sandy Pensler,91
+Eaton,"City of Grand Ledge, Precinct 2",U.S. Senate,,REP,Sandy Pensler,91
+Eaton,"City of Grand Ledge, Precinct 3",U.S. Senate,,REP,Sandy Pensler,62
+Eaton,"City of Grand Ledge, Precinct 4",U.S. Senate,,REP,Sandy Pensler,72
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. Senate,,REP,Sandy Pensler,12
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. Senate,,REP,Sandy Pensler,23
+Eaton,"City of Olivet, Precinct 1",U.S. Senate,,REP,Sandy Pensler,44
+Eaton,"City of Potterville, Precinct 1",U.S. Senate,,REP,Sandy Pensler,83
+Eaton,Total,U.S. Senate,,REP,Sandy Pensler,4959
+Eaton,"Bellevue Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Benton Township, Precinct 1 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Benton Township, Precinct 1 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Brookfield Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Carmel Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Chester Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 3",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 4",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 5",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 6",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 7",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 8",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 9",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 10",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 11",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 12",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 14",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 15",U.S. Senate,,REP,William F. White,0
+Eaton,"Delta Charter Township, Precinct 16",U.S. Senate,,REP,William F. White,0
+Eaton,"Eaton Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Eaton Township, Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Kalamo Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Oneida Charter Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Oneida Charter Township, Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"Roxand Township, Precinct 1 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Roxand Township, Precinct 1 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"Sunfield Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Vermontville Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Walton Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Windsor Charter Township, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"Windsor Charter Township, Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Grand Ledge, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Grand Ledge, Precinct 2",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Grand Ledge, Precinct 3",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Grand Ledge, Precinct 4",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Olivet, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,"City of Potterville, Precinct 1",U.S. Senate,,REP,William F. White,0
+Eaton,Total,U.S. Senate,,REP,William F. White,0
+Eaton,"Bellevue Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,166
+Eaton,"Benton Township, Precinct 1 - A",U.S. Senate,,DEM,Debbie Stabenow,97
+Eaton,"Benton Township, Precinct 1 - B",U.S. Senate,,DEM,Debbie Stabenow,173
+Eaton,"Brookfield Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,92
+Eaton,"Carmel Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,238
+Eaton,"Chester Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,124
+Eaton,"Delta Charter Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,350
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. Senate,,DEM,Debbie Stabenow,280
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. Senate,,DEM,Debbie Stabenow,145
+Eaton,"Delta Charter Township, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,245
+Eaton,"Delta Charter Township, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,429
+Eaton,"Delta Charter Township, Precinct 5",U.S. Senate,,DEM,Debbie Stabenow,395
+Eaton,"Delta Charter Township, Precinct 6",U.S. Senate,,DEM,Debbie Stabenow,425
+Eaton,"Delta Charter Township, Precinct 7",U.S. Senate,,DEM,Debbie Stabenow,270
+Eaton,"Delta Charter Township, Precinct 8",U.S. Senate,,DEM,Debbie Stabenow,280
+Eaton,"Delta Charter Township, Precinct 9",U.S. Senate,,DEM,Debbie Stabenow,326
+Eaton,"Delta Charter Township, Precinct 10",U.S. Senate,,DEM,Debbie Stabenow,358
+Eaton,"Delta Charter Township, Precinct 11",U.S. Senate,,DEM,Debbie Stabenow,170
+Eaton,"Delta Charter Township, Precinct 12",U.S. Senate,,DEM,Debbie Stabenow,307
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. Senate,,DEM,Debbie Stabenow,200
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. Senate,,DEM,Debbie Stabenow,25
+Eaton,"Delta Charter Township, Precinct 14",U.S. Senate,,DEM,Debbie Stabenow,391
+Eaton,"Delta Charter Township, Precinct 15",U.S. Senate,,DEM,Debbie Stabenow,292
+Eaton,"Delta Charter Township, Precinct 16",U.S. Senate,,DEM,Debbie Stabenow,208
+Eaton,"Eaton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,225
+Eaton,"Eaton Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,81
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,142
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. Senate,,DEM,Debbie Stabenow,158
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. Senate,,DEM,Debbie Stabenow,69
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. Senate,,DEM,Debbie Stabenow,156
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. Senate,,DEM,Debbie Stabenow,140
+Eaton,"Kalamo Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,126
+Eaton,"Oneida Charter Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,266
+Eaton,"Oneida Charter Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,147
+Eaton,"Roxand Township, Precinct 1 - A",U.S. Senate,,DEM,Debbie Stabenow,118
+Eaton,"Roxand Township, Precinct 1 - B",U.S. Senate,,DEM,Debbie Stabenow,22
+Eaton,"Sunfield Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,164
+Eaton,"Vermontville Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,125
+Eaton,"Walton Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,135
+Eaton,"Windsor Charter Township, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,262
+Eaton,"Windsor Charter Township, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,350
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. Senate,,DEM,Debbie Stabenow,97
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. Senate,,DEM,Debbie Stabenow,221
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,222
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. Senate,,DEM,Debbie Stabenow,34
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. Senate,,DEM,Debbie Stabenow,147
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,195
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,206
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,108
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,98
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,164
+Eaton,"City of Grand Ledge, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,287
+Eaton,"City of Grand Ledge, Precinct 2",U.S. Senate,,DEM,Debbie Stabenow,243
+Eaton,"City of Grand Ledge, Precinct 3",U.S. Senate,,DEM,Debbie Stabenow,217
+Eaton,"City of Grand Ledge, Precinct 4",U.S. Senate,,DEM,Debbie Stabenow,180
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. Senate,,DEM,Debbie Stabenow,143
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. Senate,,DEM,Debbie Stabenow,362
+Eaton,"City of Olivet, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,64
+Eaton,"City of Potterville, Precinct 1",U.S. Senate,,DEM,Debbie Stabenow,184
+Eaton,Total,U.S. Senate,,DEM,Debbie Stabenow,11844
+Eaton,"Bellevue Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Benton Township, Precinct 1 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Benton Township, Precinct 1 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Brookfield Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Carmel Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Chester Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,1
+Eaton,"Delta Charter Township, Precinct 2 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 2 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 4",U.S. Senate,,LIB,Tim Yow,1
+Eaton,"Delta Charter Township, Precinct 5",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 6",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 7",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 8",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 9",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 10",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 11",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 12",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 13 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 13 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 14",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 15",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Delta Charter Township, Precinct 16",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Eaton Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Eaton Township, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Eaton Rapids Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Eaton Rapids Township, Precinct 2 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Eaton Rapids Township, Precinct 2 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Hamlin Township, Precinct 1 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Hamlin Township, Precinct 1 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Kalamo Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Oneida Charter Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Oneida Charter Township, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Roxand Township, Precinct 1 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Roxand Township, Precinct 1 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Sunfield Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Vermontville Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Walton Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Windsor Charter Township, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Windsor Charter Township, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Windsor Charter Township, Precinct 3 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"Windsor Charter Township, Precinct 3 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Charlotte, District 1 Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Charlotte, District 2 Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Charlotte, District 2 Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Eaton Rapids, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Eaton Rapids, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Eaton Rapids, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Grand Ledge, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Grand Ledge, Precinct 2",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Grand Ledge, Precinct 3",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Grand Ledge, Precinct 4",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Lansing, Ward 3 Precinct 22",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Olivet, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,"City of Potterville, Precinct 1",U.S. Senate,,LIB,Tim Yow,0
+Eaton,Total,U.S. Senate,,LIB,Tim Yow,2
+Eaton,"Bellevue Township, Precinct 1",Governor,,REP,Brian Calley,106
+Eaton,"Benton Township, Precinct 1 - A",Governor,,REP,Brian Calley,28
+Eaton,"Benton Township, Precinct 1 - B",Governor,,REP,Brian Calley,87
+Eaton,"Brookfield Township, Precinct 1",Governor,,REP,Brian Calley,54
+Eaton,"Carmel Township, Precinct 1",Governor,,REP,Brian Calley,129
+Eaton,"Chester Township, Precinct 1",Governor,,REP,Brian Calley,100
+Eaton,"Delta Charter Township, Precinct 1",Governor,,REP,Brian Calley,108
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,REP,Brian Calley,104
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,REP,Brian Calley,34
+Eaton,"Delta Charter Township, Precinct 3",Governor,,REP,Brian Calley,37
+Eaton,"Delta Charter Township, Precinct 4",Governor,,REP,Brian Calley,157
+Eaton,"Delta Charter Township, Precinct 5",Governor,,REP,Brian Calley,76
+Eaton,"Delta Charter Township, Precinct 6",Governor,,REP,Brian Calley,95
+Eaton,"Delta Charter Township, Precinct 7",Governor,,REP,Brian Calley,41
+Eaton,"Delta Charter Township, Precinct 8",Governor,,REP,Brian Calley,43
+Eaton,"Delta Charter Township, Precinct 9",Governor,,REP,Brian Calley,86
+Eaton,"Delta Charter Township, Precinct 10",Governor,,REP,Brian Calley,94
+Eaton,"Delta Charter Township, Precinct 11",Governor,,REP,Brian Calley,42
+Eaton,"Delta Charter Township, Precinct 12",Governor,,REP,Brian Calley,112
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,REP,Brian Calley,92
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,REP,Brian Calley,5
+Eaton,"Delta Charter Township, Precinct 14",Governor,,REP,Brian Calley,77
+Eaton,"Delta Charter Township, Precinct 15",Governor,,REP,Brian Calley,42
+Eaton,"Delta Charter Township, Precinct 16",Governor,,REP,Brian Calley,47
+Eaton,"Eaton Township, Precinct 1",Governor,,REP,Brian Calley,171
+Eaton,"Eaton Township, Precinct 2",Governor,,REP,Brian Calley,48
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,REP,Brian Calley,51
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,REP,Brian Calley,59
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,REP,Brian Calley,43
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,REP,Brian Calley,50
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,REP,Brian Calley,61
+Eaton,"Kalamo Township, Precinct 1",Governor,,REP,Brian Calley,87
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,REP,Brian Calley,130
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,REP,Brian Calley,64
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,REP,Brian Calley,61
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,REP,Brian Calley,24
+Eaton,"Sunfield Township, Precinct 1",Governor,,REP,Brian Calley,136
+Eaton,"Vermontville Township, Precinct 1",Governor,,REP,Brian Calley,86
+Eaton,"Walton Township, Precinct 1",Governor,,REP,Brian Calley,77
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,REP,Brian Calley,95
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,REP,Brian Calley,135
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,REP,Brian Calley,28
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,REP,Brian Calley,78
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,REP,Brian Calley,94
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,REP,Brian Calley,17
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,REP,Brian Calley,56
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,REP,Brian Calley,84
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,REP,Brian Calley,77
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,REP,Brian Calley,25
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,REP,Brian Calley,37
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,REP,Brian Calley,56
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,REP,Brian Calley,63
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,REP,Brian Calley,71
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,REP,Brian Calley,65
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,REP,Brian Calley,72
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,REP,Brian Calley,7
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,REP,Brian Calley,13
+Eaton,"City of Olivet, Precinct 1",Governor,,REP,Brian Calley,32
+Eaton,"City of Potterville, Precinct 1",Governor,,REP,Brian Calley,50
+Eaton,Total,Governor,,REP,Brian Calley,4099
+Eaton,"Bellevue Township, Precinct 1",Governor,,REP,Patrick Colbeck,56
+Eaton,"Benton Township, Precinct 1 - A",Governor,,REP,Patrick Colbeck,28
+Eaton,"Benton Township, Precinct 1 - B",Governor,,REP,Patrick Colbeck,71
+Eaton,"Brookfield Township, Precinct 1",Governor,,REP,Patrick Colbeck,37
+Eaton,"Carmel Township, Precinct 1",Governor,,REP,Patrick Colbeck,64
+Eaton,"Chester Township, Precinct 1",Governor,,REP,Patrick Colbeck,54
+Eaton,"Delta Charter Township, Precinct 1",Governor,,REP,Patrick Colbeck,38
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,REP,Patrick Colbeck,36
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,REP,Patrick Colbeck,15
+Eaton,"Delta Charter Township, Precinct 3",Governor,,REP,Patrick Colbeck,12
+Eaton,"Delta Charter Township, Precinct 4",Governor,,REP,Patrick Colbeck,58
+Eaton,"Delta Charter Township, Precinct 5",Governor,,REP,Patrick Colbeck,30
+Eaton,"Delta Charter Township, Precinct 6",Governor,,REP,Patrick Colbeck,32
+Eaton,"Delta Charter Township, Precinct 7",Governor,,REP,Patrick Colbeck,17
+Eaton,"Delta Charter Township, Precinct 8",Governor,,REP,Patrick Colbeck,17
+Eaton,"Delta Charter Township, Precinct 9",Governor,,REP,Patrick Colbeck,30
+Eaton,"Delta Charter Township, Precinct 10",Governor,,REP,Patrick Colbeck,33
+Eaton,"Delta Charter Township, Precinct 11",Governor,,REP,Patrick Colbeck,11
+Eaton,"Delta Charter Township, Precinct 12",Governor,,REP,Patrick Colbeck,48
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,REP,Patrick Colbeck,23
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,REP,Patrick Colbeck,3
+Eaton,"Delta Charter Township, Precinct 14",Governor,,REP,Patrick Colbeck,31
+Eaton,"Delta Charter Township, Precinct 15",Governor,,REP,Patrick Colbeck,19
+Eaton,"Delta Charter Township, Precinct 16",Governor,,REP,Patrick Colbeck,27
+Eaton,"Eaton Township, Precinct 1",Governor,,REP,Patrick Colbeck,97
+Eaton,"Eaton Township, Precinct 2",Governor,,REP,Patrick Colbeck,25
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,REP,Patrick Colbeck,46
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,REP,Patrick Colbeck,41
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,REP,Patrick Colbeck,17
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,REP,Patrick Colbeck,35
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,REP,Patrick Colbeck,42
+Eaton,"Kalamo Township, Precinct 1",Governor,,REP,Patrick Colbeck,42
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,REP,Patrick Colbeck,51
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,REP,Patrick Colbeck,20
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,REP,Patrick Colbeck,20
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,REP,Patrick Colbeck,12
+Eaton,"Sunfield Township, Precinct 1",Governor,,REP,Patrick Colbeck,36
+Eaton,"Vermontville Township, Precinct 1",Governor,,REP,Patrick Colbeck,50
+Eaton,"Walton Township, Precinct 1",Governor,,REP,Patrick Colbeck,75
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,REP,Patrick Colbeck,67
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,REP,Patrick Colbeck,63
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,REP,Patrick Colbeck,12
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,REP,Patrick Colbeck,34
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,REP,Patrick Colbeck,24
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,REP,Patrick Colbeck,6
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,REP,Patrick Colbeck,25
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,REP,Patrick Colbeck,44
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,REP,Patrick Colbeck,34
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,REP,Patrick Colbeck,18
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,REP,Patrick Colbeck,22
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,REP,Patrick Colbeck,31
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,REP,Patrick Colbeck,34
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,REP,Patrick Colbeck,27
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,REP,Patrick Colbeck,24
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,REP,Patrick Colbeck,11
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,REP,Patrick Colbeck,4
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,REP,Patrick Colbeck,8
+Eaton,"City of Olivet, Precinct 1",Governor,,REP,Patrick Colbeck,10
+Eaton,"City of Potterville, Precinct 1",Governor,,REP,Patrick Colbeck,49
+Eaton,Total,Governor,,REP,Patrick Colbeck,1946
+Eaton,"Bellevue Township, Precinct 1",Governor,,REP,Jim Hines,57
+Eaton,"Benton Township, Precinct 1 - A",Governor,,REP,Jim Hines,15
+Eaton,"Benton Township, Precinct 1 - B",Governor,,REP,Jim Hines,40
+Eaton,"Brookfield Township, Precinct 1",Governor,,REP,Jim Hines,46
+Eaton,"Carmel Township, Precinct 1",Governor,,REP,Jim Hines,56
+Eaton,"Chester Township, Precinct 1",Governor,,REP,Jim Hines,55
+Eaton,"Delta Charter Township, Precinct 1",Governor,,REP,Jim Hines,28
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,REP,Jim Hines,35
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,REP,Jim Hines,6
+Eaton,"Delta Charter Township, Precinct 3",Governor,,REP,Jim Hines,16
+Eaton,"Delta Charter Township, Precinct 4",Governor,,REP,Jim Hines,35
+Eaton,"Delta Charter Township, Precinct 5",Governor,,REP,Jim Hines,22
+Eaton,"Delta Charter Township, Precinct 6",Governor,,REP,Jim Hines,27
+Eaton,"Delta Charter Township, Precinct 7",Governor,,REP,Jim Hines,11
+Eaton,"Delta Charter Township, Precinct 8",Governor,,REP,Jim Hines,13
+Eaton,"Delta Charter Township, Precinct 9",Governor,,REP,Jim Hines,21
+Eaton,"Delta Charter Township, Precinct 10",Governor,,REP,Jim Hines,33
+Eaton,"Delta Charter Township, Precinct 11",Governor,,REP,Jim Hines,18
+Eaton,"Delta Charter Township, Precinct 12",Governor,,REP,Jim Hines,46
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,REP,Jim Hines,32
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,REP,Jim Hines,2
+Eaton,"Delta Charter Township, Precinct 14",Governor,,REP,Jim Hines,31
+Eaton,"Delta Charter Township, Precinct 15",Governor,,REP,Jim Hines,21
+Eaton,"Delta Charter Township, Precinct 16",Governor,,REP,Jim Hines,19
+Eaton,"Eaton Township, Precinct 1",Governor,,REP,Jim Hines,83
+Eaton,"Eaton Township, Precinct 2",Governor,,REP,Jim Hines,20
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,REP,Jim Hines,39
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,REP,Jim Hines,44
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,REP,Jim Hines,28
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,REP,Jim Hines,33
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,REP,Jim Hines,30
+Eaton,"Kalamo Township, Precinct 1",Governor,,REP,Jim Hines,27
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,REP,Jim Hines,45
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,REP,Jim Hines,23
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,REP,Jim Hines,27
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,REP,Jim Hines,7
+Eaton,"Sunfield Township, Precinct 1",Governor,,REP,Jim Hines,38
+Eaton,"Vermontville Township, Precinct 1",Governor,,REP,Jim Hines,38
+Eaton,"Walton Township, Precinct 1",Governor,,REP,Jim Hines,41
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,REP,Jim Hines,48
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,REP,Jim Hines,51
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,REP,Jim Hines,13
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,REP,Jim Hines,26
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,REP,Jim Hines,34
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,REP,Jim Hines,6
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,REP,Jim Hines,17
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,REP,Jim Hines,49
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,REP,Jim Hines,26
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,REP,Jim Hines,29
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,REP,Jim Hines,19
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,REP,Jim Hines,27
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,REP,Jim Hines,28
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,REP,Jim Hines,20
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,REP,Jim Hines,18
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,REP,Jim Hines,17
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,REP,Jim Hines,3
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,REP,Jim Hines,9
+Eaton,"City of Olivet, Precinct 1",Governor,,REP,Jim Hines,17
+Eaton,"City of Potterville, Precinct 1",Governor,,REP,Jim Hines,42
+Eaton,Total,Governor,,REP,Jim Hines,1707
+Eaton,"Bellevue Township, Precinct 1",Governor,,REP,Bill Schuette,167
+Eaton,"Benton Township, Precinct 1 - A",Governor,,REP,Bill Schuette,46
+Eaton,"Benton Township, Precinct 1 - B",Governor,,REP,Bill Schuette,99
+Eaton,"Brookfield Township, Precinct 1",Governor,,REP,Bill Schuette,65
+Eaton,"Carmel Township, Precinct 1",Governor,,REP,Bill Schuette,179
+Eaton,"Chester Township, Precinct 1",Governor,,REP,Bill Schuette,93
+Eaton,"Delta Charter Township, Precinct 1",Governor,,REP,Bill Schuette,122
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,REP,Bill Schuette,139
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,REP,Bill Schuette,35
+Eaton,"Delta Charter Township, Precinct 3",Governor,,REP,Bill Schuette,60
+Eaton,"Delta Charter Township, Precinct 4",Governor,,REP,Bill Schuette,157
+Eaton,"Delta Charter Township, Precinct 5",Governor,,REP,Bill Schuette,88
+Eaton,"Delta Charter Township, Precinct 6",Governor,,REP,Bill Schuette,142
+Eaton,"Delta Charter Township, Precinct 7",Governor,,REP,Bill Schuette,46
+Eaton,"Delta Charter Township, Precinct 8",Governor,,REP,Bill Schuette,49
+Eaton,"Delta Charter Township, Precinct 9",Governor,,REP,Bill Schuette,100
+Eaton,"Delta Charter Township, Precinct 10",Governor,,REP,Bill Schuette,96
+Eaton,"Delta Charter Township, Precinct 11",Governor,,REP,Bill Schuette,68
+Eaton,"Delta Charter Township, Precinct 12",Governor,,REP,Bill Schuette,133
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,REP,Bill Schuette,91
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,REP,Bill Schuette,9
+Eaton,"Delta Charter Township, Precinct 14",Governor,,REP,Bill Schuette,82
+Eaton,"Delta Charter Township, Precinct 15",Governor,,REP,Bill Schuette,74
+Eaton,"Delta Charter Township, Precinct 16",Governor,,REP,Bill Schuette,60
+Eaton,"Eaton Township, Precinct 1",Governor,,REP,Bill Schuette,178
+Eaton,"Eaton Township, Precinct 2",Governor,,REP,Bill Schuette,56
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,REP,Bill Schuette,93
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,REP,Bill Schuette,104
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,REP,Bill Schuette,32
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,REP,Bill Schuette,81
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,REP,Bill Schuette,73
+Eaton,"Kalamo Township, Precinct 1",Governor,,REP,Bill Schuette,94
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,REP,Bill Schuette,198
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,REP,Bill Schuette,77
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,REP,Bill Schuette,92
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,REP,Bill Schuette,23
+Eaton,"Sunfield Township, Precinct 1",Governor,,REP,Bill Schuette,94
+Eaton,"Vermontville Township, Precinct 1",Governor,,REP,Bill Schuette,122
+Eaton,"Walton Township, Precinct 1",Governor,,REP,Bill Schuette,133
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,REP,Bill Schuette,135
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,REP,Bill Schuette,110
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,REP,Bill Schuette,33
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,REP,Bill Schuette,54
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,REP,Bill Schuette,92
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,REP,Bill Schuette,12
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,REP,Bill Schuette,53
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,REP,Bill Schuette,78
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,REP,Bill Schuette,116
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,REP,Bill Schuette,47
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,REP,Bill Schuette,50
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,REP,Bill Schuette,69
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,REP,Bill Schuette,106
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,REP,Bill Schuette,85
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,REP,Bill Schuette,71
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,REP,Bill Schuette,77
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,REP,Bill Schuette,9
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,REP,Bill Schuette,19
+Eaton,"City of Olivet, Precinct 1",Governor,,REP,Bill Schuette,44
+Eaton,"City of Potterville, Precinct 1",Governor,,REP,Bill Schuette,99
+Eaton,Total,Governor,,REP,Bill Schuette,5009
+Eaton,"Bellevue Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Benton Township, Precinct 1 - A",Governor,,REP,Evan Space,0
+Eaton,"Benton Township, Precinct 1 - B",Governor,,REP,Evan Space,0
+Eaton,"Brookfield Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Carmel Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Chester Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 3",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 4",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 5",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 6",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 7",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 8",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 9",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 10",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 11",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 12",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 14",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 15",Governor,,REP,Evan Space,0
+Eaton,"Delta Charter Township, Precinct 16",Governor,,REP,Evan Space,0
+Eaton,"Eaton Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Eaton Township, Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,REP,Evan Space,0
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,REP,Evan Space,0
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,REP,Evan Space,0
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,REP,Evan Space,0
+Eaton,"Kalamo Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,REP,Evan Space,0
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,REP,Evan Space,0
+Eaton,"Sunfield Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Vermontville Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Walton Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,REP,Evan Space,0
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,REP,Evan Space,0
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,REP,Evan Space,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,REP,Evan Space,0
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,REP,Evan Space,0
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,REP,Evan Space,0
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,REP,Evan Space,0
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,REP,Evan Space,0
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,REP,Evan Space,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,REP,Evan Space,0
+Eaton,"City of Olivet, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,"City of Potterville, Precinct 1",Governor,,REP,Evan Space,0
+Eaton,Total,Governor,,REP,Evan Space,0
+Eaton,"Bellevue Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,24
+Eaton,"Benton Township, Precinct 1 - A",Governor,,DEM,Abdul El-Sayed,12
+Eaton,"Benton Township, Precinct 1 - B",Governor,,DEM,Abdul El-Sayed,20
+Eaton,"Brookfield Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,15
+Eaton,"Carmel Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,37
+Eaton,"Chester Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,11
+Eaton,"Delta Charter Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,45
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,DEM,Abdul El-Sayed,48
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,DEM,Abdul El-Sayed,34
+Eaton,"Delta Charter Township, Precinct 3",Governor,,DEM,Abdul El-Sayed,67
+Eaton,"Delta Charter Township, Precinct 4",Governor,,DEM,Abdul El-Sayed,53
+Eaton,"Delta Charter Township, Precinct 5",Governor,,DEM,Abdul El-Sayed,66
+Eaton,"Delta Charter Township, Precinct 6",Governor,,DEM,Abdul El-Sayed,89
+Eaton,"Delta Charter Township, Precinct 7",Governor,,DEM,Abdul El-Sayed,45
+Eaton,"Delta Charter Township, Precinct 8",Governor,,DEM,Abdul El-Sayed,60
+Eaton,"Delta Charter Township, Precinct 9",Governor,,DEM,Abdul El-Sayed,53
+Eaton,"Delta Charter Township, Precinct 10",Governor,,DEM,Abdul El-Sayed,57
+Eaton,"Delta Charter Township, Precinct 11",Governor,,DEM,Abdul El-Sayed,36
+Eaton,"Delta Charter Township, Precinct 12",Governor,,DEM,Abdul El-Sayed,58
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,DEM,Abdul El-Sayed,28
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,DEM,Abdul El-Sayed,3
+Eaton,"Delta Charter Township, Precinct 14",Governor,,DEM,Abdul El-Sayed,52
+Eaton,"Delta Charter Township, Precinct 15",Governor,,DEM,Abdul El-Sayed,49
+Eaton,"Delta Charter Township, Precinct 16",Governor,,DEM,Abdul El-Sayed,30
+Eaton,"Eaton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,42
+Eaton,"Eaton Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,15
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,29
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,DEM,Abdul El-Sayed,25
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,DEM,Abdul El-Sayed,9
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,DEM,Abdul El-Sayed,22
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,DEM,Abdul El-Sayed,24
+Eaton,"Kalamo Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,10
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,39
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,19
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,DEM,Abdul El-Sayed,16
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,DEM,Abdul El-Sayed,2
+Eaton,"Sunfield Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,24
+Eaton,"Vermontville Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,29
+Eaton,"Walton Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,27
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,DEM,Abdul El-Sayed,46
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,DEM,Abdul El-Sayed,60
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,DEM,Abdul El-Sayed,17
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,DEM,Abdul El-Sayed,30
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,DEM,Abdul El-Sayed,38
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,DEM,Abdul El-Sayed,1
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,DEM,Abdul El-Sayed,18
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,DEM,Abdul El-Sayed,29
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,DEM,Abdul El-Sayed,35
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,DEM,Abdul El-Sayed,23
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,DEM,Abdul El-Sayed,22
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,DEM,Abdul El-Sayed,29
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,DEM,Abdul El-Sayed,79
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,DEM,Abdul El-Sayed,53
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,DEM,Abdul El-Sayed,42
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,DEM,Abdul El-Sayed,30
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,DEM,Abdul El-Sayed,27
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,DEM,Abdul El-Sayed,62
+Eaton,"City of Olivet, Precinct 1",Governor,,DEM,Abdul El-Sayed,6
+Eaton,"City of Potterville, Precinct 1",Governor,,DEM,Abdul El-Sayed,30
+Eaton,Total,Governor,,DEM,Abdul El-Sayed,2001
+Eaton,"Bellevue Township, Precinct 1",Governor,,DEM,Shri Thanedar,48
+Eaton,"Benton Township, Precinct 1 - A",Governor,,DEM,Shri Thanedar,16
+Eaton,"Benton Township, Precinct 1 - B",Governor,,DEM,Shri Thanedar,35
+Eaton,"Brookfield Township, Precinct 1",Governor,,DEM,Shri Thanedar,27
+Eaton,"Carmel Township, Precinct 1",Governor,,DEM,Shri Thanedar,59
+Eaton,"Chester Township, Precinct 1",Governor,,DEM,Shri Thanedar,35
+Eaton,"Delta Charter Township, Precinct 1",Governor,,DEM,Shri Thanedar,65
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,DEM,Shri Thanedar,41
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,DEM,Shri Thanedar,18
+Eaton,"Delta Charter Township, Precinct 3",Governor,,DEM,Shri Thanedar,63
+Eaton,"Delta Charter Township, Precinct 4",Governor,,DEM,Shri Thanedar,69
+Eaton,"Delta Charter Township, Precinct 5",Governor,,DEM,Shri Thanedar,78
+Eaton,"Delta Charter Township, Precinct 6",Governor,,DEM,Shri Thanedar,74
+Eaton,"Delta Charter Township, Precinct 7",Governor,,DEM,Shri Thanedar,55
+Eaton,"Delta Charter Township, Precinct 8",Governor,,DEM,Shri Thanedar,63
+Eaton,"Delta Charter Township, Precinct 9",Governor,,DEM,Shri Thanedar,56
+Eaton,"Delta Charter Township, Precinct 10",Governor,,DEM,Shri Thanedar,77
+Eaton,"Delta Charter Township, Precinct 11",Governor,,DEM,Shri Thanedar,32
+Eaton,"Delta Charter Township, Precinct 12",Governor,,DEM,Shri Thanedar,42
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,DEM,Shri Thanedar,33
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,DEM,Shri Thanedar,4
+Eaton,"Delta Charter Township, Precinct 14",Governor,,DEM,Shri Thanedar,65
+Eaton,"Delta Charter Township, Precinct 15",Governor,,DEM,Shri Thanedar,49
+Eaton,"Delta Charter Township, Precinct 16",Governor,,DEM,Shri Thanedar,37
+Eaton,"Eaton Township, Precinct 1",Governor,,DEM,Shri Thanedar,47
+Eaton,"Eaton Township, Precinct 2",Governor,,DEM,Shri Thanedar,14
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,DEM,Shri Thanedar,32
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,DEM,Shri Thanedar,28
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,DEM,Shri Thanedar,10
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,DEM,Shri Thanedar,26
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,DEM,Shri Thanedar,23
+Eaton,"Kalamo Township, Precinct 1",Governor,,DEM,Shri Thanedar,44
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,DEM,Shri Thanedar,62
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,DEM,Shri Thanedar,16
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,DEM,Shri Thanedar,25
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,DEM,Shri Thanedar,7
+Eaton,"Sunfield Township, Precinct 1",Governor,,DEM,Shri Thanedar,39
+Eaton,"Vermontville Township, Precinct 1",Governor,,DEM,Shri Thanedar,28
+Eaton,"Walton Township, Precinct 1",Governor,,DEM,Shri Thanedar,35
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,DEM,Shri Thanedar,57
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,DEM,Shri Thanedar,59
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,DEM,Shri Thanedar,10
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,DEM,Shri Thanedar,55
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,DEM,Shri Thanedar,65
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,DEM,Shri Thanedar,12
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,DEM,Shri Thanedar,47
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,DEM,Shri Thanedar,50
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,DEM,Shri Thanedar,52
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,DEM,Shri Thanedar,25
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,DEM,Shri Thanedar,22
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,DEM,Shri Thanedar,27
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,DEM,Shri Thanedar,33
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,DEM,Shri Thanedar,44
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,DEM,Shri Thanedar,47
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,DEM,Shri Thanedar,19
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,DEM,Shri Thanedar,53
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,DEM,Shri Thanedar,143
+Eaton,"City of Olivet, Precinct 1",Governor,,DEM,Shri Thanedar,16
+Eaton,"City of Potterville, Precinct 1",Governor,,DEM,Shri Thanedar,40
+Eaton,Total,Governor,,DEM,Shri Thanedar,2453
+Eaton,"Bellevue Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,106
+Eaton,"Benton Township, Precinct 1 - A",Governor,,DEM,Gretchen Whitmer,82
+Eaton,"Benton Township, Precinct 1 - B",Governor,,DEM,Gretchen Whitmer,135
+Eaton,"Brookfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,64
+Eaton,"Carmel Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,168
+Eaton,"Chester Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,94
+Eaton,"Delta Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,257
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,DEM,Gretchen Whitmer,212
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,DEM,Gretchen Whitmer,103
+Eaton,"Delta Charter Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,124
+Eaton,"Delta Charter Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,332
+Eaton,"Delta Charter Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,258
+Eaton,"Delta Charter Township, Precinct 6",Governor,,DEM,Gretchen Whitmer,289
+Eaton,"Delta Charter Township, Precinct 7",Governor,,DEM,Gretchen Whitmer,180
+Eaton,"Delta Charter Township, Precinct 8",Governor,,DEM,Gretchen Whitmer,173
+Eaton,"Delta Charter Township, Precinct 9",Governor,,DEM,Gretchen Whitmer,230
+Eaton,"Delta Charter Township, Precinct 10",Governor,,DEM,Gretchen Whitmer,240
+Eaton,"Delta Charter Township, Precinct 11",Governor,,DEM,Gretchen Whitmer,107
+Eaton,"Delta Charter Township, Precinct 12",Governor,,DEM,Gretchen Whitmer,232
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,DEM,Gretchen Whitmer,151
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,DEM,Gretchen Whitmer,19
+Eaton,"Delta Charter Township, Precinct 14",Governor,,DEM,Gretchen Whitmer,295
+Eaton,"Delta Charter Township, Precinct 15",Governor,,DEM,Gretchen Whitmer,212
+Eaton,"Delta Charter Township, Precinct 16",Governor,,DEM,Gretchen Whitmer,156
+Eaton,"Eaton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,170
+Eaton,"Eaton Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,56
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,95
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,DEM,Gretchen Whitmer,114
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,DEM,Gretchen Whitmer,52
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,DEM,Gretchen Whitmer,123
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,DEM,Gretchen Whitmer,104
+Eaton,"Kalamo Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,83
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,204
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,131
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,DEM,Gretchen Whitmer,87
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,DEM,Gretchen Whitmer,14
+Eaton,"Sunfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,112
+Eaton,"Vermontville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,87
+Eaton,"Walton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,90
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,186
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,260
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,DEM,Gretchen Whitmer,73
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,DEM,Gretchen Whitmer,156
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,DEM,Gretchen Whitmer,130
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,DEM,Gretchen Whitmer,26
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,DEM,Gretchen Whitmer,100
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,DEM,Gretchen Whitmer,126
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,DEM,Gretchen Whitmer,131
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,DEM,Gretchen Whitmer,66
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,DEM,Gretchen Whitmer,64
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,DEM,Gretchen Whitmer,120
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,DEM,Gretchen Whitmer,196
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,DEM,Gretchen Whitmer,164
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,DEM,Gretchen Whitmer,147
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,DEM,Gretchen Whitmer,142
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,DEM,Gretchen Whitmer,70
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,DEM,Gretchen Whitmer,173
+Eaton,"City of Olivet, Precinct 1",Governor,,DEM,Gretchen Whitmer,47
+Eaton,"City of Potterville, Precinct 1",Governor,,DEM,Gretchen Whitmer,131
+Eaton,Total,Governor,,DEM,Gretchen Whitmer,8249
+Eaton,"Bellevue Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Benton Township, Precinct 1 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Benton Township, Precinct 1 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Brookfield Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Carmel Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Chester Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 3",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 4",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 5",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 6",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 7",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 8",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 9",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 10",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 11",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 12",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 14",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 15",Governor,,DEM,William Cobbs,0
+Eaton,"Delta Charter Township, Precinct 16",Governor,,DEM,William Cobbs,0
+Eaton,"Eaton Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Eaton Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Kalamo Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,DEM,William Cobbs,0
+Eaton,"Sunfield Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Vermontville Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Walton Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,DEM,William Cobbs,0
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,DEM,William Cobbs,0
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,DEM,William Cobbs,0
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,DEM,William Cobbs,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,DEM,William Cobbs,0
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,DEM,William Cobbs,0
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,DEM,William Cobbs,1
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,DEM,William Cobbs,0
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,DEM,William Cobbs,0
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,DEM,William Cobbs,0
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,DEM,William Cobbs,0
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,DEM,William Cobbs,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,DEM,William Cobbs,0
+Eaton,"City of Olivet, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,"City of Potterville, Precinct 1",Governor,,DEM,William Cobbs,0
+Eaton,Total,Governor,,DEM,William Cobbs,1
+Eaton,"Bellevue Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"Benton Township, Precinct 1 - A",Governor,,LIB,Bill Gelineau,0
+Eaton,"Benton Township, Precinct 1 - B",Governor,,LIB,Bill Gelineau,1
+Eaton,"Brookfield Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Carmel Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Chester Township, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Eaton,"Delta Charter Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,LIB,Bill Gelineau,3
+Eaton,"Delta Charter Township, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Eaton,"Delta Charter Township, Precinct 4",Governor,,LIB,Bill Gelineau,1
+Eaton,"Delta Charter Township, Precinct 5",Governor,,LIB,Bill Gelineau,3
+Eaton,"Delta Charter Township, Precinct 6",Governor,,LIB,Bill Gelineau,1
+Eaton,"Delta Charter Township, Precinct 7",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 8",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 9",Governor,,LIB,Bill Gelineau,2
+Eaton,"Delta Charter Township, Precinct 10",Governor,,LIB,Bill Gelineau,2
+Eaton,"Delta Charter Township, Precinct 11",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 12",Governor,,LIB,Bill Gelineau,2
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 14",Governor,,LIB,Bill Gelineau,1
+Eaton,"Delta Charter Township, Precinct 15",Governor,,LIB,Bill Gelineau,0
+Eaton,"Delta Charter Township, Precinct 16",Governor,,LIB,Bill Gelineau,2
+Eaton,"Eaton Township, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Eaton,"Eaton Township, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,LIB,Bill Gelineau,2
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,LIB,Bill Gelineau,0
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,LIB,Bill Gelineau,1
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,LIB,Bill Gelineau,0
+Eaton,"Kalamo Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,LIB,Bill Gelineau,0
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,LIB,Bill Gelineau,0
+Eaton,"Sunfield Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Vermontville Township, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"Walton Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,LIB,Bill Gelineau,2
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,LIB,Bill Gelineau,1
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,LIB,Bill Gelineau,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,LIB,Bill Gelineau,2
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,LIB,Bill Gelineau,0
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,LIB,Bill Gelineau,2
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,LIB,Bill Gelineau,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,LIB,Bill Gelineau,1
+Eaton,"City of Olivet, Precinct 1",Governor,,LIB,Bill Gelineau,2
+Eaton,"City of Potterville, Precinct 1",Governor,,LIB,Bill Gelineau,3
+Eaton,Total,Governor,,LIB,Bill Gelineau,55
+Eaton,"Bellevue Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Eaton,"Benton Township, Precinct 1 - A",Governor,,LIB,John J. Tatar,1
+Eaton,"Benton Township, Precinct 1 - B",Governor,,LIB,John J. Tatar,1
+Eaton,"Brookfield Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Carmel Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Eaton,"Chester Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Eaton,"Delta Charter Township, Precinct 1",Governor,,LIB,John J. Tatar,1
+Eaton,"Delta Charter Township, Precinct 2 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 2 - B",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 3",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 4",Governor,,LIB,John J. Tatar,2
+Eaton,"Delta Charter Township, Precinct 5",Governor,,LIB,John J. Tatar,3
+Eaton,"Delta Charter Township, Precinct 6",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 7",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 8",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 9",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 10",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 11",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 12",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 13 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 13 - B",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 14",Governor,,LIB,John J. Tatar,1
+Eaton,"Delta Charter Township, Precinct 15",Governor,,LIB,John J. Tatar,0
+Eaton,"Delta Charter Township, Precinct 16",Governor,,LIB,John J. Tatar,0
+Eaton,"Eaton Township, Precinct 1",Governor,,LIB,John J. Tatar,5
+Eaton,"Eaton Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Eaton,"Eaton Rapids Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Governor,,LIB,John J. Tatar,0
+Eaton,"Hamlin Township, Precinct 1 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"Hamlin Township, Precinct 1 - B",Governor,,LIB,John J. Tatar,1
+Eaton,"Kalamo Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Oneida Charter Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Oneida Charter Township, Precinct 2",Governor,,LIB,John J. Tatar,0
+Eaton,"Roxand Township, Precinct 1 - A",Governor,,LIB,John J. Tatar,2
+Eaton,"Roxand Township, Precinct 1 - B",Governor,,LIB,John J. Tatar,0
+Eaton,"Sunfield Township, Precinct 1",Governor,,LIB,John J. Tatar,2
+Eaton,"Vermontville Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Walton Township, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"Windsor Charter Township, Precinct 1",Governor,,LIB,John J. Tatar,3
+Eaton,"Windsor Charter Township, Precinct 2",Governor,,LIB,John J. Tatar,2
+Eaton,"Windsor Charter Township, Precinct 3 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"Windsor Charter Township, Precinct 3 - B",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Charlotte, District 1 Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Charlotte, District 2 Precinct 1",Governor,,LIB,John J. Tatar,3
+Eaton,"City of Charlotte, District 2 Precinct 2",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Eaton Rapids, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Eaton Rapids, Precinct 2",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Eaton Rapids, Precinct 3",Governor,,LIB,John J. Tatar,2
+Eaton,"City of Grand Ledge, Precinct 1",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Grand Ledge, Precinct 2",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Grand Ledge, Precinct 3",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Grand Ledge, Precinct 4",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Lansing, Ward 3 Precinct 22",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Lansing, Ward 3 Precinct 23",Governor,,LIB,John J. Tatar,0
+Eaton,"City of Olivet, Precinct 1",Governor,,LIB,John J. Tatar,1
+Eaton,"City of Potterville, Precinct 1",Governor,,LIB,John J. Tatar,0
+Eaton,Total,Governor,,LIB,John J. Tatar,44
+Eaton,"Bellevue Township, Precinct 1",Ballots Cast,,   ,,587
+Eaton,"Benton Township, Precinct 1 - A",Ballots Cast,,   ,,238
+Eaton,"Benton Township, Precinct 1 - B",Ballots Cast,,   ,,497
+Eaton,"Brookfield Township, Precinct 1",Ballots Cast,,   ,,319
+Eaton,"Carmel Township, Precinct 1",Ballots Cast,,   ,,731
+Eaton,"Chester Township, Precinct 1",Ballots Cast,,   ,,456
+Eaton,"Delta Charter Township, Precinct 1",Ballots Cast,,   ,,684
+Eaton,"Delta Charter Township, Precinct 2 - A",Ballots Cast,,   ,,631
+Eaton,"Delta Charter Township, Precinct 2 - B",Ballots Cast,,   ,,258
+Eaton,"Delta Charter Township, Precinct 3",Ballots Cast,,   ,,389
+Eaton,"Delta Charter Township, Precinct 4",Ballots Cast,,   ,,889
+Eaton,"Delta Charter Township, Precinct 5",Ballots Cast,,   ,,652
+Eaton,"Delta Charter Township, Precinct 6",Ballots Cast,,   ,,760
+Eaton,"Delta Charter Township, Precinct 7",Ballots Cast,,   ,,410
+Eaton,"Delta Charter Township, Precinct 8",Ballots Cast,,   ,,430
+Eaton,"Delta Charter Township, Precinct 9",Ballots Cast,,   ,,590
+Eaton,"Delta Charter Township, Precinct 10",Ballots Cast,,   ,,639
+Eaton,"Delta Charter Township, Precinct 11",Ballots Cast,,   ,,317
+Eaton,"Delta Charter Township, Precinct 12",Ballots Cast,,   ,,688
+Eaton,"Delta Charter Township, Precinct 13 - A",Ballots Cast,,   ,,462
+Eaton,"Delta Charter Township, Precinct 13 - B",Ballots Cast,,   ,,46
+Eaton,"Delta Charter Township, Precinct 14",Ballots Cast,,   ,,646
+Eaton,"Delta Charter Township, Precinct 15",Ballots Cast,,   ,,477
+Eaton,"Delta Charter Township, Precinct 16",Ballots Cast,,   ,,388
+Eaton,"Eaton Township, Precinct 1",Ballots Cast,,   ,,817
+Eaton,"Eaton Township, Precinct 2",Ballots Cast,,   ,,242
+Eaton,"Eaton Rapids Township, Precinct 1",Ballots Cast,,   ,,391
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Ballots Cast,,   ,,429
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Ballots Cast,,   ,,202
+Eaton,"Hamlin Township, Precinct 1 - A",Ballots Cast,,   ,,376
+Eaton,"Hamlin Township, Precinct 1 - B",Ballots Cast,,   ,,369
+Eaton,"Kalamo Township, Precinct 1",Ballots Cast,,   ,,399
+Eaton,"Oneida Charter Township, Precinct 1",Ballots Cast,,   ,,754
+Eaton,"Oneida Charter Township, Precinct 2",Ballots Cast,,   ,,355
+Eaton,"Roxand Township, Precinct 1 - A",Ballots Cast,,   ,,341
+Eaton,"Roxand Township, Precinct 1 - B",Ballots Cast,,   ,,92
+Eaton,"Sunfield Township, Precinct 1",Ballots Cast,,   ,,492
+Eaton,"Vermontville Township, Precinct 1",Ballots Cast,,   ,,458
+Eaton,"Walton Township, Precinct 1",Ballots Cast,,   ,,503
+Eaton,"Windsor Charter Township, Precinct 1",Ballots Cast,,   ,,658
+Eaton,"Windsor Charter Township, Precinct 2",Ballots Cast,,   ,,761
+Eaton,"Windsor Charter Township, Precinct 3 - A",Ballots Cast,,   ,,189
+Eaton,"Windsor Charter Township, Precinct 3 - B",Ballots Cast,,   ,,450
+Eaton,"City of Charlotte, District 1 Precinct 1",Ballots Cast,,   ,,496
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Ballots Cast,,   ,,83
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Ballots Cast,,   ,,331
+Eaton,"City of Charlotte, District 2 Precinct 1",Ballots Cast,,   ,,503
+Eaton,"City of Charlotte, District 2 Precinct 2",Ballots Cast,,   ,,497
+Eaton,"City of Eaton Rapids, Precinct 1",Ballots Cast,,   ,,236
+Eaton,"City of Eaton Rapids, Precinct 2",Ballots Cast,,   ,,247
+Eaton,"City of Eaton Rapids, Precinct 3",Ballots Cast,,   ,,375
+Eaton,"City of Grand Ledge, Precinct 1",Ballots Cast,,   ,,554
+Eaton,"City of Grand Ledge, Precinct 2",Ballots Cast,,   ,,481
+Eaton,"City of Grand Ledge, Precinct 3",Ballots Cast,,   ,,428
+Eaton,"City of Grand Ledge, Precinct 4",Ballots Cast,,   ,,376
+Eaton,"City of Lansing, Ward 3 Precinct 22",Ballots Cast,,   ,,182
+Eaton,"City of Lansing, Ward 3 Precinct 23",Ballots Cast,,   ,,439
+Eaton,"City of Olivet, Precinct 1",Ballots Cast,,   ,,179
+Eaton,"City of Potterville, Precinct 1",Ballots Cast,,   ,,462
+Eaton,Total,Ballots Cast,,   ,,26331
+Eaton,"Bellevue Township, Precinct 1",Registered Voters,,   ,,2286
+Eaton,"Benton Township, Precinct 1 - A",Registered Voters,,   ,,752
+Eaton,"Benton Township, Precinct 1 - B",Registered Voters,,   ,,1492
+Eaton,"Brookfield Township, Precinct 1",Registered Voters,,   ,,1101
+Eaton,"Carmel Township, Precinct 1",Registered Voters,,   ,,2151
+Eaton,"Chester Township, Precinct 1",Registered Voters,,   ,,1181
+Eaton,"Delta Charter Township, Precinct 1",Registered Voters,,   ,,1467
+Eaton,"Delta Charter Township, Precinct 2 - A",Registered Voters,,   ,,1498
+Eaton,"Delta Charter Township, Precinct 2 - B",Registered Voters,,   ,,737
+Eaton,"Delta Charter Township, Precinct 3",Registered Voters,,   ,,1448
+Eaton,"Delta Charter Township, Precinct 4",Registered Voters,,   ,,1987
+Eaton,"Delta Charter Township, Precinct 5",Registered Voters,,   ,,1882
+Eaton,"Delta Charter Township, Precinct 6",Registered Voters,,   ,,1817
+Eaton,"Delta Charter Township, Precinct 7",Registered Voters,,   ,,1404
+Eaton,"Delta Charter Township, Precinct 8",Registered Voters,,   ,,1663
+Eaton,"Delta Charter Township, Precinct 9",Registered Voters,,   ,,1284
+Eaton,"Delta Charter Township, Precinct 10",Registered Voters,,   ,,1721
+Eaton,"Delta Charter Township, Precinct 11",Registered Voters,,   ,,1105
+Eaton,"Delta Charter Township, Precinct 12",Registered Voters,,   ,,1714
+Eaton,"Delta Charter Township, Precinct 13 - A",Registered Voters,,   ,,1150
+Eaton,"Delta Charter Township, Precinct 13 - B",Registered Voters,,   ,,121
+Eaton,"Delta Charter Township, Precinct 14",Registered Voters,,   ,,1598
+Eaton,"Delta Charter Township, Precinct 15",Registered Voters,,   ,,1245
+Eaton,"Delta Charter Township, Precinct 16",Registered Voters,,   ,,1120
+Eaton,"Eaton Township, Precinct 1",Registered Voters,,   ,,2388
+Eaton,"Eaton Township, Precinct 2",Registered Voters,,   ,,798
+Eaton,"Eaton Rapids Township, Precinct 1",Registered Voters,,   ,,1315
+Eaton,"Eaton Rapids Township, Precinct 2 - A",Registered Voters,,   ,,1174
+Eaton,"Eaton Rapids Township, Precinct 2 - B",Registered Voters,,   ,,567
+Eaton,"Hamlin Township, Precinct 1 - A",Registered Voters,,   ,,1386
+Eaton,"Hamlin Township, Precinct 1 - B",Registered Voters,,   ,,1203
+Eaton,"Kalamo Township, Precinct 1",Registered Voters,,   ,,1224
+Eaton,"Oneida Charter Township, Precinct 1",Registered Voters,,   ,,1977
+Eaton,"Oneida Charter Township, Precinct 2",Registered Voters,,   ,,1120
+Eaton,"Roxand Township, Precinct 1 - A",Registered Voters,,   ,,1016
+Eaton,"Roxand Township, Precinct 1 - B",Registered Voters,,   ,,273
+Eaton,"Sunfield Township, Precinct 1",Registered Voters,,   ,,1595
+Eaton,"Vermontville Township, Precinct 1",Registered Voters,,   ,,1504
+Eaton,"Walton Township, Precinct 1",Registered Voters,,   ,,1660
+Eaton,"Windsor Charter Township, Precinct 1",Registered Voters,,   ,,1776
+Eaton,"Windsor Charter Township, Precinct 2",Registered Voters,,   ,,1917
+Eaton,"Windsor Charter Township, Precinct 3 - A",Registered Voters,,   ,,463
+Eaton,"Windsor Charter Township, Precinct 3 - B",Registered Voters,,   ,,1245
+Eaton,"City of Charlotte, District 1 Precinct 1",Registered Voters,,   ,,1851
+Eaton,"City of Charlotte, District 1 Precinct 2 - A",Registered Voters,,   ,,281
+Eaton,"City of Charlotte, District 1 Precinct 2 - B",Registered Voters,,   ,,986
+Eaton,"City of Charlotte, District 2 Precinct 1",Registered Voters,,   ,,1509
+Eaton,"City of Charlotte, District 2 Precinct 2",Registered Voters,,   ,,1631
+Eaton,"City of Eaton Rapids, Precinct 1",Registered Voters,,   ,,1251
+Eaton,"City of Eaton Rapids, Precinct 2",Registered Voters,,   ,,1232
+Eaton,"City of Eaton Rapids, Precinct 3",Registered Voters,,   ,,1482
+Eaton,"City of Grand Ledge, Precinct 1",Registered Voters,,   ,,1937
+Eaton,"City of Grand Ledge, Precinct 2",Registered Voters,,   ,,1851
+Eaton,"City of Grand Ledge, Precinct 3",Registered Voters,,   ,,1319
+Eaton,"City of Grand Ledge, Precinct 4",Registered Voters,,   ,,902
+Eaton,"City of Lansing, Ward 3 Precinct 22",Registered Voters,,   ,,1221
+Eaton,"City of Lansing, Ward 3 Precinct 23",Registered Voters,,   ,,2263
+Eaton,"City of Olivet, Precinct 1",Registered Voters,,   ,,770
+Eaton,"City of Potterville, Precinct 1",Registered Voters,,   ,,1986
+Eaton,Total,Registered Voters,,   ,,80997

@@ -1,0 +1,529 @@
+county,precinct,office,district,party,candidate,votes
+Branch,"Algansee Township, Precinct 1",Registered Voters,,,,1325
+Branch,"Batavia Township, Precinct 1",Registered Voters,,,,1070
+Branch,"Bethel Township, Precinct 1",Registered Voters,,,,958
+Branch,"Bronson Township, Precinct 1",Registered Voters,,,,1034
+Branch,"Butler Township, Precinct 1",Registered Voters,,,,861
+Branch,"Calfornia Township, Precinct 1",Registered Voters,,,,460
+Branch,"City of Bronson, Precinct 1",Registered Voters,,,,1527
+Branch,"City of Coldwater, Precinct 1",Registered Voters,,,,1832
+Branch,"City of Coldwater, Precinct 2",Registered Voters,,,,2017
+Branch,"City of Coldwater, Precinct 3",Registered Voters,,,,2214
+Branch,"City of Coldwater, Precinct 4",Registered Voters,,,,1787
+Branch,"Coldwater Township, Precinct 1",Registered Voters,,,,2899
+Branch,"Gilead Township, Precinct 1",Registered Voters,,,,511
+Branch,"Girard Township, Precinct 1",Registered Voters,,,,1489
+Branch,"Kinderhook Township, Precinct 1",Registered Voters,,,,1473
+Branch,"Matteson Township, Precinct 1",Registered Voters,,,,958
+Branch,"Noble Township, Precinct 1",Registered Voters,,,,351
+Branch,"Ovid Township, Precinct 1",Registered Voters,,,,2185
+Branch,"Quincy Township, Precinct 1",Registered Voters,,,,1382
+Branch,"Quincy Township, Precinct 2",Registered Voters,,,,1943
+Branch,"Sherwood Township, Precinct 1",Registered Voters,,,,1655
+Branch,"Union Township, Precinct 1",Registered Voters,,,,2232
+Branch,"Algansee Township, Precinct 1",Ballots Cast,,,,289
+Branch,"Batavia Township, Precinct 1",Ballots Cast,,,,175
+Branch,"Bethel Township, Precinct 1",Ballots Cast,,,,150
+Branch,"Bronson Township, Precinct 1",Ballots Cast,,,,155
+Branch,"Butler Township, Precinct 1",Ballots Cast,,,,173
+Branch,"Calfornia Township, Precinct 1",Ballots Cast,,,,61
+Branch,"City of Bronson, Precinct 1",Ballots Cast,,,,192
+Branch,"City of Coldwater, Precinct 1",Ballots Cast,,,,311
+Branch,"City of Coldwater, Precinct 2",Ballots Cast,,,,468
+Branch,"City of Coldwater, Precinct 3",Ballots Cast,,,,600
+Branch,"City of Coldwater, Precinct 4",Ballots Cast,,,,307
+Branch,"Coldwater Township, Precinct 1",Ballots Cast,,,,597
+Branch,"Gilead Township, Precinct 1",Ballots Cast,,,,68
+Branch,"Girard Township, Precinct 1",Ballots Cast,,,,318
+Branch,"Kinderhook Township, Precinct 1",Ballots Cast,,,,261
+Branch,"Matteson Township, Precinct 1",Ballots Cast,,,,252
+Branch,"Noble Township, Precinct 1",Ballots Cast,,,,77
+Branch,"Ovid Township, Precinct 1",Ballots Cast,,,,455
+Branch,"Quincy Township, Precinct 1",Ballots Cast,,,,215
+Branch,"Quincy Township, Precinct 2",Ballots Cast,,,,286
+Branch,"Sherwood Township, Precinct 1",Ballots Cast,,,,273
+Branch,"Union Township, Precinct 1",Ballots Cast,,,,438
+Branch,"Algansee Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Michael Bennet,1
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Michael Bennet,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Michael Bennet,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Michael Bennet,2
+Branch,"Quincy Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Michael Bennet,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Union Township, Precinct 1",President,,DEM,Michael Bennet,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,Joe Biden,82
+Branch,"Batavia Township, Precinct 1",President,,DEM,Joe Biden,55
+Branch,"Bethel Township, Precinct 1",President,,DEM,Joe Biden,37
+Branch,"Bronson Township, Precinct 1",President,,DEM,Joe Biden,44
+Branch,"Butler Township, Precinct 1",President,,DEM,Joe Biden,52
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Joe Biden,12
+Branch,"City of Bronson, Precinct 1",President,,DEM,Joe Biden,68
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Joe Biden,59
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Joe Biden,110
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Joe Biden,172
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Joe Biden,89
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Joe Biden,155
+Branch,"Gilead Township, Precinct 1",President,,DEM,Joe Biden,26
+Branch,"Girard Township, Precinct 1",President,,DEM,Joe Biden,77
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Joe Biden,84
+Branch,"Matteson Township, Precinct 1",President,,DEM,Joe Biden,74
+Branch,"Noble Township, Precinct 1",President,,DEM,Joe Biden,14
+Branch,"Ovid Township, Precinct 1",President,,DEM,Joe Biden,156
+Branch,"Quincy Township, Precinct 1",President,,DEM,Joe Biden,54
+Branch,"Quincy Township, Precinct 2",President,,DEM,Joe Biden,88
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Joe Biden,75
+Branch,"Union Township, Precinct 1",President,,DEM,Joe Biden,123
+Branch,"Algansee Township, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Branch,"Batavia Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Branch,"Bronson Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Branch,"Butler Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Michael R. Bloomberg,1
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Michael R. Bloomberg,11
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Michael R. Bloomberg,18
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Michael R. Bloomberg,26
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Michael R. Bloomberg,9
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Branch,"Gilead Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Michael R. Bloomberg,4
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Branch,"Matteson Township, Precinct 1",President,,DEM,Michael R. Bloomberg,5
+Branch,"Noble Township, Precinct 1",President,,DEM,Michael R. Bloomberg,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Michael R. Bloomberg,12
+Branch,"Quincy Township, Precinct 1",President,,DEM,Michael R. Bloomberg,2
+Branch,"Quincy Township, Precinct 2",President,,DEM,Michael R. Bloomberg,2
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Michael R. Bloomberg,9
+Branch,"Union Township, Precinct 1",President,,DEM,Michael R. Bloomberg,8
+Branch,"Algansee Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Cory Booker,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Cory Booker,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Cory Booker,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Cory Booker,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Union Township, Precinct 1",President,,DEM,Cory Booker,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Branch,"Batavia Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Branch,"Butler Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Branch,"City of Bronson, Precinct 1",President,,DEM,Pete Buttigieg,1
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Pete Buttigieg,1
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Pete Buttigieg,7
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Pete Buttigieg,15
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Pete Buttigieg,1
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Branch,"Gilead Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Pete Buttigieg,2
+Branch,"Matteson Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Branch,"Noble Township, Precinct 1",President,,DEM,Pete Buttigieg,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Pete Buttigieg,3
+Branch,"Quincy Township, Precinct 1",President,,DEM,Pete Buttigieg,1
+Branch,"Quincy Township, Precinct 2",President,,DEM,Pete Buttigieg,2
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Pete Buttigieg,4
+Branch,"Union Township, Precinct 1",President,,DEM,Pete Buttigieg,5
+Branch,"Algansee Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Julian Castro,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Julian Castro,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Julian Castro,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Julian Castro,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Union Township, Precinct 1",President,,DEM,Julian Castro,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Butler Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,John Delaney,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,John Delaney,1
+Branch,"City of Coldwater, Precinct 2",President,,DEM,John Delaney,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,John Delaney,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,John Delaney,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Girard Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Noble Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,John Delaney,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,John Delaney,0
+Branch,"Union Township, Precinct 1",President,,DEM,John Delaney,1
+Branch,"Algansee Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"Batavia Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"City of Bronson, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Tulsi Gabbard,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Tulsi Gabbard,2
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Tulsi Gabbard,2
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Branch,"Matteson Township, Precinct 1",President,,DEM,Tulsi Gabbard,2
+Branch,"Noble Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"Ovid Township, Precinct 1",President,,DEM,Tulsi Gabbard,1
+Branch,"Quincy Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Tulsi Gabbard,2
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Tulsi Gabbard,0
+Branch,"Union Township, Precinct 1",President,,DEM,Tulsi Gabbard,5
+Branch,"Algansee Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Branch,"Bronson Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Branch,"Butler Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Amy Klobuchar,2
+Branch,"City of Bronson, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Amy Klobuchar,1
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Amy Klobuchar,3
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Amy Klobuchar,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Branch,"Matteson Township, Precinct 1",President,,DEM,Amy Klobuchar,1
+Branch,"Noble Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Branch,"Quincy Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Amy Klobuchar,3
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Amy Klobuchar,3
+Branch,"Union Township, Precinct 1",President,,DEM,Amy Klobuchar,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,Bernie Sanders,31
+Branch,"Batavia Township, Precinct 1",President,,DEM,Bernie Sanders,28
+Branch,"Bethel Township, Precinct 1",President,,DEM,Bernie Sanders,17
+Branch,"Bronson Township, Precinct 1",President,,DEM,Bernie Sanders,22
+Branch,"Butler Township, Precinct 1",President,,DEM,Bernie Sanders,27
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Bernie Sanders,4
+Branch,"City of Bronson, Precinct 1",President,,DEM,Bernie Sanders,36
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Bernie Sanders,117
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Bernie Sanders,80
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Bernie Sanders,96
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Bernie Sanders,79
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Bernie Sanders,80
+Branch,"Gilead Township, Precinct 1",President,,DEM,Bernie Sanders,11
+Branch,"Girard Township, Precinct 1",President,,DEM,Bernie Sanders,57
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Bernie Sanders,21
+Branch,"Matteson Township, Precinct 1",President,,DEM,Bernie Sanders,25
+Branch,"Noble Township, Precinct 1",President,,DEM,Bernie Sanders,13
+Branch,"Ovid Township, Precinct 1",President,,DEM,Bernie Sanders,51
+Branch,"Quincy Township, Precinct 1",President,,DEM,Bernie Sanders,35
+Branch,"Quincy Township, Precinct 2",President,,DEM,Bernie Sanders,49
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Bernie Sanders,34
+Branch,"Union Township, Precinct 1",President,,DEM,Bernie Sanders,68
+Branch,"Algansee Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Joe Sestak,1
+Branch,"Butler Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Joe Sestak,1
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Joe Sestak,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Joe Sestak,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Joe Sestak,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Joe Sestak,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Joe Sestak,0
+Branch,"Union Township, Precinct 1",President,,DEM,Joe Sestak,1
+Branch,"Algansee Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Tom Steyer,1
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Tom Steyer,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Tom Steyer,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Tom Steyer,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Tom Steyer,0
+Branch,"Union Township, Precinct 1",President,,DEM,Tom Steyer,1
+Branch,"Algansee Township, Precinct 1",President,,DEM,Elizabeth Warren,3
+Branch,"Batavia Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Branch,"Bethel Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Branch,"Bronson Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Elizabeth Warren,3
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Elizabeth Warren,7
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Elizabeth Warren,6
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Elizabeth Warren,8
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Elizabeth Warren,10
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Elizabeth Warren,8
+Branch,"Gilead Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Branch,"Matteson Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Branch,"Noble Township, Precinct 1",President,,DEM,Elizabeth Warren,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Branch,"Quincy Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Branch,"Quincy Township, Precinct 2",President,,DEM,Elizabeth Warren,1
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Elizabeth Warren,1
+Branch,"Union Township, Precinct 1",President,,DEM,Elizabeth Warren,2
+Branch,"Algansee Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Marianne Williamson,1
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Marianne Williamson,0
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Marianne Williamson,0
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Marianne Williamson,1
+Branch,"Noble Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Marianne Williamson,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Union Township, Precinct 1",President,,DEM,Marianne Williamson,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Bethel Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Butler Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Andrew Yang,0
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Andrew Yang,1
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Andrew Yang,1
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Gilead Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Matteson Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Noble Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Quincy Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Quincy Township, Precinct 2",President,,DEM,Andrew Yang,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Andrew Yang,1
+Branch,"Union Township, Precinct 1",President,,DEM,Andrew Yang,0
+Branch,"Algansee Township, Precinct 1",President,,DEM,Uncommitted,0
+Branch,"Batavia Township, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"Bethel Township, Precinct 1",President,,DEM,Uncommitted,0
+Branch,"Bronson Township, Precinct 1",President,,DEM,Uncommitted,3
+Branch,"Butler Township, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"Calfornia Township, Precinct 1",President,,DEM,Uncommitted,0
+Branch,"City of Bronson, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"City of Coldwater, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"City of Coldwater, Precinct 2",President,,DEM,Uncommitted,11
+Branch,"City of Coldwater, Precinct 3",President,,DEM,Uncommitted,5
+Branch,"City of Coldwater, Precinct 4",President,,DEM,Uncommitted,8
+Branch,"Coldwater Township, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"Gilead Township, Precinct 1",President,,DEM,Uncommitted,0
+Branch,"Girard Township, Precinct 1",President,,DEM,Uncommitted,2
+Branch,"Kinderhook Township, Precinct 1",President,,DEM,Uncommitted,1
+Branch,"Matteson Township, Precinct 1",President,,DEM,Uncommitted,4
+Branch,"Noble Township, Precinct 1",President,,DEM,Uncommitted,0
+Branch,"Ovid Township, Precinct 1",President,,DEM,Uncommitted,2
+Branch,"Quincy Township, Precinct 1",President,,DEM,Uncommitted,2
+Branch,"Quincy Township, Precinct 2",President,,DEM,Uncommitted,0
+Branch,"Sherwood Township, Precinct 1",President,,DEM,Uncommitted,4
+Branch,"Union Township, Precinct 1",President,,DEM,Uncommitted,7
+Branch,"Algansee Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Batavia Township, Precinct 1",President,,REP,Mark Sanford,1
+Branch,"Bethel Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Bronson Township, Precinct 1",President,,REP,Mark Sanford,1
+Branch,"Butler Township, Precinct 1",President,,REP,Mark Sanford,1
+Branch,"Calfornia Township, Precinct 1",President,,REP,Mark Sanford,2
+Branch,"City of Bronson, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"City of Coldwater, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"City of Coldwater, Precinct 2",President,,REP,Mark Sanford,0
+Branch,"City of Coldwater, Precinct 3",President,,REP,Mark Sanford,1
+Branch,"City of Coldwater, Precinct 4",President,,REP,Mark Sanford,2
+Branch,"Coldwater Township, Precinct 1",President,,REP,Mark Sanford,3
+Branch,"Gilead Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Girard Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Matteson Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Noble Township, Precinct 1",President,,REP,Mark Sanford,1
+Branch,"Ovid Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Quincy Township, Precinct 1",President,,REP,Mark Sanford,1
+Branch,"Quincy Township, Precinct 2",President,,REP,Mark Sanford,1
+Branch,"Sherwood Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Union Township, Precinct 1",President,,REP,Mark Sanford,0
+Branch,"Algansee Township, Precinct 1",President,,REP,Donald J. Trump,148
+Branch,"Batavia Township, Precinct 1",President,,REP,Donald J. Trump,89
+Branch,"Bethel Township, Precinct 1",President,,REP,Donald J. Trump,88
+Branch,"Bronson Township, Precinct 1",President,,REP,Donald J. Trump,75
+Branch,"Butler Township, Precinct 1",President,,REP,Donald J. Trump,82
+Branch,"Calfornia Township, Precinct 1",President,,REP,Donald J. Trump,36
+Branch,"City of Bronson, Precinct 1",President,,REP,Donald J. Trump,75
+Branch,"City of Coldwater, Precinct 1",President,,REP,Donald J. Trump,108
+Branch,"City of Coldwater, Precinct 2",President,,REP,Donald J. Trump,221
+Branch,"City of Coldwater, Precinct 3",President,,REP,Donald J. Trump,246
+Branch,"City of Coldwater, Precinct 4",President,,REP,Donald J. Trump,102
+Branch,"Coldwater Township, Precinct 1",President,,REP,Donald J. Trump,326
+Branch,"Gilead Township, Precinct 1",President,,REP,Donald J. Trump,31
+Branch,"Girard Township, Precinct 1",President,,REP,Donald J. Trump,164
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Donald J. Trump,137
+Branch,"Matteson Township, Precinct 1",President,,REP,Donald J. Trump,126
+Branch,"Noble Township, Precinct 1",President,,REP,Donald J. Trump,46
+Branch,"Ovid Township, Precinct 1",President,,REP,Donald J. Trump,211
+Branch,"Quincy Township, Precinct 1",President,,REP,Donald J. Trump,113
+Branch,"Quincy Township, Precinct 2",President,,REP,Donald J. Trump,133
+Branch,"Sherwood Township, Precinct 1",President,,REP,Donald J. Trump,136
+Branch,"Union Township, Precinct 1",President,,REP,Donald J. Trump,204
+Branch,"Algansee Township, Precinct 1",President,,REP,Joe Walsh,2
+Branch,"Batavia Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Bethel Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Bronson Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Butler Township, Precinct 1",President,,REP,Joe Walsh,1
+Branch,"Calfornia Township, Precinct 1",President,,REP,Joe Walsh,1
+Branch,"City of Bronson, Precinct 1",President,,REP,Joe Walsh,2
+Branch,"City of Coldwater, Precinct 1",President,,REP,Joe Walsh,2
+Branch,"City of Coldwater, Precinct 2",President,,REP,Joe Walsh,2
+Branch,"City of Coldwater, Precinct 3",President,,REP,Joe Walsh,2
+Branch,"City of Coldwater, Precinct 4",President,,REP,Joe Walsh,1
+Branch,"Coldwater Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Gilead Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Girard Township, Precinct 1",President,,REP,Joe Walsh,1
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Matteson Township, Precinct 1",President,,REP,Joe Walsh,2
+Branch,"Noble Township, Precinct 1",President,,REP,Joe Walsh,1
+Branch,"Ovid Township, Precinct 1",President,,REP,Joe Walsh,3
+Branch,"Quincy Township, Precinct 1",President,,REP,Joe Walsh,4
+Branch,"Quincy Township, Precinct 2",President,,REP,Joe Walsh,0
+Branch,"Sherwood Township, Precinct 1",President,,REP,Joe Walsh,1
+Branch,"Union Township, Precinct 1",President,,REP,Joe Walsh,0
+Branch,"Algansee Township, Precinct 1",President,,REP,Bill Weld,1
+Branch,"Batavia Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Bethel Township, Precinct 1",President,,REP,Bill Weld,1
+Branch,"Bronson Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Butler Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Calfornia Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"City of Bronson, Precinct 1",President,,REP,Bill Weld,2
+Branch,"City of Coldwater, Precinct 1",President,,REP,Bill Weld,1
+Branch,"City of Coldwater, Precinct 2",President,,REP,Bill Weld,4
+Branch,"City of Coldwater, Precinct 3",President,,REP,Bill Weld,2
+Branch,"City of Coldwater, Precinct 4",President,,REP,Bill Weld,1
+Branch,"Coldwater Township, Precinct 1",President,,REP,Bill Weld,2
+Branch,"Gilead Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Girard Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Bill Weld,3
+Branch,"Matteson Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Noble Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Ovid Township, Precinct 1",President,,REP,Bill Weld,1
+Branch,"Quincy Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Quincy Township, Precinct 2",President,,REP,Bill Weld,3
+Branch,"Sherwood Township, Precinct 1",President,,REP,Bill Weld,0
+Branch,"Union Township, Precinct 1",President,,REP,Bill Weld,2
+Branch,"Algansee Township, Precinct 1",President,,REP,Uncommitted,7
+Branch,"Batavia Township, Precinct 1",President,,REP,Uncommitted,0
+Branch,"Bethel Township, Precinct 1",President,,REP,Uncommitted,3
+Branch,"Bronson Township, Precinct 1",President,,REP,Uncommitted,3
+Branch,"Butler Township, Precinct 1",President,,REP,Uncommitted,1
+Branch,"Calfornia Township, Precinct 1",President,,REP,Uncommitted,0
+Branch,"City of Bronson, Precinct 1",President,,REP,Uncommitted,2
+Branch,"City of Coldwater, Precinct 1",President,,REP,Uncommitted,2
+Branch,"City of Coldwater, Precinct 2",President,,REP,Uncommitted,4
+Branch,"City of Coldwater, Precinct 3",President,,REP,Uncommitted,18
+Branch,"City of Coldwater, Precinct 4",President,,REP,Uncommitted,2
+Branch,"Coldwater Township, Precinct 1",President,,REP,Uncommitted,5
+Branch,"Gilead Township, Precinct 1",President,,REP,Uncommitted,0
+Branch,"Girard Township, Precinct 1",President,,REP,Uncommitted,7
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Uncommitted,4
+Branch,"Matteson Township, Precinct 1",President,,REP,Uncommitted,1
+Branch,"Noble Township, Precinct 1",President,,REP,Uncommitted,1
+Branch,"Ovid Township, Precinct 1",President,,REP,Uncommitted,8
+Branch,"Quincy Township, Precinct 1",President,,REP,Uncommitted,2
+Branch,"Quincy Township, Precinct 2",President,,REP,Uncommitted,1
+Branch,"Sherwood Township, Precinct 1",President,,REP,Uncommitted,2
+Branch,"Union Township, Precinct 1",President,,REP,Uncommitted,10
+Branch,"Algansee Township, Precinct 1",President,,REP,Write-ins,1
+Branch,"Batavia Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Bethel Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Bronson Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Butler Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Calfornia Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"City of Bronson, Precinct 1",President,,REP,Write-ins,0
+Branch,"City of Coldwater, Precinct 1",President,,REP,Write-ins,0
+Branch,"City of Coldwater, Precinct 2",President,,REP,Write-ins,0
+Branch,"City of Coldwater, Precinct 3",President,,REP,Write-ins,1
+Branch,"City of Coldwater, Precinct 4",President,,REP,Write-ins,0
+Branch,"Coldwater Township, Precinct 1",President,,REP,Write-ins,1
+Branch,"Gilead Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Girard Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Kinderhook Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Matteson Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Noble Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Ovid Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Quincy Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Quincy Township, Precinct 2",President,,REP,Write-ins,0
+Branch,"Sherwood Township, Precinct 1",President,,REP,Write-ins,0
+Branch,"Union Township, Precinct 1",President,,REP,Write-ins,1

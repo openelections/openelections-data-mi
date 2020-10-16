@@ -1,0 +1,231 @@
+county,precinct,office,district,candidate,party,votes
+Crawford,1,Registered Voters,,,,1416
+Crawford,1,Ballots Cast,,,,462
+Crawford,2,Registered Voters,,,,1390
+Crawford,2,Ballots Cast,,,,302
+Crawford,302,Registered Voters,,,,351
+Crawford,302,Ballots Cast,,,,97
+Crawford,304,Registered Voters,,,,1691
+Crawford,304,Ballots Cast,,,,593
+Crawford,305,Registered Voters,,,,1700
+Crawford,305,Ballots Cast,,,,474
+Crawford,306,Registered Voters,,,,1087
+Crawford,306,Ballots Cast,,,,283
+Crawford,4,Registered Voters,,,,500
+Crawford,4,Ballots Cast,,,,217
+Crawford,5,Registered Voters,,,,585
+Crawford,5,Ballots Cast,,,,147
+Crawford,6,Registered Voters,,,,1558
+Crawford,6,Ballots Cast,,,,485
+Crawford,7,Registered Voters,,,,1360
+Crawford,7,Ballots Cast,,,,307
+Crawford,1,President,,Michael Bennet,D,1
+Crawford,1,President,,Joe Biden,D,125
+Crawford,1,President,,Michael R Bloomberg,D,10
+Crawford,1,President,,Cory Booker,D,0
+Crawford,1,President,,Pete Buttigieg,D,3
+Crawford,1,President,,Julian Castro,D,0
+Crawford,1,President,,John Delaney,D,1
+Crawford,1,President,,Tulsi Gabbard,D,1
+Crawford,1,President,,Amy Klobuchar,D,2
+Crawford,1,President,,Bernie Sanders,D,42
+Crawford,1,President,,Joe Sestak,D,0
+Crawford,1,President,,Tom Steyer,D,0
+Crawford,1,President,,Elizabeth Warren,D,2
+Crawford,1,President,,Marianne Williamson,D,0
+Crawford,1,President,,Andrew Yang,D,0
+Crawford,1,President,,Uncommitted,D,3
+Crawford,2,President,,Michael Bennet,D,0
+Crawford,2,President,,Joe Biden,D,92
+Crawford,2,President,,Michael R Bloomberg,D,6
+Crawford,2,President,,Cory Booker,D,0
+Crawford,2,President,,Pete Buttigieg,D,5
+Crawford,2,President,,Julian Castro,D,0
+Crawford,2,President,,John Delaney,D,0
+Crawford,2,President,,Tulsi Gabbard,D,1
+Crawford,2,President,,Amy Klobuchar,D,3
+Crawford,2,President,,Bernie Sanders,D,40
+Crawford,2,President,,Joe Sestak,D,0
+Crawford,2,President,,Tom Steyer,D,0
+Crawford,2,President,,Elizabeth Warren,D,3
+Crawford,2,President,,Marianne Williamson,D,0
+Crawford,2,President,,Andrew Yang,D,0
+Crawford,2,President,,Uncommitted,D,2
+Crawford,302,President,,Michael Bennet,D,0
+Crawford,302,President,,Joe Biden,D,24
+Crawford,302,President,,Michael R Bloomberg,D,0
+Crawford,302,President,,Cory Booker,D,0
+Crawford,302,President,,Pete Buttigieg,D,2
+Crawford,302,President,,Julian Castro,D,1
+Crawford,302,President,,John Delaney,D,0
+Crawford,302,President,,Tulsi Gabbard,D,0
+Crawford,302,President,,Amy Klobuchar,D,3
+Crawford,302,President,,Bernie Sanders,D,9
+Crawford,302,President,,Joe Sestak,D,0
+Crawford,302,President,,Tom Steyer,D,0
+Crawford,302,President,,Elizabeth Warren,D,1
+Crawford,302,President,,Marianne Williamson,D,0
+Crawford,302,President,,Andrew Yang,D,0
+Crawford,302,President,,Uncommitted,D,2
+Crawford,304,President,,Michael Bennet,D,0
+Crawford,304,President,,Joe Biden,D,131
+Crawford,304,President,,Michael R Bloomberg,D,19
+Crawford,304,President,,Cory Booker,D,0
+Crawford,304,President,,Pete Buttigieg,D,9
+Crawford,304,President,,Julian Castro,D,0
+Crawford,304,President,,John Delaney,D,0
+Crawford,304,President,,Tulsi Gabbard,D,5
+Crawford,304,President,,Amy Klobuchar,D,9
+Crawford,304,President,,Bernie Sanders,D,106
+Crawford,304,President,,Joe Sestak,D,0
+Crawford,304,President,,Tom Steyer,D,0
+Crawford,304,President,,Elizabeth Warren,D,5
+Crawford,304,President,,Marianne Williamson,D,0
+Crawford,304,President,,Andrew Yang,D,0
+Crawford,304,President,,Uncommitted,D,10
+Crawford,305,President,,Michael Bennet,D,0
+Crawford,305,President,,Joe Biden,D,128
+Crawford,305,President,,Michael R Bloomberg,D,9
+Crawford,305,President,,Cory Booker,D,0
+Crawford,305,President,,Pete Buttigieg,D,7
+Crawford,305,President,,Julian Castro,D,0
+Crawford,305,President,,John Delaney,D,1
+Crawford,305,President,,Tulsi Gabbard,D,5
+Crawford,305,President,,Amy Klobuchar,D,0
+Crawford,305,President,,Bernie Sanders,D,75
+Crawford,305,President,,Joe Sestak,D,0
+Crawford,305,President,,Tom Steyer,D,0
+Crawford,305,President,,Elizabeth Warren,D,2
+Crawford,305,President,,Marianne Williamson,D,0
+Crawford,305,President,,Andrew Yang,D,0
+Crawford,305,President,,Uncommitted,D,3
+Crawford,306,President,,Michael Bennet,D,1
+Crawford,306,President,,Joe Biden,D,87
+Crawford,306,President,,Michael R Bloomberg,D,9
+Crawford,306,President,,Cory Booker,D,0
+Crawford,306,President,,Pete Buttigieg,D,2
+Crawford,306,President,,Julian Castro,D,0
+Crawford,306,President,,John Delaney,D,0
+Crawford,306,President,,Tulsi Gabbard,D,0
+Crawford,306,President,,Amy Klobuchar,D,1
+Crawford,306,President,,Bernie Sanders,D,34
+Crawford,306,President,,Joe Sestak,D,0
+Crawford,306,President,,Tom Steyer,D,1
+Crawford,306,President,,Elizabeth Warren,D,3
+Crawford,306,President,,Marianne Williamson,D,0
+Crawford,306,President,,Andrew Yang,D,0
+Crawford,306,President,,Uncommitted,D,1
+Crawford,4,President,,Michael Bennet,D,0
+Crawford,4,President,,Joe Biden,D,67
+Crawford,4,President,,Michael R Bloomberg,D,7
+Crawford,4,President,,Cory Booker,D,0
+Crawford,4,President,,Pete Buttigieg,D,1
+Crawford,4,President,,Julian Castro,D,0
+Crawford,4,President,,John Delaney,D,0
+Crawford,4,President,,Tulsi Gabbard,D,2
+Crawford,4,President,,Amy Klobuchar,D,0
+Crawford,4,President,,Bernie Sanders,D,24
+Crawford,4,President,,Joe Sestak,D,0
+Crawford,4,President,,Tom Steyer,D,0
+Crawford,4,President,,Elizabeth Warren,D,0
+Crawford,4,President,,Marianne Williamson,D,0
+Crawford,4,President,,Andrew Yang,D,0
+Crawford,4,President,,Uncommitted,D,2
+Crawford,5,President,,Michael Bennet,D,0
+Crawford,5,President,,Joe Biden,D,28
+Crawford,5,President,,Michael R Bloomberg,D,4
+Crawford,5,President,,Cory Booker,D,0
+Crawford,5,President,,Pete Buttigieg,D,0
+Crawford,5,President,,Julian Castro,D,0
+Crawford,5,President,,John Delaney,D,0
+Crawford,5,President,,Tulsi Gabbard,D,0
+Crawford,5,President,,Amy Klobuchar,D,0
+Crawford,5,President,,Bernie Sanders,D,16
+Crawford,5,President,,Joe Sestak,D,0
+Crawford,5,President,,Tom Steyer,D,0
+Crawford,5,President,,Elizabeth Warren,D,0
+Crawford,5,President,,Marianne Williamson,D,1
+Crawford,5,President,,Andrew Yang,D,0
+Crawford,5,President,,Uncommitted,D,0
+Crawford,6,President,,Michael Bennet,D,0
+Crawford,6,President,,Joe Biden,D,143
+Crawford,6,President,,Michael R Bloomberg,D,11
+Crawford,6,President,,Cory Booker,D,0
+Crawford,6,President,,Pete Buttigieg,D,6
+Crawford,6,President,,Julian Castro,D,0
+Crawford,6,President,,John Delaney,D,0
+Crawford,6,President,,Tulsi Gabbard,D,1
+Crawford,6,President,,Amy Klobuchar,D,1
+Crawford,6,President,,Bernie Sanders,D,71
+Crawford,6,President,,Joe Sestak,D,1
+Crawford,6,President,,Tom Steyer,D,0
+Crawford,6,President,,Elizabeth Warren,D,6
+Crawford,6,President,,Marianne Williamson,D,0
+Crawford,6,President,,Andrew Yang,D,0
+Crawford,6,President,,Uncommitted,D,2
+Crawford,7,President,,Michael Bennet,D,1
+Crawford,7,President,,Joe Biden,D,66
+Crawford,7,President,,Michael R Bloomberg,D,4
+Crawford,7,President,,Cory Booker,D,0
+Crawford,7,President,,Pete Buttigieg,D,1
+Crawford,7,President,,Julian Castro,D,0
+Crawford,7,President,,John Delaney,D,0
+Crawford,7,President,,Tulsi Gabbard,D,0
+Crawford,7,President,,Amy Klobuchar,D,1
+Crawford,7,President,,Bernie Sanders,D,77
+Crawford,7,President,,Joe Sestak,D,0
+Crawford,7,President,,Tom Steyer,D,0
+Crawford,7,President,,Elizabeth Warren,D,1
+Crawford,7,President,,Marianne Williamson,D,0
+Crawford,7,President,,Andrew Yang,D,1
+Crawford,7,President,,Uncommitted,D,2
+Crawford,1,President,,Mark Sanford,R,2
+Crawford,1,President,,Donald J Trump,R,251
+Crawford,1,President,,Joe Walsh,R,0
+Crawford,1,President,,Bill Weld,R,0
+Crawford,1,President,,Uncommitted,R,6
+Crawford,2,President,,Mark Sanford,R,0
+Crawford,2,President,,Donald J Trump,R,134
+Crawford,2,President,,Joe Walsh,R,0
+Crawford,2,President,,Bill Weld,R,0
+Crawford,2,President,,Uncommitted,R,1
+Crawford,302,President,,Mark Sanford,R,0
+Crawford,302,President,,Donald J Trump,R,49
+Crawford,302,President,,Joe Walsh,R,0
+Crawford,302,President,,Bill Weld,R,1
+Crawford,302,President,,Uncommitted,R,1
+Crawford,304,President,,Mark Sanford,R,1
+Crawford,304,President,,Donald J Trump,R,249
+Crawford,304,President,,Joe Walsh,R,0
+Crawford,304,President,,Bill Weld,R,1
+Crawford,304,President,,Uncommitted,R,19
+Crawford,305,President,,Mark Sanford,R,0
+Crawford,305,President,,Donald J Trump,R,205
+Crawford,305,President,,Joe Walsh,R,0
+Crawford,305,President,,Bill Weld,R,1
+Crawford,305,President,,Uncommitted,R,6
+Crawford,306,President,,Mark Sanford,R,1
+Crawford,306,President,,Donald J Trump,R,117
+Crawford,306,President,,Joe Walsh,R,1
+Crawford,306,President,,Bill Weld,R,0
+Crawford,306,President,,Uncommitted,R,6
+Crawford,4,President,,Mark Sanford,R,0
+Crawford,4,President,,Donald J Trump,R,91
+Crawford,4,President,,Joe Walsh,R,1
+Crawford,4,President,,Bill Weld,R,1
+Crawford,4,President,,Uncommitted,R,4
+Crawford,5,President,,Mark Sanford,R,0
+Crawford,5,President,,Donald J Trump,R,87
+Crawford,5,President,,Joe Walsh,R,0
+Crawford,5,President,,Bill Weld,R,1
+Crawford,5,President,,Uncommitted,R,1
+Crawford,6,President,,Mark Sanford,R,1
+Crawford,6,President,,Donald J Trump,R,209
+Crawford,6,President,,Joe Walsh,R,0
+Crawford,6,President,,Bill Weld,R,2
+Crawford,6,President,,Uncommitted,R,6
+Crawford,7,President,,Mark Sanford,R,0
+Crawford,7,President,,Donald J Trump,R,123
+Crawford,7,President,,Joe Walsh,R,1
+Crawford,7,President,,Bill Weld,R,3
+Crawford,7,President,,Uncommitted,R,4

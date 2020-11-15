@@ -1,780 +1,771 @@
-,county,precinct,office,district,party,candidate,votes
-0,Arenac,Adams Township,U.S. Senate ,,DEM,Gary Peters,17
-1,Arenac,Arenac Township AGS,U.S. Senate ,,DEM,Gary Peters,50
-2,Arenac,Arenac Township SS,U.S. Senate ,,DEM,Gary Peters,0
-3,Arenac,AuGres Township 1A,U.S. Senate ,,DEM,Gary Peters,81
-4,Arenac,AuGres Township 1B,U.S. Senate ,,DEM,Gary Peters,0
-5,Arenac,Clayton Township,U.S. Senate ,,DEM,Gary Peters,54
-6,Arenac,Deep River Township 1A,U.S. Senate ,,DEM,Gary Peters,119
-7,Arenac,Deep River Township 1B,U.S. Senate ,,DEM,Gary Peters,0
-8,Arenac,Lincoln Township ,U.S. Senate ,,DEM,Gary Peters,45
-9,Arenac,Mason Township,U.S. Senate ,,DEM,Gary Peters,42
-10,Arenac,Moffatt Township,U.S. Senate ,,DEM,Gary Peters,88
-11,Arenac,Sims Township,U.S. Senate ,,DEM,Gary Peters,116
-12,Arenac,Standish Township,U.S. Senate ,,DEM,Gary Peters,104
-13,Arenac,Turner Township,U.S. Senate ,,DEM,Gary Peters,21
-14,Arenac,Whitney Twp AGS,U.S. Senate ,,DEM,Gary Peters,95
-15,Arenac,Whitney Twp TAS,U.S. Senate ,,DEM,Gary Peters,0
-16,Arenac,AuGres City,U.S. Senate ,,DEM,Gary Peters,62
-17,Arenac,Omer City,U.S. Senate ,,DEM,Gary Peters,20
-18,Arenac,Standish City,U.S. Senate ,,DEM,Gary Peters,72
-19,Arenac,Adams Township,Congress 5Th District,5,DEM,Daniel T. Kildee,17
-20,Arenac,Arenac Township AGS,Congress 5Th District,5,DEM,Daniel T. Kildee,50
-21,Arenac,Arenac Township SS,Congress 5Th District,5,DEM,Daniel T. Kildee,0
-22,Arenac,AuGres Township 1A,Congress 5Th District,5,DEM,Daniel T. Kildee,79
-23,Arenac,AuGres Township 1B,Congress 5Th District,5,DEM,Daniel T. Kildee,0
-24,Arenac,Clayton Township,Congress 5Th District,5,DEM,Daniel T. Kildee,54
-25,Arenac,Deep River Township 1A,Congress 5Th District,5,DEM,Daniel T. Kildee,119
-26,Arenac,Deep River Township 1B,Congress 5Th District,5,DEM,Daniel T. Kildee,0
-27,Arenac,Lincoln Township ,Congress 5Th District,5,DEM,Daniel T. Kildee,46
-28,Arenac,Mason Township,Congress 5Th District,5,DEM,Daniel T. Kildee,42
-29,Arenac,Moffatt Township,Congress 5Th District,5,DEM,Daniel T. Kildee,88
-30,Arenac,Sims Township,Congress 5Th District,5,DEM,Daniel T. Kildee,115
-31,Arenac,Standish Township,Congress 5Th District,5,DEM,Daniel T. Kildee,108
-32,Arenac,Turner Township,Congress 5Th District,5,DEM,Daniel T. Kildee,20
-33,Arenac,Whitney Twp AGS,Congress 5Th District,5,DEM,Daniel T. Kildee,97
-34,Arenac,Whitney Twp TAS,Congress 5Th District,5,DEM,Daniel T. Kildee,0
-35,Arenac,AuGres City,Congress 5Th District,5,DEM,Daniel T. Kildee,62
-36,Arenac,Omer City,Congress 5Th District,5,DEM,Daniel T. Kildee,20
-37,Arenac,Standish City,Congress 5Th District,5,DEM,Daniel T. Kildee,73
-38,Arenac,Adams Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,12
-39,Arenac,Arenac Township AGS,State Rep 97Th District,97,DEM,Celia Young-Wenkel,30
-40,Arenac,Arenac Township SS,State Rep 97Th District,97,DEM,Celia Young-Wenkel,0
-41,Arenac,AuGres Township 1A,State Rep 97Th District,97,DEM,Celia Young-Wenkel,50
-42,Arenac,AuGres Township 1B,State Rep 97Th District,97,DEM,Celia Young-Wenkel,0
-43,Arenac,Clayton Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,38
-44,Arenac,Deep River Township 1A,State Rep 97Th District,97,DEM,Celia Young-Wenkel,81
-45,Arenac,Deep River Township 1B,State Rep 97Th District,97,DEM,Celia Young-Wenkel,0
-46,Arenac,Lincoln Township ,State Rep 97Th District,97,DEM,Celia Young-Wenkel,34
-47,Arenac,Mason Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,24
-48,Arenac,Moffatt Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,60
-49,Arenac,Sims Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,69
-50,Arenac,Standish Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,62
-51,Arenac,Turner Township,State Rep 97Th District,97,DEM,Celia Young-Wenkel,13
-52,Arenac,Whitney Twp AGS,State Rep 97Th District,97,DEM,Celia Young-Wenkel,53
-53,Arenac,Whitney Twp TAS,State Rep 97Th District,97,DEM,Celia Young-Wenkel,0
-54,Arenac,AuGres City,State Rep 97Th District,97,DEM,Celia Young-Wenkel,29
-55,Arenac,Omer City,State Rep 97Th District,97,DEM,Celia Young-Wenkel,14
-56,Arenac,Standish City,State Rep 97Th District,97,DEM,Celia Young-Wenkel,41
-57,Arenac,Adams Township,State Rep 97Th District,97,DEM,Shane Atwell,4
-58,Arenac,Arenac Township AGS,State Rep 97Th District,97,DEM,Shane Atwell,16
-59,Arenac,Arenac Township SS,State Rep 97Th District,97,DEM,Shane Atwell,0
-60,Arenac,AuGres Township 1A,State Rep 97Th District,97,DEM,Shane Atwell,20
-61,Arenac,AuGres Township 1B,State Rep 97Th District,97,DEM,Shane Atwell,0
-62,Arenac,Clayton Township,State Rep 97Th District,97,DEM,Shane Atwell,11
-63,Arenac,Deep River Township 1A,State Rep 97Th District,97,DEM,Shane Atwell,33
-64,Arenac,Deep River Township 1B,State Rep 97Th District,97,DEM,Shane Atwell,0
-65,Arenac,Lincoln Township ,State Rep 97Th District,97,DEM,Shane Atwell,8
-66,Arenac,Mason Township,State Rep 97Th District,97,DEM,Shane Atwell,10
-67,Arenac,Moffatt Township,State Rep 97Th District,97,DEM,Shane Atwell,25
-68,Arenac,Sims Township,State Rep 97Th District,97,DEM,Shane Atwell,41
-69,Arenac,Standish Township,State Rep 97Th District,97,DEM,Shane Atwell,35
-70,Arenac,Turner Township,State Rep 97Th District,97,DEM,Shane Atwell,6
-71,Arenac,Whitney Twp AGS,State Rep 97Th District,97,DEM,Shane Atwell,37
-72,Arenac,Whitney Twp TAS,State Rep 97Th District,97,DEM,Shane Atwell,0
-73,Arenac,AuGres City,State Rep 97Th District,97,DEM,Shane Atwell,28
-74,Arenac,Omer City,State Rep 97Th District,97,DEM,Shane Atwell,6
-75,Arenac,Standish City,State Rep 97Th District,97,DEM,Shane Atwell,27
-76,Arenac,Adams Township,U.S. Senate ,,REP,John James,105
-77,Arenac,Arenac Township AGS,U.S. Senate ,,REP,John James,142
-78,Arenac,Arenac Township SS,U.S. Senate ,,REP,John James,0
-79,Arenac,AuGres Township 1A,U.S. Senate ,,REP,John James,226
-80,Arenac,AuGres Township 1B,U.S. Senate ,,REP,John James,0
-81,Arenac,Clayton Township,U.S. Senate ,,REP,John James,133
-82,Arenac,Deep River Township 1A,U.S. Senate ,,REP,John James,391
-83,Arenac,Deep River Township 1B,U.S. Senate ,,REP,John James,0
-84,Arenac,Lincoln Township ,U.S. Senate ,,REP,John James,142
-85,Arenac,Mason Township,U.S. Senate ,,REP,John James,94
-86,Arenac,Moffatt Township,U.S. Senate ,,REP,John James,297
-87,Arenac,Sims Township,U.S. Senate ,,REP,John James,257
-88,Arenac,Standish Township,U.S. Senate ,,REP,John James,212
-89,Arenac,Turner Township,U.S. Senate ,,REP,John James,116
-90,Arenac,Whitney Twp AGS,U.S. Senate ,,REP,John James,188
-91,Arenac,Whitney Twp TAS,U.S. Senate ,,REP,John James,0
-92,Arenac,AuGres City,U.S. Senate ,,REP,John James,164
-93,Arenac,Omer City,U.S. Senate ,,REP,John James,71
-94,Arenac,Standish City,U.S. Senate ,,REP,John James,185
-95,Arenac,Adams Township,Congress 5Th District,5,REP,Earl Lackie,23
-96,Arenac,Arenac Township AGS,Congress 5Th District,5,REP,Earl Lackie,34
-97,Arenac,Arenac Township SS,Congress 5Th District,5,REP,Earl Lackie,0
-98,Arenac,AuGres Township 1A,Congress 5Th District,5,REP,Earl Lackie,50
-99,Arenac,AuGres Township 1B,Congress 5Th District,5,REP,Earl Lackie,0
-100,Arenac,Clayton Township,Congress 5Th District,5,REP,Earl Lackie,19
-101,Arenac,Deep River Township 1A,Congress 5Th District,5,REP,Earl Lackie,83
-102,Arenac,Deep River Township 1B,Congress 5Th District,5,REP,Earl Lackie,0
-103,Arenac,Lincoln Township ,Congress 5Th District,5,REP,Earl Lackie,28
-104,Arenac,Mason Township,Congress 5Th District,5,REP,Earl Lackie,19
-105,Arenac,Moffatt Township,Congress 5Th District,5,REP,Earl Lackie,52
-106,Arenac,Sims Township,Congress 5Th District,5,REP,Earl Lackie,44
-107,Arenac,Standish Township,Congress 5Th District,5,REP,Earl Lackie,39
-108,Arenac,Turner Township,Congress 5Th District,5,REP,Earl Lackie,25
-109,Arenac,Whitney Twp AGS,Congress 5Th District,5,REP,Earl Lackie,31
-110,Arenac,Whitney Twp TAS,Congress 5Th District,5,REP,Earl Lackie,0
-111,Arenac,AuGres City,Congress 5Th District,5,REP,Earl Lackie,23
-112,Arenac,Omer City,Congress 5Th District,5,REP,Earl Lackie,19
-113,Arenac,Standish City,Congress 5Th District,5,REP,Earl Lackie,36
-114,Arenac,Adams Township,Congress 5Th District,5,REP,Tim Kelly,79
-115,Arenac,Arenac Township AGS,Congress 5Th District,5,REP,Tim Kelly,107
-116,Arenac,Arenac Township SS,Congress 5Th District,5,REP,Tim Kelly,0
-117,Arenac,AuGres Township 1A,Congress 5Th District,5,REP,Tim Kelly,183
-118,Arenac,AuGres Township 1B,Congress 5Th District,5,REP,Tim Kelly,0
-119,Arenac,Clayton Township,Congress 5Th District,5,REP,Tim Kelly,103
-120,Arenac,Deep River Township 1A,Congress 5Th District,5,REP,Tim Kelly,295
-121,Arenac,Deep River Township 1B,Congress 5Th District,5,REP,Tim Kelly,0
-122,Arenac,Lincoln Township ,Congress 5Th District,5,REP,Tim Kelly,105
-123,Arenac,Mason Township,Congress 5Th District,5,REP,Tim Kelly,70
-124,Arenac,Moffatt Township,Congress 5Th District,5,REP,Tim Kelly,237
-125,Arenac,Sims Township,Congress 5Th District,5,REP,Tim Kelly,222
-126,Arenac,Standish Township,Congress 5Th District,5,REP,Tim Kelly,179
-127,Arenac,Turner Township,Congress 5Th District,5,REP,Tim Kelly,88
-128,Arenac,Whitney Twp AGS,Congress 5Th District,5,REP,Tim Kelly,156
-129,Arenac,Whitney Twp TAS,Congress 5Th District,5,REP,Tim Kelly,0
-130,Arenac,AuGres City,Congress 5Th District,5,REP,Tim Kelly,150
-131,Arenac,Omer City,Congress 5Th District,5,REP,Tim Kelly,49
-132,Arenac,Standish City,Congress 5Th District,5,REP,Tim Kelly,155
-133,Arenac,Adams Township,State Rep 97Th District,97,REP,Jason Wentworth,103
-134,Arenac,Arenac Township AGS,State Rep 97Th District,97,REP,Jason Wentworth,142
-135,Arenac,Arenac Township SS,State Rep 97Th District,97,REP,Jason Wentworth,0
-136,Arenac,AuGres Township 1A,State Rep 97Th District,97,REP,Jason Wentworth,225
-137,Arenac,AuGres Township 1B,State Rep 97Th District,97,REP,Jason Wentworth,0
-138,Arenac,Clayton Township,State Rep 97Th District,97,REP,Jason Wentworth,128
-139,Arenac,Deep River Township 1A,State Rep 97Th District,97,REP,Jason Wentworth,374
-140,Arenac,Deep River Township 1B,State Rep 97Th District,97,REP,Jason Wentworth,0
-141,Arenac,Lincoln Township ,State Rep 97Th District,97,REP,Jason Wentworth,136
-142,Arenac,Mason Township,State Rep 97Th District,97,REP,Jason Wentworth,89
-143,Arenac,Moffatt Township,State Rep 97Th District,97,REP,Jason Wentworth,284
-144,Arenac,Sims Township,State Rep 97Th District,97,REP,Jason Wentworth,257
-145,Arenac,Standish Township,State Rep 97Th District,97,REP,Jason Wentworth,218
-146,Arenac,Turner Township,State Rep 97Th District,97,REP,Jason Wentworth,111
-147,Arenac,Whitney Twp AGS,State Rep 97Th District,97,REP,Jason Wentworth,189
-148,Arenac,Whitney Twp TAS,State Rep 97Th District,97,REP,Jason Wentworth,0
-149,Arenac,AuGres City,State Rep 97Th District,97,REP,Jason Wentworth,170
-150,Arenac,Omer City,State Rep 97Th District,97,REP,Jason Wentworth,68
-151,Arenac,Standish City,State Rep 97Th District,97,REP,Jason Wentworth,181
-152,Arenac,Adams Township,Prosecuting Attorney,,DEM,Curtis Broughton,17
-153,Arenac,Arenac Township AGS,Prosecuting Attorney,,DEM,Curtis Broughton,0
-154,Arenac,Arenac Township SS,Prosecuting Attorney,,DEM,Curtis Broughton,44
-155,Arenac,AuGres Township 1A,Prosecuting Attorney,,DEM,Curtis Broughton,69
-156,Arenac,AuGres Township 1B,Prosecuting Attorney,,DEM,Curtis Broughton,0
-157,Arenac,Clayton Township,Prosecuting Attorney,,DEM,Curtis Broughton,47
-158,Arenac,Deep River Township 1A,Prosecuting Attorney,,DEM,Curtis Broughton,112
-159,Arenac,Deep River Township 1B,Prosecuting Attorney,,DEM,Curtis Broughton,0
-160,Arenac,Lincoln Township ,Prosecuting Attorney,,DEM,Curtis Broughton,41
-161,Arenac,Mason Township,Prosecuting Attorney,,DEM,Curtis Broughton,36
-162,Arenac,Moffatt Township,Prosecuting Attorney,,DEM,Curtis Broughton,85
-163,Arenac,Sims Township,Prosecuting Attorney,,DEM,Curtis Broughton,105
-164,Arenac,Standish Township,Prosecuting Attorney,,DEM,Curtis Broughton,99
-165,Arenac,Turner Township,Prosecuting Attorney,,DEM,Curtis Broughton,20
-166,Arenac,Whitney Twp AGS,Prosecuting Attorney,,DEM,Curtis Broughton,89
-167,Arenac,Whitney Twp TAS,Prosecuting Attorney,,DEM,Curtis Broughton,0
-168,Arenac,AuGres City,Prosecuting Attorney,,DEM,Curtis Broughton,54
-169,Arenac,Omer City,Prosecuting Attorney,,DEM,Curtis Broughton,18
-170,Arenac,Standish City,Prosecuting Attorney,,DEM,Curtis Broughton,69
-171,Arenac,Adams Township,Sheriff,,REP,James Mosciski,109
-172,Arenac,Arenac Township AGS,Sheriff,,REP,James Mosciski,0
-173,Arenac,Arenac Township SS,Sheriff,,REP,James Mosciski,128
-174,Arenac,AuGres Township 1A,Sheriff,,REP,James Mosciski,139
-175,Arenac,AuGres Township 1B,Sheriff,,REP,James Mosciski,0
-176,Arenac,Clayton Township,Sheriff,,REP,James Mosciski,106
-177,Arenac,Deep River Township 1A,Sheriff,,REP,James Mosciski,307
-178,Arenac,Deep River Township 1B,Sheriff,,REP,James Mosciski,0
-179,Arenac,Lincoln Township ,Sheriff,,REP,James Mosciski,103
-180,Arenac,Mason Township,Sheriff,,REP,James Mosciski,70
-181,Arenac,Moffatt Township,Sheriff,,REP,James Mosciski,160
-182,Arenac,Sims Township,Sheriff,,REP,James Mosciski,162
-183,Arenac,Standish Township,Sheriff,,REP,James Mosciski,208
-184,Arenac,Turner Township,Sheriff,,REP,James Mosciski,74
-185,Arenac,Whitney Twp AGS,Sheriff,,REP,James Mosciski,120
-186,Arenac,Whitney Twp TAS,Sheriff,,REP,James Mosciski,0
-187,Arenac,AuGres City,Sheriff,,REP,James Mosciski,111
-188,Arenac,Omer City,Sheriff,,REP,James Mosciski,44
-189,Arenac,Standish City,Sheriff,,REP,James Mosciski,107
-190,Arenac,Adams Township,Sheriff,,REP,Duane L. Hadley,13
-191,Arenac,Arenac Township AGS,Sheriff,,REP,Duane L. Hadley,0
-192,Arenac,Arenac Township SS,Sheriff,,REP,Duane L. Hadley,28
-193,Arenac,AuGres Township 1A,Sheriff,,REP,Duane L. Hadley,94
-194,Arenac,AuGres Township 1B,Sheriff,,REP,Duane L. Hadley,0
-195,Arenac,Clayton Township,Sheriff,,REP,Duane L. Hadley,25
-196,Arenac,Deep River Township 1A,Sheriff,,REP,Duane L. Hadley,87
-197,Arenac,Deep River Township 1B,Sheriff,,REP,Duane L. Hadley,0
-198,Arenac,Lincoln Township ,Sheriff,,REP,Duane L. Hadley,25
-199,Arenac,Mason Township,Sheriff,,REP,Duane L. Hadley,35
-200,Arenac,Moffatt Township,Sheriff,,REP,Duane L. Hadley,82
-201,Arenac,Sims Township,Sheriff,,REP,Duane L. Hadley,78
-202,Arenac,Standish Township,Sheriff,,REP,Duane L. Hadley,46
-203,Arenac,Turner Township,Sheriff,,REP,Duane L. Hadley,48
-204,Arenac,Whitney Twp AGS,Sheriff,,REP,Duane L. Hadley,70
-205,Arenac,Whitney Twp TAS,Sheriff,,REP,Duane L. Hadley,0
-206,Arenac,AuGres City,Sheriff,,REP,Duane L. Hadley,75
-207,Arenac,Omer City,Sheriff,,REP,Duane L. Hadley,20
-208,Arenac,Standish City,Sheriff,,REP,Duane L. Hadley,40
-209,Arenac,Adams Township,Sheriff,,REP,Dan Snyder,15
-210,Arenac,Arenac Township AGS,Sheriff,,REP,Dan Snyder,0
-211,Arenac,Arenac Township SS,Sheriff,,REP,Dan Snyder,25
-212,Arenac,AuGres Township 1A,Sheriff,,REP,Dan Snyder,35
-213,Arenac,AuGres Township 1B,Sheriff,,REP,Dan Snyder,0
-214,Arenac,Clayton Township,Sheriff,,REP,Dan Snyder,25
-215,Arenac,Deep River Township 1A,Sheriff,,REP,Dan Snyder,97
-216,Arenac,Deep River Township 1B,Sheriff,,REP,Dan Snyder,0
-217,Arenac,Lincoln Township ,Sheriff,,REP,Dan Snyder,35
-218,Arenac,Mason Township,Sheriff,,REP,Dan Snyder,10
-219,Arenac,Moffatt Township,Sheriff,,REP,Dan Snyder,104
-220,Arenac,Sims Township,Sheriff,,REP,Dan Snyder,43
-221,Arenac,Standish Township,Sheriff,,REP,Dan Snyder,30
-222,Arenac,Turner Township,Sheriff,,REP,Dan Snyder,18
-223,Arenac,Whitney Twp AGS,Sheriff,,REP,Dan Snyder,20
-224,Arenac,Whitney Twp TAS,Sheriff,,REP,Dan Snyder,0
-225,Arenac,AuGres City,Sheriff,,REP,Dan Snyder,13
-226,Arenac,Omer City,Sheriff,,REP,Dan Snyder,16
-227,Arenac,Standish City,Sheriff,,REP,Dan Snyder,73
-228,Arenac,Adams Township,County Clerk,,REP,Sherlyn Burkhardt,57
-229,Arenac,Arenac Township AGS,County Clerk,,REP,Sherlyn Burkhardt,0
-230,Arenac,Arenac Township SS,County Clerk,,REP,Sherlyn Burkhardt,52
-231,Arenac,AuGres Township 1A,County Clerk,,REP,Sherlyn Burkhardt,68
-232,Arenac,AuGres Township 1B,County Clerk,,REP,Sherlyn Burkhardt,0
-233,Arenac,Clayton Township,County Clerk,,REP,Sherlyn Burkhardt,60
-234,Arenac,Deep River Township 1A,County Clerk,,REP,Sherlyn Burkhardt,169
-235,Arenac,Deep River Township 1B,County Clerk,,REP,Sherlyn Burkhardt,0
-236,Arenac,Lincoln Township ,County Clerk,,REP,Sherlyn Burkhardt,47
-237,Arenac,Mason Township,County Clerk,,REP,Sherlyn Burkhardt,28
-238,Arenac,Moffatt Township,County Clerk,,REP,Sherlyn Burkhardt,84
-239,Arenac,Sims Township,County Clerk,,REP,Sherlyn Burkhardt,49
-240,Arenac,Standish Township,County Clerk,,REP,Sherlyn Burkhardt,112
-241,Arenac,Turner Township,County Clerk,,REP,Sherlyn Burkhardt,37
-242,Arenac,Whitney Twp AGS,County Clerk,,REP,Sherlyn Burkhardt,45
-243,Arenac,Whitney Twp TAS,County Clerk,,REP,Sherlyn Burkhardt,0
-244,Arenac,AuGres City,County Clerk,,REP,Sherlyn Burkhardt,36
-245,Arenac,Omer City,County Clerk,,REP,Sherlyn Burkhardt,34
-246,Arenac,Standish City,County Clerk,,REP,Sherlyn Burkhardt,72
-247,Arenac,Adams Township,County Clerk,,REP,Holly R. Hudson,23
-248,Arenac,Arenac Township AGS,County Clerk,,REP,Holly R. Hudson,0
-249,Arenac,Arenac Township SS,County Clerk,,REP,Holly R. Hudson,57
-250,Arenac,AuGres Township 1A,County Clerk,,REP,Holly R. Hudson,38
-251,Arenac,AuGres Township 1B,County Clerk,,REP,Holly R. Hudson,0
-252,Arenac,Clayton Township,County Clerk,,REP,Holly R. Hudson,36
-253,Arenac,Deep River Township 1A,County Clerk,,REP,Holly R. Hudson,110
-254,Arenac,Deep River Township 1B,County Clerk,,REP,Holly R. Hudson,0
-255,Arenac,Lincoln Township ,County Clerk,,REP,Holly R. Hudson,48
-256,Arenac,Mason Township,County Clerk,,REP,Holly R. Hudson,25
-257,Arenac,Moffatt Township,County Clerk,,REP,Holly R. Hudson,107
-258,Arenac,Sims Township,County Clerk,,REP,Holly R. Hudson,49
-259,Arenac,Standish Township,County Clerk,,REP,Holly R. Hudson,41
-260,Arenac,Turner Township,County Clerk,,REP,Holly R. Hudson,18
-261,Arenac,Whitney Twp AGS,County Clerk,,REP,Holly R. Hudson,33
-262,Arenac,Whitney Twp TAS,County Clerk,,REP,Holly R. Hudson,0
-263,Arenac,AuGres City,County Clerk,,REP,Holly R. Hudson,24
-264,Arenac,Omer City,County Clerk,,REP,Holly R. Hudson,18
-265,Arenac,Standish City,County Clerk,,REP,Holly R. Hudson,55
-266,Arenac,Adams Township,County Clerk,,REP,Nancy Selle,39
-267,Arenac,Arenac Township AGS,County Clerk,,REP,Nancy Selle,0
-268,Arenac,Arenac Township SS,County Clerk,,REP,Nancy Selle,54
-269,Arenac,AuGres Township 1A,County Clerk,,REP,Nancy Selle,158
-270,Arenac,AuGres Township 1B,County Clerk,,REP,Nancy Selle,0
-271,Arenac,Clayton Township,County Clerk,,REP,Nancy Selle,47
-272,Arenac,Deep River Township 1A,County Clerk,,REP,Nancy Selle,159
-273,Arenac,Deep River Township 1B,County Clerk,,REP,Nancy Selle,0
-274,Arenac,Lincoln Township ,County Clerk,,REP,Nancy Selle,52
-275,Arenac,Mason Township,County Clerk,,REP,Nancy Selle,51
-276,Arenac,Moffatt Township,County Clerk,,REP,Nancy Selle,111
-277,Arenac,Sims Township,County Clerk,,REP,Nancy Selle,169
-278,Arenac,Standish Township,County Clerk,,REP,Nancy Selle,110
-279,Arenac,Turner Township,County Clerk,,REP,Nancy Selle,85
-280,Arenac,Whitney Twp AGS,County Clerk,,REP,Nancy Selle,118
-281,Arenac,Whitney Twp TAS,County Clerk,,REP,Nancy Selle,0
-282,Arenac,AuGres City,County Clerk,,REP,Nancy Selle,127
-283,Arenac,Omer City,County Clerk,,REP,Nancy Selle,22
-284,Arenac,Standish City,County Clerk,,REP,Nancy Selle,73
-285,Arenac,Adams Township,County Treasurer,,REP,Dennis Stawowy,111
-286,Arenac,Arenac Township AGS,County Treasurer,,REP,Dennis Stawowy,0
-287,Arenac,Arenac Township SS,County Treasurer,,REP,Dennis Stawowy,154
-288,Arenac,AuGres Township 1A,County Treasurer,,REP,Dennis Stawowy,220
-289,Arenac,AuGres Township 1B,County Treasurer,,REP,Dennis Stawowy,0
-290,Arenac,Clayton Township,County Treasurer,,REP,Dennis Stawowy,135
-291,Arenac,Deep River Township 1A,County Treasurer,,REP,Dennis Stawowy,414
-292,Arenac,Deep River Township 1B,County Treasurer,,REP,Dennis Stawowy,0
-293,Arenac,Lincoln Township ,County Treasurer,,REP,Dennis Stawowy,139
-294,Arenac,Mason Township,County Treasurer,,REP,Dennis Stawowy,91
-295,Arenac,Moffatt Township,County Treasurer,,REP,Dennis Stawowy,289
-296,Arenac,Sims Township,County Treasurer,,REP,Dennis Stawowy,253
-297,Arenac,Standish Township,County Treasurer,,REP,Dennis Stawowy,242
-298,Arenac,Turner Township,County Treasurer,,REP,Dennis Stawowy,119
-299,Arenac,Whitney Twp AGS,County Treasurer,,REP,Dennis Stawowy,179
-300,Arenac,Whitney Twp TAS,County Treasurer,,REP,Dennis Stawowy,0
-301,Arenac,AuGres City,County Treasurer,,REP,Dennis Stawowy,158
-302,Arenac,Omer City,County Treasurer,,REP,Dennis Stawowy,73
-303,Arenac,Standish City,County Treasurer,,REP,Dennis Stawowy,184
-304,Arenac,Adams Township,Register Of Deeds,,REP,Darlene Mikkola,15
-305,Arenac,Arenac Township AGS,Register Of Deeds,,REP,Darlene Mikkola,0
-306,Arenac,Arenac Township SS,Register Of Deeds,,REP,Darlene Mikkola,41
-307,Arenac,AuGres Township 1A,Register Of Deeds,,REP,Darlene Mikkola,69
-308,Arenac,AuGres Township 1B,Register Of Deeds,,REP,Darlene Mikkola,0
-309,Arenac,Clayton Township,Register Of Deeds,,REP,Darlene Mikkola,41
-310,Arenac,Deep River Township 1A,Register Of Deeds,,REP,Darlene Mikkola,95
-311,Arenac,Deep River Township 1B,Register Of Deeds,,REP,Darlene Mikkola,0
-312,Arenac,Lincoln Township ,Register Of Deeds,,REP,Darlene Mikkola,34
-313,Arenac,Mason Township,Register Of Deeds,,REP,Darlene Mikkola,31
-314,Arenac,Moffatt Township,Register Of Deeds,,REP,Darlene Mikkola,72
-315,Arenac,Sims Township,Register Of Deeds,,REP,Darlene Mikkola,94
-316,Arenac,Standish Township,Register Of Deeds,,REP,Darlene Mikkola,83
-317,Arenac,Turner Township,Register Of Deeds,,REP,Darlene Mikkola,19
-318,Arenac,Whitney Twp AGS,Register Of Deeds,,REP,Darlene Mikkola,82
-319,Arenac,Whitney Twp TAS,Register Of Deeds,,REP,Darlene Mikkola,0
-320,Arenac,AuGres City,Register Of Deeds,,REP,Darlene Mikkola,50
-321,Arenac,Omer City,Register Of Deeds,,REP,Darlene Mikkola,15
-322,Arenac,Standish City,Register Of Deeds,,REP,Darlene Mikkola,59
-323,Arenac,Adams Township,Road Commissioner,,REP,Olen Swartz,96
-324,Arenac,Arenac Township AGS,Road Commissioner,,REP,Olen Swartz,0
-325,Arenac,Arenac Township SS,Road Commissioner,,REP,Olen Swartz,140
-326,Arenac,AuGres Township 1A,Road Commissioner,,REP,Olen Swartz,213
-327,Arenac,AuGres Township 1B,Road Commissioner,,REP,Olen Swartz,0
-328,Arenac,Clayton Township,Road Commissioner,,REP,Olen Swartz,127
-329,Arenac,Deep River Township 1A,Road Commissioner,,REP,Olen Swartz,365
-330,Arenac,Deep River Township 1B,Road Commissioner,,REP,Olen Swartz,0
-331,Arenac,Lincoln Township ,Road Commissioner,,REP,Olen Swartz,125
-332,Arenac,Mason Township,Road Commissioner,,REP,Olen Swartz,86
-333,Arenac,Moffatt Township,Road Commissioner,,REP,Olen Swartz,271
-334,Arenac,Sims Township,Road Commissioner,,REP,Olen Swartz,245
-335,Arenac,Standish Township,Road Commissioner,,REP,Olen Swartz,208
-336,Arenac,Turner Township,Road Commissioner,,REP,Olen Swartz,104
-337,Arenac,Whitney Twp AGS,Road Commissioner,,REP,Olen Swartz,179
-338,Arenac,Whitney Twp TAS,Road Commissioner,,REP,Olen Swartz,0
-339,Arenac,AuGres City,Road Commissioner,,REP,Olen Swartz,164
-340,Arenac,Omer City,Road Commissioner,,REP,Olen Swartz,69
-341,Arenac,Standish City,Road Commissioner,,REP,Olen Swartz,168
-342,Arenac,Adams Township,Drain Commissioner,,REP,Jeffrey Trombley,13
-343,Arenac,Arenac Township AGS,Drain Commissioner,,REP,Jeffrey Trombley,0
-344,Arenac,Arenac Township SS,Drain Commissioner,,REP,Jeffrey Trombley,42
-345,Arenac,AuGres Township 1A,Drain Commissioner,,REP,Jeffrey Trombley,71
-346,Arenac,AuGres Township 1B,Drain Commissioner,,REP,Jeffrey Trombley,0
-347,Arenac,Clayton Township,Drain Commissioner,,REP,Jeffrey Trombley,50
-348,Arenac,Deep River Township 1A,Drain Commissioner,,REP,Jeffrey Trombley,109
-349,Arenac,Deep River Township 1B,Drain Commissioner,,REP,Jeffrey Trombley,0
-350,Arenac,Lincoln Township ,Drain Commissioner,,REP,Jeffrey Trombley,40
-351,Arenac,Mason Township,Drain Commissioner,,REP,Jeffrey Trombley,36
-352,Arenac,Moffatt Township,Drain Commissioner,,REP,Jeffrey Trombley,80
-353,Arenac,Sims Township,Drain Commissioner,,REP,Jeffrey Trombley,105
-354,Arenac,Standish Township,Drain Commissioner,,REP,Jeffrey Trombley,99
-355,Arenac,Turner Township,Drain Commissioner,,REP,Jeffrey Trombley,19
-356,Arenac,Whitney Twp AGS,Drain Commissioner,,REP,Jeffrey Trombley,86
-357,Arenac,Whitney Twp TAS,Drain Commissioner,,REP,Jeffrey Trombley,0
-358,Arenac,AuGres City,Drain Commissioner,,REP,Jeffrey Trombley,51
-359,Arenac,Omer City,Drain Commissioner,,REP,Jeffrey Trombley,19
-360,Arenac,Standish City,Drain Commissioner,,REP,Jeffrey Trombley,60
-361,Arenac,Adams Township,Drain Commissioner,,REP,Larry Davis,87
-362,Arenac,Arenac Township AGS,Drain Commissioner,,REP,Larry Davis,0
-363,Arenac,Arenac Township SS,Drain Commissioner,,REP,Larry Davis,119
-364,Arenac,AuGres Township 1A,Drain Commissioner,,REP,Larry Davis,180
-365,Arenac,AuGres Township 1B,Drain Commissioner,,REP,Larry Davis,0
-366,Arenac,Clayton Township,Drain Commissioner,,REP,Larry Davis,118
-367,Arenac,Deep River Township 1A,Drain Commissioner,,REP,Larry Davis,326
-368,Arenac,Deep River Township 1B,Drain Commissioner,,REP,Larry Davis,0
-369,Arenac,Lincoln Township ,Drain Commissioner,,REP,Larry Davis,112
-370,Arenac,Mason Township,Drain Commissioner,,REP,Larry Davis,82
-371,Arenac,Moffatt Township,Drain Commissioner,,REP,Larry Davis,280
-372,Arenac,Sims Township,Drain Commissioner,,REP,Larry Davis,243
-373,Arenac,Standish Township,Drain Commissioner,,REP,Larry Davis,210
-374,Arenac,Turner Township,Drain Commissioner,,REP,Larry Davis,100
-375,Arenac,Whitney Twp AGS,Drain Commissioner,,REP,Larry Davis,162
-376,Arenac,Whitney Twp TAS,Drain Commissioner,,REP,Larry Davis,0
-377,Arenac,AuGres City,Drain Commissioner,,REP,Larry Davis,162
-378,Arenac,Omer City,Drain Commissioner,,REP,Larry Davis,66
-379,Arenac,Standish City,Drain Commissioner,,REP,Larry Davis,147
-380,Arenac,Adams Township,County Commissioner #1,,REP,Sally Mrozinski,109
-381,Arenac,Arenac Township AGS,County Commissioner #1,,REP,Sally Mrozinski,0
-382,Arenac,Arenac Township SS,County Commissioner #1,,REP,Sally Mrozinski,0
-383,Arenac,AuGres Township 1A,County Commissioner #1,,REP,Sally Mrozinski,0
-384,Arenac,AuGres Township 1B,County Commissioner #1,,REP,Sally Mrozinski,0
-385,Arenac,Clayton Township,County Commissioner #1,,REP,Sally Mrozinski,0
-386,Arenac,Deep River Township 1A,County Commissioner #1,,REP,Sally Mrozinski,235
-387,Arenac,Deep River Township 1B,County Commissioner #1,,REP,Sally Mrozinski,0
-388,Arenac,Lincoln Township ,County Commissioner #1,,REP,Sally Mrozinski,0
-389,Arenac,Mason Township,County Commissioner #1,,REP,Sally Mrozinski,0
-390,Arenac,Moffatt Township,County Commissioner #1,,REP,Sally Mrozinski,284
-391,Arenac,Sims Township,County Commissioner #1,,REP,Sally Mrozinski,0
-392,Arenac,Standish Township,County Commissioner #1,,REP,Sally Mrozinski,0
-393,Arenac,Turner Township,County Commissioner #1,,REP,Sally Mrozinski,0
-394,Arenac,Whitney Twp AGS,County Commissioner #1,,REP,Sally Mrozinski,0
-395,Arenac,Whitney Twp TAS,County Commissioner #1,,REP,Sally Mrozinski,0
-396,Arenac,AuGres City,County Commissioner #1,,REP,Sally Mrozinski,0
-397,Arenac,Omer City,County Commissioner #1,,REP,Sally Mrozinski,0
-398,Arenac,Standish City,County Commissioner #1,,REP,Sally Mrozinski,0
-399,Arenac,Adams Township,County Commissioner #2,,REP,Lisa Salgat,0
-400,Arenac,Arenac Township AGS,County Commissioner #2,,REP,Lisa Salgat,0
-401,Arenac,Arenac Township SS,County Commissioner #2,,REP,Lisa Salgat,0
-402,Arenac,AuGres Township 1A,County Commissioner #2,,REP,Lisa Salgat,127
-403,Arenac,AuGres Township 1B,County Commissioner #2,,REP,Lisa Salgat,0
-404,Arenac,Clayton Township,County Commissioner #2,,REP,Lisa Salgat,128
-405,Arenac,Deep River Township 1A,County Commissioner #2,,REP,Lisa Salgat,0
-406,Arenac,Deep River Township 1B,County Commissioner #2,,REP,Lisa Salgat,0
-407,Arenac,Lincoln Township ,County Commissioner #2,,REP,Lisa Salgat,0
-408,Arenac,Mason Township,County Commissioner #2,,REP,Lisa Salgat,83
-409,Arenac,Moffatt Township,County Commissioner #2,,REP,Lisa Salgat,0
-410,Arenac,Sims Township,County Commissioner #2,,REP,Lisa Salgat,0
-411,Arenac,Standish Township,County Commissioner #2,,REP,Lisa Salgat,0
-412,Arenac,Turner Township,County Commissioner #2,,REP,Lisa Salgat,105
-413,Arenac,Whitney Twp AGS,County Commissioner #2,,REP,Lisa Salgat,0
-414,Arenac,Whitney Twp TAS,County Commissioner #2,,REP,Lisa Salgat,0
-415,Arenac,AuGres City,County Commissioner #2,,REP,Lisa Salgat,0
-416,Arenac,Omer City,County Commissioner #2,,REP,Lisa Salgat,0
-417,Arenac,Standish City,County Commissioner #3,,REP,Lisa Salgat,0
-418,Arenac,Adams Township,County Commissioner #3,,REP,Roberta Burke,0
-419,Arenac,Arenac Township AGS,County Commissioner #3,,REP,Roberta Burke,0
-420,Arenac,Arenac Township SS,County Commissioner #3,,REP,Roberta Burke,0
-421,Arenac,AuGres Township 1A,County Commissioner #3,,REP,Roberta Burke,0
-422,Arenac,AuGres Township 1B,County Commissioner #3,,REP,Roberta Burke,61
-423,Arenac,Clayton Township,County Commissioner #3,,REP,Roberta Burke,0
-424,Arenac,Deep River Township 1A,County Commissioner #3,,REP,Roberta Burke,0
-425,Arenac,Deep River Township 1B,County Commissioner #3,,REP,Roberta Burke,0
-426,Arenac,Lincoln Township ,County Commissioner #3,,REP,Roberta Burke,0
-427,Arenac,Mason Township,County Commissioner #3,,REP,Roberta Burke,0
-428,Arenac,Moffatt Township,County Commissioner #3,,REP,Roberta Burke,0
-429,Arenac,Sims Township,County Commissioner #3,,REP,Roberta Burke,240
-430,Arenac,Standish Township,County Commissioner #3,,REP,Roberta Burke,0
-431,Arenac,Turner Township,County Commissioner #3,,REP,Roberta Burke,0
-432,Arenac,Whitney Twp AGS,County Commissioner #3,,REP,Roberta Burke,157
-433,Arenac,Whitney Twp TAS,County Commissioner #3,,REP,Roberta Burke,0
-434,Arenac,AuGres City,County Commissioner #3,,REP,Roberta Burke,149
-435,Arenac,Omer City,County Commissioner #3,,REP,Roberta Burke,0
-436,Arenac,Standish City,County Commissioner #3,,REP,Roberta Burke,0
-437,Arenac,Adams Township,County Commissioner #4,,REP,Harold Woolhiser,0
-438,Arenac,Arenac Township AGS,County Commissioner #4,,REP,Harold Woolhiser,0
-439,Arenac,Arenac Township SS,County Commissioner #4,,REP,Harold Woolhiser,128
-440,Arenac,AuGres Township 1A,County Commissioner #4,,REP,Harold Woolhiser,0
-441,Arenac,AuGres Township 1B,County Commissioner #4,,REP,Harold Woolhiser,0
-442,Arenac,Clayton Township,County Commissioner #4,,REP,Harold Woolhiser,0
-443,Arenac,Deep River Township 1A,County Commissioner #4,,REP,Harold Woolhiser,0
-444,Arenac,Deep River Township 1B,County Commissioner #4,,REP,Harold Woolhiser,0
-445,Arenac,Lincoln Township ,County Commissioner #4,,REP,Harold Woolhiser,0
-446,Arenac,Mason Township,County Commissioner #4,,REP,Harold Woolhiser,0
-447,Arenac,Moffatt Township,County Commissioner #4,,REP,Harold Woolhiser,0
-448,Arenac,Sims Township,County Commissioner #4,,REP,Harold Woolhiser,0
-449,Arenac,Standish Township,County Commissioner #4,,REP,Harold Woolhiser,238
-450,Arenac,Turner Township,County Commissioner #4,,REP,Harold Woolhiser,0
-451,Arenac,Whitney Twp AGS,County Commissioner #4,,REP,Harold Woolhiser,0
-452,Arenac,Whitney Twp TAS,County Commissioner #4,,REP,Harold Woolhiser,0
-453,Arenac,AuGres City,County Commissioner #4,,REP,Harold Woolhiser,0
-454,Arenac,Omer City,County Commissioner #4,,REP,Harold Woolhiser,64
-455,Arenac,Standish City,County Commissioner #4,,REP,Harold Woolhiser,0
-456,Arenac,Adams Township,County Commissioner #5,,REP,James Hergott,0
-457,Arenac,Arenac Township AGS,County Commissioner #5,,REP,James Hergott,0
-458,Arenac,Arenac Township SS,County Commissioner #5,,REP,James Hergott,0
-459,Arenac,AuGres Township 1A,County Commissioner #5,,REP,James Hergott,0
-460,Arenac,AuGres Township 1B,County Commissioner #5,,REP,James Hergott,0
-461,Arenac,Clayton Township,County Commissioner #5,,REP,James Hergott,0
-462,Arenac,Deep River Township 1A,County Commissioner #5,,REP,James Hergott,93
-463,Arenac,Deep River Township 1B,County Commissioner #5,,REP,James Hergott,78
-464,Arenac,Lincoln Township ,County Commissioner #5,,REP,James Hergott,0
-465,Arenac,Mason Township,County Commissioner #5,,REP,James Hergott,0
-466,Arenac,Moffatt Township,County Commissioner #5,,REP,James Hergott,0
-467,Arenac,Sims Township,County Commissioner #5,,REP,James Hergott,0
-468,Arenac,Standish Township,County Commissioner #5,,REP,James Hergott,0
-469,Arenac,Turner Township,County Commissioner #5,,REP,James Hergott,0
-470,Arenac,Whitney Twp AGS,County Commissioner #5,,REP,James Hergott,0
-471,Arenac,Whitney Twp TAS,County Commissioner #5,,REP,James Hergott,0
-472,Arenac,AuGres City,County Commissioner #5,,REP,James Hergott,0
-473,Arenac,Omer City,County Commissioner #5,,REP,James Hergott,0
-474,Arenac,Standish City,County Commissioner #5,,REP,James Hergott,90
-475,Arenac,Adams Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-476,Arenac,Arenac Township AGS,County Commissioner #5,,REP,Jacquob Littlejohn,0
-477,Arenac,Arenac Township SS,County Commissioner #5,,REP,Jacquob Littlejohn,0
-478,Arenac,AuGres Township 1A,County Commissioner #5,,REP,Jacquob Littlejohn,0
-479,Arenac,AuGres Township 1B,County Commissioner #5,,REP,Jacquob Littlejohn,0
-480,Arenac,Clayton Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-481,Arenac,Deep River Township 1A,County Commissioner #5,,REP,Jacquob Littlejohn,70
-482,Arenac,Deep River Township 1B,County Commissioner #5,,REP,Jacquob Littlejohn,68
-483,Arenac,Lincoln Township ,County Commissioner #5,,REP,Jacquob Littlejohn,0
-484,Arenac,Mason Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-485,Arenac,Moffatt Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-486,Arenac,Sims Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-487,Arenac,Standish Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-488,Arenac,Turner Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
-489,Arenac,Whitney Twp AGS,County Commissioner #5,,REP,Jacquob Littlejohn,0
-490,Arenac,Whitney Twp TAS,County Commissioner #5,,REP,Jacquob Littlejohn,0
-491,Arenac,AuGres City,County Commissioner #5,,REP,Jacquob Littlejohn,0
-492,Arenac,Omer City,County Commissioner #5,,REP,Jacquob Littlejohn,0
-493,Arenac,Standish City,County Commissioner #5,,REP,Jacquob Littlejohn,101
-494,Arenac,Adams Township,Supervisor,,REP,Mark Revord,100
-495,Arenac,Adams Township,Clerk,,REP,Charity Sisco,98
-496,Arenac,Adams Township,Treasurer,,REP,Darlene E. Wolford,90
-497,Arenac,Adams Township,Trustee,,REP,Kevin Mctaggart,59
-498,Arenac,Adams Township,Trustee,,REP,Lisa A. Meihls,95
-499,Arenac,Arenac Township SS,Supervisor,,DEM,Timothy W. Hagley,44
-500,Arenac,Arenac Township SS,Clerk,,REP,Jessica Schlanderer,138
-501,Arenac,Arenac Township SS,Treasurer,,DEM,Cindy Halamar,43
-502,Arenac,Arenac Township SS,Treasurer,,REP,Pamela Proulx,136
-503,Arenac,Arenac Township SS,Trustee,,REP,Joe Carruthers,107
-504,Arenac,Arenac Township SS,Trustee,,REP,Allen Osier,111
-505,Arenac,AuGres Township 1A,Clerk,,DEM,Michael Oxley,71
-506,Arenac,AuGres Township 1A,Treasurer,,REP,Patricia Tremble,184
-507,Arenac,AuGres Township 1A,Trustee,,DEM,Penny Kurchak,64
-508,Arenac,AuGres Township 1A,Trustee,,DEM,Norma Schwiderson - Write In,9
-509,Arenac,Clayton Township,Supervisor,,REP,Byron Fogarasi,127
-510,Arenac,Clayton Township,Clerk,,DEM,Katie Youmans,41
-511,Arenac,Clayton Township,Clerk,,REP,Robyn Fogarasi,128
-512,Arenac,Clayton Township,Treasurer,,REP,Patricia J Berrry,137
-513,Arenac,Clayton Township,Trustee,,REP,Sandra K Bowen,52
-514,Arenac,Clayton Township,Trustee,,REP,Billy Daniels,72
-515,Arenac,Clayton Township,Trustee,,REP,Victor W. Daniels Jr,100
-516,Arenac,Deep River Township 1A,Supervisor,,REP,Karlia Kroczaleski-Raymond,337
-517,Arenac,Deep River Township 1A,Clerk,,DEM,Ann Marie Borushko,107
-518,Arenac,Deep River Township 1A,Clerk,,REP,Casey Gwisdala - Write In,23
-519,Arenac,Deep River Township 1A,Treasurer,,DEM,Carol Peistrack,108
-520,Arenac,Deep River Township 1A,Trustee,,DEM,Joann Swartz,112
-521,Arenac,Deep River Township 1A,Trustee,,REP,Kevin L. Kroczaleski,229
-522,Arenac,Deep River Township 1A,Trustee,,REP,Matthew J. Stawowy,327
-523,Arenac,Lincoln Township ,Supervisor,,DEM,Gerald Ernest Wenkel,41
-524,Arenac,Lincoln Township ,Clerk,,DEM,Ardith Demo,42
-525,Arenac,Lincoln Township ,Treasurer,,DEM,Judy M.   Bell,44
-526,Arenac,Lincoln Township ,Trustee,,DEM,Marcella Ruszala,35
-527,Arenac,Lincoln Township ,Trustee,,DEM,Noreen J. Walter,33
-528,Arenac,Mason Township,Supervisor,,REP,Mark Heideman,89
-529,Arenac,Mason Township,Clerk,,DEM,Darlene S. Janish,42
-530,Arenac,Mason Township,Treasurer,,DEM,Shelly Everitt,41
-531,Arenac,Mason Township,Trustee,,DEM,Paul T. Phelan,42
-532,Arenac,Mason Township,Trustee,,REP,Jeff Piar,79
-533,Arenac,Moffatt Township,Supervisor,,DEM,David James Roberts Jr,72
-534,Arenac,Moffatt Township,Supervisor,,REP,Raymond L. Daniesl,325
-535,Arenac,Moffatt Township,Clerk,,REP,Stefanie Kernstock,291
-536,Arenac,Moffatt Township,Treasurer,,REP,Allison Chmielewski,81
-537,Arenac,Moffatt Township,Treasurer,,REP,Kevin Kaczmarek,265
-538,Arenac,Moffatt Township,Trustee,,REP,Lee Chard,186
-539,Arenac,Moffatt Township,Trustee,,REP,Leonard B. Mezey Jr,155
-540,Arenac,Moffatt Township,Trustee,,REP,Ron Vittitow,128
-541,Arenac,Moffatt Township,Constable,,DEM,Pat Jedrzejczyk,73
-542,Arenac,Sims Township,Supervisor,,REP,Rovert A Mackie,23
-543,Arenac,Sims Township,Clerk,,REP,Judy L. Mackie,227
-544,Arenac,Sims Township,Treasurer,,DEM,Sharon L. Boensch,99
-545,Arenac,Sims Township,Trustee,,DEM,Lynn Richard Proulx,104
-546,Arenac,Sims Township,Trustee,,REP,Michael J. De Leo,232
-547,Arenac,Standish Township,Supervisor,,REP,Robert L. North,216
-548,Arenac,Standish Township,Clerk,,REP,Shara Klenk,2255
-549,Arenac,Standish Township,Treasurer,,REP,Susan M. Kohn,234
-550,Arenac,Standish Township,Trustee,,REP,Ryan G. Klenk,155
-551,Arenac,Standish Township,Trustee,,REP,Roberta Lynch,134
-552,Arenac,Standish Township,Trustee,,REP,Wayne Reetz,85
-553,Arenac,Turner Township,Supervisor,,REP,Herbert Keeley,93
-554,Arenac,Turner Township,Clerk,,DEM,Tina Schumacher,15
-555,Arenac,Turner Township,Treasurer,,REP,Colleen Rittenberg,113
-556,Arenac,Turner Township,Trustee,,REP,William Kiernicki - Write In,8
-557,Arenac,Turner Township,Trustee,,REP,Jim Rittenberg - Write In,13
-558,Arenac,Whitney Twp AGS,Supervisor,,REP,Donald Becker,143
-559,Arenac,Whitney Twp AGS,Supervisor,,REP,Serge Boulet,51
-560,Arenac,Whitney Twp AGS,Clerk,,REP,Kimberly Anderson,164
-561,Arenac,Whitney Twp AGS,Treasurer,,REP,John M. Gehris,163
-562,Arenac,Whitney Twp AGS,Trustee,,REP,Scott Mcalindon,153
-563,Arenac,Whitney Twp AGS,Trustee,,REP,Ralph S. Zimmerman,109
-564,Arenac,AuGress TWP,Nan,,REP,Robert L. Cotter Ii,159
-565,Arenac,Deep River Twp,Nan,,REP,Gail Schmidt,107
-566,Arenac,Deep River Twp,Nan,,REP,Sherlyn Burkhardt,239
-567,Arenac,Deep River Twp,Nan,,REP,Rosanne Stawowy,277
-568,Arenac,Turner Twp,Nan,,REP,Ricky R. Rockwell,111
-569,Arenac,Whitney TWP,Nan,,DEM,Michael H. Snyder,87
-570,Arenac,City of Au Gres,Nan,,DEM,Patricia Killingbeck,43
-571,Arenac,City of Standish,Nan,,DEM,Betsy Leadbetter,49
-572,Arenac,City of Standish,Nan,,DEM,Janice A. Grier,47
-573,Arenac,AuGres Township 1A,Road Improvement Millage Renewal,,NON,Yes,230
-574,Arenac,AuGres Township 1B,Road Improvement Millage Renewal,,NON,Yes,0
-575,Arenac,AuGres Township 1A,Road Improvement Millage Renewal,,NON,No,110
-576,Arenac,AuGres Township 1B,Road Improvement Millage Renewal,,NON,No,0
-577,Arenac,AuGres Township 1A,Mosquito Control & Suppression Millage Renewal,,NON,Yes,281
-578,Arenac,AuGres Township 1B,Mosquito Control & Suppression Millage Renewal,,NON,Yes,0
-579,Arenac,AuGres Township 1A,Mosquito Control & Suppression Millage Renewal,,NON,No,63
-580,Arenac,AuGres Township 1B,Mosquito Control & Suppression Millage Renewal,,NON,No,0
-581,Arenac,AuGres Township 1A,Road Ditching & Weed Suppression Millage Renewal,,NON,Yes,223
-582,Arenac,AuGres Township 1B,Road Ditching & Weed Suppression Millage Renewal,,NON,Yes,0
-583,Arenac,AuGres Township 1A,Road Ditching & Weed Suppression Millage Renewal,,NON,No,116
-584,Arenac,AuGres Township 1B,Road Ditching & Weed Suppression Millage Renewal,,NON,No,0
-585,Arenac,Turner Township,Proposal Fire Millage,,NON,Yes,116
-586,Arenac,Turner Township,Proposal Fire Millage,,NON,No,49
-587,Arenac,Whitney Township,Road Improvement Millage Renewal,,NON,Yes,220
-588,Arenac,Whitney Township,Road Improvement Millage Renewal,,NON,No,94
-589,Arenac,Adams Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,101
-590,Arenac,Adams Township,Arenac Co. Transportation Millage Proposal,,NON,No,54
-591,Arenac,Arenac Township AGS,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
-592,Arenac,Arenac Township AGS,Arenac Co. Transportation Millage Proposal,,NON,No,0
-593,Arenac,Arenac Township SS,Arenac Co. Transportation Millage Proposal,,NON,Yes,144
-594,Arenac,Arenac Township SS,Arenac Co. Transportation Millage Proposal,,NON,No,88
-595,Arenac,AuGres Township 1A,Arenac Co. Transportation Millage Proposal,,NON,Yes,196
-596,Arenac,AuGres Township 1A,Arenac Co. Transportation Millage Proposal,,NON,No,141
-597,Arenac,AuGres Township 1B,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
-598,Arenac,AuGres Township 1B,Arenac Co. Transportation Millage Proposal,,NON,No,0
-599,Arenac,Clayton Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,100
-600,Arenac,Clayton Township,Arenac Co. Transportation Millage Proposal,,NON,No,106
-601,Arenac,Deep River Township 1A,Arenac Co. Transportation Millage Proposal,,NON,Yes,384
-602,Arenac,Deep River Township 1A,Arenac Co. Transportation Millage Proposal,,NON,No,242
-603,Arenac,Deep River Township 1B,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
-604,Arenac,Deep River Township 1B,Arenac Co. Transportation Millage Proposal,,NON,No,0
-605,Arenac,Lincoln Township ,Arenac Co. Transportation Millage Proposal,,NON,Yes,149
-606,Arenac,Lincoln Township ,Arenac Co. Transportation Millage Proposal,,NON,No,93
-607,Arenac,Mason Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,83
-608,Arenac,Mason Township,Arenac Co. Transportation Millage Proposal,,NON,No,88
-609,Arenac,Moffatt Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,272
-610,Arenac,Moffatt Township,Arenac Co. Transportation Millage Proposal,,NON,No,189
-611,Arenac,Sims Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,234
-612,Arenac,Sims Township,Arenac Co. Transportation Millage Proposal,,NON,No,185
-613,Arenac,Standish Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,281
-614,Arenac,Standish Township,Arenac Co. Transportation Millage Proposal,,NON,No,178
-615,Arenac,Turner Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,101
-616,Arenac,Turner Township,Arenac Co. Transportation Millage Proposal,,NON,No,63
-617,Arenac,Whitney Twp AGS,Arenac Co. Transportation Millage Proposal,,NON,Yes,177
-618,Arenac,Whitney Twp AGS,Arenac Co. Transportation Millage Proposal,,NON,No,150
-619,Arenac,Whitney Twp TAS,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
-620,Arenac,Whitney Twp TAS,Arenac Co. Transportation Millage Proposal,,NON,No,0
-621,Arenac,AuGres City,Arenac Co. Transportation Millage Proposal,,NON,Yes,169
-622,Arenac,AuGres City,Arenac Co. Transportation Millage Proposal,,NON,No,107
-623,Arenac,Omer City,Arenac Co. Transportation Millage Proposal,,NON,Yes,70
-624,Arenac,Omer City,Arenac Co. Transportation Millage Proposal,,NON,No,30
-625,Arenac,Standish City,Arenac Co. Transportation Millage Proposal,,NON,Yes,196
-626,Arenac,Standish City,Arenac Co. Transportation Millage Proposal,,NON,No,107
-627,Arenac,Adams Township,Arenac Co. Ambulance Service Millage,,NON,Yes,101
-628,Arenac,Adams Township,Arenac Co. Ambulance Service Millage,,NON,No,40
-629,Arenac,Arenac Township AGS,Arenac Co. Ambulance Service Millage,,NON,Yes,0
-630,Arenac,Arenac Township AGS,Arenac Co. Ambulance Service Millage,,NON,No,0
-631,Arenac,Arenac Township SS,Arenac Co. Ambulance Service Millage,,NON,Yes,155
-632,Arenac,Arenac Township SS,Arenac Co. Ambulance Service Millage,,NON,No,77
-633,Arenac,AuGres Township 1A,Arenac Co. Ambulance Service Millage,,NON,Yes,277
-634,Arenac,AuGres Township 1A,Arenac Co. Ambulance Service Millage,,NON,No,64
-635,Arenac,AuGres Township 1B,Arenac Co. Ambulance Service Millage,,NON,Yes,0
-636,Arenac,AuGres Township 1B,Arenac Co. Ambulance Service Millage,,NON,No,0
-637,Arenac,Clayton Township,Arenac Co. Ambulance Service Millage,,NON,Yes,147
-638,Arenac,Clayton Township,Arenac Co. Ambulance Service Millage,,NON,No,62
-639,Arenac,Deep River Township 1A,Arenac Co. Ambulance Service Millage,,NON,Yes,459
-640,Arenac,Deep River Township 1A,Arenac Co. Ambulance Service Millage,,NON,No,161
-641,Arenac,Deep River Township 1B,Arenac Co. Ambulance Service Millage,,NON,Yes,0
-642,Arenac,Deep River Township 1B,Arenac Co. Ambulance Service Millage,,NON,No,0
-643,Arenac,Lincoln Township ,Arenac Co. Ambulance Service Millage,,NON,Yes,178
-644,Arenac,Lincoln Township ,Arenac Co. Ambulance Service Millage,,NON,No,64
-645,Arenac,Mason Township,Arenac Co. Ambulance Service Millage,,NON,Yes,119
-646,Arenac,Mason Township,Arenac Co. Ambulance Service Millage,,NON,No,54
-647,Arenac,Moffatt Township,Arenac Co. Ambulance Service Millage,,NON,Yes,323
-648,Arenac,Moffatt Township,Arenac Co. Ambulance Service Millage,,NON,No,140
-649,Arenac,Sims Township,Arenac Co. Ambulance Service Millage,,NON,Yes,326
-650,Arenac,Sims Township,Arenac Co. Ambulance Service Millage,,NON,No,97
-651,Arenac,Standish Township,Arenac Co. Ambulance Service Millage,,NON,Yes,333
-652,Arenac,Standish Township,Arenac Co. Ambulance Service Millage,,NON,No,125
-653,Arenac,Turner Township,Arenac Co. Ambulance Service Millage,,NON,Yes,127
-654,Arenac,Turner Township,Arenac Co. Ambulance Service Millage,,NON,No,39
-655,Arenac,Whitney Twp AGS,Arenac Co. Ambulance Service Millage,,NON,Yes,249
-656,Arenac,Whitney Twp AGS,Arenac Co. Ambulance Service Millage,,NON,No,80
-657,Arenac,Whitney Twp TAS,Arenac Co. Ambulance Service Millage,,NON,Yes,0
-658,Arenac,Whitney Twp TAS,Arenac Co. Ambulance Service Millage,,NON,No,0
-659,Arenac,AuGres City,Arenac Co. Ambulance Service Millage,,NON,Yes,255
-660,Arenac,AuGres City,Arenac Co. Ambulance Service Millage,,NON,No,62
-661,Arenac,Omer City,Arenac Co. Ambulance Service Millage,,NON,Yes,76
-662,Arenac,Omer City,Arenac Co. Ambulance Service Millage,,NON,No,23
-663,Arenac,Standish City,Arenac Co. Ambulance Service Millage,,NON,Yes,214
-664,Arenac,Standish City,Arenac Co. Ambulance Service Millage,,NON,No,90
-665,Arenac,Adams Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,106
-666,Arenac,Adams Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,47
-667,Arenac,Arenac Township AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
-668,Arenac,Arenac Township AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
-669,Arenac,Arenac Township SS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,160
-670,Arenac,Arenac Township SS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,74
-671,Arenac,AuGres Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,258
-672,Arenac,AuGres Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,84
-673,Arenac,AuGres Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
-674,Arenac,AuGres Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
-675,Arenac,Clayton Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,148
-676,Arenac,Clayton Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,59
-677,Arenac,Deep River Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,413
-678,Arenac,Deep River Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,210
-679,Arenac,Deep River Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
-680,Arenac,Deep River Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
-681,Arenac,Lincoln Township ,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,181
-682,Arenac,Lincoln Township ,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,60
-683,Arenac,Mason Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,93
-684,Arenac,Mason Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,80
-685,Arenac,Moffatt Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,318
-686,Arenac,Moffatt Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,145
-687,Arenac,Sims Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,315
-688,Arenac,Sims Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,106
-689,Arenac,Standish Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,316
-690,Arenac,Standish Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,141
-691,Arenac,Turner Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,109
-692,Arenac,Turner Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,57
-693,Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,227
-694,Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,102
-695,Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
-696,Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
-697,Arenac,AuGres City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,202
-698,Arenac,AuGres City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,80
-699,Arenac,Omer City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,72
-700,Arenac,Omer City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,26
-701,Arenac,Standish City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,223
-702,Arenac,Standish City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,78
-703,Arenac,Adams Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,111
-704,Arenac,Adams Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,42
-705,Arenac,Arenac Township AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
-706,Arenac,Arenac Township AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
-707,Arenac,Arenac Township SS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,175
-708,Arenac,Arenac Township SS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,56
-709,Arenac,AuGres Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,266
-710,Arenac,AuGres Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,No,75
-711,Arenac,AuGres Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
-712,Arenac,AuGres Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
-713,Arenac,Clayton Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,155
-714,Arenac,Clayton Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,51
-715,Arenac,Deep River Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,447
-716,Arenac,Deep River Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,No,169
-717,Arenac,Deep River Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
-718,Arenac,Deep River Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
-719,Arenac,Lincoln Township ,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,176
-720,Arenac,Lincoln Township ,Arenac Co. Renewal Of Senior Services Millage,,NON,No,63
-721,Arenac,Mason Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,118
-722,Arenac,Mason Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,53
-723,Arenac,Moffatt Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,345
-724,Arenac,Moffatt Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,117
-725,Arenac,Sims Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,331
-726,Arenac,Sims Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,91
-727,Arenac,Standish Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,349
-728,Arenac,Standish Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,106
-729,Arenac,Turner Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,121
-730,Arenac,Turner Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,44
-731,Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,234
-732,Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,96
-733,Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
-734,Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
-735,Arenac,AuGres City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,221
-736,Arenac,AuGres City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,65
-737,Arenac,Omer City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,81
-738,Arenac,Omer City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,18
-739,Arenac,Standish City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,232
-740,Arenac,Standish City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,70
-741,Arenac,Adams Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-742,Arenac,Adams Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-743,Arenac,Arenac Township AGS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,12
-744,Arenac,Arenac Township AGS,Augres-Sims School District Operating Millage Proposal,,NON,No,3
-745,Arenac,Arenac Township SS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-746,Arenac,Arenac Township SS,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-747,Arenac,AuGres Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,Yes,179
-748,Arenac,AuGres Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,No,159
-749,Arenac,AuGres Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-750,Arenac,AuGres Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-751,Arenac,Clayton Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-752,Arenac,Clayton Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-753,Arenac,Deep River Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-754,Arenac,Deep River Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-755,Arenac,Deep River Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-756,Arenac,Deep River Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-757,Arenac,Lincoln Township ,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-758,Arenac,Lincoln Township ,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-759,Arenac,Mason Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-760,Arenac,Mason Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-761,Arenac,Moffatt Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-762,Arenac,Moffatt Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-763,Arenac,Sims Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,207
-764,Arenac,Sims Township,Augres-Sims School District Operating Millage Proposal,,NON,No,177
-765,Arenac,Standish Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-766,Arenac,Standish Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-767,Arenac,Turner Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,66
-768,Arenac,Turner Township,Augres-Sims School District Operating Millage Proposal,,NON,No,100
-769,Arenac,Whitney Twp AGS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,94
-770,Arenac,Whitney Twp AGS,Augres-Sims School District Operating Millage Proposal,,NON,No,62
-771,Arenac,Whitney Twp TAS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-772,Arenac,Whitney Twp TAS,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-773,Arenac,AuGres City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,132
-774,Arenac,AuGres City,Augres-Sims School District Operating Millage Proposal,,NON,No,128
-775,Arenac,Omer City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-776,Arenac,Omer City,Augres-Sims School District Operating Millage Proposal,,NON,No,0
-777,Arenac,Standish City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
-778,Arenac,Standish City,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+﻿county,precinct,office,district,party,candidate,votes
+Arenac,Adams Township,U.S. Senate,,DEM,Gary Peters,17
+Arenac,Arenac Township AGS,U.S. Senate,,DEM,Gary Peters,50
+Arenac,Arenac Township SS,U.S. Senate,,DEM,Gary Peters,0
+Arenac,AuGres Township 1A,U.S. Senate,,DEM,Gary Peters,81
+Arenac,AuGres Township 1B,U.S. Senate,,DEM,Gary Peters,0
+Arenac,Clayton Township,U.S. Senate,,DEM,Gary Peters,54
+Arenac,Deep River Township 1A,U.S. Senate,,DEM,Gary Peters,119
+Arenac,Deep River Township 1B,U.S. Senate,,DEM,Gary Peters,0
+Arenac,Lincoln Township,U.S. Senate,,DEM,Gary Peters,45
+Arenac,Mason Township,U.S. Senate,,DEM,Gary Peters,42
+Arenac,Moffatt Township,U.S. Senate,,DEM,Gary Peters,88
+Arenac,Sims Township,U.S. Senate,,DEM,Gary Peters,116
+Arenac,Standish Township,U.S. Senate,,DEM,Gary Peters,104
+Arenac,Turner Township,U.S. Senate,,DEM,Gary Peters,21
+Arenac,Whitney Twp AGS,U.S. Senate,,DEM,Gary Peters,95
+Arenac,Whitney Twp TAS,U.S. Senate,,DEM,Gary Peters,0
+Arenac,AuGres City,U.S. Senate,,DEM,Gary Peters,62
+Arenac,Omer City,U.S. Senate,,DEM,Gary Peters,20
+Arenac,Standish City,U.S. Senate,,DEM,Gary Peters,72
+Arenac,Adams Township,U.S. House,5,DEM,Daniel T. Kildee,17
+Arenac,Arenac Township AGS,U.S. House,5,DEM,Daniel T. Kildee,50
+Arenac,Arenac Township SS,U.S. House,5,DEM,Daniel T. Kildee,0
+Arenac,AuGres Township 1A,U.S. House,5,DEM,Daniel T. Kildee,79
+Arenac,AuGres Township 1B,U.S. House,5,DEM,Daniel T. Kildee,0
+Arenac,Clayton Township,U.S. House,5,DEM,Daniel T. Kildee,54
+Arenac,Deep River Township 1A,U.S. House,5,DEM,Daniel T. Kildee,119
+Arenac,Deep River Township 1B,U.S. House,5,DEM,Daniel T. Kildee,0
+Arenac,Lincoln Township,U.S. House,5,DEM,Daniel T. Kildee,46
+Arenac,Mason Township,U.S. House,5,DEM,Daniel T. Kildee,42
+Arenac,Moffatt Township,U.S. House,5,DEM,Daniel T. Kildee,88
+Arenac,Sims Township,U.S. House,5,DEM,Daniel T. Kildee,115
+Arenac,Standish Township,U.S. House,5,DEM,Daniel T. Kildee,108
+Arenac,Turner Township,U.S. House,5,DEM,Daniel T. Kildee,20
+Arenac,Whitney Twp AGS,U.S. House,5,DEM,Daniel T. Kildee,97
+Arenac,Whitney Twp TAS,U.S. House,5,DEM,Daniel T. Kildee,0
+Arenac,AuGres City,U.S. House,5,DEM,Daniel T. Kildee,62
+Arenac,Omer City,U.S. House,5,DEM,Daniel T. Kildee,20
+Arenac,Standish City,U.S. House,5,DEM,Daniel T. Kildee,73
+Arenac,Adams Township,State House,97,DEM,Celia Young-Wenkel,12
+Arenac,Arenac Township AGS,State House,97,DEM,Celia Young-Wenkel,30
+Arenac,Arenac Township SS,State House,97,DEM,Celia Young-Wenkel,0
+Arenac,AuGres Township 1A,State House,97,DEM,Celia Young-Wenkel,50
+Arenac,AuGres Township 1B,State House,97,DEM,Celia Young-Wenkel,0
+Arenac,Clayton Township,State House,97,DEM,Celia Young-Wenkel,38
+Arenac,Deep River Township 1A,State House,97,DEM,Celia Young-Wenkel,81
+Arenac,Deep River Township 1B,State House,97,DEM,Celia Young-Wenkel,0
+Arenac,Lincoln Township,State House,97,DEM,Celia Young-Wenkel,34
+Arenac,Mason Township,State House,97,DEM,Celia Young-Wenkel,24
+Arenac,Moffatt Township,State House,97,DEM,Celia Young-Wenkel,60
+Arenac,Sims Township,State House,97,DEM,Celia Young-Wenkel,69
+Arenac,Standish Township,State House,97,DEM,Celia Young-Wenkel,62
+Arenac,Turner Township,State House,97,DEM,Celia Young-Wenkel,13
+Arenac,Whitney Twp AGS,State House,97,DEM,Celia Young-Wenkel,53
+Arenac,Whitney Twp TAS,State House,97,DEM,Celia Young-Wenkel,0
+Arenac,AuGres City,State House,97,DEM,Celia Young-Wenkel,29
+Arenac,Omer City,State House,97,DEM,Celia Young-Wenkel,14
+Arenac,Standish City,State House,97,DEM,Celia Young-Wenkel,41
+Arenac,Adams Township,State House,97,DEM,Shane Atwell,4
+Arenac,Arenac Township AGS,State House,97,DEM,Shane Atwell,16
+Arenac,Arenac Township SS,State House,97,DEM,Shane Atwell,0
+Arenac,AuGres Township 1A,State House,97,DEM,Shane Atwell,20
+Arenac,AuGres Township 1B,State House,97,DEM,Shane Atwell,0
+Arenac,Clayton Township,State House,97,DEM,Shane Atwell,11
+Arenac,Deep River Township 1A,State House,97,DEM,Shane Atwell,33
+Arenac,Deep River Township 1B,State House,97,DEM,Shane Atwell,0
+Arenac,Lincoln Township,State House,97,DEM,Shane Atwell,8
+Arenac,Mason Township,State House,97,DEM,Shane Atwell,10
+Arenac,Moffatt Township,State House,97,DEM,Shane Atwell,25
+Arenac,Sims Township,State House,97,DEM,Shane Atwell,41
+Arenac,Standish Township,State House,97,DEM,Shane Atwell,35
+Arenac,Turner Township,State House,97,DEM,Shane Atwell,6
+Arenac,Whitney Twp AGS,State House,97,DEM,Shane Atwell,37
+Arenac,Whitney Twp TAS,State House,97,DEM,Shane Atwell,0
+Arenac,AuGres City,State House,97,DEM,Shane Atwell,28
+Arenac,Omer City,State House,97,DEM,Shane Atwell,6
+Arenac,Standish City,State House,97,DEM,Shane Atwell,27
+Arenac,Adams Township,U.S. Senate,,REP,John James,105
+Arenac,Arenac Township AGS,U.S. Senate,,REP,John James,142
+Arenac,Arenac Township SS,U.S. Senate,,REP,John James,0
+Arenac,AuGres Township 1A,U.S. Senate,,REP,John James,226
+Arenac,AuGres Township 1B,U.S. Senate,,REP,John James,0
+Arenac,Clayton Township,U.S. Senate,,REP,John James,133
+Arenac,Deep River Township 1A,U.S. Senate,,REP,John James,391
+Arenac,Deep River Township 1B,U.S. Senate,,REP,John James,0
+Arenac,Lincoln Township,U.S. Senate,,REP,John James,142
+Arenac,Mason Township,U.S. Senate,,REP,John James,94
+Arenac,Moffatt Township,U.S. Senate,,REP,John James,297
+Arenac,Sims Township,U.S. Senate,,REP,John James,257
+Arenac,Standish Township,U.S. Senate,,REP,John James,212
+Arenac,Turner Township,U.S. Senate,,REP,John James,116
+Arenac,Whitney Twp AGS,U.S. Senate,,REP,John James,188
+Arenac,Whitney Twp TAS,U.S. Senate,,REP,John James,0
+Arenac,AuGres City,U.S. Senate,,REP,John James,164
+Arenac,Omer City,U.S. Senate,,REP,John James,71
+Arenac,Standish City,U.S. Senate,,REP,John James,185
+Arenac,Adams Township,U.S. House,5,REP,Earl Lackie,23
+Arenac,Arenac Township AGS,U.S. House,5,REP,Earl Lackie,34
+Arenac,Arenac Township SS,U.S. House,5,REP,Earl Lackie,0
+Arenac,AuGres Township 1A,U.S. House,5,REP,Earl Lackie,50
+Arenac,AuGres Township 1B,U.S. House,5,REP,Earl Lackie,0
+Arenac,Clayton Township,U.S. House,5,REP,Earl Lackie,19
+Arenac,Deep River Township 1A,U.S. House,5,REP,Earl Lackie,83
+Arenac,Deep River Township 1B,U.S. House,5,REP,Earl Lackie,0
+Arenac,Lincoln Township,U.S. House,5,REP,Earl Lackie,28
+Arenac,Mason Township,U.S. House,5,REP,Earl Lackie,19
+Arenac,Moffatt Township,U.S. House,5,REP,Earl Lackie,52
+Arenac,Sims Township,U.S. House,5,REP,Earl Lackie,44
+Arenac,Standish Township,U.S. House,5,REP,Earl Lackie,39
+Arenac,Turner Township,U.S. House,5,REP,Earl Lackie,25
+Arenac,Whitney Twp AGS,U.S. House,5,REP,Earl Lackie,31
+Arenac,Whitney Twp TAS,U.S. House,5,REP,Earl Lackie,0
+Arenac,AuGres City,U.S. House,5,REP,Earl Lackie,23
+Arenac,Omer City,U.S. House,5,REP,Earl Lackie,19
+Arenac,Standish City,U.S. House,5,REP,Earl Lackie,36
+Arenac,Adams Township,U.S. House,5,REP,Tim Kelly,79
+Arenac,Arenac Township AGS,U.S. House,5,REP,Tim Kelly,107
+Arenac,Arenac Township SS,U.S. House,5,REP,Tim Kelly,0
+Arenac,AuGres Township 1A,U.S. House,5,REP,Tim Kelly,183
+Arenac,AuGres Township 1B,U.S. House,5,REP,Tim Kelly,0
+Arenac,Clayton Township,U.S. House,5,REP,Tim Kelly,103
+Arenac,Deep River Township 1A,U.S. House,5,REP,Tim Kelly,295
+Arenac,Deep River Township 1B,U.S. House,5,REP,Tim Kelly,0
+Arenac,Lincoln Township,U.S. House,5,REP,Tim Kelly,105
+Arenac,Mason Township,U.S. House,5,REP,Tim Kelly,70
+Arenac,Moffatt Township,U.S. House,5,REP,Tim Kelly,237
+Arenac,Sims Township,U.S. House,5,REP,Tim Kelly,222
+Arenac,Standish Township,U.S. House,5,REP,Tim Kelly,179
+Arenac,Turner Township,U.S. House,5,REP,Tim Kelly,88
+Arenac,Whitney Twp AGS,U.S. House,5,REP,Tim Kelly,156
+Arenac,Whitney Twp TAS,U.S. House,5,REP,Tim Kelly,0
+Arenac,AuGres City,U.S. House,5,REP,Tim Kelly,150
+Arenac,Omer City,U.S. House,5,REP,Tim Kelly,49
+Arenac,Standish City,U.S. House,5,REP,Tim Kelly,155
+Arenac,Adams Township,State House,97,REP,Jason Wentworth,103
+Arenac,Arenac Township AGS,State House,97,REP,Jason Wentworth,142
+Arenac,Arenac Township SS,State House,97,REP,Jason Wentworth,0
+Arenac,AuGres Township 1A,State House,97,REP,Jason Wentworth,225
+Arenac,AuGres Township 1B,State House,97,REP,Jason Wentworth,0
+Arenac,Clayton Township,State House,97,REP,Jason Wentworth,128
+Arenac,Deep River Township 1A,State House,97,REP,Jason Wentworth,374
+Arenac,Deep River Township 1B,State House,97,REP,Jason Wentworth,0
+Arenac,Lincoln Township,State House,97,REP,Jason Wentworth,136
+Arenac,Mason Township,State House,97,REP,Jason Wentworth,89
+Arenac,Moffatt Township,State House,97,REP,Jason Wentworth,284
+Arenac,Sims Township,State House,97,REP,Jason Wentworth,257
+Arenac,Standish Township,State House,97,REP,Jason Wentworth,218
+Arenac,Turner Township,State House,97,REP,Jason Wentworth,111
+Arenac,Whitney Twp AGS,State House,97,REP,Jason Wentworth,189
+Arenac,Whitney Twp TAS,State House,97,REP,Jason Wentworth,0
+Arenac,AuGres City,State House,97,REP,Jason Wentworth,170
+Arenac,Omer City,State House,97,REP,Jason Wentworth,68
+Arenac,Standish City,State House,97,REP,Jason Wentworth,181
+Arenac,Adams Township,Prosecuting Attorney,,DEM,Curtis Broughton,17
+Arenac,Arenac Township AGS,Prosecuting Attorney,,DEM,Curtis Broughton,0
+Arenac,Arenac Township SS,Prosecuting Attorney,,DEM,Curtis Broughton,44
+Arenac,AuGres Township 1A,Prosecuting Attorney,,DEM,Curtis Broughton,69
+Arenac,AuGres Township 1B,Prosecuting Attorney,,DEM,Curtis Broughton,0
+Arenac,Clayton Township,Prosecuting Attorney,,DEM,Curtis Broughton,47
+Arenac,Deep River Township 1A,Prosecuting Attorney,,DEM,Curtis Broughton,112
+Arenac,Deep River Township 1B,Prosecuting Attorney,,DEM,Curtis Broughton,0
+Arenac,Lincoln Township,Prosecuting Attorney,,DEM,Curtis Broughton,41
+Arenac,Mason Township,Prosecuting Attorney,,DEM,Curtis Broughton,36
+Arenac,Moffatt Township,Prosecuting Attorney,,DEM,Curtis Broughton,85
+Arenac,Sims Township,Prosecuting Attorney,,DEM,Curtis Broughton,105
+Arenac,Standish Township,Prosecuting Attorney,,DEM,Curtis Broughton,99
+Arenac,Turner Township,Prosecuting Attorney,,DEM,Curtis Broughton,20
+Arenac,Whitney Twp AGS,Prosecuting Attorney,,DEM,Curtis Broughton,89
+Arenac,Whitney Twp TAS,Prosecuting Attorney,,DEM,Curtis Broughton,0
+Arenac,AuGres City,Prosecuting Attorney,,DEM,Curtis Broughton,54
+Arenac,Omer City,Prosecuting Attorney,,DEM,Curtis Broughton,18
+Arenac,Standish City,Prosecuting Attorney,,DEM,Curtis Broughton,69
+Arenac,Adams Township,Sheriff,,REP,James Mosciski,109
+Arenac,Arenac Township AGS,Sheriff,,REP,James Mosciski,0
+Arenac,Arenac Township SS,Sheriff,,REP,James Mosciski,128
+Arenac,AuGres Township 1A,Sheriff,,REP,James Mosciski,139
+Arenac,AuGres Township 1B,Sheriff,,REP,James Mosciski,0
+Arenac,Clayton Township,Sheriff,,REP,James Mosciski,106
+Arenac,Deep River Township 1A,Sheriff,,REP,James Mosciski,307
+Arenac,Deep River Township 1B,Sheriff,,REP,James Mosciski,0
+Arenac,Lincoln Township,Sheriff,,REP,James Mosciski,103
+Arenac,Mason Township,Sheriff,,REP,James Mosciski,70
+Arenac,Moffatt Township,Sheriff,,REP,James Mosciski,160
+Arenac,Sims Township,Sheriff,,REP,James Mosciski,162
+Arenac,Standish Township,Sheriff,,REP,James Mosciski,208
+Arenac,Turner Township,Sheriff,,REP,James Mosciski,74
+Arenac,Whitney Twp AGS,Sheriff,,REP,James Mosciski,120
+Arenac,Whitney Twp TAS,Sheriff,,REP,James Mosciski,0
+Arenac,AuGres City,Sheriff,,REP,James Mosciski,111
+Arenac,Omer City,Sheriff,,REP,James Mosciski,44
+Arenac,Standish City,Sheriff,,REP,James Mosciski,107
+Arenac,Adams Township,Sheriff,,REP,Duane L. Hadley,13
+Arenac,Arenac Township AGS,Sheriff,,REP,Duane L. Hadley,0
+Arenac,Arenac Township SS,Sheriff,,REP,Duane L. Hadley,28
+Arenac,AuGres Township 1A,Sheriff,,REP,Duane L. Hadley,94
+Arenac,AuGres Township 1B,Sheriff,,REP,Duane L. Hadley,0
+Arenac,Clayton Township,Sheriff,,REP,Duane L. Hadley,25
+Arenac,Deep River Township 1A,Sheriff,,REP,Duane L. Hadley,87
+Arenac,Deep River Township 1B,Sheriff,,REP,Duane L. Hadley,0
+Arenac,Lincoln Township,Sheriff,,REP,Duane L. Hadley,25
+Arenac,Mason Township,Sheriff,,REP,Duane L. Hadley,35
+Arenac,Moffatt Township,Sheriff,,REP,Duane L. Hadley,82
+Arenac,Sims Township,Sheriff,,REP,Duane L. Hadley,78
+Arenac,Standish Township,Sheriff,,REP,Duane L. Hadley,46
+Arenac,Turner Township,Sheriff,,REP,Duane L. Hadley,48
+Arenac,Whitney Twp AGS,Sheriff,,REP,Duane L. Hadley,70
+Arenac,Whitney Twp TAS,Sheriff,,REP,Duane L. Hadley,0
+Arenac,AuGres City,Sheriff,,REP,Duane L. Hadley,75
+Arenac,Omer City,Sheriff,,REP,Duane L. Hadley,20
+Arenac,Standish City,Sheriff,,REP,Duane L. Hadley,40
+Arenac,Adams Township,Sheriff,,REP,Dan Snyder,15
+Arenac,Arenac Township AGS,Sheriff,,REP,Dan Snyder,0
+Arenac,Arenac Township SS,Sheriff,,REP,Dan Snyder,25
+Arenac,AuGres Township 1A,Sheriff,,REP,Dan Snyder,35
+Arenac,AuGres Township 1B,Sheriff,,REP,Dan Snyder,0
+Arenac,Clayton Township,Sheriff,,REP,Dan Snyder,25
+Arenac,Deep River Township 1A,Sheriff,,REP,Dan Snyder,97
+Arenac,Deep River Township 1B,Sheriff,,REP,Dan Snyder,0
+Arenac,Lincoln Township,Sheriff,,REP,Dan Snyder,35
+Arenac,Mason Township,Sheriff,,REP,Dan Snyder,10
+Arenac,Moffatt Township,Sheriff,,REP,Dan Snyder,104
+Arenac,Sims Township,Sheriff,,REP,Dan Snyder,43
+Arenac,Standish Township,Sheriff,,REP,Dan Snyder,30
+Arenac,Turner Township,Sheriff,,REP,Dan Snyder,18
+Arenac,Whitney Twp AGS,Sheriff,,REP,Dan Snyder,20
+Arenac,Whitney Twp TAS,Sheriff,,REP,Dan Snyder,0
+Arenac,AuGres City,Sheriff,,REP,Dan Snyder,13
+Arenac,Omer City,Sheriff,,REP,Dan Snyder,16
+Arenac,Standish City,Sheriff,,REP,Dan Snyder,73
+Arenac,Adams Township,County Clerk,,REP,Sherlyn Burkhardt,57
+Arenac,Arenac Township AGS,County Clerk,,REP,Sherlyn Burkhardt,0
+Arenac,Arenac Township SS,County Clerk,,REP,Sherlyn Burkhardt,52
+Arenac,AuGres Township 1A,County Clerk,,REP,Sherlyn Burkhardt,68
+Arenac,AuGres Township 1B,County Clerk,,REP,Sherlyn Burkhardt,0
+Arenac,Clayton Township,County Clerk,,REP,Sherlyn Burkhardt,60
+Arenac,Deep River Township 1A,County Clerk,,REP,Sherlyn Burkhardt,169
+Arenac,Deep River Township 1B,County Clerk,,REP,Sherlyn Burkhardt,0
+Arenac,Lincoln Township,County Clerk,,REP,Sherlyn Burkhardt,47
+Arenac,Mason Township,County Clerk,,REP,Sherlyn Burkhardt,28
+Arenac,Moffatt Township,County Clerk,,REP,Sherlyn Burkhardt,84
+Arenac,Sims Township,County Clerk,,REP,Sherlyn Burkhardt,49
+Arenac,Standish Township,County Clerk,,REP,Sherlyn Burkhardt,112
+Arenac,Turner Township,County Clerk,,REP,Sherlyn Burkhardt,37
+Arenac,Whitney Twp AGS,County Clerk,,REP,Sherlyn Burkhardt,45
+Arenac,Whitney Twp TAS,County Clerk,,REP,Sherlyn Burkhardt,0
+Arenac,AuGres City,County Clerk,,REP,Sherlyn Burkhardt,36
+Arenac,Omer City,County Clerk,,REP,Sherlyn Burkhardt,34
+Arenac,Standish City,County Clerk,,REP,Sherlyn Burkhardt,72
+Arenac,Adams Township,County Clerk,,REP,Holly R. Hudson,23
+Arenac,Arenac Township AGS,County Clerk,,REP,Holly R. Hudson,0
+Arenac,Arenac Township SS,County Clerk,,REP,Holly R. Hudson,57
+Arenac,AuGres Township 1A,County Clerk,,REP,Holly R. Hudson,38
+Arenac,AuGres Township 1B,County Clerk,,REP,Holly R. Hudson,0
+Arenac,Clayton Township,County Clerk,,REP,Holly R. Hudson,36
+Arenac,Deep River Township 1A,County Clerk,,REP,Holly R. Hudson,110
+Arenac,Deep River Township 1B,County Clerk,,REP,Holly R. Hudson,0
+Arenac,Lincoln Township,County Clerk,,REP,Holly R. Hudson,48
+Arenac,Mason Township,County Clerk,,REP,Holly R. Hudson,25
+Arenac,Moffatt Township,County Clerk,,REP,Holly R. Hudson,107
+Arenac,Sims Township,County Clerk,,REP,Holly R. Hudson,49
+Arenac,Standish Township,County Clerk,,REP,Holly R. Hudson,41
+Arenac,Turner Township,County Clerk,,REP,Holly R. Hudson,18
+Arenac,Whitney Twp AGS,County Clerk,,REP,Holly R. Hudson,33
+Arenac,Whitney Twp TAS,County Clerk,,REP,Holly R. Hudson,0
+Arenac,AuGres City,County Clerk,,REP,Holly R. Hudson,24
+Arenac,Omer City,County Clerk,,REP,Holly R. Hudson,18
+Arenac,Standish City,County Clerk,,REP,Holly R. Hudson,55
+Arenac,Adams Township,County Clerk,,REP,Nancy Selle,39
+Arenac,Arenac Township AGS,County Clerk,,REP,Nancy Selle,0
+Arenac,Arenac Township SS,County Clerk,,REP,Nancy Selle,54
+Arenac,AuGres Township 1A,County Clerk,,REP,Nancy Selle,158
+Arenac,AuGres Township 1B,County Clerk,,REP,Nancy Selle,0
+Arenac,Clayton Township,County Clerk,,REP,Nancy Selle,47
+Arenac,Deep River Township 1A,County Clerk,,REP,Nancy Selle,159
+Arenac,Deep River Township 1B,County Clerk,,REP,Nancy Selle,0
+Arenac,Lincoln Township,County Clerk,,REP,Nancy Selle,52
+Arenac,Mason Township,County Clerk,,REP,Nancy Selle,51
+Arenac,Moffatt Township,County Clerk,,REP,Nancy Selle,111
+Arenac,Sims Township,County Clerk,,REP,Nancy Selle,169
+Arenac,Standish Township,County Clerk,,REP,Nancy Selle,110
+Arenac,Turner Township,County Clerk,,REP,Nancy Selle,85
+Arenac,Whitney Twp AGS,County Clerk,,REP,Nancy Selle,118
+Arenac,Whitney Twp TAS,County Clerk,,REP,Nancy Selle,0
+Arenac,AuGres City,County Clerk,,REP,Nancy Selle,127
+Arenac,Omer City,County Clerk,,REP,Nancy Selle,22
+Arenac,Standish City,County Clerk,,REP,Nancy Selle,73
+Arenac,Adams Township,County Treasurer,,REP,Dennis Stawowy,111
+Arenac,Arenac Township AGS,County Treasurer,,REP,Dennis Stawowy,0
+Arenac,Arenac Township SS,County Treasurer,,REP,Dennis Stawowy,154
+Arenac,AuGres Township 1A,County Treasurer,,REP,Dennis Stawowy,220
+Arenac,AuGres Township 1B,County Treasurer,,REP,Dennis Stawowy,0
+Arenac,Clayton Township,County Treasurer,,REP,Dennis Stawowy,135
+Arenac,Deep River Township 1A,County Treasurer,,REP,Dennis Stawowy,414
+Arenac,Deep River Township 1B,County Treasurer,,REP,Dennis Stawowy,0
+Arenac,Lincoln Township,County Treasurer,,REP,Dennis Stawowy,139
+Arenac,Mason Township,County Treasurer,,REP,Dennis Stawowy,91
+Arenac,Moffatt Township,County Treasurer,,REP,Dennis Stawowy,289
+Arenac,Sims Township,County Treasurer,,REP,Dennis Stawowy,253
+Arenac,Standish Township,County Treasurer,,REP,Dennis Stawowy,242
+Arenac,Turner Township,County Treasurer,,REP,Dennis Stawowy,119
+Arenac,Whitney Twp AGS,County Treasurer,,REP,Dennis Stawowy,179
+Arenac,Whitney Twp TAS,County Treasurer,,REP,Dennis Stawowy,0
+Arenac,AuGres City,County Treasurer,,REP,Dennis Stawowy,158
+Arenac,Omer City,County Treasurer,,REP,Dennis Stawowy,73
+Arenac,Standish City,County Treasurer,,REP,Dennis Stawowy,184
+Arenac,Adams Township,Register Of Deeds,,REP,Darlene Mikkola,15
+Arenac,Arenac Township AGS,Register Of Deeds,,REP,Darlene Mikkola,0
+Arenac,Arenac Township SS,Register Of Deeds,,REP,Darlene Mikkola,41
+Arenac,AuGres Township 1A,Register Of Deeds,,REP,Darlene Mikkola,69
+Arenac,AuGres Township 1B,Register Of Deeds,,REP,Darlene Mikkola,0
+Arenac,Clayton Township,Register Of Deeds,,REP,Darlene Mikkola,41
+Arenac,Deep River Township 1A,Register Of Deeds,,REP,Darlene Mikkola,95
+Arenac,Deep River Township 1B,Register Of Deeds,,REP,Darlene Mikkola,0
+Arenac,Lincoln Township,Register Of Deeds,,REP,Darlene Mikkola,34
+Arenac,Mason Township,Register Of Deeds,,REP,Darlene Mikkola,31
+Arenac,Moffatt Township,Register Of Deeds,,REP,Darlene Mikkola,72
+Arenac,Sims Township,Register Of Deeds,,REP,Darlene Mikkola,94
+Arenac,Standish Township,Register Of Deeds,,REP,Darlene Mikkola,83
+Arenac,Turner Township,Register Of Deeds,,REP,Darlene Mikkola,19
+Arenac,Whitney Twp AGS,Register Of Deeds,,REP,Darlene Mikkola,82
+Arenac,Whitney Twp TAS,Register Of Deeds,,REP,Darlene Mikkola,0
+Arenac,AuGres City,Register Of Deeds,,REP,Darlene Mikkola,50
+Arenac,Omer City,Register Of Deeds,,REP,Darlene Mikkola,15
+Arenac,Standish City,Register Of Deeds,,REP,Darlene Mikkola,59
+Arenac,Adams Township,Road Commissioner,,REP,Olen Swartz,96
+Arenac,Arenac Township AGS,Road Commissioner,,REP,Olen Swartz,0
+Arenac,Arenac Township SS,Road Commissioner,,REP,Olen Swartz,140
+Arenac,AuGres Township 1A,Road Commissioner,,REP,Olen Swartz,213
+Arenac,AuGres Township 1B,Road Commissioner,,REP,Olen Swartz,0
+Arenac,Clayton Township,Road Commissioner,,REP,Olen Swartz,127
+Arenac,Deep River Township 1A,Road Commissioner,,REP,Olen Swartz,365
+Arenac,Deep River Township 1B,Road Commissioner,,REP,Olen Swartz,0
+Arenac,Lincoln Township,Road Commissioner,,REP,Olen Swartz,125
+Arenac,Mason Township,Road Commissioner,,REP,Olen Swartz,86
+Arenac,Moffatt Township,Road Commissioner,,REP,Olen Swartz,271
+Arenac,Sims Township,Road Commissioner,,REP,Olen Swartz,245
+Arenac,Standish Township,Road Commissioner,,REP,Olen Swartz,208
+Arenac,Turner Township,Road Commissioner,,REP,Olen Swartz,104
+Arenac,Whitney Twp AGS,Road Commissioner,,REP,Olen Swartz,179
+Arenac,Whitney Twp TAS,Road Commissioner,,REP,Olen Swartz,0
+Arenac,AuGres City,Road Commissioner,,REP,Olen Swartz,164
+Arenac,Omer City,Road Commissioner,,REP,Olen Swartz,69
+Arenac,Standish City,Road Commissioner,,REP,Olen Swartz,168
+Arenac,Adams Township,Drain Commissioner,,REP,Jeffrey Trombley,13
+Arenac,Arenac Township AGS,Drain Commissioner,,REP,Jeffrey Trombley,0
+Arenac,Arenac Township SS,Drain Commissioner,,REP,Jeffrey Trombley,42
+Arenac,AuGres Township 1A,Drain Commissioner,,REP,Jeffrey Trombley,71
+Arenac,AuGres Township 1B,Drain Commissioner,,REP,Jeffrey Trombley,0
+Arenac,Clayton Township,Drain Commissioner,,REP,Jeffrey Trombley,50
+Arenac,Deep River Township 1A,Drain Commissioner,,REP,Jeffrey Trombley,109
+Arenac,Deep River Township 1B,Drain Commissioner,,REP,Jeffrey Trombley,0
+Arenac,Lincoln Township,Drain Commissioner,,REP,Jeffrey Trombley,40
+Arenac,Mason Township,Drain Commissioner,,REP,Jeffrey Trombley,36
+Arenac,Moffatt Township,Drain Commissioner,,REP,Jeffrey Trombley,80
+Arenac,Sims Township,Drain Commissioner,,REP,Jeffrey Trombley,105
+Arenac,Standish Township,Drain Commissioner,,REP,Jeffrey Trombley,99
+Arenac,Turner Township,Drain Commissioner,,REP,Jeffrey Trombley,19
+Arenac,Whitney Twp AGS,Drain Commissioner,,REP,Jeffrey Trombley,86
+Arenac,Whitney Twp TAS,Drain Commissioner,,REP,Jeffrey Trombley,0
+Arenac,AuGres City,Drain Commissioner,,REP,Jeffrey Trombley,51
+Arenac,Omer City,Drain Commissioner,,REP,Jeffrey Trombley,19
+Arenac,Standish City,Drain Commissioner,,REP,Jeffrey Trombley,60
+Arenac,Adams Township,Drain Commissioner,,REP,Larry Davis,87
+Arenac,Arenac Township AGS,Drain Commissioner,,REP,Larry Davis,0
+Arenac,Arenac Township SS,Drain Commissioner,,REP,Larry Davis,119
+Arenac,AuGres Township 1A,Drain Commissioner,,REP,Larry Davis,180
+Arenac,AuGres Township 1B,Drain Commissioner,,REP,Larry Davis,0
+Arenac,Clayton Township,Drain Commissioner,,REP,Larry Davis,118
+Arenac,Deep River Township 1A,Drain Commissioner,,REP,Larry Davis,326
+Arenac,Deep River Township 1B,Drain Commissioner,,REP,Larry Davis,0
+Arenac,Lincoln Township,Drain Commissioner,,REP,Larry Davis,112
+Arenac,Mason Township,Drain Commissioner,,REP,Larry Davis,82
+Arenac,Moffatt Township,Drain Commissioner,,REP,Larry Davis,280
+Arenac,Sims Township,Drain Commissioner,,REP,Larry Davis,243
+Arenac,Standish Township,Drain Commissioner,,REP,Larry Davis,210
+Arenac,Turner Township,Drain Commissioner,,REP,Larry Davis,100
+Arenac,Whitney Twp AGS,Drain Commissioner,,REP,Larry Davis,162
+Arenac,Whitney Twp TAS,Drain Commissioner,,REP,Larry Davis,0
+Arenac,AuGres City,Drain Commissioner,,REP,Larry Davis,162
+Arenac,Omer City,Drain Commissioner,,REP,Larry Davis,66
+Arenac,Standish City,Drain Commissioner,,REP,Larry Davis,147
+Arenac,Adams Township,County Commissioner #1,,REP,Sally Mrozinski,109
+Arenac,Arenac Township AGS,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Arenac Township SS,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,AuGres Township 1A,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,AuGres Township 1B,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Clayton Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Deep River Township 1A,County Commissioner #1,,REP,Sally Mrozinski,235
+Arenac,Deep River Township 1B,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Lincoln Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Mason Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Moffatt Township,County Commissioner #1,,REP,Sally Mrozinski,284
+Arenac,Sims Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Standish Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Turner Township,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Whitney Twp AGS,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Whitney Twp TAS,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,AuGres City,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Omer City,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Standish City,County Commissioner #1,,REP,Sally Mrozinski,0
+Arenac,Adams Township,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Arenac Township AGS,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Arenac Township SS,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,AuGres Township 1A,County Commissioner #2,,REP,Lisa Salgat,127
+Arenac,AuGres Township 1B,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Clayton Township,County Commissioner #2,,REP,Lisa Salgat,128
+Arenac,Deep River Township 1A,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Deep River Township 1B,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Lincoln Township,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Mason Township,County Commissioner #2,,REP,Lisa Salgat,83
+Arenac,Moffatt Township,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Sims Township,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Standish Township,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Turner Township,County Commissioner #2,,REP,Lisa Salgat,105
+Arenac,Whitney Twp AGS,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Whitney Twp TAS,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,AuGres City,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Omer City,County Commissioner #2,,REP,Lisa Salgat,0
+Arenac,Standish City,County Commissioner #3,,REP,Lisa Salgat,0
+Arenac,Adams Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Arenac Township AGS,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Arenac Township SS,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,AuGres Township 1A,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,AuGres Township 1B,County Commissioner #3,,REP,Roberta Burke,61
+Arenac,Clayton Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Deep River Township 1A,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Deep River Township 1B,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Lincoln Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Mason Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Moffatt Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Sims Township,County Commissioner #3,,REP,Roberta Burke,240
+Arenac,Standish Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Turner Township,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Whitney Twp AGS,County Commissioner #3,,REP,Roberta Burke,157
+Arenac,Whitney Twp TAS,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,AuGres City,County Commissioner #3,,REP,Roberta Burke,149
+Arenac,Omer City,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Standish City,County Commissioner #3,,REP,Roberta Burke,0
+Arenac,Adams Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Arenac Township AGS,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Arenac Township SS,County Commissioner #4,,REP,Harold Woolhiser,128
+Arenac,AuGres Township 1A,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,AuGres Township 1B,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Clayton Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Deep River Township 1A,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Deep River Township 1B,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Lincoln Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Mason Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Moffatt Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Sims Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Standish Township,County Commissioner #4,,REP,Harold Woolhiser,238
+Arenac,Turner Township,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Whitney Twp AGS,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Whitney Twp TAS,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,AuGres City,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Omer City,County Commissioner #4,,REP,Harold Woolhiser,64
+Arenac,Standish City,County Commissioner #4,,REP,Harold Woolhiser,0
+Arenac,Adams Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Arenac Township AGS,County Commissioner #5,,REP,James Hergott,0
+Arenac,Arenac Township SS,County Commissioner #5,,REP,James Hergott,0
+Arenac,AuGres Township 1A,County Commissioner #5,,REP,James Hergott,0
+Arenac,AuGres Township 1B,County Commissioner #5,,REP,James Hergott,0
+Arenac,Clayton Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Deep River Township 1A,County Commissioner #5,,REP,James Hergott,93
+Arenac,Deep River Township 1B,County Commissioner #5,,REP,James Hergott,78
+Arenac,Lincoln Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Mason Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Moffatt Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Sims Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Standish Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Turner Township,County Commissioner #5,,REP,James Hergott,0
+Arenac,Whitney Twp AGS,County Commissioner #5,,REP,James Hergott,0
+Arenac,Whitney Twp TAS,County Commissioner #5,,REP,James Hergott,0
+Arenac,AuGres City,County Commissioner #5,,REP,James Hergott,0
+Arenac,Omer City,County Commissioner #5,,REP,James Hergott,0
+Arenac,Standish City,County Commissioner #5,,REP,James Hergott,90
+Arenac,Adams Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Arenac Township AGS,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Arenac Township SS,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,AuGres Township 1A,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,AuGres Township 1B,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Clayton Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Deep River Township 1A,County Commissioner #5,,REP,Jacquob Littlejohn,70
+Arenac,Deep River Township 1B,County Commissioner #5,,REP,Jacquob Littlejohn,68
+Arenac,Lincoln Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Mason Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Moffatt Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Sims Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Standish Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Turner Township,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Whitney Twp AGS,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Whitney Twp TAS,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,AuGres City,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Omer City,County Commissioner #5,,REP,Jacquob Littlejohn,0
+Arenac,Standish City,County Commissioner #5,,REP,Jacquob Littlejohn,101
+Arenac,Adams Township,Supervisor,,REP,Mark Revord,100
+Arenac,Adams Township,Clerk,,REP,Charity Sisco,98
+Arenac,Adams Township,Treasurer,,REP,Darlene E. Wolford,90
+Arenac,Adams Township,Trustee,,REP,Kevin Mctaggart,59
+Arenac,Adams Township,Trustee,,REP,Lisa A. Meihls,95
+Arenac,Arenac Township SS,Supervisor,,DEM,Timothy W. Hagley,44
+Arenac,Arenac Township SS,Clerk,,REP,Jessica Schlanderer,138
+Arenac,Arenac Township SS,Treasurer,,DEM,Cindy Halamar,43
+Arenac,Arenac Township SS,Treasurer,,REP,Pamela Proulx,136
+Arenac,Arenac Township SS,Trustee,,REP,Joe Carruthers,107
+Arenac,Arenac Township SS,Trustee,,REP,Allen Osier,111
+Arenac,AuGres Township 1A,Clerk,,DEM,Michael Oxley,71
+Arenac,AuGres Township 1A,Treasurer,,REP,Patricia Tremble,184
+Arenac,AuGres Township 1A,Trustee,,DEM,Penny Kurchak,64
+Arenac,AuGres Township 1A,Trustee,,DEM,Norma Schwiderson - Write In,9
+Arenac,Clayton Township,Supervisor,,REP,Byron Fogarasi,127
+Arenac,Clayton Township,Clerk,,DEM,Katie Youmans,41
+Arenac,Clayton Township,Clerk,,REP,Robyn Fogarasi,128
+Arenac,Clayton Township,Treasurer,,REP,Patricia J Berrry,137
+Arenac,Clayton Township,Trustee,,REP,Sandra K Bowen,52
+Arenac,Clayton Township,Trustee,,REP,Billy Daniels,72
+Arenac,Clayton Township,Trustee,,REP,Victor W. Daniels Jr,100
+Arenac,Deep River Township 1A,Supervisor,,REP,Karlia Kroczaleski-Raymond,337
+Arenac,Deep River Township 1A,Clerk,,DEM,Ann Marie Borushko,107
+Arenac,Deep River Township 1A,Clerk,,REP,Casey Gwisdala - Write In,23
+Arenac,Deep River Township 1A,Treasurer,,DEM,Carol Peistrack,108
+Arenac,Deep River Township 1A,Trustee,,DEM,Joann Swartz,112
+Arenac,Deep River Township 1A,Trustee,,REP,Kevin L. Kroczaleski,229
+Arenac,Deep River Township 1A,Trustee,,REP,Matthew J. Stawowy,327
+Arenac,Lincoln Township,Supervisor,,DEM,Gerald Ernest Wenkel,41
+Arenac,Lincoln Township,Clerk,,DEM,Ardith Demo,42
+Arenac,Lincoln Township,Treasurer,,DEM,Judy M.   Bell,44
+Arenac,Lincoln Township,Trustee,,DEM,Marcella Ruszala,35
+Arenac,Lincoln Township,Trustee,,DEM,Noreen J. Walter,33
+Arenac,Mason Township,Supervisor,,REP,Mark Heideman,89
+Arenac,Mason Township,Clerk,,DEM,Darlene S. Janish,42
+Arenac,Mason Township,Treasurer,,DEM,Shelly Everitt,41
+Arenac,Mason Township,Trustee,,DEM,Paul T. Phelan,42
+Arenac,Mason Township,Trustee,,REP,Jeff Piar,79
+Arenac,Moffatt Township,Supervisor,,DEM,David James Roberts Jr,72
+Arenac,Moffatt Township,Supervisor,,REP,Raymond L. Daniesl,325
+Arenac,Moffatt Township,Clerk,,REP,Stefanie Kernstock,291
+Arenac,Moffatt Township,Treasurer,,REP,Allison Chmielewski,81
+Arenac,Moffatt Township,Treasurer,,REP,Kevin Kaczmarek,265
+Arenac,Moffatt Township,Trustee,,REP,Lee Chard,186
+Arenac,Moffatt Township,Trustee,,REP,Leonard B. Mezey Jr,155
+Arenac,Moffatt Township,Trustee,,REP,Ron Vittitow,128
+Arenac,Moffatt Township,Constable,,DEM,Pat Jedrzejczyk,73
+Arenac,Sims Township,Supervisor,,REP,Rovert A Mackie,23
+Arenac,Sims Township,Clerk,,REP,Judy L. Mackie,227
+Arenac,Sims Township,Treasurer,,DEM,Sharon L. Boensch,99
+Arenac,Sims Township,Trustee,,DEM,Lynn Richard Proulx,104
+Arenac,Sims Township,Trustee,,REP,Michael J. De Leo,232
+Arenac,Standish Township,Supervisor,,REP,Robert L. North,216
+Arenac,Standish Township,Clerk,,REP,Shara Klenk,2255
+Arenac,Standish Township,Treasurer,,REP,Susan M. Kohn,234
+Arenac,Standish Township,Trustee,,REP,Ryan G. Klenk,155
+Arenac,Standish Township,Trustee,,REP,Roberta Lynch,134
+Arenac,Standish Township,Trustee,,REP,Wayne Reetz,85
+Arenac,Turner Township,Supervisor,,REP,Herbert Keeley,93
+Arenac,Turner Township,Clerk,,DEM,Tina Schumacher,15
+Arenac,Turner Township,Treasurer,,REP,Colleen Rittenberg,113
+Arenac,Turner Township,Trustee,,REP,William Kiernicki - Write In,8
+Arenac,Turner Township,Trustee,,REP,Jim Rittenberg - Write In,13
+Arenac,Whitney Twp AGS,Supervisor,,REP,Donald Becker,143
+Arenac,Whitney Twp AGS,Supervisor,,REP,Serge Boulet,51
+Arenac,Whitney Twp AGS,Clerk,,REP,Kimberly Anderson,164
+Arenac,Whitney Twp AGS,Treasurer,,REP,John M. Gehris,163
+Arenac,Whitney Twp AGS,Trustee,,REP,Scott Mcalindon,153
+Arenac,Whitney Twp AGS,Trustee,,REP,Ralph S. Zimmerman,109
+Arenac,AuGres Township 1A,Road Improvement Millage Renewal,,NON,Yes,230
+Arenac,AuGres Township 1B,Road Improvement Millage Renewal,,NON,Yes,0
+Arenac,AuGres Township 1A,Road Improvement Millage Renewal,,NON,No,110
+Arenac,AuGres Township 1B,Road Improvement Millage Renewal,,NON,No,0
+Arenac,AuGres Township 1A,Mosquito Control & Suppression Millage Renewal,,NON,Yes,281
+Arenac,AuGres Township 1B,Mosquito Control & Suppression Millage Renewal,,NON,Yes,0
+Arenac,AuGres Township 1A,Mosquito Control & Suppression Millage Renewal,,NON,No,63
+Arenac,AuGres Township 1B,Mosquito Control & Suppression Millage Renewal,,NON,No,0
+Arenac,AuGres Township 1A,Road Ditching & Weed Suppression Millage Renewal,,NON,Yes,223
+Arenac,AuGres Township 1B,Road Ditching & Weed Suppression Millage Renewal,,NON,Yes,0
+Arenac,AuGres Township 1A,Road Ditching & Weed Suppression Millage Renewal,,NON,No,116
+Arenac,AuGres Township 1B,Road Ditching & Weed Suppression Millage Renewal,,NON,No,0
+Arenac,Turner Township,Proposal Fire Millage,,NON,Yes,116
+Arenac,Turner Township,Proposal Fire Millage,,NON,No,49
+Arenac,Whitney Township,Road Improvement Millage Renewal,,NON,Yes,220
+Arenac,Whitney Township,Road Improvement Millage Renewal,,NON,No,94
+Arenac,Adams Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,101
+Arenac,Adams Township,Arenac Co. Transportation Millage Proposal,,NON,No,54
+Arenac,Arenac Township AGS,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
+Arenac,Arenac Township AGS,Arenac Co. Transportation Millage Proposal,,NON,No,0
+Arenac,Arenac Township SS,Arenac Co. Transportation Millage Proposal,,NON,Yes,144
+Arenac,Arenac Township SS,Arenac Co. Transportation Millage Proposal,,NON,No,88
+Arenac,AuGres Township 1A,Arenac Co. Transportation Millage Proposal,,NON,Yes,196
+Arenac,AuGres Township 1A,Arenac Co. Transportation Millage Proposal,,NON,No,141
+Arenac,AuGres Township 1B,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
+Arenac,AuGres Township 1B,Arenac Co. Transportation Millage Proposal,,NON,No,0
+Arenac,Clayton Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,100
+Arenac,Clayton Township,Arenac Co. Transportation Millage Proposal,,NON,No,106
+Arenac,Deep River Township 1A,Arenac Co. Transportation Millage Proposal,,NON,Yes,384
+Arenac,Deep River Township 1A,Arenac Co. Transportation Millage Proposal,,NON,No,242
+Arenac,Deep River Township 1B,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
+Arenac,Deep River Township 1B,Arenac Co. Transportation Millage Proposal,,NON,No,0
+Arenac,Lincoln Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,149
+Arenac,Lincoln Township,Arenac Co. Transportation Millage Proposal,,NON,No,93
+Arenac,Mason Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,83
+Arenac,Mason Township,Arenac Co. Transportation Millage Proposal,,NON,No,88
+Arenac,Moffatt Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,272
+Arenac,Moffatt Township,Arenac Co. Transportation Millage Proposal,,NON,No,189
+Arenac,Sims Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,234
+Arenac,Sims Township,Arenac Co. Transportation Millage Proposal,,NON,No,185
+Arenac,Standish Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,281
+Arenac,Standish Township,Arenac Co. Transportation Millage Proposal,,NON,No,178
+Arenac,Turner Township,Arenac Co. Transportation Millage Proposal,,NON,Yes,101
+Arenac,Turner Township,Arenac Co. Transportation Millage Proposal,,NON,No,63
+Arenac,Whitney Twp AGS,Arenac Co. Transportation Millage Proposal,,NON,Yes,177
+Arenac,Whitney Twp AGS,Arenac Co. Transportation Millage Proposal,,NON,No,150
+Arenac,Whitney Twp TAS,Arenac Co. Transportation Millage Proposal,,NON,Yes,0
+Arenac,Whitney Twp TAS,Arenac Co. Transportation Millage Proposal,,NON,No,0
+Arenac,AuGres City,Arenac Co. Transportation Millage Proposal,,NON,Yes,169
+Arenac,AuGres City,Arenac Co. Transportation Millage Proposal,,NON,No,107
+Arenac,Omer City,Arenac Co. Transportation Millage Proposal,,NON,Yes,70
+Arenac,Omer City,Arenac Co. Transportation Millage Proposal,,NON,No,30
+Arenac,Standish City,Arenac Co. Transportation Millage Proposal,,NON,Yes,196
+Arenac,Standish City,Arenac Co. Transportation Millage Proposal,,NON,No,107
+Arenac,Adams Township,Arenac Co. Ambulance Service Millage,,NON,Yes,101
+Arenac,Adams Township,Arenac Co. Ambulance Service Millage,,NON,No,40
+Arenac,Arenac Township AGS,Arenac Co. Ambulance Service Millage,,NON,Yes,0
+Arenac,Arenac Township AGS,Arenac Co. Ambulance Service Millage,,NON,No,0
+Arenac,Arenac Township SS,Arenac Co. Ambulance Service Millage,,NON,Yes,155
+Arenac,Arenac Township SS,Arenac Co. Ambulance Service Millage,,NON,No,77
+Arenac,AuGres Township 1A,Arenac Co. Ambulance Service Millage,,NON,Yes,277
+Arenac,AuGres Township 1A,Arenac Co. Ambulance Service Millage,,NON,No,64
+Arenac,AuGres Township 1B,Arenac Co. Ambulance Service Millage,,NON,Yes,0
+Arenac,AuGres Township 1B,Arenac Co. Ambulance Service Millage,,NON,No,0
+Arenac,Clayton Township,Arenac Co. Ambulance Service Millage,,NON,Yes,147
+Arenac,Clayton Township,Arenac Co. Ambulance Service Millage,,NON,No,62
+Arenac,Deep River Township 1A,Arenac Co. Ambulance Service Millage,,NON,Yes,459
+Arenac,Deep River Township 1A,Arenac Co. Ambulance Service Millage,,NON,No,161
+Arenac,Deep River Township 1B,Arenac Co. Ambulance Service Millage,,NON,Yes,0
+Arenac,Deep River Township 1B,Arenac Co. Ambulance Service Millage,,NON,No,0
+Arenac,Lincoln Township,Arenac Co. Ambulance Service Millage,,NON,Yes,178
+Arenac,Lincoln Township,Arenac Co. Ambulance Service Millage,,NON,No,64
+Arenac,Mason Township,Arenac Co. Ambulance Service Millage,,NON,Yes,119
+Arenac,Mason Township,Arenac Co. Ambulance Service Millage,,NON,No,54
+Arenac,Moffatt Township,Arenac Co. Ambulance Service Millage,,NON,Yes,323
+Arenac,Moffatt Township,Arenac Co. Ambulance Service Millage,,NON,No,140
+Arenac,Sims Township,Arenac Co. Ambulance Service Millage,,NON,Yes,326
+Arenac,Sims Township,Arenac Co. Ambulance Service Millage,,NON,No,97
+Arenac,Standish Township,Arenac Co. Ambulance Service Millage,,NON,Yes,333
+Arenac,Standish Township,Arenac Co. Ambulance Service Millage,,NON,No,125
+Arenac,Turner Township,Arenac Co. Ambulance Service Millage,,NON,Yes,127
+Arenac,Turner Township,Arenac Co. Ambulance Service Millage,,NON,No,39
+Arenac,Whitney Twp AGS,Arenac Co. Ambulance Service Millage,,NON,Yes,249
+Arenac,Whitney Twp AGS,Arenac Co. Ambulance Service Millage,,NON,No,80
+Arenac,Whitney Twp TAS,Arenac Co. Ambulance Service Millage,,NON,Yes,0
+Arenac,Whitney Twp TAS,Arenac Co. Ambulance Service Millage,,NON,No,0
+Arenac,AuGres City,Arenac Co. Ambulance Service Millage,,NON,Yes,255
+Arenac,AuGres City,Arenac Co. Ambulance Service Millage,,NON,No,62
+Arenac,Omer City,Arenac Co. Ambulance Service Millage,,NON,Yes,76
+Arenac,Omer City,Arenac Co. Ambulance Service Millage,,NON,No,23
+Arenac,Standish City,Arenac Co. Ambulance Service Millage,,NON,Yes,214
+Arenac,Standish City,Arenac Co. Ambulance Service Millage,,NON,No,90
+Arenac,Adams Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,106
+Arenac,Adams Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,47
+Arenac,Arenac Township AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
+Arenac,Arenac Township AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
+Arenac,Arenac Township SS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,160
+Arenac,Arenac Township SS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,74
+Arenac,AuGres Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,258
+Arenac,AuGres Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,84
+Arenac,AuGres Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
+Arenac,AuGres Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
+Arenac,Clayton Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,148
+Arenac,Clayton Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,59
+Arenac,Deep River Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,413
+Arenac,Deep River Township 1A,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,210
+Arenac,Deep River Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
+Arenac,Deep River Township 1B,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
+Arenac,Lincoln Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,181
+Arenac,Lincoln Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,60
+Arenac,Mason Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,93
+Arenac,Mason Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,80
+Arenac,Moffatt Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,318
+Arenac,Moffatt Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,145
+Arenac,Sims Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,315
+Arenac,Sims Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,106
+Arenac,Standish Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,316
+Arenac,Standish Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,141
+Arenac,Turner Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,109
+Arenac,Turner Township,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,57
+Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,227
+Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,102
+Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,0
+Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,0
+Arenac,AuGres City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,202
+Arenac,AuGres City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,80
+Arenac,Omer City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,72
+Arenac,Omer City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,26
+Arenac,Standish City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,Yes,223
+Arenac,Standish City,Arenac Co. Renewal Of Sheriff Road Patrol Millage,,NON,No,78
+Arenac,Adams Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,111
+Arenac,Adams Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,42
+Arenac,Arenac Township AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
+Arenac,Arenac Township AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
+Arenac,Arenac Township SS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,175
+Arenac,Arenac Township SS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,56
+Arenac,AuGres Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,266
+Arenac,AuGres Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,No,75
+Arenac,AuGres Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
+Arenac,AuGres Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
+Arenac,Clayton Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,155
+Arenac,Clayton Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,51
+Arenac,Deep River Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,447
+Arenac,Deep River Township 1A,Arenac Co. Renewal Of Senior Services Millage,,NON,No,169
+Arenac,Deep River Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
+Arenac,Deep River Township 1B,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
+Arenac,Lincoln Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,176
+Arenac,Lincoln Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,63
+Arenac,Mason Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,118
+Arenac,Mason Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,53
+Arenac,Moffatt Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,345
+Arenac,Moffatt Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,117
+Arenac,Sims Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,331
+Arenac,Sims Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,91
+Arenac,Standish Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,349
+Arenac,Standish Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,106
+Arenac,Turner Township,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,121
+Arenac,Turner Township,Arenac Co. Renewal Of Senior Services Millage,,NON,No,44
+Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,234
+Arenac,Whitney Twp AGS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,96
+Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,0
+Arenac,Whitney Twp TAS,Arenac Co. Renewal Of Senior Services Millage,,NON,No,0
+Arenac,AuGres City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,221
+Arenac,AuGres City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,65
+Arenac,Omer City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,81
+Arenac,Omer City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,18
+Arenac,Standish City,Arenac Co. Renewal Of Senior Services Millage,,NON,Yes,232
+Arenac,Standish City,Arenac Co. Renewal Of Senior Services Millage,,NON,No,70
+Arenac,Adams Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Adams Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Arenac Township AGS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,12
+Arenac,Arenac Township AGS,Augres-Sims School District Operating Millage Proposal,,NON,No,3
+Arenac,Arenac Township SS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Arenac Township SS,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,AuGres Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,Yes,179
+Arenac,AuGres Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,No,159
+Arenac,AuGres Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,AuGres Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Clayton Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Clayton Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Deep River Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Deep River Township 1A,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Deep River Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Deep River Township 1B,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Lincoln Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Lincoln Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Mason Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Mason Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Moffatt Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Moffatt Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Sims Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,207
+Arenac,Sims Township,Augres-Sims School District Operating Millage Proposal,,NON,No,177
+Arenac,Standish Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Standish Township,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Turner Township,Augres-Sims School District Operating Millage Proposal,,NON,Yes,66
+Arenac,Turner Township,Augres-Sims School District Operating Millage Proposal,,NON,No,100
+Arenac,Whitney Twp AGS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,94
+Arenac,Whitney Twp AGS,Augres-Sims School District Operating Millage Proposal,,NON,No,62
+Arenac,Whitney Twp TAS,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Whitney Twp TAS,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,AuGres City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,132
+Arenac,AuGres City,Augres-Sims School District Operating Millage Proposal,,NON,No,128
+Arenac,Omer City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Omer City,Augres-Sims School District Operating Millage Proposal,,NON,No,0
+Arenac,Standish City,Augres-Sims School District Operating Millage Proposal,,NON,Yes,0
+Arenac,Standish City,Augres-Sims School District Operating Millage Proposal,,NON,No,0

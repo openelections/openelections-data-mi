@@ -1,0 +1,530 @@
+county,precinct,office,district,party,candidate,votes
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Michael Bennet,1
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Michael Bennet,1
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Michael Bennet,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Michael Bennet,1
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Michael Bennet,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Michael Bennet,0
+St. Joseph,Colon Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Michael Bennet,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Fawn River Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Michael Bennet,3
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Park Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Michael Bennet,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Joe Biden,100
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Joe Biden,138
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Joe Biden,40
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Joe Biden,34
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Joe Biden,70
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Joe Biden,159
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Joe Biden,119
+St. Joseph,Colon Township Precinct 1,President,,DEM,Joe Biden,136
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Joe Biden,93
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Joe Biden,46
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Joe Biden,221
+St. Joseph,Fawn River Precinct 1,President,,DEM,Joe Biden,59
+St. Joseph,Florence Township Precinct 1,President,,DEM,Joe Biden,37
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Joe Biden,77
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Joe Biden,40
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Joe Biden,212
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Joe Biden,168
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Joe Biden,52
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Joe Biden,160
+St. Joseph,Park Township Precinct 1,President,,DEM,Joe Biden,139
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Joe Biden,174
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Joe Biden,81
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Joe Biden,179
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Michael R. Bloomberg,5
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Michael R. Bloomberg,3
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Michael R. Bloomberg,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Michael R. Bloomberg,1
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Michael R. Bloomberg,3
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Michael R. Bloomberg,19
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Michael R. Bloomberg,14
+St. Joseph,Colon Township Precinct 1,President,,DEM,Michael R. Bloomberg,18
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Michael R. Bloomberg,3
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Michael R. Bloomberg,1
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Michael R. Bloomberg,20
+St. Joseph,Fawn River Precinct 1,President,,DEM,Michael R. Bloomberg,1
+St. Joseph,Florence Township Precinct 1,President,,DEM,Michael R. Bloomberg,4
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Michael R. Bloomberg,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Michael R. Bloomberg,2
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Michael R. Bloomberg,19
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Michael R. Bloomberg,25
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Michael R. Bloomberg,1
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Michael R. Bloomberg,28
+St. Joseph,Park Township Precinct 1,President,,DEM,Michael R. Bloomberg,5
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Michael R. Bloomberg,6
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Michael R. Bloomberg,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Michael R. Bloomberg,15
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Cory Booker,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Cory Booker,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Cory Booker,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Cory Booker,1
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Cory Booker,0
+St. Joseph,Colon Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Cory Booker,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Cory Booker,1
+St. Joseph,Fawn River Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Park Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Cory Booker,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Cory Booker,1
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Pete Buttigieg,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Pete Buttigieg,5
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Pete Buttigieg,1
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Pete Buttigieg,1
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Pete Buttigieg,6
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Pete Buttigieg,5
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Pete Buttigieg,10
+St. Joseph,Colon Township Precinct 1,President,,DEM,Pete Buttigieg,9
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Pete Buttigieg,2
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Pete Buttigieg,1
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Pete Buttigieg,14
+St. Joseph,Fawn River Precinct 1,President,,DEM,Pete Buttigieg,1
+St. Joseph,Florence Township Precinct 1,President,,DEM,Pete Buttigieg,7
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Pete Buttigieg,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Pete Buttigieg,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Pete Buttigieg,14
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Pete Buttigieg,8
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Pete Buttigieg,2
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Pete Buttigieg,18
+St. Joseph,Park Township Precinct 1,President,,DEM,Pete Buttigieg,4
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Pete Buttigieg,7
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Pete Buttigieg,1
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Pete Buttigieg,16
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Julian Castro,1
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Julian Castro,1
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Julian Castro,1
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Julian Castro,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Julian Castro,0
+St. Joseph,Colon Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Julian Castro,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Julian Castro,1
+St. Joseph,Fawn River Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Park Township Precinct 1,President,,DEM,Julian Castro,2
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Julian Castro,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,John Delaney,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,John Delaney,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,John Delaney,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,John Delaney,1
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,John Delaney,0
+St. Joseph,Colon Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,John Delaney,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Fawn River Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Mendon Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Park Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,John Delaney,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Tulsi Gabbard,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Tulsi Gabbard,3
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Tulsi Gabbard,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Tulsi Gabbard,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Tulsi Gabbard,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Colon Township Precinct 1,President,,DEM,Tulsi Gabbard,2
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Tulsi Gabbard,2
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Tulsi Gabbard,6
+St. Joseph,Fawn River Precinct 1,President,,DEM,Tulsi Gabbard,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Tulsi Gabbard,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Tulsi Gabbard,2
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Tulsi Gabbard,4
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Tulsi Gabbard,7
+St. Joseph,Park Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Tulsi Gabbard,7
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Tulsi Gabbard,1
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Amy Klobuchar,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Amy Klobuchar,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Amy Klobuchar,3
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Amy Klobuchar,2
+St. Joseph,Colon Township Precinct 1,President,,DEM,Amy Klobuchar,5
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Amy Klobuchar,2
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Amy Klobuchar,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Amy Klobuchar,4
+St. Joseph,Fawn River Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Amy Klobuchar,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Amy Klobuchar,1
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Amy Klobuchar,3
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Amy Klobuchar,1
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Amy Klobuchar,4
+St. Joseph,Park Township Precinct 1,President,,DEM,Amy Klobuchar,1
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Amy Klobuchar,2
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Amy Klobuchar,1
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Amy Klobuchar,2
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Bernie Sanders,71
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Bernie Sanders,86
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Bernie Sanders,59
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Bernie Sanders,32
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Bernie Sanders,76
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Bernie Sanders,149
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Bernie Sanders,163
+St. Joseph,Colon Township Precinct 1,President,,DEM,Bernie Sanders,80
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Bernie Sanders,61
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Bernie Sanders,54
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Bernie Sanders,103
+St. Joseph,Fawn River Precinct 1,President,,DEM,Bernie Sanders,25
+St. Joseph,Florence Township Precinct 1,President,,DEM,Bernie Sanders,25
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Bernie Sanders,55
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Bernie Sanders,32
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Bernie Sanders,122
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Bernie Sanders,93
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Bernie Sanders,53
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Bernie Sanders,112
+St. Joseph,Park Township Precinct 1,President,,DEM,Bernie Sanders,66
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Bernie Sanders,74
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Bernie Sanders,47
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Bernie Sanders,75
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Joe Sestak,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Joe Sestak,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Joe Sestak,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Joe Sestak,1
+St. Joseph,Colon Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Joe Sestak,1
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Fawn River Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Joe Sestak,1
+St. Joseph,Park Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Joe Sestak,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Tom Steyer,1
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Tom Steyer,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Tom Steyer,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Tom Steyer,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Tom Steyer,1
+St. Joseph,Colon Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Tom Steyer,2
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Tom Steyer,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Fawn River Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Tom Steyer,1
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Tom Steyer,1
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Tom Steyer,1
+St. Joseph,Park Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Tom Steyer,2
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Tom Steyer,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Elizabeth Warren,1
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Elizabeth Warren,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Elizabeth Warren,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Elizabeth Warren,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Elizabeth Warren,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Elizabeth Warren,6
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Elizabeth Warren,5
+St. Joseph,Colon Township Precinct 1,President,,DEM,Elizabeth Warren,3
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Elizabeth Warren,2
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Elizabeth Warren,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Elizabeth Warren,4
+St. Joseph,Fawn River Precinct 1,President,,DEM,Elizabeth Warren,3
+St. Joseph,Florence Township Precinct 1,President,,DEM,Elizabeth Warren,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Elizabeth Warren,5
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Elizabeth Warren,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Elizabeth Warren,8
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Elizabeth Warren,3
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Elizabeth Warren,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Elizabeth Warren,6
+St. Joseph,Park Township Precinct 1,President,,DEM,Elizabeth Warren,1
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Elizabeth Warren,3
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Elizabeth Warren,3
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Elizabeth Warren,2
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Marianne Williamson,0
+St. Joseph,Colon Township Precinct 1,President,,DEM,Marianne Williamson,1
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Marianne Williamson,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Marianne Williamson,1
+St. Joseph,Fawn River Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Park Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Marianne Williamson,0
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Andrew Yang,2
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Andrew Yang,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Andrew Yang,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Andrew Yang,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Andrew Yang,1
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Andrew Yang,1
+St. Joseph,Colon Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Andrew Yang,1
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Fawn River Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Florence Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Andrew Yang,1
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Andrew Yang,5
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Andrew Yang,2
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Andrew Yang,1
+St. Joseph,Park Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Andrew Yang,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Andrew Yang,1
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Andrew Yang,1
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Uncommitted,3
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Uncommitted,3
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Uncommitted,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Uncommitted,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Uncommitted,1
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Uncommitted,4
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Uncommitted,4
+St. Joseph,Colon Township Precinct 1,President,,DEM,Uncommitted,8
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Uncommitted,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Uncommitted,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Uncommitted,5
+St. Joseph,Fawn River Precinct 1,President,,DEM,Uncommitted,1
+St. Joseph,Florence Township Precinct 1,President,,DEM,Uncommitted,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Uncommitted,1
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Uncommitted,3
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Uncommitted,3
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Uncommitted,2
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Uncommitted,2
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Uncommitted,6
+St. Joseph,Park Township Precinct 1,President,,DEM,Uncommitted,4
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Uncommitted,6
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Uncommitted,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Uncommitted,1
+St. Joseph,Burr Oak Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 2,President,,DEM,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 3,President,,DEM,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 4,President,,DEM,Total Write-ins,0
+St. Joseph,City of Three Rivers Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,City of Three Rivers Precinct 2,President,,DEM,Total Write-ins,1
+St. Joseph,Colon Township Precinct 1,President,,DEM,Total Write-ins,1
+St. Joseph,Constantine Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Constantine Township Precinct 2,President,,DEM,Total Write-ins,0
+St. Joseph,Fabius Township Precinct 1,President,,DEM,Total Write-ins,1
+St. Joseph,Fawn River Precinct 1,President,,DEM,Total Write-ins,1
+St. Joseph,Florence Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Flowerfield Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Leonidas Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Lockport Township Precinct 1,President,,DEM,Total Write-ins,1
+St. Joseph,Mendon Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Mottville Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Nottawa Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Park Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Sherman Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Sturgis Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,White Pigeon Township Precinct 1,President,,DEM,Total Write-ins,0
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Mark Sanford,0
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Mark Sanford,0
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Mark Sanford,2
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Mark Sanford,1
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Mark Sanford,2
+St. Joseph,Colon Township Precinct 1,President,,REP,Mark Sanford,1
+St. Joseph,Constantine Township Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,Constantine Township Precinct 2,President,,REP,Mark Sanford,0
+St. Joseph,Fabius Township Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,Fawn River Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,Florence Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Mark Sanford,1
+St. Joseph,Lockport Township Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,Mendon Township Precinct 1,President,,REP,Mark Sanford,2
+St. Joseph,Mottville Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,Park Township Precinct 1,President,,REP,Mark Sanford,1
+St. Joseph,Sherman Township Precinct 1,President,,REP,Mark Sanford,4
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Mark Sanford,0
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Mark Sanford,1
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Donald J. Trump,180
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Donald J. Trump,185
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Donald J. Trump,58
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Donald J. Trump,66
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Donald J. Trump,100
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Donald J. Trump,176
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Donald J. Trump,158
+St. Joseph,Colon Township Precinct 1,President,,REP,Donald J. Trump,279
+St. Joseph,Constantine Township Precinct 1,President,,REP,Donald J. Trump,127
+St. Joseph,Constantine Township Precinct 2,President,,REP,Donald J. Trump,88
+St. Joseph,Fabius Township Precinct 1,President,,REP,Donald J. Trump,349
+St. Joseph,Fawn River Precinct 1,President,,REP,Donald J. Trump,148
+St. Joseph,Florence Township Precinct 1,President,,REP,Donald J. Trump,128
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Donald J. Trump,141
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Donald J. Trump,120
+St. Joseph,Lockport Township Precinct 1,President,,REP,Donald J. Trump,292
+St. Joseph,Mendon Township Precinct 1,President,,REP,Donald J. Trump,202
+St. Joseph,Mottville Township Precinct 1,President,,REP,Donald J. Trump,107
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Donald J. Trump,361
+St. Joseph,Park Township Precinct 1,President,,REP,Donald J. Trump,208
+St. Joseph,Sherman Township Precinct 1,President,,REP,Donald J. Trump,336
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Donald J. Trump,151
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Donald J. Trump,346
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Joe Walsh,0
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Joe Walsh,0
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Joe Walsh,1
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Joe Walsh,1
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Joe Walsh,4
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Joe Walsh,2
+St. Joseph,Colon Township Precinct 1,President,,REP,Joe Walsh,3
+St. Joseph,Constantine Township Precinct 1,President,,REP,Joe Walsh,0
+St. Joseph,Constantine Township Precinct 2,President,,REP,Joe Walsh,0
+St. Joseph,Fabius Township Precinct 1,President,,REP,Joe Walsh,3
+St. Joseph,Fawn River Precinct 1,President,,REP,Joe Walsh,0
+St. Joseph,Florence Township Precinct 1,President,,REP,Joe Walsh,0
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Joe Walsh,0
+St. Joseph,Lockport Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,Mendon Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,Mottville Township Precinct 1,President,,REP,Joe Walsh,1
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,Park Township Precinct 1,President,,REP,Joe Walsh,1
+St. Joseph,Sherman Township Precinct 1,President,,REP,Joe Walsh,1
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Joe Walsh,1
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Joe Walsh,2
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Bill Weld,7
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Bill Weld,1
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Bill Weld,0
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Bill Weld,3
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Bill Weld,0
+St. Joseph,Colon Township Precinct 1,President,,REP,Bill Weld,2
+St. Joseph,Constantine Township Precinct 1,President,,REP,Bill Weld,0
+St. Joseph,Constantine Township Precinct 2,President,,REP,Bill Weld,0
+St. Joseph,Fabius Township Precinct 1,President,,REP,Bill Weld,0
+St. Joseph,Fawn River Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,Florence Township Precinct 1,President,,REP,Bill Weld,2
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Bill Weld,0
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Bill Weld,0
+St. Joseph,Lockport Township Precinct 1,President,,REP,Bill Weld,2
+St. Joseph,Mendon Township Precinct 1,President,,REP,Bill Weld,7
+St. Joseph,Mottville Township Precinct 1,President,,REP,Bill Weld,0
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,Park Township Precinct 1,President,,REP,Bill Weld,3
+St. Joseph,Sherman Township Precinct 1,President,,REP,Bill Weld,3
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Bill Weld,1
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Uncommitted,0
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Uncommitted,7
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Uncommitted,0
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Uncommitted,3
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Uncommitted,8
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Uncommitted,12
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Uncommitted,11
+St. Joseph,Colon Township Precinct 1,President,,REP,Uncommitted,7
+St. Joseph,Constantine Township Precinct 1,President,,REP,Uncommitted,4
+St. Joseph,Constantine Township Precinct 2,President,,REP,Uncommitted,3
+St. Joseph,Fabius Township Precinct 1,President,,REP,Uncommitted,31
+St. Joseph,Fawn River Precinct 1,President,,REP,Uncommitted,6
+St. Joseph,Florence Township Precinct 1,President,,REP,Uncommitted,3
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Uncommitted,1
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Uncommitted,5
+St. Joseph,Lockport Township Precinct 1,President,,REP,Uncommitted,18
+St. Joseph,Mendon Township Precinct 1,President,,REP,Uncommitted,12
+St. Joseph,Mottville Township Precinct 1,President,,REP,Uncommitted,0
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Uncommitted,23
+St. Joseph,Park Township Precinct 1,President,,REP,Uncommitted,9
+St. Joseph,Sherman Township Precinct 1,President,,REP,Uncommitted,17
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Uncommitted,7
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Uncommitted,17
+St. Joseph,Burr Oak Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 2,President,,REP,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 3,President,,REP,Total Write-ins,0
+St. Joseph,City of Sturgis Precinct 4,President,,REP,Total Write-ins,0
+St. Joseph,City of Three Rivers Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,City of Three Rivers Precinct 2,President,,REP,Total Write-ins,0
+St. Joseph,Colon Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Constantine Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Constantine Township Precinct 2,President,,REP,Total Write-ins,0
+St. Joseph,Fabius Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Fawn River Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Florence Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Flowerfield Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Leonidas Township Precinct 1,President,,REP,Total Write-ins,1
+St. Joseph,Lockport Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Mendon Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Mottville Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Nottawa Township Precinct 1,President,,REP,Total Write-ins,1
+St. Joseph,Park Township Precinct 1,President,,REP,Total Write-ins,1
+St. Joseph,Sherman Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,Sturgis Township Precinct 1,President,,REP,Total Write-ins,0
+St. Joseph,White Pigeon Township Precinct 1,President,,REP,Total Write-ins,0

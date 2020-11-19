@@ -1,0 +1,75 @@
+﻿county,office,district,candidate,party,votes,election_day,absentee
+Kent,Registered Voters,,,,501117,,
+Kent,Ballots Cast,,,,363695,149409,214286
+Kent,Straight Party,,Republican Party,REP,54922,51596,106518
+Kent,Straight Party,,Democratic Party,DEM,31488,71771,103259
+Kent,Straight Party,,Libertarian Party,LIB,883,629,1512
+Kent,Straight Party,,Working Class Party,WCP,469,297,766
+Kent,Straight Party,,Green Party,GRN,254,229,483
+Kent,Straight Party,,US Taxpayers Party,UST,156,131,287
+Kent,Straight Party,,Natural Law Party,NLP,108,73,181
+Kent,President,,Joseph R. Biden w/ Kamala D. Harris,DEM,55382,132533,187915
+Kent,President,,Donald J. Trump w/ Michael R. Pence,REP,89379,76362,165741
+Kent,President,,Jo Jorgensen w/ Jeremy Cohen,LIB,2899,2596,5495
+Kent,President,,Howie Hawkins w/ Angela Walker,GRN,433,524,957
+Kent,President,,Don Blankenship w/ William Mohr,UST,178,312,490
+Kent,President,,Rocky De La Fuente w/ Darcy Richardson,NLP,122,119,241
+Kent,President,,Total Votes,,148942,213089,36203
+Kent,U.S. Senate,,John James,REP,93057,83738,176795
+Kent,U.S. Senate,,Gary Peters,DEM,51357,123899,175256
+Kent,U.S. Senate,,Marcia Squier,GRN,1304,1652,2956
+Kent,U.S. Senate,,Valerie L. Willis,UST,1332,1616,2948
+Kent,U.S. Senate,,Doug Dern,NLP,350,372,722
+Kent,U.S. House,2,Bill Huizenga,REP,23194,20209,43403
+Kent,U.S. House,2,Bryan Berghoef,DEM,12958,27254,40212
+Kent,U.S. House,2,Max Riekse,LIB,811,503,1314
+Kent,U.S. House,2,Jean-Michel Creviere,GRN,344,365,709
+Kent,U.S. House,2,Gerald T. Van Sickle,UST,256,203,459
+Kent,U.S. House,3,Hillary Scholten,DEM,40132,96455,136587
+Kent,U.S. House,3,Peter Meijer,REP,68309,65028,133337
+Kent,State House,72,Lily Cheng-Schulting,DEM,6418,14566,20984
+Kent,State House,72,Steven Johnson,REP,9961,10316,20277
+Kent,State House,73,Bryan Posthumus,REP,18525,18612,37137
+Kent,State House,73,Bill Saxton,DEM,6250,20928,27178
+Kent,State House,73,Theodore Gerrard,UST,475,402,877
+Kent,State House,74,Mark E. Huizenga,REP,18339,15729,34068
+Kent,State House,74,Meagan L. Hintz,DEM,6113,13784,19897
+Kent,State House,75,David LaGrand,DEM,11035,19388,30423
+Kent,State House,75,James McKeiver,REP,5102,3213,8315
+Kent,State House,75,Louis Palus,WCP,720,514,1234
+Kent,State House,75,Marco T. Bulnes,GRN,391,407,798
+Kent,State House,76,Rachel Hood,DEM,9941,23946,33887
+Kent,State House,76,Doug Zandstra,REP,10247,9864,20111
+Kent,State House,77,Tommy Brann,REP,15649,14566,30215
+Kent,State House,77,Bob Smith,DEM,7174,13021,20195
+Kent,State House,86,Thomas A. Albert,REP,13601,14701,28302
+Kent,State House,86,Sue Hayes,DEM,4029,12941,16970
+Manistee,Registered Voters,,,,21962,,
+Manistee,Ballots Cast,,,,15462,,
+Manistee,Straight Party,,Democratic Party,DEM,1400,1141,2541
+Manistee,Straight Party,,Republican Party,REP,3277,1061,4338
+Manistee,Straight Party,,Libertarian Party,LIB,34,19,53
+Manistee,Straight Party,,U.S. Taxpayers Party,UST,15,6,21
+Manistee,Straight Party,,Working Class Party,WCP,38,11,49
+Manistee,Straight Party,,Green Party,GRN,11,4,15
+Manistee,Straight Party,,Natural Law Party,NLP,6,5,11
+Manistee,President,,Joseph R. Biden / Kamala D. Harris,DEM,3376,2731,6107
+Manistee,President,,Donald J. Trump / Michael R. Pence,REP,6196,2125,8321
+Manistee,President,,Jo Jorgensen / Jeremy Cohen,LIB,100,54,154
+Manistee,President,,Don Blankenship / William Mohr,UST,17,11,28
+Manistee,President,,Howie Hawkins / Angela Walker,GRN,21,13,34
+Manistee,President,,Rocky De La Fuente / Darcy Richardson,NLP,6,4,10
+Manistee,President,,Total Votes,,9717,4938,14655
+Manistee,U.S. Senate,,Gary Peters,DEM,3362,2633,5995
+Manistee,U.S. Senate,,John James,REP,6138,2218,8356
+Manistee,U.S. Senate,,Valerie L. Willis,UST,72,29,101
+Manistee,U.S. Senate,,Marcia Squier,GRN,53,28,81
+Manistee,U.S. Senate,,Doug Dern,NLP,20,10,30
+Manistee,U.S. Senate,,Unresolved Write-In,,10,3,13
+Manistee,U.S. House,1,Dana Ferguson,DEM,2973,2375,5348
+Manistee,U.S. House,1,Jack Bergman,REP,6447,2449,8896
+Manistee,U.S. House,1,Ben Boren,LIB,139,51,190
+Manistee,U.S. House,1,Unresolved Write-In,,13,1,14
+Manistee,State House,101,Beth McGill-Rizer,DEM,2897,2386,5283
+Manistee,State House,101,Jack O'Malley,REP,6726,2505,9231
+Manistee,State House,101,Unresolved Write-In,,15,2,17

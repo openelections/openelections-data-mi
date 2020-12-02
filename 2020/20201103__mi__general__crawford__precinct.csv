@@ -1,0 +1,199 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,101A,Registered Voters,,,,1681
+Crawford,101B,Registered Voters,,,,
+Crawford,201,Registered Voters,,,,1427
+Crawford,302,Registered Voters,,,,352
+Crawford,304,Registered Voters,,,,1699
+Crawford,305,Registered Voters,,,,1696
+Crawford,306,Registered Voters,,,,1095
+Crawford,401,Registered Voters,,,,525
+Crawford,501,Registered Voters,,,,545
+Crawford,601,Registered Voters,,,,1567
+Crawford,701,Registered Voters,,,,1403
+Crawford,101A,Ballots Cast,,,,1049
+Crawford,101B,Ballots Cast,,,,
+Crawford,201,Ballots Cast,,,,781
+Crawford,302,Ballots Cast,,,,229
+Crawford,304,Ballots Cast,,,,1210
+Crawford,305,Ballots Cast,,,,1158
+Crawford,306,Ballots Cast,,,,720
+Crawford,401,Ballots Cast,,,,460
+Crawford,501,Ballots Cast,,,,408
+Crawford,601,Ballots Cast,,,,1119
+Crawford,701,Ballots Cast,,,,774
+Crawford,101A,President,,DEM,Joseph R. Biden,264
+Crawford,101B,President,,DEM,Joseph R. Biden,60
+Crawford,201,President,,DEM,Joseph R. Biden,236
+Crawford,302,President,,DEM,Joseph R. Biden,78
+Crawford,304,President,,DEM,Joseph R. Biden,441
+Crawford,305,President,,DEM,Joseph R. Biden,404
+Crawford,306,President,,DEM,Joseph R. Biden,243
+Crawford,401,President,,DEM,Joseph R. Biden,158
+Crawford,501,President,,DEM,Joseph R. Biden,102
+Crawford,601,President,,DEM,Joseph R. Biden,391
+Crawford,701,President,,DEM,Joseph R. Biden,295
+Crawford,101A,President,,REP,Donald J. Trump,577
+Crawford,101B,President,,REP,Donald J. Trump,132
+Crawford,201,President,,REP,Donald J. Trump,536
+Crawford,302,President,,REP,Donald J. Trump,146
+Crawford,304,President,,REP,Donald J. Trump,744
+Crawford,305,President,,REP,Donald J. Trump,729
+Crawford,306,President,,REP,Donald J. Trump,469
+Crawford,401,President,,REP,Donald J. Trump,294
+Crawford,501,President,,REP,Donald J. Trump,297
+Crawford,601,President,,REP,Donald J. Trump,707
+Crawford,701,President,,REP,Donald J. Trump,456
+Crawford,101A,President,,LIB,Jo Jorgensen,5
+Crawford,101B,President,,LIB,Jo Jorgensen,2
+Crawford,201,President,,LIB,Jo Jorgensen,5
+Crawford,302,President,,LIB,Jo Jorgensen,1
+Crawford,304,President,,LIB,Jo Jorgensen,10
+Crawford,305,President,,LIB,Jo Jorgensen,12
+Crawford,306,President,,LIB,Jo Jorgensen,3
+Crawford,401,President,,LIB,Jo Jorgensen,4
+Crawford,501,President,,LIB,Jo Jorgensen,5
+Crawford,601,President,,LIB,Jo Jorgensen,10
+Crawford,701,President,,LIB,Jo Jorgensen,12
+Crawford,101A,President,,UST,Don Blankenship,1
+Crawford,101B,President,,UST,Don Blankenship,0
+Crawford,201,President,,UST,Don Blankenship,0
+Crawford,302,President,,UST,Don Blankenship,0
+Crawford,304,President,,UST,Don Blankenship,0
+Crawford,305,President,,UST,Don Blankenship,2
+Crawford,306,President,,UST,Don Blankenship,0
+Crawford,401,President,,UST,Don Blankenship,0
+Crawford,501,President,,UST,Don Blankenship,0
+Crawford,601,President,,UST,Don Blankenship,0
+Crawford,701,President,,UST,Don Blankenship,1
+Crawford,101A,President,,GRN,Howie Hawkins,2
+Crawford,101B,President,,GRN,Howie Hawkins,1
+Crawford,201,President,,GRN,Howie Hawkins,2
+Crawford,302,President,,GRN,Howie Hawkins,1
+Crawford,304,President,,GRN,Howie Hawkins,1
+Crawford,305,President,,GRN,Howie Hawkins,4
+Crawford,306,President,,GRN,Howie Hawkins,1
+Crawford,401,President,,GRN,Howie Hawkins,1
+Crawford,501,President,,GRN,Howie Hawkins,1
+Crawford,601,President,,GRN,Howie Hawkins,7
+Crawford,701,President,,GRN,Howie Hawkins,3
+Crawford,101A,President,,NLP,Rocky De La Fuente,0
+Crawford,101B,President,,NLP,Rocky De La Fuente,1
+Crawford,201,President,,NLP,Rocky De La Fuente,0
+Crawford,302,President,,NLP,Rocky De La Fuente,0
+Crawford,304,President,,NLP,Rocky De La Fuente,0
+Crawford,305,President,,NLP,Rocky De La Fuente,1
+Crawford,306,President,,NLP,Rocky De La Fuente,1
+Crawford,401,President,,NLP,Rocky De La Fuente,0
+Crawford,501,President,,NLP,Rocky De La Fuente,0
+Crawford,601,President,,NLP,Rocky De La Fuente,1
+Crawford,701,President,,NLP,Rocky De La Fuente,1
+Crawford,101A,U.S. Senate,,DEM,Gary Peters,255
+Crawford,101B,U.S. Senate,,DEM,Gary Peters,59
+Crawford,201,U.S. Senate,,DEM,Gary Peters,238
+Crawford,302,U.S. Senate,,DEM,Gary Peters,76
+Crawford,304,U.S. Senate,,DEM,Gary Peters,419
+Crawford,305,U.S. Senate,,DEM,Gary Peters,404
+Crawford,306,U.S. Senate,,DEM,Gary Peters,243
+Crawford,401,U.S. Senate,,DEM,Gary Peters,160
+Crawford,501,U.S. Senate,,DEM,Gary Peters,103
+Crawford,601,U.S. Senate,,DEM,Gary Peters,410
+Crawford,701,U.S. Senate,,DEM,Gary Peters,286
+Crawford,101A,U.S. Senate,,REP,John James,578
+Crawford,101B,U.S. Senate,,REP,John James,132
+Crawford,201,U.S. Senate,,REP,John James,514
+Crawford,302,U.S. Senate,,REP,John James,147
+Crawford,304,U.S. Senate,,REP,John James,765
+Crawford,305,U.S. Senate,,REP,John James,706
+Crawford,306,U.S. Senate,,REP,John James,461
+Crawford,401,U.S. Senate,,REP,John James,291
+Crawford,501,U.S. Senate,,REP,John James,288
+Crawford,601,U.S. Senate,,REP,John James,687
+Crawford,701,U.S. Senate,,REP,John James,452
+Crawford,101A,U.S. Senate,,UST,Valerie L. Willis,4
+Crawford,101B,U.S. Senate,,UST,Valerie L. Willis,1
+Crawford,201,U.S. Senate,,UST,Valerie L. Willis,5
+Crawford,302,U.S. Senate,,UST,Valerie L. Willis,2
+Crawford,304,U.S. Senate,,UST,Valerie L. Willis,5
+Crawford,305,U.S. Senate,,UST,Valerie L. Willis,11
+Crawford,306,U.S. Senate,,UST,Valerie L. Willis,4
+Crawford,401,U.S. Senate,,UST,Valerie L. Willis,3
+Crawford,501,U.S. Senate,,UST,Valerie L. Willis,7
+Crawford,601,U.S. Senate,,UST,Valerie L. Willis,2
+Crawford,701,U.S. Senate,,UST,Valerie L. Willis,8
+Crawford,101A,U.S. Senate,,GRN,Marcia Squier,6
+Crawford,101B,U.S. Senate,,GRN,Marcia Squier,1
+Crawford,201,U.S. Senate,,GRN,Marcia Squier,2
+Crawford,302,U.S. Senate,,GRN,Marcia Squier,1
+Crawford,304,U.S. Senate,,GRN,Marcia Squier,1
+Crawford,305,U.S. Senate,,GRN,Marcia Squier,6
+Crawford,306,U.S. Senate,,GRN,Marcia Squier,2
+Crawford,401,U.S. Senate,,GRN,Marcia Squier,3
+Crawford,501,U.S. Senate,,GRN,Marcia Squier,2
+Crawford,601,U.S. Senate,,GRN,Marcia Squier,4
+Crawford,701,U.S. Senate,,GRN,Marcia Squier,6
+Crawford,101A,U.S. Senate,,NLP,Doug Dern,2
+Crawford,101B,U.S. Senate,,NLP,Doug Dern,1
+Crawford,201,U.S. Senate,,NLP,Doug Dern,4
+Crawford,302,U.S. Senate,,NLP,Doug Dern,0
+Crawford,304,U.S. Senate,,NLP,Doug Dern,1
+Crawford,305,U.S. Senate,,NLP,Doug Dern,4
+Crawford,306,U.S. Senate,,NLP,Doug Dern,2
+Crawford,401,U.S. Senate,,NLP,Doug Dern,0
+Crawford,501,U.S. Senate,,NLP,Doug Dern,1
+Crawford,601,U.S. Senate,,NLP,Doug Dern,4
+Crawford,701,U.S. Senate,,NLP,Doug Dern,1
+Crawford,101A,U.S. House,1,DEM,Dana Ferguson,222
+Crawford,101B,U.S. House,1,DEM,Dana Ferguson,56
+Crawford,201,U.S. House,1,DEM,Dana Ferguson,200
+Crawford,302,U.S. House,1,DEM,Dana Ferguson,63
+Crawford,304,U.S. House,1,DEM,Dana Ferguson,360
+Crawford,305,U.S. House,1,DEM,Dana Ferguson,328
+Crawford,306,U.S. House,1,DEM,Dana Ferguson,205
+Crawford,401,U.S. House,1,DEM,Dana Ferguson,129
+Crawford,501,U.S. House,1,DEM,Dana Ferguson,79
+Crawford,601,U.S. House,1,DEM,Dana Ferguson,330
+Crawford,701,U.S. House,1,DEM,Dana Ferguson,251
+Crawford,101A,U.S. House,1,REP,Jack Bergman,601
+Crawford,101B,U.S. House,1,REP,Jack Bergman,135
+Crawford,201,U.S. House,1,REP,Jack Bergman,541
+Crawford,302,U.S. House,1,REP,Jack Bergman,161
+Crawford,304,U.S. House,1,REP,Jack Bergman,806
+Crawford,305,U.S. House,1,REP,Jack Bergman,768
+Crawford,306,U.S. House,1,REP,Jack Bergman,494
+Crawford,401,U.S. House,1,REP,Jack Bergman,320
+Crawford,501,U.S. House,1,REP,Jack Bergman,309
+Crawford,601,U.S. House,1,REP,Jack Bergman,742
+Crawford,701,U.S. House,1,REP,Jack Bergman,480
+Crawford,101A,U.S. House,1,LIB,Ben Boren,9
+Crawford,101B,U.S. House,1,LIB,Ben Boren,2
+Crawford,201,U.S. House,1,LIB,Ben Boren,9
+Crawford,302,U.S. House,1,LIB,Ben Boren,0
+Crawford,304,U.S. House,1,LIB,Ben Boren,10
+Crawford,305,U.S. House,1,LIB,Ben Boren,25
+Crawford,306,U.S. House,1,LIB,Ben Boren,9
+Crawford,401,U.S. House,1,LIB,Ben Boren,5
+Crawford,501,U.S. House,1,LIB,Ben Boren,8
+Crawford,601,U.S. House,1,LIB,Ben Boren,20
+Crawford,701,U.S. House,1,LIB,Ben Boren,15
+Crawford,101A,State House,103,DEM,Zack Larson,249
+Crawford,101B,State House,103,DEM,Zack Larson,59
+Crawford,201,State House,103,DEM,Zack Larson,217
+Crawford,302,State House,103,DEM,Zack Larson,68
+Crawford,304,State House,103,DEM,Zack Larson,398
+Crawford,305,State House,103,DEM,Zack Larson,373
+Crawford,306,State House,103,DEM,Zack Larson,236
+Crawford,401,State House,103,DEM,Zack Larson,144
+Crawford,501,State House,103,DEM,Zack Larson,100
+Crawford,601,State House,103,DEM,Zack Larson,362
+Crawford,701,State House,103,DEM,Zack Larson,269
+Crawford,101A,State House,103,REP,Daire Rendon,569
+Crawford,101B,State House,103,REP,Daire Rendon,129
+Crawford,201,State House,103,REP,Daire Rendon,519
+Crawford,302,State House,103,REP,Daire Rendon,143
+Crawford,304,State House,103,REP,Daire Rendon,752
+Crawford,305,State House,103,REP,Daire Rendon,711
+Crawford,306,State House,103,REP,Daire Rendon,458
+Crawford,401,State House,103,REP,Daire Rendon,287
+Crawford,501,State House,103,REP,Daire Rendon,284
+Crawford,601,State House,103,REP,Daire Rendon,717
+Crawford,701,State House,103,REP,Daire Rendon,465

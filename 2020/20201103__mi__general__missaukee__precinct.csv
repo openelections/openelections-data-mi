@@ -1,0 +1,443 @@
+county,precinct,office,district,party,candidate,votes
+Missaukee,Aetna,Registered Voters,,,,352
+Missaukee,Bloomfield,Registered Voters,,,,458
+Missaukee,Butterfield,Registered Voters,,,,420
+Missaukee,Caldwell,Registered Voters,,,,1057
+Missaukee,Clam Union,Registered Voters,,,,675
+Missaukee,Enterprise,Registered Voters,,,,160
+Missaukee,Forest,Registered Voters,,,,1007
+Missaukee,Holland,Registered Voters,,,,179
+Missaukee,Lake,Registered Voters,,,,2529
+Missaukee,Norwich,Registered Voters,,,,544
+Missaukee,Pioneer,Registered Voters,,,,407
+Missaukee,Reeder,Registered Voters,,,,929
+Missaukee,Richland,Registered Voters,,,,1169
+Missaukee,Riverside,Registered Voters,,,,758
+Missaukee,West Branch,Registered Voters,,,,393
+Missaukee,Lake City,Registered Voters,,,,695
+Missaukee,McBain,Registered Voters,,,,439
+Missaukee,Aetna,Ballots Cast,,,,269
+Missaukee,Bloomfield,Ballots Cast,,,,349
+Missaukee,Butterfield,Ballots Cast,,,,300
+Missaukee,Caldwell,Ballots Cast,,,,741
+Missaukee,Clam Union,Ballots Cast,,,,503
+Missaukee,Enterprise,Ballots Cast,,,,117
+Missaukee,Forest,Ballots Cast,,,,643
+Missaukee,Holland,Ballots Cast,,,,144
+Missaukee,Lake,Ballots Cast,,,,1794
+Missaukee,Norwich,Ballots Cast,,,,374
+Missaukee,Pioneer,Ballots Cast,,,,281
+Missaukee,Reeder,Ballots Cast,,,,675
+Missaukee,Richland,Ballots Cast,,,,902
+Missaukee,Riverside,Ballots Cast,,,,596
+Missaukee,West Branch,Ballots Cast,,,,295
+Missaukee,Lake City,Ballots Cast,,,,494
+Missaukee,McBain,Ballots Cast,,,,324
+Missaukee,Aetna,Straight Party,,DEM,Democratic,20
+Missaukee,Bloomfield,Straight Party,,DEM,Democratic,44
+Missaukee,Butterfield,Straight Party,,DEM,Democratic,41
+Missaukee,Caldwell,Straight Party,,DEM,Democratic,50
+Missaukee,Clam Union,Straight Party,,DEM,Democratic,35
+Missaukee,Enterprise,Straight Party,,DEM,Democratic,17
+Missaukee,Forest,Straight Party,,DEM,Democratic,96
+Missaukee,Holland,Straight Party,,DEM,Democratic,18
+Missaukee,Lake,Straight Party,,DEM,Democratic,240
+Missaukee,Norwich,Straight Party,,DEM,Democratic,43
+Missaukee,Pioneer,Straight Party,,DEM,Democratic,39
+Missaukee,Reeder,Straight Party,,DEM,Democratic,84
+Missaukee,Richland,Straight Party,,DEM,Democratic,45
+Missaukee,Riverside,Straight Party,,DEM,Democratic,33
+Missaukee,West Branch,Straight Party,,DEM,Democratic,34
+Missaukee,Lake City,Straight Party,,DEM,Democratic,80
+Missaukee,McBain,Straight Party,,DEM,Democratic,18
+Missaukee,Aetna,Straight Party,,REP,Republican,157
+Missaukee,Bloomfield,Straight Party,,REP,Republican,148
+Missaukee,Butterfield,Straight Party,,REP,Republican,140
+Missaukee,Caldwell,Straight Party,,REP,Republican,389
+Missaukee,Clam Union,Straight Party,,REP,Republican,317
+Missaukee,Enterprise,Straight Party,,REP,Republican,59
+Missaukee,Forest,Straight Party,,REP,Republican,304
+Missaukee,Holland,Straight Party,,REP,Republican,81
+Missaukee,Lake,Straight Party,,REP,Republican,800
+Missaukee,Norwich,Straight Party,,REP,Republican,191
+Missaukee,Pioneer,Straight Party,,REP,Republican,128
+Missaukee,Reeder,Straight Party,,REP,Republican,316
+Missaukee,Richland,Straight Party,,REP,Republican,454
+Missaukee,Riverside,Straight Party,,REP,Republican,348
+Missaukee,West Branch,Straight Party,,REP,Republican,153
+Missaukee,Lake City,Straight Party,,REP,Republican,183
+Missaukee,McBain,Straight Party,,REP,Republican,177
+Missaukee,Aetna,Straight Party,,LIB,Libertarian,0
+Missaukee,Bloomfield,Straight Party,,LIB,Libertarian,1
+Missaukee,Butterfield,Straight Party,,LIB,Libertarian,1
+Missaukee,Caldwell,Straight Party,,LIB,Libertarian,4
+Missaukee,Clam Union,Straight Party,,LIB,Libertarian,1
+Missaukee,Enterprise,Straight Party,,LIB,Libertarian,0
+Missaukee,Forest,Straight Party,,LIB,Libertarian,1
+Missaukee,Holland,Straight Party,,LIB,Libertarian,0
+Missaukee,Lake,Straight Party,,LIB,Libertarian,6
+Missaukee,Norwich,Straight Party,,LIB,Libertarian,1
+Missaukee,Pioneer,Straight Party,,LIB,Libertarian,1
+Missaukee,Reeder,Straight Party,,LIB,Libertarian,1
+Missaukee,Richland,Straight Party,,LIB,Libertarian,3
+Missaukee,Riverside,Straight Party,,LIB,Libertarian,2
+Missaukee,West Branch,Straight Party,,LIB,Libertarian,2
+Missaukee,Lake City,Straight Party,,LIB,Libertarian,0
+Missaukee,McBain,Straight Party,,LIB,Libertarian,1
+Missaukee,Aetna,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Bloomfield,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Butterfield,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Caldwell,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Clam Union,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Enterprise,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Forest,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Holland,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Lake,Straight Party,,UST,U.S. Taxpayers,2
+Missaukee,Norwich,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Pioneer,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Reeder,Straight Party,,UST,U.S. Taxpayers,4
+Missaukee,Richland,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,Riverside,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,West Branch,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Lake City,Straight Party,,UST,U.S. Taxpayers,1
+Missaukee,McBain,Straight Party,,UST,U.S. Taxpayers,0
+Missaukee,Aetna,Straight Party,,WCP,Working Class,0
+Missaukee,Bloomfield,Straight Party,,WCP,Working Class,1
+Missaukee,Butterfield,Straight Party,,WCP,Working Class,0
+Missaukee,Caldwell,Straight Party,,WCP,Working Class,6
+Missaukee,Clam Union,Straight Party,,WCP,Working Class,0
+Missaukee,Enterprise,Straight Party,,WCP,Working Class,0
+Missaukee,Forest,Straight Party,,WCP,Working Class,6
+Missaukee,Holland,Straight Party,,WCP,Working Class,1
+Missaukee,Lake,Straight Party,,WCP,Working Class,8
+Missaukee,Norwich,Straight Party,,WCP,Working Class,2
+Missaukee,Pioneer,Straight Party,,WCP,Working Class,1
+Missaukee,Reeder,Straight Party,,WCP,Working Class,0
+Missaukee,Richland,Straight Party,,WCP,Working Class,4
+Missaukee,Riverside,Straight Party,,WCP,Working Class,0
+Missaukee,West Branch,Straight Party,,WCP,Working Class,2
+Missaukee,Lake City,Straight Party,,WCP,Working Class,0
+Missaukee,McBain,Straight Party,,WCP,Working Class,3
+Missaukee,Aetna,Straight Party,,GRN,Green,0
+Missaukee,Bloomfield,Straight Party,,GRN,Green,1
+Missaukee,Butterfield,Straight Party,,GRN,Green,0
+Missaukee,Caldwell,Straight Party,,GRN,Green,0
+Missaukee,Clam Union,Straight Party,,GRN,Green,0
+Missaukee,Enterprise,Straight Party,,GRN,Green,0
+Missaukee,Forest,Straight Party,,GRN,Green,0
+Missaukee,Holland,Straight Party,,GRN,Green,0
+Missaukee,Lake,Straight Party,,GRN,Green,0
+Missaukee,Norwich,Straight Party,,GRN,Green,0
+Missaukee,Pioneer,Straight Party,,GRN,Green,1
+Missaukee,Reeder,Straight Party,,GRN,Green,0
+Missaukee,Richland,Straight Party,,GRN,Green,1
+Missaukee,Riverside,Straight Party,,GRN,Green,1
+Missaukee,West Branch,Straight Party,,GRN,Green,0
+Missaukee,Lake City,Straight Party,,GRN,Green,0
+Missaukee,McBain,Straight Party,,GRN,Green,0
+Missaukee,Aetna,Straight Party,,NLP,Natural Law,0
+Missaukee,Bloomfield,Straight Party,,NLP,Natural Law,0
+Missaukee,Butterfield,Straight Party,,NLP,Natural Law,0
+Missaukee,Caldwell,Straight Party,,NLP,Natural Law,0
+Missaukee,Clam Union,Straight Party,,NLP,Natural Law,0
+Missaukee,Enterprise,Straight Party,,NLP,Natural Law,0
+Missaukee,Forest,Straight Party,,NLP,Natural Law,0
+Missaukee,Holland,Straight Party,,NLP,Natural Law,0
+Missaukee,Lake,Straight Party,,NLP,Natural Law,1
+Missaukee,Norwich,Straight Party,,NLP,Natural Law,0
+Missaukee,Pioneer,Straight Party,,NLP,Natural Law,0
+Missaukee,Reeder,Straight Party,,NLP,Natural Law,0
+Missaukee,Richland,Straight Party,,NLP,Natural Law,0
+Missaukee,Riverside,Straight Party,,NLP,Natural Law,1
+Missaukee,West Branch,Straight Party,,NLP,Natural Law,0
+Missaukee,Lake City,Straight Party,,NLP,Natural Law,0
+Missaukee,McBain,Straight Party,,NLP,Natural Law,0
+Missaukee,Aetna,President,,DEM,Joseph R. Biden,35
+Missaukee,Bloomfield,President,,DEM,Joseph R. Biden,92
+Missaukee,Butterfield,President,,DEM,Joseph R. Biden,67
+Missaukee,Caldwell,President,,DEM,Joseph R. Biden,132
+Missaukee,Clam Union,President,,DEM,Joseph R. Biden,70
+Missaukee,Enterprise,President,,DEM,Joseph R. Biden,30
+Missaukee,Forest,President,,DEM,Joseph R. Biden,169
+Missaukee,Holland,President,,DEM,Joseph R. Biden,39
+Missaukee,Lake,President,,DEM,Joseph R. Biden,527
+Missaukee,Norwich,President,,DEM,Joseph R. Biden,70
+Missaukee,Pioneer,President,,DEM,Joseph R. Biden,68
+Missaukee,Reeder,President,,DEM,Joseph R. Biden,169
+Missaukee,Richland,President,,DEM,Joseph R. Biden,139
+Missaukee,Riverside,President,,DEM,Joseph R. Biden,78
+Missaukee,West Branch,President,,DEM,Joseph R. Biden,61
+Missaukee,Lake City,President,,DEM,Joseph R. Biden,169
+Missaukee,McBain,President,,DEM,Joseph R. Biden,52
+Missaukee,Aetna,President,,REP,Donald J. Trump,231
+Missaukee,Bloomfield,President,,REP,Donald J. Trump,251
+Missaukee,Butterfield,President,,REP,Donald J. Trump,229
+Missaukee,Caldwell,President,,REP,Donald J. Trump,598
+Missaukee,Clam Union,President,,REP,Donald J. Trump,425
+Missaukee,Enterprise,President,,REP,Donald J. Trump,85
+Missaukee,Forest,President,,REP,Donald J. Trump,464
+Missaukee,Holland,President,,REP,Donald J. Trump,102
+Missaukee,Lake,President,,REP,Donald J. Trump,1219
+Missaukee,Norwich,President,,REP,Donald J. Trump,294
+Missaukee,Pioneer,President,,REP,Donald J. Trump,206
+Missaukee,Reeder,President,,REP,Donald J. Trump,494
+Missaukee,Richland,President,,REP,Donald J. Trump,739
+Missaukee,Riverside,President,,REP,Donald J. Trump,505
+Missaukee,West Branch,President,,REP,Donald J. Trump,226
+Missaukee,Lake City,President,,REP,Donald J. Trump,316
+Missaukee,McBain,President,,REP,Donald J. Trump,264
+Missaukee,Aetna,President,,LIB,Jo Jorgensen,2
+Missaukee,Bloomfield,President,,LIB,Jo Jorgensen,3
+Missaukee,Butterfield,President,,LIB,Jo Jorgensen,4
+Missaukee,Caldwell,President,,LIB,Jo Jorgensen,8
+Missaukee,Clam Union,President,,LIB,Jo Jorgensen,5
+Missaukee,Enterprise,President,,LIB,Jo Jorgensen,1
+Missaukee,Forest,President,,LIB,Jo Jorgensen,5
+Missaukee,Holland,President,,LIB,Jo Jorgensen,1
+Missaukee,Lake,President,,LIB,Jo Jorgensen,30
+Missaukee,Norwich,President,,LIB,Jo Jorgensen,6
+Missaukee,Pioneer,President,,LIB,Jo Jorgensen,2
+Missaukee,Reeder,President,,LIB,Jo Jorgensen,8
+Missaukee,Richland,President,,LIB,Jo Jorgensen,13
+Missaukee,Riverside,President,,LIB,Jo Jorgensen,5
+Missaukee,West Branch,President,,LIB,Jo Jorgensen,5
+Missaukee,Lake City,President,,LIB,Jo Jorgensen,7
+Missaukee,McBain,President,,LIB,Jo Jorgensen,6
+Missaukee,Aetna,President,,UST,Don Blankenship,1
+Missaukee,Bloomfield,President,,UST,Don Blankenship,0
+Missaukee,Butterfield,President,,UST,Don Blankenship,0
+Missaukee,Caldwell,President,,UST,Don Blankenship,0
+Missaukee,Clam Union,President,,UST,Don Blankenship,1
+Missaukee,Enterprise,President,,UST,Don Blankenship,0
+Missaukee,Forest,President,,UST,Don Blankenship,0
+Missaukee,Holland,President,,UST,Don Blankenship,0
+Missaukee,Lake,President,,UST,Don Blankenship,2
+Missaukee,Norwich,President,,UST,Don Blankenship,1
+Missaukee,Pioneer,President,,UST,Don Blankenship,1
+Missaukee,Reeder,President,,UST,Don Blankenship,0
+Missaukee,Richland,President,,UST,Don Blankenship,0
+Missaukee,Riverside,President,,UST,Don Blankenship,0
+Missaukee,West Branch,President,,UST,Don Blankenship,3
+Missaukee,Lake City,President,,UST,Don Blankenship,1
+Missaukee,McBain,President,,UST,Don Blankenship,0
+Missaukee,Aetna,President,,GRN,Howie Hawkins,0
+Missaukee,Bloomfield,President,,GRN,Howie Hawkins,1
+Missaukee,Butterfield,President,,GRN,Howie Hawkins,0
+Missaukee,Caldwell,President,,GRN,Howie Hawkins,1
+Missaukee,Clam Union,President,,GRN,Howie Hawkins,0
+Missaukee,Enterprise,President,,GRN,Howie Hawkins,0
+Missaukee,Forest,President,,GRN,Howie Hawkins,1
+Missaukee,Holland,President,,GRN,Howie Hawkins,1
+Missaukee,Lake,President,,GRN,Howie Hawkins,2
+Missaukee,Norwich,President,,GRN,Howie Hawkins,1
+Missaukee,Pioneer,President,,GRN,Howie Hawkins,3
+Missaukee,Reeder,President,,GRN,Howie Hawkins,0
+Missaukee,Richland,President,,GRN,Howie Hawkins,3
+Missaukee,Riverside,President,,GRN,Howie Hawkins,3
+Missaukee,West Branch,President,,GRN,Howie Hawkins,0
+Missaukee,Lake City,President,,GRN,Howie Hawkins,0
+Missaukee,McBain,President,,GRN,Howie Hawkins,0
+Missaukee,Aetna,President,,NLP,Rocky De La Fuente,0
+Missaukee,Bloomfield,President,,NLP,Rocky De La Fuente,0
+Missaukee,Butterfield,President,,NLP,Rocky De La Fuente,0
+Missaukee,Caldwell,President,,NLP,Rocky De La Fuente,0
+Missaukee,Clam Union,President,,NLP,Rocky De La Fuente,1
+Missaukee,Enterprise,President,,NLP,Rocky De La Fuente,0
+Missaukee,Forest,President,,NLP,Rocky De La Fuente,0
+Missaukee,Holland,President,,NLP,Rocky De La Fuente,0
+Missaukee,Lake,President,,NLP,Rocky De La Fuente,1
+Missaukee,Norwich,President,,NLP,Rocky De La Fuente,0
+Missaukee,Pioneer,President,,NLP,Rocky De La Fuente,0
+Missaukee,Reeder,President,,NLP,Rocky De La Fuente,0
+Missaukee,Richland,President,,NLP,Rocky De La Fuente,0
+Missaukee,Riverside,President,,NLP,Rocky De La Fuente,0
+Missaukee,West Branch,President,,NLP,Rocky De La Fuente,0
+Missaukee,Lake City,President,,NLP,Rocky De La Fuente,0
+Missaukee,McBain,President,,NLP,Rocky De La Fuente,0
+Missaukee,Aetna,U.S. Senate,,DEM,Gary Peters,37
+Missaukee,Bloomfield,U.S. Senate,,DEM,Gary Peters,199
+Missaukee,Butterfield,U.S. Senate,,DEM,Gary Peters,72
+Missaukee,Caldwell,U.S. Senate,,DEM,Gary Peters,133
+Missaukee,Clam Union,U.S. Senate,,DEM,Gary Peters,76
+Missaukee,Enterprise,U.S. Senate,,DEM,Gary Peters,30
+Missaukee,Forest,U.S. Senate,,DEM,Gary Peters,178
+Missaukee,Holland,U.S. Senate,,DEM,Gary Peters,39
+Missaukee,Lake,U.S. Senate,,DEM,Gary Peters,505
+Missaukee,Norwich,U.S. Senate,,DEM,Gary Peters,78
+Missaukee,Pioneer,U.S. Senate,,DEM,Gary Peters,80
+Missaukee,Reeder,U.S. Senate,,DEM,Gary Peters,179
+Missaukee,Richland,U.S. Senate,,DEM,Gary Peters,124
+Missaukee,Riverside,U.S. Senate,,DEM,Gary Peters,74
+Missaukee,West Branch,U.S. Senate,,DEM,Gary Peters,71
+Missaukee,Lake City,U.S. Senate,,DEM,Gary Peters,170
+Missaukee,McBain,U.S. Senate,,DEM,Gary Peters,53
+Missaukee,Aetna,U.S. Senate,,REP,John James,228
+Missaukee,Bloomfield,U.S. Senate,,REP,John James,241
+Missaukee,Butterfield,U.S. Senate,,REP,John James,220
+Missaukee,Caldwell,U.S. Senate,,REP,John James,596
+Missaukee,Clam Union,U.S. Senate,,REP,John James,414
+Missaukee,Enterprise,U.S. Senate,,REP,John James,86
+Missaukee,Forest,U.S. Senate,,REP,John James,452
+Missaukee,Holland,U.S. Senate,,REP,John James,101
+Missaukee,Lake,U.S. Senate,,REP,John James,1238
+Missaukee,Norwich,U.S. Senate,,REP,John James,286
+Missaukee,Pioneer,U.S. Senate,,REP,John James,191
+Missaukee,Reeder,U.S. Senate,,REP,John James,482
+Missaukee,Richland,U.S. Senate,,REP,John James,760
+Missaukee,Riverside,U.S. Senate,,REP,John James,511
+Missaukee,West Branch,U.S. Senate,,REP,John James,211
+Missaukee,Lake City,U.S. Senate,,REP,John James,317
+Missaukee,McBain,U.S. Senate,,REP,John James,264
+Missaukee,Aetna,U.S. Senate,,UST,Valerie L. Willis,1
+Missaukee,Bloomfield,U.S. Senate,,UST,Valerie L. Willis,0
+Missaukee,Butterfield,U.S. Senate,,UST,Valerie L. Willis,0
+Missaukee,Caldwell,U.S. Senate,,UST,Valerie L. Willis,5
+Missaukee,Clam Union,U.S. Senate,,UST,Valerie L. Willis,4
+Missaukee,Enterprise,U.S. Senate,,UST,Valerie L. Willis,0
+Missaukee,Forest,U.S. Senate,,UST,Valerie L. Willis,2
+Missaukee,Holland,U.S. Senate,,UST,Valerie L. Willis,0
+Missaukee,Lake,U.S. Senate,,UST,Valerie L. Willis,12
+Missaukee,Norwich,U.S. Senate,,UST,Valerie L. Willis,2
+Missaukee,Pioneer,U.S. Senate,,UST,Valerie L. Willis,5
+Missaukee,Reeder,U.S. Senate,,UST,Valerie L. Willis,3
+Missaukee,Richland,U.S. Senate,,UST,Valerie L. Willis,4
+Missaukee,Riverside,U.S. Senate,,UST,Valerie L. Willis,1
+Missaukee,West Branch,U.S. Senate,,UST,Valerie L. Willis,3
+Missaukee,Lake City,U.S. Senate,,UST,Valerie L. Willis,2
+Missaukee,McBain,U.S. Senate,,UST,Valerie L. Willis,1
+Missaukee,Aetna,U.S. Senate,,GRN,Marcia Squier,2
+Missaukee,Bloomfield,U.S. Senate,,GRN,Marcia Squier,1
+Missaukee,Butterfield,U.S. Senate,,GRN,Marcia Squier,2
+Missaukee,Caldwell,U.S. Senate,,GRN,Marcia Squier,0
+Missaukee,Clam Union,U.S. Senate,,GRN,Marcia Squier,4
+Missaukee,Enterprise,U.S. Senate,,GRN,Marcia Squier,0
+Missaukee,Forest,U.S. Senate,,GRN,Marcia Squier,4
+Missaukee,Holland,U.S. Senate,,GRN,Marcia Squier,2
+Missaukee,Lake,U.S. Senate,,GRN,Marcia Squier,8
+Missaukee,Norwich,U.S. Senate,,GRN,Marcia Squier,3
+Missaukee,Pioneer,U.S. Senate,,GRN,Marcia Squier,3
+Missaukee,Reeder,U.S. Senate,,GRN,Marcia Squier,4
+Missaukee,Richland,U.S. Senate,,GRN,Marcia Squier,6
+Missaukee,Riverside,U.S. Senate,,GRN,Marcia Squier,3
+Missaukee,West Branch,U.S. Senate,,GRN,Marcia Squier,4
+Missaukee,Lake City,U.S. Senate,,GRN,Marcia Squier,2
+Missaukee,McBain,U.S. Senate,,GRN,Marcia Squier,1
+Missaukee,Aetna,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Bloomfield,U.S. Senate,,NLP,Doug Dern,2
+Missaukee,Butterfield,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Caldwell,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Clam Union,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Enterprise,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Forest,U.S. Senate,,NLP,Doug Dern,1
+Missaukee,Holland,U.S. Senate,,NLP,Doug Dern,1
+Missaukee,Lake,U.S. Senate,,NLP,Doug Dern,4
+Missaukee,Norwich,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Pioneer,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,Reeder,U.S. Senate,,NLP,Doug Dern,1
+Missaukee,Richland,U.S. Senate,,NLP,Doug Dern,2
+Missaukee,Riverside,U.S. Senate,,NLP,Doug Dern,0
+Missaukee,West Branch,U.S. Senate,,NLP,Doug Dern,3
+Missaukee,Lake City,U.S. Senate,,NLP,Doug Dern,1
+Missaukee,McBain,U.S. Senate,,NLP,Doug Dern,1
+Missaukee,Aetna,U.S. House,4,DEM,Jerry Hilliard,28
+Missaukee,Bloomfield,U.S. House,4,DEM,Jerry Hilliard,87
+Missaukee,Butterfield,U.S. House,4,DEM,Jerry Hilliard,64
+Missaukee,Caldwell,U.S. House,4,DEM,Jerry Hilliard,105
+Missaukee,Clam Union,U.S. House,4,DEM,Jerry Hilliard,55
+Missaukee,Enterprise,U.S. House,4,DEM,Jerry Hilliard,27
+Missaukee,Forest,U.S. House,4,DEM,Jerry Hilliard,154
+Missaukee,Holland,U.S. House,4,DEM,Jerry Hilliard,36
+Missaukee,Lake,U.S. House,4,DEM,Jerry Hilliard,437
+Missaukee,Norwich,U.S. House,4,DEM,Jerry Hilliard,59
+Missaukee,Pioneer,U.S. House,4,DEM,Jerry Hilliard,64
+Missaukee,Reeder,U.S. House,4,DEM,Jerry Hilliard,152
+Missaukee,Richland,U.S. House,4,DEM,Jerry Hilliard,107
+Missaukee,Riverside,U.S. House,4,DEM,Jerry Hilliard,60
+Missaukee,West Branch,U.S. House,4,DEM,Jerry Hilliard,58
+Missaukee,Lake City,U.S. House,4,DEM,Jerry Hilliard,139
+Missaukee,McBain,U.S. House,4,DEM,Jerry Hilliard,43
+Missaukee,Aetna,U.S. House,4,REP,John Moolenaar,231
+Missaukee,Bloomfield,U.S. House,4,REP,John Moolenaar,249
+Missaukee,Butterfield,U.S. House,4,REP,John Moolenaar,221
+Missaukee,Caldwell,U.S. House,4,REP,John Moolenaar,612
+Missaukee,Clam Union,U.S. House,4,REP,John Moolenaar,432
+Missaukee,Enterprise,U.S. House,4,REP,John Moolenaar,85
+Missaukee,Forest,U.S. House,4,REP,John Moolenaar,458
+Missaukee,Holland,U.S. House,4,REP,John Moolenaar,102
+Missaukee,Lake,U.S. House,4,REP,John Moolenaar,1274
+Missaukee,Norwich,U.S. House,4,REP,John Moolenaar,294
+Missaukee,Pioneer,U.S. House,4,REP,John Moolenaar,200
+Missaukee,Reeder,U.S. House,4,REP,John Moolenaar,493
+Missaukee,Richland,U.S. House,4,REP,John Moolenaar,762
+Missaukee,Riverside,U.S. House,4,REP,John Moolenaar,519
+Missaukee,West Branch,U.S. House,4,REP,John Moolenaar,221
+Missaukee,Lake City,U.S. House,4,REP,John Moolenaar,338
+Missaukee,McBain,U.S. House,4,REP,John Moolenaar,272
+Missaukee,Aetna,U.S. House,4,LIB,David Canny,1
+Missaukee,Bloomfield,U.S. House,4,LIB,David Canny,2
+Missaukee,Butterfield,U.S. House,4,LIB,David Canny,4
+Missaukee,Caldwell,U.S. House,4,LIB,David Canny,11
+Missaukee,Clam Union,U.S. House,4,LIB,David Canny,2
+Missaukee,Enterprise,U.S. House,4,LIB,David Canny,1
+Missaukee,Forest,U.S. House,4,LIB,David Canny,7
+Missaukee,Holland,U.S. House,4,LIB,David Canny,1
+Missaukee,Lake,U.S. House,4,LIB,David Canny,26
+Missaukee,Norwich,U.S. House,4,LIB,David Canny,7
+Missaukee,Pioneer,U.S. House,4,LIB,David Canny,4
+Missaukee,Reeder,U.S. House,4,LIB,David Canny,9
+Missaukee,Richland,U.S. House,4,LIB,David Canny,11
+Missaukee,Riverside,U.S. House,4,LIB,David Canny,3
+Missaukee,West Branch,U.S. House,4,LIB,David Canny,6
+Missaukee,Lake City,U.S. House,4,LIB,David Canny,4
+Missaukee,McBain,U.S. House,4,LIB,David Canny,2
+Missaukee,Aetna,U.S. House,4,GRN,Amy Slepr,2
+Missaukee,Bloomfield,U.S. House,4,GRN,Amy Slepr,2
+Missaukee,Butterfield,U.S. House,4,GRN,Amy Slepr,1
+Missaukee,Caldwell,U.S. House,4,GRN,Amy Slepr,3
+Missaukee,Clam Union,U.S. House,4,GRN,Amy Slepr,5
+Missaukee,Enterprise,U.S. House,4,GRN,Amy Slepr,0
+Missaukee,Forest,U.S. House,4,GRN,Amy Slepr,8
+Missaukee,Holland,U.S. House,4,GRN,Amy Slepr,2
+Missaukee,Lake,U.S. House,4,GRN,Amy Slepr,14
+Missaukee,Norwich,U.S. House,4,GRN,Amy Slepr,2
+Missaukee,Pioneer,U.S. House,4,GRN,Amy Slepr,5
+Missaukee,Reeder,U.S. House,4,GRN,Amy Slepr,6
+Missaukee,Richland,U.S. House,4,GRN,Amy Slepr,10
+Missaukee,Riverside,U.S. House,4,GRN,Amy Slepr,3
+Missaukee,West Branch,U.S. House,4,GRN,Amy Slepr,3
+Missaukee,Lake City,U.S. House,4,GRN,Amy Slepr,3
+Missaukee,McBain,U.S. House,4,GRN,Amy Slepr,1
+Missaukee,Aetna,State House,103,DEM,Zach Larson,32
+Missaukee,Bloomfield,State House,103,DEM,Zach Larson,93
+Missaukee,Butterfield,State House,103,DEM,Zach Larson,65
+Missaukee,Caldwell,State House,103,DEM,Zach Larson,119
+Missaukee,Clam Union,State House,103,DEM,Zach Larson,64
+Missaukee,Enterprise,State House,103,DEM,Zach Larson,28
+Missaukee,Forest,State House,103,DEM,Zach Larson,161
+Missaukee,Holland,State House,103,DEM,Zach Larson,36
+Missaukee,Lake,State House,103,DEM,Zach Larson,457
+Missaukee,Norwich,State House,103,DEM,Zach Larson,73
+Missaukee,Pioneer,State House,103,DEM,Zach Larson,72
+Missaukee,Reeder,State House,103,DEM,Zach Larson,174
+Missaukee,Richland,State House,103,DEM,Zach Larson,116
+Missaukee,Riverside,State House,103,DEM,Zach Larson,62
+Missaukee,West Branch,State House,103,DEM,Zach Larson,58
+Missaukee,Lake City,State House,103,DEM,Zach Larson,145
+Missaukee,McBain,State House,103,DEM,Zach Larson,47
+Missaukee,Aetna,State House,103,REP,Daire Rendon,232
+Missaukee,Bloomfield,State House,103,REP,Daire Rendon,245
+Missaukee,Butterfield,State House,103,REP,Daire Rendon,226
+Missaukee,Caldwell,State House,103,REP,Daire Rendon,603
+Missaukee,Clam Union,State House,103,REP,Daire Rendon,429
+Missaukee,Enterprise,State House,103,REP,Daire Rendon,85
+Missaukee,Forest,State House,103,REP,Daire Rendon,467
+Missaukee,Holland,State House,103,REP,Daire Rendon,102
+Missaukee,Lake,State House,103,REP,Daire Rendon,1291
+Missaukee,Norwich,State House,103,REP,Daire Rendon,294
+Missaukee,Pioneer,State House,103,REP,Daire Rendon,199
+Missaukee,Reeder,State House,103,REP,Daire Rendon,481
+Missaukee,Richland,State House,103,REP,Daire Rendon,762
+Missaukee,Riverside,State House,103,REP,Daire Rendon,513
+Missaukee,West Branch,State House,103,REP,Daire Rendon,230
+Missaukee,Lake City,State House,103,REP,Daire Rendon,331
+Missaukee,McBain,State House,103,REP,Daire Rendon,268

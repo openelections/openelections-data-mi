@@ -1,0 +1,783 @@
+candidate,office,district,party,county,precinct,votes
+,Straight Party,,DEM,Cheboygan,"City of Cheboygan, Precinct 1",36
+,Straight Party,,REP,Cheboygan,"City of Cheboygan, Precinct 1",62
+,Straight Party,,LIB,Cheboygan,"City of Cheboygan, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"City of Cheboygan, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"City of Cheboygan, Precinct 1",1
+,Straight Party,,GRN,Cheboygan,"City of Cheboygan, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"City of Cheboygan, Precinct 1",1
+Joseph R Biden,President,,DEM,Cheboygan,"City of Cheboygan, Precinct 1",71
+Donald J Trump,President,,REP,Cheboygan,"City of Cheboygan, Precinct 1",108
+Jo Jorgensen,President,,LIB,Cheboygan,"City of Cheboygan, Precinct 1",5
+Don Blankenship,President,,UST,Cheboygan,"City of Cheboygan, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"City of Cheboygan, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"City of Cheboygan, Precinct 1",0
+Write-In,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"City of Cheboygan, Precinct 1",65
+John James,U.S. Senate,,REP,Cheboygan,"City of Cheboygan, Precinct 1",114
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"City of Cheboygan, Precinct 1",2
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"City of Cheboygan, Precinct 1",2
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"City of Cheboygan, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"City of Cheboygan, Precinct 1",61
+Jack Bergman,U.S. House,1,REP,Cheboygan,"City of Cheboygan, Precinct 1",112
+Ben Boren,U.S. House,1,LIB,Cheboygan,"City of Cheboygan, Precinct 1",10
+Write-In,U.S. House,1,,Cheboygan,"City of Cheboygan, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"City of Cheboygan, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"City of Cheboygan, Precinct 2",317
+,Straight Party,,REP,Cheboygan,"City of Cheboygan, Precinct 2",564
+,Straight Party,,LIB,Cheboygan,"City of Cheboygan, Precinct 2",9
+,Straight Party,,UST,Cheboygan,"City of Cheboygan, Precinct 2",1
+,Straight Party,,WCP,Cheboygan,"City of Cheboygan, Precinct 2",8
+,Straight Party,,GRN,Cheboygan,"City of Cheboygan, Precinct 2",2
+,Straight Party,,NLP,Cheboygan,"City of Cheboygan, Precinct 2",3
+Joseph R Biden,President,,DEM,Cheboygan,"City of Cheboygan, Precinct 2",680
+Donald J Trump,President,,REP,Cheboygan,"City of Cheboygan, Precinct 2",964
+Jo Jorgensen,President,,LIB,Cheboygan,"City of Cheboygan, Precinct 2",29
+Don Blankenship,President,,UST,Cheboygan,"City of Cheboygan, Precinct 2",4
+Howie Hawkins,President,,GRN,Cheboygan,"City of Cheboygan, Precinct 2",5
+Rocky De La Fuente,President,,NLP,Cheboygan,"City of Cheboygan, Precinct 2",0
+Write-In,President,,,Cheboygan,"City of Cheboygan, Precinct 2",2
+Brian T Carroll,President,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Tom Hoefling,President,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Tara Renee Hunter,President,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Jade Simmons,President,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Kasey Wells,President,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"City of Cheboygan, Precinct 2",682
+John James,U.S. Senate,,REP,Cheboygan,"City of Cheboygan, Precinct 2",931
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"City of Cheboygan, Precinct 2",22
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"City of Cheboygan, Precinct 2",19
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"City of Cheboygan, Precinct 2",8
+Write-In,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 2",2
+Robert William Carr,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 2",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"City of Cheboygan, Precinct 2",595
+Jack Bergman,U.S. House,1,REP,Cheboygan,"City of Cheboygan, Precinct 2",1015
+Ben Boren,U.S. House,1,LIB,Cheboygan,"City of Cheboygan, Precinct 2",39
+Write-In,U.S. House,1,,Cheboygan,"City of Cheboygan, Precinct 2",1
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"City of Cheboygan, Precinct 2",
+Sue Allor,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 2",
+Write-In,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 2",
+,Straight Party,,DEM,Cheboygan,"City of Cheboygan, Precinct 3",49
+,Straight Party,,REP,Cheboygan,"City of Cheboygan, Precinct 3",89
+,Straight Party,,LIB,Cheboygan,"City of Cheboygan, Precinct 3",1
+,Straight Party,,UST,Cheboygan,"City of Cheboygan, Precinct 3",0
+,Straight Party,,WCP,Cheboygan,"City of Cheboygan, Precinct 3",1
+,Straight Party,,GRN,Cheboygan,"City of Cheboygan, Precinct 3",0
+,Straight Party,,NLP,Cheboygan,"City of Cheboygan, Precinct 3",1
+Joseph R Biden,President,,DEM,Cheboygan,"City of Cheboygan, Precinct 3",110
+Donald J Trump,President,,REP,Cheboygan,"City of Cheboygan, Precinct 3",145
+Jo Jorgensen,President,,LIB,Cheboygan,"City of Cheboygan, Precinct 3",2
+Don Blankenship,President,,UST,Cheboygan,"City of Cheboygan, Precinct 3",1
+Howie Hawkins,President,,GRN,Cheboygan,"City of Cheboygan, Precinct 3",2
+Rocky De La Fuente,President,,NLP,Cheboygan,"City of Cheboygan, Precinct 3",1
+Write-In,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Brian T Carroll,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Tom Hoefling,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Tara Renee Hunter,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Jade Simmons,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Kasey Wells,President,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"City of Cheboygan, Precinct 3",106
+John James,U.S. Senate,,REP,Cheboygan,"City of Cheboygan, Precinct 3",148
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"City of Cheboygan, Precinct 3",5
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"City of Cheboygan, Precinct 3",0
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"City of Cheboygan, Precinct 3",1
+Write-In,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"City of Cheboygan, Precinct 3",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"City of Cheboygan, Precinct 3",94
+Jack Bergman,U.S. House,1,REP,Cheboygan,"City of Cheboygan, Precinct 3",162
+Ben Boren,U.S. House,1,LIB,Cheboygan,"City of Cheboygan, Precinct 3",2
+Write-In,U.S. House,1,,Cheboygan,"City of Cheboygan, Precinct 3",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"City of Cheboygan, Precinct 3",
+Sue Allor,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 3",
+Write-In,State House,106,REP,Cheboygan,"City of Cheboygan, Precinct 3",
+,Straight Party,,DEM,Cheboygan,"Aloha Township, Precinct 1",76
+,Straight Party,,REP,Cheboygan,"Aloha Township, Precinct 1",256
+,Straight Party,,LIB,Cheboygan,"Aloha Township, Precinct 1",2
+,Straight Party,,UST,Cheboygan,"Aloha Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Aloha Township, Precinct 1",1
+,Straight Party,,GRN,Cheboygan,"Aloha Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Aloha Township, Precinct 1",1
+Joseph R Biden,President,,DEM,Cheboygan,"Aloha Township, Precinct 1",219
+Donald J Trump,President,,REP,Cheboygan,"Aloha Township, Precinct 1",428
+Jo Jorgensen,President,,LIB,Cheboygan,"Aloha Township, Precinct 1",9
+Don Blankenship,President,,UST,Cheboygan,"Aloha Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Aloha Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Aloha Township, Precinct 1",1
+Write-In,President,,,Cheboygan,"Aloha Township, Precinct 1",3
+Brian T Carroll,President,,,Cheboygan,"Aloha Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Aloha Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Aloha Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Aloha Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Aloha Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Aloha Township, Precinct 1",215
+John James,U.S. Senate,,REP,Cheboygan,"Aloha Township, Precinct 1",425
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Aloha Township, Precinct 1",7
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Aloha Township, Precinct 1",5
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Aloha Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Aloha Township, Precinct 1",2
+Robert William Carr,U.S. Senate,,,Cheboygan,"Aloha Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Aloha Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Aloha Township, Precinct 1",172
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Aloha Township, Precinct 1",465
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Aloha Township, Precinct 1",9
+Write-In,U.S. House,1,,Cheboygan,"Aloha Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Aloha Township, Precinct 1",186
+Sue Allor,State House,106,REP,Cheboygan,"Aloha Township, Precinct 1",457
+Write-In,State House,106,REP,Cheboygan,"Aloha Township, Precinct 1",1
+,Straight Party,,DEM,Cheboygan,"Beaugrand Township, Precinct 1",98
+,Straight Party,,REP,Cheboygan,"Beaugrand Township, Precinct 1",265
+,Straight Party,,LIB,Cheboygan,"Beaugrand Township, Precinct 1",2
+,Straight Party,,UST,Cheboygan,"Beaugrand Township, Precinct 1",1
+,Straight Party,,WCP,Cheboygan,"Beaugrand Township, Precinct 1",1
+,Straight Party,,GRN,Cheboygan,"Beaugrand Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Beaugrand Township, Precinct 1",1
+Joseph R Biden,President,,DEM,Cheboygan,"Beaugrand Township, Precinct 1",231
+Donald J Trump,President,,REP,Cheboygan,"Beaugrand Township, Precinct 1",474
+Jo Jorgensen,President,,LIB,Cheboygan,"Beaugrand Township, Precinct 1",8
+Don Blankenship,President,,UST,Cheboygan,"Beaugrand Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Beaugrand Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Beaugrand Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Beaugrand Township, Precinct 1",2
+Brian T Carroll,President,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Beaugrand Township, Precinct 1",243
+John James,U.S. Senate,,REP,Cheboygan,"Beaugrand Township, Precinct 1",457
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Beaugrand Township, Precinct 1",7
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Beaugrand Township, Precinct 1",1
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Beaugrand Township, Precinct 1",2
+Write-In,U.S. Senate,,,Cheboygan,"Beaugrand Township, Precinct 1",1
+Robert William Carr,U.S. Senate,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Beaugrand Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Beaugrand Township, Precinct 1",206
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Beaugrand Township, Precinct 1",492
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Beaugrand Township, Precinct 1",8
+Write-In,U.S. House,1,,Cheboygan,"Beaugrand Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Beaugrand Township, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"Beaugrand Township, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"Beaugrand Township, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"Benton Township, Precinct 1",297
+,Straight Party,,REP,Cheboygan,"Benton Township, Precinct 1",735
+,Straight Party,,LIB,Cheboygan,"Benton Township, Precinct 1",3
+,Straight Party,,UST,Cheboygan,"Benton Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Benton Township, Precinct 1",5
+,Straight Party,,GRN,Cheboygan,"Benton Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Benton Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Benton Township, Precinct 1",731
+Donald J Trump,President,,REP,Cheboygan,"Benton Township, Precinct 1",1326
+Jo Jorgensen,President,,LIB,Cheboygan,"Benton Township, Precinct 1",28
+Don Blankenship,President,,UST,Cheboygan,"Benton Township, Precinct 1",1
+Howie Hawkins,President,,GRN,Cheboygan,"Benton Township, Precinct 1",2
+Rocky De La Fuente,President,,NLP,Cheboygan,"Benton Township, Precinct 1",3
+Write-In,President,,,Cheboygan,"Benton Township, Precinct 1",1
+Brian T Carroll,President,,,Cheboygan,"Benton Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Benton Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Benton Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Benton Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Benton Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Benton Township, Precinct 1",718
+John James,U.S. Senate,,REP,Cheboygan,"Benton Township, Precinct 1",1317
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Benton Township, Precinct 1",10
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Benton Township, Precinct 1",10
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Benton Township, Precinct 1",5
+Write-In,U.S. Senate,,,Cheboygan,"Benton Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Benton Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Benton Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Benton Township, Precinct 1",584
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Benton Township, Precinct 1",1431
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Benton Township, Precinct 1",26
+Write-In,U.S. House,1,,Cheboygan,"Benton Township, Precinct 1",1
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Benton Township, Precinct 1",613
+Sue Allor,State House,106,REP,Cheboygan,"Benton Township, Precinct 1",1402
+Write-In,State House,106,REP,Cheboygan,"Benton Township, Precinct 1",6
+,Straight Party,,DEM,Cheboygan,"Burt Township, Precinct 1",81
+,Straight Party,,REP,Cheboygan,"Burt Township, Precinct 1",259
+,Straight Party,,LIB,Cheboygan,"Burt Township, Precinct 1",0
+,Straight Party,,UST,Cheboygan,"Burt Township, Precinct 1",1
+,Straight Party,,WCP,Cheboygan,"Burt Township, Precinct 1",0
+,Straight Party,,GRN,Cheboygan,"Burt Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Burt Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Burt Township, Precinct 1",172
+Donald J Trump,President,,REP,Cheboygan,"Burt Township, Precinct 1",364
+Jo Jorgensen,President,,LIB,Cheboygan,"Burt Township, Precinct 1",3
+Don Blankenship,President,,UST,Cheboygan,"Burt Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Burt Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Burt Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Burt Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Burt Township, Precinct 1",167
+John James,U.S. Senate,,REP,Cheboygan,"Burt Township, Precinct 1",370
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Burt Township, Precinct 1",1
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Burt Township, Precinct 1",0
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Burt Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Burt Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Burt Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Burt Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Burt Township, Precinct 1",154
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Burt Township, Precinct 1",376
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Burt Township, Precinct 1",3
+Write-In,U.S. House,1,,Cheboygan,"Burt Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Burt Township, Precinct 1",148
+Sue Allor,State House,106,REP,Cheboygan,"Burt Township, Precinct 1",386
+Write-In,State House,106,REP,Cheboygan,"Burt Township, Precinct 1",1
+,Straight Party,,DEM,Cheboygan,"Ellis Township, Precinct 1",44
+,Straight Party,,REP,Cheboygan,"Ellis Township, Precinct 1",160
+,Straight Party,,LIB,Cheboygan,"Ellis Township, Precinct 1",0
+,Straight Party,,UST,Cheboygan,"Ellis Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Ellis Township, Precinct 1",1
+,Straight Party,,GRN,Cheboygan,"Ellis Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Ellis Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Ellis Township, Precinct 1",98
+Donald J Trump,President,,REP,Cheboygan,"Ellis Township, Precinct 1",262
+Jo Jorgensen,President,,LIB,Cheboygan,"Ellis Township, Precinct 1",8
+Don Blankenship,President,,UST,Cheboygan,"Ellis Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Ellis Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Ellis Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Ellis Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Ellis Township, Precinct 1",105
+John James,U.S. Senate,,REP,Cheboygan,"Ellis Township, Precinct 1",252
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Ellis Township, Precinct 1",4
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Ellis Township, Precinct 1",5
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Ellis Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Ellis Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Ellis Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Ellis Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Ellis Township, Precinct 1",89
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Ellis Township, Precinct 1",262
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Ellis Township, Precinct 1",10
+Write-In,U.S. House,1,,Cheboygan,"Ellis Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Ellis Township, Precinct 1",88
+Sue Allor,State House,106,REP,Cheboygan,"Ellis Township, Precinct 1",276
+Write-In,State House,106,REP,Cheboygan,"Ellis Township, Precinct 1",1
+,Straight Party,,DEM,Cheboygan,"Forest Township, Precinct 1",92
+,Straight Party,,REP,Cheboygan,"Forest Township, Precinct 1",250
+,Straight Party,,LIB,Cheboygan,"Forest Township, Precinct 1",3
+,Straight Party,,UST,Cheboygan,"Forest Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Forest Township, Precinct 1",2
+,Straight Party,,GRN,Cheboygan,"Forest Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Forest Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Forest Township, Precinct 1",156
+Donald J Trump,President,,REP,Cheboygan,"Forest Township, Precinct 1",400
+Jo Jorgensen,President,,LIB,Cheboygan,"Forest Township, Precinct 1",9
+Don Blankenship,President,,UST,Cheboygan,"Forest Township, Precinct 1",1
+Howie Hawkins,President,,GRN,Cheboygan,"Forest Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Forest Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Forest Township, Precinct 1",1
+Brian T Carroll,President,,,Cheboygan,"Forest Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Forest Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Forest Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Forest Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Forest Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Forest Township, Precinct 1",173
+John James,U.S. Senate,,REP,Cheboygan,"Forest Township, Precinct 1",384
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Forest Township, Precinct 1",5
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Forest Township, Precinct 1",1
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Forest Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Forest Township, Precinct 1",1
+Robert William Carr,U.S. Senate,,,Cheboygan,"Forest Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Forest Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Forest Township, Precinct 1",143
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Forest Township, Precinct 1",406
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Forest Township, Precinct 1",8
+Write-In,U.S. House,1,,Cheboygan,"Forest Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Forest Township, Precinct 1",144
+Sue Allor,State House,106,REP,Cheboygan,"Forest Township, Precinct 1",411
+Write-In,State House,106,REP,Cheboygan,"Forest Township, Precinct 1",1
+,Straight Party,,DEM,Cheboygan,"Grant Township, Precinct 1",98
+,Straight Party,,REP,Cheboygan,"Grant Township, Precinct 1",209
+,Straight Party,,LIB,Cheboygan,"Grant Township, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"Grant Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Grant Township, Precinct 1",2
+,Straight Party,,GRN,Cheboygan,"Grant Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Grant Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Grant Township, Precinct 1",219
+Donald J Trump,President,,REP,Cheboygan,"Grant Township, Precinct 1",365
+Jo Jorgensen,President,,LIB,Cheboygan,"Grant Township, Precinct 1",6
+Don Blankenship,President,,UST,Cheboygan,"Grant Township, Precinct 1",1
+Howie Hawkins,President,,GRN,Cheboygan,"Grant Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Grant Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Grant Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Grant Township, Precinct 1",218
+John James,U.S. Senate,,REP,Cheboygan,"Grant Township, Precinct 1",365
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Grant Township, Precinct 1",0
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Grant Township, Precinct 1",0
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Grant Township, Precinct 1",1
+Write-In,U.S. Senate,,,Cheboygan,"Grant Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Grant Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Grant Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Grant Township, Precinct 1",197
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Grant Township, Precinct 1",381
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Grant Township, Precinct 1",6
+Write-In,U.S. House,1,,Cheboygan,"Grant Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Grant Township, Precinct 1",205
+Sue Allor,State House,106,REP,Cheboygan,"Grant Township, Precinct 1",371
+Write-In,State House,106,REP,Cheboygan,"Grant Township, Precinct 1",1
+,Straight Party,,DEM,Cheboygan,"Hebron Township, Precinct1",27
+,Straight Party,,REP,Cheboygan,"Hebron Township, Precinct1",56
+,Straight Party,,LIB,Cheboygan,"Hebron Township, Precinct1",0
+,Straight Party,,UST,Cheboygan,"Hebron Township, Precinct1",1
+,Straight Party,,WCP,Cheboygan,"Hebron Township, Precinct1",0
+,Straight Party,,GRN,Cheboygan,"Hebron Township, Precinct1",0
+,Straight Party,,NLP,Cheboygan,"Hebron Township, Precinct1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Hebron Township, Precinct1",65
+Donald J Trump,President,,REP,Cheboygan,"Hebron Township, Precinct1",111
+Jo Jorgensen,President,,LIB,Cheboygan,"Hebron Township, Precinct1",2
+Don Blankenship,President,,UST,Cheboygan,"Hebron Township, Precinct1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Hebron Township, Precinct1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Hebron Township, Precinct1",0
+Write-In,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Brian T Carroll,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Tom Hoefling,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Tara Renee Hunter,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Jade Simmons,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Kasey Wells,President,,,Cheboygan,"Hebron Township, Precinct1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Hebron Township, Precinct1",68
+John James,U.S. Senate,,REP,Cheboygan,"Hebron Township, Precinct1",105
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Hebron Township, Precinct1",1
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Hebron Township, Precinct1",2
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Hebron Township, Precinct1",1
+Write-In,U.S. Senate,,,Cheboygan,"Hebron Township, Precinct1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Hebron Township, Precinct1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Hebron Township, Precinct1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Hebron Township, Precinct1",58
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Hebron Township, Precinct1",115
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Hebron Township, Precinct1",4
+Write-In,U.S. House,1,,Cheboygan,"Hebron Township, Precinct1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Hebron Township, Precinct1",
+Sue Allor,State House,106,REP,Cheboygan,"Hebron Township, Precinct1",
+Write-In,State House,106,REP,Cheboygan,"Hebron Township, Precinct1",
+,Straight Party,,DEM,Cheboygan,"Inverness Township, Precinct 1",213
+,Straight Party,,REP,Cheboygan,"Inverness Township, Precinct 1",498
+,Straight Party,,LIB,Cheboygan,"Inverness Township, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"Inverness Township, Precinct 1",2
+,Straight Party,,WCP,Cheboygan,"Inverness Township, Precinct 1",10
+,Straight Party,,GRN,Cheboygan,"Inverness Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Inverness Township, Precinct 1",1
+Joseph R Biden,President,,DEM,Cheboygan,"Inverness Township, Precinct 1",523
+Donald J Trump,President,,REP,Cheboygan,"Inverness Township, Precinct 1",955
+Jo Jorgensen,President,,LIB,Cheboygan,"Inverness Township, Precinct 1",16
+Don Blankenship,President,,UST,Cheboygan,"Inverness Township, Precinct 1",2
+Howie Hawkins,President,,GRN,Cheboygan,"Inverness Township, Precinct 1",2
+Rocky De La Fuente,President,,NLP,Cheboygan,"Inverness Township, Precinct 1",1
+Write-In,President,,,Cheboygan,"Inverness Township, Precinct 1",2
+Brian T Carroll,President,,,Cheboygan,"Inverness Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Inverness Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Inverness Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Inverness Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Inverness Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Inverness Township, Precinct 1",532
+John James,U.S. Senate,,REP,Cheboygan,"Inverness Township, Precinct 1",939
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Inverness Township, Precinct 1",8
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Inverness Township, Precinct 1",6
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Inverness Township, Precinct 1",2
+Write-In,U.S. Senate,,,Cheboygan,"Inverness Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Inverness Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Inverness Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Inverness Township, Precinct 1",423
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Inverness Township, Precinct 1",1035
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Inverness Township, Precinct 1",16
+Write-In,U.S. House,1,,Cheboygan,"Inverness Township, Precinct 1",2
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Inverness Township, Precinct 1",414
+Sue Allor,State House,106,REP,Cheboygan,"Inverness Township, Precinct 1",968
+Write-In,State House,106,REP,Cheboygan,"Inverness Township, Precinct 1",2
+,Straight Party,,DEM,Cheboygan,"Koehler Township, Precinct 1",88
+,Straight Party,,REP,Cheboygan,"Koehler Township, Precinct 1",296
+,Straight Party,,LIB,Cheboygan,"Koehler Township, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"Koehler Township, Precinct 1",2
+,Straight Party,,WCP,Cheboygan,"Koehler Township, Precinct 1",3
+,Straight Party,,GRN,Cheboygan,"Koehler Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Koehler Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Koehler Township, Precinct 1",207
+Donald J Trump,President,,REP,Cheboygan,"Koehler Township, Precinct 1",480
+Jo Jorgensen,President,,LIB,Cheboygan,"Koehler Township, Precinct 1",7
+Don Blankenship,President,,UST,Cheboygan,"Koehler Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Koehler Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Koehler Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Koehler Township, Precinct 1",3
+Brian T Carroll,President,,,Cheboygan,"Koehler Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Koehler Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Koehler Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Koehler Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Koehler Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Koehler Township, Precinct 1",207
+John James,U.S. Senate,,REP,Cheboygan,"Koehler Township, Precinct 1",478
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Koehler Township, Precinct 1",5
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Koehler Township, Precinct 1",3
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Koehler Township, Precinct 1",2
+Write-In,U.S. Senate,,,Cheboygan,"Koehler Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Koehler Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Koehler Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Koehler Township, Precinct 1",189
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Koehler Township, Precinct 1",493
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Koehler Township, Precinct 1",9
+Write-In,U.S. House,1,,Cheboygan,"Koehler Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Koehler Township, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"Koehler Township, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"Koehler Township, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"Mackinaw Township, Precinct 1",60
+,Straight Party,,REP,Cheboygan,"Mackinaw Township, Precinct 1",115
+,Straight Party,,LIB,Cheboygan,"Mackinaw Township, Precinct 1",0
+,Straight Party,,UST,Cheboygan,"Mackinaw Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Mackinaw Township, Precinct 1",0
+,Straight Party,,GRN,Cheboygan,"Mackinaw Township, Precinct 1",1
+,Straight Party,,NLP,Cheboygan,"Mackinaw Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Mackinaw Township, Precinct 1",152
+Donald J Trump,President,,REP,Cheboygan,"Mackinaw Township, Precinct 1",198
+Jo Jorgensen,President,,LIB,Cheboygan,"Mackinaw Township, Precinct 1",1
+Don Blankenship,President,,UST,Cheboygan,"Mackinaw Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Mackinaw Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Mackinaw Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Mackinaw Township, Precinct 1",146
+John James,U.S. Senate,,REP,Cheboygan,"Mackinaw Township, Precinct 1",196
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Mackinaw Township, Precinct 1",2
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Mackinaw Township, Precinct 1",3
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Mackinaw Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Mackinaw Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Mackinaw Township, Precinct 1",139
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Mackinaw Township, Precinct 1",203
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Mackinaw Township, Precinct 1",2
+Write-In,U.S. House,1,,Cheboygan,"Mackinaw Township, Precinct 1",1
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Mackinaw Township, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"Mackinaw Township, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"Mackinaw Township, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"Mentor Township,  Precincl1",77
+,Straight Party,,REP,Cheboygan,"Mentor Township,  Precincl1",229
+,Straight Party,,LIB,Cheboygan,"Mentor Township,  Precincl1",0
+,Straight Party,,UST,Cheboygan,"Mentor Township,  Precincl1",2
+,Straight Party,,WCP,Cheboygan,"Mentor Township,  Precincl1",3
+,Straight Party,,GRN,Cheboygan,"Mentor Township,  Precincl1",0
+,Straight Party,,NLP,Cheboygan,"Mentor Township,  Precincl1",1
+Joseph R Biden,President,,DEM,Cheboygan,"Mentor Township,  Precincl1",166
+Donald J Trump,President,,REP,Cheboygan,"Mentor Township,  Precincl1",372
+Jo Jorgensen,President,,LIB,Cheboygan,"Mentor Township,  Precincl1",5
+Don Blankenship,President,,UST,Cheboygan,"Mentor Township,  Precincl1",2
+Howie Hawkins,President,,GRN,Cheboygan,"Mentor Township,  Precincl1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Mentor Township,  Precincl1",0
+Write-In,President,,,Cheboygan,"Mentor Township,  Precincl1",1
+Brian T Carroll,President,,,Cheboygan,"Mentor Township,  Precincl1",0
+Tom Hoefling,President,,,Cheboygan,"Mentor Township,  Precincl1",0
+Tara Renee Hunter,President,,,Cheboygan,"Mentor Township,  Precincl1",0
+Jade Simmons,President,,,Cheboygan,"Mentor Township,  Precincl1",0
+Kasey Wells,President,,,Cheboygan,"Mentor Township,  Precincl1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Mentor Township,  Precincl1",176
+John James,U.S. Senate,,REP,Cheboygan,"Mentor Township,  Precincl1",357
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Mentor Township,  Precincl1",5
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Mentor Township,  Precincl1",5
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Mentor Township,  Precincl1",4
+Write-In,U.S. Senate,,,Cheboygan,"Mentor Township,  Precincl1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Mentor Township,  Precincl1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Mentor Township,  Precincl1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Mentor Township,  Precincl1",151
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Mentor Township,  Precincl1",383
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Mentor Township,  Precincl1",6
+Write-In,U.S. House,1,,Cheboygan,"Mentor Township,  Precincl1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Mentor Township,  Precincl1",139
+Sue Allor,State House,106,REP,Cheboygan,"Mentor Township,  Precincl1",396
+Write-In,State House,106,REP,Cheboygan,"Mentor Township,  Precincl1",1
+,Straight Party,,DEM,Cheboygan,"Mullett Township, Precinct 1",114
+,Straight Party,,REP,Cheboygan,"Mullett Township, Precinct 1",343
+,Straight Party,,LIB,Cheboygan,"Mullett Township, Precinct 1",2
+,Straight Party,,UST,Cheboygan,"Mullett Township, Precinct 1",1
+,Straight Party,,WCP,Cheboygan,"Mullett Township, Precinct 1",0
+,Straight Party,,GRN,Cheboygan,"Mullett Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Mullett Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Mullett Township, Precinct 1",278
+Donald J Trump,President,,REP,Cheboygan,"Mullett Township, Precinct 1",566
+Jo Jorgensen,President,,LIB,Cheboygan,"Mullett Township, Precinct 1",9
+Don Blankenship,President,,UST,Cheboygan,"Mullett Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Mullett Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Mullett Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Mullett Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Mullett Township, Precinct 1",272
+John James,U.S. Senate,,REP,Cheboygan,"Mullett Township, Precinct 1",569
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Mullett Township, Precinct 1",3
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Mullett Township, Precinct 1",1
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Mullett Township, Precinct 1",1
+Write-In,U.S. Senate,,,Cheboygan,"Mullett Township, Precinct 1",1
+Robert William Carr,U.S. Senate,,,Cheboygan,"Mullett Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Mullett Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Mullett Township, Precinct 1",244
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Mullett Township, Precinct 1",583
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Mullett Township, Precinct 1",11
+Write-In,U.S. House,1,,Cheboygan,"Mullett Township, Precinct 1",1
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Mullett Township, Precinct 1",233
+Sue Allor,State House,106,REP,Cheboygan,"Mullett Township, Precinct 1",601
+Write-In,State House,106,REP,Cheboygan,"Mullett Township, Precinct 1",3
+,Straight Party,,DEM,Cheboygan,"Munro Township, Precinct 1",61
+,Straight Party,,REP,Cheboygan,"Munro Township, Precinct 1",131
+,Straight Party,,LIB,Cheboygan,"Munro Township, Precinct 1",3
+,Straight Party,,UST,Cheboygan,"Munro Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Munro Township, Precinct 1",2
+,Straight Party,,GRN,Cheboygan,"Munro Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Munro Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Munro Township, Precinct 1",174
+Donald J Trump,President,,REP,Cheboygan,"Munro Township, Precinct 1",261
+Jo Jorgensen,President,,LIB,Cheboygan,"Munro Township, Precinct 1",10
+Don Blankenship,President,,UST,Cheboygan,"Munro Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Munro Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Munro Township, Precinct 1",1
+Write-In,President,,,Cheboygan,"Munro Township, Precinct 1",2
+Brian T Carroll,President,,,Cheboygan,"Munro Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Munro Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Munro Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Munro Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Munro Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Munro Township, Precinct 1",168
+John James,U.S. Senate,,REP,Cheboygan,"Munro Township, Precinct 1",286
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Munro Township, Precinct 1",2
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Munro Township, Precinct 1",3
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Munro Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Munro Township, Precinct 1",1
+Robert William Carr,U.S. Senate,,,Cheboygan,"Munro Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Munro Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Munro Township, Precinct 1",148
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Munro Township, Precinct 1",299
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Munro Township, Precinct 1",8
+Write-In,U.S. House,1,,Cheboygan,"Munro Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Munro Township, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"Munro Township, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"Munro Township, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"Nunda Township, Precinct 1",91
+,Straight Party,,REP,Cheboygan,"Nunda Township, Precinct 1",277
+,Straight Party,,LIB,Cheboygan,"Nunda Township, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"Nunda Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Nunda Township, Precinct 1",2
+,Straight Party,,GRN,Cheboygan,"Nunda Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Nunda Township, Precinct 1",2
+Joseph R Biden,President,,DEM,Cheboygan,"Nunda Township, Precinct 1",202
+Donald J Trump,President,,REP,Cheboygan,"Nunda Township, Precinct 1",443
+Jo Jorgensen,President,,LIB,Cheboygan,"Nunda Township, Precinct 1",7
+Don Blankenship,President,,UST,Cheboygan,"Nunda Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Nunda Township, Precinct 1",1
+Rocky De La Fuente,President,,NLP,Cheboygan,"Nunda Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Nunda Township, Precinct 1",1
+Brian T Carroll,President,,,Cheboygan,"Nunda Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Nunda Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Nunda Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Nunda Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Nunda Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Nunda Township, Precinct 1",217
+John James,U.S. Senate,,REP,Cheboygan,"Nunda Township, Precinct 1",417
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Nunda Township, Precinct 1",5
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Nunda Township, Precinct 1",3
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Nunda Township, Precinct 1",3
+Write-In,U.S. Senate,,,Cheboygan,"Nunda Township, Precinct 1",1
+Robert William Carr,U.S. Senate,,,Cheboygan,"Nunda Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Nunda Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Nunda Township, Precinct 1",181
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Nunda Township, Precinct 1",447
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Nunda Township, Precinct 1",10
+Write-In,U.S. House,1,,Cheboygan,"Nunda Township, Precinct 1",3
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Nunda Township, Precinct 1",178
+Sue Allor,State House,106,REP,Cheboygan,"Nunda Township, Precinct 1",459
+Write-In,State House,106,REP,Cheboygan,"Nunda Township, Precinct 1",2
+,Straight Party,,DEM,Cheboygan,"Tuscarora Township, Precinct 1",330
+,Straight Party,,REP,Cheboygan,"Tuscarora Township, Precinct 1",790
+,Straight Party,,LIB,Cheboygan,"Tuscarora Township, Precinct 1",8
+,Straight Party,,UST,Cheboygan,"Tuscarora Township, Precinct 1",3
+,Straight Party,,WCP,Cheboygan,"Tuscarora Township, Precinct 1",7
+,Straight Party,,GRN,Cheboygan,"Tuscarora Township, Precinct 1",3
+,Straight Party,,NLP,Cheboygan,"Tuscarora Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Tuscarora Township, Precinct 1",746
+Donald J Trump,President,,REP,Cheboygan,"Tuscarora Township, Precinct 1",1335
+Jo Jorgensen,President,,LIB,Cheboygan,"Tuscarora Township, Precinct 1",26
+Don Blankenship,President,,UST,Cheboygan,"Tuscarora Township, Precinct 1",4
+Howie Hawkins,President,,GRN,Cheboygan,"Tuscarora Township, Precinct 1",2
+Rocky De La Fuente,President,,NLP,Cheboygan,"Tuscarora Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Tuscarora Township, Precinct 1",2
+Brian T Carroll,President,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Tuscarora Township, Precinct 1",745
+John James,U.S. Senate,,REP,Cheboygan,"Tuscarora Township, Precinct 1",1340
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Tuscarora Township, Precinct 1",16
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Tuscarora Township, Precinct 1",6
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Tuscarora Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Tuscarora Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Tuscarora Township, Precinct 1",640
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Tuscarora Township, Precinct 1",1431
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Tuscarora Township, Precinct 1",22
+Write-In,U.S. House,1,,Cheboygan,"Tuscarora Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Tuscarora Township, Precinct 1",
+Sue Allor,State House,106,REP,Cheboygan,"Tuscarora Township, Precinct 1",
+Write-In,State House,106,REP,Cheboygan,"Tuscarora Township, Precinct 1",
+,Straight Party,,DEM,Cheboygan,"Walker Township, Precinct 1",19
+,Straight Party,,REP,Cheboygan,"Walker Township, Precinct 1",78
+,Straight Party,,LIB,Cheboygan,"Walker Township, Precinct 1",0
+,Straight Party,,UST,Cheboygan,"Walker Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Walker Township, Precinct 1",2
+,Straight Party,,GRN,Cheboygan,"Walker Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Walker Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Walker Township, Precinct 1",35
+Donald J Trump,President,,REP,Cheboygan,"Walker Township, Precinct 1",115
+Jo Jorgensen,President,,LIB,Cheboygan,"Walker Township, Precinct 1",0
+Don Blankenship,President,,UST,Cheboygan,"Walker Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Walker Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Walker Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Walker Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Walker Township, Precinct 1",38
+John James,U.S. Senate,,REP,Cheboygan,"Walker Township, Precinct 1",106
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Walker Township, Precinct 1",2
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Walker Township, Precinct 1",0
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Walker Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Walker Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Walker Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Walker Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Walker Township, Precinct 1",32
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Walker Township, Precinct 1",110
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Walker Township, Precinct 1",1
+Write-In,U.S. House,1,,Cheboygan,"Walker Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Walker Township, Precinct 1",31
+Sue Allor,State House,106,REP,Cheboygan,"Walker Township, Precinct 1",115
+Write-In,State House,106,REP,Cheboygan,"Walker Township, Precinct 1",0
+,Straight Party,,DEM,Cheboygan,"Waverly Township, Precinct 1",40
+,Straight Party,,REP,Cheboygan,"Waverly Township, Precinct 1",105
+,Straight Party,,LIB,Cheboygan,"Waverly Township, Precinct 1",0
+,Straight Party,,UST,Cheboygan,"Waverly Township, Precinct 1",0
+,Straight Party,,WCP,Cheboygan,"Waverly Township, Precinct 1",0
+,Straight Party,,GRN,Cheboygan,"Waverly Township, Precinct 1",0
+,Straight Party,,NLP,Cheboygan,"Waverly Township, Precinct 1",0
+Joseph R Biden,President,,DEM,Cheboygan,"Waverly Township, Precinct 1",77
+Donald J Trump,President,,REP,Cheboygan,"Waverly Township, Precinct 1",178
+Jo Jorgensen,President,,LIB,Cheboygan,"Waverly Township, Precinct 1",1
+Don Blankenship,President,,UST,Cheboygan,"Waverly Township, Precinct 1",2
+Howie Hawkins,President,,GRN,Cheboygan,"Waverly Township, Precinct 1",0
+Rocky De La Fuente,President,,NLP,Cheboygan,"Waverly Township, Precinct 1",0
+Write-In,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Brian T Carroll,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Waverly Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Waverly Township, Precinct 1",82
+John James,U.S. Senate,,REP,Cheboygan,"Waverly Township, Precinct 1",168
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Waverly Township, Precinct 1",3
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Waverly Township, Precinct 1",2
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Waverly Township, Precinct 1",0
+Write-In,U.S. Senate,,,Cheboygan,"Waverly Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Waverly Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Waverly Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Waverly Township, Precinct 1",64
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Waverly Township, Precinct 1",186
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Waverly Township, Precinct 1",2
+Write-In,U.S. House,1,,Cheboygan,"Waverly Township, Precinct 1",0
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Waverly Township, Precinct 1",68
+Sue Allor,State House,106,REP,Cheboygan,"Waverly Township, Precinct 1",179
+Write-In,State House,106,REP,Cheboygan,"Waverly Township, Precinct 1",0
+,Straight Party,,DEM,Cheboygan,"Wilmot Township, Precinct 1",51
+,Straight Party,,REP,Cheboygan,"Wilmot Township, Precinct 1",196
+,Straight Party,,LIB,Cheboygan,"Wilmot Township, Precinct 1",1
+,Straight Party,,UST,Cheboygan,"Wilmot Township, Precinct 1",1
+,Straight Party,,WCP,Cheboygan,"Wilmot Township, Precinct 1",0
+,Straight Party,,GRN,Cheboygan,"Wilmot Township, Precinct 1",2
+,Straight Party,,NLP,Cheboygan,"Wilmot Township, Precinct 1",2
+Joseph R Biden,President,,DEM,Cheboygan,"Wilmot Township, Precinct 1",125
+Donald J Trump,President,,REP,Cheboygan,"Wilmot Township, Precinct 1",316
+Jo Jorgensen,President,,LIB,Cheboygan,"Wilmot Township, Precinct 1",5
+Don Blankenship,President,,UST,Cheboygan,"Wilmot Township, Precinct 1",0
+Howie Hawkins,President,,GRN,Cheboygan,"Wilmot Township, Precinct 1",3
+Rocky De La Fuente,President,,NLP,Cheboygan,"Wilmot Township, Precinct 1",1
+Write-In,President,,,Cheboygan,"Wilmot Township, Precinct 1",2
+Brian T Carroll,President,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Tom Hoefling,President,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Tara Renee Hunter,President,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Jade Simmons,President,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Kasey Wells,President,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Gary Peters,U.S. Senate,,DEM,Cheboygan,"Wilmot Township, Precinct 1",132
+John James,U.S. Senate,,REP,Cheboygan,"Wilmot Township, Precinct 1",302
+Valerie L Willis,U.S. Senate,,UST,Cheboygan,"Wilmot Township, Precinct 1",6
+Marcia Squier,U.S. Senate,,GRN,Cheboygan,"Wilmot Township, Precinct 1",5
+Doug Dern,U.S. Senate,,NLP,Cheboygan,"Wilmot Township, Precinct 1",2
+Write-In,U.S. Senate,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Robert William Carr,U.S. Senate,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Leonard Paul Gadzinski,U.S. Senate,,,Cheboygan,"Wilmot Township, Precinct 1",0
+Dana Ferguson,U.S. House,1,DEM,Cheboygan,"Wilmot Township, Precinct 1",107
+Jack Bergman,U.S. House,1,REP,Cheboygan,"Wilmot Township, Precinct 1",318
+Ben Boren,U.S. House,1,LIB,Cheboygan,"Wilmot Township, Precinct 1",14
+Write-In,U.S. House,1,,Cheboygan,"Wilmot Township, Precinct 1",1
+LeeAnn Johnson,State House,106,DEM,Cheboygan,"Wilmot Township, Precinct 1",115
+Sue Allor,State House,106,REP,Cheboygan,"Wilmot Township, Precinct 1",329
+Write-In,State House,106,REP,Cheboygan,"Wilmot Township, Precinct 1",0
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

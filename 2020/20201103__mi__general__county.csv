@@ -1,322 +1,795 @@
-﻿county,office,district,candidate,party,votes,election_day,absentee
-Kent,Registered Voters,,,,501117,,
-Kent,Ballots Cast,,,,363695,149409,214286
-Kent,Straight Party,,Republican Party,REP,54922,51596,106518
-Kent,Straight Party,,Democratic Party,DEM,31488,71771,103259
-Kent,Straight Party,,Libertarian Party,LIB,883,629,1512
-Kent,Straight Party,,Working Class Party,WCP,469,297,766
-Kent,Straight Party,,Green Party,GRN,254,229,483
-Kent,Straight Party,,US Taxpayers Party,UST,156,131,287
-Kent,Straight Party,,Natural Law Party,NLP,108,73,181
-Kent,President,,Joseph R. Biden w/ Kamala D. Harris,DEM,55382,132533,187915
-Kent,President,,Donald J. Trump w/ Michael R. Pence,REP,89379,76362,165741
-Kent,President,,Jo Jorgensen w/ Jeremy Cohen,LIB,2899,2596,5495
-Kent,President,,Howie Hawkins w/ Angela Walker,GRN,433,524,957
-Kent,President,,Don Blankenship w/ William Mohr,UST,178,312,490
-Kent,President,,Rocky De La Fuente w/ Darcy Richardson,NLP,122,119,241
-Kent,President,,Total Votes,,148942,213089,36203
-Kent,U.S. Senate,,John James,REP,93057,83738,176795
-Kent,U.S. Senate,,Gary Peters,DEM,51357,123899,175256
-Kent,U.S. Senate,,Marcia Squier,GRN,1304,1652,2956
-Kent,U.S. Senate,,Valerie L. Willis,UST,1332,1616,2948
-Kent,U.S. Senate,,Doug Dern,NLP,350,372,722
-Kent,U.S. House,2,Bill Huizenga,REP,23194,20209,43403
-Kent,U.S. House,2,Bryan Berghoef,DEM,12958,27254,40212
-Kent,U.S. House,2,Max Riekse,LIB,811,503,1314
-Kent,U.S. House,2,Jean-Michel Creviere,GRN,344,365,709
-Kent,U.S. House,2,Gerald T. Van Sickle,UST,256,203,459
-Kent,U.S. House,3,Hillary Scholten,DEM,40132,96455,136587
-Kent,U.S. House,3,Peter Meijer,REP,68309,65028,133337
-Kent,State House,72,Lily Cheng-Schulting,DEM,6418,14566,20984
-Kent,State House,72,Steven Johnson,REP,9961,10316,20277
-Kent,State House,73,Bryan Posthumus,REP,18525,18612,37137
-Kent,State House,73,Bill Saxton,DEM,6250,20928,27178
-Kent,State House,73,Theodore Gerrard,UST,475,402,877
-Kent,State House,74,Mark E. Huizenga,REP,18339,15729,34068
-Kent,State House,74,Meagan L. Hintz,DEM,6113,13784,19897
-Kent,State House,75,David LaGrand,DEM,11035,19388,30423
-Kent,State House,75,James McKeiver,REP,5102,3213,8315
-Kent,State House,75,Louis Palus,WCP,720,514,1234
-Kent,State House,75,Marco T. Bulnes,GRN,391,407,798
-Kent,State House,76,Rachel Hood,DEM,9941,23946,33887
-Kent,State House,76,Doug Zandstra,REP,10247,9864,20111
-Kent,State House,77,Tommy Brann,REP,15649,14566,30215
-Kent,State House,77,Bob Smith,DEM,7174,13021,20195
-Kent,State House,86,Thomas A. Albert,REP,13601,14701,28302
-Kent,State House,86,Sue Hayes,DEM,4029,12941,16970
-Manistee,Registered Voters,,,,21962,,
-Manistee,Ballots Cast,,,,15462,,
-Manistee,Straight Party,,Democratic Party,DEM,1400,1141,2541
-Manistee,Straight Party,,Republican Party,REP,3277,1061,4338
-Manistee,Straight Party,,Libertarian Party,LIB,34,19,53
-Manistee,Straight Party,,U.S. Taxpayers Party,UST,15,6,21
-Manistee,Straight Party,,Working Class Party,WCP,38,11,49
-Manistee,Straight Party,,Green Party,GRN,11,4,15
-Manistee,Straight Party,,Natural Law Party,NLP,6,5,11
-Manistee,President,,Joseph R. Biden / Kamala D. Harris,DEM,3376,2731,6107
-Manistee,President,,Donald J. Trump / Michael R. Pence,REP,6196,2125,8321
-Manistee,President,,Jo Jorgensen / Jeremy Cohen,LIB,100,54,154
-Manistee,President,,Don Blankenship / William Mohr,UST,17,11,28
-Manistee,President,,Howie Hawkins / Angela Walker,GRN,21,13,34
-Manistee,President,,Rocky De La Fuente / Darcy Richardson,NLP,6,4,10
-Manistee,President,,Total Votes,,9717,4938,14655
-Manistee,U.S. Senate,,Gary Peters,DEM,3362,2633,5995
-Manistee,U.S. Senate,,John James,REP,6138,2218,8356
-Manistee,U.S. Senate,,Valerie L. Willis,UST,72,29,101
-Manistee,U.S. Senate,,Marcia Squier,GRN,53,28,81
-Manistee,U.S. Senate,,Doug Dern,NLP,20,10,30
-Manistee,U.S. Senate,,Unresolved Write-In,,10,3,13
-Manistee,U.S. House,1,Dana Ferguson,DEM,2973,2375,5348
-Manistee,U.S. House,1,Jack Bergman,REP,6447,2449,8896
-Manistee,U.S. House,1,Ben Boren,LIB,139,51,190
-Manistee,U.S. House,1,Unresolved Write-In,,13,1,14
-Manistee,State House,101,Beth McGill-Rizer,DEM,2897,2386,5283
-Manistee,State House,101,Jack O'Malley,REP,6726,2505,9231
-Manistee,State House,101,Unresolved Write-In,,15,2,17
-Marquette,Registered Voters,,,,54865,,
-Marquette,Ballots Cast,,,,37990,,
-Marquette,Straight Party,,Democratic Party,DEM,10851,,
-Marquette,Straight Party,,Republican Party,REP,7431,,
-Marquette,Straight Party,,Libertarian Party,LIB,173,,
-Marquette,Straight Party,,U.S. Taxpayers Party,UST,25,,
-Marquette,Straight Party,,Working Class Party,WCP,125,,
-Marquette,Straight Party,,Green Party,GRN,67,,
-Marquette,Straight Party,,Natural Law Party,NLP,17,,
-Marquette,President,,Joseph R. Biden / Kamala D. Harris,DEM,20465,,
-Marquette,President,,Donald J. Trump / Michael R. Pence,REP,16286,,
-Marquette,President,,Jo Jorgensen / Jeremy Cohen,LIB,511,,
-Marquette,President,,Don Blankenship / William Mohr,UST,43,,
-Marquette,President,,Howie Hawkins / Angela Walker,GRN,131,,
-Marquette,President,,Rocky De La Fuente / Darcy Richardson,NLP,22,,
-Marquette,President,,Total Votes,,37460,,
-Marquette,U.S. Senate,,Gary Peters,DEM,20408,,
-Marquette,U.S. Senate,,John James,REP,16247,,
-Marquette,U.S. Senate,,Valerie L. Willis,UST,179,,
-Marquette,U.S. Senate,,Marcia Squier,GRN,302,,
-Marquette,U.S. Senate,,Doug Dern,NLP,42,,
-Marquette,U.S. Senate,,Unresolved Write-In,,26,,
-Marquette,U.S. House,1,Dana Ferguson,DEM,19281,,
-Marquette,U.S. House,1,Jack Bergman,REP,17217,,
-Marquette,U.S. House,1,Ben Boren,LIB,560,,
-Marquette,U.S. House,1,Unresolved Write-In,,36,,
-Marquette,State House,109,Sara Cambensy,DEM,21510,,
-Marquette,State House,109,Melody Wagner,REP,12260,,
-Marquette,State House,109,Jim Hafeman,UST,442,,
-Marquette,State House,109,Unresolved Write-In,,47,,
-Marquette,State House,110,Janet Metsa,DEM,1329,,
-Marquette,State House,110,Gregory Markkanen,REP,1275,,
-Marquette,State House,110,Rick Sauermilch,GRN,23,,
-Marquette,State House,110,Unresolved Write-In,,3,,
-Genesee,Straight Party,,Democratic Party,DEM,78783,24727,54056
-Genesee,Straight Party,,Republican Party,REP,51678,31115,20563
-Genesee,Straight Party,,Libertarian Party,LIB,680,432,248
-Genesee,Straight Party,,U.S. Taxpayers Party,UST,221,119,102
-Genesee,Straight Party,,Working Class Party,WCP,688,489,199
-Genesee,Straight Party,,Green Party,GRN,231,136,95
-Genesee,Straight Party,,Natural Law Party,NLP,110,76,34
-Genesee,President,,Joseph R. Biden Kamala D. Harris,DEM,119390,37579,81811
-Genesee,President,,Donald J. Trump Michael R. Pence,REP,98714,59477,39237
-Genesee,President,,Jo Jorgensen Jeremy Cohen,LIB,2234,1292,942
-Genesee,President,,Don Blankenship William Mohr,UST,323,143,180
-Genesee,President,,Howie Hawkins Angela Walker,GRN,549,282,267
-Genesee,President,,Rocky De La Fuente Darcy Richardson,NLP,106,52,54
-Genesee,President,,Brian T. Carroll (W),W,39,16,23
+﻿county,office,district,candidate,party,election_day,absentee,votes
+Kent,Registered Voters,,,,,,501117
+Kent,Ballots Cast,,,,149409,214286,363695
+Kent,Straight Party,,Republican Party,REP,51596,106518,54922
+Kent,Straight Party,,Democratic Party,DEM,71771,103259,31488
+Kent,Straight Party,,Libertarian Party,LIB,629,1512,883
+Kent,Straight Party,,Working Class Party,WCP,297,766,469
+Kent,Straight Party,,Green Party,GRN,229,483,254
+Kent,Straight Party,,US Taxpayers Party,UST,131,287,156
+Kent,Straight Party,,Natural Law Party,NLP,73,181,108
+Kent,President,,Joseph R. Biden w/ Kamala D. Harris,DEM,132533,187915,55382
+Kent,President,,Donald J. Trump w/ Michael R. Pence,REP,76362,165741,89379
+Kent,President,,Jo Jorgensen w/ Jeremy Cohen,LIB,2596,5495,2899
+Kent,President,,Howie Hawkins w/ Angela Walker,GRN,524,957,433
+Kent,President,,Don Blankenship w/ William Mohr,UST,312,490,178
+Kent,President,,Rocky De La Fuente w/ Darcy Richardson,NLP,119,241,122
+Kent,President,,Total Votes,,213089,36203,148942
+Kent,U.S. Senate,,John James,REP,83738,176795,93057
+Kent,U.S. Senate,,Gary Peters,DEM,123899,175256,51357
+Kent,U.S. Senate,,Marcia Squier,GRN,1652,2956,1304
+Kent,U.S. Senate,,Valerie L. Willis,UST,1616,2948,1332
+Kent,U.S. Senate,,Doug Dern,NLP,372,722,350
+Kent,U.S. House,2,Bill Huizenga,REP,20209,43403,23194
+Kent,U.S. House,2,Bryan Berghoef,DEM,27254,40212,12958
+Kent,U.S. House,2,Max Riekse,LIB,503,1314,811
+Kent,U.S. House,2,Jean-Michel Creviere,GRN,365,709,344
+Kent,U.S. House,2,Gerald T. Van Sickle,UST,203,459,256
+Kent,U.S. House,3,Hillary Scholten,DEM,96455,136587,40132
+Kent,U.S. House,3,Peter Meijer,REP,65028,133337,68309
+Kent,State House,72,Lily Cheng-Schulting,DEM,14566,20984,6418
+Kent,State House,72,Steven Johnson,REP,10316,20277,9961
+Kent,State House,73,Bryan Posthumus,REP,18612,37137,18525
+Kent,State House,73,Bill Saxton,DEM,20928,27178,6250
+Kent,State House,73,Theodore Gerrard,UST,402,877,475
+Kent,State House,74,Mark E. Huizenga,REP,15729,34068,18339
+Kent,State House,74,Meagan L. Hintz,DEM,13784,19897,6113
+Kent,State House,75,David LaGrand,DEM,19388,30423,11035
+Kent,State House,75,James McKeiver,REP,3213,8315,5102
+Kent,State House,75,Louis Palus,WCP,514,1234,720
+Kent,State House,75,Marco T. Bulnes,GRN,407,798,391
+Kent,State House,76,Rachel Hood,DEM,23946,33887,9941
+Kent,State House,76,Doug Zandstra,REP,9864,20111,10247
+Kent,State House,77,Tommy Brann,REP,14566,30215,15649
+Kent,State House,77,Bob Smith,DEM,13021,20195,7174
+Kent,State House,86,Thomas A. Albert,REP,14701,28302,13601
+Kent,State House,86,Sue Hayes,DEM,12941,16970,4029
+Manistee,Registered Voters,,,,,,21962
+Manistee,Ballots Cast,,,,,,15462
+Manistee,Straight Party,,Democratic Party,DEM,1141,2541,1400
+Manistee,Straight Party,,Republican Party,REP,1061,4338,3277
+Manistee,Straight Party,,Libertarian Party,LIB,19,53,34
+Manistee,Straight Party,,U.S. Taxpayers Party,UST,6,21,15
+Manistee,Straight Party,,Working Class Party,WCP,11,49,38
+Manistee,Straight Party,,Green Party,GRN,4,15,11
+Manistee,Straight Party,,Natural Law Party,NLP,5,11,6
+Manistee,President,,Joseph R. Biden / Kamala D. Harris,DEM,2731,6107,3376
+Manistee,President,,Donald J. Trump / Michael R. Pence,REP,2125,8321,6196
+Manistee,President,,Jo Jorgensen / Jeremy Cohen,LIB,54,154,100
+Manistee,President,,Don Blankenship / William Mohr,UST,11,28,17
+Manistee,President,,Howie Hawkins / Angela Walker,GRN,13,34,21
+Manistee,President,,Rocky De La Fuente / Darcy Richardson,NLP,4,10,6
+Manistee,President,,Total Votes,,4938,14655,9717
+Manistee,U.S. Senate,,Gary Peters,DEM,2633,5995,3362
+Manistee,U.S. Senate,,John James,REP,2218,8356,6138
+Manistee,U.S. Senate,,Valerie L. Willis,UST,29,101,72
+Manistee,U.S. Senate,,Marcia Squier,GRN,28,81,53
+Manistee,U.S. Senate,,Doug Dern,NLP,10,30,20
+Manistee,U.S. Senate,,Unresolved Write-In,,3,13,10
+Manistee,U.S. House,1,Dana Ferguson,DEM,2375,5348,2973
+Manistee,U.S. House,1,Jack Bergman,REP,2449,8896,6447
+Manistee,U.S. House,1,Ben Boren,LIB,51,190,139
+Manistee,U.S. House,1,Unresolved Write-In,,1,14,13
+Manistee,State House,101,Beth McGill-Rizer,DEM,2386,5283,2897
+Manistee,State House,101,Jack O'Malley,REP,2505,9231,6726
+Manistee,State House,101,Unresolved Write-In,,2,17,15
+Marquette,Registered Voters,,,,,,54865
+Marquette,Ballots Cast,,,,,,37990
+Marquette,Straight Party,,Democratic Party,DEM,,,10851
+Marquette,Straight Party,,Republican Party,REP,,,7431
+Marquette,Straight Party,,Libertarian Party,LIB,,,173
+Marquette,Straight Party,,U.S. Taxpayers Party,UST,,,25
+Marquette,Straight Party,,Working Class Party,WCP,,,125
+Marquette,Straight Party,,Green Party,GRN,,,67
+Marquette,Straight Party,,Natural Law Party,NLP,,,17
+Marquette,President,,Joseph R. Biden / Kamala D. Harris,DEM,,,20465
+Marquette,President,,Donald J. Trump / Michael R. Pence,REP,,,16286
+Marquette,President,,Jo Jorgensen / Jeremy Cohen,LIB,,,511
+Marquette,President,,Don Blankenship / William Mohr,UST,,,43
+Marquette,President,,Howie Hawkins / Angela Walker,GRN,,,131
+Marquette,President,,Rocky De La Fuente / Darcy Richardson,NLP,,,22
+Marquette,President,,Total Votes,,,,37460
+Marquette,U.S. Senate,,Gary Peters,DEM,,,20408
+Marquette,U.S. Senate,,John James,REP,,,16247
+Marquette,U.S. Senate,,Valerie L. Willis,UST,,,179
+Marquette,U.S. Senate,,Marcia Squier,GRN,,,302
+Marquette,U.S. Senate,,Doug Dern,NLP,,,42
+Marquette,U.S. Senate,,Unresolved Write-In,,,,26
+Marquette,U.S. House,1,Dana Ferguson,DEM,,,19281
+Marquette,U.S. House,1,Jack Bergman,REP,,,17217
+Marquette,U.S. House,1,Ben Boren,LIB,,,560
+Marquette,U.S. House,1,Unresolved Write-In,,,,36
+Marquette,State House,109,Sara Cambensy,DEM,,,21510
+Marquette,State House,109,Melody Wagner,REP,,,12260
+Marquette,State House,109,Jim Hafeman,UST,,,442
+Marquette,State House,109,Unresolved Write-In,,,,47
+Marquette,State House,110,Janet Metsa,DEM,,,1329
+Marquette,State House,110,Gregory Markkanen,REP,,,1275
+Marquette,State House,110,Rick Sauermilch,GRN,,,23
+Marquette,State House,110,Unresolved Write-In,,,,3
+Genesee,Straight Party,,Democratic Party,DEM,24727,54056,78783
+Genesee,Straight Party,,Republican Party,REP,31115,20563,51678
+Genesee,Straight Party,,Libertarian Party,LIB,432,248,680
+Genesee,Straight Party,,U.S. Taxpayers Party,UST,119,102,221
+Genesee,Straight Party,,Working Class Party,WCP,489,199,688
+Genesee,Straight Party,,Green Party,GRN,136,95,231
+Genesee,Straight Party,,Natural Law Party,NLP,76,34,110
+Genesee,President,,Joseph R. Biden Kamala D. Harris,DEM,37579,81811,119390
+Genesee,President,,Donald J. Trump Michael R. Pence,REP,59477,39237,98714
+Genesee,President,,Jo Jorgensen Jeremy Cohen,LIB,1292,942,2234
+Genesee,President,,Don Blankenship William Mohr,UST,143,180,323
+Genesee,President,,Howie Hawkins Angela Walker,GRN,282,267,549
+Genesee,President,,Rocky De La Fuente Darcy Richardson,NLP,52,54,106
+Genesee,President,,Brian T. Carroll (W),W,16,23,39
 Genesee,President,,Kasey Wells (W),W,0,0,0
 Genesee,President,,Tara Renee Hunter (W),W,0,0,0
-Genesee,President,,Jade Simmons (W),W,1,1,0
-Genesee,President,, Tom Hoefling (W),W,4,3,1
-Genesee,U.S. Senate,,Gary Peters,DEM,120380,38701,81679
-Genesee,U.S. Senate,,John James,REP,94505,56831,37674
-Genesee,U.S. Senate,,Valerie L. Willis,UST,2210,1092,1118
-Genesee,U.S. Senate,,Marcia Squier,GRN,1509,754,755
-Genesee,U.S. Senate,,Doug Dern,NLP,506,282,224
+Genesee,President,,Jade Simmons (W),W,1,0,1
+Genesee,President,, Tom Hoefling (W),W,3,1,4
+Genesee,U.S. Senate,,Gary Peters,DEM,38701,81679,120380
+Genesee,U.S. Senate,,John James,REP,56831,37674,94505
+Genesee,U.S. Senate,,Valerie L. Willis,UST,1092,1118,2210
+Genesee,U.S. Senate,,Marcia Squier,GRN,754,755,1509
+Genesee,U.S. Senate,,Doug Dern,NLP,282,224,506
 Genesee,U.S. Senate,,Leonard Paul Gadzinski (W),W,0,0,0
 Genesee,U.S. Senate,,Robert William Carr (W),W,0,0,0
-Genesee,U.S. House,5,Daniel T. Kildee,DEM,125219,41039,84180
-Genesee,U.S. House,5,Tim Kelly,REP,84215,50532,33683
-Genesee,U.S. House,5,James Harris,LIB,3261,2163,1098
-Genesee,U.S. House,5,Kathy Goodwin,WCP,4847,2922,1925
-Genesee,State House,34,Cynthia R. Neeley,DEM,24030,9413,14617
-Genesee,State House,34,James Miraglia,REP,3684,2486,1198
-Genesee,State House,48,Sheryl Y. Kennedy,DEM,24307,8999,15308
-Genesee,State House,48,David W. Martin,REP,24796,15842,8954
-Genesee,State House,49,John D. Cherry,DEM,28122,8875,19247
-Genesee,State House,49,Bryan Lutz,REP,12711,7621,5090
-Genesee,State House,50,Tim Sneller,DEM,27860,7007,20853
-Genesee,State House,50,Christina Fitchett- Hickson,REP,23507,12785,10722
-Genesee,State House,51,Brad May,DEM,16483,5599,10884
-Genesee,State House,51,Mike Mueller,REP,28641,16451,12190
-Barry,Straight Party,,Democratic Party,DEM,5283,2069,3214
-Barry,Straight Party,,Republican Party,REP,14091,9649,4442
-Barry,Straight Party,,Libertarian Party,LIB,122,87,35
-Barry,Straight Party,,U.S. Taxpayers Party,UST,23,8,15
-Barry,Straight Party,,Working Class Party,WCP,91,68,23
-Barry,Straight Party,,Green Party,GRN,35,22,13
-Barry,Straight Party,,Natural Law Party,NLP,16,16,0
-Barry,President,,Joseph R. Biden/Kamala D. Harris,DEM,11797,4522,7275
-Barry,President,,Donald J. Trump/Michael R. Pence,REP,23471,16088,7383
-Barry,President,,Jo Jorgensen/Jeremy Cohen,LIB,479,297,182
-Barry,President,,Don Blankenship/William Mohr,UST,59,24,35
-Barry,President,,Howie Hawkins/Angela Walker,GRN,83,50,33
-Barry,President,,Rocky De La Fuente/Darcy Richardson,NLP,16,12,4
-Barry,U.S. Senate,,Gary Peters,DEM,11369,4428,6941
-Barry,U.S. Senate,,John James,REP,23499,15958,7541
-Barry,U.S. Senate,,Valerie L. Willis,UST,366,195,171
-Barry,U.S. Senate,,Marcia Squier,GRN,241,132,109
-Barry,U.S. Senate,,Doug Dern,NLP,95,64,31
-Barry,U.S. House,3,Hillary Scholten,DEM,12058,4940,7118
-Barry,U.S. House,3,Peter Meijer,REP,23083,15563,7520
-Barry,State House,87,Jay Molette,DEM,9732,3838,5894
-Barry,State House,87,Julie A. Calley,REP,24867,16406,8461
-Clinton,Straight Party,,Democratic Party,DEM,10682,8394,2288
-Clinton,Straight Party,,Republican Party,REP,14702,13245,1457
-Clinton,Straight Party,,Libertarian Party,LIB,142,128,14
-Clinton,Straight Party,,U.S. Taxpayers Party,UST,26,20,6
-Clinton,Straight Party,,Working Class Party,WCP,88,82,6
-Clinton,Straight Party,,Green Party,GRN,36,29,7
-Clinton,Straight Party,,Natural Law Party,NLP,22,18,4
-Clinton,President,,Joseph R. Biden Kamala D. Harris,DEM,21968,17410,4558
-Clinton,President,,Donald J. Trump Michael R. Pence,REP,25098,22827,2271
-Clinton,President,,Jo Jorgensen Jeremy Cohen,LIB,659,603,56
-Clinton,President,,Don Blankenship William Mohr,UST,63,51,12
-Clinton,President,,Howie Hawkins Angela Walker,GRN,94,81,13
-Clinton,President,,Rocky De La Fuente Darcy Richardson,NLP,28,26,2
-Clinton,President,,Brian T. Carroll (W),W,13,13,0
-Clinton,President,,Jade Simmons (W),W,2,1,1
-Clinton,President,,Kasey Wells (W),W,1,1,0
+Genesee,U.S. House,5,Daniel T. Kildee,DEM,41039,84180,125219
+Genesee,U.S. House,5,Tim Kelly,REP,50532,33683,84215
+Genesee,U.S. House,5,James Harris,LIB,2163,1098,3261
+Genesee,U.S. House,5,Kathy Goodwin,WCP,2922,1925,4847
+Genesee,State House,34,Cynthia R. Neeley,DEM,9413,14617,24030
+Genesee,State House,34,James Miraglia,REP,2486,1198,3684
+Genesee,State House,48,Sheryl Y. Kennedy,DEM,8999,15308,24307
+Genesee,State House,48,David W. Martin,REP,15842,8954,24796
+Genesee,State House,49,John D. Cherry,DEM,8875,19247,28122
+Genesee,State House,49,Bryan Lutz,REP,7621,5090,12711
+Genesee,State House,50,Tim Sneller,DEM,7007,20853,27860
+Genesee,State House,50,Christina Fitchett- Hickson,REP,12785,10722,23507
+Genesee,State House,51,Brad May,DEM,5599,10884,16483
+Genesee,State House,51,Mike Mueller,REP,16451,12190,28641
+Barry,Straight Party,,Democratic Party,DEM,2069,3214,5283
+Barry,Straight Party,,Republican Party,REP,9649,4442,14091
+Barry,Straight Party,,Libertarian Party,LIB,87,35,122
+Barry,Straight Party,,U.S. Taxpayers Party,UST,8,15,23
+Barry,Straight Party,,Working Class Party,WCP,68,23,91
+Barry,Straight Party,,Green Party,GRN,22,13,35
+Barry,Straight Party,,Natural Law Party,NLP,16,0,16
+Barry,President,,Joseph R. Biden/Kamala D. Harris,DEM,4522,7275,11797
+Barry,President,,Donald J. Trump/Michael R. Pence,REP,16088,7383,23471
+Barry,President,,Jo Jorgensen/Jeremy Cohen,LIB,297,182,479
+Barry,President,,Don Blankenship/William Mohr,UST,24,35,59
+Barry,President,,Howie Hawkins/Angela Walker,GRN,50,33,83
+Barry,President,,Rocky De La Fuente/Darcy Richardson,NLP,12,4,16
+Barry,U.S. Senate,,Gary Peters,DEM,4428,6941,11369
+Barry,U.S. Senate,,John James,REP,15958,7541,23499
+Barry,U.S. Senate,,Valerie L. Willis,UST,195,171,366
+Barry,U.S. Senate,,Marcia Squier,GRN,132,109,241
+Barry,U.S. Senate,,Doug Dern,NLP,64,31,95
+Barry,U.S. House,3,Hillary Scholten,DEM,4940,7118,12058
+Barry,U.S. House,3,Peter Meijer,REP,15563,7520,23083
+Barry,State House,87,Jay Molette,DEM,3838,5894,9732
+Barry,State House,87,Julie A. Calley,REP,16406,8461,24867
+Clinton,Straight Party,,Democratic Party,DEM,8394,2288,10682
+Clinton,Straight Party,,Republican Party,REP,13245,1457,14702
+Clinton,Straight Party,,Libertarian Party,LIB,128,14,142
+Clinton,Straight Party,,U.S. Taxpayers Party,UST,20,6,26
+Clinton,Straight Party,,Working Class Party,WCP,82,6,88
+Clinton,Straight Party,,Green Party,GRN,29,7,36
+Clinton,Straight Party,,Natural Law Party,NLP,18,4,22
+Clinton,President,,Joseph R. Biden Kamala D. Harris,DEM,17410,4558,21968
+Clinton,President,,Donald J. Trump Michael R. Pence,REP,22827,2271,25098
+Clinton,President,,Jo Jorgensen Jeremy Cohen,LIB,603,56,659
+Clinton,President,,Don Blankenship William Mohr,UST,51,12,63
+Clinton,President,,Howie Hawkins Angela Walker,GRN,81,13,94
+Clinton,President,,Rocky De La Fuente Darcy Richardson,NLP,26,2,28
+Clinton,President,,Brian T. Carroll (W),W,13,0,13
+Clinton,President,,Jade Simmons (W),W,1,1,2
+Clinton,President,,Kasey Wells (W),W,1,0,1
 Clinton,President,,Tara Renee Hunter (W),W,0,0,0
-Clinton,President,,Tom Hoefling (W),W,1,1,0
-Clinton,U.S. Senate,,Gary Peters,DEM,21490,17135,4355
-Clinton,U.S. Senate,,John James,REP,25269,22840,2429
-Clinton,U.S. Senate,,Valerie L. Willis,UST,304,272,32
-Clinton,U.S. Senate,,Marcia Squier,GRN,266,237,29
-Clinton,U.S. Senate,,Doug Dern,NLP,86,78,8
+Clinton,President,,Tom Hoefling (W),W,1,0,1
+Clinton,U.S. Senate,,Gary Peters,DEM,17135,4355,21490
+Clinton,U.S. Senate,,John James,REP,22840,2429,25269
+Clinton,U.S. Senate,,Valerie L. Willis,UST,272,32,304
+Clinton,U.S. Senate,,Marcia Squier,GRN,237,29,266
+Clinton,U.S. Senate,,Doug Dern,NLP,78,8,86
 Clinton,U.S. Senate,,Leonard Paul Gadzinski (W),W,0,0,0
 Clinton,U.S. Senate,,Robert William Carr (W),W,0,0,0
-Clinton,U.S. House,4,Jerry Hilliard,DEM,18749,14819,3930
-Clinton,U.S. House,4,John Moolenaar,REP,26291,23647,2644
-Clinton,U.S. House,4,David Canny,LIB,703,632,71
-Clinton,U.S. House,4,Amy Slepr,GRN,589,520,69
-Clinton,State House,93,Muhammad Salman Rais,DEM,17819,14047,3772
-Clinton,State House,93,Graham Filler,REP,27714,24889,2825
-Emmet,Straight Party,,Democrat,DEM,4373,2161,2212
-Emmet,Straight Party,,Republican,REP,7346,5055,2291
-Emmet,Straight Party,,Libertarian,LIB,82,61,21
-Emmet,Straight Party,,U.S. Taxpayers,UST,14,11,3
-Emmet,Straight Party,,Working Class,WCP,54,48,6
-Emmet,Straight Party,,Green,GRN,26,22,4
-Emmet,Straight Party,,Natural Law,NLP,10,7,3
-Emmet,President,,Joseph R. Biden Kamala D. Harris,DEM,9662,4734,4928
-Emmet,President,,Donald J. Trump Michael R. Pence,REP,12135,8343,3792
-Emmet,President,,Jo Jorgensen Jeremy Cohen,LIB,284,188,96
-Emmet,President,,Don Blankenship William Mohr,UST,26,14,12
-Emmet,President,,Howie Hawkins Angela Walker,GRN,59,45,14
-Emmet,President,,Rocky De La Fuente Darcy Richardson,NLP,10,7,3
-Emmet,President,,Write-ins,,33,20,13
-Emmet,U.S. Senate,,Gary Peters,DEM,9216,4570,4646
-Emmet,U.S. Senate,,John James,REP,12506,8432,4074
-Emmet,U.S. Senate,,Valerie L. Willis,UST,97,71,26
-Emmet,U.S. Senate,,Marcia Squier,GRN,152,103,49
-Emmet,U.S. Senate,,Doug Dern,NLP,51,36,15
-Emmet,U.S. Senate,,Write-ins,,9,8,1
-Emmet,U.S. House,1,Dana Ferguson,DEM,8496,4127,4369
-Emmet,U.S. House,1,Jack Bergman,REP,13069,8773,4296
-Emmet,U.S. House,1,Ben Boren,LIB,326,224,102
-Emmet,U.S. House,1,Write-ins,,22,20,2
-Emmet,State House,107,Jim Page,DEM,8951,4388,4563
-Emmet,State House,107,John N. Damoose,REP,12745,8618,4127
-Emmet,State House,107,Write-ins,,55,47,8
-Dickinson,Straight Party,,Democratic Party,DEM,2265,770,1495
-Dickinson,Straight Party,,Republican Party,REP,5000,3398,1602
-Dickinson,Straight Party,,Libertarian Party,LIB,61,43,18
-Dickinson,Straight Party,,U.S. Taxpayers Party,UST,14,5,9
-Dickinson,Straight Party,,Working Class Party,WCP,43,30,13
-Dickinson,Straight Party,,Green Party,GRN,16,10,6
-Dickinson,Straight Party,,Natural Law Party,NLP,7,4,3
-Dickinson,President,,Joseph R. Biden Kamala D. Harris,DEM,4744,1643,3101
-Dickinson,President,,Donald J. Trump Michael R. Pence,REP,9617,6389,3228
-Dickinson,President,,Jo Jorgensen Jeremy Cohen,LIB,187,104,83
-Dickinson,President,,Don Blankenship William Mohr,UST,15,8,7
-Dickinson,President,,Howie Hawkins Angela Walker,GRN,15,8,7
-Dickinson,President,,Rocky De La Fuente Darcy Richardson,NLP,11,7,4
-Dickinson,U.S. Senate,,Gary Peters,DEM,4881,1840,3041
-Dickinson,U.S. Senate,,John James,REP,9431,6163,3268
-Dickinson,U.S. Senate,,Valerie L. Willis,UST,88,49,39
-Dickinson,U.S. Senate,,Marcia Squier,GRN,65,32,33
-Dickinson,U.S. Senate,,Doug Dern,NLP,21,11,10
-Dickinson,U.S. House,1,Dana Ferguson,DEM,4322,1516,2806
-Dickinson,U.S. House,1,Jack Bergman,REP,9893,6407,3486
-Dickinson,U.S. House,1,Ben Boren,LIB,196,127,69
-Dickinson,State House,108,Renee Richer,DEM,4852,1782,3070
-Dickinson,State House,108,Beau Matthew LaFave,REP,9564,6278,3286
-Grand Traverse,Straight Party,,Democratic Party,DEM,12214,3142,9072
-Grand Traverse,Straight Party,,Republican Party,REP,17213,9049,8164
-Grand Traverse,Straight Party,,Libertarian Party,LIB,201,128,73
-Grand Traverse,Straight Party,,U.S. Taxpayers Party,UST,38,21,17
-Grand Traverse,Straight Party,,Working Class Party,WCP,99,62,37
-Grand Traverse,Straight Party,,Green Party,GRN,61,32,29
-Grand Traverse,Straight Party,,Natural Law Party,NLP,19,13,6
-Grand Traverse,President,,Joseph R. Biden Kamala D. Harris,DEM,28683,7453,21230
-Grand Traverse,President,,Donald J. Trump Michael R. Pence,REP,30502,16586,13916
-Grand Traverse,President,,Jo Jorgensen Jeremy Cohen,LIB,796,430,366
-Grand Traverse,President,,Don Blankenship William Mohr,UST,64,27,37
-Grand Traverse,President,,Howie Hawkins Angela Walker,GRN,151,69,82
-Grand Traverse,President,,Rocky De La Fuente Darcy Richardson,NLP,31,14,17
-Grand Traverse,President,,Write-In Totals,,126,37,89
-Grand Traverse,President,,Write-In: Brian T. Carroll,W,9,3,6
-Grand Traverse,President,,Not Assigned,,117,34,83
-Grand Traverse,U.S. Senate,,Gary Peters,DEM,27291,7201,20090
-Grand Traverse,U.S. Senate,,John James,REP,31792,16785,15007
-Grand Traverse,U.S. Senate,,Valerie L. Willis,UST,269,136,133
-Grand Traverse,U.S. Senate,,Marcia Squier,GRN,397,165,232
-Grand Traverse,U.S. Senate,,Doug Dern,NLP,91,47,44
-Grand Traverse,U.S. Senate,,Write-In Totals,,26,17,9
-Grand Traverse,U.S. Senate,,Not Assigned,,26,17,9
-Grand Traverse,State House,104,Dan O'Neil,DEM,28009,7616,20393
-Grand Traverse,State House,104,John R. Roth,REP,30311,15928,14383
-Grand Traverse,State House,104,Jason Crum,LIB,1194,659,535
-Grand Traverse,State House,104,Write-In Totals,,37,23,14
-Grand Traverse,State House,104,Not Assigned,,37,23,14
-Grand Traverse,U.S. House,1,Dana Ferguson,DEM,25578,6575,19003
-Grand Traverse,U.S. House,1,Jack Bergman,REP,32768,16983,15785
-Grand Traverse,U.S. House,1,Ben Boren,LIB,1095,600,495
-Grand Traverse,U.S. House,1,Write-ins,,30,21,9
-Grand Traverse,U.S. House,1,Over Votes,,6,1,5
-Grand Traverse,U.S. House,1,Under Votes,,1191,507,684
-Grand Traverse,State House,104,Write-ins,,37,23,14
-Grand Traverse,State House,104,Over Votes,,15,8,7
-Grand Traverse,State House,104,Under Votes,,1102,453,649
-Grand Traverse,U.S. Senate,,Over Votes,,24,9,15
-Grand Traverse,U.S. Senate,,Under Votes,,778,327,451
-Grand Traverse,President,,Over Votes,,21,10,11
-Grand Traverse,President,,Under Votes,,294,61,233
-Grand Traverse,Straight Party,,Over Votes,,23,15,8
-Grand Traverse,Straight Party,,Under Votes,,30800,12225,18575
-Ingham,Straight Party,,Democratic Party,DEM,54224,13859,40365
-Ingham,Straight Party,,Republican Party,REP,26889,14971,11918
-Ingham,Straight Party,,Libertarian Party,LIB,570,318,252
-Ingham,Straight Party,,U.S. Taxpayers Party,UST,166,77,89
-Ingham,Straight Party,,Working Class Party,WCP,455,247,208
-Ingham,Straight Party,,Green Party,GRN,211,92,119
-Ingham,Straight Party,,Natural Law Party,NLP,86,50,36
-Ingham,President,,Joseph R. Biden Kamala D. Harris,DEM,94212,24466,69746
-Ingham,President,,Donald J. Trump Michael R. Pence,REP,47639,26793,20846
-Ingham,President,,Jo Jorgensen Jeremy Cohen,LIB,1873,966,907
-Ingham,President,,Don Blankenship William Mohr,UST,221,73,148
-Ingham,President,,Howie Hawkins Angela Walker,GRN,456,173,283
-Ingham,President,,Rocky De La Fuente Darcy Richardson,NLP,104,46,58
-Ingham,U.S. Senate,,Gary Peters,DEM,92378,24330,68048
-Ingham,U.S. Senate,,John James,REP,48378,26488,21890
-Ingham,U.S. Senate,,Valerie L. Willis,UST,1260,543,717
-Ingham,U.S. Senate,,Marcia Squier,GRN,1218,485,733
-Ingham,U.S. Senate,,Doug Dern,NLP,323,160,163
-Ingham,U.S. House,8,Elissa Slotkin,DEM,96392,25888,70504
-Ingham,U.S. House,8,Paul Junge,REP,44024,24298,19726
-Ingham,U.S. House,8,Joe Hartman,LIB,2734,1590,1144
-Ingham,State House,67,Kara Hope,DEM,28503,9381,19122
-Ingham,State House,67,Nate J. Ross,REP,23951,14527,9424
-Ingham,State House,68,Sarah Anthony,DEM,33760,8916,24844
-Ingham,State House,68,Robert J. Atkinson,REP,10714,5597,5117
-Ingham,State House,69,Julie Brixie,DEM,30083,6056,24027
-Ingham,State House,69,Grace S. Norris,REP,12654,5942,6712
-Ingham,State House,69,Gene Gutierrez,GRN,680,298,382
+Clinton,U.S. House,4,Jerry Hilliard,DEM,14819,3930,18749
+Clinton,U.S. House,4,John Moolenaar,REP,23647,2644,26291
+Clinton,U.S. House,4,David Canny,LIB,632,71,703
+Clinton,U.S. House,4,Amy Slepr,GRN,520,69,589
+Clinton,State House,93,Muhammad Salman Rais,DEM,14047,3772,17819
+Clinton,State House,93,Graham Filler,REP,24889,2825,27714
+Emmet,Straight Party,,Democrat,DEM,2161,2212,4373
+Emmet,Straight Party,,Republican,REP,5055,2291,7346
+Emmet,Straight Party,,Libertarian,LIB,61,21,82
+Emmet,Straight Party,,U.S. Taxpayers,UST,11,3,14
+Emmet,Straight Party,,Working Class,WCP,48,6,54
+Emmet,Straight Party,,Green,GRN,22,4,26
+Emmet,Straight Party,,Natural Law,NLP,7,3,10
+Emmet,President,,Joseph R. Biden Kamala D. Harris,DEM,4734,4928,9662
+Emmet,President,,Donald J. Trump Michael R. Pence,REP,8343,3792,12135
+Emmet,President,,Jo Jorgensen Jeremy Cohen,LIB,188,96,284
+Emmet,President,,Don Blankenship William Mohr,UST,14,12,26
+Emmet,President,,Howie Hawkins Angela Walker,GRN,45,14,59
+Emmet,President,,Rocky De La Fuente Darcy Richardson,NLP,7,3,10
+Emmet,President,,Write-ins,,20,13,33
+Emmet,U.S. Senate,,Gary Peters,DEM,4570,4646,9216
+Emmet,U.S. Senate,,John James,REP,8432,4074,12506
+Emmet,U.S. Senate,,Valerie L. Willis,UST,71,26,97
+Emmet,U.S. Senate,,Marcia Squier,GRN,103,49,152
+Emmet,U.S. Senate,,Doug Dern,NLP,36,15,51
+Emmet,U.S. Senate,,Write-ins,,8,1,9
+Emmet,U.S. House,1,Dana Ferguson,DEM,4127,4369,8496
+Emmet,U.S. House,1,Jack Bergman,REP,8773,4296,13069
+Emmet,U.S. House,1,Ben Boren,LIB,224,102,326
+Emmet,U.S. House,1,Write-ins,,20,2,22
+Emmet,State House,107,Jim Page,DEM,4388,4563,8951
+Emmet,State House,107,John N. Damoose,REP,8618,4127,12745
+Emmet,State House,107,Write-ins,,47,8,55
+Dickinson,Straight Party,,Democratic Party,DEM,770,1495,2265
+Dickinson,Straight Party,,Republican Party,REP,3398,1602,5000
+Dickinson,Straight Party,,Libertarian Party,LIB,43,18,61
+Dickinson,Straight Party,,U.S. Taxpayers Party,UST,5,9,14
+Dickinson,Straight Party,,Working Class Party,WCP,30,13,43
+Dickinson,Straight Party,,Green Party,GRN,10,6,16
+Dickinson,Straight Party,,Natural Law Party,NLP,4,3,7
+Dickinson,President,,Joseph R. Biden Kamala D. Harris,DEM,1643,3101,4744
+Dickinson,President,,Donald J. Trump Michael R. Pence,REP,6389,3228,9617
+Dickinson,President,,Jo Jorgensen Jeremy Cohen,LIB,104,83,187
+Dickinson,President,,Don Blankenship William Mohr,UST,8,7,15
+Dickinson,President,,Howie Hawkins Angela Walker,GRN,8,7,15
+Dickinson,President,,Rocky De La Fuente Darcy Richardson,NLP,7,4,11
+Dickinson,U.S. Senate,,Gary Peters,DEM,1840,3041,4881
+Dickinson,U.S. Senate,,John James,REP,6163,3268,9431
+Dickinson,U.S. Senate,,Valerie L. Willis,UST,49,39,88
+Dickinson,U.S. Senate,,Marcia Squier,GRN,32,33,65
+Dickinson,U.S. Senate,,Doug Dern,NLP,11,10,21
+Dickinson,U.S. House,1,Dana Ferguson,DEM,1516,2806,4322
+Dickinson,U.S. House,1,Jack Bergman,REP,6407,3486,9893
+Dickinson,U.S. House,1,Ben Boren,LIB,127,69,196
+Dickinson,State House,108,Renee Richer,DEM,1782,3070,4852
+Dickinson,State House,108,Beau Matthew LaFave,REP,6278,3286,9564
+Grand Traverse,Straight Party,,Democratic Party,DEM,3142,9072,12214
+Grand Traverse,Straight Party,,Republican Party,REP,9049,8164,17213
+Grand Traverse,Straight Party,,Libertarian Party,LIB,128,73,201
+Grand Traverse,Straight Party,,U.S. Taxpayers Party,UST,21,17,38
+Grand Traverse,Straight Party,,Working Class Party,WCP,62,37,99
+Grand Traverse,Straight Party,,Green Party,GRN,32,29,61
+Grand Traverse,Straight Party,,Natural Law Party,NLP,13,6,19
+Grand Traverse,President,,Joseph R. Biden Kamala D. Harris,DEM,7453,21230,28683
+Grand Traverse,President,,Donald J. Trump Michael R. Pence,REP,16586,13916,30502
+Grand Traverse,President,,Jo Jorgensen Jeremy Cohen,LIB,430,366,796
+Grand Traverse,President,,Don Blankenship William Mohr,UST,27,37,64
+Grand Traverse,President,,Howie Hawkins Angela Walker,GRN,69,82,151
+Grand Traverse,President,,Rocky De La Fuente Darcy Richardson,NLP,14,17,31
+Grand Traverse,President,,Write-In Totals,,37,89,126
+Grand Traverse,President,,Write-In: Brian T. Carroll,W,3,6,9
+Grand Traverse,President,,Not Assigned,,34,83,117
+Grand Traverse,U.S. Senate,,Gary Peters,DEM,7201,20090,27291
+Grand Traverse,U.S. Senate,,John James,REP,16785,15007,31792
+Grand Traverse,U.S. Senate,,Valerie L. Willis,UST,136,133,269
+Grand Traverse,U.S. Senate,,Marcia Squier,GRN,165,232,397
+Grand Traverse,U.S. Senate,,Doug Dern,NLP,47,44,91
+Grand Traverse,U.S. Senate,,Write-In Totals,,17,9,26
+Grand Traverse,U.S. Senate,,Not Assigned,,17,9,26
+Grand Traverse,State House,104,Dan O'Neil,DEM,7616,20393,28009
+Grand Traverse,State House,104,John R. Roth,REP,15928,14383,30311
+Grand Traverse,State House,104,Jason Crum,LIB,659,535,1194
+Grand Traverse,State House,104,Write-In Totals,,23,14,37
+Grand Traverse,State House,104,Not Assigned,,23,14,37
+Grand Traverse,U.S. House,1,Dana Ferguson,DEM,6575,19003,25578
+Grand Traverse,U.S. House,1,Jack Bergman,REP,16983,15785,32768
+Grand Traverse,U.S. House,1,Ben Boren,LIB,600,495,1095
+Grand Traverse,U.S. House,1,Write-ins,,21,9,30
+Grand Traverse,U.S. House,1,Over Votes,,1,5,6
+Grand Traverse,U.S. House,1,Under Votes,,507,684,1191
+Grand Traverse,State House,104,Write-ins,,23,14,37
+Grand Traverse,State House,104,Over Votes,,8,7,15
+Grand Traverse,State House,104,Under Votes,,453,649,1102
+Grand Traverse,U.S. Senate,,Over Votes,,9,15,24
+Grand Traverse,U.S. Senate,,Under Votes,,327,451,778
+Grand Traverse,President,,Over Votes,,10,11,21
+Grand Traverse,President,,Under Votes,,61,233,294
+Grand Traverse,Straight Party,,Over Votes,,15,8,23
+Grand Traverse,Straight Party,,Under Votes,,12225,18575,30800
+Ingham,Straight Party,,Democratic Party,DEM,13859,40365,54224
+Ingham,Straight Party,,Republican Party,REP,14971,11918,26889
+Ingham,Straight Party,,Libertarian Party,LIB,318,252,570
+Ingham,Straight Party,,U.S. Taxpayers Party,UST,77,89,166
+Ingham,Straight Party,,Working Class Party,WCP,247,208,455
+Ingham,Straight Party,,Green Party,GRN,92,119,211
+Ingham,Straight Party,,Natural Law Party,NLP,50,36,86
+Ingham,President,,Joseph R. Biden Kamala D. Harris,DEM,24466,69746,94212
+Ingham,President,,Donald J. Trump Michael R. Pence,REP,26793,20846,47639
+Ingham,President,,Jo Jorgensen Jeremy Cohen,LIB,966,907,1873
+Ingham,President,,Don Blankenship William Mohr,UST,73,148,221
+Ingham,President,,Howie Hawkins Angela Walker,GRN,173,283,456
+Ingham,President,,Rocky De La Fuente Darcy Richardson,NLP,46,58,104
+Ingham,U.S. Senate,,Gary Peters,DEM,24330,68048,92378
+Ingham,U.S. Senate,,John James,REP,26488,21890,48378
+Ingham,U.S. Senate,,Valerie L. Willis,UST,543,717,1260
+Ingham,U.S. Senate,,Marcia Squier,GRN,485,733,1218
+Ingham,U.S. Senate,,Doug Dern,NLP,160,163,323
+Ingham,U.S. House,8,Elissa Slotkin,DEM,25888,70504,96392
+Ingham,U.S. House,8,Paul Junge,REP,24298,19726,44024
+Ingham,U.S. House,8,Joe Hartman,LIB,1590,1144,2734
+Ingham,State House,67,Kara Hope,DEM,9381,19122,28503
+Ingham,State House,67,Nate J. Ross,REP,14527,9424,23951
+Ingham,State House,68,Sarah Anthony,DEM,8916,24844,33760
+Ingham,State House,68,Robert J. Atkinson,REP,5597,5117,10714
+Ingham,State House,69,Julie Brixie,DEM,6056,24027,30083
+Ingham,State House,69,Grace S. Norris,REP,5942,6712,12654
+Ingham,State House,69,Gene Gutierrez,GRN,298,382,680
+Houghton,Straight Party Ticket,,Democratic Party,DEM,,,3384
+Houghton,Straight Party Ticket,,Republican Party,REP,,,5011
+Houghton,Straight Party Ticket,,Libertarian Party,LIB,,,71
+Houghton,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,15
+Houghton,Straight Party Ticket,,Working Class Party,WCP,,,47
+Houghton,Straight Party Ticket,,Green Party,GRN,,,23
+Houghton,Straight Party Ticket,,Natural Law Party,NLP,,,11
+Houghton,Electors of President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,,,7750
+Houghton,Electors of President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,,,10378
+Houghton,Electors of President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,,,285
+Houghton,Electors of President and Vice-President of the United States,,Don Blankenship William Mohr,UST,,,28
+Houghton,Electors of President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,,,49
+Houghton,Electors of President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,,,11
+Houghton,United States Senator,,Gary Peters,DEM,,,7941
+Houghton,United States Senator,,John James,REP,,,10151
+Houghton,United States Senator,,Valerie L. Willis,UST,,,89
+Houghton,United States Senator,,Marcia Squier,GRN,,,142
+Houghton,United States Senator,,Doug Dern,NLP,,,27
+Houghton,Representative in Congress 1ST District,1,Dana Ferguson,DEM,,,6997
+Houghton,Representative in Congress 1ST District,1,Jack Bergman,REP,,,10960
+Houghton,Representative in Congress 1ST District,1,Ben Boren,LIB,,,323
+Houghton,Representative in State Legislature District 110,110,Janet Metsa,DEM,,,7694
+Houghton,Representative in State Legislature District 110,110,Gregory Markkanen,REP,,,10286
+Houghton,Representative in State Legislature District 110,110,Rick Sauermilch,GRN,,,238
+Otsego,Straight Party Ticket,,Democratic Party,DEM,"1,323",649,"1,972"
+Otsego,Straight Party Ticket,,Republican Party,REP,"4,636","1,032","5,668"
+Otsego,Straight Party Ticket,,Libertarian Party,LIB,50,12,62
+Otsego,Straight Party Ticket,,U.S. Taxpayers Party,UST,11,4,15
+Otsego,Straight Party Ticket,,Working Class Party,WCP,36,5,41
+Otsego,Straight Party Ticket,,Green Party,GRN,1,1,14
+Otsego,Straight Party Ticket,,Natural Law Party,NLP,8,2,10
+Otsego, President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,"3,100","1,643","4,743"
+Otsego, President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,"8,020","1,759","9,779"
+Otsego, President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,143,34,177
+Otsego, President and Vice-President of the United States,,Don Blankenship William Mohr,UST,13,10,23
+Otsego, President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,20,6,26
+Otsego, President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,5,3,8
+Otsego, President and Vice-President of the United States,,"Brian T, Carroll",WRITE-IN,1,0,1
+Otsego, President and Vice-President of the United States,, Tom Hoefling,WRITE-IN,0,0,0
+Otsego, President and Vice-President of the United States,,Tara Renee Hunter,WRITE-IN,0,0,0
+Otsego, President and Vice-President of the United States,,Jade Simmons,WRITE-IN,0,0,0
+Otsego, President and Vice-President of the United States,, Kasey Wells,WRITE-IN,0,0,0
+Otsego, President and Vice-President of the United States,,'Unresolved Write-In,WRITE-IN,12,6,18
+Otsego,United States Senator,,Gary Peters,DEM,"3,145","1,558","4,703"
+Otsego,United States Senator,,John James,REP,"7,895","1,832","9,727"
+Otsego,United States Senator,,Valerie L. Willis,UST,67,23,90
+Otsego,United States Senator,,Marcia Squier,GRN,55,18,73
+Otsego,United States Senator,,Doug Dern,NLP,27,10,37
+Otsego,United States Senator,,Robert William Carr,WRITE-IN,0,0,0
+Otsego,United States Senator,,Leonard Paul Gadzinski,WRITE-IN,0,0,0
+Otsego,United States Senator,,Unresolved Write-In,WRITE-IN,7,1,8
+Otsego,Representative in Congress 1ST District,1,Dana Ferguson,DEM,"2,649","1,373","4,022"
+Otsego,Representative in Congress 1ST District,1,Jack Bergman,REP,"8,268","1,996","10,264"
+Otsego,Representative in Congress 1ST District,1,Ben Boren,LIB,223,35,258
+Otsego,Representative in State Legislature District 105,105,Jonathan Burke,DEM,"3,049","1,473","4,522"
+Otsego,Representative in State Legislature District 105,105,Ken Borton,REP,"7,948","1,895","9,843"
+Gladwin,Straight Party Ticket,,Democratic Party,DEM,,,"2,291"
+Gladwin,Straight Party Ticket,,Republican Party,REP,,,"4,930"
+Gladwin,Straight Party Ticket,,Libertarian Party,LIB,,,50
+Gladwin,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,13
+Gladwin,Straight Party Ticket,,Working Class Party,WCP,,,50
+Gladwin,Straight Party Ticket,,Green Party,GRN,,,8
+Gladwin,Straight Party Ticket,,Natural Law Party,NLP,,,7
+Gladwin, President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,,,"4,524"
+Gladwin, President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,,,"9,893"
+Gladwin, President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,,,142
+Gladwin, President and Vice-President of the United States,,Don Blankenship William Mohr,UST,,,18
+Gladwin, President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,,,25
+Gladwin, President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,,,1
+Gladwin,United States Senator,,Gary Peters,DEM,,,4905
+Gladwin,United States Senator,,John James,REP,,,9245
+Gladwin,United States Senator,,Valerie L. Willis,UST,,,119
+Gladwin,United States Senator,,Marcia Squier,GRN,,,59
+Gladwin,United States Senator,,Doug Dern,NLP,,,36
+Gladwin,Representative in Congress 4th District,4,Jerry Hilliard,DEM,,,3771
+Gladwin,Representative in Congress 4th District,4,John Moolenaar,REP,,,10177
+Gladwin,Representative in Congress 4th District,4,David Canny,LIB,,,137
+Gladwin,Representative in Congress 4th District,4,Amy Slepr,GRN,,,141
+Gladwin,Representative in State Legislature District 97,97,Celia Young-Wenkel,DEM,,,3994
+Gladwin,Representative in State Legislature District 97,97,Jason Wentworth,REP,,,10003
+Gogebic,Straight Party Ticket,,Democratic Party,DEM,,,1974
+Gogebic,Straight Party Ticket,,Republican Party,REP,,,2371
+Gogebic,Straight Party Ticket,,Libertarian Party,LIB,,,27
+Gogebic,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,10
+Gogebic,Straight Party Ticket,,Working Class Party,WCP,,,35
+Gogebic,Straight Party Ticket,,Green Party,GRN,,,14
+Gogebic,Straight Party Ticket,,Natural Law Party,NLP,,,4
+Gogebic, President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,,,3570
+Gogebic, President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,,,4600
+Gogebic, President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,,,67
+Gogebic, President and Vice-President of the United States,,Don Blankenship William Mohr,UST,,,4
+Gogebic, President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,,,21
+Gogebic, President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,,,4
+Gogebic,United States Senator,,Gary Peters,DEM,,,3556
+Gogebic,United States Senator,,John James,REP,,,4436
+Gogebic,United States Senator,,Valerie L. Willis,UST,,,64
+Gogebic,United States Senator,,Marcia Squier,GRN,,,58
+Gogebic,United States Senator,,Doug Dern,NLP,,,18
+Gogebic,Representative in Congress 1st District,1,Jerry Hilliard,DEM,,,3332
+Gogebic,Representative in Congress 1st District,1,John Moolenaar,REP,,,4672
+Gogebic,Representative in Congress 1st District,1,David Canny,LIB,,,113
+Gogebic,Representative in State Legislature District 110,110,Janet Metsa,DEM,,,3453
+Gogebic,Representative in State Legislature District 110,110,Gregory Markkanen,REP,,,4513
+Gogebic,Representative in State Legislature District 110,110,Rick Sauermilch,GRN,,,117
+Baraga,Straight Party Ticket,,Democratic Party,DEM,,,692
+Baraga,Straight Party Ticket,,Republican Party,REP,,,1214
+Baraga,Straight Party Ticket,,Libertarian Party,LIB,,,10
+Baraga,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,5
+Baraga,Straight Party Ticket,,Working Class Party,WCP,,,18
+Baraga,Straight Party Ticket,,Green Party,GRN,,,7
+Baraga,Straight Party Ticket,,Natural Law Party,NLP,,,4
+Baraga,President,,Joseph R. Biden Kamala D. Harris,DEM,,,1478
+Baraga,President,,Donald J. Trump Michael R. Pence,REP,,,2512
+Baraga,President,,Jo Jorgensen Jeremy Cohen,LIB,,,31
+Baraga,President,,Don Blankenship William Mohr,UST,,,5
+Baraga,President,,Howie Hawkins Angela Walker,GRN,,,10
+Baraga,President,,Rocky De La Fuente Darcy Richardson,NLP,,,0
+Baraga,President,,Brian T. Carroll,WRITE-IN,,,0
+Baraga,President,,Tom Hoefling,WRITE-IN,,,2
+Baraga,President,,Tara Renee Hunter,WRITE-IN,,,0
+Baraga,President,,Jade Simmons,WRITE-IN,,,0
+Baraga,President,,Kasey Wells,WRITE-IN,,,0
+Baraga,President,,Unresolved Write-In,,,,9
+Baraga,United States Senator,,Gary Peters,DEM,,,1528
+Baraga,United States Senator,,John James,REP,,,2409
+Baraga,United States Senator,,Valerie L. Willis,UST,,,31
+Baraga,United States Senator,,Marcia Squier,GRN,,,23
+Baraga,United States Senator,,Doug Dern,NLP,,,9
+Baraga,United States Senator,,Robert William Carr,WRITE-IN,,,0
+Baraga,United States Senator,,Leonard Paul Gadzinski,WRITE-IN,,,0
+Baraga,United States Senator,,Unresolved Write-In,,,,4
+Baraga,Representative in Congress,,Dana Ferguson,DEM,,,1332
+Baraga,Representative in Congress,,Jack Bergman,REP,,,2595
+Baraga,Representative in Congress,,Ben Boren,LIB,,,56
+Baraga,Representative in State Legislature,,Janet Metsa,DEM,,,1413
+Baraga,Representative in State Legislature,,Gregory Markkanen,REP,,,2517
+Baraga,Representative in State Legislature,,Rick Sauermilch,GRN,,,36
+Wayne,Straight Party Ticket,,Democratic Party,DEM,"123,898","297,088","420,986"
+Wayne,Straight Party Ticket,,Republican Party,REP,"72,878","71,354","144,232"
+Wayne,Straight Party Ticket,,Libertarian Party,LIB,"1,544","1,181","2,725"
+Wayne,Straight Party Ticket,,U.S. Taxpayers Party,UST,705,644,"1,349"
+Wayne,Straight Party Ticket,,Working Class Party,WCP,"1,761","1,262","3,023"
+Wayne,Straight Party Ticket,,Green Party,GRN,634,641,"1,275"
+Wayne,Straight Party Ticket,,Natural Law Party,NLP,396,252,648
+Wayne,Unresolved Write-In,,,,0,0,0
+Wayne, President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,"171,041","426,129","597,170"
+Wayne, President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,"133,238","131,315","264,553"
+Wayne, President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,"3,305","3,262","6,567"
+Wayne, President and Vice-President of the United States,,Don Blankenship William Mohr,UST,472,616,"1,088"
+Wayne, President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,"1,084","1,379","2,463"
+Wayne, President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,269,273,542
+Wayne,Unresolved Write-In,,,,996,639,"1,635"
+Wayne,United States Senator,,Gary Peters,DEM,"167,650","414,717","582,367"
+Wayne,United States Senator,,John James,REP,"129,299","130,847","260,146"
+Wayne,United States Senator,,Valerie L. Willis,UST,"4,352","6,452","10,804"
+Wayne,United States Senator,,Marcia Squier,GRN,"2,829","4,050","6,879"
+Wayne,United States Senator,,Doug Dern,NLP,"1,225","1,398","2,623"
+Wayne,United States Senator,,Unresolved Write-In,,711,416,"1,127"
+Wayne,Representative in Congress 11th District,11,Haley Stevens,DEM,16913,71884,88797
+Wayne,Representative in Congress 11th District,11,Eric S. Esshaki,REP,30208,43304,73512
+Wayne,Representative in Congress 11th District,11,Leonard Schwartz,LIB,1436,1867,3303
+Wayne,Representative in Congress 11th District,11,Unresolved Write-In,,78,62,140
+Wayne,Representative in Congress 12th District,12,Debbie Dingell,DEM,40931,95545,136476
+Wayne,Representative in Congress 12th District,12,Jeff Jones,REP,"50,052","41,705","91,757"
+Wayne,Representative in Congress 12th District,12,Gary Walkowicz,WCP,"4,782","3,468","8,250"
+Wayne,Representative in Congress 12th District,12,Unresolved Write-In,,273,95,368
+Wayne,Representative in Congress 13th District,13,Rashida Tlaib,DEM,"72,014","151,191","223,205"
+Wayne,Representative in Congress 13th District,13,David Dudenhoefer,REP,"28,768","24,543","53,311"
+Wayne,Representative in Congress 13th District,13,Articia Bomer,UST,"1,033",941,"1,974"
+Wayne,Representative in Congress 13th District,13,Sam Johnson,WCP,"2,854","2,430","5,284"
+Wayne,Representative in Congress 13th District,13,D. Etta Wilcoxon,GRN,893,"1,212","2,105"
+Wayne,Representative in Congress 13th District,13,Unresolved Write-In,,450,199,649
+Wayne,Representative in Congress 14th District,14,Brenda Lawrence,DEM,"40,660","100,306","140,966"
+Wayne,Representative in Congress 14th District,14,Robert Vance Patrick,REP,"8,703","12,613","21,316"
+Wayne,Representative in Congress 14th District,14,Lisa Lane Gioia,LIB,827,888,"1,715"
+Wayne,Representative in Congress 14th District,14,Philip Kolody,WCP,704,730,"1,434"
+Wayne,Representative in Congress 14th District,14,Clyde K. Shabazz,GRN,501,730,"1,231"
+Wayne,Representative in Congress 14th District,14,Unresolved Write-In,,175,97,272
+Wayne,Representative in State Legislature 1st District,1,Tenisha R. Yancey,DEM,"9,745","19,997","29,742"
+Wayne,Representative in State Legislature 1st District,1,Latricia Ann Lanier,REP,"3,334","5,362","8,696"
+Wayne,Representative in State Legislature 1st District,1,Gregory Creswell,LIB,378,408,786
+Wayne,Representative in State Legislature 1st District,1,Unresolved Write-In,,44,35,79
+Wayne,Representative in State Legislature 2nd District,2,Joe Tate,DEM,"7,609","20,587","28,196"
+Wayne,Representative in State Legislature 2nd District,2,Mayra Rodriguez,REP,"3,737","5,306","9,043"
+Wayne,Representative in State Legislature 2nd District,2,DaNetta L. Simpson,,390,414,804
+Wayne,Representative in State Legislature 2nd District,2,Unresolved Write-In,,37,23,60
+Wayne,Representative in State Legislature 3rd District,3,Shri Thanedar,DEM,"8,691","19,884","28,575"
+Wayne,Representative in State Legislature 3rd District,3,Anita Vinson,REP,595,639,"1,234"
+Wayne,Representative in State Legislature 3rd District,3,Stephen Boyle,GRN,305,508,813
+Wayne,Representative in State Legislature 3rd District,3,Unresolved Write-In,,57,40,97
+Wayne,Representative in State Legislature 4th District,4,Abraham Aiyash,DEM,"8,072","19,191","27,263"
+Wayne,Representative in State Legislature 4th District,4,Howard Weathington,REP,813,923,"1,736"
+Wayne,Representative in State Legislature 4th District,4,Linda Rayburn,WCP,472,551,"1,023"
+Wayne,Representative in State Legislature 4th District,4,MD Rabbi Alam,,151,204,355
+Wayne,Representative in State Legislature 4th District,4,Unresolved Write-In,,48,38,86
+Wayne,Representative in State Legislature 4th District Partial Term Ending 1/1/2021,4,Abraham Aiyash,DEM,"8,580","19,799","28,379"
+Wayne,Representative in State Legislature 4th District Partial Term Ending 1/1/2021,4,Unresolved Write-In,,189,136,325
+Wayne,Representative in State Legislature 5th District,5,Cynthia A. Johnson,DEM,"6,996","11,662","18,658"
+Wayne,Representative in State Legislature 5th District,5,Harold M. Day,REP,779,538,"1,317"
+Wayne,Representative in State Legislature 5th District,5,Unresolved Write-In,,43,8,51
+Wayne,Representative in State Legislature 6th District,6,Tyrone Carter,DEM,"8,321","19,840","28,161"
+Wayne,Representative in State Legislature 6th District,6,Unresolved Write-In,,267,99,366
+Wayne,Representative in State Legislature 7th District,7,Helena Scott,DEM,"9,694","22,789","32,483"
+Wayne,Representative in State Legislature 7th District,7,Ronald Cole,REP,389,402,791
+Wayne,Representative in State Legislature 7th District,7,Kimberly Givens,WCP,600,624,"1,224"
+Wayne,Representative in State Legislature 7th District,7,Anita Belle,GRN,196,224,420
+Wayne,Representative in State Legislature 7th District,7,Unresolved Write-In,,49,24,73
+Wayne,Representative in State Legislature 8th District,8,Stephanie A. Young,DEM,"10,564","25,381","35,945"
+Wayne,Representative in State Legislature 8th District,8,Miroslawa Teresa Gorak,REP,567,643,"1,210"
+Wayne,Representative in State Legislature 8th District,8,Unresolved Write-In,,57,35,92
+Wayne,Representative in State Legislature 9th District,9,Karen Whitsett,DEM,"10,532","18,515","29,047"
+Wayne,Representative in State Legislature 9th District,9,James Stephens,REP,941,853,"1,794"
+Wayne,Representative in State Legislature 9th District,9,Unresolved Write-In,,83,29,112
+Wayne,Representative in State Legislature 10th District,10,Mary Cavanagh,DEM,"12,185","25,959","38,144"
+Wayne,Representative in State Legislature 10th District,10,Cathy L. Alcorn,REP,"3,943","2,920","6,863"
+Wayne,Representative in State Legislature 10th District,10,Unresolved Write-In,,100,62,162
+Wayne,Representative in State Legislature 11th District,11,Jewell Jones,DEM,"9,195","18,987","28,182"
+Wayne,Representative in State Legislature 11th District,11,James C. Townsend,REP,"8,334","6,696","15,030"
+Wayne,Representative in State Legislature 11th District,11,Unresolved Write-In,,123,92,215
+Wayne,Representative in State Legislature 12th District,12,Alex Garza,DEM,"8,480","18,820","27,300"
+Wayne,Representative in State Legislature 12th District,12,Michelle Bailey,REP,"9,513","6,975","16,488"
+Wayne,Representative in State Legislature 12th District,12,Unresolved Write-In,,117,42,159
+Wayne,Representative in State Legislature 13th District,13,Tullio Liberati,DEM,"8,311","18,409","26,720"
+Wayne,Representative in State Legislature 13th District,13,Megan Frump,REP,"10,726","8,630","19,356"
+Wayne,Representative in State Legislature 13th District,13,Unresolved Write-In,,128,75,203
+Wayne,Representative in State Legislature 14th District,14,Cara A. Clemente,DEM,"7,003","16,093","23,096"
+Wayne,Representative in State Legislature 14th District,14,Darrell Stasik,REP,"8,995","6,734","15,729"
+Wayne,Representative in State Legislature 14th District,14,Simone R. Coleman,WCP,"1,122",815,"1,937"
+Wayne,Representative in State Legislature 14th District,14,Unresolved Write-In,,81,29,110
+Wayne,Representative in State Legislature 15th District,15,Abdullah Hammoud,DEM,"11,321","17,041","28,362"
+Wayne,Representative in State Legislature 15th District,15,Carla O'Neill,REP,"5,746","5,160","10,906"
+Wayne,Representative in State Legislature 15th District,15,Larry Darnell Betts,WCP,482,488,970
+Wayne,Representative in State Legislature 15th District,15,Unresolved Write-In,,52,0,52
+Wayne,Representative in State Legislature 16th District,16,Kevin Coleman,DEM,"8,305","19,920","28,225"
+Wayne,Representative in State Legislature 16th District,16,Emily Bauman,REP,"9,102","7,835","16,937"
+Wayne,Representative in State Legislature 16th District,16,Unresolved Write-In,,106,59,165
+Wayne,Representative in State Legislature 17th District,17,Christopher Slat,DEM,"1,553","3,478","5,031"
+Wayne,Representative in State Legislature 17th District,17,"Joe Bellino, Jr.",REP,"4,260","2,671","6,931"
+Wayne,Representative in State Legislature 17th District,17,Unresolved Write-In,,36,18,54
+Wayne,Representative in State Legislature 19th District,19,Laurie Pohutsky,DEM,"5,903","23,549","29,452"
+Wayne,Representative in State Legislature 19th District,19,Martha Ptashnik,REP,"13,271","15,944","29,215"
+Wayne,Representative in State Legislature 19th District,19,Unresolved Write-In,,57,56,113
+Wayne,Representative in State Legislature 21st District,21,Ranjeev Puri,DEM,"6,816","27,468","34,284"
+Wayne,Representative in State Legislature 21st District,21,Laurel Hess,REP,"9,630","14,052","23,682"
+Wayne,Representative in State Legislature 21st District,21,Unresolved Write-In,,55,81,136
+Wayne,Representative in State Legislature 20th District,20,Matt Koleszar,DEM,"6,137","26,897","33,034"
+Wayne,Representative in State Legislature 20th District,20,John Lacny,REP,"10,259","16,672","26,931"
+Wayne,Representative in State Legislature 20th District,20,Unresolved Write-In,,44,21,65
+Wayne,Representative in State Legislature 23rd District,23,Darrin Camilleri,DEM,"7,861","22,370","30,231"
+Wayne,Representative in State Legislature 23rd District,23,John Poe,REP,"13,807","13,493","27,300"
+Wayne,Representative in State Legislature 23rd District,23,Unresolved Write-In,,62,35,97
+Washtenaw,Straight Party Ticket,,Democratic Party,DEM,16348,70907,87255
+Washtenaw,Straight Party Ticket,,Republican Party,REP,15305,16026,31331
+Washtenaw,Straight Party Ticket,,Libertarian Party,LIB,263,283,546
+Washtenaw,Straight Party Ticket,,U.S. Taxpayers Party,UST,44,58,102
+Washtenaw,Straight Party Ticket,,Working Class Party,WCP,174,128,302
+Washtenaw,Straight Party Ticket,,Green Party,GRN,105,184,289
+Washtenaw,Straight Party Ticket,,Natural Law Party,NLP,37,24,61
+Washtenaw, President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,31204,125932,157136
+Washtenaw, President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,28386,27855,56241
+Washtenaw, President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,885,1071,1956
+Washtenaw, President and Vice-President of the United States,,Don Blankenship William Mohr,UST,62,133,195
+Washtenaw, President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,237,414,651
+Washtenaw, President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,47,54,101
+Washtenaw, President and Vice-President of the United States,,Brian T. Carroll,WRITE-IN,40,88,128
+Washtenaw, President and Vice-President of the United States,,Jade Simmons,WRITE-IN,6,4,10
+Washtenaw, President and Vice-President of the United States,,Kasey Wells,WRITE-IN,0,0,0
+Washtenaw, President and Vice-President of the United States,,Tara Renee Hunter,WRITE-IN,0,0,0
+Washtenaw, President and Vice-President of the United States,,Tom Hoefling,WRITE-IN,0,0,0
+Washtenaw,,,Rejected write-ins,WRITE-IN,201,312,513
+Washtenaw, President and Vice-President of the United States,,Unassigned write-ins,WRITE-IN,0,0,0
+Washtenaw,United States Senator,,Gary Peters,DEM,29825,120704,150529
+Washtenaw,United States Senator,,John James,REP,29376,31369,60745
+Washtenaw,United States Senator,,Valerie L. Willis,UST,461,766,1227
+Washtenaw,United States Senator,,Marcia Squier,GRN,647,1315,1962
+Washtenaw,United States Senator,,Doug Dern,NLP,145,180,325
+Washtenaw,United States Senator,,Leonard Paul Gadzinski (Write-in),WRITE-IN,0,0,0
+Washtenaw,United States Senator,,Robert William Carr (Write-in),WRITE-IN,1,0,1
+Washtenaw,United States Senator,,Rejected write-ins,WRITE-IN,37,50,87
+Washtenaw,United States Senator,,Unassigned write-ins,WRITE-IN,0,0,0
+Washtenaw,Rep in Congress 7th District,7,Gretchen D. Driskell,,10845,23862,34707
+Washtenaw,Rep in Congress 7th District,7,Tim Walberg,,17483,13439,30922
+Washtenaw,Rep in Congress 7th District,7,Rejected write-ins,,20,25,45
+Washtenaw,Rep in Congress 7th District,7,Unassigned write-ins,,0,0,0
+Washtenaw,Rep in Congress 12th District,12,Debbie Dingell,,19816,98665,118481
+Washtenaw,Rep in Congress 12th District,12,Jeff Jones,,10422,15540,25962
+Washtenaw,Rep in Congress 12th District,12,Gary Walkowicz,,1206,1691,2897
+Washtenaw,Rep in Congress 12th District,12,Rejected write-ins,,42,71,113
+Washtenaw,Rep in Congress 12th District,12,Unassigned write-ins,,0,0,0
+Washtenaw,Rep in State Legislature 52nd District,52,Donna Lasinski,,10286,25699,35985
+Washtenaw,Rep in State Legislature 52nd District,52,Greg Marquis,,14176,10846,25022
+Washtenaw,Rep in State Legislature 52nd District,52,Rejected write-ins,,34,25,59
+Washtenaw,Rep in State Legislature 52nd District,52,Unassigned write-ins,,0,0,0
+Washtenaw,Rep in State Legislature 53rd District,53,Yousef Rabhi,,6031,36493,42524
+Washtenaw,Rep in State Legislature 53rd District,53,Jean E. Holland,,2410,4026,6436
+Washtenaw,Rep in State Legislature 53rd District,53,Rejected write-ins,,18,30,48
+Washtenaw,Rep in State Legislature 53rd District,53,Unassigned write-ins,,0,0,0
+Washtenaw,Rep in State Legislature 54th District,54,Ronnie Dean Peterson,,8718,27815,36533
+Washtenaw,Rep in State Legislature 54th District,54,Martin A. Church,,4860,5604,10464
+Washtenaw,Rep in State Legislature 54th District,54,Rejected write-ins,,46,60,106
+Washtenaw,Rep in State Legislature 54th District,54,Unassigned write-ins,,0,0,0
+Washtenaw,Rep in State Legislature 55th District,55,Felicia Brabec,,5828,31290,37118
+Washtenaw,Rep in State Legislature 55th District,55,Bob Baird,,6023,8147,14170
+Washtenaw,Rep in State Legislature 55th District,55,Rejected write-ins,,19,33,52
+Washtenaw,Rep in State Legislature 55th District,55,Unassigned write-ins,,0,0,0
+Hillsdale,Straight Party Ticket,,Democratic Party,DEM,,,"3,029"
+Hillsdale,Straight Party Ticket,,Republican Party,REP,,,"10,691"
+Hillsdale,Straight Party Ticket,,Libertarian Party,LIB,,,72
+Hillsdale,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,18
+Hillsdale,Straight Party Ticket,,Working Class Party,WCP,,,65
+Hillsdale,Straight Party Ticket,,Green Party,GRN,,,18
+Hillsdale,Straight Party Ticket,,Natural Law Party,NLP,,,6
+Hillsdale,President and Vice-President of the United States,,Joseph R. Biden Kamala D. Harris,DEM,,,"5,883"
+Hillsdale,President and Vice-President of the United States,,Donald J. Trump Michael R. Pence,REP,,,"17,037"
+Hillsdale,President and Vice-President of the United States,,Jo Jorgensen Jeremy Cohen,LIB,,,261
+Hillsdale,President and Vice-President of the United States,,Don Blankenship William Mohr,UST,,,38
+Hillsdale,President and Vice-President of the United States,,Howie Hawkins Angela Walker,GRN,,,56
+Hillsdale,President and Vice-President of the United States,,Rocky De La Fuente Darcy Richardson,NLP,,,13
+Hillsdale,President and Vice-President of the United States,,Brian T. Carroll (W),W,,,14
+Hillsdale,President and Vice-President of the United States,,Jade Simmons (W),W,,,0
+Hillsdale,President and Vice-President of the United States,,Kasey Wells (W),W,,,0
+Hillsdale,President and Vice-President of the United States,,Tara Renee Hunter (W),W,,,0
+Hillsdale,President and Vice-President of the United States,,Tom Hoefling (W),W,,,0
+Hillsdale,United States Senator,,Gary Peters,DEM,,,"6,237"
+Hillsdale,United States Senator,,John James,REP,,,"16,227"
+Hillsdale,United States Senator,,Valerie L. Willis,UST,,,251
+Hillsdale,United States Senator,,Marcia Squier,GRN,,,154
+Hillsdale,United States Senator,,Doug Dern,NLP,,,73
+Hillsdale,United States Senator,,Leonard Paul Gadzinski (W),W,,,0
+Hillsdale,United States Senator,,Robert William Carr (W),W,,,0
+Hillsdale,Representative in Congress 7th District,7,Gretchen D. Driskell,DEM,,,"5,560"
+Hillsdale,Representative in Congress 7th District,7,Tim Walberg,REP,,,"17,280"
+Hillsdale,Representative in State Legislature 58th District,58,Tamara C. Barnes,DEM,,,"5,823"
+Hillsdale,Representative in State Legislature 58th District,58,Andrew Fink,REP,,,"16,602"
+Osceola,Straight Party Ticket,,Democratic Party,DEM,,,1619
+Osceola,Straight Party Ticket,,Republican Party,REP,,,5960
+Osceola,Straight Party Ticket,,Libertarian Party,LIB,,,40
+Osceola,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,7
+Osceola,Straight Party Ticket,,Working Class Party,WCP,,,41
+Osceola,Straight Party Ticket,,Green Party,GRN,,,8
+Osceola,Straight Party Ticket,,Natural Law Party,NLP,,,7
+Osceola, President and Vice-President of the United States,,Joseph R. Biden/Kamala D. Harris,DEM,,,3214
+Osceola, President and Vice-President of the United States,,Donald J. Trump/Michael R. Pence,REP,,,8928
+Osceola, President and Vice-President of the United States,,Jo Jorgensen/Jeremy Cohen,LIB,,,135
+Osceola, President and Vice-President of the United States,,Don Blankenship/William Mohr,UST,,,21
+Osceola, President and Vice-President of the United States,,Howie Hawkins/Angela Walker,GRN,,,28
+Osceola, President and Vice-President of the United States,,Rocky De La Fuente/Darcy Richardson,NLP,,,3
+Osceola, President and Vice-President of the United States,,††Unresolved write-ins,,,,11
+Osceola,United States Senator,,Gary Peters,DEM,,,3226
+Osceola,United States Senator,,John James,REP,,,8808
+Osceola,United States Senator,,Valerie L. Willis,UST,,,102
+Osceola,United States Senator,,Marcia Squier,GRN,,,52
+Osceola,United States Senator,,Doug Dern,NLP,,,35
+Osceola,United States Senator,,††Unresolved write-ins,,,,12
+Osceola,Representative in Congress 4th District,4,Jerry Hilliard,DEM,,,2757
+Osceola,Representative in Congress 4th District,4,John Moolenaar,REP,,,9059
+Osceola,Representative in Congress 4th District,4,David Canny,LIB,,,184
+Osceola,Representative in Congress 4th District,4,Amy Slepr,GRN,,,124
+Osceola,Representative in Congress 4th District,4,††Unresolved write-ins,,,,16
+Osceola,Rep in State Legislature 97th District,97,Celia Young-Wenkel,DEM,,,1505
+Osceola,Rep in State Legislature 97th District,97,Jason Wentworth,REP,,,4742
+Osceola,Rep in State Legislature 97th District,97,††Unresolved write-ins,,,,24
+Osceola,Rep in State Legislature 102nd District,102,Amanda Siggins,DEM,,,1370
+Osceola,Rep in State Legislature 102nd District,102,Michele Hoitenga,REP,,,4336
+Osceola,Rep in State Legislature 102nd District,102,††Unresolved write-ins,,,,23
+Macomb,Straight Party Ticket,,Republican Party,REP,,,148793
+Macomb,Straight Party Ticket,,Democratic Party,DEM,,,133359
+Macomb,Straight Party Ticket,,Libertarian Party,LIB,,,1865
+Macomb,Straight Party Ticket,,Working Class Party,WC,,,1583
+Macomb,Straight Party Ticket,,Green Party,GRN,,,645
+Macomb,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,500
+Macomb,Straight Party Ticket,,Natural Law Party,NLP,,,253
+Macomb, President and Vice-President of the United States,,Donald J.†Trump,REP,,,263863
+Macomb, President and Vice-President of the United States,,Joseph R.†Biden,DEM,,,223952
+Macomb, President and Vice-President of the United States,,Jo†Jorgensen,LIB,,,4462
+Macomb, President and Vice-President of the United States,,Howie†Hawkins,GRN,,,1149
+Macomb, President and Vice-President of the United States,,Don†Blankenship,UST,,,551
+Macomb, President and Vice-President of the United States,,Rocky De†La Fuente,NLP,,,242
+Macomb,United States Senator,,John†James,REP,,,252052
+Macomb,United States Senator,,Gary†Peters,DEM,,,224448
+Macomb,United States Senator,,Valerie L.†Willis,UST,,,5111
+Macomb,United States Senator,,Marcia†Squier,GRN,,,3532
+Macomb,United States Senator,,Doug†Dern,NLP,,,1334
+Macomb,Representative in Congress 9th District,9,Andy†Levin,DEM,,,144980
+Macomb,Representative in Congress 9th District,9,Charles J.†Langworthy,REP,,,108719
+Macomb,Representative in Congress 9th District,9,Andrea L.†Kirby,WC,,,7047
+Macomb,Representative in Congress 9th District,9,Mike†Saliba,LIB,,,4394
+Macomb,Representative in Congress 10th District,10,Lisa†McClain,REP,,,135820
+Macomb,Representative in Congress 10th District,10,Kimberly†Bizon,DEM,,,76257
+Macomb,Representative in State Legislature - 18th District,18,Kevin†Hertel,DEM,,,32569
+Macomb,Representative in State Legislature - 18th District,18,Michael†Babat,REP,,,21462
+Macomb,Representative in State Legislature - 22nd District,22,Richard M.†Steenland,DEM,,,24954
+Macomb,Representative in State Legislature - 22nd District,22,Steven G.†Warner,REP,,,16701
+Macomb,Representative in State Legislature - 24th District,24,Steve†Marino,REP,,,29394
+Macomb,Representative in State Legislature - 24th District,24,Michelle†Woodman,DEM,,,21692
+Macomb,Representative in State Legislature - 25th District,25,Nate†Shannon,DEM,,,25239
+Macomb,Representative in State Legislature - 25th District,25,Paul M†Smith,REP,,,22509
+Macomb,Representative in State Legislature - 28th District,28,Lori M.†Stone,DEM,,,24585
+Macomb,Representative in State Legislature - 28th District,28,Stephen†Colegio,REP,,,15329
+Macomb,Representative in State Legislature - 28th District,28,Frederick†Horndt,LIB,,,859
+Macomb,Representative in State Legislature - 30th District,30,Diana†Farrington,REP,,,28199
+Macomb,Representative in State Legislature - 30th District,30,Michael A.†Chehab,DEM,,,17016
+Macomb,Representative in State Legislature - 31st District,31,William J.†Sowerby,DEM,,,26202
+Macomb,Representative in State Legislature - 31st District,31,Lisa†Valerio-Nowc,REP,,,20364
+Macomb,Representative in State Legislature - 32nd District,32,Pamela†Hornberger,REP,,,20634
+Macomb,Representative in State Legislature - 32nd District,32,Justin†Boucher,DEM,,,12150
+Macomb,Representative in State Legislature - 33rd District,33,Jeff†Yaroch,REP,,,39429
+Macomb,Representative in State Legislature - 33rd District,33,Olu†Jabari,DEM,,,16538
+Macomb,Representative in State Legislature - 36th District,36,Douglas C.†Wozniak,REP,,,37945
+Macomb,Representative in State Legislature - 36th District,36,Robert†Murphy,DEM,,,17299
+Mackinac,Straight Party Ticket,,Democratic Party,DEM,,,1164
+Mackinac,Straight Party Ticket,,Republican  Party,REP,,,2296
+Mackinac,Straight Party Ticket,,Libertarian Party,LIB,,,37
+Mackinac,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,7
+Mackinac,Straight Party Ticket,,Working Class Party,WCP,,,21
+Mackinac,Straight Party Ticket,,Green Party,GRN,,,7
+Mackinac,Straight Party Ticket,,Natural Law  Party,NLP,,,3
+Mackinac,Straight Party Ticket,,††Unresolved write-ins,WRITE-IN,,,0
+Mackinac,President,,Joseph R.†Biden,DEM,,,2632
+Mackinac,President,,Donald J.†Trump,REP,,,4304
+Mackinac,President,,Jo†Jorgensen,LIB,,,56
+Mackinac,President,,Don†Blankenship,UST,,,8
+Mackinac,President,,Howie†Hawkins,GRN,,,13
+Mackinac,President,,Rocky De†La Fuente,NLP,,,2
+Mackinac,President,,Brian T. Carroll,WRITE-IN,,,0
+Mackinac,President,,Tom Hoefling,WRITE-IN,,,0
+Mackinac,President,,Tara Renee Hunter,WRITE-IN,,,0
+Mackinac,President,,Jade Simmons,WRITE-IN,,,0
+Mackinac,President,,Kasey Wells,WRITE-IN,,,0
+Mackinac,President,,Unresolved Write-In,WRITE-IN,,,10
+Mackinac,United States Senator,,Gary†Peters,DEM,,,2638
+Mackinac,United States Senator,,John†James,REP,,,4263
+Mackinac,United States Senator,,Valerie L.†Willis,UST,,,43
+Mackinac,United States Senator,,Marcia†Squier,GRN,,,33
+Mackinac,United States Senator,,Doug†Dern,NLP,,,8
+Mackinac,United States Senator,,Robert William Carr,WRITE-IN,,,0
+Mackinac,United States Senator,,Leonard Paul Gadzinski,WRITE-IN,,,0
+Mackinac,United States Senator,,Unresolved Write-In,WRITE-IN,,,7
+Mackinac,Representative: in Congress 1st District,1,Dana Ferguson,DEM,,,2294
+Mackinac,Representative: in Congress 1st District,1,Jack Bergman,REP,,,4551
+Mackinac,Representative: in Congress 1st District,1,Ben Boren,LIB,,,92
+Mackinac,Representative: in Congress 1st District,1,Unresolved Write-In,,,,7
+Mackinac,Representative in State Legislature 107th District,107,Jim Page,DEM,,,2509
+Mackinac,Representative in State Legislature 107th District,107,John N. Damoose,REP,,,4271
+Mackinac,Representative in State Legislature 107th District,107,Unresolved Write-In,WRITE-IN,,,23
+Luce,Straight Party Ticket,,Democratic Party,DEM,,,345
+Luce,Straight Party Ticket,,Republican  Party,REP,,,1258
+Luce,Straight Party Ticket,,Libertarian Party,LIB,,,10
+Luce,Straight Party Ticket,,U.S. Taxpayers Party,UST,,,9
+Luce,Straight Party Ticket,,Working Class Party,WCP,,,15
+Luce,Straight Party Ticket,,Green Party,GRN,,,2
+Luce,Straight Party Ticket,,Natural Law  Party,NLP,,,2
+Luce, President and Vice-President of the United States,,Joseph R.†Biden,DEM,,,842
+Luce, President and Vice-President of the United States,,Donald J.†Trump,REP,,,2109
+Luce, President and Vice-President of the United States,,Jo†Jorgensen,LIB,,,27
+Luce, President and Vice-President of the United States,,Don†Blankenship,UST,,,11
+Luce, President and Vice-President of the United States,,Howie†Hawkins,GRN,,,8
+Luce, President and Vice-President of the United States,,Rocky De†La Fuente,NLP,,,4
+Luce, President and Vice-President of the United States,,,WRITE-IN,,,6
+Luce,United States Senator,,Gary†Peters,DEM,,,855
+Luce,United States Senator,,John†James,REP,,,2070
+Luce,United States Senator,,Valerie L.†Willis,UST,,,23
+Luce,United States Senator,,Marcia†Squier,GRN,,,16
+Luce,United States Senator,,Doug†Dern,NLP,,,11
+Luce,United States Senator,,,WRITE-IN,,,1
+Luce,Representative: in Congress 1st District,1,Dana Ferguson,DEM,,,739
+Luce,Representative: in Congress 1st District,1,Jack Bergman,REP,,,2181
+Luce,Representative: in Congress 1st District,1,Ben Boren,LIB,,,43
+Luce,Representative: in Congress 1st District,1,,WRITE-IN,,,1
+Luce,"State Representative, 109th District",109,Sara Cambensy,DEM,,,834
+Luce,"State Representative, 109th District",109,Melody Wagner,REP,,,2008
+Luce,"State Representative, 109th District",109,Jim Hafeman,UST,,,57
+Luce,"State Representative, 109th District",109,,WRITE-IN,,,7

@@ -1,0 +1,691 @@
+county,precinct,office,district,candidate,party,votes
+Wexford,"City of Cadillac, Precinct 1",Ballots Cast,,,,1623
+Wexford,"City of Cadillac, Precinct 2",Ballots Cast,,,,1578
+Wexford,"City of Cadillac, Precinct 3",Ballots Cast,,,,1671
+Wexford,"City of Manton, Precinct 1",Ballots Cast,,,,567
+Wexford,"Antioch Township, Precinct 1",Ballots Cast,,,,515
+Wexford,"Boon Township, Precinct 1",Ballots Cast,,,,399
+Wexford,"Cedar Creek Township, Precinct 1",Ballots Cast,,,,942
+Wexford,"Cherry Grove Township, Precinct 1",Ballots Cast,,,,1684
+Wexford,"Clam Lake Township, Precinct 1",Ballots Cast,,,,1577
+Wexford,"Colfax Township, Precinct 1",Ballots Cast,,,,519
+Wexford,"Greenwood Township, Precinct 1",Ballots Cast,,,,355
+Wexford,"Hanover Township, Precinct 1",Ballots Cast,,,,919
+Wexford,"Haring Township, Precinct 1",Ballots Cast,,,,1958
+Wexford,"Henderson Township, Precinct 1",Ballots Cast,,,,128
+Wexford,"Liberty Township, Precinct 1",Ballots Cast,,,,483
+Wexford,"Selma Township, Precinct 1",Ballots Cast,,,,1290
+Wexford,"Slagle Township, Precinct 1",Ballots Cast,,,,330
+Wexford,"South Branch Township, Precinct 1",Ballots Cast,,,,256
+Wexford,"Springville Township, Precinct 1",Ballots Cast,,,,892
+Wexford,"Wexford Township, Precinct 1",Ballots Cast,,,,668
+Wexford,Fife Lake Township (Grand Traverse County),Ballots Cast,,,,0
+Wexford,Grant Township ( Grand Traverse County),Ballots Cast,,,,0
+Wexford,Green Lake Township (Grand Traverse County),Ballots Cast,,,,0
+Wexford,Mayfield Township (Grand Traverse County),Ballots Cast,,,,0
+Wexford,Newkirk Township (Lake County),Ballots Cast,,,,0
+Wexford,Cleon Township (Manistee County),Ballots Cast,,,,0
+Wexford,Marilla Township (Manistee County),Ballots Cast,,,,0
+Wexford,Bloomfield Township (Missaukee County),Ballots Cast,,,,0
+Wexford,Caldwell Township (Missaukee County),Ballots Cast,,,,0
+Wexford,Sherman Township (Osceola County),Ballots Cast,,,,0
+Wexford,"City of Cadillac, Precinct 1",President,,Joseph R. Biden,DEM,600
+Wexford,"City of Cadillac, Precinct 1",President,,Donald J. Trump,REP,973
+Wexford,"City of Cadillac, Precinct 1",President,,Jo Jorgensen,LIB,30
+Wexford,"City of Cadillac, Precinct 1",President,,Don Blankenship,UST,1
+Wexford,"City of Cadillac, Precinct 1",President,,Howie Hawkins,GRN,7
+Wexford,"City of Cadillac, Precinct 1",President,,Rocky De La Fuente,NAT,2
+Wexford,"City of Cadillac, Precinct 1",President,,Write-Ins,,3
+Wexford,"City of Cadillac, Precinct 2",President,,Joseph R. Biden,DEM,652
+Wexford,"City of Cadillac, Precinct 2",President,,Donald J. Trump,REP,881
+Wexford,"City of Cadillac, Precinct 2",President,,Jo Jorgensen,LIB,33
+Wexford,"City of Cadillac, Precinct 2",President,,Don Blankenship,UST,4
+Wexford,"City of Cadillac, Precinct 2",President,,Howie Hawkins,GRN,3
+Wexford,"City of Cadillac, Precinct 2",President,,Rocky De La Fuente,NAT,0
+Wexford,"City of Cadillac, Precinct 2",President,,Write-Ins,,1
+Wexford,"City of Cadillac, Precinct 3",President,,Joseph R. Biden,DEM,659
+Wexford,"City of Cadillac, Precinct 3",President,,Donald J. Trump,REP,958
+Wexford,"City of Cadillac, Precinct 3",President,,Jo Jorgensen,LIB,29
+Wexford,"City of Cadillac, Precinct 3",President,,Don Blankenship,UST,3
+Wexford,"City of Cadillac, Precinct 3",President,,Howie Hawkins,GRN,6
+Wexford,"City of Cadillac, Precinct 3",President,,Rocky De La Fuente,NAT,0
+Wexford,"City of Cadillac, Precinct 3",President,,Write-Ins,,3
+Wexford,"City of Manton, Precinct 1",President,,Joseph R. Biden,DEM,162
+Wexford,"City of Manton, Precinct 1",President,,Donald J. Trump,REP,392
+Wexford,"City of Manton, Precinct 1",President,,Jo Jorgensen,LIB,11
+Wexford,"City of Manton, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"City of Manton, Precinct 1",President,,Howie Hawkins,GRN,1
+Wexford,"City of Manton, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"City of Manton, Precinct 1",President,,Write-Ins,,1
+Wexford,"Antioch Township, Precinct 1",President,,Joseph R. Biden,DEM,149
+Wexford,"Antioch Township, Precinct 1",President,,Donald J. Trump,REP,347
+Wexford,"Antioch Township, Precinct 1",President,,Jo Jorgensen,LIB,12
+Wexford,"Antioch Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Antioch Township, Precinct 1",President,,Howie Hawkins,GRN,5
+Wexford,"Antioch Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Antioch Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Boon Township, Precinct 1",President,,Joseph R. Biden,DEM,122
+Wexford,"Boon Township, Precinct 1",President,,Donald J. Trump,REP,266
+Wexford,"Boon Township, Precinct 1",President,,Jo Jorgensen,LIB,8
+Wexford,"Boon Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Boon Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Wexford,"Boon Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Boon Township, Precinct 1",President,,Write-Ins,,0
+Wexford,"Cedar Creek Township, Precinct 1",President,,Joseph R. Biden,DEM,236
+Wexford,"Cedar Creek Township, Precinct 1",President,,Donald J. Trump,REP,683
+Wexford,"Cedar Creek Township, Precinct 1",President,,Jo Jorgensen,LIB,13
+Wexford,"Cedar Creek Township, Precinct 1",President,,Don Blankenship,UST,3
+Wexford,"Cedar Creek Township, Precinct 1",President,,Howie Hawkins,GRN,4
+Wexford,"Cedar Creek Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Cedar Creek Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Cherry Grove Township, Precinct 1",President,,Joseph R. Biden,DEM,584
+Wexford,"Cherry Grove Township, Precinct 1",President,,Donald J. Trump,REP,1079
+Wexford,"Cherry Grove Township, Precinct 1",President,,Jo Jorgensen,LIB,14
+Wexford,"Cherry Grove Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Cherry Grove Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Wexford,"Cherry Grove Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Cherry Grove Township, Precinct 1",President,,Write-Ins,,0
+Wexford,"Clam Lake Township, Precinct 1",President,,Joseph R. Biden,DEM,519
+Wexford,"Clam Lake Township, Precinct 1",President,,Donald J. Trump,REP,1037
+Wexford,"Clam Lake Township, Precinct 1",President,,Jo Jorgensen,LIB,13
+Wexford,"Clam Lake Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Clam Lake Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Wexford,"Clam Lake Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Clam Lake Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Colfax Township, Precinct 1",President,,Joseph R. Biden,DEM,148
+Wexford,"Colfax Township, Precinct 1",President,,Donald J. Trump,REP,359
+Wexford,"Colfax Township, Precinct 1",President,,Jo Jorgensen,LIB,6
+Wexford,"Colfax Township, Precinct 1",President,,Don Blankenship,UST,2
+Wexford,"Colfax Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Wexford,"Colfax Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Colfax Township, Precinct 1",President,,Write-Ins,,2
+Wexford,"Greenwood Township, Precinct 1",President,,Joseph R. Biden,DEM,90
+Wexford,"Greenwood Township, Precinct 1",President,,Donald J. Trump,REP,257
+Wexford,"Greenwood Township, Precinct 1",President,,Jo Jorgensen,LIB,3
+Wexford,"Greenwood Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Greenwood Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Wexford,"Greenwood Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Greenwood Township, Precinct 1",President,,Write-Ins,,2
+Wexford,"Hanover Township, Precinct 1",President,,Joseph R. Biden,DEM,268
+Wexford,"Hanover Township, Precinct 1",President,,Donald J. Trump,REP,637
+Wexford,"Hanover Township, Precinct 1",President,,Jo Jorgensen,LIB,8
+Wexford,"Hanover Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Hanover Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Wexford,"Hanover Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Hanover Township, Precinct 1",President,,Write-Ins,,2
+Wexford,"Haring Township, Precinct 1",President,,Joseph R. Biden,DEM,542
+Wexford,"Haring Township, Precinct 1",President,,Donald J. Trump,REP,1374
+Wexford,"Haring Township, Precinct 1",President,,Jo Jorgensen,LIB,30
+Wexford,"Haring Township, Precinct 1",President,,Don Blankenship,UST,2
+Wexford,"Haring Township, Precinct 1",President,,Howie Hawkins,GRN,3
+Wexford,"Haring Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Haring Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Henderson Township, Precinct 1",President,,Joseph R. Biden,DEM,36
+Wexford,"Henderson Township, Precinct 1",President,,Donald J. Trump,REP,86
+Wexford,"Henderson Township, Precinct 1",President,,Jo Jorgensen,LIB,3
+Wexford,"Henderson Township, Precinct 1",President,,Don Blankenship,UST,1
+Wexford,"Henderson Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Wexford,"Henderson Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Henderson Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Liberty Township, Precinct 1",President,,Joseph R. Biden,DEM,100
+Wexford,"Liberty Township, Precinct 1",President,,Donald J. Trump,REP,372
+Wexford,"Liberty Township, Precinct 1",President,,Jo Jorgensen,LIB,4
+Wexford,"Liberty Township, Precinct 1",President,,Don Blankenship,UST,1
+Wexford,"Liberty Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Wexford,"Liberty Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Liberty Township, Precinct 1",President,,Write-Ins,,4
+Wexford,"Selma Township, Precinct 1",President,,Joseph R. Biden,DEM,386
+Wexford,"Selma Township, Precinct 1",President,,Donald J. Trump,REP,881
+Wexford,"Selma Township, Precinct 1",President,,Jo Jorgensen,LIB,17
+Wexford,"Selma Township, Precinct 1",President,,Don Blankenship,UST,1
+Wexford,"Selma Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Wexford,"Selma Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Selma Township, Precinct 1",President,,Write-Ins,,0
+Wexford,"Slagle Township, Precinct 1",President,,Joseph R. Biden,DEM,106
+Wexford,"Slagle Township, Precinct 1",President,,Donald J. Trump,REP,218
+Wexford,"Slagle Township, Precinct 1",President,,Jo Jorgensen,LIB,4
+Wexford,"Slagle Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Slagle Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Wexford,"Slagle Township, Precinct 1",President,,Rocky De La Fuente,NAT,1
+Wexford,"Slagle Township, Precinct 1",President,,Write-Ins,,0
+Wexford,"South Branch Township, Precinct 1",President,,Joseph R. Biden,DEM,81
+Wexford,"South Branch Township, Precinct 1",President,,Donald J. Trump,REP,171
+Wexford,"South Branch Township, Precinct 1",President,,Jo Jorgensen,LIB,1
+Wexford,"South Branch Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"South Branch Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Wexford,"South Branch Township, Precinct 1",President,,Rocky De La Fuente,NAT,1
+Wexford,"South Branch Township, Precinct 1",President,,Write-Ins,,0
+Wexford,"Springville Township, Precinct 1",President,,Joseph R. Biden,DEM,232
+Wexford,"Springville Township, Precinct 1",President,,Donald J. Trump,REP,641
+Wexford,"Springville Township, Precinct 1",President,,Jo Jorgensen,LIB,14
+Wexford,"Springville Township, Precinct 1",President,,Don Blankenship,UST,0
+Wexford,"Springville Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Wexford,"Springville Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Springville Township, Precinct 1",President,,Write-Ins,,1
+Wexford,"Wexford Township, Precinct 1",President,,Joseph R. Biden,DEM,166
+Wexford,"Wexford Township, Precinct 1",President,,Donald J. Trump,REP,490
+Wexford,"Wexford Township, Precinct 1",President,,Jo Jorgensen,LIB,6
+Wexford,"Wexford Township, Precinct 1",President,,Don Blankenship,UST,2
+Wexford,"Wexford Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Wexford,"Wexford Township, Precinct 1",President,,Rocky De La Fuente,NAT,0
+Wexford,"Wexford Township, Precinct 1",President,,Write-Ins,,3
+Wexford,"City of Cadillac, Precinct 1",Registered Voters,,,,2769
+Wexford,"City of Cadillac, Precinct 2",Registered Voters,,,,2653
+Wexford,"City of Cadillac, Precinct 3",Registered Voters,,,,2575
+Wexford,"City of Manton, Precinct 1",Registered Voters,,,,966
+Wexford,"Antioch Township, Precinct 1",Registered Voters,,,,759
+Wexford,"Boon Township, Precinct 1",Registered Voters,,,,554
+Wexford,"Cedar Creek Township, Precinct 1",Registered Voters,,,,1387
+Wexford,"Cherry Grove Township, Precinct 1",Registered Voters,,,,2162
+Wexford,"Clam Lake Township, Precinct 1",Registered Voters,,,,2139
+Wexford,"Colfax Township, Precinct 1",Registered Voters,,,,696
+Wexford,"Greenwood Township, Precinct 1",Registered Voters,,,,493
+Wexford,"Hanover Township, Precinct 1",Registered Voters,,,,1401
+Wexford,"Haring Township, Precinct 1",Registered Voters,,,,2881
+Wexford,"Henderson Township, Precinct 1",Registered Voters,,,,171
+Wexford,"Liberty Township, Precinct 1",Registered Voters,,,,705
+Wexford,"Selma Township, Precinct 1",Registered Voters,,,,1973
+Wexford,"Slagle Township, Precinct 1",Registered Voters,,,,482
+Wexford,"South Branch Township, Precinct 1",Registered Voters,,,,313
+Wexford,"Springville Township, Precinct 1",Registered Voters,,,,1481
+Wexford,"Wexford Township, Precinct 1",Registered Voters,,,,973
+Wexford,Fife Lake Township (Grand Traverse County),Registered Voters,,,,12
+Wexford,Grant Township ( Grand Traverse County),Registered Voters,,,,619
+Wexford,Green Lake Township (Grand Traverse County),Registered Voters,,,,6
+Wexford,Mayfield Township (Grand Traverse County),Registered Voters,,,,360
+Wexford,Newkirk Township (Lake County),Registered Voters,,,,6
+Wexford,Cleon Township (Manistee County),Registered Voters,,,,256
+Wexford,Marilla Township (Manistee County),Registered Voters,,,,178
+Wexford,Bloomfield Township (Missaukee County),Registered Voters,,,,302
+Wexford,Caldwell Township (Missaukee County),Registered Voters,,,,335
+Wexford,Sherman Township (Osceola County),Registered Voters,,,,33
+Wexford,"City of Cadillac, Precinct 1",State House,102,Amanda Siggins,DEM,561
+Wexford,"City of Cadillac, Precinct 1",State House,102,Michele Hoitenga,REP,1024
+Wexford,"City of Cadillac, Precinct 1",State House,102,Write-Ins,,3
+Wexford,"City of Cadillac, Precinct 2",State House,102,Amanda Siggins,DEM,624
+Wexford,"City of Cadillac, Precinct 2",State House,102,Michele Hoitenga,REP,915
+Wexford,"City of Cadillac, Precinct 2",State House,102,Write-Ins,,5
+Wexford,"City of Cadillac, Precinct 3",State House,102,Amanda Siggins,DEM,587
+Wexford,"City of Cadillac, Precinct 3",State House,102,Michele Hoitenga,REP,1035
+Wexford,"City of Cadillac, Precinct 3",State House,102,Write-Ins,,1
+Wexford,"City of Manton, Precinct 1",State House,102,Amanda Siggins,DEM,143
+Wexford,"City of Manton, Precinct 1",State House,102,Michele Hoitenga,REP,410
+Wexford,"City of Manton, Precinct 1",State House,102,Write-Ins,,1
+Wexford,"Antioch Township, Precinct 1",State House,102,Amanda Siggins,DEM,142
+Wexford,"Antioch Township, Precinct 1",State House,102,Michele Hoitenga,REP,355
+Wexford,"Antioch Township, Precinct 1",State House,102,Write-Ins,,0
+Wexford,"Boon Township, Precinct 1",State House,102,Amanda Siggins,DEM,107
+Wexford,"Boon Township, Precinct 1",State House,102,Michele Hoitenga,REP,276
+Wexford,"Boon Township, Precinct 1",State House,102,Write-Ins,,1
+Wexford,"Cedar Creek Township, Precinct 1",State House,102,Amanda Siggins,DEM,225
+Wexford,"Cedar Creek Township, Precinct 1",State House,102,Michele Hoitenga,REP,695
+Wexford,"Cedar Creek Township, Precinct 1",State House,102,Write-Ins,,3
+Wexford,"Cherry Grove Township, Precinct 1",State House,102,Amanda Siggins,DEM,501
+Wexford,"Cherry Grove Township, Precinct 1",State House,102,Michele Hoitenga,REP,1146
+Wexford,"Cherry Grove Township, Precinct 1",State House,102,Write-Ins,,3
+Wexford,"Clam Lake Township, Precinct 1",State House,102,Amanda Siggins,DEM,442
+Wexford,"Clam Lake Township, Precinct 1",State House,102,Michele Hoitenga,REP,1092
+Wexford,"Clam Lake Township, Precinct 1",State House,102,Write-Ins,,2
+Wexford,"Colfax Township, Precinct 1",State House,102,Amanda Siggins,DEM,133
+Wexford,"Colfax Township, Precinct 1",State House,102,Michele Hoitenga,REP,363
+Wexford,"Colfax Township, Precinct 1",State House,102,Write-Ins,,5
+Wexford,"Greenwood Township, Precinct 1",State House,102,Amanda Siggins,DEM,76
+Wexford,"Greenwood Township, Precinct 1",State House,102,Michele Hoitenga,REP,269
+Wexford,"Greenwood Township, Precinct 1",State House,102,Write-Ins,,0
+Wexford,"Hanover Township, Precinct 1",State House,102,Amanda Siggins,DEM,246
+Wexford,"Hanover Township, Precinct 1",State House,102,Michele Hoitenga,REP,646
+Wexford,"Hanover Township, Precinct 1",State House,102,Write-Ins,,2
+Wexford,"Haring Township, Precinct 1",State House,102,Amanda Siggins,DEM,483
+Wexford,"Haring Township, Precinct 1",State House,102,Michele Hoitenga,REP,1437
+Wexford,"Haring Township, Precinct 1",State House,102,Write-Ins,,3
+Wexford,"Henderson Township, Precinct 1",State House,102,Amanda Siggins,DEM,34
+Wexford,"Henderson Township, Precinct 1",State House,102,Michele Hoitenga,REP,90
+Wexford,"Henderson Township, Precinct 1",State House,102,Write-Ins,,0
+Wexford,"Liberty Township, Precinct 1",State House,102,Amanda Siggins,DEM,85
+Wexford,"Liberty Township, Precinct 1",State House,102,Michele Hoitenga,REP,391
+Wexford,"Liberty Township, Precinct 1",State House,102,Write-Ins,,2
+Wexford,"Selma Township, Precinct 1",State House,102,Amanda Siggins,DEM,349
+Wexford,"Selma Township, Precinct 1",State House,102,Michele Hoitenga,REP,910
+Wexford,"Selma Township, Precinct 1",State House,102,Write-Ins,,2
+Wexford,"Slagle Township, Precinct 1",State House,102,Amanda Siggins,DEM,87
+Wexford,"Slagle Township, Precinct 1",State House,102,Michele Hoitenga,REP,233
+Wexford,"Slagle Township, Precinct 1",State House,102,Write-Ins,,0
+Wexford,"South Branch Township, Precinct 1",State House,102,Amanda Siggins,DEM,73
+Wexford,"South Branch Township, Precinct 1",State House,102,Michele Hoitenga,REP,177
+Wexford,"South Branch Township, Precinct 1",State House,102,Write-Ins,,0
+Wexford,"Springville Township, Precinct 1",State House,102,Amanda Siggins,DEM,216
+Wexford,"Springville Township, Precinct 1",State House,102,Michele Hoitenga,REP,642
+Wexford,"Springville Township, Precinct 1",State House,102,Write-Ins,,1
+Wexford,"Wexford Township, Precinct 1",State House,102,Amanda Siggins,DEM,135
+Wexford,"Wexford Township, Precinct 1",State House,102,Michele Hoitenga,REP,513
+Wexford,"Wexford Township, Precinct 1",State House,102,Write-Ins,,1
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Democratic Party,DEM,282
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Republican Party,REP,641
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Libertarian Party,LIB,6
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,4
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Green Party,GRN,4
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Democratic Party,DEM,335
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Republican Party,REP,540
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Libertarian Party,LIB,12
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,3
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Working Class Party,WCP,7
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Green Party,GRN,2
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,Natural Law Party,NLP,1
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Democratic Party,DEM,294
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Republican Party,REP,571
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Libertarian Party,LIB,8
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,U.S. Taxpayers Party,UST,3
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Working Class Party,WCP,7
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Green Party,GRN,3
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,Natural Law Party,NLP,2
+Wexford,"City of Manton, Precinct 1",Straight Party,,Democratic Party,DEM,82
+Wexford,"City of Manton, Precinct 1",Straight Party,,Republican Party,REP,248
+Wexford,"City of Manton, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Wexford,"City of Manton, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"City of Manton, Precinct 1",Straight Party,,Working Class Party,WCP,0
+Wexford,"City of Manton, Precinct 1",Straight Party,,Green Party,GRN,1
+Wexford,"City of Manton, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Democratic Party,DEM,85
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Republican Party,REP,226
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Libertarian Party,LIB,5
+Wexford,"Antioch Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Wexford,"Antioch Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,Democratic Party,DEM,54
+Wexford,"Boon Township, Precinct 1",Straight Party,,Republican Party,REP,141
+Wexford,"Boon Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Wexford,"Boon Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Wexford,"Boon Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Wexford,"Boon Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Democratic Party,DEM,101
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Republican Party,REP,410
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Green Party,GRN,3
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Democratic Party,DEM,212
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Republican Party,REP,619
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Green Party,GRN,3
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Democratic Party,DEM,191
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Republican Party,REP,590
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Democratic Party,DEM,81
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Republican Party,REP,223
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Wexford,"Colfax Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Colfax Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Democratic Party,DEM,40
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Republican Party,REP,146
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Democratic Party,DEM,136
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Republican Party,REP,389
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Wexford,"Hanover Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Haring Township, Precinct 1",Straight Party,,Democratic Party,DEM,252
+Wexford,"Haring Township, Precinct 1",Straight Party,,Republican Party,REP,945
+Wexford,"Haring Township, Precinct 1",Straight Party,,Libertarian Party,LIB,9
+Wexford,"Haring Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
+Wexford,"Haring Township, Precinct 1",Straight Party,,Working Class Party,WCP,5
+Wexford,"Haring Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Wexford,"Haring Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Democratic Party,DEM,22
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Republican Party,REP,47
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Wexford,"Henderson Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Henderson Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Democratic Party,DEM,38
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Republican Party,REP,235
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Wexford,"Liberty Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Wexford,"Selma Township, Precinct 1",Straight Party,,Democratic Party,DEM,161
+Wexford,"Selma Township, Precinct 1",Straight Party,,Republican Party,REP,511
+Wexford,"Selma Township, Precinct 1",Straight Party,,Libertarian Party,LIB,7
+Wexford,"Selma Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Wexford,"Selma Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
+Wexford,"Selma Township, Precinct 1",Straight Party,,Green Party,GRN,4
+Wexford,"Selma Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Democratic Party,DEM,51
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Republican Party,REP,152
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Wexford,"Slagle Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Slagle Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Democratic Party,DEM,36
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Republican Party,REP,102
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Wexford,"South Branch Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,Democratic Party,DEM,115
+Wexford,"Springville Township, Precinct 1",Straight Party,,Republican Party,REP,416
+Wexford,"Springville Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Wexford,"Springville Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Wexford,"Springville Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Wexford,"Springville Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Wexford,"Springville Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Democratic Party,DEM,75
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Republican Party,REP,326
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Wexford,"Wexford Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Wexford,"Wexford Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Democratic Party,DEM,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Republican Party,REP,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Working Class Party,WCP,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Green Party,GRN,0
+Wexford,Fife Lake Township (Grand Traverse County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Democratic Party,DEM,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Republican Party,REP,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Working Class Party,WCP,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Green Party,GRN,0
+Wexford,Grant Township ( Grand Traverse County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Democratic Party,DEM,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Republican Party,REP,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Working Class Party,WCP,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Green Party,GRN,0
+Wexford,Green Lake Township (Grand Traverse County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Democratic Party,DEM,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Republican Party,REP,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Working Class Party,WCP,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Green Party,GRN,0
+Wexford,Mayfield Township (Grand Traverse County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Democratic Party,DEM,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Republican Party,REP,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Newkirk Township (Lake County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Working Class Party,WCP,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Green Party,GRN,0
+Wexford,Newkirk Township (Lake County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Democratic Party,DEM,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Republican Party,REP,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Cleon Township (Manistee County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Working Class Party,WCP,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Green Party,GRN,0
+Wexford,Cleon Township (Manistee County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Democratic Party,DEM,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Republican Party,REP,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Marilla Township (Manistee County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Working Class Party,WCP,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Green Party,GRN,0
+Wexford,Marilla Township (Manistee County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Democratic Party,DEM,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Republican Party,REP,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Working Class Party,WCP,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Green Party,GRN,0
+Wexford,Bloomfield Township (Missaukee County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Democratic Party,DEM,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Republican Party,REP,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Working Class Party,WCP,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Green Party,GRN,0
+Wexford,Caldwell Township (Missaukee County),Straight Party,,Natural Law Party,NLP,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Democratic Party,DEM,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Republican Party,REP,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Libertarian Party,LIB,0
+Wexford,Sherman Township (Osceola County),Straight Party,,U.S. Taxpayers Party,UST,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Working Class Party,WCP,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Green Party,GRN,0
+Wexford,Sherman Township (Osceola County),Straight Party,,Natural Law Party,NLP,0
+Wexford,"City of Cadillac, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,523
+Wexford,"City of Cadillac, Precinct 1",U.S. House,4,John Moolenaar,REP,999
+Wexford,"City of Cadillac, Precinct 1",U.S. House,4,David Canny,LIB,29
+Wexford,"City of Cadillac, Precinct 1",U.S. House,4,Amy Slepr,GRN,23
+Wexford,"City of Cadillac, Precinct 1",U.S. House,4,Write-Ins,,3
+Wexford,"City of Cadillac, Precinct 2",U.S. House,4,Jerry Hilliard,DEM,573
+Wexford,"City of Cadillac, Precinct 2",U.S. House,4,John Moolenaar,REP,906
+Wexford,"City of Cadillac, Precinct 2",U.S. House,4,David Canny,LIB,38
+Wexford,"City of Cadillac, Precinct 2",U.S. House,4,Amy Slepr,GRN,26
+Wexford,"City of Cadillac, Precinct 2",U.S. House,4,Write-Ins,,2
+Wexford,"City of Cadillac, Precinct 3",U.S. House,4,Jerry Hilliard,DEM,546
+Wexford,"City of Cadillac, Precinct 3",U.S. House,4,John Moolenaar,REP,1026
+Wexford,"City of Cadillac, Precinct 3",U.S. House,4,David Canny,LIB,29
+Wexford,"City of Cadillac, Precinct 3",U.S. House,4,Amy Slepr,GRN,26
+Wexford,"City of Cadillac, Precinct 3",U.S. House,4,Write-Ins,,2
+Wexford,"City of Manton, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,143
+Wexford,"City of Manton, Precinct 1",U.S. House,4,John Moolenaar,REP,389
+Wexford,"City of Manton, Precinct 1",U.S. House,4,David Canny,LIB,11
+Wexford,"City of Manton, Precinct 1",U.S. House,4,Amy Slepr,GRN,7
+Wexford,"City of Manton, Precinct 1",U.S. House,4,Write-Ins,,0
+Wexford,"Antioch Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,133
+Wexford,"Antioch Township, Precinct 1",U.S. House,4,John Moolenaar,REP,341
+Wexford,"Antioch Township, Precinct 1",U.S. House,4,David Canny,LIB,15
+Wexford,"Antioch Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,9
+Wexford,"Antioch Township, Precinct 1",U.S. House,4,Write-Ins,,0
+Wexford,"Boon Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,101
+Wexford,"Boon Township, Precinct 1",U.S. House,4,John Moolenaar,REP,265
+Wexford,"Boon Township, Precinct 1",U.S. House,4,David Canny,LIB,8
+Wexford,"Boon Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,8
+Wexford,"Boon Township, Precinct 1",U.S. House,4,Write-Ins,,1
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,212
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,4,John Moolenaar,REP,671
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,4,David Canny,LIB,19
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,7
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,4,Write-Ins,,3
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,474
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,4,John Moolenaar,REP,1135
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,4,David Canny,LIB,19
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,12
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,4,Write-Ins,,2
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,434
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,4,John Moolenaar,REP,1075
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,4,David Canny,LIB,6
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,19
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,4,Write-Ins,,2
+Wexford,"Colfax Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,116
+Wexford,"Colfax Township, Precinct 1",U.S. House,4,John Moolenaar,REP,360
+Wexford,"Colfax Township, Precinct 1",U.S. House,4,David Canny,LIB,4
+Wexford,"Colfax Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,11
+Wexford,"Colfax Township, Precinct 1",U.S. House,4,Write-Ins,,4
+Wexford,"Greenwood Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,78
+Wexford,"Greenwood Township, Precinct 1",U.S. House,4,John Moolenaar,REP,258
+Wexford,"Greenwood Township, Precinct 1",U.S. House,4,David Canny,LIB,6
+Wexford,"Greenwood Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,1
+Wexford,"Greenwood Township, Precinct 1",U.S. House,4,Write-Ins,,0
+Wexford,"Hanover Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,239
+Wexford,"Hanover Township, Precinct 1",U.S. House,4,John Moolenaar,REP,624
+Wexford,"Hanover Township, Precinct 1",U.S. House,4,David Canny,LIB,15
+Wexford,"Hanover Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,14
+Wexford,"Hanover Township, Precinct 1",U.S. House,4,Write-Ins,,1
+Wexford,"Haring Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,458
+Wexford,"Haring Township, Precinct 1",U.S. House,4,John Moolenaar,REP,1415
+Wexford,"Haring Township, Precinct 1",U.S. House,4,David Canny,LIB,31
+Wexford,"Haring Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,21
+Wexford,"Haring Township, Precinct 1",U.S. House,4,Write-Ins,,2
+Wexford,"Henderson Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,32
+Wexford,"Henderson Township, Precinct 1",U.S. House,4,John Moolenaar,REP,85
+Wexford,"Henderson Township, Precinct 1",U.S. House,4,David Canny,LIB,3
+Wexford,"Henderson Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,3
+Wexford,"Henderson Township, Precinct 1",U.S. House,4,Write-Ins,,0
+Wexford,"Liberty Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,83
+Wexford,"Liberty Township, Precinct 1",U.S. House,4,John Moolenaar,REP,381
+Wexford,"Liberty Township, Precinct 1",U.S. House,4,David Canny,LIB,9
+Wexford,"Liberty Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,4
+Wexford,"Liberty Township, Precinct 1",U.S. House,4,Write-Ins,,1
+Wexford,"Selma Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,326
+Wexford,"Selma Township, Precinct 1",U.S. House,4,John Moolenaar,REP,901
+Wexford,"Selma Township, Precinct 1",U.S. House,4,David Canny,LIB,15
+Wexford,"Selma Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,14
+Wexford,"Selma Township, Precinct 1",U.S. House,4,Write-Ins,,5
+Wexford,"Slagle Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,83
+Wexford,"Slagle Township, Precinct 1",U.S. House,4,John Moolenaar,REP,230
+Wexford,"Slagle Township, Precinct 1",U.S. House,4,David Canny,LIB,6
+Wexford,"Slagle Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,3
+Wexford,"Slagle Township, Precinct 1",U.S. House,4,Write-Ins,,1
+Wexford,"South Branch Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,75
+Wexford,"South Branch Township, Precinct 1",U.S. House,4,John Moolenaar,REP,166
+Wexford,"South Branch Township, Precinct 1",U.S. House,4,David Canny,LIB,4
+Wexford,"South Branch Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,1
+Wexford,"South Branch Township, Precinct 1",U.S. House,4,Write-Ins,,2
+Wexford,"Springville Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,206
+Wexford,"Springville Township, Precinct 1",U.S. House,4,John Moolenaar,REP,615
+Wexford,"Springville Township, Precinct 1",U.S. House,4,David Canny,LIB,21
+Wexford,"Springville Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,15
+Wexford,"Springville Township, Precinct 1",U.S. House,4,Write-Ins,,0
+Wexford,"Wexford Township, Precinct 1",U.S. House,4,Jerry Hilliard,DEM,138
+Wexford,"Wexford Township, Precinct 1",U.S. House,4,John Moolenaar,REP,492
+Wexford,"Wexford Township, Precinct 1",U.S. House,4,David Canny,LIB,7
+Wexford,"Wexford Township, Precinct 1",U.S. House,4,Amy Slepr,GRN,11
+Wexford,"Wexford Township, Precinct 1",U.S. House,4,Write-Ins,,2
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,Gary Peters,DEM,589
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,John James,REP,974
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,19
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,Marcia Squier,GRN,11
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,Doug Dern,NAT,4
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,Write-Ins,,1
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,Gary Peters,DEM,657
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,John James,REP,871
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,Valerie L. Willis,UST,17
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,Marcia Squier,GRN,12
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,Doug Dern,NAT,6
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,Write-Ins,,2
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,Gary Peters,DEM,636
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,John James,REP,988
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,Valerie L. Willis,UST,8
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,Marcia Squier,GRN,19
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,Write-Ins,,2
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,Gary Peters,DEM,160
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,John James,REP,382
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,7
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,Write-Ins,,1
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,156
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,John James,REP,335
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,6
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,5
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,4
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,126
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,John James,REP,257
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,5
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,2
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,244
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,John James,REP,658
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,18
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,5
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,2
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,Write-Ins,,2
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,552
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,John James,REP,1101
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,10
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,489
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,John James,REP,1055
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,8
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,2
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,140
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,John James,REP,355
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,5
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,5
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,3
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,Write-Ins,,2
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,89
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,John James,REP,257
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,2
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,0
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,251
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,John James,REP,637
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,7
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,10
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,518
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,John James,REP,1408
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,7
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,9
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,35
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,John James,REP,87
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,2
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,0
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,97
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,John James,REP,378
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,2
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,371
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,John James,REP,881
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,11
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,101
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,John James,REP,220
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,3
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,0
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,Write-Ins,,1
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,81
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,John James,REP,173
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,0
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,0
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,1
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,229
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,John James,REP,620
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,9
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,7
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,4
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,Write-Ins,,0
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,163
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,John James,REP,485
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,3
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,Doug Dern,NAT,5
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,Write-Ins,,0

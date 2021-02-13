@@ -16,7 +16,7 @@ Osceola,"Rose Lake Township, Precinct 1",Ballots Cast,"","","",794
 Osceola,"Sherman Township, Precinct 1",Ballots Cast,"","","",589
 Osceola,"Sylvan Township, Precinct 1",Ballots Cast,"","","",498
 Osceola,"City of Evart, Precinct 1",Ballots Cast,"","","",682
-Osceola,"City of Reed, Precinct 1",Ballots Cast,"","","",1118
+Osceola,"City of Reed City, Precinct 1",Ballots Cast,"","","",1118
 Osceola,Out of County Precincts,Ballots Cast,"","","",1760
 Osceola,"Burdell Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,193
 Osceola,"Burdell Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,572
@@ -137,13 +137,13 @@ Osceola,"City of Evart, Precinct 1",President,"",Don Blankenship & William Mohr,
 Osceola,"City of Evart, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,2
 Osceola,"City of Evart, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
 Osceola,"City of Evart, Precinct 1",President,"",Write-Ins,"",2
-Osceola,"City of Reed, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,367
-Osceola,"City of Reed, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,715
-Osceola,"City of Reed, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,22
-Osceola,"City of Reed, Precinct 1",President,"",Don Blankenship & William Mohr,UST,2
-Osceola,"City of Reed, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
-Osceola,"City of Reed, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
-Osceola,"City of Reed, Precinct 1",President,"",Write-Ins,"",0
+Osceola,"City of Reed City, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,367
+Osceola,"City of Reed City, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,715
+Osceola,"City of Reed City, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,22
+Osceola,"City of Reed City, Precinct 1",President,"",Don Blankenship & William Mohr,UST,2
+Osceola,"City of Reed City, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Osceola,"City of Reed City, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Osceola,"City of Reed City, Precinct 1",President,"",Write-Ins,"",0
 Osceola,"Burdell Township, Precinct 1",Registered Voters,"","","",1056
 Osceola,"Cedar Township, Precinct 1",Registered Voters,"","","",428
 Osceola,"Evart Township, Precinct 1",Registered Voters,"","","",1165
@@ -161,7 +161,7 @@ Osceola,"Rose Lake Township, Precinct 1",Registered Voters,"","","",1199
 Osceola,"Sherman Township, Precinct 1",Registered Voters,"","","",755
 Osceola,"Sylvan Township, Precinct 1",Registered Voters,"","","",786
 Osceola,"City of Evart, Precinct 1",Registered Voters,"","","",1267
-Osceola,"City of Reed, Precinct 1",Registered Voters,"","","",1958
+Osceola,"City of Reed City, Precinct 1",Registered Voters,"","","",1958
 Osceola,Out of County Precincts,Registered Voters,"","","",0
 Osceola,"Burdell Township, Precinct 1",State House,102,Amanda Siggins,DEM,166
 Osceola,"Burdell Township, Precinct 1",State House,102,Michele Hoitenga,REP,597
@@ -184,9 +184,9 @@ Osceola,"Richmond Township, Precinct 1",State House,102,Write-Ins,"",1
 Osceola,"Rose Lake Township, Precinct 1",State House,102,Amanda Siggins,DEM,163
 Osceola,"Rose Lake Township, Precinct 1",State House,102,Michele Hoitenga,REP,594
 Osceola,"Rose Lake Township, Precinct 1",State House,102,Write-Ins,"",7
-Osceola,"City of Reed, Precinct 1",State House,102,Amanda Siggins,DEM,325
-Osceola,"City of Reed, Precinct 1",State House,102,Michele Hoitenga,REP,751
-Osceola,"City of Reed, Precinct 1",State House,102,Write-Ins,"",3
+Osceola,"City of Reed City, Precinct 1",State House,102,Amanda Siggins,DEM,325
+Osceola,"City of Reed City, Precinct 1",State House,102,Michele Hoitenga,REP,751
+Osceola,"City of Reed City, Precinct 1",State House,102,Write-Ins,"",3
 Osceola,"Evart Township, Precinct 1",State House,97,Celia Young- Wenkel,DEM,201
 Osceola,"Evart Township, Precinct 1",State House,97,Jason Wentworth,REP,524
 Osceola,"Evart Township, Precinct 1",State House,97,Write-Ins,"",0
@@ -336,13 +336,13 @@ Osceola,"City of Evart, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
 Osceola,"City of Evart, Precinct 1",Straight Party,"",Working Class Party,WCP,3
 Osceola,"City of Evart, Precinct 1",Straight Party,"",Green Party,GRN,2
 Osceola,"City of Evart, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Democratic Party,DEM,184
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Republican Party,REP,474
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Libertarian Party,LIB,6
-Osceola,"City of Reed, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,2
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Working Class Party,WCP,4
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Green Party,GRN,0
-Osceola,"City of Reed, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Democratic Party,DEM,184
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Republican Party,REP,474
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Libertarian Party,LIB,6
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,2
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Working Class Party,WCP,4
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Green Party,GRN,0
+Osceola,"City of Reed City, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
 Osceola,Out of County Precincts,Straight Party,"",Democratic Party,DEM,0
 Osceola,Out of County Precincts,Straight Party,"",Republican Party,REP,0
 Osceola,Out of County Precincts,Straight Party,"",Libertarian Party,LIB,0
@@ -435,11 +435,11 @@ Osceola,"City of Evart, Precinct 1",U.S. House,04,John Moolenaar,REP,447
 Osceola,"City of Evart, Precinct 1",U.S. House,04,David Canny,LIB,18
 Osceola,"City of Evart, Precinct 1",U.S. House,04,Amy Slepr,GRN,11
 Osceola,"City of Evart, Precinct 1",U.S. House,04,Write-Ins,"",2
-Osceola,"City of Reed, Precinct 1",U.S. House,04,Jerry Hilliard,DEM,307
-Osceola,"City of Reed, Precinct 1",U.S. House,04,John Moolenaar,REP,748
-Osceola,"City of Reed, Precinct 1",U.S. House,04,David Canny,LIB,24
-Osceola,"City of Reed, Precinct 1",U.S. House,04,Amy Slepr,GRN,12
-Osceola,"City of Reed, Precinct 1",U.S. House,04,Write-Ins,"",0
+Osceola,"City of Reed City, Precinct 1",U.S. House,04,Jerry Hilliard,DEM,307
+Osceola,"City of Reed City, Precinct 1",U.S. House,04,John Moolenaar,REP,748
+Osceola,"City of Reed City, Precinct 1",U.S. House,04,David Canny,LIB,24
+Osceola,"City of Reed City, Precinct 1",U.S. House,04,Amy Slepr,GRN,12
+Osceola,"City of Reed City, Precinct 1",U.S. House,04,Write-Ins,"",0
 Osceola,"Burdell Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,204
 Osceola,"Burdell Township, Precinct 1",U.S. Senate,"",John James,REP,556
 Osceola,"Burdell Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,11
@@ -542,9 +542,9 @@ Osceola,"City of Evart, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,8
 Osceola,"City of Evart, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,9
 Osceola,"City of Evart, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
 Osceola,"City of Evart, Precinct 1",U.S. Senate,"",Write-Ins,"",1
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",Gary Peters,DEM,357
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",John James,REP,721
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,10
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",Doug Dern,NLP,6
-Osceola,"City of Reed, Precinct 1",U.S. Senate,"",Write-Ins,"",2
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",Gary Peters,DEM,357
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",John James,REP,721
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,10
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",Doug Dern,NLP,6
+Osceola,"City of Reed City, Precinct 1",U.S. Senate,"",Write-Ins,"",2

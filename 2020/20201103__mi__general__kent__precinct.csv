@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes,election_day,absentee
+county,precinct,office,district,party,candidate,votes,election_day,absentee
 Kent,"Ada Township, Precinct 1",Registered Voters,,,,1316,,
 Kent,"Ada Township, Precinct 2",Registered Voters,,,,2428,,
 Kent,"Ada Township, Precinct 3",Registered Voters,,,,1397,,

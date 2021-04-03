@@ -1,0 +1,962 @@
+county,precinct,office,district,candidate,party,votes
+Newaygo,"City of Fremont, Precinct 1",Ballots Cast,"","","",1326
+Newaygo,"City of Fremont, Precinct 2",Ballots Cast,"","","",1195
+Newaygo,"City of Grant, Precinct 1",Ballots Cast,"","","",406
+Newaygo,"City of Newaygo, Precinct 1",Ballots Cast,"","","",1045
+Newaygo,"City of White Cloud, Precinct 1",Ballots Cast,"","","",492
+Newaygo,"Ashland Township, Precinct 1",Ballots Cast,"","","",1440
+Newaygo,"Barton Township, Precinct 1",Ballots Cast,"","","",437
+Newaygo,"Beaver Township, Precinct 1",Ballots Cast,"","","",247
+Newaygo,"Big Prairie Township, Precinct 1",Ballots Cast,"","","",1212
+Newaygo,"Bridgeton Township, Precinct 1",Ballots Cast,"","","",1186
+Newaygo,"Brooks Township, Precinct 1",Ballots Cast,"","","",803
+Newaygo,"Brooks Township, Precinct 2",Ballots Cast,"","","",1446
+Newaygo,"Croton Township, Precinct 1",Ballots Cast,"","","",965
+Newaygo,"Croton Township, Precinct 2",Ballots Cast,"","","",1124
+Newaygo,"Dayton Township, Precinct 1",Ballots Cast,"","","",1222
+Newaygo,"Denver Township, Precinct 1",Ballots Cast,"","","",1007
+Newaygo,"Ensley Township, Precinct 1",Ballots Cast,"","","",1563
+Newaygo,"Everett Township, Precinct 1",Ballots Cast,"","","",1043
+Newaygo,"Garfield Township, Precinct 1",Ballots Cast,"","","",1386
+Newaygo,"Goodwell Township, Precinct 1",Ballots Cast,"","","",339
+Newaygo,"Grant Township, Precinct 1",Ballots Cast,"","","",1753
+Newaygo,"Home Township, Precinct 1",Ballots Cast,"","","",154
+Newaygo,"Lilley Township, Precinct 1",Ballots Cast,"","","",458
+Newaygo,"Lincoln Township, Precinct 1",Ballots Cast,"","","",758
+Newaygo,"Merrill Township, Precinct 1",Ballots Cast,"","","",397
+Newaygo,"Monroe Township, Precinct 1",Ballots Cast,"","","",198
+Newaygo,"Norwich Township, Precinct 1",Ballots Cast,"","","",362
+Newaygo,"Sheridan Charter Township, Precinct 1",Ballots Cast,"","","",1426
+Newaygo,"Sherman Township, Precinct 1",Ballots Cast,"","","",1208
+Newaygo,"Troy Township, Precinct 1",Ballots Cast,"","","",132
+Newaygo,"Wilcox Township, Precinct 1",Ballots Cast,"","","",585
+Newaygo,"City of Fremont, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,487
+Newaygo,"City of Fremont, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,806
+Newaygo,"City of Fremont, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,9
+Newaygo,"City of Fremont, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"City of Fremont, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,8
+Newaygo,"City of Fremont, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"City of Fremont, Precinct 1",President,"",Write-Ins,"",5
+Newaygo,"City of Fremont, Precinct 2",President,"",Joseph R. Biden & Kamala D. Harris,DEM,419
+Newaygo,"City of Fremont, Precinct 2",President,"",Donald J. Trump & Michael R. Pence,REP,748
+Newaygo,"City of Fremont, Precinct 2",President,"",Jo Jorgensen & Jeremy Cohen,LIB,17
+Newaygo,"City of Fremont, Precinct 2",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"City of Fremont, Precinct 2",President,"",Howie Hawkins & Angela Walker,GRN,2
+Newaygo,"City of Fremont, Precinct 2",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"City of Fremont, Precinct 2",President,"",Write-Ins,"",2
+Newaygo,"City of Grant, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,121
+Newaygo,"City of Grant, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,270
+Newaygo,"City of Grant, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,8
+Newaygo,"City of Grant, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"City of Grant, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Newaygo,"City of Grant, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"City of Grant, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"City of Newaygo, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,329
+Newaygo,"City of Newaygo, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,678
+Newaygo,"City of Newaygo, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,23
+Newaygo,"City of Newaygo, Precinct 1",President,"",Don Blankenship & William Mohr,UST,3
+Newaygo,"City of Newaygo, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,4
+Newaygo,"City of Newaygo, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"City of Newaygo, Precinct 1",President,"",Write-Ins,"",2
+Newaygo,"City of White Cloud, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,148
+Newaygo,"City of White Cloud, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,332
+Newaygo,"City of White Cloud, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,7
+Newaygo,"City of White Cloud, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"City of White Cloud, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"City of White Cloud, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,1
+Newaygo,"City of White Cloud, Precinct 1",President,"",Write-Ins,"",2
+Newaygo,"Ashland Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,374
+Newaygo,"Ashland Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,1042
+Newaygo,"Ashland Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,17
+Newaygo,"Ashland Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Ashland Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Ashland Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Ashland Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Barton Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,100
+Newaygo,"Barton Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,327
+Newaygo,"Barton Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,7
+Newaygo,"Barton Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Barton Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Barton Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Barton Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Beaver Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,64
+Newaygo,"Beaver Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,179
+Newaygo,"Beaver Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,1
+Newaygo,"Beaver Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Beaver Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,2
+Newaygo,"Beaver Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Beaver Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,356
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,825
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,18
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,8
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Big Prairie Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,329
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,826
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,16
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,5
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Bridgeton Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Brooks Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,229
+Newaygo,"Brooks Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,561
+Newaygo,"Brooks Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,9
+Newaygo,"Brooks Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Brooks Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Brooks Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,2
+Newaygo,"Brooks Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Brooks Township, Precinct 2",President,"",Joseph R. Biden & Kamala D. Harris,DEM,436
+Newaygo,"Brooks Township, Precinct 2",President,"",Donald J. Trump & Michael R. Pence,REP,988
+Newaygo,"Brooks Township, Precinct 2",President,"",Jo Jorgensen & Jeremy Cohen,LIB,11
+Newaygo,"Brooks Township, Precinct 2",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Brooks Township, Precinct 2",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Brooks Township, Precinct 2",President,"",Rocky De La Fuente & Darcy Richardson,NLP,1
+Newaygo,"Brooks Township, Precinct 2",President,"",Write-Ins,"",2
+Newaygo,"Croton Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,270
+Newaygo,"Croton Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,681
+Newaygo,"Croton Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,11
+Newaygo,"Croton Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Croton Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Croton Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Croton Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Croton Township, Precinct 2",President,"",Joseph R. Biden & Kamala D. Harris,DEM,368
+Newaygo,"Croton Township, Precinct 2",President,"",Donald J. Trump & Michael R. Pence,REP,727
+Newaygo,"Croton Township, Precinct 2",President,"",Jo Jorgensen & Jeremy Cohen,LIB,18
+Newaygo,"Croton Township, Precinct 2",President,"",Don Blankenship & William Mohr,UST,2
+Newaygo,"Croton Township, Precinct 2",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Croton Township, Precinct 2",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Croton Township, Precinct 2",President,"",Write-Ins,"",3
+Newaygo,"Dayton Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,354
+Newaygo,"Dayton Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,847
+Newaygo,"Dayton Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,11
+Newaygo,"Dayton Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Dayton Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Dayton Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Dayton Township, Precinct 1",President,"",Write-Ins,"",4
+Newaygo,"Denver Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,325
+Newaygo,"Denver Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,669
+Newaygo,"Denver Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,8
+Newaygo,"Denver Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Denver Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,2
+Newaygo,"Denver Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Denver Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Ensley Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,347
+Newaygo,"Ensley Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,1185
+Newaygo,"Ensley Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,18
+Newaygo,"Ensley Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Ensley Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,4
+Newaygo,"Ensley Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,1
+Newaygo,"Ensley Township, Precinct 1",President,"",Write-Ins,"",2
+Newaygo,"Everett Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,281
+Newaygo,"Everett Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,738
+Newaygo,"Everett Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,14
+Newaygo,"Everett Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,3
+Newaygo,"Everett Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Newaygo,"Everett Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Everett Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Garfield Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,410
+Newaygo,"Garfield Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,952
+Newaygo,"Garfield Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,16
+Newaygo,"Garfield Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Garfield Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Garfield Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Garfield Township, Precinct 1",President,"",Write-Ins,"",2
+Newaygo,"Goodwell Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,87
+Newaygo,"Goodwell Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,240
+Newaygo,"Goodwell Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,9
+Newaygo,"Goodwell Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Goodwell Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Goodwell Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Goodwell Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Grant Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,388
+Newaygo,"Grant Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,1332
+Newaygo,"Grant Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,19
+Newaygo,"Grant Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Grant Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Grant Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Grant Township, Precinct 1",President,"",Write-Ins,"",3
+Newaygo,"Home Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,35
+Newaygo,"Home Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,115
+Newaygo,"Home Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,2
+Newaygo,"Home Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Home Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Home Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Home Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Lilley Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,143
+Newaygo,"Lilley Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,308
+Newaygo,"Lilley Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,5
+Newaygo,"Lilley Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Lilley Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Lilley Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,1
+Newaygo,"Lilley Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Lincoln Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,232
+Newaygo,"Lincoln Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,506
+Newaygo,"Lincoln Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,10
+Newaygo,"Lincoln Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Lincoln Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,2
+Newaygo,"Lincoln Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Lincoln Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Merrill Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,168
+Newaygo,"Merrill Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,222
+Newaygo,"Merrill Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,3
+Newaygo,"Merrill Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Merrill Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Merrill Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,1
+Newaygo,"Merrill Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Monroe Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,40
+Newaygo,"Monroe Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,152
+Newaygo,"Monroe Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,1
+Newaygo,"Monroe Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Monroe Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,2
+Newaygo,"Monroe Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,2
+Newaygo,"Monroe Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Norwich Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,102
+Newaygo,"Norwich Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,255
+Newaygo,"Norwich Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,2
+Newaygo,"Norwich Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Norwich Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Norwich Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Norwich Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,412
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,987
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,13
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,2
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,"",Write-Ins,"",4
+Newaygo,"Sherman Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,338
+Newaygo,"Sherman Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,840
+Newaygo,"Sherman Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,18
+Newaygo,"Sherman Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Sherman Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,3
+Newaygo,"Sherman Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,2
+Newaygo,"Sherman Township, Precinct 1",President,"",Write-Ins,"",1
+Newaygo,"Troy Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,28
+Newaygo,"Troy Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,102
+Newaygo,"Troy Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,0
+Newaygo,"Troy Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,1
+Newaygo,"Troy Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,0
+Newaygo,"Troy Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Troy Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"Wilcox Township, Precinct 1",President,"",Joseph R. Biden & Kamala D. Harris,DEM,153
+Newaygo,"Wilcox Township, Precinct 1",President,"",Donald J. Trump & Michael R. Pence,REP,417
+Newaygo,"Wilcox Township, Precinct 1",President,"",Jo Jorgensen & Jeremy Cohen,LIB,10
+Newaygo,"Wilcox Township, Precinct 1",President,"",Don Blankenship & William Mohr,UST,0
+Newaygo,"Wilcox Township, Precinct 1",President,"",Howie Hawkins & Angela Walker,GRN,1
+Newaygo,"Wilcox Township, Precinct 1",President,"",Rocky De La Fuente & Darcy Richardson,NLP,0
+Newaygo,"Wilcox Township, Precinct 1",President,"",Write-Ins,"",0
+Newaygo,"City of Fremont, Precinct 1",Registered Voters,"","","",1682
+Newaygo,"City of Fremont, Precinct 2",Registered Voters,"","","",1570
+Newaygo,"City of Grant, Precinct 1",Registered Voters,"","","",585
+Newaygo,"City of Newaygo, Precinct 1",Registered Voters,"","","",1570
+Newaygo,"City of White Cloud, Precinct 1",Registered Voters,"","","",790
+Newaygo,"Ashland Township, Precinct 1",Registered Voters,"","","",1864
+Newaygo,"Barton Township, Precinct 1",Registered Voters,"","","",543
+Newaygo,"Beaver Township, Precinct 1",Registered Voters,"","","",321
+Newaygo,"Big Prairie Township, Precinct 1",Registered Voters,"","","",1756
+Newaygo,"Bridgeton Township, Precinct 1",Registered Voters,"","","",1546
+Newaygo,"Brooks Township, Precinct 1",Registered Voters,"","","",981
+Newaygo,"Brooks Township, Precinct 2",Registered Voters,"","","",1855
+Newaygo,"Croton Township, Precinct 1",Registered Voters,"","","",1236
+Newaygo,"Croton Township, Precinct 2",Registered Voters,"","","",1410
+Newaygo,"Dayton Township, Precinct 1",Registered Voters,"","","",1454
+Newaygo,"Denver Township, Precinct 1",Registered Voters,"","","",1438
+Newaygo,"Ensley Township, Precinct 1",Registered Voters,"","","",1905
+Newaygo,"Everett Township, Precinct 1",Registered Voters,"","","",1439
+Newaygo,"Garfield Township, Precinct 1",Registered Voters,"","","",1687
+Newaygo,"Goodwell Township, Precinct 1",Registered Voters,"","","",408
+Newaygo,"Grant Township, Precinct 1",Registered Voters,"","","",2285
+Newaygo,"Home Township, Precinct 1",Registered Voters,"","","",188
+Newaygo,"Lilley Township, Precinct 1",Registered Voters,"","","",636
+Newaygo,"Lincoln Township, Precinct 1",Registered Voters,"","","",1028
+Newaygo,"Merrill Township, Precinct 1",Registered Voters,"","","",581
+Newaygo,"Monroe Township, Precinct 1",Registered Voters,"","","",247
+Newaygo,"Norwich Township, Precinct 1",Registered Voters,"","","",421
+Newaygo,"Sheridan Charter Township, Precinct 1",Registered Voters,"","","",1798
+Newaygo,"Sherman Township, Precinct 1",Registered Voters,"","","",1506
+Newaygo,"Troy Township, Precinct 1",Registered Voters,"","","",187
+Newaygo,"Wilcox Township, Precinct 1",Registered Voters,"","","",790
+Newaygo,"City of Fremont, Precinct 1",State House,100,Sandy Clarke,DEM,395
+Newaygo,"City of Fremont, Precinct 1",State House,100,Scott A. VanSingel,REP,885
+Newaygo,"City of Fremont, Precinct 1",State House,100,Write-Ins,"",5
+Newaygo,"City of Fremont, Precinct 2",State House,100,Sandy Clarke,DEM,341
+Newaygo,"City of Fremont, Precinct 2",State House,100,Scott A. VanSingel,REP,808
+Newaygo,"City of Fremont, Precinct 2",State House,100,Write-Ins,"",7
+Newaygo,"City of Grant, Precinct 1",State House,100,Sandy Clarke,DEM,85
+Newaygo,"City of Grant, Precinct 1",State House,100,Scott A. VanSingel,REP,307
+Newaygo,"City of Grant, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"City of Newaygo, Precinct 1",State House,100,Sandy Clarke,DEM,304
+Newaygo,"City of Newaygo, Precinct 1",State House,100,Scott A. VanSingel,REP,704
+Newaygo,"City of Newaygo, Precinct 1",State House,100,Write-Ins,"",9
+Newaygo,"City of White Cloud, Precinct 1",State House,100,Sandy Clarke,DEM,135
+Newaygo,"City of White Cloud, Precinct 1",State House,100,Scott A. VanSingel,REP,339
+Newaygo,"City of White Cloud, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"Ashland Township, Precinct 1",State House,100,Sandy Clarke,DEM,299
+Newaygo,"Ashland Township, Precinct 1",State House,100,Scott A. VanSingel,REP,1095
+Newaygo,"Ashland Township, Precinct 1",State House,100,Write-Ins,"",9
+Newaygo,"Barton Township, Precinct 1",State House,100,Sandy Clarke,DEM,95
+Newaygo,"Barton Township, Precinct 1",State House,100,Scott A. VanSingel,REP,324
+Newaygo,"Barton Township, Precinct 1",State House,100,Write-Ins,"",1
+Newaygo,"Beaver Township, Precinct 1",State House,100,Sandy Clarke,DEM,65
+Newaygo,"Beaver Township, Precinct 1",State House,100,Scott A. VanSingel,REP,170
+Newaygo,"Beaver Township, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"Big Prairie Township, Precinct 1",State House,100,Sandy Clarke,DEM,368
+Newaygo,"Big Prairie Township, Precinct 1",State House,100,Scott A. VanSingel,REP,821
+Newaygo,"Big Prairie Township, Precinct 1",State House,100,Write-Ins,"",3
+Newaygo,"Bridgeton Township, Precinct 1",State House,100,Sandy Clarke,DEM,300
+Newaygo,"Bridgeton Township, Precinct 1",State House,100,Scott A. VanSingel,REP,851
+Newaygo,"Bridgeton Township, Precinct 1",State House,100,Write-Ins,"",3
+Newaygo,"Brooks Township, Precinct 1",State House,100,Sandy Clarke,DEM,190
+Newaygo,"Brooks Township, Precinct 1",State House,100,Scott A. VanSingel,REP,586
+Newaygo,"Brooks Township, Precinct 1",State House,100,Write-Ins,"",2
+Newaygo,"Brooks Township, Precinct 2",State House,100,Sandy Clarke,DEM,379
+Newaygo,"Brooks Township, Precinct 2",State House,100,Scott A. VanSingel,REP,1023
+Newaygo,"Brooks Township, Precinct 2",State House,100,Write-Ins,"",9
+Newaygo,"Croton Township, Precinct 1",State House,100,Sandy Clarke,DEM,244
+Newaygo,"Croton Township, Precinct 1",State House,100,Scott A. VanSingel,REP,695
+Newaygo,"Croton Township, Precinct 1",State House,100,Write-Ins,"",3
+Newaygo,"Croton Township, Precinct 2",State House,100,Sandy Clarke,DEM,338
+Newaygo,"Croton Township, Precinct 2",State House,100,Scott A. VanSingel,REP,747
+Newaygo,"Croton Township, Precinct 2",State House,100,Write-Ins,"",6
+Newaygo,"Dayton Township, Precinct 1",State House,100,Sandy Clarke,DEM,311
+Newaygo,"Dayton Township, Precinct 1",State House,100,Scott A. VanSingel,REP,886
+Newaygo,"Dayton Township, Precinct 1",State House,100,Write-Ins,"",5
+Newaygo,"Denver Township, Precinct 1",State House,100,Sandy Clarke,DEM,313
+Newaygo,"Denver Township, Precinct 1",State House,100,Scott A. VanSingel,REP,650
+Newaygo,"Denver Township, Precinct 1",State House,100,Write-Ins,"",5
+Newaygo,"Ensley Township, Precinct 1",State House,100,Sandy Clarke,DEM,318
+Newaygo,"Ensley Township, Precinct 1",State House,100,Scott A. VanSingel,REP,1177
+Newaygo,"Ensley Township, Precinct 1",State House,100,Write-Ins,"",6
+Newaygo,"Everett Township, Precinct 1",State House,100,Sandy Clarke,DEM,276
+Newaygo,"Everett Township, Precinct 1",State House,100,Scott A. VanSingel,REP,738
+Newaygo,"Everett Township, Precinct 1",State House,100,Write-Ins,"",7
+Newaygo,"Garfield Township, Precinct 1",State House,100,Sandy Clarke,DEM,347
+Newaygo,"Garfield Township, Precinct 1",State House,100,Scott A. VanSingel,REP,1001
+Newaygo,"Garfield Township, Precinct 1",State House,100,Write-Ins,"",4
+Newaygo,"Goodwell Township, Precinct 1",State House,100,Sandy Clarke,DEM,80
+Newaygo,"Goodwell Township, Precinct 1",State House,100,Scott A. VanSingel,REP,242
+Newaygo,"Goodwell Township, Precinct 1",State House,100,Write-Ins,"",1
+Newaygo,"Grant Township, Precinct 1",State House,100,Sandy Clarke,DEM,343
+Newaygo,"Grant Township, Precinct 1",State House,100,Scott A. VanSingel,REP,1365
+Newaygo,"Grant Township, Precinct 1",State House,100,Write-Ins,"",5
+Newaygo,"Home Township, Precinct 1",State House,100,Sandy Clarke,DEM,34
+Newaygo,"Home Township, Precinct 1",State House,100,Scott A. VanSingel,REP,114
+Newaygo,"Home Township, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"Lilley Township, Precinct 1",State House,100,Sandy Clarke,DEM,148
+Newaygo,"Lilley Township, Precinct 1",State House,100,Scott A. VanSingel,REP,296
+Newaygo,"Lilley Township, Precinct 1",State House,100,Write-Ins,"",2
+Newaygo,"Lincoln Township, Precinct 1",State House,100,Sandy Clarke,DEM,221
+Newaygo,"Lincoln Township, Precinct 1",State House,100,Scott A. VanSingel,REP,510
+Newaygo,"Lincoln Township, Precinct 1",State House,100,Write-Ins,"",2
+Newaygo,"Merrill Township, Precinct 1",State House,100,Sandy Clarke,DEM,163
+Newaygo,"Merrill Township, Precinct 1",State House,100,Scott A. VanSingel,REP,215
+Newaygo,"Merrill Township, Precinct 1",State House,100,Write-Ins,"",2
+Newaygo,"Monroe Township, Precinct 1",State House,100,Sandy Clarke,DEM,38
+Newaygo,"Monroe Township, Precinct 1",State House,100,Scott A. VanSingel,REP,154
+Newaygo,"Monroe Township, Precinct 1",State House,100,Write-Ins,"",1
+Newaygo,"Norwich Township, Precinct 1",State House,100,Sandy Clarke,DEM,93
+Newaygo,"Norwich Township, Precinct 1",State House,100,Scott A. VanSingel,REP,260
+Newaygo,"Norwich Township, Precinct 1",State House,100,Write-Ins,"",3
+Newaygo,"Sheridan Charter Township, Precinct 1",State House,100,Sandy Clarke,DEM,335
+Newaygo,"Sheridan Charter Township, Precinct 1",State House,100,Scott A. VanSingel,REP,1060
+Newaygo,"Sheridan Charter Township, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"Sherman Township, Precinct 1",State House,100,Sandy Clarke,DEM,281
+Newaygo,"Sherman Township, Precinct 1",State House,100,Scott A. VanSingel,REP,886
+Newaygo,"Sherman Township, Precinct 1",State House,100,Write-Ins,"",5
+Newaygo,"Troy Township, Precinct 1",State House,100,Sandy Clarke,DEM,29
+Newaygo,"Troy Township, Precinct 1",State House,100,Scott A. VanSingel,REP,99
+Newaygo,"Troy Township, Precinct 1",State House,100,Write-Ins,"",0
+Newaygo,"Wilcox Township, Precinct 1",State House,100,Sandy Clarke,DEM,146
+Newaygo,"Wilcox Township, Precinct 1",State House,100,Scott A. VanSingel,REP,414
+Newaygo,"Wilcox Township, Precinct 1",State House,100,Write-Ins,"",4
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Democratic Party,DEM,237
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Republican Party,REP,499
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,2
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"City of Fremont, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Democratic Party,DEM,193
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Republican Party,REP,468
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Libertarian Party,LIB,7
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Working Class Party,WCP,4
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Green Party,GRN,1
+Newaygo,"City of Fremont, Precinct 2",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Democratic Party,DEM,55
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Republican Party,REP,185
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Libertarian Party,LIB,4
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Green Party,GRN,3
+Newaygo,"City of Grant, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Democratic Party,DEM,173
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Republican Party,REP,444
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Libertarian Party,LIB,12
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,3
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Working Class Party,WCP,6
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"City of Newaygo, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Democratic Party,DEM,78
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Republican Party,REP,225
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Libertarian Party,LIB,3
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"City of White Cloud, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Democratic Party,DEM,184
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Republican Party,REP,673
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,5
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Working Class Party,WCP,5
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Ashland Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Democratic Party,DEM,61
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Republican Party,REP,205
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Barton Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Democratic Party,DEM,37
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Republican Party,REP,114
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Beaver Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Democratic Party,DEM,216
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Republican Party,REP,520
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,9
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,3
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Working Class Party,WCP,10
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Big Prairie Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Democratic Party,DEM,184
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Republican Party,REP,542
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,4
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Working Class Party,WCP,4
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Bridgeton Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Democratic Party,DEM,97
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Republican Party,REP,379
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,4
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Green Party,GRN,2
+Newaygo,"Brooks Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Democratic Party,DEM,217
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Republican Party,REP,645
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Libertarian Party,LIB,6
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",U.S. Taxpayers Party,UST,2
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Green Party,GRN,1
+Newaygo,"Brooks Township, Precinct 2",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Democratic Party,DEM,142
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Republican Party,REP,462
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Working Class Party,WCP,1
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Croton Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Democratic Party,DEM,198
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Republican Party,REP,456
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Libertarian Party,LIB,5
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",U.S. Taxpayers Party,UST,3
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Green Party,GRN,1
+Newaygo,"Croton Township, Precinct 2",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Democratic Party,DEM,165
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Republican Party,REP,529
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,1
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Dayton Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Democratic Party,DEM,213
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Republican Party,REP,425
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,1
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Green Party,GRN,2
+Newaygo,"Denver Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Democratic Party,DEM,144
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Republican Party,REP,742
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,3
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Green Party,GRN,3
+Newaygo,"Ensley Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Democratic Party,DEM,144
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Republican Party,REP,477
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,6
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Green Party,GRN,3
+Newaygo,"Everett Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,2
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Democratic Party,DEM,216
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Republican Party,REP,646
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,3
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Garfield Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Democratic Party,DEM,37
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Republican Party,REP,158
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Working Class Party,WCP,5
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Goodwell Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Democratic Party,DEM,196
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Republican Party,REP,840
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,7
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Working Class Party,WCP,6
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Grant Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Democratic Party,DEM,20
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Republican Party,REP,77
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Home Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Home Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Democratic Party,DEM,79
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Republican Party,REP,221
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,1
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Working Class Party,WCP,2
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Lilley Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Democratic Party,DEM,113
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Republican Party,REP,291
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Working Class Party,WCP,1
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Lincoln Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Democratic Party,DEM,94
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Republican Party,REP,121
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,2
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Working Class Party,WCP,5
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Merrill Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,1
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Democratic Party,DEM,14
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Republican Party,REP,103
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Working Class Party,WCP,1
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Green Party,GRN,1
+Newaygo,"Monroe Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Democratic Party,DEM,62
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Republican Party,REP,167
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Working Class Party,WCP,1
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Norwich Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Democratic Party,DEM,179
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Republican Party,REP,654
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,3
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Sheridan Charter Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Democratic Party,DEM,158
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Republican Party,REP,517
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,2
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Working Class Party,WCP,6
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Green Party,GRN,2
+Newaygo,"Sherman Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Democratic Party,DEM,15
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Republican Party,REP,72
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,0
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,0
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Working Class Party,WCP,0
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Troy Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Democratic Party,DEM,95
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Republican Party,REP,262
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Libertarian Party,LIB,3
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",U.S. Taxpayers Party,UST,1
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Working Class Party,WCP,3
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Green Party,GRN,0
+Newaygo,"Wilcox Township, Precinct 1",Straight Party,"",Natural Law Party,NLP,0
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,411
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Bill Huizenga,REP,852
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Max Riekse,LIB,12
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,21
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,6
+Newaygo,"City of Fremont, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Bryan Berghoef,DEM,331
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Bill Huizenga,REP,798
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Max Riekse,LIB,18
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Gerald T. Van Sickle,UST,11
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Jean-Michel Creviere,GRN,8
+Newaygo,"City of Fremont, Precinct 2",U.S. House,02,Write-Ins,"",5
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,92
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Bill Huizenga,REP,283
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Max Riekse,LIB,11
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,6
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,2
+Newaygo,"City of Grant, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,288
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Bill Huizenga,REP,691
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Max Riekse,LIB,22
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,18
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,6
+Newaygo,"City of Newaygo, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,108
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Bill Huizenga,REP,343
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Max Riekse,LIB,9
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,7
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,6
+Newaygo,"City of White Cloud, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,308
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,1058
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Max Riekse,LIB,20
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,7
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Ashland Township, Precinct 1",U.S. House,02,Write-Ins,"",3
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,89
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,323
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Max Riekse,LIB,4
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,6
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Barton Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,62
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,166
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Max Riekse,LIB,3
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,3
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,2
+Newaygo,"Beaver Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,327
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,823
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Max Riekse,LIB,16
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,16
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,11
+Newaygo,"Big Prairie Township, Precinct 1",U.S. House,02,Write-Ins,"",5
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,285
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,820
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Max Riekse,LIB,19
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,28
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,8
+Newaygo,"Bridgeton Township, Precinct 1",U.S. House,02,Write-Ins,"",2
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,191
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,575
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Max Riekse,LIB,9
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,5
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,7
+Newaygo,"Brooks Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Bryan Berghoef,DEM,358
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Bill Huizenga,REP,1007
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Max Riekse,LIB,24
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Gerald T. Van Sickle,UST,13
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Jean-Michel Creviere,GRN,6
+Newaygo,"Brooks Township, Precinct 2",U.S. House,02,Write-Ins,"",5
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,229
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,689
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Max Riekse,LIB,12
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,19
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,1
+Newaygo,"Croton Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Bryan Berghoef,DEM,352
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Bill Huizenga,REP,717
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Max Riekse,LIB,16
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Gerald T. Van Sickle,UST,12
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Croton Township, Precinct 2",U.S. House,02,Write-Ins,"",0
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,303
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,865
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Max Riekse,LIB,14
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,22
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,3
+Newaygo,"Dayton Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,293
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,652
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Max Riekse,LIB,9
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,10
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,10
+Newaygo,"Denver Township, Precinct 1",U.S. House,02,Write-Ins,"",3
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,303
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,1179
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Max Riekse,LIB,17
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,7
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,12
+Newaygo,"Ensley Township, Precinct 1",U.S. House,02,Write-Ins,"",2
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,244
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,727
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Max Riekse,LIB,14
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,22
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,13
+Newaygo,"Everett Township, Precinct 1",U.S. House,02,Write-Ins,"",3
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,352
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,964
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Max Riekse,LIB,17
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,15
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Garfield Township, Precinct 1",U.S. House,02,Write-Ins,"",3
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,77
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,237
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Max Riekse,LIB,7
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,5
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,2
+Newaygo,"Goodwell Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,345
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,1328
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Max Riekse,LIB,27
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,15
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Grant Township, Precinct 1",U.S. House,02,Write-Ins,"",2
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,31
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,117
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Max Riekse,LIB,1
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,1
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,0
+Newaygo,"Home Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,127
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,314
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Max Riekse,LIB,4
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,2
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,0
+Newaygo,"Lilley Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,191
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,516
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Max Riekse,LIB,8
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,10
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,9
+Newaygo,"Lincoln Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,142
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,225
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Max Riekse,LIB,0
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,11
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Merrill Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,35
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,149
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Max Riekse,LIB,4
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,2
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,2
+Newaygo,"Monroe Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,87
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,269
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Max Riekse,LIB,1
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,2
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,1
+Newaygo,"Norwich Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,350
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,1027
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Max Riekse,LIB,12
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,13
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,288
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,857
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Max Riekse,LIB,16
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,18
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,5
+Newaygo,"Sherman Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,23
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,98
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Max Riekse,LIB,0
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,6
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,1
+Newaygo,"Troy Township, Precinct 1",U.S. House,02,Write-Ins,"",0
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Bryan Berghoef,DEM,131
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Bill Huizenga,REP,414
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Max Riekse,LIB,7
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Gerald T. Van Sickle,UST,15
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Jean-Michel Creviere,GRN,1
+Newaygo,"Wilcox Township, Precinct 1",U.S. House,02,Write-Ins,"",1
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",Gary Peters,DEM,471
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",John James,REP,806
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,14
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,12
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",Doug Dern,NLP,5
+Newaygo,"City of Fremont, Precinct 1",U.S. Senate,"",Write-Ins,"",2
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",Gary Peters,DEM,388
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",John James,REP,748
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",Valerie L. Willis,UST,19
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",Marcia Squier,GRN,13
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",Doug Dern,NLP,4
+Newaygo,"City of Fremont, Precinct 2",U.S. Senate,"",Write-Ins,"",3
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",Gary Peters,DEM,114
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",John James,REP,274
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,4
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,7
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",Doug Dern,NLP,0
+Newaygo,"City of Grant, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",Gary Peters,DEM,330
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",John James,REP,668
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,18
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,9
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
+Newaygo,"City of Newaygo, Precinct 1",U.S. Senate,"",Write-Ins,"",3
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",Gary Peters,DEM,141
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",John James,REP,322
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,11
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,3
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
+Newaygo,"City of White Cloud, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,366
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",John James,REP,1020
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,15
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,8
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,4
+Newaygo,"Ashland Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,105
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",John James,REP,315
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,7
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,2
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,0
+Newaygo,"Barton Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,67
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",John James,REP,167
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,8
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,2
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,0
+Newaygo,"Beaver Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,373
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",John James,REP,795
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,15
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,7
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,8
+Newaygo,"Big Prairie Township, Precinct 1",U.S. Senate,"",Write-Ins,"",2
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,335
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",John James,REP,806
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,15
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,10
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,5
+Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,216
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",John James,REP,565
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,4
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,7
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Brooks Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",Gary Peters,DEM,410
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",John James,REP,985
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",Valerie L. Willis,UST,17
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",Marcia Squier,GRN,8
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",Doug Dern,NLP,6
+Newaygo,"Brooks Township, Precinct 2",U.S. Senate,"",Write-Ins,"",3
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,265
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",John James,REP,668
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,12
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,5
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
+Newaygo,"Croton Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",Gary Peters,DEM,366
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",John James,REP,716
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",Valerie L. Willis,UST,17
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",Marcia Squier,GRN,5
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",Doug Dern,NLP,3
+Newaygo,"Croton Township, Precinct 2",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,344
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",John James,REP,849
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,9
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,3
+Newaygo,"Dayton Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,325
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",John James,REP,645
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,8
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,10
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,3
+Newaygo,"Denver Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,326
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",John James,REP,1184
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,11
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,7
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,6
+Newaygo,"Ensley Township, Precinct 1",U.S. Senate,"",Write-Ins,"",3
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,278
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",John James,REP,702
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,22
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,11
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,5
+Newaygo,"Everett Township, Precinct 1",U.S. Senate,"",Write-Ins,"",2
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,392
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",John James,REP,952
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,11
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,5
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,5
+Newaygo,"Garfield Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,87
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",John James,REP,235
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,7
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,2
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,387
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",John James,REP,1311
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,16
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,9
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,7
+Newaygo,"Grant Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,37
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",John James,REP,111
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,1
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,1
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Home Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,154
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",John James,REP,289
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,3
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,3
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,3
+Newaygo,"Lilley Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,223
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",John James,REP,497
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,11
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,7
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,4
+Newaygo,"Lincoln Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,155
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",John James,REP,222
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,10
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,2
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
+Newaygo,"Merrill Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,43
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",John James,REP,148
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,1
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,2
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Monroe Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,99
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",John James,REP,256
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,4
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,1
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Norwich Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,395
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",John James,REP,996
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,14
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,2
+Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,325
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",John James,REP,845
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,13
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,6
+Newaygo,"Sherman Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,32
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",John James,REP,93
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,3
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,0
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,1
+Newaygo,"Troy Township, Precinct 1",U.S. Senate,"",Write-Ins,"",0
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",Gary Peters,DEM,147
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",John James,REP,403
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",Valerie L. Willis,UST,12
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",Marcia Squier,GRN,4
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",Doug Dern,NLP,8
+Newaygo,"Wilcox Township, Precinct 1",U.S. Senate,"",Write-Ins,"",1

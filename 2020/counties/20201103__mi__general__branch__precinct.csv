@@ -1,0 +1,614 @@
+county,precinct,office,district,party,candidate,votes
+Branch,Algansee Township Precinct 1,Straight Party,,DEM,Democratic Party,101
+Branch,Batavia Township Precinct 1,Straight Party,,DEM,Democratic Party,104
+Branch,Bethel Township Precinct 1,Straight Party,,DEM,Democratic Party,63
+Branch,Bronson Township Precinct 1,Straight Party,,DEM,Democratic Party,77
+Branch,Burlington Township (Out of County),Straight Party,,DEM,Democratic Party,0
+Branch,Butler Township Precinct 1,Straight Party,,DEM,Democratic Party,62
+Branch,California Township Precinct 1,Straight Party,,DEM,Democratic Party,29
+Branch,City of Bronson Precinct 1,Straight Party,,DEM,Democratic Party,137
+Branch,City of Coldwater Precinct 1,Straight Party,,DEM,Democratic Party,337
+Branch,City of Coldwater Precinct 2,Straight Party,,DEM,Democratic Party,264
+Branch,City of Coldwater Precinct 3,Straight Party,,DEM,Democratic Party,268
+Branch,City of Coldwater Precinct 4,Straight Party,,DEM,Democratic Party,265
+Branch,Coldwater Township Precinct 1,Straight Party,,DEM,Democratic Party,232
+Branch,Fredonia Township (Out of County),Straight Party,,DEM,Democratic Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,DEM,Democratic Party,41
+Branch,Girard Township Precinct 1,Straight Party,,DEM,Democratic Party,134
+Branch,Hillsdale County Precincts,Straight Party,,DEM,Democratic Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,DEM,Democratic Party,118
+Branch,Matteson Township Precinct 1,Straight Party,,DEM,Democratic Party,86
+Branch,Newton Township (Out of County),Straight Party,,DEM,Democratic Party,0
+Branch,Noble Township Precinct 1,Straight Party,,DEM,Democratic Party,30
+Branch,Ovid Township Precinct 1,Straight Party,,DEM,Democratic Party,185
+Branch,Quincy Township Precinct 1,Straight Party,,DEM,Democratic Party,99
+Branch,Quincy Township Precinct 2,Straight Party,,DEM,Democratic Party,136
+Branch,Sherwood Township Precinct 1,Straight Party,,DEM,Democratic Party,140
+Branch,Tekonsha Township (Out of County),Straight Party,,DEM,Democratic Party,0
+Branch,Union Township Precinct 1,Straight Party,,DEM,Democratic Party,216
+Branch,Algansee Township Precinct 1,Straight Party,,REP,Republican Party,428
+Branch,Athens Township (Out of County),Straight Party,,REP,Republican Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,REP,Republican Party,314
+Branch,Bethel Township Precinct 1,Straight Party,,REP,Republican Party,253
+Branch,Bronson Township Precinct 1,Straight Party,,REP,Republican Party,346
+Branch,Burlington Township (Out of County),Straight Party,,REP,Republican Party,0
+Branch,Butler Township Precinct 1,Straight Party,,REP,Republican Party,262
+Branch,California Township Precinct 1,Straight Party,,REP,Republican Party,134
+Branch,City of Bronson Precinct 1,Straight Party,,REP,Republican Party,362
+Branch,City of Coldwater Precinct 1,Straight Party,,REP,Republican Party,308
+Branch,City of Coldwater Precinct 2,Straight Party,,REP,Republican Party,480
+Branch,City of Coldwater Precinct 3,Straight Party,,REP,Republican Party,520
+Branch,City of Coldwater Precinct 4,Straight Party,,REP,Republican Party,399
+Branch,Coldwater Township Precinct 1,Straight Party,,REP,Republican Party,844
+Branch,Fredonia Township (Out of County),Straight Party,,REP,Republican Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,REP,Republican Party,154
+Branch,Girard Township Precinct 1,Straight Party,,REP,Republican Party,519
+Branch,Hillsdale County Precincts,Straight Party,,REP,Republican Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,REP,Republican Party,476
+Branch,Matteson Township Precinct 1,Straight Party,,REP,Republican Party,294
+Branch,Newton Township (Out of County),Straight Party,,REP,Republican Party,0
+Branch,Noble Township Precinct 1,Straight Party,,REP,Republican Party,165
+Branch,Ovid Township Precinct 1,Straight Party,,REP,Republican Party,689
+Branch,Quincy Township Precinct 1,Straight Party,,REP,Republican Party,333
+Branch,Quincy Township Precinct 2,Straight Party,,REP,Republican Party,570
+Branch,Sherwood Township Precinct 1,Straight Party,,REP,Republican Party,459
+Branch,Tekonsha Township (Out of County),Straight Party,,REP,Republican Party,0
+Branch,Union Township Precinct 1,Straight Party,,REP,Republican Party,544
+Branch,Algansee Township Precinct 1,Straight Party,,LIB,Libertarian Party,1
+Branch,Athens Township (Out of County),Straight Party,,LIB,Libertarian Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,LIB,Libertarian Party,0
+Branch,Bethel Township Precinct 1,Straight Party,,LIB,Libertarian Party,4
+Branch,Bronson Township Precinct 1,Straight Party,,LIB,Libertarian Party,0
+Branch,Burlington Township (Out of County),Straight Party,,LIB,Libertarian Party,0
+Branch,Butler Township Precinct 1,Straight Party,,LIB,Libertarian Party,1
+Branch,California Township Precinct 1,Straight Party,,LIB,Libertarian Party,0
+Branch,City of Bronson Precinct 1,Straight Party,,LIB,Libertarian Party,5
+Branch,City of Coldwater Precinct 1,Straight Party,,LIB,Libertarian Party,5
+Branch,City of Coldwater Precinct 2,Straight Party,,LIB,Libertarian Party,5
+Branch,City of Coldwater Precinct 3,Straight Party,,LIB,Libertarian Party,4
+Branch,City of Coldwater Precinct 4,Straight Party,,LIB,Libertarian Party,3
+Branch,Coldwater Township Precinct 1,Straight Party,,LIB,Libertarian Party,4
+Branch,Fredonia Township (Out of County),Straight Party,,LIB,Libertarian Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,LIB,Libertarian Party,2
+Branch,Girard Township Precinct 1,Straight Party,,LIB,Libertarian Party,4
+Branch,Hillsdale County Precincts,Straight Party,,LIB,Libertarian Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,LIB,Libertarian Party,1
+Branch,Matteson Township Precinct 1,Straight Party,,LIB,Libertarian Party,0
+Branch,Newton Township (Out of County),Straight Party,,LIB,Libertarian Party,0
+Branch,Noble Township Precinct 1,Straight Party,,LIB,Libertarian Party,0
+Branch,Ovid Township Precinct 1,Straight Party,,LIB,Libertarian Party,6
+Branch,Quincy Township Precinct 1,Straight Party,,LIB,Libertarian Party,2
+Branch,Quincy Township Precinct 2,Straight Party,,LIB,Libertarian Party,3
+Branch,Sherwood Township Precinct 1,Straight Party,,LIB,Libertarian Party,6
+Branch,Tekonsha Township (Out of County),Straight Party,,LIB,Libertarian Party,0
+Branch,Union Township Precinct 1,Straight Party,,LIB,Libertarian Party,6
+Branch,Algansee Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Athens Township (Out of County),Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Bethel Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Bronson Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Burlington Township (Out of County),Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Butler Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,California Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,2
+Branch,City of Bronson Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,3
+Branch,City of Coldwater Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,3
+Branch,City of Coldwater Precinct 2,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,City of Coldwater Precinct 3,Straight Party,,UST,U.S. Taxpayers Party,2
+Branch,City of Coldwater Precinct 4,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Coldwater Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,3
+Branch,Fredonia Township (Out of County),Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Girard Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,2
+Branch,Hillsdale County Precincts,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Matteson Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Newton Township (Out of County),Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Noble Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Ovid Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Quincy Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Quincy Township Precinct 2,Straight Party,,UST,U.S. Taxpayers Party,1
+Branch,Sherwood Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Tekonsha Township (Out of County),Straight Party,,UST,U.S. Taxpayers Party,0
+Branch,Union Township Precinct 1,Straight Party,,UST,U.S. Taxpayers Party,3
+Branch,Algansee Township Precinct 1,Straight Party,,WCP,Working Class Party,1
+Branch,Athens Township (Out of County),Straight Party,,WCP,Working Class Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,Bethel Township Precinct 1,Straight Party,,WCP,Working Class Party,5
+Branch,Bronson Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,Burlington Township (Out of County),Straight Party,,WCP,Working Class Party,0
+Branch,Butler Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,California Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,City of Bronson Precinct 1,Straight Party,,WCP,Working Class Party,5
+Branch,City of Coldwater Precinct 1,Straight Party,,WCP,Working Class Party,4
+Branch,City of Coldwater Precinct 2,Straight Party,,WCP,Working Class Party,6
+Branch,City of Coldwater Precinct 3,Straight Party,,WCP,Working Class Party,1
+Branch,City of Coldwater Precinct 4,Straight Party,,WCP,Working Class Party,7
+Branch,Coldwater Township Precinct 1,Straight Party,,WCP,Working Class Party,5
+Branch,Fredonia Township (Out of County),Straight Party,,WCP,Working Class Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,WCP,Working Class Party,1
+Branch,Girard Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,Hillsdale County Precincts,Straight Party,,WCP,Working Class Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,WCP,Working Class Party,0
+Branch,Matteson Township Precinct 1,Straight Party,,WCP,Working Class Party,0
+Branch,Newton Township (Out of County),Straight Party,,WCP,Working Class Party,0
+Branch,Noble Township Precinct 1,Straight Party,,WCP,Working Class Party,2
+Branch,Ovid Township Precinct 1,Straight Party,,WCP,Working Class Party,6
+Branch,Quincy Township Precinct 1,Straight Party,,WCP,Working Class Party,0
+Branch,Quincy Township Precinct 2,Straight Party,,WCP,Working Class Party,2
+Branch,Sherwood Township Precinct 1,Straight Party,,WCP,Working Class Party,4
+Branch,Tekonsha Township (Out of County),Straight Party,,WCP,Working Class Party,0
+Branch,Union Township Precinct 1,Straight Party,,WCP,Working Class Party,6
+Branch,Algansee Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Athens Township (Out of County),Straight Party,,GRN,Green Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Bethel Township Precinct 1,Straight Party,,GRN,Green Party,2
+Branch,Bronson Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Burlington Township (Out of County),Straight Party,,GRN,Green Party,0
+Branch,Butler Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,California Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,City of Bronson Precinct 1,Straight Party,,GRN,Green Party,2
+Branch,City of Coldwater Precinct 1,Straight Party,,GRN,Green Party,4
+Branch,City of Coldwater Precinct 2,Straight Party,,GRN,Green Party,3
+Branch,City of Coldwater Precinct 3,Straight Party,,GRN,Green Party,4
+Branch,City of Coldwater Precinct 4,Straight Party,,GRN,Green Party,3
+Branch,Coldwater Township Precinct 1,Straight Party,,GRN,Green Party,3
+Branch,Fredonia Township (Out of County),Straight Party,,GRN,Green Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Girard Township Precinct 1,Straight Party,,GRN,Green Party,1
+Branch,Hillsdale County Precincts,Straight Party,,GRN,Green Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Matteson Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Newton Township (Out of County),Straight Party,,GRN,Green Party,0
+Branch,Noble Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Ovid Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Quincy Township Precinct 1,Straight Party,,GRN,Green Party,0
+Branch,Quincy Township Precinct 2,Straight Party,,GRN,Green Party,0
+Branch,Sherwood Township Precinct 1,Straight Party,,GRN,Green Party,3
+Branch,Tekonsha Township (Out of County),Straight Party,,GRN,Green Party,0
+Branch,Union Township Precinct 1,Straight Party,,GRN,Green Party,1
+Branch,Algansee Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Athens Township (Out of County),Straight Party,,NLP,Natural Law Party,0
+Branch,Batavia Township Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,Bethel Township Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,Bronson Township Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,Burlington Township (Out of County),Straight Party,,NLP,Natural Law Party,0
+Branch,Butler Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,California Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,City of Bronson Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,City of Coldwater Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,City of Coldwater Precinct 2,Straight Party,,NLP,Natural Law Party,0
+Branch,City of Coldwater Precinct 3,Straight Party,,NLP,Natural Law Party,3
+Branch,City of Coldwater Precinct 4,Straight Party,,NLP,Natural Law Party,1
+Branch,Coldwater Township Precinct 1,Straight Party,,NLP,Natural Law Party,3
+Branch,Fredonia Township (Out of County),Straight Party,,NLP,Natural Law Party,0
+Branch,Gilead Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Girard Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Hillsdale County Precincts,Straight Party,,NLP,Natural Law Party,0
+Branch,Kinderhook Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Matteson Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Newton Township (Out of County),Straight Party,,NLP,Natural Law Party,0
+Branch,Noble Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Ovid Township Precinct 1,Straight Party,,NLP,Natural Law Party,3
+Branch,Quincy Township Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,Quincy Township Precinct 2,Straight Party,,NLP,Natural Law Party,0
+Branch,Sherwood Township Precinct 1,Straight Party,,NLP,Natural Law Party,0
+Branch,Tekonsha Township (Out of County),Straight Party,,NLP,Natural Law Party,0
+Branch,Union Township Precinct 1,Straight Party,,NLP,Natural Law Party,1
+Branch,Algansee Township Precinct 1,President,,DEM,Joseph R. Biden,244
+Branch,Batavia Township Precinct 1,President,,DEM,Joseph R. Biden,187
+Branch,Bethel Township Precinct 1,President,,DEM,Joseph R. Biden,143
+Branch,Bronson Township Precinct 1,President,,DEM,Joseph R. Biden,149
+Branch,Butler Township Precinct 1,President,,DEM,Joseph R. Biden,154
+Branch,California Township Precinct 1,President,,DEM,Joseph R. Biden,51
+Branch,City of Bronson Precinct 1,President,,DEM,Joseph R. Biden,247
+Branch,City of Coldwater Precinct 1,President,,DEM,Joseph R. Biden,483
+Branch,City of Coldwater Precinct 2,President,,DEM,Joseph R. Biden,486
+Branch,City of Coldwater Precinct 3,President,,DEM,Joseph R. Biden,597
+Branch,City of Coldwater Precinct 4,President,,DEM,Joseph R. Biden,418
+Branch,Coldwater Township Precinct 1,President,,DEM,Joseph R. Biden,500
+Branch,Gilead Township Precinct 1,President,,DEM,Joseph R. Biden,101
+Branch,Girard Township Precinct 1,President,,DEM,Joseph R. Biden,266
+Branch,Kinderhook Township Precinct 1,President,,DEM,Joseph R. Biden,258
+Branch,Matteson Township Precinct 1,President,,DEM,Joseph R. Biden,207
+Branch,Noble Township Precinct 1,President,,DEM,Joseph R. Biden,54
+Branch,Ovid Township Precinct 1,President,,DEM,Joseph R. Biden,408
+Branch,Quincy Township Precinct 1,President,,DEM,Joseph R. Biden,203
+Branch,Quincy Township Precinct 2,President,,DEM,Joseph R. Biden,316
+Branch,Sherwood Township Precinct 1,President,,DEM,Joseph R. Biden,270
+Branch,Union Township Precinct 1,President,,DEM,Joseph R. Biden,417
+Branch,Algansee Township Precinct 1,President,,REP,Donald J. Trump,713
+Branch,Batavia Township Precinct 1,President,,REP,Donald J. Trump,494
+Branch,Bethel Township Precinct 1,President,,REP,Donald J. Trump,448
+Branch,Bronson Township Precinct 1,President,,REP,Donald J. Trump,538
+Branch,Butler Township Precinct 1,President,,REP,Donald J. Trump,459
+Branch,California Township Precinct 1,President,,REP,Donald J. Trump,204
+Branch,City of Bronson Precinct 1,President,,REP,Donald J. Trump,589
+Branch,City of Coldwater Precinct 1,President,,REP,Donald J. Trump,486
+Branch,City of Coldwater Precinct 2,President,,REP,Donald J. Trump,750
+Branch,City of Coldwater Precinct 3,President,,REP,Donald J. Trump,913
+Branch,City of Coldwater Precinct 4,President,,REP,Donald J. Trump,609
+Branch,Coldwater Township Precinct 1,President,,REP,Donald J. Trump,"1,332"
+Branch,Gilead Township Precinct 1,President,,REP,Donald J. Trump,254
+Branch,Girard Township Precinct 1,President,,REP,Donald J. Trump,772
+Branch,Kinderhook Township Precinct 1,President,,REP,Donald J. Trump,672
+Branch,Matteson Township Precinct 1,President,,REP,Donald J. Trump,460
+Branch,Noble Township Precinct 1,President,,REP,Donald J. Trump,211
+Branch,Ovid Township Precinct 1,President,,REP,Donald J. Trump,"1,082"
+Branch,Quincy Township Precinct 1,President,,REP,Donald J. Trump,522
+Branch,Quincy Township Precinct 2,President,,REP,Donald J. Trump,842
+Branch,Sherwood Township Precinct 1,President,,REP,Donald J. Trump,743
+Branch,Union Township Precinct 1,President,,REP,Donald J. Trump,971
+Branch,Algansee Township Precinct 1,President,,LIB,Jo Jorgensen,5
+Branch,Batavia Township Precinct 1,President,,LIB,Jo Jorgensen,4
+Branch,Bethel Township Precinct 1,President,,LIB,Jo Jorgensen,3
+Branch,Bronson Township Precinct 1,President,,LIB,Jo Jorgensen,9
+Branch,Butler Township Precinct 1,President,,LIB,Jo Jorgensen,8
+Branch,California Township Precinct 1,President,,LIB,Jo Jorgensen,1
+Branch,City of Bronson Precinct 1,President,,LIB,Jo Jorgensen,14
+Branch,City of Coldwater Precinct 1,President,,LIB,Jo Jorgensen,14
+Branch,City of Coldwater Precinct 2,President,,LIB,Jo Jorgensen,17
+Branch,City of Coldwater Precinct 3,President,,LIB,Jo Jorgensen,19
+Branch,City of Coldwater Precinct 4,President,,LIB,Jo Jorgensen,13
+Branch,Coldwater Township Precinct 1,President,,LIB,Jo Jorgensen,22
+Branch,Gilead Township Precinct 1,President,,LIB,Jo Jorgensen,4
+Branch,Girard Township Precinct 1,President,,LIB,Jo Jorgensen,10
+Branch,Kinderhook Township Precinct 1,President,,LIB,Jo Jorgensen,6
+Branch,Matteson Township Precinct 1,President,,LIB,Jo Jorgensen,5
+Branch,Noble Township Precinct 1,President,,LIB,Jo Jorgensen,3
+Branch,Ovid Township Precinct 1,President,,LIB,Jo Jorgensen,19
+Branch,Quincy Township Precinct 1,President,,LIB,Jo Jorgensen,11
+Branch,Quincy Township Precinct 2,President,,LIB,Jo Jorgensen,8
+Branch,Sherwood Township Precinct 1,President,,LIB,Jo Jorgensen,7
+Branch,Union Township Precinct 1,President,,LIB,Jo Jorgensen,14
+Branch,Algansee Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,Batavia Township Precinct 1,President,,UST,Don Blankenship,3
+Branch,Bethel Township Precinct 1,President,,UST,Don Blankenship,1
+Branch,Bronson Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,Butler Township Precinct 1,President,,UST,Don Blankenship,1
+Branch,California Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,City of Bronson Precinct 1,President,,UST,Don Blankenship,4
+Branch,City of Coldwater Precinct 1,President,,UST,Don Blankenship,2
+Branch,City of Coldwater Precinct 2,President,,UST,Don Blankenship,1
+Branch,City of Coldwater Precinct 3,President,,UST,Don Blankenship,6
+Branch,City of Coldwater Precinct 4,President,,UST,Don Blankenship,2
+Branch,Coldwater Township Precinct 1,President,,UST,Don Blankenship,4
+Branch,Gilead Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,Girard Township Precinct 1,President,,UST,Don Blankenship,1
+Branch,Kinderhook Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,Matteson Township Precinct 1,President,,UST,Don Blankenship,0
+Branch,Noble Township Precinct 1,President,,UST,Don Blankenship,1
+Branch,Ovid Township Precinct 1,President,,UST,Don Blankenship,2
+Branch,Quincy Township Precinct 1,President,,UST,Don Blankenship,1
+Branch,Quincy Township Precinct 2,President,,UST,Don Blankenship,2
+Branch,Sherwood Township Precinct 1,President,,UST,Don Blankenship,2
+Branch,Union Township Precinct 1,President,,UST,Don Blankenship,5
+Branch,Algansee Township Precinct 1,President,,GRN,Howie Hawkins,0
+Branch,Batavia Township Precinct 1,President,,GRN,Howie Hawkins,0
+Branch,Bethel Township Precinct 1,President,,GRN,Howie Hawkins,2
+Branch,Bronson Township Precinct 1,President,,GRN,Howie Hawkins,1
+Branch,Butler Township Precinct 1,President,,GRN,Howie Hawkins,1
+Branch,California Township Precinct 1,President,,GRN,Howie Hawkins,1
+Branch,City of Bronson Precinct 1,President,,GRN,Howie Hawkins,4
+Branch,City of Coldwater Precinct 1,President,,GRN,Howie Hawkins,7
+Branch,City of Coldwater Precinct 2,President,,GRN,Howie Hawkins,9
+Branch,City of Coldwater Precinct 3,President,,GRN,Howie Hawkins,2
+Branch,City of Coldwater Precinct 4,President,,GRN,Howie Hawkins,2
+Branch,Coldwater Township Precinct 1,President,,GRN,Howie Hawkins,3
+Branch,Gilead Township Precinct 1,President,,GRN,Howie Hawkins,0
+Branch,Girard Township Precinct 1,President,,GRN,Howie Hawkins,1
+Branch,Kinderhook Township Precinct 1,President,,GRN,Howie Hawkins,3
+Branch,Matteson Township Precinct 1,President,,GRN,Howie Hawkins,2
+Branch,Noble Township Precinct 1,President,,GRN,Howie Hawkins,0
+Branch,Ovid Township Precinct 1,President,,GRN,Howie Hawkins,2
+Branch,Quincy Township Precinct 1,President,,GRN,Howie Hawkins,0
+Branch,Quincy Township Precinct 2,President,,GRN,Howie Hawkins,3
+Branch,Sherwood Township Precinct 1,President,,GRN,Howie Hawkins,2
+Branch,Union Township Precinct 1,President,,GRN,Howie Hawkins,2
+Branch,Algansee Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Batavia Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Bethel Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Bronson Township Precinct 1,President,,NLP,Rocky De La Fuente,1
+Branch,Butler Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,California Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,City of Bronson Precinct 1,President,,NLP,Rocky De La Fuente,1
+Branch,City of Coldwater Precinct 1,President,,NLP,Rocky De La Fuente,3
+Branch,City of Coldwater Precinct 2,President,,NLP,Rocky De La Fuente,1
+Branch,City of Coldwater Precinct 3,President,,NLP,Rocky De La Fuente,1
+Branch,City of Coldwater Precinct 4,President,,NLP,Rocky De La Fuente,2
+Branch,Coldwater Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Gilead Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Girard Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Kinderhook Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Matteson Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Noble Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Ovid Township Precinct 1,President,,NLP,Rocky De La Fuente,2
+Branch,Quincy Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Quincy Township Precinct 2,President,,NLP,Rocky De La Fuente,0
+Branch,Sherwood Township Precinct 1,President,,NLP,Rocky De La Fuente,0
+Branch,Union Township Precinct 1,President,,NLP,Rocky De La Fuente,1
+Branch,Algansee Township Precinct 1,President,,,Write-ins,3
+Branch,Batavia Township Precinct 1,President,,,Write-ins,1
+Branch,Bethel Township Precinct 1,President,,,Write-ins,0
+Branch,Bronson Township Precinct 1,President,,,Write-ins,1
+Branch,Butler Township Precinct 1,President,,,Write-ins,2
+Branch,California Township Precinct 1,President,,,Write-ins,1
+Branch,City of Bronson Precinct 1,President,,,Write-ins,0
+Branch,City of Coldwater Precinct 1,President,,,Write-ins,1
+Branch,City of Coldwater Precinct 2,President,,,Write-ins,1
+Branch,City of Coldwater Precinct 3,President,,,Write-ins,4
+Branch,City of Coldwater Precinct 4,President,,,Write-ins,1
+Branch,Coldwater Township Precinct 1,President,,,Write-ins,6
+Branch,Gilead Township Precinct 1,President,,,Write-ins,3
+Branch,Girard Township Precinct 1,President,,,Write-ins,1
+Branch,Kinderhook Township Precinct 1,President,,,Write-ins,0
+Branch,Matteson Township Precinct 1,President,,,Write-ins,0
+Branch,Noble Township Precinct 1,President,,,Write-ins,1
+Branch,Ovid Township Precinct 1,President,,,Write-ins,4
+Branch,Quincy Township Precinct 1,President,,,Write-ins,0
+Branch,Quincy Township Precinct 2,President,,,Write-ins,2
+Branch,Sherwood Township Precinct 1,President,,,Write-ins,0
+Branch,Union Township Precinct 1,President,,,Write-ins,5
+Branch,Algansee Township Precinct 1,U.S. Senate,,DEM,Gary Peters,234
+Branch,Batavia Township Precinct 1,U.S. Senate,,DEM,Gary Peters,183
+Branch,Bethel Township Precinct 1,U.S. Senate,,DEM,Gary Peters,144
+Branch,Bronson Township Precinct 1,U.S. Senate,,DEM,Gary Peters,158
+Branch,Butler Township Precinct 1,U.S. Senate,,DEM,Gary Peters,148
+Branch,California Township Precinct 1,U.S. Senate,,DEM,Gary Peters,52
+Branch,City of Bronson Precinct 1,U.S. Senate,,DEM,Gary Peters,260
+Branch,City of Coldwater Precinct 1,U.S. Senate,,DEM,Gary Peters,477
+Branch,City of Coldwater Precinct 2,U.S. Senate,,DEM,Gary Peters,482
+Branch,City of Coldwater Precinct 3,U.S. Senate,,DEM,Gary Peters,561
+Branch,City of Coldwater Precinct 4,U.S. Senate,,DEM,Gary Peters,417
+Branch,Coldwater Township Precinct 1,U.S. Senate,,DEM,Gary Peters,494
+Branch,Gilead Township Precinct 1,U.S. Senate,,DEM,Gary Peters,98
+Branch,Girard Township Precinct 1,U.S. Senate,,DEM,Gary Peters,279
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,DEM,Gary Peters,244
+Branch,Matteson Township Precinct 1,U.S. Senate,,DEM,Gary Peters,192
+Branch,Noble Township Precinct 1,U.S. Senate,,DEM,Gary Peters,55
+Branch,Ovid Township Precinct 1,U.S. Senate,,DEM,Gary Peters,417
+Branch,Quincy Township Precinct 1,U.S. Senate,,DEM,Gary Peters,209
+Branch,Quincy Township Precinct 2,U.S. Senate,,DEM,Gary Peters,312
+Branch,Sherwood Township Precinct 1,U.S. Senate,,DEM,Gary Peters,273
+Branch,Union Township Precinct 1,U.S. Senate,,DEM,Gary Peters,430
+Branch,Algansee Township Precinct 1,U.S. Senate,,REP,John James,704
+Branch,Batavia Township Precinct 1,U.S. Senate,,REP,John James,478
+Branch,Bethel Township Precinct 1,U.S. Senate,,REP,John James,433
+Branch,Bronson Township Precinct 1,U.S. Senate,,REP,John James,528
+Branch,Butler Township Precinct 1,U.S. Senate,,REP,John James,454
+Branch,California Township Precinct 1,U.S. Senate,,REP,John James,198
+Branch,City of Bronson Precinct 1,U.S. Senate,,REP,John James,553
+Branch,City of Coldwater Precinct 1,U.S. Senate,,REP,John James,457
+Branch,City of Coldwater Precinct 2,U.S. Senate,,REP,John James,721
+Branch,City of Coldwater Precinct 3,U.S. Senate,,REP,John James,918
+Branch,City of Coldwater Precinct 4,U.S. Senate,,REP,John James,574
+Branch,Coldwater Township Precinct 1,U.S. Senate,,REP,John James,"1,314"
+Branch,Gilead Township Precinct 1,U.S. Senate,,REP,John James,248
+Branch,Girard Township Precinct 1,U.S. Senate,,REP,John James,738
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,REP,John James,677
+Branch,Matteson Township Precinct 1,U.S. Senate,,REP,John James,463
+Branch,Noble Township Precinct 1,U.S. Senate,,REP,John James,213
+Branch,Ovid Township Precinct 1,U.S. Senate,,REP,John James,"1,062"
+Branch,Quincy Township Precinct 1,U.S. Senate,,REP,John James,502
+Branch,Quincy Township Precinct 2,U.S. Senate,,REP,John James,827
+Branch,Sherwood Township Precinct 1,U.S. Senate,,REP,John James,701
+Branch,Union Township Precinct 1,U.S. Senate,,REP,John James,919
+Branch,Algansee Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,10
+Branch,Batavia Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,13
+Branch,Bethel Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,6
+Branch,Bronson Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,3
+Branch,Butler Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,5
+Branch,California Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,5
+Branch,City of Bronson Precinct 1,U.S. Senate,,UST,Valerie L. Willis,16
+Branch,City of Coldwater Precinct 1,U.S. Senate,,UST,Valerie L. Willis,17
+Branch,City of Coldwater Precinct 2,U.S. Senate,,UST,Valerie L. Willis,16
+Branch,City of Coldwater Precinct 3,U.S. Senate,,UST,Valerie L. Willis,20
+Branch,City of Coldwater Precinct 4,U.S. Senate,,UST,Valerie L. Willis,22
+Branch,Coldwater Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,26
+Branch,Gilead Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,3
+Branch,Girard Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,17
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,6
+Branch,Matteson Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,10
+Branch,Noble Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,2
+Branch,Ovid Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,17
+Branch,Quincy Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,9
+Branch,Quincy Township Precinct 2,U.S. Senate,,UST,Valerie L. Willis,17
+Branch,Sherwood Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,18
+Branch,Union Township Precinct 1,U.S. Senate,,UST,Valerie L. Willis,20
+Branch,Algansee Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,4
+Branch,Batavia Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,4
+Branch,Bethel Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,6
+Branch,Bronson Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,3
+Branch,Butler Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,5
+Branch,California Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,2
+Branch,City of Bronson Precinct 1,U.S. Senate,,GRN,Marcia Squier,12
+Branch,City of Coldwater Precinct 1,U.S. Senate,,GRN,Marcia Squier,11
+Branch,City of Coldwater Precinct 2,U.S. Senate,,GRN,Marcia Squier,10
+Branch,City of Coldwater Precinct 3,U.S. Senate,,GRN,Marcia Squier,8
+Branch,City of Coldwater Precinct 4,U.S. Senate,,GRN,Marcia Squier,10
+Branch,Coldwater Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,10
+Branch,Gilead Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,1
+Branch,Girard Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,4
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,3
+Branch,Matteson Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,2
+Branch,Noble Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,0
+Branch,Ovid Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,5
+Branch,Quincy Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,5
+Branch,Quincy Township Precinct 2,U.S. Senate,,GRN,Marcia Squier,5
+Branch,Sherwood Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,8
+Branch,Union Township Precinct 1,U.S. Senate,,GRN,Marcia Squier,14
+Branch,Algansee Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Batavia Township Precinct 1,U.S. Senate,,NLP,Doug Dern,2
+Branch,Bethel Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Bronson Township Precinct 1,U.S. Senate,,NLP,Doug Dern,2
+Branch,Butler Township Precinct 1,U.S. Senate,,NLP,Doug Dern,4
+Branch,California Township Precinct 1,U.S. Senate,,NLP,Doug Dern,1
+Branch,City of Bronson Precinct 1,U.S. Senate,,NLP,Doug Dern,0
+Branch,City of Coldwater Precinct 1,U.S. Senate,,NLP,Doug Dern,6
+Branch,City of Coldwater Precinct 2,U.S. Senate,,NLP,Doug Dern,4
+Branch,City of Coldwater Precinct 3,U.S. Senate,,NLP,Doug Dern,2
+Branch,City of Coldwater Precinct 4,U.S. Senate,,NLP,Doug Dern,3
+Branch,Coldwater Township Precinct 1,U.S. Senate,,NLP,Doug Dern,9
+Branch,Gilead Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Girard Township Precinct 1,U.S. Senate,,NLP,Doug Dern,2
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Matteson Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Noble Township Precinct 1,U.S. Senate,,NLP,Doug Dern,0
+Branch,Ovid Township Precinct 1,U.S. Senate,,NLP,Doug Dern,3
+Branch,Quincy Township Precinct 1,U.S. Senate,,NLP,Doug Dern,1
+Branch,Quincy Township Precinct 2,U.S. Senate,,NLP,Doug Dern,2
+Branch,Sherwood Township Precinct 1,U.S. Senate,,NLP,Doug Dern,6
+Branch,Union Township Precinct 1,U.S. Senate,,NLP,Doug Dern,7
+Branch,Algansee Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Batavia Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Bethel Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Bronson Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,Butler Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,California Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,City of Bronson Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,City of Coldwater Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,City of Coldwater Precinct 2,U.S. Senate,,,Write-ins,3
+Branch,City of Coldwater Precinct 3,U.S. Senate,,,Write-ins,1
+Branch,City of Coldwater Precinct 4,U.S. Senate,,,Write-ins,3
+Branch,Coldwater Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,Gilead Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Girard Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Kinderhook Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Matteson Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Noble Township Precinct 1,U.S. Senate,,,Write-ins,0
+Branch,Ovid Township Precinct 1,U.S. Senate,,,Write-ins,2
+Branch,Quincy Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,Quincy Township Precinct 2,U.S. Senate,,,Write-ins,1
+Branch,Sherwood Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,Union Township Precinct 1,U.S. Senate,,,Write-ins,1
+Branch,Algansee Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,231
+Branch,Batavia Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,173
+Branch,Bethel Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,139
+Branch,Bronson Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,157
+Branch,Butler Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,152
+Branch,California Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,56
+Branch,City of Bronson Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,246
+Branch,City of Coldwater Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,463
+Branch,City of Coldwater Precinct 2,U.S. House,7,DEM,Gretchen D. Driskell,463
+Branch,City of Coldwater Precinct 3,U.S. House,7,DEM,Gretchen D. Driskell,559
+Branch,City of Coldwater Precinct 4,U.S. House,7,DEM,Gretchen D. Driskell,400
+Branch,Coldwater Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,478
+Branch,Gilead Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,97
+Branch,Girard Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,253
+Branch,Kinderhook Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,239
+Branch,Matteson Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,205
+Branch,Noble Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,46
+Branch,Ovid Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,393
+Branch,Quincy Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,192
+Branch,Quincy Township Precinct 2,U.S. House,7,DEM,Gretchen D. Driskell,306
+Branch,Sherwood Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,272
+Branch,Union Township Precinct 1,U.S. House,7,DEM,Gretchen D. Driskell,409
+Branch,Algansee Township Precinct 1,U.S. House,7,REP,Tim Walberg,726
+Branch,Batavia Township Precinct 1,U.S. House,7,REP,Tim Walberg,501
+Branch,Bethel Township Precinct 1,U.S. House,7,REP,Tim Walberg,445
+Branch,Bronson Township Precinct 1,U.S. House,7,REP,Tim Walberg,527
+Branch,Butler Township Precinct 1,U.S. House,7,REP,Tim Walberg,460
+Branch,California Township Precinct 1,U.S. House,7,REP,Tim Walberg,200
+Branch,City of Bronson Precinct 1,U.S. House,7,REP,Tim Walberg,592
+Branch,City of Coldwater Precinct 1,U.S. House,7,REP,Tim Walberg,495
+Branch,City of Coldwater Precinct 2,U.S. House,7,REP,Tim Walberg,763
+Branch,City of Coldwater Precinct 3,U.S. House,7,REP,Tim Walberg,949
+Branch,City of Coldwater Precinct 4,U.S. House,7,REP,Tim Walberg,626
+Branch,Coldwater Township Precinct 1,U.S. House,7,REP,Tim Walberg,"1,367"
+Branch,Gilead Township Precinct 1,U.S. House,7,REP,Tim Walberg,252
+Branch,Girard Township Precinct 1,U.S. House,7,REP,Tim Walberg,782
+Branch,Kinderhook Township Precinct 1,U.S. House,7,REP,Tim Walberg,688
+Branch,Matteson Township Precinct 1,U.S. House,7,REP,Tim Walberg,456
+Branch,Noble Township Precinct 1,U.S. House,7,REP,Tim Walberg,222
+Branch,Ovid Township Precinct 1,U.S. House,7,REP,Tim Walberg,"1,101"
+Branch,Quincy Township Precinct 1,U.S. House,7,REP,Tim Walberg,533
+Branch,Quincy Township Precinct 2,U.S. House,7,REP,Tim Walberg,850
+Branch,Sherwood Township Precinct 1,U.S. House,7,REP,Tim Walberg,724
+Branch,Union Township Precinct 1,U.S. House,7,REP,Tim Walberg,964
+Branch,Algansee Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Batavia Township Precinct 1,U.S. House,7,,Write-ins,2
+Branch,Bethel Township Precinct 1,U.S. House,7,,Write-ins,2
+Branch,Bronson Township Precinct 1,U.S. House,7,,Write-ins,5
+Branch,Butler Township Precinct 1,U.S. House,7,,Write-ins,2
+Branch,California Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,City of Bronson Precinct 1,U.S. House,7,,Write-ins,1
+Branch,City of Coldwater Precinct 1,U.S. House,7,,Write-ins,4
+Branch,City of Coldwater Precinct 2,U.S. House,7,,Write-ins,1
+Branch,City of Coldwater Precinct 3,U.S. House,7,,Write-ins,4
+Branch,City of Coldwater Precinct 4,U.S. House,7,,Write-ins,5
+Branch,Coldwater Township Precinct 1,U.S. House,7,,Write-ins,4
+Branch,Gilead Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Girard Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Kinderhook Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Matteson Township Precinct 1,U.S. House,7,,Write-ins,1
+Branch,Noble Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Ovid Township Precinct 1,U.S. House,7,,Write-ins,2
+Branch,Quincy Township Precinct 1,U.S. House,7,,Write-ins,0
+Branch,Quincy Township Precinct 2,U.S. House,7,,Write-ins,3
+Branch,Sherwood Township Precinct 1,U.S. House,7,,Write-ins,1
+Branch,Union Township Precinct 1,U.S. House,7,,Write-ins,4
+Branch,Algansee Township Precinct 1,State House,58,DEM,Tamara C. Barnes,239
+Branch,Batavia Township Precinct 1,State House,58,DEM,Tamara C. Barnes,191
+Branch,Bethel Township Precinct 1,State House,58,DEM,Tamara C. Barnes,174
+Branch,Bronson Township Precinct 1,State House,58,DEM,Tamara C. Barnes,173
+Branch,Butler Township Precinct 1,State House,58,DEM,Tamara C. Barnes,160
+Branch,California Township Precinct 1,State House,58,DEM,Tamara C. Barnes,57
+Branch,City of Bronson Precinct 1,State House,58,DEM,Tamara C. Barnes,288
+Branch,City of Coldwater Precinct 1,State House,58,DEM,Tamara C. Barnes,496
+Branch,City of Coldwater Precinct 2,State House,58,DEM,Tamara C. Barnes,497
+Branch,City of Coldwater Precinct 3,State House,58,DEM,Tamara C. Barnes,572
+Branch,City of Coldwater Precinct 4,State House,58,DEM,Tamara C. Barnes,430
+Branch,Coldwater Township Precinct 1,State House,58,DEM,Tamara C. Barnes,506
+Branch,Gilead Township Precinct 1,State House,58,DEM,Tamara C. Barnes,101
+Branch,Girard Township Precinct 1,State House,58,DEM,Tamara C. Barnes,275
+Branch,Kinderhook Township Precinct 1,State House,58,DEM,Tamara C. Barnes,255
+Branch,Matteson Township Precinct 1,State House,58,DEM,Tamara C. Barnes,215
+Branch,Noble Township Precinct 1,State House,58,DEM,Tamara C. Barnes,56
+Branch,Ovid Township Precinct 1,State House,58,DEM,Tamara C. Barnes,419
+Branch,Quincy Township Precinct 1,State House,58,DEM,Tamara C. Barnes,218
+Branch,Quincy Township Precinct 2,State House,58,DEM,Tamara C. Barnes,329
+Branch,Sherwood Township Precinct 1,State House,58,DEM,Tamara C. Barnes,285
+Branch,Union Township Precinct 1,State House,58,DEM,Tamara C. Barnes,449
+Branch,Algansee Township Precinct 1,State House,58,REP,Andrew Fink,704
+Branch,Batavia Township Precinct 1,State House,58,REP,Andrew Fink,483
+Branch,Bethel Township Precinct 1,State House,58,REP,Andrew Fink,408
+Branch,Bronson Township Precinct 1,State House,58,REP,Andrew Fink,511
+Branch,Butler Township Precinct 1,State House,58,REP,Andrew Fink,445
+Branch,California Township Precinct 1,State House,58,REP,Andrew Fink,199
+Branch,City of Bronson Precinct 1,State House,58,REP,Andrew Fink,539
+Branch,City of Coldwater Precinct 1,State House,58,REP,Andrew Fink,458
+Branch,City of Coldwater Precinct 2,State House,58,REP,Andrew Fink,718
+Branch,City of Coldwater Precinct 3,State House,58,REP,Andrew Fink,916
+Branch,City of Coldwater Precinct 4,State House,58,REP,Andrew Fink,585
+Branch,Coldwater Township Precinct 1,State House,58,REP,Andrew Fink,"1,328"
+Branch,Gilead Township Precinct 1,State House,58,REP,Andrew Fink,252
+Branch,Girard Township Precinct 1,State House,58,REP,Andrew Fink,751
+Branch,Kinderhook Township Precinct 1,State House,58,REP,Andrew Fink,666
+Branch,Matteson Township Precinct 1,State House,58,REP,Andrew Fink,448
+Branch,Noble Township Precinct 1,State House,58,REP,Andrew Fink,211
+Branch,Ovid Township Precinct 1,State House,58,REP,Andrew Fink,"1,067"
+Branch,Quincy Township Precinct 1,State House,58,REP,Andrew Fink,498
+Branch,Quincy Township Precinct 2,State House,58,REP,Andrew Fink,813
+Branch,Sherwood Township Precinct 1,State House,58,REP,Andrew Fink,701
+Branch,Union Township Precinct 1,State House,58,REP,Andrew Fink,905
+Branch,Algansee Township Precinct 1,State House,58,,Write-ins,1
+Branch,Batavia Township Precinct 1,State House,58,,Write-ins,3
+Branch,Bethel Township Precinct 1,State House,58,,Write-ins,2
+Branch,Bronson Township Precinct 1,State House,58,,Write-ins,3
+Branch,Butler Township Precinct 1,State House,58,,Write-ins,2
+Branch,California Township Precinct 1,State House,58,,Write-ins,0
+Branch,City of Bronson Precinct 1,State House,58,,Write-ins,4
+Branch,City of Coldwater Precinct 1,State House,58,,Write-ins,3
+Branch,City of Coldwater Precinct 2,State House,58,,Write-ins,4
+Branch,City of Coldwater Precinct 3,State House,58,,Write-ins,2
+Branch,City of Coldwater Precinct 4,State House,58,,Write-ins,3
+Branch,Coldwater Township Precinct 1,State House,58,,Write-ins,1
+Branch,Gilead Township Precinct 1,State House,58,,Write-ins,0
+Branch,Girard Township Precinct 1,State House,58,,Write-ins,2
+Branch,Kinderhook Township Precinct 1,State House,58,,Write-ins,1
+Branch,Matteson Township Precinct 1,State House,58,,Write-ins,0
+Branch,Noble Township Precinct 1,State House,58,,Write-ins,0
+Branch,Ovid Township Precinct 1,State House,58,,Write-ins,6
+Branch,Quincy Township Precinct 1,State House,58,,Write-ins,3
+Branch,Quincy Township Precinct 2,State House,58,,Write-ins,2
+Branch,Sherwood Township Precinct 1,State House,58,,Write-ins,4
+Branch,Union Township Precinct 1,State House,58,,Write-ins,6

@@ -1,0 +1,601 @@
+county,precinct,office,district,party,candidate,votes
+Mecosta,"Aetna Township, Precinct 1",Registered Voters,,,,1684
+Mecosta,"Austin Township, Precinct 1",Registered Voters,,,,1188
+Mecosta,"Big Rapids Charter Township, Precinct 1",Registered Voters,,,,3088
+Mecosta,"Chippewa Township, Precinct 1",Registered Voters,,,,955
+Mecosta,"Colfax Township, Precinct 1",Registered Voters,,,,1791
+Mecosta,"Deerfield Township, Precinct 1",Registered Voters,,,,1241
+Mecosta,"Fork Township, Precinct 1",Registered Voters,,,,1310
+Mecosta,"Grant Township, Precinct 1",Registered Voters,,,,624
+Mecosta,"Green Charter Township, Precinct 1",Registered Voters,,,,2656
+Mecosta,"Hinton Township, Precinct 1",Registered Voters,,,,811
+Mecosta,"Martiny Township, Precinct 1",Registered Voters,,,,1385
+Mecosta,"Mecosta Township, Precinct 1",Registered Voters,,,,2223
+Mecosta,"Millbrook Township, Precinct 1",Registered Voters,,,,799
+Mecosta,"Morton Township, Precinct 1",Registered Voters,,,,2102
+Mecosta,"Morton Township, Precinct 2",Registered Voters,,,,1904
+Mecosta,"Sheridan Township, Precinct 1",Registered Voters,,,,1126
+Mecosta,"Wheatland Township, Precinct 1",Registered Voters,,,,1124
+Mecosta,"City of Big Rapids, Precinct 1",Registered Voters,,,,1543
+Mecosta,"City of Big Rapids, Precinct 2",Registered Voters,,,,2138
+Mecosta,"City of Big Rapids, Precinct 3",Registered Voters,,,,1562
+Mecosta,"Aetna Township, Precinct 1",Ballots Cast,,,,1113
+Mecosta,"Austin Township, Precinct 1",Ballots Cast,,,,848
+Mecosta,"Big Rapids Charter Township, Precinct 1",Ballots Cast,,,,2151
+Mecosta,"Chippewa Township, Precinct 1",Ballots Cast,,,,718
+Mecosta,"Colfax Township, Precinct 1",Ballots Cast,,,,1252
+Mecosta,"Deerfield Township, Precinct 1",Ballots Cast,,,,783
+Mecosta,"Fork Township, Precinct 1",Ballots Cast,,,,829
+Mecosta,"Grant Township, Precinct 1",Ballots Cast,,,,436
+Mecosta,"Green Charter Township, Precinct 1",Ballots Cast,,,,1921
+Mecosta,"Hinton Township, Precinct 1",Ballots Cast,,,,571
+Mecosta,"Martiny Township, Precinct 1",Ballots Cast,,,,927
+Mecosta,"Mecosta Township, Precinct 1",Ballots Cast,,,,1520
+Mecosta,"Millbrook Township, Precinct 1",Ballots Cast,,,,573
+Mecosta,"Morton Township, Precinct 1",Ballots Cast,,,,1619
+Mecosta,"Morton Township, Precinct 2",Ballots Cast,,,,1614
+Mecosta,"Sheridan Township, Precinct 1",Ballots Cast,,,,694
+Mecosta,"Wheatland Township, Precinct 1",Ballots Cast,,,,767
+Mecosta,"City of Big Rapids, Precinct 1",Ballots Cast,,,,813
+Mecosta,"City of Big Rapids, Precinct 2",Ballots Cast,,,,1181
+Mecosta,"City of Big Rapids, Precinct 3",Ballots Cast,,,,834
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,DEM,Democratic,148
+Mecosta,"Austin Township, Precinct 1",Straight Party,,DEM,Democratic,114
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,DEM,Democratic,440
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,DEM,Democratic,114
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,DEM,Democratic,207
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,DEM,Democratic,120
+Mecosta,"Fork Township, Precinct 1",Straight Party,,DEM,Democratic,136
+Mecosta,"Grant Township, Precinct 1",Straight Party,,DEM,Democratic,51
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,DEM,Democratic,283
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,DEM,Democratic,75
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,DEM,Democratic,178
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,DEM,Democratic,256
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,DEM,Democratic,87
+Mecosta,"Morton Township, Precinct 1",Straight Party,,DEM,Democratic,339
+Mecosta,"Morton Township, Precinct 2",Straight Party,,DEM,Democratic,307
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,DEM,Democratic,134
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,DEM,Democratic,125
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,DEM,Democratic,203
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,DEM,Democratic,354
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,DEM,Democratic,217
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,REP,Republican,590
+Mecosta,"Austin Township, Precinct 1",Straight Party,,REP,Republican,415
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,REP,Republican,804
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,REP,Republican,332
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,REP,Republican,527
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,REP,Republican,410
+Mecosta,"Fork Township, Precinct 1",Straight Party,,REP,Republican,386
+Mecosta,"Grant Township, Precinct 1",Straight Party,,REP,Republican,215
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,REP,Republican,828
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,REP,Republican,301
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,REP,Republican,370
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,REP,Republican,670
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,REP,Republican,282
+Mecosta,"Morton Township, Precinct 1",Straight Party,,REP,Republican,667
+Mecosta,"Morton Township, Precinct 2",Straight Party,,REP,Republican,760
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,REP,Republican,297
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,REP,Republican,291
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,REP,Republican,237
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,REP,Republican,290
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,REP,Republican,297
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Mecosta,"Austin Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,LIB,Libertarian,16
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,LIB,Libertarian,7
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Mecosta,"Fork Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Mecosta,"Grant Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,LIB,Libertarian,8
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Mecosta,"Morton Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Mecosta,"Morton Township, Precinct 2",Straight Party,,LIB,Libertarian,3
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,LIB,Libertarian,8
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,LIB,Libertarian,9
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,LIB,Libertarian,10
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,LIB,Libertarian,4
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,4
+Mecosta,"Austin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Fork Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Mecosta,"Grant Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,5
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Mecosta,"Morton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Morton Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,UST,U.S. Taxpayers,1
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Mecosta,"Austin Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,WCP,Working Class,11
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,WCP,Working Class,7
+Mecosta,"Fork Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Mecosta,"Grant Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Mecosta,"Morton Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Mecosta,"Morton Township, Precinct 2",Straight Party,,WCP,Working Class,0
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,WCP,Working Class,3
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,WCP,Working Class,5
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,WCP,Working Class,7
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Austin Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,GRN,Green,1
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,GRN,Green,2
+Mecosta,"Fork Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Grant Township, Precinct 1",Straight Party,,GRN,Green,1
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,GRN,Green,2
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,GRN,Green,1
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,GRN,Green,3
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Morton Township, Precinct 1",Straight Party,,GRN,Green,2
+Mecosta,"Morton Township, Precinct 2",Straight Party,,GRN,Green,0
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,GRN,Green,0
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,GRN,Green,4
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,GRN,Green,5
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,GRN,Green,3
+Mecosta,"Aetna Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Austin Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Big Rapids Charter Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Mecosta,"Chippewa Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Colfax Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Deerfield Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Fork Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Grant Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Green Charter Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Hinton Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Martiny Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Mecosta Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Millbrook Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Mecosta,"Morton Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Morton Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Mecosta,"Sheridan Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"Wheatland Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Mecosta,"City of Big Rapids, Precinct 1",Straight Party,,NLP,Natural Law,0
+Mecosta,"City of Big Rapids, Precinct 2",Straight Party,,NLP,Natural Law,0
+Mecosta,"City of Big Rapids, Precinct 3",Straight Party,,NLP,Natural Law,1
+Mecosta,"Aetna Township, Precinct 1",President,,DEM,Joseph R. Biden,253
+Mecosta,"Austin Township, Precinct 1",President,,DEM,Joseph R. Biden,243
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,DEM,Joseph R. Biden,871
+Mecosta,"Chippewa Township, Precinct 1",President,,DEM,Joseph R. Biden,215
+Mecosta,"Colfax Township, Precinct 1",President,,DEM,Joseph R. Biden,424
+Mecosta,"Deerfield Township, Precinct 1",President,,DEM,Joseph R. Biden,205
+Mecosta,"Fork Township, Precinct 1",President,,DEM,Joseph R. Biden,247
+Mecosta,"Grant Township, Precinct 1",President,,DEM,Joseph R. Biden,109
+Mecosta,"Green Charter Township, Precinct 1",President,,DEM,Joseph R. Biden,616
+Mecosta,"Hinton Township, Precinct 1",President,,DEM,Joseph R. Biden,140
+Mecosta,"Martiny Township, Precinct 1",President,,DEM,Joseph R. Biden,335
+Mecosta,"Mecosta Township, Precinct 1",President,,DEM,Joseph R. Biden,493
+Mecosta,"Millbrook Township, Precinct 1",President,,DEM,Joseph R. Biden,151
+Mecosta,"Morton Township, Precinct 1",President,,DEM,Joseph R. Biden,606
+Mecosta,"Morton Township, Precinct 2",President,,DEM,Joseph R. Biden,549
+Mecosta,"Sheridan Township, Precinct 1",President,,DEM,Joseph R. Biden,234
+Mecosta,"Wheatland Township, Precinct 1",President,,DEM,Joseph R. Biden,257
+Mecosta,"City of Big Rapids, Precinct 1",President,,DEM,Joseph R. Biden,395
+Mecosta,"City of Big Rapids, Precinct 2",President,,DEM,Joseph R. Biden,682
+Mecosta,"City of Big Rapids, Precinct 3",President,,DEM,Joseph R. Biden,350
+Mecosta,"Aetna Township, Precinct 1",President,,REP,Donald J. Trump,837
+Mecosta,"Austin Township, Precinct 1",President,,REP,Donald J. Trump,593
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,REP,Donald J. Trump,1222
+Mecosta,"Chippewa Township, Precinct 1",President,,REP,Donald J. Trump,483
+Mecosta,"Colfax Township, Precinct 1",President,,REP,Donald J. Trump,795
+Mecosta,"Deerfield Township, Precinct 1",President,,REP,Donald J. Trump,564
+Mecosta,"Fork Township, Precinct 1",President,,REP,Donald J. Trump,567
+Mecosta,"Grant Township, Precinct 1",President,,REP,Donald J. Trump,320
+Mecosta,"Green Charter Township, Precinct 1",President,,REP,Donald J. Trump,1258
+Mecosta,"Hinton Township, Precinct 1",President,,REP,Donald J. Trump,425
+Mecosta,"Martiny Township, Precinct 1",President,,REP,Donald J. Trump,569
+Mecosta,"Mecosta Township, Precinct 1",President,,REP,Donald J. Trump,995
+Mecosta,"Millbrook Township, Precinct 1",President,,REP,Donald J. Trump,409
+Mecosta,"Morton Township, Precinct 1",President,,REP,Donald J. Trump,983
+Mecosta,"Morton Township, Precinct 2",President,,REP,Donald J. Trump,1039
+Mecosta,"Sheridan Township, Precinct 1",President,,REP,Donald J. Trump,439
+Mecosta,"Wheatland Township, Precinct 1",President,,REP,Donald J. Trump,484
+Mecosta,"City of Big Rapids, Precinct 1",President,,REP,Donald J. Trump,384
+Mecosta,"City of Big Rapids, Precinct 2",President,,REP,Donald J. Trump,457
+Mecosta,"City of Big Rapids, Precinct 3",President,,REP,Donald J. Trump,444
+Mecosta,"Aetna Township, Precinct 1",President,,LIB,Jo Jorgensen,14
+Mecosta,"Austin Township, Precinct 1",President,,LIB,Jo Jorgensen,9
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,LIB,Jo Jorgensen,41
+Mecosta,"Chippewa Township, Precinct 1",President,,LIB,Jo Jorgensen,13
+Mecosta,"Colfax Township, Precinct 1",President,,LIB,Jo Jorgensen,19
+Mecosta,"Deerfield Township, Precinct 1",President,,LIB,Jo Jorgensen,7
+Mecosta,"Fork Township, Precinct 1",President,,LIB,Jo Jorgensen,4
+Mecosta,"Grant Township, Precinct 1",President,,LIB,Jo Jorgensen,3
+Mecosta,"Green Charter Township, Precinct 1",President,,LIB,Jo Jorgensen,32
+Mecosta,"Hinton Township, Precinct 1",President,,LIB,Jo Jorgensen,3
+Mecosta,"Martiny Township, Precinct 1",President,,LIB,Jo Jorgensen,8
+Mecosta,"Mecosta Township, Precinct 1",President,,LIB,Jo Jorgensen,19
+Mecosta,"Millbrook Township, Precinct 1",President,,LIB,Jo Jorgensen,6
+Mecosta,"Morton Township, Precinct 1",President,,LIB,Jo Jorgensen,12
+Mecosta,"Morton Township, Precinct 2",President,,LIB,Jo Jorgensen,14
+Mecosta,"Sheridan Township, Precinct 1",President,,LIB,Jo Jorgensen,10
+Mecosta,"Wheatland Township, Precinct 1",President,,LIB,Jo Jorgensen,13
+Mecosta,"City of Big Rapids, Precinct 1",President,,LIB,Jo Jorgensen,20
+Mecosta,"City of Big Rapids, Precinct 2",President,,LIB,Jo Jorgensen,27
+Mecosta,"City of Big Rapids, Precinct 3",President,,LIB,Jo Jorgensen,29
+Mecosta,"Aetna Township, Precinct 1",President,,UST,Don Blankenship,1
+Mecosta,"Austin Township, Precinct 1",President,,UST,Don Blankenship,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,UST,Don Blankenship,2
+Mecosta,"Chippewa Township, Precinct 1",President,,UST,Don Blankenship,2
+Mecosta,"Colfax Township, Precinct 1",President,,UST,Don Blankenship,1
+Mecosta,"Deerfield Township, Precinct 1",President,,UST,Don Blankenship,3
+Mecosta,"Fork Township, Precinct 1",President,,UST,Don Blankenship,1
+Mecosta,"Grant Township, Precinct 1",President,,UST,Don Blankenship,0
+Mecosta,"Green Charter Township, Precinct 1",President,,UST,Don Blankenship,1
+Mecosta,"Hinton Township, Precinct 1",President,,UST,Don Blankenship,0
+Mecosta,"Martiny Township, Precinct 1",President,,UST,Don Blankenship,4
+Mecosta,"Mecosta Township, Precinct 1",President,,UST,Don Blankenship,5
+Mecosta,"Millbrook Township, Precinct 1",President,,UST,Don Blankenship,1
+Mecosta,"Morton Township, Precinct 1",President,,UST,Don Blankenship,4
+Mecosta,"Morton Township, Precinct 2",President,,UST,Don Blankenship,1
+Mecosta,"Sheridan Township, Precinct 1",President,,UST,Don Blankenship,4
+Mecosta,"Wheatland Township, Precinct 1",President,,UST,Don Blankenship,3
+Mecosta,"City of Big Rapids, Precinct 1",President,,UST,Don Blankenship,2
+Mecosta,"City of Big Rapids, Precinct 2",President,,UST,Don Blankenship,0
+Mecosta,"City of Big Rapids, Precinct 3",President,,UST,Don Blankenship,2
+Mecosta,"Aetna Township, Precinct 1",President,,GRN,Howie Hawkins,0
+Mecosta,"Austin Township, Precinct 1",President,,GRN,Howie Hawkins,1
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,GRN,Howie Hawkins,5
+Mecosta,"Chippewa Township, Precinct 1",President,,GRN,Howie Hawkins,2
+Mecosta,"Colfax Township, Precinct 1",President,,GRN,Howie Hawkins,3
+Mecosta,"Deerfield Township, Precinct 1",President,,GRN,Howie Hawkins,1
+Mecosta,"Fork Township, Precinct 1",President,,GRN,Howie Hawkins,4
+Mecosta,"Grant Township, Precinct 1",President,,GRN,Howie Hawkins,1
+Mecosta,"Green Charter Township, Precinct 1",President,,GRN,Howie Hawkins,5
+Mecosta,"Hinton Township, Precinct 1",President,,GRN,Howie Hawkins,1
+Mecosta,"Martiny Township, Precinct 1",President,,GRN,Howie Hawkins,4
+Mecosta,"Mecosta Township, Precinct 1",President,,GRN,Howie Hawkins,2
+Mecosta,"Millbrook Township, Precinct 1",President,,GRN,Howie Hawkins,0
+Mecosta,"Morton Township, Precinct 1",President,,GRN,Howie Hawkins,3
+Mecosta,"Morton Township, Precinct 2",President,,GRN,Howie Hawkins,1
+Mecosta,"Sheridan Township, Precinct 1",President,,GRN,Howie Hawkins,0
+Mecosta,"Wheatland Township, Precinct 1",President,,GRN,Howie Hawkins,4
+Mecosta,"City of Big Rapids, Precinct 1",President,,GRN,Howie Hawkins,7
+Mecosta,"City of Big Rapids, Precinct 2",President,,GRN,Howie Hawkins,5
+Mecosta,"City of Big Rapids, Precinct 3",President,,GRN,Howie Hawkins,2
+Mecosta,"Aetna Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Austin Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Chippewa Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Colfax Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Deerfield Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Fork Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Grant Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Green Charter Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Hinton Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Martiny Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Mecosta Township, Precinct 1",President,,NLP,Rocky De La Fuente,1
+Mecosta,"Millbrook Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Morton Township, Precinct 1",President,,NLP,Rocky De La Fuente,2
+Mecosta,"Morton Township, Precinct 2",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Sheridan Township, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"Wheatland Township, Precinct 1",President,,NLP,Rocky De La Fuente,3
+Mecosta,"City of Big Rapids, Precinct 1",President,,NLP,Rocky De La Fuente,0
+Mecosta,"City of Big Rapids, Precinct 2",President,,NLP,Rocky De La Fuente,0
+Mecosta,"City of Big Rapids, Precinct 3",President,,NLP,Rocky De La Fuente,2
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,274
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,222
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,817
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,228
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,392
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,194
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,247
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,108
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,604
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,146
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,338
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,499
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,159
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,598
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,DEM,Gary Peters,530
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,240
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,DEM,Gary Peters,252
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,DEM,Gary Peters,382
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,DEM,Gary Peters,649
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,DEM,Gary Peters,349
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,REP,John James,799
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,REP,John James,601
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,REP,John James,1273
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,REP,John James,471
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,REP,John James,832
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,REP,John James,557
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,REP,John James,553
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,REP,John James,317
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,REP,John James,1257
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,REP,John James,416
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,REP,John James,543
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,REP,John James,983
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,REP,John James,394
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,REP,John James,983
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,REP,John James,1064
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,REP,John James,429
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,REP,John James,482
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,REP,John James,393
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,REP,John James,482
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,REP,John James,446
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,13
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,9
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,11
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,4
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,3
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,11
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,7
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,1
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,14
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,3
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,17
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,6
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,4
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,10
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,UST,Valerie L. Willis,2
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,12
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,12
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,UST,Valerie L. Willis,6
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,UST,Valerie L. Willis,11
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,UST,Valerie L. Willis,11
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,5
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,2
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,17
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,3
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,8
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,5
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,5
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,1
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,19
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,1
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,6
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,13
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,4
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,6
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,GRN,Marcia Squier,4
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,2
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,GRN,Marcia Squier,6
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,GRN,Marcia Squier,13
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,GRN,Marcia Squier,14
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,GRN,Marcia Squier,9
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,8
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,0
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,NLP,Doug Dern,3
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,NLP,Doug Dern,2
+Mecosta,"Aetna Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,235
+Mecosta,"Austin Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,197
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,735
+Mecosta,"Chippewa Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,187
+Mecosta,"Colfax Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,365
+Mecosta,"Deerfield Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,181
+Mecosta,"Fork Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,216
+Mecosta,"Grant Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,97
+Mecosta,"Green Charter Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,537
+Mecosta,"Hinton Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,126
+Mecosta,"Martiny Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,294
+Mecosta,"Mecosta Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,423
+Mecosta,"Millbrook Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,133
+Mecosta,"Morton Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,529
+Mecosta,"Morton Township, Precinct 2",U.S. House,4,DEM,Jerry Hilliard,472
+Mecosta,"Sheridan Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,220
+Mecosta,"Wheatland Township, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,213
+Mecosta,"City of Big Rapids, Precinct 1",U.S. House,4,DEM,Jerry Hilliard,341
+Mecosta,"City of Big Rapids, Precinct 2",U.S. House,4,DEM,Jerry Hilliard,596
+Mecosta,"City of Big Rapids, Precinct 3",U.S. House,4,DEM,Jerry Hilliard,311
+Mecosta,"Aetna Township, Precinct 1",U.S. House,4,REP,John Moolenaar,809
+Mecosta,"Austin Township, Precinct 1",U.S. House,4,REP,John Moolenaar,606
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. House,4,REP,John Moolenaar,1277
+Mecosta,"Chippewa Township, Precinct 1",U.S. House,4,REP,John Moolenaar,495
+Mecosta,"Colfax Township, Precinct 1",U.S. House,4,REP,John Moolenaar,833
+Mecosta,"Deerfield Township, Precinct 1",U.S. House,4,REP,John Moolenaar,560
+Mecosta,"Fork Township, Precinct 1",U.S. House,4,REP,John Moolenaar,578
+Mecosta,"Grant Township, Precinct 1",U.S. House,4,REP,John Moolenaar,317
+Mecosta,"Green Charter Township, Precinct 1",U.S. House,4,REP,John Moolenaar,1268
+Mecosta,"Hinton Township, Precinct 1",U.S. House,4,REP,John Moolenaar,417
+Mecosta,"Martiny Township, Precinct 1",U.S. House,4,REP,John Moolenaar,568
+Mecosta,"Mecosta Township, Precinct 1",U.S. House,4,REP,John Moolenaar,1019
+Mecosta,"Millbrook Township, Precinct 1",U.S. House,4,REP,John Moolenaar,404
+Mecosta,"Morton Township, Precinct 1",U.S. House,4,REP,John Moolenaar,1029
+Mecosta,"Morton Township, Precinct 2",U.S. House,4,REP,John Moolenaar,1082
+Mecosta,"Sheridan Township, Precinct 1",U.S. House,4,REP,John Moolenaar,443
+Mecosta,"Wheatland Township, Precinct 1",U.S. House,4,REP,John Moolenaar,501
+Mecosta,"City of Big Rapids, Precinct 1",U.S. House,4,REP,John Moolenaar,389
+Mecosta,"City of Big Rapids, Precinct 2",U.S. House,4,REP,John Moolenaar,488
+Mecosta,"City of Big Rapids, Precinct 3",U.S. House,4,REP,John Moolenaar,444
+Mecosta,"Aetna Township, Precinct 1",U.S. House,4,LIB,David Canny,22
+Mecosta,"Austin Township, Precinct 1",U.S. House,4,LIB,David Canny,11
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. House,4,LIB,David Canny,50
+Mecosta,"Chippewa Township, Precinct 1",U.S. House,4,LIB,David Canny,9
+Mecosta,"Colfax Township, Precinct 1",U.S. House,4,LIB,David Canny,15
+Mecosta,"Deerfield Township, Precinct 1",U.S. House,4,LIB,David Canny,15
+Mecosta,"Fork Township, Precinct 1",U.S. House,4,LIB,David Canny,12
+Mecosta,"Grant Township, Precinct 1",U.S. House,4,LIB,David Canny,6
+Mecosta,"Green Charter Township, Precinct 1",U.S. House,4,LIB,David Canny,36
+Mecosta,"Hinton Township, Precinct 1",U.S. House,4,LIB,David Canny,9
+Mecosta,"Martiny Township, Precinct 1",U.S. House,4,LIB,David Canny,14
+Mecosta,"Mecosta Township, Precinct 1",U.S. House,4,LIB,David Canny,19
+Mecosta,"Millbrook Township, Precinct 1",U.S. House,4,LIB,David Canny,8
+Mecosta,"Morton Township, Precinct 1",U.S. House,4,LIB,David Canny,6
+Mecosta,"Morton Township, Precinct 2",U.S. House,4,LIB,David Canny,11
+Mecosta,"Sheridan Township, Precinct 1",U.S. House,4,LIB,David Canny,8
+Mecosta,"Wheatland Township, Precinct 1",U.S. House,4,LIB,David Canny,23
+Mecosta,"City of Big Rapids, Precinct 1",U.S. House,4,LIB,David Canny,25
+Mecosta,"City of Big Rapids, Precinct 2",U.S. House,4,LIB,David Canny,36
+Mecosta,"City of Big Rapids, Precinct 3",U.S. House,4,LIB,David Canny,24
+Mecosta,"Aetna Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,16
+Mecosta,"Austin Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,6
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,24
+Mecosta,"Chippewa Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,9
+Mecosta,"Colfax Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,14
+Mecosta,"Deerfield Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,6
+Mecosta,"Fork Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,6
+Mecosta,"Grant Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,5
+Mecosta,"Green Charter Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,27
+Mecosta,"Hinton Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,7
+Mecosta,"Martiny Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,14
+Mecosta,"Mecosta Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,19
+Mecosta,"Millbrook Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,10
+Mecosta,"Morton Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,16
+Mecosta,"Morton Township, Precinct 2",U.S. House,4,GRN,Amy Slepr,10
+Mecosta,"Sheridan Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,10
+Mecosta,"Wheatland Township, Precinct 1",U.S. House,4,GRN,Amy Slepr,5
+Mecosta,"City of Big Rapids, Precinct 1",U.S. House,4,GRN,Amy Slepr,24
+Mecosta,"City of Big Rapids, Precinct 2",U.S. House,4,GRN,Amy Slepr,27
+Mecosta,"City of Big Rapids, Precinct 3",U.S. House,4,GRN,Amy Slepr,24
+Mecosta,"Aetna Township, Precinct 1",State House,102,DEM,Amanda Siggins,241
+Mecosta,"Austin Township, Precinct 1",State House,102,DEM,Amanda Siggins,209
+Mecosta,"Big Rapids Charter Township, Precinct 1",State House,102,DEM,Amanda Siggins,769
+Mecosta,"Chippewa Township, Precinct 1",State House,102,DEM,Amanda Siggins,201
+Mecosta,"Colfax Township, Precinct 1",State House,102,DEM,Amanda Siggins,383
+Mecosta,"Deerfield Township, Precinct 1",State House,102,DEM,Amanda Siggins,190
+Mecosta,"Fork Township, Precinct 1",State House,102,DEM,Amanda Siggins,226
+Mecosta,"Grant Township, Precinct 1",State House,102,DEM,Amanda Siggins,94
+Mecosta,"Green Charter Township, Precinct 1",State House,102,DEM,Amanda Siggins,557
+Mecosta,"Hinton Township, Precinct 1",State House,102,DEM,Amanda Siggins,131
+Mecosta,"Martiny Township, Precinct 1",State House,102,DEM,Amanda Siggins,312
+Mecosta,"Mecosta Township, Precinct 1",State House,102,DEM,Amanda Siggins,434
+Mecosta,"Millbrook Township, Precinct 1",State House,102,DEM,Amanda Siggins,148
+Mecosta,"Morton Township, Precinct 1",State House,102,DEM,Amanda Siggins,552
+Mecosta,"Morton Township, Precinct 2",State House,102,DEM,Amanda Siggins,488
+Mecosta,"Sheridan Township, Precinct 1",State House,102,DEM,Amanda Siggins,220
+Mecosta,"Wheatland Township, Precinct 1",State House,102,DEM,Amanda Siggins,231
+Mecosta,"City of Big Rapids, Precinct 1",State House,102,DEM,Amanda Siggins,366
+Mecosta,"City of Big Rapids, Precinct 2",State House,102,DEM,Amanda Siggins,632
+Mecosta,"City of Big Rapids, Precinct 3",State House,102,DEM,Amanda Siggins,338
+Mecosta,"Aetna Township, Precinct 1",State House,102,REP,Michele Hoitenga,836
+Mecosta,"Austin Township, Precinct 1",State House,102,REP,Michele Hoitenga,610
+Mecosta,"Big Rapids Charter Township, Precinct 1",State House,102,REP,Michele Hoitenga,1301
+Mecosta,"Chippewa Township, Precinct 1",State House,102,REP,Michele Hoitenga,496
+Mecosta,"Colfax Township, Precinct 1",State House,102,REP,Michele Hoitenga,833
+Mecosta,"Deerfield Township, Precinct 1",State House,102,REP,Michele Hoitenga,569
+Mecosta,"Fork Township, Precinct 1",State House,102,REP,Michele Hoitenga,572
+Mecosta,"Grant Township, Precinct 1",State House,102,REP,Michele Hoitenga,327
+Mecosta,"Green Charter Township, Precinct 1",State House,102,REP,Michele Hoitenga,1307
+Mecosta,"Hinton Township, Precinct 1",State House,102,REP,Michele Hoitenga,422
+Mecosta,"Martiny Township, Precinct 1",State House,102,REP,Michele Hoitenga,574
+Mecosta,"Mecosta Township, Precinct 1",State House,102,REP,Michele Hoitenga,1030
+Mecosta,"Millbrook Township, Precinct 1",State House,102,REP,Michele Hoitenga,400
+Mecosta,"Morton Township, Precinct 1",State House,102,REP,Michele Hoitenga,1018
+Mecosta,"Morton Township, Precinct 2",State House,102,REP,Michele Hoitenga,1074
+Mecosta,"Sheridan Township, Precinct 1",State House,102,REP,Michele Hoitenga,455
+Mecosta,"Wheatland Township, Precinct 1",State House,102,REP,Michele Hoitenga,495
+Mecosta,"City of Big Rapids, Precinct 1",State House,102,REP,Michele Hoitenga,407
+Mecosta,"City of Big Rapids, Precinct 2",State House,102,REP,Michele Hoitenga,502
+Mecosta,"City of Big Rapids, Precinct 3",State House,102,REP,Michele Hoitenga,450
+Mecosta,"Aetna Township, Precinct 1",State House,102,,Write-ins,3
+Mecosta,"Austin Township, Precinct 1",State House,102,,Write-ins,1
+Mecosta,"Big Rapids Charter Township, Precinct 1",State House,102,,Write-ins,8
+Mecosta,"Chippewa Township, Precinct 1",State House,102,,Write-ins,1
+Mecosta,"Colfax Township, Precinct 1",State House,102,,Write-ins,6
+Mecosta,"Deerfield Township, Precinct 1",State House,102,,Write-ins,1
+Mecosta,"Fork Township, Precinct 1",State House,102,,Write-ins,11
+Mecosta,"Grant Township, Precinct 1",State House,102,,Write-ins,3
+Mecosta,"Green Charter Township, Precinct 1",State House,102,,Write-ins,4
+Mecosta,"Hinton Township, Precinct 1",State House,102,,Write-ins,2
+Mecosta,"Martiny Township, Precinct 1",State House,102,,Write-ins,2
+Mecosta,"Mecosta Township, Precinct 1",State House,102,,Write-ins,6
+Mecosta,"Millbrook Township, Precinct 1",State House,102,,Write-ins,2
+Mecosta,"Morton Township, Precinct 1",State House,102,,Write-ins,8
+Mecosta,"Morton Township, Precinct 2",State House,102,,Write-ins,2
+Mecosta,"Sheridan Township, Precinct 1",State House,102,,Write-ins,0
+Mecosta,"Wheatland Township, Precinct 1",State House,102,,Write-ins,5
+Mecosta,"City of Big Rapids, Precinct 1",State House,102,,Write-ins,4
+Mecosta,"City of Big Rapids, Precinct 2",State House,102,,Write-ins,2
+Mecosta,"City of Big Rapids, Precinct 3",State House,102,,Write-ins,5
+Mecosta,"Aetna Township, Precinct 1",President,,,Write-ins,0
+Mecosta,"Austin Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Big Rapids Charter Township, Precinct 1",President,,,Write-ins,4
+Mecosta,"Chippewa Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Colfax Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Deerfield Township, Precinct 1",President,,,Write-ins,0
+Mecosta,"Fork Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Grant Township, Precinct 1",President,,,Write-ins,0
+Mecosta,"Green Charter Township, Precinct 1",President,,,Write-ins,2
+Mecosta,"Hinton Township, Precinct 1",President,,,Write-ins,0
+Mecosta,"Martiny Township, Precinct 1",President,,,Write-ins,4
+Mecosta,"Mecosta Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Millbrook Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Morton Township, Precinct 1",President,,,Write-ins,2
+Mecosta,"Morton Township, Precinct 2",President,,,Write-ins,3
+Mecosta,"Sheridan Township, Precinct 1",President,,,Write-ins,1
+Mecosta,"Wheatland Township, Precinct 1",President,,,Write-ins,0
+Mecosta,"City of Big Rapids, Precinct 1",President,,,Write-ins,4
+Mecosta,"City of Big Rapids, Precinct 2",President,,,Write-ins,5
+Mecosta,"City of Big Rapids, Precinct 3",President,,,Write-ins,4
+Mecosta,"Aetna Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Mecosta,"Austin Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Mecosta,"Chippewa Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Colfax Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Mecosta,"Deerfield Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Fork Township, Precinct 1",U.S. Senate,,,Write-ins,3
+Mecosta,"Grant Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Mecosta,"Green Charter Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Mecosta,"Hinton Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Martiny Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Mecosta Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Millbrook Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Morton Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Mecosta,"Morton Township, Precinct 2",U.S. Senate,,,Write-ins,0
+Mecosta,"Sheridan Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Mecosta,"Wheatland Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Mecosta,"City of Big Rapids, Precinct 1",U.S. Senate,,,Write-ins,3
+Mecosta,"City of Big Rapids, Precinct 2",U.S. Senate,,,Write-ins,2
+Mecosta,"City of Big Rapids, Precinct 3",U.S. Senate,,,Write-ins,1
+Mecosta,"Aetna Township, Precinct 1",U.S. House,4,,Write-ins,1
+Mecosta,"Austin Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Big Rapids Charter Township, Precinct 1",U.S. House,4,,Write-ins,6
+Mecosta,"Chippewa Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Colfax Township, Precinct 1",U.S. House,4,,Write-ins,1
+Mecosta,"Deerfield Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Fork Township, Precinct 1",U.S. House,4,,Write-ins,4
+Mecosta,"Grant Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Green Charter Township, Precinct 1",U.S. House,4,,Write-ins,4
+Mecosta,"Hinton Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Martiny Township, Precinct 1",U.S. House,4,,Write-ins,2
+Mecosta,"Mecosta Township, Precinct 1",U.S. House,4,,Write-ins,4
+Mecosta,"Millbrook Township, Precinct 1",U.S. House,4,,Write-ins,1
+Mecosta,"Morton Township, Precinct 1",U.S. House,4,,Write-ins,2
+Mecosta,"Morton Township, Precinct 2",U.S. House,4,,Write-ins,1
+Mecosta,"Sheridan Township, Precinct 1",U.S. House,4,,Write-ins,0
+Mecosta,"Wheatland Township, Precinct 1",U.S. House,4,,Write-ins,1
+Mecosta,"City of Big Rapids, Precinct 1",U.S. House,4,,Write-ins,4
+Mecosta,"City of Big Rapids, Precinct 2",U.S. House,4,,Write-ins,1
+Mecosta,"City of Big Rapids, Precinct 3",U.S. House,4,,Write-ins,0

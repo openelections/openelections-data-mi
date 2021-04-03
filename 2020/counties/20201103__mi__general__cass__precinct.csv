@@ -1,0 +1,595 @@
+county,precinct,office,district,candidate,party,votes
+Cass,Calvin Township Precinct 1,Straight Party,,Democratic Party,DEM,257
+Cass,Calvin Township Precinct 1,Straight Party,,Republican Party,REP,372
+Cass,Calvin Township Precinct 1,Straight Party,,Libertarian Party,LBT,3
+Cass,Calvin Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Calvin Township Precinct 1,Straight Party,,Working Class Party,WCP,4
+Cass,Calvin Township Precinct 1,Straight Party,,Green Party,GRN,1
+Cass,Calvin Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Democratic Party,DEM,313
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Republican Party,REP,144
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Libertarian Party,LBT,5
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Working Class Party,WCP,9
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Green Party,GRN,4
+Cass,City of Dowagiac Ward 1 Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Democratic Party,DEM,236
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Republican Party,REP,254
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Libertarian Party,LBT,6
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Working Class Party,WCP,4
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Green Party,GRN,1
+Cass,City of Dowagiac Ward 2 Precinct 2,Straight Party,,Natural Law Party,NLP,1
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Democratic Party,DEM,191
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Republican Party,REP,214
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Libertarian Party,LBT,3
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Working Class Party,WCP,2
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Green Party,GRN,1
+Cass,City of Dowagiac Ward 3 Precinct 3,Straight Party,,Natural Law Party,NLP,2
+Cass,Howard Township Precinct 1,Straight Party,,Democratic Party,DEM,277
+Cass,Howard Township Precinct 1,Straight Party,,Republican Party,REP,671
+Cass,Howard Township Precinct 1,Straight Party,,Libertarian Party,LBT,8
+Cass,Howard Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Howard Township Precinct 1,Straight Party,,Working Class Party,WCP,9
+Cass,Howard Township Precinct 1,Straight Party,,Green Party,GRN,0
+Cass,Howard Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Cass,Howard Township Precinct 2,Straight Party,,Democratic Party,DEM,325
+Cass,Howard Township Precinct 2,Straight Party,,Republican Party,REP,648
+Cass,Howard Township Precinct 2,Straight Party,,Libertarian Party,LBT,5
+Cass,Howard Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Howard Township Precinct 2,Straight Party,,Working Class Party,WCP,3
+Cass,Howard Township Precinct 2,Straight Party,,Green Party,GRN,1
+Cass,Howard Township Precinct 2,Straight Party,,Natural Law Party,NLP,0
+Cass,Jefferson Township Precinct 1,Straight Party,,Democratic Party,DEM,225
+Cass,Jefferson Township Precinct 1,Straight Party,,Republican Party,REP,535
+Cass,Jefferson Township Precinct 1,Straight Party,,Libertarian Party,LBT,4
+Cass,Jefferson Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Jefferson Township Precinct 1,Straight Party,,Working Class Party,WCP,2
+Cass,Jefferson Township Precinct 1,Straight Party,,Green Party,GRN,2
+Cass,Jefferson Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Cass,LaGrange Township Precinct 1,Straight Party,,Democratic Party,DEM,419
+Cass,LaGrange Township Precinct 1,Straight Party,,Republican Party,REP,472
+Cass,LaGrange Township Precinct 1,Straight Party,,Libertarian Party,LBT,10
+Cass,LaGrange Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,LaGrange Township Precinct 1,Straight Party,,Working Class Party,WCP,5
+Cass,LaGrange Township Precinct 1,Straight Party,,Green Party,GRN,3
+Cass,LaGrange Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Marcellus Township Precinct 1,Straight Party,,Democratic Party,DEM,202
+Cass,Marcellus Township Precinct 1,Straight Party,,Republican Party,REP,456
+Cass,Marcellus Township Precinct 1,Straight Party,,Libertarian Party,LBT,5
+Cass,Marcellus Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Marcellus Township Precinct 1,Straight Party,,Working Class Party,WCP,2
+Cass,Marcellus Township Precinct 1,Straight Party,,Green Party,GRN,3
+Cass,Marcellus Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Mason Township Precinct 1,Straight Party,,Democratic Party,DEM,181
+Cass,Mason Township Precinct 1,Straight Party,,Republican Party,REP,632
+Cass,Mason Township Precinct 1,Straight Party,,Libertarian Party,LBT,3
+Cass,Mason Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Mason Township Precinct 1,Straight Party,,Working Class Party,WCP,2
+Cass,Mason Township Precinct 1,Straight Party,,Green Party,GRN,3
+Cass,Mason Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Milton Township Precinct 1,Straight Party,,Democratic Party,DEM,293
+Cass,Milton Township Precinct 1,Straight Party,,Republican Party,REP,890
+Cass,Milton Township Precinct 1,Straight Party,,Libertarian Party,LBT,10
+Cass,Milton Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Milton Township Precinct 1,Straight Party,,Working Class Party,WCP,2
+Cass,Milton Township Precinct 1,Straight Party,,Green Party,GRN,0
+Cass,Milton Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Newberg Township Precinct 1,Straight Party,,Democratic Party,DEM,120
+Cass,Newberg Township Precinct 1,Straight Party,,Republican Party,REP,409
+Cass,Newberg Township Precinct 1,Straight Party,,Libertarian Party,LBT,1
+Cass,Newberg Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Newberg Township Precinct 1,Straight Party,,Working Class Party,WCP,3
+Cass,Newberg Township Precinct 1,Straight Party,,Green Party,GRN,3
+Cass,Newberg Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Ontwa Township Precinct 1,Straight Party,,Democratic Party,DEM,275
+Cass,Ontwa Township Precinct 1,Straight Party,,Republican Party,REP,647
+Cass,Ontwa Township Precinct 1,Straight Party,,Libertarian Party,LBT,6
+Cass,Ontwa Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Ontwa Township Precinct 1,Straight Party,,Working Class Party,WCP,3
+Cass,Ontwa Township Precinct 1,Straight Party,,Green Party,GRN,0
+Cass,Ontwa Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Ontwa Township Precinct 2,Straight Party,,Democratic Party,DEM,247
+Cass,Ontwa Township Precinct 2,Straight Party,,Republican Party,REP,696
+Cass,Ontwa Township Precinct 2,Straight Party,,Libertarian Party,LBT,4
+Cass,Ontwa Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,Ontwa Township Precinct 2,Straight Party,,Working Class Party,WCP,7
+Cass,Ontwa Township Precinct 2,Straight Party,,Green Party,GRN,1
+Cass,Ontwa Township Precinct 2,Straight Party,,Natural Law Party,NLP,0
+Cass,Penn Township Precinct 1,Straight Party,,Democratic Party,DEM,199
+Cass,Penn Township Precinct 1,Straight Party,,Republican Party,REP,386
+Cass,Penn Township Precinct 1,Straight Party,,Libertarian Party,LBT,3
+Cass,Penn Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Penn Township Precinct 1,Straight Party,,Working Class Party,WCP,3
+Cass,Penn Township Precinct 1,Straight Party,,Green Party,GRN,2
+Cass,Penn Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Cass,Pokagon Township Precinct 1,Straight Party,,Democratic Party,DEM,237
+Cass,Pokagon Township Precinct 1,Straight Party,,Republican Party,REP,489
+Cass,Pokagon Township Precinct 1,Straight Party,,Libertarian Party,LBT,6
+Cass,Pokagon Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Pokagon Township Precinct 1,Straight Party,,Working Class Party,WCP,7
+Cass,Pokagon Township Precinct 1,Straight Party,,Green Party,GRN,0
+Cass,Pokagon Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Porter Township Precinct 1,Straight Party,,Democratic Party,DEM,189
+Cass,Porter Township Precinct 1,Straight Party,,Republican Party,REP,633
+Cass,Porter Township Precinct 1,Straight Party,,Libertarian Party,LBT,7
+Cass,Porter Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Porter Township Precinct 1,Straight Party,,Working Class Party,WCP,4
+Cass,Porter Township Precinct 1,Straight Party,,Green Party,GRN,1
+Cass,Porter Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Porter Township Precinct 2,Straight Party,,Democratic Party,DEM,160
+Cass,Porter Township Precinct 2,Straight Party,,Republican Party,REP,498
+Cass,Porter Township Precinct 2,Straight Party,,Libertarian Party,LBT,3
+Cass,Porter Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,Porter Township Precinct 2,Straight Party,,Working Class Party,WCP,2
+Cass,Porter Township Precinct 2,Straight Party,,Green Party,GRN,0
+Cass,Porter Township Precinct 2,Straight Party,,Natural Law Party,NLP,1
+Cass,Silver Creek Township Precinct 1,Straight Party,,Democratic Party,DEM,240
+Cass,Silver Creek Township Precinct 1,Straight Party,,Republican Party,REP,715
+Cass,Silver Creek Township Precinct 1,Straight Party,,Libertarian Party,LBT,7
+Cass,Silver Creek Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,6
+Cass,Silver Creek Township Precinct 1,Straight Party,,Working Class Party,WCP,3
+Cass,Silver Creek Township Precinct 1,Straight Party,,Green Party,GRN,1
+Cass,Silver Creek Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Volinia Township Precinct 1,Straight Party,,Democratic Party,DEM,77
+Cass,Volinia Township Precinct 1,Straight Party,,Republican Party,REP,241
+Cass,Volinia Township Precinct 1,Straight Party,,Libertarian Party,LBT,3
+Cass,Volinia Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Volinia Township Precinct 1,Straight Party,,Working Class Party,WCP,3
+Cass,Volinia Township Precinct 1,Straight Party,,Green Party,GRN,0
+Cass,Volinia Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Wayne Township Precinct 1,Straight Party,,Democratic Party,DEM,227
+Cass,Wayne Township Precinct 1,Straight Party,,Republican Party,REP,558
+Cass,Wayne Township Precinct 1,Straight Party,,Libertarian Party,LBT,1
+Cass,Wayne Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Wayne Township Precinct 1,Straight Party,,Working Class Party,WCP,7
+Cass,Wayne Township Precinct 1,Straight Party,,Green Party,GRN,4
+Cass,Wayne Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Cass,Calvin Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,426
+Cass,Calvin Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,572
+Cass,Calvin Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,7
+Cass,Calvin Township Precinct 1,President,,Don Blankenship/William Mohr,UST,3
+Cass,Calvin Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,0
+Cass,Calvin Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Calvin Township Precinct 1,President,,Total write-in,,1
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,420
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,254
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,7
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,3
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,3
+Cass,City of Dowagiac Ward 1 Precinct 1,President,,Total write-in,,2
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Joseph R. Biden/Kamala D. Harris,DEM,396
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Donald J. Trump/Michael R. Pence,REP,390
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Jo Jorgensen/Jeremy Cohen,LBT,18
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Don Blankenship/William Mohr,UST,0
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Howie Hawkins/Angela Walker,GRN,1
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,City of Dowagiac Ward 2 Precinct 2,President,,Total write-in,,1
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Joseph R. Biden/Kamala D. Harris,DEM,292
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Donald J. Trump/Michael R. Pence,REP,344
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Jo Jorgensen/Jeremy Cohen,LBT,13
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Don Blankenship/William Mohr,UST,2
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Howie Hawkins/Angela Walker,GRN,1
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,City of Dowagiac Ward 3 Precinct 3,President,,Total write-in,,0
+Cass,Howard Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,537
+Cass,Howard Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,1086
+Cass,Howard Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,18
+Cass,Howard Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Howard Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,0
+Cass,Howard Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Howard Township Precinct 1,President,,Total write-in,,0
+Cass,Howard Township Precinct 2,President,,Joseph R. Biden/Kamala D. Harris,DEM,556
+Cass,Howard Township Precinct 2,President,,Donald J. Trump/Michael R. Pence,REP,1085
+Cass,Howard Township Precinct 2,President,,Jo Jorgensen/Jeremy Cohen,LBT,20
+Cass,Howard Township Precinct 2,President,,Don Blankenship/William Mohr,UST,1
+Cass,Howard Township Precinct 2,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Howard Township Precinct 2,President,,Rocky De La Fuente/Darcy Richardson,NLP,1
+Cass,Howard Township Precinct 2,President,,Total write-in,,1
+Cass,Jefferson Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,450
+Cass,Jefferson Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,927
+Cass,Jefferson Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,20
+Cass,Jefferson Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Jefferson Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Jefferson Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Jefferson Township Precinct 1,President,,Total write-in,,2
+Cass,LaGrange Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,752
+Cass,LaGrange Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,786
+Cass,LaGrange Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,21
+Cass,LaGrange Township Precinct 1,President,,Don Blankenship/William Mohr,UST,3
+Cass,LaGrange Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,5
+Cass,LaGrange Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,2
+Cass,LaGrange Township Precinct 1,President,,Total write-in,,3
+Cass,Marcellus Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,427
+Cass,Marcellus Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,761
+Cass,Marcellus Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,25
+Cass,Marcellus Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Marcellus Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,3
+Cass,Marcellus Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,1
+Cass,Marcellus Township Precinct 1,President,,Total write-in,,1
+Cass,Mason Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,346
+Cass,Mason Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,944
+Cass,Mason Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,15
+Cass,Mason Township Precinct 1,President,,Don Blankenship/William Mohr,UST,3
+Cass,Mason Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,1
+Cass,Mason Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,1
+Cass,Mason Township Precinct 1,President,,Total write-in,,1
+Cass,Milton Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,596
+Cass,Milton Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,1356
+Cass,Milton Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,19
+Cass,Milton Township Precinct 1,President,,Don Blankenship/William Mohr,UST,3
+Cass,Milton Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,1
+Cass,Milton Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Milton Township Precinct 1,President,,Total write-in,,4
+Cass,Newberg Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,228
+Cass,Newberg Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,642
+Cass,Newberg Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,11
+Cass,Newberg Township Precinct 1,President,,Don Blankenship/William Mohr,UST,0
+Cass,Newberg Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Newberg Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Newberg Township Precinct 1,President,,Total write-in,,1
+Cass,Ontwa Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,537
+Cass,Ontwa Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,1045
+Cass,Ontwa Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,22
+Cass,Ontwa Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Ontwa Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,4
+Cass,Ontwa Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Ontwa Township Precinct 1,President,,Total write-in,,0
+Cass,Ontwa Township Precinct 2,President,,Joseph R. Biden/Kamala D. Harris,DEM,534
+Cass,Ontwa Township Precinct 2,President,,Donald J. Trump/Michael R. Pence,REP,1137
+Cass,Ontwa Township Precinct 2,President,,Jo Jorgensen/Jeremy Cohen,LBT,15
+Cass,Ontwa Township Precinct 2,President,,Don Blankenship/William Mohr,UST,3
+Cass,Ontwa Township Precinct 2,President,,Howie Hawkins/Angela Walker,GRN,4
+Cass,Ontwa Township Precinct 2,President,,Rocky De La Fuente/Darcy Richardson,NLP,2
+Cass,Ontwa Township Precinct 2,President,,Total write-in,,3
+Cass,Penn Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,395
+Cass,Penn Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,613
+Cass,Penn Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,3
+Cass,Penn Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Penn Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,3
+Cass,Penn Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Penn Township Precinct 1,President,,Total write-in,,3
+Cass,Pokagon Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,421
+Cass,Pokagon Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,751
+Cass,Pokagon Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,6
+Cass,Pokagon Township Precinct 1,President,,Don Blankenship/William Mohr,UST,2
+Cass,Pokagon Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Pokagon Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,1
+Cass,Pokagon Township Precinct 1,President,,Total write-in,,0
+Cass,Porter Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,355
+Cass,Porter Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,877
+Cass,Porter Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,15
+Cass,Porter Township Precinct 1,President,,Don Blankenship/William Mohr,UST,0
+Cass,Porter Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,1
+Cass,Porter Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Porter Township Precinct 1,President,,Total write-in,,1
+Cass,Porter Township Precinct 2,President,,Joseph R. Biden/Kamala D. Harris,DEM,297
+Cass,Porter Township Precinct 2,President,,Donald J. Trump/Michael R. Pence,REP,701
+Cass,Porter Township Precinct 2,President,,Jo Jorgensen/Jeremy Cohen,LBT,6
+Cass,Porter Township Precinct 2,President,,Don Blankenship/William Mohr,UST,1
+Cass,Porter Township Precinct 2,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Porter Township Precinct 2,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Porter Township Precinct 2,President,,Total write-in,,1
+Cass,Silver Creek Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,565
+Cass,Silver Creek Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,1129
+Cass,Silver Creek Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,10
+Cass,Silver Creek Township Precinct 1,President,,Don Blankenship/William Mohr,UST,5
+Cass,Silver Creek Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,4
+Cass,Silver Creek Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Silver Creek Township Precinct 1,President,,Total write-in,,2
+Cass,Volinia Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,194
+Cass,Volinia Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,455
+Cass,Volinia Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,2
+Cass,Volinia Township Precinct 1,President,,Don Blankenship/William Mohr,UST,1
+Cass,Volinia Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Volinia Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,0
+Cass,Volinia Township Precinct 1,President,,Total write-in,,2
+Cass,Wayne Township Precinct 1,President,,Joseph R. Biden/Kamala D. Harris,DEM,406
+Cass,Wayne Township Precinct 1,President,,Donald J. Trump/Michael R. Pence,REP,844
+Cass,Wayne Township Precinct 1,President,,Jo Jorgensen/Jeremy Cohen,LBT,13
+Cass,Wayne Township Precinct 1,President,,Don Blankenship/William Mohr,UST,1
+Cass,Wayne Township Precinct 1,President,,Howie Hawkins/Angela Walker,GRN,2
+Cass,Wayne Township Precinct 1,President,,Rocky De La Fuente/Darcy Richardson,NLP,2
+Cass,Wayne Township Precinct 1,President,,Total write-in,,0
+Cass,Calvin Township Precinct 1,U.S. Senate,,Gary Peters,DEM,382
+Cass,Calvin Township Precinct 1,U.S. Senate,,John James,REP,596
+Cass,Calvin Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,12
+Cass,Calvin Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,6
+Cass,Calvin Township Precinct 1,U.S. Senate,,Doug Dern,NLP,1
+Cass,Calvin Township Precinct 1,U.S. Senate,,Total write-in,,1
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,Gary Peters,DEM,399
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,John James,REP,246
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,Valerie L. Willis,UST,12
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,Marcia Squier,GRN,10
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,Doug Dern,NLP,3
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. Senate,,Total write-in,,2
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,Gary Peters,DEM,378
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,John James,REP,406
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,Valerie L. Willis,UST,6
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,Marcia Squier,GRN,4
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,Doug Dern,NLP,2
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. Senate,,Total write-in,,1
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,Gary Peters,DEM,284
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,John James,REP,350
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,Valerie L. Willis,UST,5
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,Marcia Squier,GRN,3
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,Doug Dern,NLP,2
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. Senate,,Total write-in,,2
+Cass,Howard Township Precinct 1,U.S. Senate,,Gary Peters,DEM,491
+Cass,Howard Township Precinct 1,U.S. Senate,,John James,REP,1086
+Cass,Howard Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,13
+Cass,Howard Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,5
+Cass,Howard Township Precinct 1,U.S. Senate,,Doug Dern,NLP,4
+Cass,Howard Township Precinct 1,U.S. Senate,,Total write-in,,2
+Cass,Howard Township Precinct 2,U.S. Senate,,Gary Peters,DEM,548
+Cass,Howard Township Precinct 2,U.S. Senate,,John James,REP,1071
+Cass,Howard Township Precinct 2,U.S. Senate,,Valerie L. Willis,UST,14
+Cass,Howard Township Precinct 2,U.S. Senate,,Marcia Squier,GRN,5
+Cass,Howard Township Precinct 2,U.S. Senate,,Doug Dern,NLP,5
+Cass,Howard Township Precinct 2,U.S. Senate,,Total write-in,,3
+Cass,Jefferson Township Precinct 1,U.S. Senate,,Gary Peters,DEM,428
+Cass,Jefferson Township Precinct 1,U.S. Senate,,John James,REP,927
+Cass,Jefferson Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,16
+Cass,Jefferson Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,9
+Cass,Jefferson Township Precinct 1,U.S. Senate,,Doug Dern,NLP,5
+Cass,Jefferson Township Precinct 1,U.S. Senate,,Total write-in,,3
+Cass,LaGrange Township Precinct 1,U.S. Senate,,Gary Peters,DEM,711
+Cass,LaGrange Township Precinct 1,U.S. Senate,,John James,REP,794
+Cass,LaGrange Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,16
+Cass,LaGrange Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,15
+Cass,LaGrange Township Precinct 1,U.S. Senate,,Doug Dern,NLP,5
+Cass,LaGrange Township Precinct 1,U.S. Senate,,Total write-in,,1
+Cass,Marcellus Township Precinct 1,U.S. Senate,,Gary Peters,DEM,407
+Cass,Marcellus Township Precinct 1,U.S. Senate,,John James,REP,749
+Cass,Marcellus Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,25
+Cass,Marcellus Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,15
+Cass,Marcellus Township Precinct 1,U.S. Senate,,Doug Dern,NLP,5
+Cass,Marcellus Township Precinct 1,U.S. Senate,,Total write-in,,3
+Cass,Mason Township Precinct 1,U.S. Senate,,Gary Peters,DEM,327
+Cass,Mason Township Precinct 1,U.S. Senate,,John James,REP,945
+Cass,Mason Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,14
+Cass,Mason Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,9
+Cass,Mason Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Mason Township Precinct 1,U.S. Senate,,Total write-in,,1
+Cass,Milton Township Precinct 1,U.S. Senate,,Gary Peters,DEM,548
+Cass,Milton Township Precinct 1,U.S. Senate,,John James,REP,1379
+Cass,Milton Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,14
+Cass,Milton Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,12
+Cass,Milton Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Milton Township Precinct 1,U.S. Senate,,Total write-in,,1
+Cass,Newberg Township Precinct 1,U.S. Senate,,Gary Peters,DEM,226
+Cass,Newberg Township Precinct 1,U.S. Senate,,John James,REP,631
+Cass,Newberg Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,12
+Cass,Newberg Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,2
+Cass,Newberg Township Precinct 1,U.S. Senate,,Doug Dern,NLP,5
+Cass,Newberg Township Precinct 1,U.S. Senate,,Total write-in,,0
+Cass,Ontwa Township Precinct 1,U.S. Senate,,Gary Peters,DEM,493
+Cass,Ontwa Township Precinct 1,U.S. Senate,,John James,REP,1067
+Cass,Ontwa Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,11
+Cass,Ontwa Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,13
+Cass,Ontwa Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Ontwa Township Precinct 1,U.S. Senate,,Total write-in,,0
+Cass,Ontwa Township Precinct 2,U.S. Senate,,Gary Peters,DEM,498
+Cass,Ontwa Township Precinct 2,U.S. Senate,,John James,REP,1146
+Cass,Ontwa Township Precinct 2,U.S. Senate,,Valerie L. Willis,UST,10
+Cass,Ontwa Township Precinct 2,U.S. Senate,,Marcia Squier,GRN,6
+Cass,Ontwa Township Precinct 2,U.S. Senate,,Doug Dern,NLP,4
+Cass,Ontwa Township Precinct 2,U.S. Senate,,Total write-in,,1
+Cass,Penn Township Precinct 1,U.S. Senate,,Gary Peters,DEM,367
+Cass,Penn Township Precinct 1,U.S. Senate,,John James,REP,630
+Cass,Penn Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,8
+Cass,Penn Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,6
+Cass,Penn Township Precinct 1,U.S. Senate,,Doug Dern,NLP,0
+Cass,Penn Township Precinct 1,U.S. Senate,,Total write-in,,0
+Cass,Pokagon Township Precinct 1,U.S. Senate,,Gary Peters,DEM,394
+Cass,Pokagon Township Precinct 1,U.S. Senate,,John James,REP,756
+Cass,Pokagon Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,9
+Cass,Pokagon Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,12
+Cass,Pokagon Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Pokagon Township Precinct 1,U.S. Senate,,Total write-in,,0
+Cass,Porter Township Precinct 1,U.S. Senate,,Gary Peters,DEM,327
+Cass,Porter Township Precinct 1,U.S. Senate,,John James,REP,887
+Cass,Porter Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,4
+Cass,Porter Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,9
+Cass,Porter Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Porter Township Precinct 1,U.S. Senate,,Total write-in,,0
+Cass,Porter Township Precinct 2,U.S. Senate,,Gary Peters,DEM,273
+Cass,Porter Township Precinct 2,U.S. Senate,,John James,REP,710
+Cass,Porter Township Precinct 2,U.S. Senate,,Valerie L. Willis,UST,8
+Cass,Porter Township Precinct 2,U.S. Senate,,Marcia Squier,GRN,4
+Cass,Porter Township Precinct 2,U.S. Senate,,Doug Dern,NLP,1
+Cass,Porter Township Precinct 2,U.S. Senate,,Total write-in,,0
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,Gary Peters,DEM,509
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,John James,REP,1150
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,17
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,4
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,Doug Dern,NLP,4
+Cass,Silver Creek Township Precinct 1,U.S. Senate,,Total write-in,,2
+Cass,Volinia Township Precinct 1,U.S. Senate,,Gary Peters,DEM,183
+Cass,Volinia Township Precinct 1,U.S. Senate,,John James,REP,455
+Cass,Volinia Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,8
+Cass,Volinia Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,3
+Cass,Volinia Township Precinct 1,U.S. Senate,,Doug Dern,NLP,0
+Cass,Volinia Township Precinct 1,U.S. Senate,,Total write-in,,2
+Cass,Wayne Township Precinct 1,U.S. Senate,,Gary Peters,DEM,392
+Cass,Wayne Township Precinct 1,U.S. Senate,,John James,REP,833
+Cass,Wayne Township Precinct 1,U.S. Senate,,Valerie L. Willis,UST,19
+Cass,Wayne Township Precinct 1,U.S. Senate,,Marcia Squier,GRN,9
+Cass,Wayne Township Precinct 1,U.S. Senate,,Doug Dern,NLP,2
+Cass,Wayne Township Precinct 1,U.S. Senate,,Total write-in,,4
+Cass,Calvin Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,356
+Cass,Calvin Township Precinct 1,U.S. House,6,Fred Upton,REP,599
+Cass,Calvin Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,28
+Cass,Calvin Township Precinct 1,U.S. House,6,John Lawrence,GRN,9
+Cass,Calvin Township Precinct 1,U.S. House,6,Total write-in,,3
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. House,6,Jon Hoadley,DEM,380
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. House,6,Fred Upton,REP,252
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. House,6,Jeff DePoy,LBT,25
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. House,6,John Lawrence,GRN,13
+Cass,City of Dowagiac Ward 1 Precinct 1,U.S. House,6,Total write-in,,3
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. House,6,Jon Hoadley,DEM,347
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. House,6,Fred Upton,REP,416
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. House,6,Jeff DePoy,LBT,29
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. House,6,John Lawrence,GRN,7
+Cass,City of Dowagiac Ward 2 Precinct 2,U.S. House,6,Total write-in,,1
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. House,6,Jon Hoadley,DEM,272
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. House,6,Fred Upton,REP,346
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. House,6,Jeff DePoy,LBT,16
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. House,6,John Lawrence,GRN,5
+Cass,City of Dowagiac Ward 3 Precinct 3,U.S. House,6,Total write-in,,3
+Cass,Howard Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,436
+Cass,Howard Township Precinct 1,U.S. House,6,Fred Upton,REP,1044
+Cass,Howard Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,109
+Cass,Howard Township Precinct 1,U.S. House,6,John Lawrence,GRN,12
+Cass,Howard Township Precinct 1,U.S. House,6,Total write-in,,3
+Cass,Howard Township Precinct 2,U.S. House,6,Jon Hoadley,DEM,470
+Cass,Howard Township Precinct 2,U.S. House,6,Fred Upton,REP,1084
+Cass,Howard Township Precinct 2,U.S. House,6,Jeff DePoy,LBT,70
+Cass,Howard Township Precinct 2,U.S. House,6,John Lawrence,GRN,18
+Cass,Howard Township Precinct 2,U.S. House,6,Total write-in,,1
+Cass,Jefferson Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,408
+Cass,Jefferson Township Precinct 1,U.S. House,6,Fred Upton,REP,909
+Cass,Jefferson Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,49
+Cass,Jefferson Township Precinct 1,U.S. House,6,John Lawrence,GRN,14
+Cass,Jefferson Township Precinct 1,U.S. House,6,Total write-in,,3
+Cass,LaGrange Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,653
+Cass,LaGrange Township Precinct 1,U.S. House,6,Fred Upton,REP,806
+Cass,LaGrange Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,54
+Cass,LaGrange Township Precinct 1,U.S. House,6,John Lawrence,GRN,20
+Cass,LaGrange Township Precinct 1,U.S. House,6,Total write-in,,5
+Cass,Marcellus Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,385
+Cass,Marcellus Township Precinct 1,U.S. House,6,Fred Upton,REP,728
+Cass,Marcellus Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,45
+Cass,Marcellus Township Precinct 1,U.S. House,6,John Lawrence,GRN,32
+Cass,Marcellus Township Precinct 1,U.S. House,6,Total write-in,,10
+Cass,Mason Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,306
+Cass,Mason Township Precinct 1,U.S. House,6,Fred Upton,REP,928
+Cass,Mason Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,36
+Cass,Mason Township Precinct 1,U.S. House,6,John Lawrence,GRN,16
+Cass,Mason Township Precinct 1,U.S. House,6,Total write-in,,3
+Cass,Milton Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,489
+Cass,Milton Township Precinct 1,U.S. House,6,Fred Upton,REP,1379
+Cass,Milton Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,75
+Cass,Milton Township Precinct 1,U.S. House,6,John Lawrence,GRN,12
+Cass,Milton Township Precinct 1,U.S. House,6,Total write-in,,2
+Cass,Newberg Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,194
+Cass,Newberg Township Precinct 1,U.S. House,6,Fred Upton,REP,614
+Cass,Newberg Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,25
+Cass,Newberg Township Precinct 1,U.S. House,6,John Lawrence,GRN,20
+Cass,Newberg Township Precinct 1,U.S. House,6,Total write-in,,14
+Cass,Ontwa Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,444
+Cass,Ontwa Township Precinct 1,U.S. House,6,Fred Upton,REP,1088
+Cass,Ontwa Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,32
+Cass,Ontwa Township Precinct 1,U.S. House,6,John Lawrence,GRN,17
+Cass,Ontwa Township Precinct 1,U.S. House,6,Total write-in,,1
+Cass,Ontwa Township Precinct 2,U.S. House,6,Jon Hoadley,DEM,442
+Cass,Ontwa Township Precinct 2,U.S. House,6,Fred Upton,REP,1175
+Cass,Ontwa Township Precinct 2,U.S. House,6,Jeff DePoy,LBT,42
+Cass,Ontwa Township Precinct 2,U.S. House,6,John Lawrence,GRN,9
+Cass,Ontwa Township Precinct 2,U.S. House,6,Total write-in,,4
+Cass,Penn Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,327
+Cass,Penn Township Precinct 1,U.S. House,6,Fred Upton,REP,643
+Cass,Penn Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,18
+Cass,Penn Township Precinct 1,U.S. House,6,John Lawrence,GRN,8
+Cass,Penn Township Precinct 1,U.S. House,6,Total write-in,,15
+Cass,Pokagon Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,380
+Cass,Pokagon Township Precinct 1,U.S. House,6,Fred Upton,REP,701
+Cass,Pokagon Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,74
+Cass,Pokagon Township Precinct 1,U.S. House,6,John Lawrence,GRN,14
+Cass,Pokagon Township Precinct 1,U.S. House,6,Total write-in,,2
+Cass,Porter Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,294
+Cass,Porter Township Precinct 1,U.S. House,6,Fred Upton,REP,900
+Cass,Porter Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,23
+Cass,Porter Township Precinct 1,U.S. House,6,John Lawrence,GRN,4
+Cass,Porter Township Precinct 1,U.S. House,6,Total write-in,,6
+Cass,Porter Township Precinct 2,U.S. House,6,Jon Hoadley,DEM,236
+Cass,Porter Township Precinct 2,U.S. House,6,Fred Upton,REP,726
+Cass,Porter Township Precinct 2,U.S. House,6,Jeff DePoy,LBT,24
+Cass,Porter Township Precinct 2,U.S. House,6,John Lawrence,GRN,8
+Cass,Porter Township Precinct 2,U.S. House,6,Total write-in,,2
+Cass,Silver Creek Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,472
+Cass,Silver Creek Township Precinct 1,U.S. House,6,Fred Upton,REP,1162
+Cass,Silver Creek Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,45
+Cass,Silver Creek Township Precinct 1,U.S. House,6,John Lawrence,GRN,13
+Cass,Silver Creek Township Precinct 1,U.S. House,6,Total write-in,,2
+Cass,Volinia Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,165
+Cass,Volinia Township Precinct 1,U.S. House,6,Fred Upton,REP,441
+Cass,Volinia Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,28
+Cass,Volinia Township Precinct 1,U.S. House,6,John Lawrence,GRN,8
+Cass,Volinia Township Precinct 1,U.S. House,6,Total write-in,,2
+Cass,Wayne Township Precinct 1,U.S. House,6,Jon Hoadley,DEM,355
+Cass,Wayne Township Precinct 1,U.S. House,6,Fred Upton,REP,803
+Cass,Wayne Township Precinct 1,U.S. House,6,Jeff DePoy,LBT,66
+Cass,Wayne Township Precinct 1,U.S. House,6,John Lawrence,GRN,24
+Cass,Wayne Township Precinct 1,U.S. House,6,Total write-in,,9
+Cass,Calvin Township Precinct 1,State House,59,Amy L. East,DEM,412
+Cass,Calvin Township Precinct 1,State House,59,Steve Carra,REP,558
+Cass,Calvin Township Precinct 1,State House,59,Total write-in,,15
+Cass,City of Dowagiac Ward 1 Precinct 1,State House,59,Amy L. East,DEM,419
+Cass,City of Dowagiac Ward 1 Precinct 1,State House,59,Steve Carra,REP,236
+Cass,City of Dowagiac Ward 1 Precinct 1,State House,59,Total write-in,,12
+Cass,City of Dowagiac Ward 2 Precinct 2,State House,59,Amy L. East,DEM,391
+Cass,City of Dowagiac Ward 2 Precinct 2,State House,59,Steve Carra,REP,384
+Cass,City of Dowagiac Ward 2 Precinct 2,State House,59,Total write-in,,5
+Cass,City of Dowagiac Ward 3 Precinct 3,State House,59,Amy L. East,DEM,289
+Cass,City of Dowagiac Ward 3 Precinct 3,State House,59,Steve Carra,REP,340
+Cass,City of Dowagiac Ward 3 Precinct 3,State House,59,Total write-in,,4
+Cass,Jefferson Township Precinct 1,State House,59,Amy L. East,DEM,443
+Cass,Jefferson Township Precinct 1,State House,59,Steve Carra,REP,885
+Cass,Jefferson Township Precinct 1,State House,59,Total write-in,,18
+Cass,LaGrange Township Precinct 1,State House,59,Amy L. East,DEM,731
+Cass,LaGrange Township Precinct 1,State House,59,Steve Carra,REP,776
+Cass,LaGrange Township Precinct 1,State House,59,Total write-in,,11
+Cass,Marcellus Township Precinct 1,State House,59,Amy L. East,DEM,431
+Cass,Marcellus Township Precinct 1,State House,59,Steve Carra,REP,730
+Cass,Marcellus Township Precinct 1,State House,59,Total write-in,,18
+Cass,Mason Township Precinct 1,State House,59,Amy L. East,DEM,348
+Cass,Mason Township Precinct 1,State House,59,Steve Carra,REP,904
+Cass,Mason Township Precinct 1,State House,59,Total write-in,,14
+Cass,Newberg Township Precinct 1,State House,59,Amy L. East,DEM,231
+Cass,Newberg Township Precinct 1,State House,59,Steve Carra,REP,618
+Cass,Newberg Township Precinct 1,State House,59,Total write-in,,13
+Cass,Penn Township Precinct 1,State House,59,Amy L. East,DEM,371
+Cass,Penn Township Precinct 1,State House,59,Steve Carra,REP,603
+Cass,Penn Township Precinct 1,State House,59,Total write-in,,22
+Cass,Pokagon Township Precinct 1,State House,59,Amy L. East,DEM,411
+Cass,Pokagon Township Precinct 1,State House,59,Steve Carra,REP,728
+Cass,Pokagon Township Precinct 1,State House,59,Total write-in,,10
+Cass,Porter Township Precinct 1,State House,59,Amy L. East,DEM,335
+Cass,Porter Township Precinct 1,State House,59,Steve Carra,REP,860
+Cass,Porter Township Precinct 1,State House,59,Total write-in,,10
+Cass,Porter Township Precinct 2,State House,59,Amy L. East,DEM,284
+Cass,Porter Township Precinct 2,State House,59,Steve Carra,REP,689
+Cass,Porter Township Precinct 2,State House,59,Total write-in,,11
+Cass,Volinia Township Precinct 1,State House,59,Amy L. East,DEM,194
+Cass,Volinia Township Precinct 1,State House,59,Steve Carra,REP,439
+Cass,Volinia Township Precinct 1,State House,59,Total write-in,,2
+Cass,Wayne Township Precinct 1,State House,59,Amy L. East,DEM,415
+Cass,Wayne Township Precinct 1,State House,59,Steve Carra,REP,812
+Cass,Wayne Township Precinct 1,State House,59,Total write-in,,14
+Cass,Howard Township Precinct 1,State House,87,Dan VandenHeede,DEM,449
+Cass,Howard Township Precinct 1,State House,87,Brad Paquette,REP,1119
+Cass,Howard Township Precinct 1,State House,87,Andrew J. Warner,NLP,17
+Cass,Howard Township Precinct 1,State House,87,Total write-in,,1
+Cass,Howard Township Precinct 2,State House,87,Dan VandenHeede,DEM,507
+Cass,Howard Township Precinct 2,State House,87,Brad Paquette,REP,1112
+Cass,Howard Township Precinct 2,State House,87,Andrew J. Warner,NLP,23
+Cass,Howard Township Precinct 2,State House,87,Total write-in,,2
+Cass,Milton Township Precinct 1,State House,87,Dan VandenHeede,DEM,512
+Cass,Milton Township Precinct 1,State House,87,Brad Paquette,REP,1398
+Cass,Milton Township Precinct 1,State House,87,Andrew J. Warner,NLP,22
+Cass,Milton Township Precinct 1,State House,87,Total write-in,,3
+Cass,Ontwa Township Precinct 1,State House,87,Dan VandenHeede,DEM,496
+Cass,Ontwa Township Precinct 1,State House,87,Brad Paquette,REP,1040
+Cass,Ontwa Township Precinct 1,State House,87,Andrew J. Warner,NLP,15
+Cass,Ontwa Township Precinct 1,State House,87,Total write-in,,2
+Cass,Ontwa Township Precinct 2,State House,87,Dan VandenHeede,DEM,472
+Cass,Ontwa Township Precinct 2,State House,87,Brad Paquette,REP,1155
+Cass,Ontwa Township Precinct 2,State House,87,Andrew J. Warner,NLP,17
+Cass,Ontwa Township Precinct 2,State House,87,Total write-in,,3
+Cass,Silver Creek Township Precinct 1,State House,87,Dan VandenHeede,DEM,533
+Cass,Silver Creek Township Precinct 1,State House,87,Brad Paquette,REP,1118
+Cass,Silver Creek Township Precinct 1,State House,87,Andrew J. Warner,NLP,18
+Cass,Silver Creek Township Precinct 1,State House,87,Total write-in,,3

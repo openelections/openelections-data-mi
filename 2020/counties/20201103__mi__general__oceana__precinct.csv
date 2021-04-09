@@ -1,0 +1,552 @@
+county,precinct,office,district,candidate,party,votes
+Oceana,"Benona Township, Precinct 1",Straight Party,,Democratic Party,DEM,186
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Democratic Party,DEM,94
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Democratic Party,DEM,47
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Democratic Party,DEM,65
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Democratic Party,DEM,50
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Democratic Party,DEM,97
+Oceana,"Golden Township, Precinct 1",Straight Party,,Democratic Party,DEM,178
+Oceana,"Grant Township, Precinct 1",Straight Party,,Democratic Party,DEM,264
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Democratic Party,DEM,104
+Oceana,"Hart Township, Precinct 1",Straight Party,,Democratic Party,DEM,126
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Democratic Party,DEM,53
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Democratic Party,DEM,217
+Oceana,"Otto Township, Precinct 1",Straight Party,,Democratic Party,DEM,59
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Democratic Party,DEM,221
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Democratic Party,DEM,229
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Democratic Party,DEM,33
+Oceana,"Weare Township, Precinct 1",Straight Party,,Democratic Party,DEM,104
+Oceana,"City of Hart, Precinct 1",Straight Party,,Democratic Party,DEM,191
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Democratic Party,DEM,59
+Oceana,"Benona Township, Precinct 1",Straight Party,,Republican Party,REP,401
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Republican Party,REP,221
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Republican Party,REP,84
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Republican Party,REP,126
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Republican Party,REP,209
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Republican Party,REP,257
+Oceana,"Golden Township, Precinct 1",Straight Party,,Republican Party,REP,501
+Oceana,"Grant Township, Precinct 1",Straight Party,,Republican Party,REP,590
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Republican Party,REP,249
+Oceana,"Hart Township, Precinct 1",Straight Party,,Republican Party,REP,359
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Republican Party,REP,153
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Republican Party,REP,484
+Oceana,"Otto Township, Precinct 1",Straight Party,,Republican Party,REP,210
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Republican Party,REP,377
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Republican Party,REP,376
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Republican Party,REP,76
+Oceana,"Weare Township, Precinct 1",Straight Party,,Republican Party,REP,254
+Oceana,"City of Hart, Precinct 1",Straight Party,,Republican Party,REP,301
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Republican Party,REP,135
+Oceana,"Benona Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Oceana,"Golden Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Oceana,"Grant Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Oceana,"Hart Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Oceana,"Otto Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Libertarian Party,LIB,5
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Libertarian Party,LIB,0
+Oceana,"Weare Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Oceana,"City of Hart, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Libertarian Party,LIB,2
+Oceana,"Benona Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Oceana,"Colfax Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Crystal Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Ferry Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Oceana,"Golden Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Oceana,"Grant Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Hart Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Newfield Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
+Oceana,"Otto Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Shelby Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Shelby Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Weare Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"City of Hart, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,U.S. Taxpayers Party,UST,0
+Oceana,"Benona Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
+Oceana,"Golden Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Oceana,"Grant Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Hart Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Otto Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Working Class Party,WCP,0
+Oceana,"Weare Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Oceana,"City of Hart, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Working Class Party,WCP,1
+Oceana,"Benona Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Golden Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Oceana,"Grant Township, Precinct 1",Straight Party,,Green Party,GRN,4
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Hart Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Otto Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Green Party,GRN,0
+Oceana,"Weare Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Oceana,"City of Hart, Precinct 1",Straight Party,,Green Party,GRN,2
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Green Party,GRN,0
+Oceana,"Benona Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Claybanks Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Oceana,"Colfax Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Crystal Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Elbridge Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Oceana,"Ferry Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Oceana,"Golden Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Grant Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Greenwood Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Hart Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Leavitt Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Newfield Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Otto Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Pentwater Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Shelby Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Oceana,"Shelby Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0
+Oceana,"Weare Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Oceana,"City of Hart, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Oceana,"Shelby Township, Precinct 2A",Straight Party,,Natural Law Party,NLP,1
+Oceana,"Benona Township, Precinct 1",President,,Joseph R. Biden,DEM,417
+Oceana,"Claybanks Township, Precinct 1",President,,Joseph R. Biden,DEM,188
+Oceana,"Colfax Township, Precinct 1",President,,Joseph R. Biden,DEM,80
+Oceana,"Crystal Township, Precinct 1",President,,Joseph R. Biden,DEM,101
+Oceana,"Elbridge Township, Precinct 1",President,,Joseph R. Biden,DEM,121
+Oceana,"Ferry Township, Precinct 1",President,,Joseph R. Biden,DEM,179
+Oceana,"Golden Township, Precinct 1",President,,Joseph R. Biden,DEM,364
+Oceana,"Grant Township, Precinct 1",President,,Joseph R. Biden,DEM,472
+Oceana,"Greenwood Township, Precinct 1",President,,Joseph R. Biden,DEM,167
+Oceana,"Hart Township, Precinct 1",President,,Joseph R. Biden,DEM,323
+Oceana,"Leavitt Township, Precinct 1",President,,Joseph R. Biden,DEM,101
+Oceana,"Newfield Township, Precinct 1",President,,Joseph R. Biden,DEM,425
+Oceana,"Otto Township, Precinct 1",President,,Joseph R. Biden,DEM,118
+Oceana,"Pentwater Township, Precinct 1",President,,Joseph R. Biden,DEM,638
+Oceana,"Shelby Township, Precinct 1",President,,Joseph R. Biden,DEM,464
+Oceana,"Shelby Township, Precinct 2",President,,Joseph R. Biden,DEM,85
+Oceana,"Weare Township, Precinct 1",President,,Joseph R. Biden,DEM,207
+Oceana,"City of Hart, Precinct 1",President,,Joseph R. Biden,DEM,371
+Oceana,"Shelby Township, Precinct 2A",President,,Joseph R. Biden,DEM,123
+Oceana,"Benona Township, Precinct 1",President,,Donald J. Trump,REP,628
+Oceana,"Claybanks Township, Precinct 1",President,,Donald J. Trump,REP,351
+Oceana,"Colfax Township, Precinct 1",President,,Donald J. Trump,REP,143
+Oceana,"Crystal Township, Precinct 1",President,,Donald J. Trump,REP,214
+Oceana,"Elbridge Township, Precinct 1",President,,Donald J. Trump,REP,391
+Oceana,"Ferry Township, Precinct 1",President,,Donald J. Trump,REP,470
+Oceana,"Golden Township, Precinct 1",President,,Donald J. Trump,REP,744
+Oceana,"Grant Township, Precinct 1",President,,Donald J. Trump,REP,931
+Oceana,"Greenwood Township, Precinct 1",President,,Donald J. Trump,REP,367
+Oceana,"Hart Township, Precinct 1",President,,Donald J. Trump,REP,668
+Oceana,"Leavitt Township, Precinct 1",President,,Donald J. Trump,REP,275
+Oceana,"Newfield Township, Precinct 1",President,,Donald J. Trump,REP,783
+Oceana,"Otto Township, Precinct 1",President,,Donald J. Trump,REP,326
+Oceana,"Pentwater Township, Precinct 1",President,,Donald J. Trump,REP,687
+Oceana,"Shelby Township, Precinct 1",President,,Donald J. Trump,REP,623
+Oceana,"Shelby Township, Precinct 2",President,,Donald J. Trump,REP,137
+Oceana,"Weare Township, Precinct 1",President,,Donald J. Trump,REP,477
+Oceana,"City of Hart, Precinct 1",President,,Donald J. Trump,REP,446
+Oceana,"Shelby Township, Precinct 2A",President,,Donald J. Trump,REP,231
+Oceana,"Benona Township, Precinct 1",President,,Jo Jorgensen,LIB,9
+Oceana,"Claybanks Township, Precinct 1",President,,Jo Jorgensen,LIB,11
+Oceana,"Colfax Township, Precinct 1",President,,Jo Jorgensen,LIB,3
+Oceana,"Crystal Township, Precinct 1",President,,Jo Jorgensen,LIB,8
+Oceana,"Elbridge Township, Precinct 1",President,,Jo Jorgensen,LIB,5
+Oceana,"Ferry Township, Precinct 1",President,,Jo Jorgensen,LIB,6
+Oceana,"Golden Township, Precinct 1",President,,Jo Jorgensen,LIB,11
+Oceana,"Grant Township, Precinct 1",President,,Jo Jorgensen,LIB,21
+Oceana,"Greenwood Township, Precinct 1",President,,Jo Jorgensen,LIB,7
+Oceana,"Hart Township, Precinct 1",President,,Jo Jorgensen,LIB,9
+Oceana,"Leavitt Township, Precinct 1",President,,Jo Jorgensen,LIB,5
+Oceana,"Newfield Township, Precinct 1",President,,Jo Jorgensen,LIB,11
+Oceana,"Otto Township, Precinct 1",President,,Jo Jorgensen,LIB,9
+Oceana,"Pentwater Township, Precinct 1",President,,Jo Jorgensen,LIB,9
+Oceana,"Shelby Township, Precinct 1",President,,Jo Jorgensen,LIB,14
+Oceana,"Shelby Township, Precinct 2",President,,Jo Jorgensen,LIB,3
+Oceana,"Weare Township, Precinct 1",President,,Jo Jorgensen,LIB,10
+Oceana,"City of Hart, Precinct 1",President,,Jo Jorgensen,LIB,13
+Oceana,"Shelby Township, Precinct 2A",President,,Jo Jorgensen,LIB,2
+Oceana,"Benona Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Claybanks Township, Precinct 1",President,,Don Blankenship,UST,1
+Oceana,"Colfax Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Crystal Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Elbridge Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Ferry Township, Precinct 1",President,,Don Blankenship,UST,2
+Oceana,"Golden Township, Precinct 1",President,,Don Blankenship,UST,4
+Oceana,"Grant Township, Precinct 1",President,,Don Blankenship,UST,5
+Oceana,"Greenwood Township, Precinct 1",President,,Don Blankenship,UST,1
+Oceana,"Hart Township, Precinct 1",President,,Don Blankenship,UST,3
+Oceana,"Leavitt Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Newfield Township, Precinct 1",President,,Don Blankenship,UST,6
+Oceana,"Otto Township, Precinct 1",President,,Don Blankenship,UST,1
+Oceana,"Pentwater Township, Precinct 1",President,,Don Blankenship,UST,0
+Oceana,"Shelby Township, Precinct 1",President,,Don Blankenship,UST,1
+Oceana,"Shelby Township, Precinct 2",President,,Don Blankenship,UST,0
+Oceana,"Weare Township, Precinct 1",President,,Don Blankenship,UST,1
+Oceana,"City of Hart, Precinct 1",President,,Don Blankenship,UST,2
+Oceana,"Shelby Township, Precinct 2A",President,,Don Blankenship,UST,0
+Oceana,"Benona Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Oceana,"Claybanks Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Oceana,"Colfax Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Crystal Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Elbridge Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Oceana,"Ferry Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Oceana,"Golden Township, Precinct 1",President,,Howie Hawkins,GRN,3
+Oceana,"Grant Township, Precinct 1",President,,Howie Hawkins,GRN,5
+Oceana,"Greenwood Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Hart Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Oceana,"Leavitt Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Newfield Township, Precinct 1",President,,Howie Hawkins,GRN,2
+Oceana,"Otto Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Pentwater Township, Precinct 1",President,,Howie Hawkins,GRN,0
+Oceana,"Shelby Township, Precinct 1",President,,Howie Hawkins,GRN,3
+Oceana,"Shelby Township, Precinct 2",President,,Howie Hawkins,GRN,0
+Oceana,"Weare Township, Precinct 1",President,,Howie Hawkins,GRN,1
+Oceana,"City of Hart, Precinct 1",President,,Howie Hawkins,GRN,5
+Oceana,"Shelby Township, Precinct 2A",President,,Howie Hawkins,GRN,0
+Oceana,"Benona Township, Precinct 1",President,,Rocky De La Fuente,NLP,1
+Oceana,"Claybanks Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Colfax Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Crystal Township, Precinct 1",President,,Rocky De La Fuente,NLP,1
+Oceana,"Elbridge Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Ferry Township, Precinct 1",President,,Rocky De La Fuente,NLP,2
+Oceana,"Golden Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Grant Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Greenwood Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Hart Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Leavitt Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Newfield Township, Precinct 1",President,,Rocky De La Fuente,NLP,1
+Oceana,"Otto Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Pentwater Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Shelby Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"Shelby Township, Precinct 2",President,,Rocky De La Fuente,NLP,0
+Oceana,"Weare Township, Precinct 1",President,,Rocky De La Fuente,NLP,0
+Oceana,"City of Hart, Precinct 1",President,,Rocky De La Fuente,NLP,2
+Oceana,"Shelby Township, Precinct 2A",President,,Rocky De La Fuente,NLP,1
+Oceana,"Benona Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Claybanks Township, Precinct 1",President,,Write-ins,,2
+Oceana,"Colfax Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Crystal Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Elbridge Township, Precinct 1",President,,Write-ins,,1
+Oceana,"Ferry Township, Precinct 1",President,,Write-ins,,1
+Oceana,"Golden Township, Precinct 1",President,,Write-ins,,3
+Oceana,"Grant Township, Precinct 1",President,,Write-ins,,1
+Oceana,"Greenwood Township, Precinct 1",President,,Write-ins,,1
+Oceana,"Hart Township, Precinct 1",President,,Write-ins,,5
+Oceana,"Leavitt Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Newfield Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Otto Township, Precinct 1",President,,Write-ins,,0
+Oceana,"Pentwater Township, Precinct 1",President,,Write-ins,,1
+Oceana,"Shelby Township, Precinct 1",President,,Write-ins,,2
+Oceana,"Shelby Township, Precinct 2",President,,Write-ins,,1
+Oceana,"Weare Township, Precinct 1",President,,Write-ins,,0
+Oceana,"City of Hart, Precinct 1",President,,Write-ins,,0
+Oceana,"Shelby Township, Precinct 2A",President,,Write-ins,,0
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,388
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,189
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,78
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,107
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,124
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,193
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,360
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,449
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,173
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,316
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,112
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,414
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,112
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,605
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,427
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,Gary Peters,DEM,75
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,Gary Peters,DEM,203
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,Gary Peters,DEM,358
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,Gary Peters,DEM,113
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,John James,REP,646
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,John James,REP,352
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,John James,REP,141
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,John James,REP,203
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,John James,REP,380
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,John James,REP,428
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,John James,REP,755
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,John James,REP,907
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,John James,REP,352
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,John James,REP,648
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,John James,REP,260
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,John James,REP,755
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,John James,REP,323
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,John James,REP,713
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,John James,REP,635
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,John James,REP,149
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,John James,REP,471
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,John James,REP,453
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,John James,REP,237
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,6
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,7
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,4
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,4
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,10
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,22
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,6
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,24
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,4
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,18
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,2
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,14
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,6
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,4
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,7
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,Valerie L. Willis,UST,1
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,8
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,Valerie L. Willis,UST,10
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,Valerie L. Willis,UST,3
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,7
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,15
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,1
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,9
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,8
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,6
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,11
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,Marcia Squier,GRN,0
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,Marcia Squier,GRN,4
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,Marcia Squier,GRN,9
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,Marcia Squier,GRN,3
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,5
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,15
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,8
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,0
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,Doug Dern,NLP,2
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,Doug Dern,NLP,1
+Oceana,"Benona Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Claybanks Township, Precinct 1",U.S. Senate,,Write-ins,,2
+Oceana,"Colfax Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Crystal Township, Precinct 1",U.S. Senate,,Write-ins,,2
+Oceana,"Elbridge Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Oceana,"Ferry Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Golden Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Grant Township, Precinct 1",U.S. Senate,,Write-ins,,3
+Oceana,"Greenwood Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Hart Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Leavitt Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Newfield Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Oceana,"Otto Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Oceana,"Pentwater Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Shelby Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"Shelby Township, Precinct 2",U.S. Senate,,Write-ins,,0
+Oceana,"Weare Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Oceana,"City of Hart, Precinct 1",U.S. Senate,,Write-ins,,1
+Oceana,"Shelby Township, Precinct 2A",U.S. Senate,,Write-ins,,0
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,363
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,161
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,71
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,88
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,97
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,159
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,293
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,415
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,154
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,262
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,92
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,347
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,105
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,565
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,380
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Bryan Berghoef,DEM,67
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,172
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Bryan Berghoef,DEM,302
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Bryan Berghoef,DEM,105
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,656
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,373
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,143
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,215
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,392
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,443
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,803
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,921
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,365
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,705
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,260
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,802
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,322
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,744
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,662
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Bill Huizenga,REP,153
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Bill Huizenga,REP,476
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Bill Huizenga,REP,500
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Bill Huizenga,REP,243
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Max Riekse,LIB,9
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Max Riekse,LIB,3
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Max Riekse,LIB,3
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Max Riekse,LIB,6
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Max Riekse,LIB,9
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Max Riekse,LIB,8
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Max Riekse,LIB,4
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Max Riekse,LIB,26
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Max Riekse,LIB,6
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Max Riekse,LIB,8
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Max Riekse,LIB,4
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Max Riekse,LIB,8
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Max Riekse,LIB,9
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Max Riekse,LIB,6
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Max Riekse,LIB,10
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Max Riekse,LIB,0
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Max Riekse,LIB,11
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Max Riekse,LIB,5
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Max Riekse,LIB,4
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,14
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,10
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,7
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,8
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,16
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,26
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,16
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,23
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,9
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,18
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,12
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,20
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,4
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,4
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,10
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Gerald T. Van Sickle,UST,3
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,19
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Gerald T. Van Sickle,UST,11
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Gerald T. Van Sickle,UST,4
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,4
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,3
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,0
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,3
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,1
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,7
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,3
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,11
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,2
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,5
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,3
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,10
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,1
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,7
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,8
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Jean-Michel Creviere,GRN,1
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,2
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Jean-Michel Creviere,GRN,8
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Jean-Michel Creviere,GRN,0
+Oceana,"Benona Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Claybanks Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Colfax Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Crystal Township, Precinct 1",U.S. House,2,Write-ins,,1
+Oceana,"Elbridge Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Ferry Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Golden Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Grant Township, Precinct 1",U.S. House,2,Write-ins,,3
+Oceana,"Greenwood Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Hart Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Leavitt Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Newfield Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Otto Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Pentwater Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"Shelby Township, Precinct 1",U.S. House,2,Write-ins,,2
+Oceana,"Shelby Township, Precinct 2",U.S. House,2,Write-ins,,0
+Oceana,"Weare Township, Precinct 1",U.S. House,2,Write-ins,,0
+Oceana,"City of Hart, Precinct 1",U.S. House,2,Write-ins,,4
+Oceana,"Shelby Township, Precinct 2A",U.S. House,2,Write-ins,,1
+Oceana,"Benona Township, Precinct 1",State House,100,Sandy Clarke,DEM,374
+Oceana,"Claybanks Township, Precinct 1",State House,100,Sandy Clarke,DEM,165
+Oceana,"Colfax Township, Precinct 1",State House,100,Sandy Clarke,DEM,78
+Oceana,"Crystal Township, Precinct 1",State House,100,Sandy Clarke,DEM,97
+Oceana,"Elbridge Township, Precinct 1",State House,100,Sandy Clarke,DEM,110
+Oceana,"Ferry Township, Precinct 1",State House,100,Sandy Clarke,DEM,180
+Oceana,"Golden Township, Precinct 1",State House,100,Sandy Clarke,DEM,335
+Oceana,"Grant Township, Precinct 1",State House,100,Sandy Clarke,DEM,457
+Oceana,"Greenwood Township, Precinct 1",State House,100,Sandy Clarke,DEM,165
+Oceana,"Hart Township, Precinct 1",State House,100,Sandy Clarke,DEM,294
+Oceana,"Leavitt Township, Precinct 1",State House,100,Sandy Clarke,DEM,101
+Oceana,"Newfield Township, Precinct 1",State House,100,Sandy Clarke,DEM,385
+Oceana,"Otto Township, Precinct 1",State House,100,Sandy Clarke,DEM,121
+Oceana,"Pentwater Township, Precinct 1",State House,100,Sandy Clarke,DEM,581
+Oceana,"Shelby Township, Precinct 1",State House,100,Sandy Clarke,DEM,405
+Oceana,"Shelby Township, Precinct 2",State House,100,Sandy Clarke,DEM,69
+Oceana,"Weare Township, Precinct 1",State House,100,Sandy Clarke,DEM,210
+Oceana,"City of Hart, Precinct 1",State House,100,Sandy Clarke,DEM,325
+Oceana,"Shelby Township, Precinct 2A",State House,100,Sandy Clarke,DEM,111
+Oceana,"Benona Township, Precinct 1",State House,100,Scott A. VanSingel,REP,659
+Oceana,"Claybanks Township, Precinct 1",State House,100,Scott A. VanSingel,REP,372
+Oceana,"Colfax Township, Precinct 1",State House,100,Scott A. VanSingel,REP,142
+Oceana,"Crystal Township, Precinct 1",State House,100,Scott A. VanSingel,REP,219
+Oceana,"Elbridge Township, Precinct 1",State House,100,Scott A. VanSingel,REP,397
+Oceana,"Ferry Township, Precinct 1",State House,100,Scott A. VanSingel,REP,446
+Oceana,"Golden Township, Precinct 1",State House,100,Scott A. VanSingel,REP,767
+Oceana,"Grant Township, Precinct 1",State House,100,Scott A. VanSingel,REP,915
+Oceana,"Greenwood Township, Precinct 1",State House,100,Scott A. VanSingel,REP,360
+Oceana,"Hart Township, Precinct 1",State House,100,Scott A. VanSingel,REP,682
+Oceana,"Leavitt Township, Precinct 1",State House,100,Scott A. VanSingel,REP,265
+Oceana,"Newfield Township, Precinct 1",State House,100,Scott A. VanSingel,REP,785
+Oceana,"Otto Township, Precinct 1",State House,100,Scott A. VanSingel,REP,313
+Oceana,"Pentwater Township, Precinct 1",State House,100,Scott A. VanSingel,REP,737
+Oceana,"Shelby Township, Precinct 1",State House,100,Scott A. VanSingel,REP,639
+Oceana,"Shelby Township, Precinct 2",State House,100,Scott A. VanSingel,REP,150
+Oceana,"Weare Township, Precinct 1",State House,100,Scott A. VanSingel,REP,469
+Oceana,"City of Hart, Precinct 1",State House,100,Scott A. VanSingel,REP,498
+Oceana,"Shelby Township, Precinct 2A",State House,100,Scott A. VanSingel,REP,243
+Oceana,"Benona Township, Precinct 1",State House,100,Write-ins,,2
+Oceana,"Claybanks Township, Precinct 1",State House,100,Write-ins,,0
+Oceana,"Colfax Township, Precinct 1",State House,100,Write-ins,,2
+Oceana,"Crystal Township, Precinct 1",State House,100,Write-ins,,0
+Oceana,"Elbridge Township, Precinct 1",State House,100,Write-ins,,2
+Oceana,"Ferry Township, Precinct 1",State House,100,Write-ins,,10
+Oceana,"Golden Township, Precinct 1",State House,100,Write-ins,,1
+Oceana,"Grant Township, Precinct 1",State House,100,Write-ins,,6
+Oceana,"Greenwood Township, Precinct 1",State House,100,Write-ins,,1
+Oceana,"Hart Township, Precinct 1",State House,100,Write-ins,,4
+Oceana,"Leavitt Township, Precinct 1",State House,100,Write-ins,,1
+Oceana,"Newfield Township, Precinct 1",State House,100,Write-ins,,4
+Oceana,"Otto Township, Precinct 1",State House,100,Write-ins,,3
+Oceana,"Pentwater Township, Precinct 1",State House,100,Write-ins,,4
+Oceana,"Shelby Township, Precinct 1",State House,100,Write-ins,,4
+Oceana,"Shelby Township, Precinct 2",State House,100,Write-ins,,1
+Oceana,"Weare Township, Precinct 1",State House,100,Write-ins,,1
+Oceana,"City of Hart, Precinct 1",State House,100,Write-ins,,4
+Oceana,"Shelby Township, Precinct 2A",State House,100,Write-ins,,1

@@ -827,49 +827,49 @@ Branch,Quincy Township Precinct 2,Governor,,LIB,Write-ins,0
 Branch,Sherwood Township Precinct 1,Governor,,LIB,Write-ins,0
 Branch,Union Township Precinct 1,Governor,,LIB,Write-ins,0
 Branch,Total,Governor,,LIB,Write-ins,1
-Branch,Algansee Township Precinct 1,Registered Voters,,   ,,1517
-Branch,Batavia Township Precinct 1,Registered Voters,,   ,,1296
-Branch,Bethel Township Precinct 1,Registered Voters,,   ,,1102
-Branch,Bronson City Precinct 1,Registered Voters,,   ,,1840
-Branch,Bronson Township Precinct 1,Registered Voters,,   ,,1179
-Branch,Butler Township Precinct 1,Registered Voters,,   ,,980
-Branch,California Township Precinct 1,Registered Voters,,   ,,525
-Branch,Coldwater City Precinct 1,Registered Voters,,   ,,2495
-Branch,Coldwater City Precinct 2,Registered Voters,,   ,,2567
-Branch,Coldwater City Precinct 3,Registered Voters,,   ,,2815
-Branch,Coldwater City Precinct 4,Registered Voters,,   ,,2400
-Branch,Coldwater Township Precinct 1,Registered Voters,,   ,,3535
-Branch,Gilead Township Precinct 1,Registered Voters,,   ,,601
-Branch,Girard Township Precinct 1,Registered Voters,,   ,,1763
-Branch,Kinderhook Township Precinct 1,Registered Voters,,   ,,1714
-Branch,Matteson Township Precinct 1,Registered Voters,,   ,,1071
-Branch,Noble Township Precinct 1,Registered Voters,,   ,,439
-Branch,Ovid Township Precinct 1,Registered Voters,,   ,,2668
-Branch,Quincy Township Precinct 1,Registered Voters,,   ,,1587
-Branch,Quincy Township Precinct 2,Registered Voters,,   ,,2204
-Branch,Sherwood Township Precinct 1,Registered Voters,,   ,,1894
-Branch,Union Township Precinct 1,Registered Voters,,   ,,2551
-Branch,Total,Registered Voters,,   ,,38743
-Branch,Algansee Township Precinct 1,Ballots Cast,,   ,,448
-Branch,Batavia Township Precinct 1,Ballots Cast,,   ,,267
-Branch,Bethel Township Precinct 1,Ballots Cast,,   ,,212
-Branch,Bronson City Precinct 1,Ballots Cast,,   ,,236
-Branch,Bronson Township Precinct 1,Ballots Cast,,   ,,248
-Branch,Butler Township Precinct 1,Ballots Cast,,   ,,230
-Branch,California Township Precinct 1,Ballots Cast,,   ,,90
-Branch,Coldwater City Precinct 1,Ballots Cast,,   ,,413
-Branch,Coldwater City Precinct 2,Ballots Cast,,   ,,465
-Branch,Coldwater City Precinct 3,Ballots Cast,,   ,,778
-Branch,Coldwater City Precinct 4,Ballots Cast,,   ,,371
-Branch,Coldwater Township Precinct 1,Ballots Cast,,   ,,894
-Branch,Gilead Township Precinct 1,Ballots Cast,,   ,,116
-Branch,Girard Township Precinct 1,Ballots Cast,,   ,,505
-Branch,Kinderhook Township Precinct 1,Ballots Cast,,   ,,358
-Branch,Matteson Township Precinct 1,Ballots Cast,,   ,,308
-Branch,Noble Township Precinct 1,Ballots Cast,,   ,,90
-Branch,Ovid Township Precinct 1,Ballots Cast,,   ,,656
-Branch,Quincy Township Precinct 1,Ballots Cast,,   ,,294
-Branch,Quincy Township Precinct 2,Ballots Cast,,   ,,457
-Branch,Sherwood Township Precinct 1,Ballots Cast,,   ,,338
-Branch,Union Township Precinct 1,Ballots Cast,,   ,,508
-Branch,Total,Ballots Cast,,   ,,8282
+Branch,Algansee Township Precinct 1,Registered Voters,,,,1517
+Branch,Batavia Township Precinct 1,Registered Voters,,,,1296
+Branch,Bethel Township Precinct 1,Registered Voters,,,,1102
+Branch,Bronson City Precinct 1,Registered Voters,,,,1840
+Branch,Bronson Township Precinct 1,Registered Voters,,,,1179
+Branch,Butler Township Precinct 1,Registered Voters,,,,980
+Branch,California Township Precinct 1,Registered Voters,,,,525
+Branch,Coldwater City Precinct 1,Registered Voters,,,,2495
+Branch,Coldwater City Precinct 2,Registered Voters,,,,2567
+Branch,Coldwater City Precinct 3,Registered Voters,,,,2815
+Branch,Coldwater City Precinct 4,Registered Voters,,,,2400
+Branch,Coldwater Township Precinct 1,Registered Voters,,,,3535
+Branch,Gilead Township Precinct 1,Registered Voters,,,,601
+Branch,Girard Township Precinct 1,Registered Voters,,,,1763
+Branch,Kinderhook Township Precinct 1,Registered Voters,,,,1714
+Branch,Matteson Township Precinct 1,Registered Voters,,,,1071
+Branch,Noble Township Precinct 1,Registered Voters,,,,439
+Branch,Ovid Township Precinct 1,Registered Voters,,,,2668
+Branch,Quincy Township Precinct 1,Registered Voters,,,,1587
+Branch,Quincy Township Precinct 2,Registered Voters,,,,2204
+Branch,Sherwood Township Precinct 1,Registered Voters,,,,1894
+Branch,Union Township Precinct 1,Registered Voters,,,,2551
+Branch,Total,Registered Voters,,,,38743
+Branch,Algansee Township Precinct 1,Ballots Cast,,,,448
+Branch,Batavia Township Precinct 1,Ballots Cast,,,,267
+Branch,Bethel Township Precinct 1,Ballots Cast,,,,212
+Branch,Bronson City Precinct 1,Ballots Cast,,,,236
+Branch,Bronson Township Precinct 1,Ballots Cast,,,,248
+Branch,Butler Township Precinct 1,Ballots Cast,,,,230
+Branch,California Township Precinct 1,Ballots Cast,,,,90
+Branch,Coldwater City Precinct 1,Ballots Cast,,,,413
+Branch,Coldwater City Precinct 2,Ballots Cast,,,,465
+Branch,Coldwater City Precinct 3,Ballots Cast,,,,778
+Branch,Coldwater City Precinct 4,Ballots Cast,,,,371
+Branch,Coldwater Township Precinct 1,Ballots Cast,,,,894
+Branch,Gilead Township Precinct 1,Ballots Cast,,,,116
+Branch,Girard Township Precinct 1,Ballots Cast,,,,505
+Branch,Kinderhook Township Precinct 1,Ballots Cast,,,,358
+Branch,Matteson Township Precinct 1,Ballots Cast,,,,308
+Branch,Noble Township Precinct 1,Ballots Cast,,,,90
+Branch,Ovid Township Precinct 1,Ballots Cast,,,,656
+Branch,Quincy Township Precinct 1,Ballots Cast,,,,294
+Branch,Quincy Township Precinct 2,Ballots Cast,,,,457
+Branch,Sherwood Township Precinct 1,Ballots Cast,,,,338
+Branch,Union Township Precinct 1,Ballots Cast,,,,508
+Branch,Total,Ballots Cast,,,,8282

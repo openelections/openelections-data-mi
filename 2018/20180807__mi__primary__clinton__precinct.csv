@@ -983,73 +983,73 @@ Clinton,"Watertown Charter Township, Precinct 1",Governor,,LIB,John J. Tatar,3
 Clinton,"Watertown Charter Township, Precinct 2",Governor,,LIB,John J. Tatar,3
 Clinton,"Westphalia Township, Precinct 1",Governor,,LIB,John J. Tatar,0
 Clinton,Total,Governor,,LIB,John J. Tatar,33
-Clinton,"Bath Charter Township, Precinct 1",Ballots Cast,,   ,,436
-Clinton,"Bath Charter Township, Precinct 2",Ballots Cast,,   ,,569
-Clinton,"Bath Charter Township, Precinct 3",Ballots Cast,,   ,,490
-Clinton,"Bath Charter Township, Precinct 4",Ballots Cast,,   ,,885
-Clinton,"Bath Charter Township, Precinct 5",Ballots Cast,,   ,,348
-Clinton,"Bengal Township, Precinct 1",Ballots Cast,,   ,,300
-Clinton,"Bingham Township, Precinct 1",Ballots Cast,,   ,,640
-Clinton,"Dallas Township, Precinct 1",Ballots Cast,,   ,,568
-Clinton,"DeWitt City, Precinct 1",Ballots Cast,,   ,,476
-Clinton,"DeWitt City, Precinct 2",Ballots Cast,,   ,,858
-Clinton,"DeWitt Charter Township, Precinct 1",Ballots Cast,,   ,,654
-Clinton,"DeWitt Charter Township, Precinct 2",Ballots Cast,,   ,,512
-Clinton,"DeWitt Charter Township, Precinct 3",Ballots Cast,,   ,,723
-Clinton,"DeWitt Charter Township, Precinct 4",Ballots Cast,,   ,,412
-Clinton,"DeWitt Charter Township, Precinct 5",Ballots Cast,,   ,,472
-Clinton,"DeWitt Charter Township, Precinct 6",Ballots Cast,,   ,,341
-Clinton,"DeWitt Charter Township, Precinct 7",Ballots Cast,,   ,,566
-Clinton,"Duplain Township, Precinct 1",Ballots Cast,,   ,,482
-Clinton,"Eagle Township, Precinct 1",Ballots Cast,,   ,,706
-Clinton,"East Lansing City, Precinct 17",Ballots Cast,,   ,,515
-Clinton,"Essex Township, Precinct 1",Ballots Cast,,   ,,363
-Clinton,"Greenbush Township, Precinct 1",Ballots Cast,,   ,,515
-Clinton,"Lebanon Township, Precinct 1",Ballots Cast,,   ,,135
-Clinton,"Olive Township, Precinct 1",Ballots Cast,,   ,,639
-Clinton,"Ovid City, Precinct 1",Ballots Cast,,   ,,222
-Clinton,"Ovid Township, Precinct 1",Ballots Cast,,   ,,468
-Clinton,"Riley Township, Precinct 1",Ballots Cast,,   ,,447
-Clinton,"St. Johns City, Precinct 1",Ballots Cast,,   ,,576
-Clinton,"St. Johns City, Precinct 2",Ballots Cast,,   ,,541
-Clinton,"St. Johns City, Precinct 3",Ballots Cast,,   ,,499
-Clinton,"Victor Township, Precinct 1",Ballots Cast,,   ,,840
-Clinton,"Watertown Charter Township, Precinct 1",Ballots Cast,,   ,,697
-Clinton,"Watertown Charter Township, Precinct 2",Ballots Cast,,   ,,717
-Clinton,"Westphalia Township, Precinct 1",Ballots Cast,,   ,,549
-Clinton,Total,Ballots Cast,,   ,,18161
-Clinton,"Bath Charter Township, Precinct 1",Registered Voters,,   ,,1338
-Clinton,"Bath Charter Township, Precinct 2",Registered Voters,,   ,,1977
-Clinton,"Bath Charter Township, Precinct 3",Registered Voters,,   ,,1314
-Clinton,"Bath Charter Township, Precinct 4",Registered Voters,,   ,,2396
-Clinton,"Bath Charter Township, Precinct 5",Registered Voters,,   ,,1383
-Clinton,"Bengal Township, Precinct 1",Registered Voters,,   ,,848
-Clinton,"Bingham Township, Precinct 1",Registered Voters,,   ,,2224
-Clinton,"Dallas Township, Precinct 1",Registered Voters,,   ,,1651
-Clinton,"DeWitt City, Precinct 1",Registered Voters,,   ,,1544
-Clinton,"DeWitt City, Precinct 2",Registered Voters,,   ,,2137
-Clinton,"DeWitt Charter Township, Precinct 1",Registered Voters,,   ,,1926
-Clinton,"DeWitt Charter Township, Precinct 2",Registered Voters,,   ,,1440
-Clinton,"DeWitt Charter Township, Precinct 3",Registered Voters,,   ,,1957
-Clinton,"DeWitt Charter Township, Precinct 4",Registered Voters,,   ,,1245
-Clinton,"DeWitt Charter Township, Precinct 5",Registered Voters,,   ,,1561
-Clinton,"DeWitt Charter Township, Precinct 6",Registered Voters,,   ,,1334
-Clinton,"DeWitt Charter Township, Precinct 7",Registered Voters,,   ,,1955
-Clinton,"Duplain Township, Precinct 1",Registered Voters,,   ,,1708
-Clinton,"Eagle Township, Precinct 1",Registered Voters,,   ,,2112
-Clinton,"East Lansing City, Precinct 17",Registered Voters,,   ,,1247
-Clinton,"Essex Township, Precinct 1",Registered Voters,,   ,,1352
-Clinton,"Greenbush Township, Precinct 1",Registered Voters,,   ,,1621
-Clinton,"Lebanon Township, Precinct 1",Registered Voters,,   ,,411
-Clinton,"Olive Township, Precinct 1",Registered Voters,,   ,,1949
-Clinton,"Ovid City, Precinct 1",Registered Voters,,   ,,978
-Clinton,"Ovid Township, Precinct 1",Registered Voters,,   ,,1592
-Clinton,"Riley Township, Precinct 1",Registered Voters,,   ,,1512
-Clinton,"St. Johns City, Precinct 1",Registered Voters,,   ,,1984
-Clinton,"St. Johns City, Precinct 2",Registered Voters,,   ,,2101
-Clinton,"St. Johns City, Precinct 3",Registered Voters,,   ,,1663
-Clinton,"Victor Township, Precinct 1",Registered Voters,,   ,,2658
-Clinton,"Watertown Charter Township, Precinct 1",Registered Voters,,   ,,1933
-Clinton,"Watertown Charter Township, Precinct 2",Registered Voters,,   ,,2281
-Clinton,"Westphalia Township, Precinct 1",Registered Voters,,   ,,1634
-Clinton,Total,Registered Voters,,   ,,56966
+Clinton,"Bath Charter Township, Precinct 1",Ballots Cast,,,,436
+Clinton,"Bath Charter Township, Precinct 2",Ballots Cast,,,,569
+Clinton,"Bath Charter Township, Precinct 3",Ballots Cast,,,,490
+Clinton,"Bath Charter Township, Precinct 4",Ballots Cast,,,,885
+Clinton,"Bath Charter Township, Precinct 5",Ballots Cast,,,,348
+Clinton,"Bengal Township, Precinct 1",Ballots Cast,,,,300
+Clinton,"Bingham Township, Precinct 1",Ballots Cast,,,,640
+Clinton,"Dallas Township, Precinct 1",Ballots Cast,,,,568
+Clinton,"DeWitt City, Precinct 1",Ballots Cast,,,,476
+Clinton,"DeWitt City, Precinct 2",Ballots Cast,,,,858
+Clinton,"DeWitt Charter Township, Precinct 1",Ballots Cast,,,,654
+Clinton,"DeWitt Charter Township, Precinct 2",Ballots Cast,,,,512
+Clinton,"DeWitt Charter Township, Precinct 3",Ballots Cast,,,,723
+Clinton,"DeWitt Charter Township, Precinct 4",Ballots Cast,,,,412
+Clinton,"DeWitt Charter Township, Precinct 5",Ballots Cast,,,,472
+Clinton,"DeWitt Charter Township, Precinct 6",Ballots Cast,,,,341
+Clinton,"DeWitt Charter Township, Precinct 7",Ballots Cast,,,,566
+Clinton,"Duplain Township, Precinct 1",Ballots Cast,,,,482
+Clinton,"Eagle Township, Precinct 1",Ballots Cast,,,,706
+Clinton,"East Lansing City, Precinct 17",Ballots Cast,,,,515
+Clinton,"Essex Township, Precinct 1",Ballots Cast,,,,363
+Clinton,"Greenbush Township, Precinct 1",Ballots Cast,,,,515
+Clinton,"Lebanon Township, Precinct 1",Ballots Cast,,,,135
+Clinton,"Olive Township, Precinct 1",Ballots Cast,,,,639
+Clinton,"Ovid City, Precinct 1",Ballots Cast,,,,222
+Clinton,"Ovid Township, Precinct 1",Ballots Cast,,,,468
+Clinton,"Riley Township, Precinct 1",Ballots Cast,,,,447
+Clinton,"St. Johns City, Precinct 1",Ballots Cast,,,,576
+Clinton,"St. Johns City, Precinct 2",Ballots Cast,,,,541
+Clinton,"St. Johns City, Precinct 3",Ballots Cast,,,,499
+Clinton,"Victor Township, Precinct 1",Ballots Cast,,,,840
+Clinton,"Watertown Charter Township, Precinct 1",Ballots Cast,,,,697
+Clinton,"Watertown Charter Township, Precinct 2",Ballots Cast,,,,717
+Clinton,"Westphalia Township, Precinct 1",Ballots Cast,,,,549
+Clinton,Total,Ballots Cast,,,,18161
+Clinton,"Bath Charter Township, Precinct 1",Registered Voters,,,,1338
+Clinton,"Bath Charter Township, Precinct 2",Registered Voters,,,,1977
+Clinton,"Bath Charter Township, Precinct 3",Registered Voters,,,,1314
+Clinton,"Bath Charter Township, Precinct 4",Registered Voters,,,,2396
+Clinton,"Bath Charter Township, Precinct 5",Registered Voters,,,,1383
+Clinton,"Bengal Township, Precinct 1",Registered Voters,,,,848
+Clinton,"Bingham Township, Precinct 1",Registered Voters,,,,2224
+Clinton,"Dallas Township, Precinct 1",Registered Voters,,,,1651
+Clinton,"DeWitt City, Precinct 1",Registered Voters,,,,1544
+Clinton,"DeWitt City, Precinct 2",Registered Voters,,,,2137
+Clinton,"DeWitt Charter Township, Precinct 1",Registered Voters,,,,1926
+Clinton,"DeWitt Charter Township, Precinct 2",Registered Voters,,,,1440
+Clinton,"DeWitt Charter Township, Precinct 3",Registered Voters,,,,1957
+Clinton,"DeWitt Charter Township, Precinct 4",Registered Voters,,,,1245
+Clinton,"DeWitt Charter Township, Precinct 5",Registered Voters,,,,1561
+Clinton,"DeWitt Charter Township, Precinct 6",Registered Voters,,,,1334
+Clinton,"DeWitt Charter Township, Precinct 7",Registered Voters,,,,1955
+Clinton,"Duplain Township, Precinct 1",Registered Voters,,,,1708
+Clinton,"Eagle Township, Precinct 1",Registered Voters,,,,2112
+Clinton,"East Lansing City, Precinct 17",Registered Voters,,,,1247
+Clinton,"Essex Township, Precinct 1",Registered Voters,,,,1352
+Clinton,"Greenbush Township, Precinct 1",Registered Voters,,,,1621
+Clinton,"Lebanon Township, Precinct 1",Registered Voters,,,,411
+Clinton,"Olive Township, Precinct 1",Registered Voters,,,,1949
+Clinton,"Ovid City, Precinct 1",Registered Voters,,,,978
+Clinton,"Ovid Township, Precinct 1",Registered Voters,,,,1592
+Clinton,"Riley Township, Precinct 1",Registered Voters,,,,1512
+Clinton,"St. Johns City, Precinct 1",Registered Voters,,,,1984
+Clinton,"St. Johns City, Precinct 2",Registered Voters,,,,2101
+Clinton,"St. Johns City, Precinct 3",Registered Voters,,,,1663
+Clinton,"Victor Township, Precinct 1",Registered Voters,,,,2658
+Clinton,"Watertown Charter Township, Precinct 1",Registered Voters,,,,1933
+Clinton,"Watertown Charter Township, Precinct 2",Registered Voters,,,,2281
+Clinton,"Westphalia Township, Precinct 1",Registered Voters,,,,1634
+Clinton,Total,Registered Voters,,,,56966

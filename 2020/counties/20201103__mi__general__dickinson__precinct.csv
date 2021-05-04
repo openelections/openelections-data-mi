@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Registered Voters,,,,2299
-Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Ballots Cast ,,,,1310
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Ballots Cast,,,,1310
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,DEM,Joseph R Biden,477
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,REP,Donald J Trump,806
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,LIB,Jo Jorgensen,17
@@ -22,7 +22,7 @@ Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,108,DEM,Renee 
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,108,REP,Beau Matthew LaFave,803
 Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,108,,Write-In,2
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Registered Voters,,,,2312
-Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Ballots Cast ,,,,1231
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Ballots Cast,,,,1231
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,DEM,Joseph R Biden,471
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,REP,Donald J Trump,721
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,LIB,Jo Jorgensen,26
@@ -44,7 +44,7 @@ Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",State House,108,DEM,Renee 
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",State House,108,REP,Beau Matthew LaFave,723
 Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",State House,108,,Write-In,4
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Registered Voters,,,,2245
-Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Ballots Cast ,,,,1321
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Ballots Cast,,,,1321
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,DEM,Joseph R Biden,493
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,REP,Donald J Trump,793
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,LIB,Jo Jorgensen,28
@@ -66,7 +66,7 @@ Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,108,DEM,Renee 
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,108,REP,Beau Matthew LaFave,793
 Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,108,,Write-In,3
 Dickinson,"City of Kingsford, Precinct 1",Registered Voters,,,,1889
-Dickinson,"City of Kingsford, Precinct 1",Ballots Cast ,,,,1259
+Dickinson,"City of Kingsford, Precinct 1",Ballots Cast,,,,1259
 Dickinson,"City of Kingsford, Precinct 1",President,,DEM,Joseph R Biden,435
 Dickinson,"City of Kingsford, Precinct 1",President,,REP,Donald J Trump,798
 Dickinson,"City of Kingsford, Precinct 1",President,,LIB,Jo Jorgensen,11
@@ -88,7 +88,7 @@ Dickinson,"City of Kingsford, Precinct 1",State House,108,DEM,Renee Richer,451
 Dickinson,"City of Kingsford, Precinct 1",State House,108,REP,Beau Matthew LaFave,788
 Dickinson,"City of Kingsford, Precinct 1",State House,108,,Write-In,2
 Dickinson,"City of Kingsford, Precinct 2",Registered Voters,,,,2535
-Dickinson,"City of Kingsford, Precinct 2",Ballots Cast ,,,,1445
+Dickinson,"City of Kingsford, Precinct 2",Ballots Cast,,,,1445
 Dickinson,"City of Kingsford, Precinct 2",President,,DEM,Joseph R Biden,491
 Dickinson,"City of Kingsford, Precinct 2",President,,REP,Donald J Trump,920
 Dickinson,"City of Kingsford, Precinct 2",President,,LIB,Jo Jorgensen,24
@@ -110,7 +110,7 @@ Dickinson,"City of Kingsford, Precinct 2",State House,108,DEM,Renee Richer,495
 Dickinson,"City of Kingsford, Precinct 2",State House,108,REP,Beau Matthew LaFave,788
 Dickinson,"City of Kingsford, Precinct 2",State House,108,,Write-In,6
 Dickinson,"City of Norway, Precinct 1",Registered Voters,,,,2794
-Dickinson,"City of Norway, Precinct 1",Ballots Cast ,,,,1484
+Dickinson,"City of Norway, Precinct 1",Ballots Cast,,,,1484
 Dickinson,"City of Norway, Precinct 1",President,,DEM,Joseph R Biden,570
 Dickinson,"City of Norway, Precinct 1",President,,REP,Donald J Trump,872
 Dickinson,"City of Norway, Precinct 1",President,,LIB,Jo Jorgensen,22
@@ -132,7 +132,7 @@ Dickinson,"City of Norway, Precinct 1",State House,108,DEM,Renee Richer,586
 Dickinson,"City of Norway, Precinct 1",State House,108,REP,Beau Matthew LaFave,864
 Dickinson,"City of Norway, Precinct 1",State House,108,,Write-In,5
 Dickinson,"Breen Township, Precinct 1",Registered Voters,,,,387
-Dickinson,"Breen Township, Precinct 1",Ballots Cast ,,,,294
+Dickinson,"Breen Township, Precinct 1",Ballots Cast,,,,294
 Dickinson,"Breen Township, Precinct 1",President,,DEM,Joseph R Biden,53
 Dickinson,"Breen Township, Precinct 1",President,,REP,Donald J Trump,240
 Dickinson,"Breen Township, Precinct 1",President,,LIB,Jo Jorgensen,0
@@ -154,7 +154,7 @@ Dickinson,"Breen Township, Precinct 1",State House,108,DEM,Renee Richer,46
 Dickinson,"Breen Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,243
 Dickinson,"Breen Township, Precinct 1",State House,108,,Write-In,0
 Dickinson,"Breitung Township, Precinct 1",Registered Voters,,,,1536
-Dickinson,"Breitung Township, Precinct 1",Ballots Cast ,,,,1117
+Dickinson,"Breitung Township, Precinct 1",Ballots Cast,,,,1117
 Dickinson,"Breitung Township, Precinct 1",President,,DEM,Joseph R Biden,287
 Dickinson,"Breitung Township, Precinct 1",President,,REP,Donald J Trump,813
 Dickinson,"Breitung Township, Precinct 1",President,,LIB,Jo Jorgensen,9
@@ -176,7 +176,7 @@ Dickinson,"Breitung Township, Precinct 1",State House,108,DEM,Renee Richer,298
 Dickinson,"Breitung Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,805
 Dickinson,"Breitung Township, Precinct 1",State House,108,,Write-In,1
 Dickinson,"Breitung Township, Precinct 2",Registered Voters,,,,1259
-Dickinson,"Breitung Township, Precinct 2",Ballots Cast ,,,,943
+Dickinson,"Breitung Township, Precinct 2",Ballots Cast,,,,943
 Dickinson,"Breitung Township, Precinct 2",President,,DEM,Joseph R Biden,270
 Dickinson,"Breitung Township, Precinct 2",President,,REP,Donald J Trump,663
 Dickinson,"Breitung Township, Precinct 2",President,,LIB,Jo Jorgensen,7
@@ -198,7 +198,7 @@ Dickinson,"Breitung Township, Precinct 2",State House,108,DEM,Renee Richer,281
 Dickinson,"Breitung Township, Precinct 2",State House,108,REP,Beau Matthew LaFave,648
 Dickinson,"Breitung Township, Precinct 2",State House,108,,Write-In,2
 Dickinson,"Breitung Township, Precinct 3",Registered Voters,,,,2397
-Dickinson,"Breitung Township, Precinct 3",Ballots Cast ,,,,1640
+Dickinson,"Breitung Township, Precinct 3",Ballots Cast,,,,1640
 Dickinson,"Breitung Township, Precinct 3",President,,DEM,Joseph R Biden,471
 Dickinson,"Breitung Township, Precinct 3",President,,REP,Donald J Trump,1134
 Dickinson,"Breitung Township, Precinct 3",President,,LIB,Jo Jorgensen,20
@@ -220,7 +220,7 @@ Dickinson,"Breitung Township, Precinct 3",State House,108,DEM,Renee Richer,487
 Dickinson,"Breitung Township, Precinct 3",State House,108,REP,Beau Matthew LaFave,1125
 Dickinson,"Breitung Township, Precinct 3",State House,108,,Write-In,3
 Dickinson,"Felch Township, Precinct 1",Registered Voters,,,,591
-Dickinson,"Felch Township, Precinct 1",Ballots Cast ,,,,436
+Dickinson,"Felch Township, Precinct 1",Ballots Cast,,,,436
 Dickinson,"Felch Township, Precinct 1",President,,DEM,Joseph R Biden,92
 Dickinson,"Felch Township, Precinct 1",President,,REP,Donald J Trump,340
 Dickinson,"Felch Township, Precinct 1",President,,LIB,Jo Jorgensen,2
@@ -242,7 +242,7 @@ Dickinson,"Felch Township, Precinct 1",State House,108,DEM,Renee Richer,85
 Dickinson,"Felch Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,344
 Dickinson,"Felch Township, Precinct 1",State House,108,,Write-In,2
 Dickinson,"Norway Township, Precinct 1",Registered Voters,,,,1362
-Dickinson,"Norway Township, Precinct 1",Ballots Cast ,,,,939
+Dickinson,"Norway Township, Precinct 1",Ballots Cast,,,,939
 Dickinson,"Norway Township, Precinct 1",President,,DEM,Joseph R Biden,296
 Dickinson,"Norway Township, Precinct 1",President,,REP,Donald J Trump,625
 Dickinson,"Norway Township, Precinct 1",President,,LIB,Jo Jorgensen,8
@@ -264,7 +264,7 @@ Dickinson,"Norway Township, Precinct 1",State House,108,DEM,Renee Richer,295
 Dickinson,"Norway Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,628
 Dickinson,"Norway Township, Precinct 1",State House,108,,Write-In,3
 Dickinson,"Sagola Township, Precinct 1",Registered Voters,,,,990
-Dickinson,"Sagola Township, Precinct 1",Ballots Cast ,,,,687
+Dickinson,"Sagola Township, Precinct 1",Ballots Cast,,,,687
 Dickinson,"Sagola Township, Precinct 1",President,,DEM,Joseph R Biden,179
 Dickinson,"Sagola Township, Precinct 1",President,,REP,Donald J Trump,491
 Dickinson,"Sagola Township, Precinct 1",President,,LIB,Jo Jorgensen,8
@@ -286,7 +286,7 @@ Dickinson,"Sagola Township, Precinct 1",State House,108,DEM,Renee Richer,182
 Dickinson,"Sagola Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,491
 Dickinson,"Sagola Township, Precinct 1",State House,108,,Write-In,4
 Dickinson,"Waucedah Township, Precinct 1",Registered Voters,,,,787
-Dickinson,"Waucedah Township, Precinct 1",Ballots Cast ,,,,534
+Dickinson,"Waucedah Township, Precinct 1",Ballots Cast,,,,534
 Dickinson,"Waucedah Township, Precinct 1",President,,DEM,Joseph R Biden,146
 Dickinson,"Waucedah Township, Precinct 1",President,,REP,Donald J Trump,378
 Dickinson,"Waucedah Township, Precinct 1",President,,LIB,Jo Jorgensen,5
@@ -308,7 +308,7 @@ Dickinson,"Waucedah Township, Precinct 1",State House,108,DEM,Renee Richer,163
 Dickinson,"Waucedah Township, Precinct 1",State House,108,REP,Beau Matthew LaFave,364
 Dickinson,"Waucedah Township, Precinct 1",State House,108,,Write-In,0
 Dickinson,"West Branch Township, Precinct 1",Registered Voters,,,,54
-Dickinson,"West Branch Township, Precinct 1",Ballots Cast ,,,,37
+Dickinson,"West Branch Township, Precinct 1",Ballots Cast,,,,37
 Dickinson,"West Branch Township, Precinct 1",President,,DEM,Joseph R Biden,13
 Dickinson,"West Branch Township, Precinct 1",President,,REP,Donald J Trump,23
 Dickinson,"West Branch Township, Precinct 1",President,,LIB,Jo Jorgensen,0

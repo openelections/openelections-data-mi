@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,votes
 Registered Voters,,,,Montcalm,"Belvidere Township, Precinct 1",1764
-Ballots Cast ,,,,Montcalm,"Belvidere Township, Precinct 1",1224
+Ballots Cast,,,,Montcalm,"Belvidere Township, Precinct 1",1224
 ,Straight Party,,DEM,Montcalm,"Belvidere Township, Precinct 1",183
 ,Straight Party,,REP,Montcalm,"Belvidere Township, Precinct 1",510
 ,Straight Party,,LIB,Montcalm,"Belvidere Township, Precinct 1",7
@@ -49,7 +49,7 @@ Pat Outman,State House,70,REP,Montcalm,"Belvidere Township, Precinct 1",827
 Undervotes,State House,70,,Montcalm,"Belvidere Township, Precinct 1",38
 Overvotes,State House,70,,Montcalm,"Belvidere Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Bloomer Township, Precinct 1",941
-Ballots Cast ,,,,Montcalm,"Bloomer Township, Precinct 1",647
+Ballots Cast,,,,Montcalm,"Bloomer Township, Precinct 1",647
 ,Straight Party,,DEM,Montcalm,"Bloomer Township, Precinct 1",80
 ,Straight Party,,REP,Montcalm,"Bloomer Township, Precinct 1",326
 ,Straight Party,,LIB,Montcalm,"Bloomer Township, Precinct 1",5
@@ -98,7 +98,7 @@ Pat Outman,State House,70,REP,Montcalm,"Bloomer Township, Precinct 1",479
 Undervotes,State House,70,,Montcalm,"Bloomer Township, Precinct 1",31
 Overvotes,State House,70,,Montcalm,"Bloomer Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Bushnell Township, Precinct 1",1151
-Ballots Cast ,,,,Montcalm,"Bushnell Township, Precinct 1",752
+Ballots Cast,,,,Montcalm,"Bushnell Township, Precinct 1",752
 ,Straight Party,,DEM,Montcalm,"Bushnell Township, Precinct 1",93
 ,Straight Party,,REP,Montcalm,"Bushnell Township, Precinct 1",388
 ,Straight Party,,LIB,Montcalm,"Bushnell Township, Precinct 1",4
@@ -147,7 +147,7 @@ Pat Outman,State House,70,REP,Montcalm,"Bushnell Township, Precinct 1",558
 Undervotes,State House,70,,Montcalm,"Bushnell Township, Precinct 1",27
 Overvotes,State House,70,,Montcalm,"Bushnell Township, Precinct 1",2
 Registered Voters,,,,Montcalm,"Cato Township, Precinct 1",2259
-Ballots Cast ,,,,Montcalm,"Cato Township, Precinct 1",1509
+Ballots Cast,,,,Montcalm,"Cato Township, Precinct 1",1509
 ,Straight Party,,DEM,Montcalm,"Cato Township, Precinct 1",228
 ,Straight Party,,REP,Montcalm,"Cato Township, Precinct 1",635
 ,Straight Party,,LIB,Montcalm,"Cato Township, Precinct 1",2
@@ -196,7 +196,7 @@ Pat Outman,State House,70,REP,Montcalm,"Cato Township, Precinct 1",1052
 Undervotes,State House,70,,Montcalm,"Cato Township, Precinct 1",575
 Overvotes,State House,70,,Montcalm,"Cato Township, Precinct 1",1
 Registered Voters,,,,Montcalm,"Crystal Township, Precinct 1",2069
-Ballots Cast ,,,,Montcalm,"Crystal Township, Precinct 1",1354
+Ballots Cast,,,,Montcalm,"Crystal Township, Precinct 1",1354
 ,Straight Party,,DEM,Montcalm,"Crystal Township, Precinct 1",214
 ,Straight Party,,REP,Montcalm,"Crystal Township, Precinct 1",555
 ,Straight Party,,LIB,Montcalm,"Crystal Township, Precinct 1",6
@@ -245,7 +245,7 @@ Pat Outman,State House,70,REP,Montcalm,"Crystal Township, Precinct 1",923
 Undervotes,State House,70,,Montcalm,"Crystal Township, Precinct 1",56
 Overvotes,State House,70,,Montcalm,"Crystal Township, Precinct 1",4
 Registered Voters,,,,Montcalm,"Day Township, Precinct 1",857
-Ballots Cast ,,,,Montcalm,"Day Township, Precinct 1",630
+Ballots Cast,,,,Montcalm,"Day Township, Precinct 1",630
 ,Straight Party,,DEM,Montcalm,"Day Township, Precinct 1",70
 ,Straight Party,,REP,Montcalm,"Day Township, Precinct 1",325
 ,Straight Party,,LIB,Montcalm,"Day Township, Precinct 1",3
@@ -294,7 +294,7 @@ Pat Outman,State House,70,REP,Montcalm,"Day Township, Precinct 1",462
 Undervotes,State House,70,,Montcalm,"Day Township, Precinct 1",22
 Overvotes,State House,70,,Montcalm,"Day Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Douglass Township, Precinct 1",1917
-Ballots Cast ,,,,Montcalm,"Douglass Township, Precinct 1",1334
+Ballots Cast,,,,Montcalm,"Douglass Township, Precinct 1",1334
 ,Straight Party,,DEM,Montcalm,"Douglass Township, Precinct 1",197
 ,Straight Party,,REP,Montcalm,"Douglass Township, Precinct 1",593
 ,Straight Party,,LIB,Montcalm,"Douglass Township, Precinct 1",2
@@ -343,7 +343,7 @@ Pat Outman,State House,70,REP,Montcalm,"Douglass Township, Precinct 1",935
 Undervotes,State House,70,,Montcalm,"Douglass Township, Precinct 1",41
 Overvotes,State House,70,,Montcalm,"Douglass Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Eureka Charter Township, Precinct 1",1608
-Ballots Cast ,,,,Montcalm,"Eureka Charter Township, Precinct 1",1228
+Ballots Cast,,,,Montcalm,"Eureka Charter Township, Precinct 1",1228
 ,Straight Party,,DEM,Montcalm,"Eureka Charter Township, Precinct 1",242
 ,Straight Party,,REP,Montcalm,"Eureka Charter Township, Precinct 1",431
 ,Straight Party,,LIB,Montcalm,"Eureka Charter Township, Precinct 1",5
@@ -392,7 +392,7 @@ Pat Outman,State House,70,REP,Montcalm,"Eureka Charter Township, Precinct 1",731
 Undervotes,State House,70,,Montcalm,"Eureka Charter Township, Precinct 1",61
 Overvotes,State House,70,,Montcalm,"Eureka Charter Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Eureka Charter Township, Precinct 2",1691
-Ballots Cast ,,,,Montcalm,"Eureka Charter Township, Precinct 2",1235
+Ballots Cast,,,,Montcalm,"Eureka Charter Township, Precinct 2",1235
 ,Straight Party,,DEM,Montcalm,"Eureka Charter Township, Precinct 2",226
 ,Straight Party,,REP,Montcalm,"Eureka Charter Township, Precinct 2",513
 ,Straight Party,,LIB,Montcalm,"Eureka Charter Township, Precinct 2",4
@@ -441,7 +441,7 @@ Pat Outman,State House,70,REP,Montcalm,"Eureka Charter Township, Precinct 2",796
 Undervotes,State House,70,,Montcalm,"Eureka Charter Township, Precinct 2",41
 Overvotes,State House,70,,Montcalm,"Eureka Charter Township, Precinct 2",0
 Registered Voters,,,,Montcalm,"Evergreen Township, Precinct 1",1330
-Ballots Cast ,,,,Montcalm,"Evergreen Township, Precinct 1",831
+Ballots Cast,,,,Montcalm,"Evergreen Township, Precinct 1",831
 ,Straight Party,,DEM,Montcalm,"Evergreen Township, Precinct 1",117
 ,Straight Party,,REP,Montcalm,"Evergreen Township, Precinct 1",375
 ,Straight Party,,LIB,Montcalm,"Evergreen Township, Precinct 1",0
@@ -490,7 +490,7 @@ Pat Outman,State House,70,REP,Montcalm,"Evergreen Township, Precinct 1",553
 Undervotes,State House,70,,Montcalm,"Evergreen Township, Precinct 1",39
 Overvotes,State House,70,,Montcalm,"Evergreen Township, Precinct 1",1
 Registered Voters,,,,Montcalm,"Evergreen Township, Precinct 2",1044
-Ballots Cast ,,,,Montcalm,"Evergreen Township, Precinct 2",658
+Ballots Cast,,,,Montcalm,"Evergreen Township, Precinct 2",658
 ,Straight Party,,DEM,Montcalm,"Evergreen Township, Precinct 2",86
 ,Straight Party,,REP,Montcalm,"Evergreen Township, Precinct 2",288
 ,Straight Party,,LIB,Montcalm,"Evergreen Township, Precinct 2",1
@@ -539,7 +539,7 @@ Pat Outman,State House,70,REP,Montcalm,"Evergreen Township, Precinct 2",480
 Undervotes,State House,70,,Montcalm,"Evergreen Township, Precinct 2",21
 Overvotes,State House,70,,Montcalm,"Evergreen Township, Precinct 2",1
 Registered Voters,,,,Montcalm,"Fairplain Township, Precinct 1",1401
-Ballots Cast ,,,,Montcalm,"Fairplain Township, Precinct 1",966
+Ballots Cast,,,,Montcalm,"Fairplain Township, Precinct 1",966
 ,Straight Party,,DEM,Montcalm,"Fairplain Township, Precinct 1",139
 ,Straight Party,,REP,Montcalm,"Fairplain Township, Precinct 1",419
 ,Straight Party,,LIB,Montcalm,"Fairplain Township, Precinct 1",3
@@ -588,7 +588,7 @@ Pat Outman,State House,70,REP,Montcalm,"Fairplain Township, Precinct 1",656
 Undervotes,State House,70,,Montcalm,"Fairplain Township, Precinct 1",46
 Overvotes,State House,70,,Montcalm,"Fairplain Township, Precinct 1",1
 Registered Voters,,,,Montcalm,"Ferris Township, Precinct 1",1017
-Ballots Cast ,,,,Montcalm,"Ferris Township, Precinct 1",711
+Ballots Cast,,,,Montcalm,"Ferris Township, Precinct 1",711
 ,Straight Party,,DEM,Montcalm,"Ferris Township, Precinct 1",93
 ,Straight Party,,REP,Montcalm,"Ferris Township, Precinct 1",349
 ,Straight Party,,LIB,Montcalm,"Ferris Township, Precinct 1",2
@@ -637,7 +637,7 @@ Pat Outman,State House,70,REP,Montcalm,"Ferris Township, Precinct 1",497
 Undervotes,State House,70,,Montcalm,"Ferris Township, Precinct 1",34
 Overvotes,State House,70,,Montcalm,"Ferris Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Home Township, Precinct 1",2041
-Ballots Cast ,,,,Montcalm,"Home Township, Precinct 1",1279
+Ballots Cast,,,,Montcalm,"Home Township, Precinct 1",1279
 ,Straight Party,,DEM,Montcalm,"Home Township, Precinct 1",180
 ,Straight Party,,REP,Montcalm,"Home Township, Precinct 1",578
 ,Straight Party,,LIB,Montcalm,"Home Township, Precinct 1",11
@@ -686,7 +686,7 @@ Pat Outman,State House,70,REP,Montcalm,"Home Township, Precinct 1",862
 Undervotes,State House,70,,Montcalm,"Home Township, Precinct 1",42
 Overvotes,State House,70,,Montcalm,"Home Township, Precinct 1",2
 Registered Voters,,,,Montcalm,"Maple Valley Township, Precinct 1",1520
-Ballots Cast ,,,,Montcalm,"Maple Valley Township, Precinct 1",1045
+Ballots Cast,,,,Montcalm,"Maple Valley Township, Precinct 1",1045
 ,Straight Party,,DEM,Montcalm,"Maple Valley Township, Precinct 1",120
 ,Straight Party,,REP,Montcalm,"Maple Valley Township, Precinct 1",480
 ,Straight Party,,LIB,Montcalm,"Maple Valley Township, Precinct 1",7
@@ -735,7 +735,7 @@ Pat Outman,State House,70,REP,Montcalm,"Maple Valley Township, Precinct 1",805
 Undervotes,State House,70,,Montcalm,"Maple Valley Township, Precinct 1",35
 Overvotes,State House,70,,Montcalm,"Maple Valley Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Montcalm Township, Precinct 1",2801
-Ballots Cast ,,,,Montcalm,"Montcalm Township, Precinct 1",1848
+Ballots Cast,,,,Montcalm,"Montcalm Township, Precinct 1",1848
 ,Straight Party,,DEM,Montcalm,"Montcalm Township, Precinct 1",273
 ,Straight Party,,REP,Montcalm,"Montcalm Township, Precinct 1",703
 ,Straight Party,,LIB,Montcalm,"Montcalm Township, Precinct 1",6
@@ -784,7 +784,7 @@ Pat Outman,State House,70,REP,Montcalm,"Montcalm Township, Precinct 1",1212
 Undervotes,State House,70,,Montcalm,"Montcalm Township, Precinct 1",93
 Overvotes,State House,70,,Montcalm,"Montcalm Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Pierson Township, Precinct 1",2757
-Ballots Cast ,,,,Montcalm,"Pierson Township, Precinct 1",2062
+Ballots Cast,,,,Montcalm,"Pierson Township, Precinct 1",2062
 ,Straight Party,,DEM,Montcalm,"Pierson Township, Precinct 1",274
 ,Straight Party,,REP,Montcalm,"Pierson Township, Precinct 1",957
 ,Straight Party,,LIB,Montcalm,"Pierson Township, Precinct 1",3
@@ -833,7 +833,7 @@ Pat Outman,State House,70,REP,Montcalm,"Pierson Township, Precinct 1",1462
 Undervotes,State House,70,,Montcalm,"Pierson Township, Precinct 1",83
 Overvotes,State House,70,,Montcalm,"Pierson Township, Precinct 1",2
 Registered Voters,,,,Montcalm,"Pine Township, Precinct 1",1368
-Ballots Cast ,,,,Montcalm,"Pine Township, Precinct 1",997
+Ballots Cast,,,,Montcalm,"Pine Township, Precinct 1",997
 ,Straight Party,,DEM,Montcalm,"Pine Township, Precinct 1",149
 ,Straight Party,,REP,Montcalm,"Pine Township, Precinct 1",422
 ,Straight Party,,LIB,Montcalm,"Pine Township, Precinct 1",1
@@ -882,7 +882,7 @@ Pat Outman,State House,70,REP,Montcalm,"Pine Township, Precinct 1",684
 Undervotes,State House,70,,Montcalm,"Pine Township, Precinct 1",45
 Overvotes,State House,70,,Montcalm,"Pine Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Reynolds Township, Precinct 1",2331
-Ballots Cast ,,,,Montcalm,"Reynolds Township, Precinct 1",1527
+Ballots Cast,,,,Montcalm,"Reynolds Township, Precinct 1",1527
 ,Straight Party,,DEM,Montcalm,"Reynolds Township, Precinct 1",224
 ,Straight Party,,REP,Montcalm,"Reynolds Township, Precinct 1",740
 ,Straight Party,,LIB,Montcalm,"Reynolds Township, Precinct 1",15
@@ -931,7 +931,7 @@ Pat Outman,State House,70,REP,Montcalm,"Reynolds Township, Precinct 1",1083
 Undervotes,State House,70,,Montcalm,"Reynolds Township, Precinct 1",82
 Overvotes,State House,70,,Montcalm,"Reynolds Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Reynolds Township, Precinct 2",1864
-Ballots Cast ,,,,Montcalm,"Reynolds Township, Precinct 2",1251
+Ballots Cast,,,,Montcalm,"Reynolds Township, Precinct 2",1251
 ,Straight Party,,DEM,Montcalm,"Reynolds Township, Precinct 2",177
 ,Straight Party,,REP,Montcalm,"Reynolds Township, Precinct 2",631
 ,Straight Party,,LIB,Montcalm,"Reynolds Township, Precinct 2",8
@@ -980,7 +980,7 @@ Pat Outman,State House,70,REP,Montcalm,"Reynolds Township, Precinct 2",898
 Undervotes,State House,70,,Montcalm,"Reynolds Township, Precinct 2",62
 Overvotes,State House,70,,Montcalm,"Reynolds Township, Precinct 2",0
 Registered Voters,,,,Montcalm,"Richland Township, Precinct 1",2150
-Ballots Cast ,,,,Montcalm,"Richland Township, Precinct 1",1368
+Ballots Cast,,,,Montcalm,"Richland Township, Precinct 1",1368
 ,Straight Party,,DEM,Montcalm,"Richland Township, Precinct 1",199
 ,Straight Party,,REP,Montcalm,"Richland Township, Precinct 1",635
 ,Straight Party,,LIB,Montcalm,"Richland Township, Precinct 1",2
@@ -1029,7 +1029,7 @@ Pat Outman,State House,70,REP,Montcalm,"Richland Township, Precinct 1",956
 Undervotes,State House,70,,Montcalm,"Richland Township, Precinct 1",54
 Overvotes,State House,70,,Montcalm,"Richland Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"Sidney Township, Precinct 1",2071
-Ballots Cast ,,,,Montcalm,"Sidney Township, Precinct 1",1457
+Ballots Cast,,,,Montcalm,"Sidney Township, Precinct 1",1457
 ,Straight Party,,DEM,Montcalm,"Sidney Township, Precinct 1",194
 ,Straight Party,,REP,Montcalm,"Sidney Township, Precinct 1",586
 ,Straight Party,,LIB,Montcalm,"Sidney Township, Precinct 1",1
@@ -1078,7 +1078,7 @@ Pat Outman,State House,70,REP,Montcalm,"Sidney Township, Precinct 1",1004
 Undervotes,State House,70,,Montcalm,"Sidney Township, Precinct 1",61
 Overvotes,State House,70,,Montcalm,"Sidney Township, Precinct 1",1
 Registered Voters,,,,Montcalm,"Winfield Township, Precinct 1",1848
-Ballots Cast ,,,,Montcalm,"Winfield Township, Precinct 1",1323
+Ballots Cast,,,,Montcalm,"Winfield Township, Precinct 1",1323
 ,Straight Party,,DEM,Montcalm,"Winfield Township, Precinct 1",188
 ,Straight Party,,REP,Montcalm,"Winfield Township, Precinct 1",676
 ,Straight Party,,LIB,Montcalm,"Winfield Township, Precinct 1",6
@@ -1127,7 +1127,7 @@ Pat Outman,State House,70,REP,Montcalm,"Winfield Township, Precinct 1",981
 Undervotes,State House,70,,Montcalm,"Winfield Township, Precinct 1",42
 Overvotes,State House,70,,Montcalm,"Winfield Township, Precinct 1",0
 Registered Voters,,,,Montcalm,"City of Carson City, Precinct 1",865
-Ballots Cast ,,,,Montcalm,"City of Carson City, Precinct 1",562
+Ballots Cast,,,,Montcalm,"City of Carson City, Precinct 1",562
 ,Straight Party,,DEM,Montcalm,"City of Carson City, Precinct 1",104
 ,Straight Party,,REP,Montcalm,"City of Carson City, Precinct 1",222
 ,Straight Party,,LIB,Montcalm,"City of Carson City, Precinct 1",3
@@ -1176,7 +1176,7 @@ Pat Outman,State House,70,REP,Montcalm,"City of Carson City, Precinct 1",356
 Undervotes,State House,70,,Montcalm,"City of Carson City, Precinct 1",23
 Overvotes,State House,70,,Montcalm,"City of Carson City, Precinct 1",0
 Registered Voters,,,,Montcalm,"City of Greenville, Precinct 1",1746
-Ballots Cast ,,,,Montcalm,"City of Greenville, Precinct 1",966
+Ballots Cast,,,,Montcalm,"City of Greenville, Precinct 1",966
 ,Straight Party,,DEM,Montcalm,"City of Greenville, Precinct 1",213
 ,Straight Party,,REP,Montcalm,"City of Greenville, Precinct 1",338
 ,Straight Party,,LIB,Montcalm,"City of Greenville, Precinct 1",5
@@ -1225,7 +1225,7 @@ Pat Outman,State House,70,REP,Montcalm,"City of Greenville, Precinct 1",548
 Undervotes,State House,70,,Montcalm,"City of Greenville, Precinct 1",34
 Overvotes,State House,70,,Montcalm,"City of Greenville, Precinct 1",0
 Registered Voters,,,,Montcalm,"City of Greenville, Precinct 2",1664
-Ballots Cast ,,,,Montcalm,"City of Greenville, Precinct 2",1053
+Ballots Cast,,,,Montcalm,"City of Greenville, Precinct 2",1053
 ,Straight Party,,DEM,Montcalm,"City of Greenville, Precinct 2",202
 ,Straight Party,,REP,Montcalm,"City of Greenville, Precinct 2",341
 ,Straight Party,,LIB,Montcalm,"City of Greenville, Precinct 2",4
@@ -1274,7 +1274,7 @@ Pat Outman,State House,70,REP,Montcalm,"City of Greenville, Precinct 2",584
 Undervotes,State House,70,,Montcalm,"City of Greenville, Precinct 2",50
 Overvotes,State House,70,,Montcalm,"City of Greenville, Precinct 2",0
 Registered Voters,,,,Montcalm,"City of Greenville, Precinct 3",1751
-Ballots Cast ,,,,Montcalm,"City of Greenville, Precinct 3",1203
+Ballots Cast,,,,Montcalm,"City of Greenville, Precinct 3",1203
 ,Straight Party,,DEM,Montcalm,"City of Greenville, Precinct 3",243
 ,Straight Party,,REP,Montcalm,"City of Greenville, Precinct 3",352
 ,Straight Party,,LIB,Montcalm,"City of Greenville, Precinct 3",11
@@ -1323,7 +1323,7 @@ Pat Outman,State House,70,REP,Montcalm,"City of Greenville, Precinct 3",658
 Undervotes,State House,70,,Montcalm,"City of Greenville, Precinct 3",56
 Overvotes,State House,70,,Montcalm,"City of Greenville, Precinct 3",0
 Registered Voters,,,,Montcalm,"City of Greenville, Precinct 4",1278
-Ballots Cast ,,,,Montcalm,"City of Greenville, Precinct 4",714
+Ballots Cast,,,,Montcalm,"City of Greenville, Precinct 4",714
 ,Straight Party,,DEM,Montcalm,"City of Greenville, Precinct 4",161
 ,Straight Party,,REP,Montcalm,"City of Greenville, Precinct 4",247
 ,Straight Party,,LIB,Montcalm,"City of Greenville, Precinct 4",9
@@ -1372,7 +1372,7 @@ Pat Outman,State House,70,REP,Montcalm,"City of Greenville, Precinct 4",427
 Undervotes,State House,70,,Montcalm,"City of Greenville, Precinct 4",23
 Overvotes,State House,70,,Montcalm,"City of Greenville, Precinct 4",0
 Registered Voters,,,,Montcalm,"City of Stanton, Precinct 1",869
-Ballots Cast ,,,,Montcalm,"City of Stanton, Precinct 1",530
+Ballots Cast,,,,Montcalm,"City of Stanton, Precinct 1",530
 ,Straight Party,,DEM,Montcalm,"City of Stanton, Precinct 1",87
 ,Straight Party,,REP,Montcalm,"City of Stanton, Precinct 1",220
 ,Straight Party,,LIB,Montcalm,"City of Stanton, Precinct 1",4

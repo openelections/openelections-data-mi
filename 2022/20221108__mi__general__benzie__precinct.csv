@@ -1,0 +1,510 @@
+﻿county,precinct,office,district,party,candidate,votes
+Benzie,City of Frankfort,Registered Voters,,,,1139
+Benzie,Almira,Registered Voters,,,,3351
+Benzie,Benzonia,Registered Voters,,,,2621
+Benzie,Blaine,Registered Voters,,,,528
+Benzie,Colfax,Registered Voters,,,,656
+Benzie,Crystal Lake,Registered Voters,,,,1061
+Benzie,Gilmore,Registered Voters,,,,701
+Benzie,Homestead,Registered Voters,,,,2187
+Benzie,Inland,Registered Voters,,,,2055
+Benzie,Joyfield,Registered Voters,,,,721
+Benzie,Lake,Registered Voters,,,,843
+Benzie,Platte,Registered Voters,,,,349
+Benzie,Weldon,Registered Voters,,,,555
+Benzie,City of Frankfort,Ballots Cast,,,,774
+Benzie,Almira,Ballots Cast,,,,2232
+Benzie,Benzonia,Ballots Cast,,,,1680
+Benzie,Blaine,Ballots Cast,,,,369
+Benzie,Colfax,Ballots Cast,,,,361
+Benzie,Crystal Lake,Ballots Cast,,,,732
+Benzie,Gilmore,Ballots Cast,,,,469
+Benzie,Homestead,Ballots Cast,,,,1193
+Benzie,Inland,Ballots Cast,,,,1292
+Benzie,Joyfield,Ballots Cast,,,,432
+Benzie,Lake,Ballots Cast,,,,658
+Benzie,Platte,Ballots Cast,,,,242
+Benzie,Weldon,Ballots Cast,,,,328
+Benzie,City of Frankfort,Straight Party,,DEM,Democratic,265
+Benzie,Almira,Straight Party,,DEM,Democratic,467
+Benzie,Benzonia,Straight Party,,DEM,Democratic,448
+Benzie,Blaine,Straight Party,,DEM,Democratic,94
+Benzie,Colfax,Straight Party,,DEM,Democratic,83
+Benzie,Crystal Lake,Straight Party,,DEM,Democratic,228
+Benzie,Gilmore,Straight Party,,DEM,Democratic,153
+Benzie,Homestead,Straight Party,,DEM,Democratic,239
+Benzie,Inland,Straight Party,,DEM,Democratic,251
+Benzie,Joyfield,Straight Party,,DEM,Democratic,92
+Benzie,Lake,Straight Party,,DEM,Democratic,190
+Benzie,Platte,Straight Party,,DEM,Democratic,51
+Benzie,Weldon,Straight Party,,DEM,Democratic,60
+Benzie,City of Frankfort,Straight Party,,REP,Republican,161
+Benzie,Almira,Straight Party,,REP,Republican,676
+Benzie,Benzonia,Straight Party,,REP,Republican,488
+Benzie,Blaine,Straight Party,,REP,Republican,104
+Benzie,Colfax,Straight Party,,REP,Republican,115
+Benzie,Crystal Lake,Straight Party,,REP,Republican,178
+Benzie,Gilmore,Straight Party,,REP,Republican,124
+Benzie,Homestead,Straight Party,,REP,Republican,393
+Benzie,Inland,Straight Party,,REP,Republican,464
+Benzie,Joyfield,Straight Party,,REP,Republican,147
+Benzie,Lake,Straight Party,,REP,Republican,177
+Benzie,Platte,Straight Party,,REP,Republican,59
+Benzie,Weldon,Straight Party,,REP,Republican,122
+Benzie,City of Frankfort,Straight Party,,LIB,Libertarian,3
+Benzie,Almira,Straight Party,,LIB,Libertarian,5
+Benzie,Benzonia,Straight Party,,LIB,Libertarian,4
+Benzie,Blaine,Straight Party,,LIB,Libertarian,1
+Benzie,Colfax,Straight Party,,LIB,Libertarian,1
+Benzie,Crystal Lake,Straight Party,,LIB,Libertarian,0
+Benzie,Gilmore,Straight Party,,LIB,Libertarian,0
+Benzie,Homestead,Straight Party,,LIB,Libertarian,5
+Benzie,Inland,Straight Party,,LIB,Libertarian,3
+Benzie,Joyfield,Straight Party,,LIB,Libertarian,2
+Benzie,Lake,Straight Party,,LIB,Libertarian,0
+Benzie,Platte,Straight Party,,LIB,Libertarian,1
+Benzie,Weldon,Straight Party,,LIB,Libertarian,1
+Benzie,City of Frankfort,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Almira,Straight Party,,UST,U.S. Taxpayers,2
+Benzie,Benzonia,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Blaine,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Colfax,Straight Party,,UST,U.S. Taxpayers,2
+Benzie,Crystal Lake,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Gilmore,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Homestead,Straight Party,,UST,U.S. Taxpayers,1
+Benzie,Inland,Straight Party,,UST,U.S. Taxpayers,2
+Benzie,Joyfield,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Lake,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Platte,Straight Party,,UST,U.S. Taxpayers,0
+Benzie,Weldon,Straight Party,,UST,U.S. Taxpayers,1
+Benzie,City of Frankfort,Straight Party,,WCP,Working Class,1
+Benzie,Almira,Straight Party,,WCP,Working Class,3
+Benzie,Benzonia,Straight Party,,WCP,Working Class,3
+Benzie,Blaine,Straight Party,,WCP,Working Class,1
+Benzie,Colfax,Straight Party,,WCP,Working Class,1
+Benzie,Crystal Lake,Straight Party,,WCP,Working Class,2
+Benzie,Gilmore,Straight Party,,WCP,Working Class,1
+Benzie,Homestead,Straight Party,,WCP,Working Class,6
+Benzie,Inland,Straight Party,,WCP,Working Class,3
+Benzie,Joyfield,Straight Party,,WCP,Working Class,0
+Benzie,Lake,Straight Party,,WCP,Working Class,1
+Benzie,Platte,Straight Party,,WCP,Working Class,0
+Benzie,Weldon,Straight Party,,WCP,Working Class,1
+Benzie,City of Frankfort,Straight Party,,GRN,Green,3
+Benzie,Almira,Straight Party,,GRN,Green,1
+Benzie,Benzonia,Straight Party,,GRN,Green,4
+Benzie,Blaine,Straight Party,,GRN,Green,2
+Benzie,Colfax,Straight Party,,GRN,Green,1
+Benzie,Crystal Lake,Straight Party,,GRN,Green,0
+Benzie,Gilmore,Straight Party,,GRN,Green,0
+Benzie,Homestead,Straight Party,,GRN,Green,2
+Benzie,Inland,Straight Party,,GRN,Green,2
+Benzie,Joyfield,Straight Party,,GRN,Green,0
+Benzie,Lake,Straight Party,,GRN,Green,1
+Benzie,Platte,Straight Party,,GRN,Green,0
+Benzie,Weldon,Straight Party,,GRN,Green,0
+Benzie,City of Frankfort,Straight Party,,NLP,Natural Law,0
+Benzie,Almira,Straight Party,,NLP,Natural Law,0
+Benzie,Benzonia,Straight Party,,NLP,Natural Law,0
+Benzie,Blaine,Straight Party,,NLP,Natural Law,0
+Benzie,Colfax,Straight Party,,NLP,Natural Law,0
+Benzie,Crystal Lake,Straight Party,,NLP,Natural Law,0
+Benzie,Gilmore,Straight Party,,NLP,Natural Law,0
+Benzie,Homestead,Straight Party,,NLP,Natural Law,0
+Benzie,Inland,Straight Party,,NLP,Natural Law,0
+Benzie,Joyfield,Straight Party,,NLP,Natural Law,0
+Benzie,Lake,Straight Party,,NLP,Natural Law,0
+Benzie,Platte,Straight Party,,NLP,Natural Law,0
+Benzie,Weldon,Straight Party,,NLP,Natural Law,0
+Benzie,City of Frankfort,Governor,,DEM,Gretchen Whitmer,517
+Benzie,Almira,Governor,,DEM,Gretchen Whitmer,1059
+Benzie,Benzonia,Governor,,DEM,Gretchen Whitmer,898
+Benzie,Blaine,Governor,,DEM,Gretchen Whitmer,207
+Benzie,Colfax,Governor,,DEM,Gretchen Whitmer,147
+Benzie,Crystal Lake,Governor,,DEM,Gretchen Whitmer,434
+Benzie,Gilmore,Governor,,DEM,Gretchen Whitmer,282
+Benzie,Homestead,Governor,,DEM,Gretchen Whitmer,544
+Benzie,Inland,Governor,,DEM,Gretchen Whitmer,514
+Benzie,Joyfield,Governor,,DEM,Gretchen Whitmer,197
+Benzie,Lake,Governor,,DEM,Gretchen Whitmer,379
+Benzie,Platte,Governor,,DEM,Gretchen Whitmer,132
+Benzie,Weldon,Governor,,DEM,Gretchen Whitmer,136
+Benzie,City of Frankfort,Governor,,REP,Tudor M. Dixon,232
+Benzie,Almira,Governor,,REP,Tudor M. Dixon,1133
+Benzie,Benzonia,Governor,,REP,Tudor M. Dixon,742
+Benzie,Blaine,Governor,,REP,Tudor M. Dixon,158
+Benzie,Colfax,Governor,,REP,Tudor M. Dixon,204
+Benzie,Crystal Lake,Governor,,REP,Tudor M. Dixon,288
+Benzie,Gilmore,Governor,,REP,Tudor M. Dixon,177
+Benzie,Homestead,Governor,,REP,Tudor M. Dixon,614
+Benzie,Inland,Governor,,REP,Tudor M. Dixon,754
+Benzie,Joyfield,Governor,,REP,Tudor M. Dixon,222
+Benzie,Lake,Governor,,REP,Tudor M. Dixon,265
+Benzie,Platte,Governor,,REP,Tudor M. Dixon,99
+Benzie,Weldon,Governor,,REP,Tudor M. Dixon,176
+Benzie,City of Frankfort,Governor,,LIB,Mary Buzuma,10
+Benzie,Almira,Governor,,LIB,Mary Buzuma,20
+Benzie,Benzonia,Governor,,LIB,Mary Buzuma,14
+Benzie,Blaine,Governor,,LIB,Mary Buzuma,2
+Benzie,Colfax,Governor,,LIB,Mary Buzuma,4
+Benzie,Crystal Lake,Governor,,LIB,Mary Buzuma,3
+Benzie,Gilmore,Governor,,LIB,Mary Buzuma,3
+Benzie,Homestead,Governor,,LIB,Mary Buzuma,11
+Benzie,Inland,Governor,,LIB,Mary Buzuma,9
+Benzie,Joyfield,Governor,,LIB,Mary Buzuma,6
+Benzie,Lake,Governor,,LIB,Mary Buzuma,5
+Benzie,Platte,Governor,,LIB,Mary Buzuma,5
+Benzie,Weldon,Governor,,LIB,Mary Buzuma,7
+Benzie,City of Frankfort,Governor,,UST,Donna Brandenburg,3
+Benzie,Almira,Governor,,UST,Donna Brandenburg,2
+Benzie,Benzonia,Governor,,UST,Donna Brandenburg,3
+Benzie,Blaine,Governor,,UST,Donna Brandenburg,0
+Benzie,Colfax,Governor,,UST,Donna Brandenburg,2
+Benzie,Crystal Lake,Governor,,UST,Donna Brandenburg,3
+Benzie,Gilmore,Governor,,UST,Donna Brandenburg,2
+Benzie,Homestead,Governor,,UST,Donna Brandenburg,9
+Benzie,Inland,Governor,,UST,Donna Brandenburg,5
+Benzie,Joyfield,Governor,,UST,Donna Brandenburg,2
+Benzie,Lake,Governor,,UST,Donna Brandenburg,2
+Benzie,Platte,Governor,,UST,Donna Brandenburg,1
+Benzie,Weldon,Governor,,UST,Donna Brandenburg,2
+Benzie,City of Frankfort,Governor,,GRN,Kevin Hogan,4
+Benzie,Almira,Governor,,GRN,Kevin Hogan,4
+Benzie,Benzonia,Governor,,GRN,Kevin Hogan,4
+Benzie,Blaine,Governor,,GRN,Kevin Hogan,1
+Benzie,Colfax,Governor,,GRN,Kevin Hogan,1
+Benzie,Crystal Lake,Governor,,GRN,Kevin Hogan,0
+Benzie,Gilmore,Governor,,GRN,Kevin Hogan,1
+Benzie,Homestead,Governor,,GRN,Kevin Hogan,7
+Benzie,Inland,Governor,,GRN,Kevin Hogan,1
+Benzie,Joyfield,Governor,,GRN,Kevin Hogan,3
+Benzie,Lake,Governor,,GRN,Kevin Hogan,1
+Benzie,Platte,Governor,,GRN,Kevin Hogan,1
+Benzie,Weldon,Governor,,GRN,Kevin Hogan,3
+Benzie,City of Frankfort,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Almira,Governor,,NLP,Daryl M. Simpson,5
+Benzie,Benzonia,Governor,,NLP,Daryl M. Simpson,2
+Benzie,Blaine,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Colfax,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Crystal Lake,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Gilmore,Governor,,NLP,Daryl M. Simpson,1
+Benzie,Homestead,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Inland,Governor,,NLP,Daryl M. Simpson,3
+Benzie,Joyfield,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Lake,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Platte,Governor,,NLP,Daryl M. Simpson,0
+Benzie,Weldon,Governor,,NLP,Daryl M. Simpson,1
+Benzie,City of Frankfort,Governor,,,Write-ins,0
+Benzie,Almira,Governor,,,Write-ins,3
+Benzie,Benzonia,Governor,,,Write-ins,0
+Benzie,Blaine,Governor,,,Write-ins,0
+Benzie,Colfax,Governor,,,Write-ins,0
+Benzie,Crystal Lake,Governor,,,Write-ins,0
+Benzie,Gilmore,Governor,,,Write-ins,0
+Benzie,Homestead,Governor,,,Write-ins,0
+Benzie,Inland,Governor,,,Write-ins,1
+Benzie,Joyfield,Governor,,,Write-ins,2
+Benzie,Lake,Governor,,,Write-ins,0
+Benzie,Platte,Governor,,,Write-ins,0
+Benzie,Weldon,Governor,,,Write-ins,0
+Benzie,City of Frankfort,Governor,,,Evan S. Space,0
+Benzie,Almira,Governor,,,Evan S. Space,0
+Benzie,Benzonia,Governor,,,Evan S. Space,0
+Benzie,Blaine,Governor,,,Evan S. Space,0
+Benzie,Colfax,Governor,,,Evan S. Space,0
+Benzie,Crystal Lake,Governor,,,Evan S. Space,0
+Benzie,Gilmore,Governor,,,Evan S. Space,0
+Benzie,Homestead,Governor,,,Evan S. Space,0
+Benzie,Inland,Governor,,,Evan S. Space,1
+Benzie,Joyfield,Governor,,,Evan S. Space,0
+Benzie,Lake,Governor,,,Evan S. Space,0
+Benzie,Platte,Governor,,,Evan S. Space,0
+Benzie,Weldon,Governor,,,Evan S. Space,0
+Benzie,City of Frankfort,Secretary of State,,DEM,Jocelyn Benson,504
+Benzie,Almira,Secretary of State,,DEM,Jocelyn Benson,1049
+Benzie,Benzonia,Secretary of State,,DEM,Jocelyn Benson,880
+Benzie,Blaine,Secretary of State,,DEM,Jocelyn Benson,207
+Benzie,Colfax,Secretary of State,,DEM,Jocelyn Benson,145
+Benzie,Crystal Lake,Secretary of State,,DEM,Jocelyn Benson,428
+Benzie,Gilmore,Secretary of State,,DEM,Jocelyn Benson,272
+Benzie,Homestead,Secretary of State,,DEM,Jocelyn Benson,526
+Benzie,Inland,Secretary of State,,DEM,Jocelyn Benson,501
+Benzie,Joyfield,Secretary of State,,DEM,Jocelyn Benson,190
+Benzie,Lake,Secretary of State,,DEM,Jocelyn Benson,379
+Benzie,Platte,Secretary of State,,DEM,Jocelyn Benson,135
+Benzie,Weldon,Secretary of State,,DEM,Jocelyn Benson,136
+Benzie,City of Frankfort,Secretary of State,,REP,Kristina Elaine Karamo,247
+Benzie,Almira,Secretary of State,,REP,Kristina Elaine Karamo,1125
+Benzie,Benzonia,Secretary of State,,REP,Kristina Elaine Karamo,755
+Benzie,Blaine,Secretary of State,,REP,Kristina Elaine Karamo,156
+Benzie,Colfax,Secretary of State,,REP,Kristina Elaine Karamo,198
+Benzie,Crystal Lake,Secretary of State,,REP,Kristina Elaine Karamo,289
+Benzie,Gilmore,Secretary of State,,REP,Kristina Elaine Karamo,188
+Benzie,Homestead,Secretary of State,,REP,Kristina Elaine Karamo,620
+Benzie,Inland,Secretary of State,,REP,Kristina Elaine Karamo,750
+Benzie,Joyfield,Secretary of State,,REP,Kristina Elaine Karamo,226
+Benzie,Lake,Secretary of State,,REP,Kristina Elaine Karamo,266
+Benzie,Platte,Secretary of State,,REP,Kristina Elaine Karamo,99
+Benzie,Weldon,Secretary of State,,REP,Kristina Elaine Karamo,177
+Benzie,City of Frankfort,Secretary of State,,LIB,Gregory Scott Stempfle,5
+Benzie,Almira,Secretary of State,,LIB,Gregory Scott Stempfle,23
+Benzie,Benzonia,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Benzie,Blaine,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Benzie,Colfax,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Benzie,Crystal Lake,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Benzie,Gilmore,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Benzie,Homestead,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Benzie,Inland,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Benzie,Joyfield,Secretary of State,,LIB,Gregory Scott Stempfle,8
+Benzie,Lake,Secretary of State,,LIB,Gregory Scott Stempfle,5
+Benzie,Platte,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Benzie,Weldon,Secretary of State,,LIB,Gregory Scott Stempfle,5
+Benzie,City of Frankfort,Secretary of State,,UST,Christine C. Schwartz,3
+Benzie,Almira,Secretary of State,,UST,Christine C. Schwartz,6
+Benzie,Benzonia,Secretary of State,,UST,Christine C. Schwartz,6
+Benzie,Blaine,Secretary of State,,UST,Christine C. Schwartz,0
+Benzie,Colfax,Secretary of State,,UST,Christine C. Schwartz,5
+Benzie,Crystal Lake,Secretary of State,,UST,Christine C. Schwartz,1
+Benzie,Gilmore,Secretary of State,,UST,Christine C. Schwartz,2
+Benzie,Homestead,Secretary of State,,UST,Christine C. Schwartz,16
+Benzie,Inland,Secretary of State,,UST,Christine C. Schwartz,11
+Benzie,Joyfield,Secretary of State,,UST,Christine C. Schwartz,2
+Benzie,Lake,Secretary of State,,UST,Christine C. Schwartz,3
+Benzie,Platte,Secretary of State,,UST,Christine C. Schwartz,1
+Benzie,Weldon,Secretary of State,,UST,Christine C. Schwartz,2
+Benzie,City of Frankfort,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Benzie,Almira,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Benzie,Benzonia,Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Benzie,Blaine,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Benzie,Colfax,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Benzie,Crystal Lake,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Benzie,Gilmore,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Benzie,Homestead,Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Benzie,Inland,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Benzie,Joyfield,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Benzie,Lake,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Benzie,Platte,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Benzie,Weldon,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Benzie,City of Frankfort,Secretary of State,,,Write-ins,0
+Benzie,Almira,Secretary of State,,,Write-ins,2
+Benzie,Benzonia,Secretary of State,,,Write-ins,1
+Benzie,Blaine,Secretary of State,,,Write-ins,0
+Benzie,Colfax,Secretary of State,,,Write-ins,0
+Benzie,Crystal Lake,Secretary of State,,,Write-ins,0
+Benzie,Gilmore,Secretary of State,,,Write-ins,0
+Benzie,Homestead,Secretary of State,,,Write-ins,1
+Benzie,Inland,Secretary of State,,,Write-ins,2
+Benzie,Joyfield,Secretary of State,,,Write-ins,0
+Benzie,Lake,Secretary of State,,,Write-ins,0
+Benzie,Platte,Secretary of State,,,Write-ins,0
+Benzie,Weldon,Secretary of State,,,Write-ins,6
+Benzie,City of Frankfort,Attorney General,,DEM,Dana Nessel,490
+Benzie,Almira,Attorney General,,DEM,Dana Nessel,1019
+Benzie,Benzonia,Attorney General,,DEM,Dana Nessel,849
+Benzie,Blaine,Attorney General,,DEM,Dana Nessel,198
+Benzie,Colfax,Attorney General,,DEM,Dana Nessel,140
+Benzie,Crystal Lake,Attorney General,,DEM,Dana Nessel,414
+Benzie,Gilmore,Attorney General,,DEM,Dana Nessel,268
+Benzie,Homestead,Attorney General,,DEM,Dana Nessel,507
+Benzie,Inland,Attorney General,,DEM,Dana Nessel,484
+Benzie,Joyfield,Attorney General,,DEM,Dana Nessel,182
+Benzie,Lake,Attorney General,,DEM,Dana Nessel,358
+Benzie,Platte,Attorney General,,DEM,Dana Nessel,130
+Benzie,Weldon,Attorney General,,DEM,Dana Nessel,126
+Benzie,City of Frankfort,Attorney General,,REP,Matthew DePerno,249
+Benzie,Almira,Attorney General,,REP,Matthew DePerno,1127
+Benzie,Benzonia,Attorney General,,REP,Matthew DePerno,772
+Benzie,Blaine,Attorney General,,REP,Matthew DePerno,160
+Benzie,Colfax,Attorney General,,REP,Matthew DePerno,199
+Benzie,Crystal Lake,Attorney General,,REP,Matthew DePerno,292
+Benzie,Gilmore,Attorney General,,REP,Matthew DePerno,183
+Benzie,Homestead,Attorney General,,REP,Matthew DePerno,635
+Benzie,Inland,Attorney General,,REP,Matthew DePerno,761
+Benzie,Joyfield,Attorney General,,REP,Matthew DePerno,225
+Benzie,Lake,Attorney General,,REP,Matthew DePerno,274
+Benzie,Platte,Attorney General,,REP,Matthew DePerno,105
+Benzie,Weldon,Attorney General,,REP,Matthew DePerno,180
+Benzie,City of Frankfort,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Benzie,Almira,Attorney General,,LIB,Joseph W. McHugh Jr.,37
+Benzie,Benzonia,Attorney General,,LIB,Joseph W. McHugh Jr.,14
+Benzie,Blaine,Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Benzie,Colfax,Attorney General,,LIB,Joseph W. McHugh Jr.,9
+Benzie,Crystal Lake,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Benzie,Gilmore,Attorney General,,LIB,Joseph W. McHugh Jr.,2
+Benzie,Homestead,Attorney General,,LIB,Joseph W. McHugh Jr.,15
+Benzie,Inland,Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Benzie,Joyfield,Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Benzie,Lake,Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Benzie,Platte,Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Benzie,Weldon,Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Benzie,City of Frankfort,Attorney General,,UST,Gerald T. Van Sickle,6
+Benzie,Almira,Attorney General,,UST,Gerald T. Van Sickle,5
+Benzie,Benzonia,Attorney General,,UST,Gerald T. Van Sickle,9
+Benzie,Blaine,Attorney General,,UST,Gerald T. Van Sickle,1
+Benzie,Colfax,Attorney General,,UST,Gerald T. Van Sickle,5
+Benzie,Crystal Lake,Attorney General,,UST,Gerald T. Van Sickle,5
+Benzie,Gilmore,Attorney General,,UST,Gerald T. Van Sickle,4
+Benzie,Homestead,Attorney General,,UST,Gerald T. Van Sickle,12
+Benzie,Inland,Attorney General,,UST,Gerald T. Van Sickle,11
+Benzie,Joyfield,Attorney General,,UST,Gerald T. Van Sickle,3
+Benzie,Lake,Attorney General,,UST,Gerald T. Van Sickle,2
+Benzie,Platte,Attorney General,,UST,Gerald T. Van Sickle,1
+Benzie,Weldon,Attorney General,,UST,Gerald T. Van Sickle,3
+Benzie,City of Frankfort,Attorney General,,,Write-ins,1
+Benzie,Almira,Attorney General,,,Write-ins,4
+Benzie,Benzonia,Attorney General,,,Write-ins,2
+Benzie,Blaine,Attorney General,,,Write-ins,0
+Benzie,Colfax,Attorney General,,,Write-ins,0
+Benzie,Crystal Lake,Attorney General,,,Write-ins,3
+Benzie,Gilmore,Attorney General,,,Write-ins,1
+Benzie,Homestead,Attorney General,,,Write-ins,2
+Benzie,Inland,Attorney General,,,Write-ins,4
+Benzie,Joyfield,Attorney General,,,Write-ins,0
+Benzie,Lake,Attorney General,,,Write-ins,1
+Benzie,Platte,Attorney General,,,Write-ins,0
+Benzie,Weldon,Attorney General,,,Write-ins,0
+Benzie,City of Frankfort,U.S. House,1,DEM,Bob Lorinser,458
+Benzie,Almira,U.S. House,1,DEM,Bob Lorinser,906
+Benzie,Benzonia,U.S. House,1,DEM,Bob Lorinser,788
+Benzie,Blaine,U.S. House,1,DEM,Bob Lorinser,172
+Benzie,Colfax,U.S. House,1,DEM,Bob Lorinser,119
+Benzie,Crystal Lake,U.S. House,1,DEM,Bob Lorinser,387
+Benzie,Gilmore,U.S. House,1,DEM,Bob Lorinser,240
+Benzie,Homestead,U.S. House,1,DEM,Bob Lorinser,438
+Benzie,Inland,U.S. House,1,DEM,Bob Lorinser,432
+Benzie,Joyfield,U.S. House,1,DEM,Bob Lorinser,166
+Benzie,Lake,U.S. House,1,DEM,Bob Lorinser,336
+Benzie,Platte,U.S. House,1,DEM,Bob Lorinser,118
+Benzie,Weldon,U.S. House,1,DEM,Bob Lorinser,106
+Benzie,City of Frankfort,U.S. House,1,REP,Jack Bergman,290
+Benzie,Almira,U.S. House,1,REP,Jack Bergman,1237
+Benzie,Benzonia,U.S. House,1,REP,Jack Bergman,835
+Benzie,Blaine,U.S. House,1,REP,Jack Bergman,191
+Benzie,Colfax,U.S. House,1,REP,Jack Bergman,229
+Benzie,Crystal Lake,U.S. House,1,REP,Jack Bergman,328
+Benzie,Gilmore,U.S. House,1,REP,Jack Bergman,212
+Benzie,Homestead,U.S. House,1,REP,Jack Bergman,689
+Benzie,Inland,U.S. House,1,REP,Jack Bergman,814
+Benzie,Joyfield,U.S. House,1,REP,Jack Bergman,249
+Benzie,Lake,U.S. House,1,REP,Jack Bergman,315
+Benzie,Platte,U.S. House,1,REP,Jack Bergman,115
+Benzie,Weldon,U.S. House,1,REP,Jack Bergman,202
+Benzie,City of Frankfort,U.S. House,1,LIB,Andrew Gale,7
+Benzie,Almira,U.S. House,1,LIB,Andrew Gale,24
+Benzie,Benzonia,U.S. House,1,LIB,Andrew Gale,13
+Benzie,Blaine,U.S. House,1,LIB,Andrew Gale,2
+Benzie,Colfax,U.S. House,1,LIB,Andrew Gale,2
+Benzie,Crystal Lake,U.S. House,1,LIB,Andrew Gale,8
+Benzie,Gilmore,U.S. House,1,LIB,Andrew Gale,1
+Benzie,Homestead,U.S. House,1,LIB,Andrew Gale,13
+Benzie,Inland,U.S. House,1,LIB,Andrew Gale,12
+Benzie,Joyfield,U.S. House,1,LIB,Andrew Gale,4
+Benzie,Lake,U.S. House,1,LIB,Andrew Gale,3
+Benzie,Platte,U.S. House,1,LIB,Andrew Gale,5
+Benzie,Weldon,U.S. House,1,LIB,Andrew Gale,6
+Benzie,City of Frankfort,U.S. House,1,WCP,Liz Hakola,7
+Benzie,Almira,U.S. House,1,WCP,Liz Hakola,28
+Benzie,Benzonia,U.S. House,1,WCP,Liz Hakola,21
+Benzie,Blaine,U.S. House,1,WCP,Liz Hakola,2
+Benzie,Colfax,U.S. House,1,WCP,Liz Hakola,5
+Benzie,Crystal Lake,U.S. House,1,WCP,Liz Hakola,1
+Benzie,Gilmore,U.S. House,1,WCP,Liz Hakola,4
+Benzie,Homestead,U.S. House,1,WCP,Liz Hakola,26
+Benzie,Inland,U.S. House,1,WCP,Liz Hakola,14
+Benzie,Joyfield,U.S. House,1,WCP,Liz Hakola,7
+Benzie,Lake,U.S. House,1,WCP,Liz Hakola,1
+Benzie,Platte,U.S. House,1,WCP,Liz Hakola,2
+Benzie,Weldon,U.S. House,1,WCP,Liz Hakola,8
+Benzie,City of Frankfort,U.S. House,1,,Write-ins,0
+Benzie,Almira,U.S. House,1,,Write-ins,4
+Benzie,Benzonia,U.S. House,1,,Write-ins,2
+Benzie,Blaine,U.S. House,1,,Write-ins,0
+Benzie,Colfax,U.S. House,1,,Write-ins,0
+Benzie,Crystal Lake,U.S. House,1,,Write-ins,0
+Benzie,Gilmore,U.S. House,1,,Write-ins,0
+Benzie,Homestead,U.S. House,1,,Write-ins,1
+Benzie,Inland,U.S. House,1,,Write-ins,2
+Benzie,Joyfield,U.S. House,1,,Write-ins,0
+Benzie,Lake,U.S. House,1,,Write-ins,0
+Benzie,Platte,U.S. House,1,,Write-ins,0
+Benzie,Weldon,U.S. House,1,,Write-ins,0
+Benzie,City of Frankfort,State Senate,32,DEM,Terry J. Sabo,476
+Benzie,Almira,State Senate,32,DEM,Terry J. Sabo,960
+Benzie,Benzonia,State Senate,32,DEM,Terry J. Sabo,820
+Benzie,Blaine,State Senate,32,DEM,Terry J. Sabo,179
+Benzie,Colfax,State Senate,32,DEM,Terry J. Sabo,127
+Benzie,Crystal Lake,State Senate,32,DEM,Terry J. Sabo,399
+Benzie,Gilmore,State Senate,32,DEM,Terry J. Sabo,250
+Benzie,Homestead,State Senate,32,DEM,Terry J. Sabo,477
+Benzie,Inland,State Senate,32,DEM,Terry J. Sabo,460
+Benzie,Joyfield,State Senate,32,DEM,Terry J. Sabo,172
+Benzie,Lake,State Senate,32,DEM,Terry J. Sabo,336
+Benzie,Platte,State Senate,32,DEM,Terry J. Sabo,122
+Benzie,Weldon,State Senate,32,DEM,Terry J. Sabo,116
+Benzie,City of Frankfort,State Senate,32,REP,Jon C. Bumstead,281
+Benzie,Almira,State Senate,32,REP,Jon C. Bumstead,1209
+Benzie,Benzonia,State Senate,32,REP,Jon C. Bumstead,817
+Benzie,Blaine,State Senate,32,REP,Jon C. Bumstead,184
+Benzie,Colfax,State Senate,32,REP,Jon C. Bumstead,225
+Benzie,Crystal Lake,State Senate,32,REP,Jon C. Bumstead,323
+Benzie,Gilmore,State Senate,32,REP,Jon C. Bumstead,206
+Benzie,Homestead,State Senate,32,REP,Jon C. Bumstead,683
+Benzie,Inland,State Senate,32,REP,Jon C. Bumstead,806
+Benzie,Joyfield,State Senate,32,REP,Jon C. Bumstead,253
+Benzie,Lake,State Senate,32,REP,Jon C. Bumstead,312
+Benzie,Platte,State Senate,32,REP,Jon C. Bumstead,113
+Benzie,Weldon,State Senate,32,REP,Jon C. Bumstead,202
+Benzie,City of Frankfort,State Senate,32,,Write-ins,0
+Benzie,Almira,State Senate,32,,Write-ins,7
+Benzie,Benzonia,State Senate,32,,Write-ins,2
+Benzie,Blaine,State Senate,32,,Write-ins,1
+Benzie,Colfax,State Senate,32,,Write-ins,0
+Benzie,Crystal Lake,State Senate,32,,Write-ins,0
+Benzie,Gilmore,State Senate,32,,Write-ins,1
+Benzie,Homestead,State Senate,32,,Write-ins,3
+Benzie,Inland,State Senate,32,,Write-ins,2
+Benzie,Joyfield,State Senate,32,,Write-ins,0
+Benzie,Lake,State Senate,32,,Write-ins,0
+Benzie,Platte,State Senate,32,,Write-ins,1
+Benzie,Weldon,State Senate,32,,Write-ins,1
+Benzie,Almira,State House,103,DEM,Betsy Coffia,917
+Benzie,Platte,State House,103,DEM,Betsy Coffia,115
+Benzie,Almira,State House,103,REP,Jack O'Malley,1264
+Benzie,Platte,State House,103,REP,Jack O'Malley,123
+Benzie,Almira,State House,103,LIB,Courtney Evans,26
+Benzie,Platte,State House,103,LIB,Courtney Evans,3
+Benzie,Almira,State House,103,,Write-ins,3
+Benzie,Platte,State House,103,,Write-ins,0
+Benzie,City of Frankfort,State House,104,DEM,Cathy Albro,463
+Benzie,Benzonia,State House,104,DEM,Cathy Albro,796
+Benzie,Blaine,State House,104,DEM,Cathy Albro,177
+Benzie,Colfax,State House,104,DEM,Cathy Albro,126
+Benzie,Crystal Lake,State House,104,DEM,Cathy Albro,399
+Benzie,Gilmore,State House,104,DEM,Cathy Albro,241
+Benzie,Homestead,State House,104,DEM,Cathy Albro,465
+Benzie,Inland,State House,104,DEM,Cathy Albro,451
+Benzie,Joyfield,State House,104,DEM,Cathy Albro,170
+Benzie,Lake,State House,104,DEM,Cathy Albro,334
+Benzie,Weldon,State House,104,DEM,Cathy Albro,114
+Benzie,City of Frankfort,State House,104,REP,John R. Roth,285
+Benzie,Benzonia,State House,104,REP,John R. Roth,835
+Benzie,Blaine,State House,104,REP,John R. Roth,185
+Benzie,Colfax,State House,104,REP,John R. Roth,223
+Benzie,Crystal Lake,State House,104,REP,John R. Roth,318
+Benzie,Gilmore,State House,104,REP,John R. Roth,211
+Benzie,Homestead,State House,104,REP,John R. Roth,685
+Benzie,Inland,State House,104,REP,John R. Roth,813
+Benzie,Joyfield,State House,104,REP,John R. Roth,246
+Benzie,Lake,State House,104,REP,John R. Roth,309
+Benzie,Weldon,State House,104,REP,John R. Roth,205
+Benzie,City of Frankfort,State House,104,,Write-ins,1
+Benzie,Benzonia,State House,104,,Write-ins,3
+Benzie,Blaine,State House,104,,Write-ins,0
+Benzie,Colfax,State House,104,,Write-ins,2
+Benzie,Crystal Lake,State House,104,,Write-ins,0
+Benzie,Gilmore,State House,104,,Write-ins,0
+Benzie,Homestead,State House,104,,Write-ins,4
+Benzie,Inland,State House,104,,Write-ins,2
+Benzie,Joyfield,State House,104,,Write-ins,1
+Benzie,Lake,State House,104,,Write-ins,0
+Benzie,Weldon,State House,104,,Write-ins,0

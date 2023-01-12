@@ -1,40 +1,4 @@
-county,precinct,office,district,candidate,party,votes
-Gladwin,"City of Beaverton, Precinct 1",Ballots Cast,,,,517
-Gladwin,"City of Gladwin, Precinct 1",Ballots Cast,,,,741
-Gladwin,"City of Gladwin, Precinct 2",Ballots Cast,,,,702
-Gladwin,"Beaverton Township, Precinct 1",Ballots Cast,,,,968
-Gladwin,"Bentley Township, Precinct 1",Ballots Cast,,,,487
-Gladwin,"Billings Township, Precinct 1",Ballots Cast,,,,1461
-Gladwin,"Bourret Township, Precinct 1",Ballots Cast,,,,280
-Gladwin,"Buckeye Township, Precinct 1",Ballots Cast,,,,735
-Gladwin,"Butman Township, Precinct 1",Ballots Cast,,,,1576
-Gladwin,"Clement Township, Precinct 1",Ballots Cast,,,,584
-Gladwin,"Gladwin Township, Precinct 1",Ballots Cast,,,,520
-Gladwin,"Grim Township, Precinct 1",Ballots Cast,,,,72
-Gladwin,"Grout Township, Precinct 1",Ballots Cast,,,,962
-Gladwin,"Hay Township, Precinct 1",Ballots Cast,,,,712
-Gladwin,"Sage Township, Precinct 1",Ballots Cast,,,,1412
-Gladwin,"Secord Township, Precinct 1",Ballots Cast,,,,795
-Gladwin,"Sherman Township, Precinct 1",Ballots Cast,,,,592
-Gladwin,"Tobacco Township, Precinct 1",Ballots Cast,,,,1567
-Gladwin,"City of Beaverton, Precinct 1",Ballots Cast,,,,517
-Gladwin,"City of Gladwin, Precinct 1",Ballots Cast,,,,741
-Gladwin,"City of Gladwin, Precinct 2",Ballots Cast,,,,702
-Gladwin,"Beaverton Township, Precinct 1",Ballots Cast,,,,968
-Gladwin,"Bentley Township, Precinct 1",Ballots Cast,,,,487
-Gladwin,"Billings Township, Precinct 1",Ballots Cast,,,,1461
-Gladwin,"Bourret Township, Precinct 1",Ballots Cast,,,,280
-Gladwin,"Buckeye Township, Precinct 1",Ballots Cast,,,,735
-Gladwin,"Butman Township, Precinct 1",Ballots Cast,,,,1576
-Gladwin,"Clement Township, Precinct 1",Ballots Cast,,,,584
-Gladwin,"Gladwin Township, Precinct 1",Ballots Cast,,,,520
-Gladwin,"Grim Township, Precinct 1",Ballots Cast,,,,72
-Gladwin,"Grout Township, Precinct 1",Ballots Cast,,,,962
-Gladwin,"Hay Township, Precinct 1",Ballots Cast,,,,712
-Gladwin,"Sage Township, Precinct 1",Ballots Cast,,,,1412
-Gladwin,"Secord Township, Precinct 1",Ballots Cast,,,,795
-Gladwin,"Sherman Township, Precinct 1",Ballots Cast,,,,592
-Gladwin,"Tobacco Township, Precinct 1",Ballots Cast,,,,1567
+﻿county,precinct,office,district,candidate,party,votes
 Gladwin,"City of Beaverton, Precinct 1",Ballots Cast,,,,517
 Gladwin,"City of Gladwin, Precinct 1",Ballots Cast,,,,741
 Gladwin,"City of Gladwin, Precinct 2",Ballots Cast,,,,702

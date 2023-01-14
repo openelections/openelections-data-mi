@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes,election_day,absentee
+county,precinct,office,district,party,candidate,votes,election_day,absentee
 Emmet,"Bear Creek Township, Precinct 1",Registered Voters,,,,2681,,
 Emmet,"Bear Creek Township, Precinct 1",Ballots Cast,,,,1777,732,1045
 Emmet,"Bear Creek Township, Precinct 1",Ballots Cast - Blank,,,,0,0,0
@@ -2095,18 +2095,18 @@ Emmet,"City of Petoskey, Ward 1, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,6,6,0
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,631,345,286
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,John Murphy,434,210,224
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,15,8,7
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,215,115,100
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,299,137,162
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,158,90,68
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,237,109,128
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jessica Nolff,288,109,179
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Kathleen Reed,257,123,134
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Write-ins,10,9,1
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Over Votes,3,0,3
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Under Votes,740,422,318
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Mayor - Petoskey City of Petoskey,,,John Murphy,434,210,224
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Mayor - Petoskey City of Petoskey,,,Write-ins,15,8,7
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Mayor - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Mayor - Petoskey City of Petoskey,,,Under Votes,215,115,100
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,299,137,162
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,158,90,68
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,237,109,128
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jessica Nolff,288,109,179
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Kathleen Reed,257,123,134
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Write-ins,10,9,1
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Over Votes,3,0,3
+Emmet,"City of Petoskey, Ward 1, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Under Votes,740,422,318
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Prop 22-1,,,Yes,464,216,248
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Prop 22-1,,,No,168,104,64
 Emmet,"City of Petoskey, Ward 1, Precinct 1",Prop 22-1,,,Over Votes,1,0,1
@@ -2254,14 +2254,14 @@ Emmet,"City of Petoskey, Ward 2, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,4,3,1
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,2,0,2
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,799,439,360
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,John Murphy,560,286,274
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,12,5,7
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,234,122,112
-Emmet,Mayor - Petoskey City of Petoskey,"Council 2 - Petoskey City of Petoskey, Ward 2, Precinct 1",,,Derek Shiels,543,264,279
-Emmet,Mayor - Petoskey City of Petoskey,"Council 2 - Petoskey City of Petoskey, Ward 2, Precinct 1",,,Write-ins,5,3,2
-Emmet,Mayor - Petoskey City of Petoskey,"Council 2 - Petoskey City of Petoskey, Ward 2, Precinct 1",,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,"Council 2 - Petoskey City of Petoskey, Ward 2, Precinct 1",,,Under Votes,258,146,112
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Mayor - Petoskey City of Petoskey,,,John Murphy,560,286,274
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Mayor - Petoskey City of Petoskey,,,Write-ins,12,5,7
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Mayor - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Mayor - Petoskey City of Petoskey,,,Under Votes,234,122,112
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Council 2 - Petoskey City of Petoskey,,,Derek Shiels,543,264,279
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Council 2 - Petoskey City of Petoskey,,,Write-ins,5,3,2
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Council 2 - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 2, Precinct 1",Council 2 - Petoskey City of Petoskey,,,Under Votes,258,146,112
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,397,180,217
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,235,117,118
 Emmet,"City of Petoskey, Ward 2, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,374,199,175
@@ -2418,18 +2418,18 @@ Emmet,"City of Petoskey, Ward 3, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,10,9,1
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,900,489,411
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,John Murphy,678,320,358
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,21,14,7
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,287,142,145
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,379,154,225
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,382,204,178
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,328,151,177
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jessica Nolff,334,142,192
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Kathleen Reed,319,138,181
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Write-ins,17,12,5
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,Public Schools of Petoskey Board Member Petoskey Public Schools,,,Under Votes,1199,627,572
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Mayor - Petoskey City of Petoskey,,,John Murphy,678,320,358
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Mayor - Petoskey City of Petoskey,,,Write-ins,21,14,7
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Mayor - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Mayor - Petoskey City of Petoskey,,,Under Votes,287,142,145
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,379,154,225
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,382,204,178
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,328,151,177
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jessica Nolff,334,142,192
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Kathleen Reed,319,138,181
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Write-ins,17,12,5
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 3, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Under Votes,1199,627,572
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Prop 22-1,,,Yes,632,267,365
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Prop 22-1,,,No,309,183,126
 Emmet,"City of Petoskey, Ward 3, Precinct 1",Prop 22-1,,,Over Votes,1,1,0
@@ -2582,14 +2582,14 @@ Emmet,"City of Petoskey, Ward 4, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,13,9,4
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,647,411,236
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,John Murphy,452,274,178
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Write-ins,17,9,8
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Over Votes,0,0,0
-Emmet,Mayor - Petoskey City of Petoskey,Char Em ISD Charlevoix- Emmet ISD,,,Under Votes,187,114,73
-Emmet,"City of Petoskey, Ward 4, Precinct 1","Council 4 - Petoskey City of Petoskey, Ward 4, Precinct 1",,,Lindsey Walker,457,269,188
-Emmet,"City of Petoskey, Ward 4, Precinct 1","Council 4 - Petoskey City of Petoskey, Ward 4, Precinct 1",,,Write-ins,11,6,5
-Emmet,"City of Petoskey, Ward 4, Precinct 1","Council 4 - Petoskey City of Petoskey, Ward 4, Precinct 1",,,Over Votes,0,0,0
-Emmet,"City of Petoskey, Ward 4, Precinct 1","Council 4 - Petoskey City of Petoskey, Ward 4, Precinct 1",,,Under Votes,188,122,66
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Mayor - Petoskey City of Petoskey,,,John Murphy,452,274,178
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Mayor - Petoskey City of Petoskey,,,Write-ins,17,9,8
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Mayor - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Mayor - Petoskey City of Petoskey,,,Under Votes,187,114,73
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Council 4 - Petoskey City of Petoskey,,,Lindsey Walker,457,269,188
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Council 4 - Petoskey City of Petoskey,,,Write-ins,11,6,5
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Council 4 - Petoskey City of Petoskey,,,Over Votes,0,0,0
+Emmet,"City of Petoskey, Ward 4, Precinct 1",Council 4 - Petoskey City of Petoskey,,,Under Votes,188,122,66
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Jennifer H. Attie,250,132,118
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Elizabeth Flynn,248,156,92
 Emmet,"City of Petoskey, Ward 4, Precinct 1",Public Schools of Petoskey Board Member Petoskey Public Schools,,,Melanie Meengs,249,143,106

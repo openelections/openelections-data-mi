@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Lake,Chase Township Precinct 1,Straight Party,,DEM,Democratic,67
 Lake,Cherry Valley Township Precinct 2,Straight Party,,DEM,Democratic,36
 Lake,Dover Township Precinct 3,Straight Party,,DEM,Democratic,24
@@ -389,12 +389,6 @@ Lake,Sauble Township Precinct 15,U.S. House,2,DEM,Jerry Hilliard,73
 Lake,Sweetwater Township Precinct 16,U.S. House,2,DEM,Jerry Hilliard,45
 Lake,Webber Township Precinct 17,U.S. House,2,DEM,Jerry Hilliard,188
 Lake,Yates Township Precinct 19,U.S. House,2,DEM,Jerry Hilliard,204
-Lake,Chase Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,102
-Lake,Cherry Valley Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,57
-Lake,Dover Township Precinct 3,U.S. House,2,DEM,Jerry Hilliard,42
-Lake,Ellsworth Township Precinct 6,U.S. House,2,DEM,Jerry Hilliard,91
-Lake,Pinora Township Precinct 11,U.S. House,2,DEM,Jerry Hilliard,73
-Lake,Yates Township Precinct 19,U.S. House,2,DEM,Jerry Hilliard,202
 Lake,Chase Township Precinct 1,U.S. House,2,REP,John Moolenaar,393
 Lake,Cherry Valley Township Precinct 2,U.S. House,2,REP,John Moolenaar,136
 Lake,Dover Township Precinct 3,U.S. House,2,REP,John Moolenaar,153
@@ -410,12 +404,6 @@ Lake,Sauble Township Precinct 15,U.S. House,2,REP,John Moolenaar,170
 Lake,Sweetwater Township Precinct 16,U.S. House,2,REP,John Moolenaar,68
 Lake,Webber Township Precinct 17,U.S. House,2,REP,John Moolenaar,244
 Lake,Yates Township Precinct 19,U.S. House,2,REP,John Moolenaar,132
-Lake,Chase Township Precinct 1,U.S. House,2,REP,John Moolenaar,376
-Lake,Cherry Valley Township Precinct 2,U.S. House,2,REP,John Moolenaar,136
-Lake,Dover Township Precinct 3,U.S. House,2,REP,John Moolenaar,154
-Lake,Ellsworth Township Precinct 6,U.S. House,2,REP,John Moolenaar,255
-Lake,Pinora Township Precinct 11,U.S. House,2,REP,John Moolenaar,239
-Lake,Yates Township Precinct 19,U.S. House,2,REP,John Moolenaar,128
 Lake,Chase Township Precinct 1,U.S. House,2,LIB,Nathan Hewer,11
 Lake,Cherry Valley Township Precinct 2,U.S. House,2,LIB,Nathan Hewer,6
 Lake,Dover Township Precinct 3,U.S. House,2,LIB,Nathan Hewer,5
@@ -431,12 +419,6 @@ Lake,Sauble Township Precinct 15,U.S. House,2,LIB,Nathan Hewer,5
 Lake,Sweetwater Township Precinct 16,U.S. House,2,LIB,Nathan Hewer,0
 Lake,Webber Township Precinct 17,U.S. House,2,LIB,Nathan Hewer,16
 Lake,Yates Township Precinct 19,U.S. House,2,LIB,Nathan Hewer,6
-Lake,Chase Township Precinct 1,U.S. House,2,LIB,Nathan Hewer,17
-Lake,Cherry Valley Township Precinct 2,U.S. House,2,LIB,Nathan Hewer,4
-Lake,Dover Township Precinct 3,U.S. House,2,LIB,Nathan Hewer,6
-Lake,Ellsworth Township Precinct 6,U.S. House,2,LIB,Nathan Hewer,12
-Lake,Pinora Township Precinct 11,U.S. House,2,LIB,Nathan Hewer,12
-Lake,Yates Township Precinct 19,U.S. House,2,LIB,Nathan Hewer,12
 Lake,Chase Township Precinct 1,U.S. House,2,,Write-ins,0
 Lake,Cherry Valley Township Precinct 2,U.S. House,2,,Write-ins,0
 Lake,Dover Township Precinct 3,U.S. House,2,,Write-ins,0
@@ -452,12 +434,6 @@ Lake,Sauble Township Precinct 15,U.S. House,2,,Write-ins,0
 Lake,Sweetwater Township Precinct 16,U.S. House,2,,Write-ins,0
 Lake,Webber Township Precinct 17,U.S. House,2,,Write-ins,1
 Lake,Yates Township Precinct 19,U.S. House,2,,Write-ins,1
-Lake,Chase Township Precinct 1,U.S. House,2,,Write-ins,0
-Lake,Cherry Valley Township Precinct 2,U.S. House,2,,Write-ins,1
-Lake,Dover Township Precinct 3,U.S. House,2,,Write-ins,0
-Lake,Ellsworth Township Precinct 6,U.S. House,2,,Write-ins,0
-Lake,Pinora Township Precinct 11,U.S. House,2,,Write-ins,0
-Lake,Yates Township Precinct 19,U.S. House,2,,Write-ins,0
 Lake,Chase Township Precinct 1,State Senate,34,DEM,Christine Gerace,102
 Lake,Cherry Valley Township Precinct 2,State Senate,34,DEM,Christine Gerace,57
 Lake,Dover Township Precinct 3,State Senate,34,DEM,Christine Gerace,42

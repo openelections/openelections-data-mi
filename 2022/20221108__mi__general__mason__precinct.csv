@@ -1,29 +1,29 @@
 ﻿county,precinct,office,district,party,candidate,votes
-Mason,"Ludington City, Prec 1",Registered Voters,,,,"1,130"
-Mason,"Ludington City, Prec 2",Registered Voters,,,,"1,164"
-Mason,"Ludington City, Prec 3",Registered Voters,,,,"1,250"
-Mason,"Ludington City, Prec 4",Registered Voters,,,,"1,019"
+Mason,"Ludington City, Prec 1",Registered Voters,,,,1130
+Mason,"Ludington City, Prec 2",Registered Voters,,,,1164
+Mason,"Ludington City, Prec 3",Registered Voters,,,,1250
+Mason,"Ludington City, Prec 4",Registered Voters,,,,1019
 Mason,"Ludington City, Prec 5",Registered Voters,,,,983
-Mason,"Ludington City, Prec 6",Registered Voters,,,,"1,088"
+Mason,"Ludington City, Prec 6",Registered Voters,,,,1088
 Mason,"Scottville City, Prec 1",Registered Voters,,,,508
 Mason,"Scottville City, Prec 2",Registered Voters,,,,493
-Mason,"Amber Township, Prec 1",Registered Voters,,,,"2,137"
-Mason,"Branch Township, Prec 1",Registered Voters,,,,"1,221"
-Mason,"Custer Township, Prec 1",Registered Voters,,,,"1,097"
+Mason,"Amber Township, Prec 1",Registered Voters,,,,2137
+Mason,"Branch Township, Prec 1",Registered Voters,,,,1221
+Mason,"Custer Township, Prec 1",Registered Voters,,,,1097
 Mason,"Eden Township, Prec 1",Registered Voters,,,,468
 Mason,"Free Soil Township, Prec 1",Registered Voters,,,,746
 Mason,"Grant Township, Prec 1",Registered Voters,,,,941
-Mason,"Hamlin Township, Prec 1",Registered Voters,,,,"1,305"
-Mason,"Hamlin Township, Prec 2",Registered Voters,,,,"2,213"
+Mason,"Hamlin Township, Prec 1",Registered Voters,,,,1305
+Mason,"Hamlin Township, Prec 2",Registered Voters,,,,2213
 Mason,"Logan Township, Prec 1",Registered Voters,,,,323
 Mason,"Meade Township, Prec 1",Registered Voters,,,,169
-Mason,Pere Marquette Charter,Registered Voters,,,,646
-Mason,Pere Marquette Charter,Registered Voters,,,,"1,411"
+Mason,"Pere Marquette Township, Prec 1",Registered Voters,,,,646
+Mason,"Pere Marquette Township, Prec 2",Registered Voters,,,,1411
 Mason,"Riverton Township, Prec 1",Registered Voters,,,,991
 Mason,"Sheridan Township, Prec 1",Registered Voters,,,,919
 Mason,"Sherman Township, Prec 1",Registered Voters,,,,951
 Mason,"Summit Township, Prec 1",Registered Voters,,,,975
-Mason,"Victory Township, Prec 1",Registered Voters,,,,"1,200"
+Mason,"Victory Township, Prec 1",Registered Voters,,,,1200
 Mason,"Ludington City, Prec 1",Ballots Cast,,,,742
 Mason,"Ludington City, Prec 2",Ballots Cast,,,,682
 Mason,"Ludington City, Prec 3",Ballots Cast,,,,740
@@ -32,18 +32,18 @@ Mason,"Ludington City, Prec 5",Ballots Cast,,,,520
 Mason,"Ludington City, Prec 6",Ballots Cast,,,,562
 Mason,"Scottville City, Prec 1",Ballots Cast,,,,206
 Mason,"Scottville City, Prec 2",Ballots Cast,,,,213
-Mason,"Amber Township, Prec 1",Ballots Cast,,,,"1,270"
+Mason,"Amber Township, Prec 1",Ballots Cast,,,,1270
 Mason,"Branch Township, Prec 1",Ballots Cast,,,,623
 Mason,"Custer Township, Prec 1",Ballots Cast,,,,626
 Mason,"Eden Township, Prec 1",Ballots Cast,,,,285
 Mason,"Free Soil Township, Prec 1",Ballots Cast,,,,448
 Mason,"Grant Township, Prec 1",Ballots Cast,,,,552
 Mason,"Hamlin Township, Prec 1",Ballots Cast,,,,829
-Mason,"Hamlin Township, Prec 2",Ballots Cast,,,,"1,444"
+Mason,"Hamlin Township, Prec 2",Ballots Cast,,,,1444
 Mason,"Logan Township, Prec 1",Ballots Cast,,,,194
 Mason,"Meade Township, Prec 1",Ballots Cast,,,,105
-Mason,Pere Marquette Charter,Ballots Cast,,,,439
-Mason,Pere Marquette Charter,Ballots Cast,,,,904
+Mason,"Pere Marquette Township, Prec 1",Ballots Cast,,,,439
+Mason,"Pere Marquette Township, Prec 2",Ballots Cast,,,,904
 Mason,"Riverton Township, Prec 1",Ballots Cast,,,,625
 Mason,"Sheridan Township, Prec 1",Ballots Cast,,,,525
 Mason,"Sherman Township, Prec 1",Ballots Cast,,,,566
@@ -67,8 +67,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,DEM,Democratic,206
 Mason,"Hamlin Township, Prec 2",Straight Party,,DEM,Democratic,292
 Mason,"Logan Township, Prec 1",Straight Party,,DEM,Democratic,37
 Mason,"Meade Township, Prec 1",Straight Party,,DEM,Democratic,21
-Mason,Pere Marquette Charter,Straight Party,,DEM,Democratic,96
-Mason,Pere Marquette Charter,Straight Party,,DEM,Democratic,206
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,DEM,Democratic,96
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,DEM,Democratic,206
 Mason,"Riverton Township, Prec 1",Straight Party,,DEM,Democratic,100
 Mason,"Sheridan Township, Prec 1",Straight Party,,DEM,Democratic,123
 Mason,"Sherman Township, Prec 1",Straight Party,,DEM,Democratic,76
@@ -92,8 +92,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,REP,Republican,285
 Mason,"Hamlin Township, Prec 2",Straight Party,,REP,Republican,474
 Mason,"Logan Township, Prec 1",Straight Party,,REP,Republican,87
 Mason,"Meade Township, Prec 1",Straight Party,,REP,Republican,46
-Mason,Pere Marquette Charter,Straight Party,,REP,Republican,163
-Mason,Pere Marquette Charter,Straight Party,,REP,Republican,315
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,REP,Republican,163
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,REP,Republican,315
 Mason,"Riverton Township, Prec 1",Straight Party,,REP,Republican,257
 Mason,"Sheridan Township, Prec 1",Straight Party,,REP,Republican,194
 Mason,"Sherman Township, Prec 1",Straight Party,,REP,Republican,212
@@ -117,8 +117,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,LIB,Libertarian,0
 Mason,"Hamlin Township, Prec 2",Straight Party,,LIB,Libertarian,3
 Mason,"Logan Township, Prec 1",Straight Party,,LIB,Libertarian,0
 Mason,"Meade Township, Prec 1",Straight Party,,LIB,Libertarian,0
-Mason,Pere Marquette Charter,Straight Party,,LIB,Libertarian,0
-Mason,Pere Marquette Charter,Straight Party,,LIB,Libertarian,0
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,LIB,Libertarian,0
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,LIB,Libertarian,0
 Mason,"Riverton Township, Prec 1",Straight Party,,LIB,Libertarian,2
 Mason,"Sheridan Township, Prec 1",Straight Party,,LIB,Libertarian,1
 Mason,"Sherman Township, Prec 1",Straight Party,,LIB,Libertarian,3
@@ -142,8 +142,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,3
 Mason,"Hamlin Township, Prec 2",Straight Party,,UST,U.S. Taxpayers,0
 Mason,"Logan Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,0
 Mason,"Meade Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,0
-Mason,Pere Marquette Charter,Straight Party,,UST,U.S. Taxpayers,1
-Mason,Pere Marquette Charter,Straight Party,,UST,U.S. Taxpayers,0
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,1
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,UST,U.S. Taxpayers,0
 Mason,"Riverton Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,0
 Mason,"Sheridan Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,1
 Mason,"Sherman Township, Prec 1",Straight Party,,UST,U.S. Taxpayers,1
@@ -167,8 +167,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,WCP,Working Class,3
 Mason,"Hamlin Township, Prec 2",Straight Party,,WCP,Working Class,2
 Mason,"Logan Township, Prec 1",Straight Party,,WCP,Working Class,0
 Mason,"Meade Township, Prec 1",Straight Party,,WCP,Working Class,0
-Mason,Pere Marquette Charter,Straight Party,,WCP,Working Class,0
-Mason,Pere Marquette Charter,Straight Party,,WCP,Working Class,4
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,WCP,Working Class,0
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,WCP,Working Class,4
 Mason,"Riverton Township, Prec 1",Straight Party,,WCP,Working Class,2
 Mason,"Sheridan Township, Prec 1",Straight Party,,WCP,Working Class,4
 Mason,"Sherman Township, Prec 1",Straight Party,,WCP,Working Class,2
@@ -192,8 +192,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,GRN,Green,0
 Mason,"Hamlin Township, Prec 2",Straight Party,,GRN,Green,1
 Mason,"Logan Township, Prec 1",Straight Party,,GRN,Green,0
 Mason,"Meade Township, Prec 1",Straight Party,,GRN,Green,0
-Mason,Pere Marquette Charter,Straight Party,,GRN,Green,0
-Mason,Pere Marquette Charter,Straight Party,,GRN,Green,1
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,GRN,Green,0
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,GRN,Green,1
 Mason,"Riverton Township, Prec 1",Straight Party,,GRN,Green,0
 Mason,"Sheridan Township, Prec 1",Straight Party,,GRN,Green,0
 Mason,"Sherman Township, Prec 1",Straight Party,,GRN,Green,0
@@ -217,8 +217,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,NLP,Natural Law,0
 Mason,"Hamlin Township, Prec 2",Straight Party,,NLP,Natural Law,0
 Mason,"Logan Township, Prec 1",Straight Party,,NLP,Natural Law,0
 Mason,"Meade Township, Prec 1",Straight Party,,NLP,Natural Law,0
-Mason,Pere Marquette Charter,Straight Party,,NLP,Natural Law,0
-Mason,Pere Marquette Charter,Straight Party,,NLP,Natural Law,0
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,NLP,Natural Law,0
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,NLP,Natural Law,0
 Mason,"Riverton Township, Prec 1",Straight Party,,NLP,Natural Law,0
 Mason,"Sheridan Township, Prec 1",Straight Party,,NLP,Natural Law,0
 Mason,"Sherman Township, Prec 1",Straight Party,,NLP,Natural Law,1
@@ -242,8 +242,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,,Over Votes,1
 Mason,"Hamlin Township, Prec 2",Straight Party,,,Over Votes,0
 Mason,"Logan Township, Prec 1",Straight Party,,,Over Votes,0
 Mason,"Meade Township, Prec 1",Straight Party,,,Over Votes,0
-Mason,Pere Marquette Charter,Straight Party,,,Over Votes,0
-Mason,Pere Marquette Charter,Straight Party,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,,Over Votes,0
 Mason,"Riverton Township, Prec 1",Straight Party,,,Over Votes,1
 Mason,"Sheridan Township, Prec 1",Straight Party,,,Over Votes,0
 Mason,"Sherman Township, Prec 1",Straight Party,,,Over Votes,2
@@ -267,8 +267,8 @@ Mason,"Hamlin Township, Prec 1",Straight Party,,,Under Votes,331
 Mason,"Hamlin Township, Prec 2",Straight Party,,,Under Votes,672
 Mason,"Logan Township, Prec 1",Straight Party,,,Under Votes,70
 Mason,"Meade Township, Prec 1",Straight Party,,,Under Votes,38
-Mason,Pere Marquette Charter,Straight Party,,,Under Votes,179
-Mason,Pere Marquette Charter,Straight Party,,,Under Votes,378
+Mason,"Pere Marquette Township, Prec 1",Straight Party,,,Under Votes,179
+Mason,"Pere Marquette Township, Prec 2",Straight Party,,,Under Votes,378
 Mason,"Riverton Township, Prec 1",Straight Party,,,Under Votes,263
 Mason,"Sheridan Township, Prec 1",Straight Party,,,Under Votes,202
 Mason,"Sherman Township, Prec 1",Straight Party,,,Under Votes,269
@@ -292,8 +292,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,DEM,Gretchen Whitmer,387
 Mason,"Hamlin Township, Prec 2",Governor,,DEM,Gretchen Whitmer,664
 Mason,"Logan Township, Prec 1",Governor,,DEM,Gretchen Whitmer,67
 Mason,"Meade Township, Prec 1",Governor,,DEM,Gretchen Whitmer,40
-Mason,Pere Marquette Charter,Governor,,DEM,Gretchen Whitmer,179
-Mason,Pere Marquette Charter,Governor,,DEM,Gretchen Whitmer,424
+Mason,"Pere Marquette Township, Prec 1",Governor,,DEM,Gretchen Whitmer,179
+Mason,"Pere Marquette Township, Prec 2",Governor,,DEM,Gretchen Whitmer,424
 Mason,"Riverton Township, Prec 1",Governor,,DEM,Gretchen Whitmer,223
 Mason,"Sheridan Township, Prec 1",Governor,,DEM,Gretchen Whitmer,208
 Mason,"Sherman Township, Prec 1",Governor,,DEM,Gretchen Whitmer,198
@@ -317,8 +317,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,REP,Tudor M. Dixon,428
 Mason,"Hamlin Township, Prec 2",Governor,,REP,Tudor M. Dixon,748
 Mason,"Logan Township, Prec 1",Governor,,REP,Tudor M. Dixon,115
 Mason,"Meade Township, Prec 1",Governor,,REP,Tudor M. Dixon,63
-Mason,Pere Marquette Charter,Governor,,REP,Tudor M. Dixon,253
-Mason,Pere Marquette Charter,Governor,,REP,Tudor M. Dixon,458
+Mason,"Pere Marquette Township, Prec 1",Governor,,REP,Tudor M. Dixon,253
+Mason,"Pere Marquette Township, Prec 2",Governor,,REP,Tudor M. Dixon,458
 Mason,"Riverton Township, Prec 1",Governor,,REP,Tudor M. Dixon,381
 Mason,"Sheridan Township, Prec 1",Governor,,REP,Tudor M. Dixon,307
 Mason,"Sherman Township, Prec 1",Governor,,REP,Tudor M. Dixon,356
@@ -342,8 +342,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,LIB,Mary Buzuma,6
 Mason,"Hamlin Township, Prec 2",Governor,,LIB,Mary Buzuma,13
 Mason,"Logan Township, Prec 1",Governor,,LIB,Mary Buzuma,1
 Mason,"Meade Township, Prec 1",Governor,,LIB,Mary Buzuma,2
-Mason,Pere Marquette Charter,Governor,,LIB,Mary Buzuma,3
-Mason,Pere Marquette Charter,Governor,,LIB,Mary Buzuma,8
+Mason,"Pere Marquette Township, Prec 1",Governor,,LIB,Mary Buzuma,3
+Mason,"Pere Marquette Township, Prec 2",Governor,,LIB,Mary Buzuma,8
 Mason,"Riverton Township, Prec 1",Governor,,LIB,Mary Buzuma,12
 Mason,"Sheridan Township, Prec 1",Governor,,LIB,Mary Buzuma,3
 Mason,"Sherman Township, Prec 1",Governor,,LIB,Mary Buzuma,4
@@ -367,8 +367,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,UST,Donna Brandenburg,4
 Mason,"Hamlin Township, Prec 2",Governor,,UST,Donna Brandenburg,8
 Mason,"Logan Township, Prec 1",Governor,,UST,Donna Brandenburg,4
 Mason,"Meade Township, Prec 1",Governor,,UST,Donna Brandenburg,0
-Mason,Pere Marquette Charter,Governor,,UST,Donna Brandenburg,1
-Mason,Pere Marquette Charter,Governor,,UST,Donna Brandenburg,4
+Mason,"Pere Marquette Township, Prec 1",Governor,,UST,Donna Brandenburg,1
+Mason,"Pere Marquette Township, Prec 2",Governor,,UST,Donna Brandenburg,4
 Mason,"Riverton Township, Prec 1",Governor,,UST,Donna Brandenburg,4
 Mason,"Sheridan Township, Prec 1",Governor,,UST,Donna Brandenburg,3
 Mason,"Sherman Township, Prec 1",Governor,,UST,Donna Brandenburg,4
@@ -392,8 +392,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,GRN,Kevin Hogan,0
 Mason,"Hamlin Township, Prec 2",Governor,,GRN,Kevin Hogan,3
 Mason,"Logan Township, Prec 1",Governor,,GRN,Kevin Hogan,2
 Mason,"Meade Township, Prec 1",Governor,,GRN,Kevin Hogan,0
-Mason,Pere Marquette Charter,Governor,,GRN,Kevin Hogan,0
-Mason,Pere Marquette Charter,Governor,,GRN,Kevin Hogan,2
+Mason,"Pere Marquette Township, Prec 1",Governor,,GRN,Kevin Hogan,0
+Mason,"Pere Marquette Township, Prec 2",Governor,,GRN,Kevin Hogan,2
 Mason,"Riverton Township, Prec 1",Governor,,GRN,Kevin Hogan,0
 Mason,"Sheridan Township, Prec 1",Governor,,GRN,Kevin Hogan,2
 Mason,"Sherman Township, Prec 1",Governor,,GRN,Kevin Hogan,2
@@ -417,8 +417,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,NLP,Daryl M. Simpson,0
 Mason,"Hamlin Township, Prec 2",Governor,,NLP,Daryl M. Simpson,2
 Mason,"Logan Township, Prec 1",Governor,,NLP,Daryl M. Simpson,1
 Mason,"Meade Township, Prec 1",Governor,,NLP,Daryl M. Simpson,0
-Mason,Pere Marquette Charter,Governor,,NLP,Daryl M. Simpson,0
-Mason,Pere Marquette Charter,Governor,,NLP,Daryl M. Simpson,1
+Mason,"Pere Marquette Township, Prec 1",Governor,,NLP,Daryl M. Simpson,0
+Mason,"Pere Marquette Township, Prec 2",Governor,,NLP,Daryl M. Simpson,1
 Mason,"Riverton Township, Prec 1",Governor,,NLP,Daryl M. Simpson,2
 Mason,"Sheridan Township, Prec 1",Governor,,NLP,Daryl M. Simpson,0
 Mason,"Sherman Township, Prec 1",Governor,,NLP,Daryl M. Simpson,0
@@ -442,8 +442,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,,Write-ins,0
 Mason,"Hamlin Township, Prec 2",Governor,,,Write-ins,0
 Mason,"Logan Township, Prec 1",Governor,,,Write-ins,1
 Mason,"Meade Township, Prec 1",Governor,,,Write-ins,0
-Mason,Pere Marquette Charter,Governor,,,Write-ins,1
-Mason,Pere Marquette Charter,Governor,,,Write-ins,2
+Mason,"Pere Marquette Township, Prec 1",Governor,,,Write-ins,1
+Mason,"Pere Marquette Township, Prec 2",Governor,,,Write-ins,2
 Mason,"Riverton Township, Prec 1",Governor,,,Write-ins,0
 Mason,"Sheridan Township, Prec 1",Governor,,,Write-ins,0
 Mason,"Sherman Township, Prec 1",Governor,,,Write-ins,0
@@ -467,8 +467,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,,Over Votes,1
 Mason,"Hamlin Township, Prec 2",Governor,,,Over Votes,0
 Mason,"Logan Township, Prec 1",Governor,,,Over Votes,0
 Mason,"Meade Township, Prec 1",Governor,,,Over Votes,0
-Mason,Pere Marquette Charter,Governor,,,Over Votes,0
-Mason,Pere Marquette Charter,Governor,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",Governor,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",Governor,,,Over Votes,0
 Mason,"Riverton Township, Prec 1",Governor,,,Over Votes,0
 Mason,"Sheridan Township, Prec 1",Governor,,,Over Votes,0
 Mason,"Sherman Township, Prec 1",Governor,,,Over Votes,1
@@ -492,8 +492,8 @@ Mason,"Hamlin Township, Prec 1",Governor,,,Under Votes,3
 Mason,"Hamlin Township, Prec 2",Governor,,,Under Votes,6
 Mason,"Logan Township, Prec 1",Governor,,,Under Votes,3
 Mason,"Meade Township, Prec 1",Governor,,,Under Votes,0
-Mason,Pere Marquette Charter,Governor,,,Under Votes,2
-Mason,Pere Marquette Charter,Governor,,,Under Votes,5
+Mason,"Pere Marquette Township, Prec 1",Governor,,,Under Votes,2
+Mason,"Pere Marquette Township, Prec 2",Governor,,,Under Votes,5
 Mason,"Riverton Township, Prec 1",Governor,,,Under Votes,3
 Mason,"Sheridan Township, Prec 1",Governor,,,Under Votes,2
 Mason,"Sherman Township, Prec 1",Governor,,,Under Votes,1
@@ -517,8 +517,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,381
 Mason,"Hamlin Township, Prec 2",Secretary of State,,DEM,Jocelyn Benson,657
 Mason,"Logan Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,69
 Mason,"Meade Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,42
-Mason,Pere Marquette Charter,Secretary of State,,DEM,Jocelyn Benson,167
-Mason,Pere Marquette Charter,Secretary of State,,DEM,Jocelyn Benson,415
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,167
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,DEM,Jocelyn Benson,415
 Mason,"Riverton Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,224
 Mason,"Sheridan Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,208
 Mason,"Sherman Township, Prec 1",Secretary of State,,DEM,Jocelyn Benson,188
@@ -542,8 +542,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,4
 Mason,"Hamlin Township, Prec 2",Secretary of State,,REP,Kristina Elaine Karamo,755
 Mason,"Logan Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,112
 Mason,"Meade Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,60
-Mason,Pere Marquette Charter,Secretary of State,,REP,Kristina Elaine Karamo,262
-Mason,Pere Marquette Charter,Secretary of State,,REP,Kristina Elaine Karamo,461
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,262
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,REP,Kristina Elaine Karamo,461
 Mason,"Riverton Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,380
 Mason,"Sheridan Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,304
 Mason,"Sherman Township, Prec 1",Secretary of State,,REP,Kristina Elaine Karamo,356
@@ -567,8 +567,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,1
 Mason,"Hamlin Township, Prec 2",Secretary of State,,LIB,Gregory Scott Stempfle,14
 Mason,"Logan Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,5
 Mason,"Meade Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,0
-Mason,Pere Marquette Charter,Secretary of State,,LIB,Gregory Scott Stempfle,5
-Mason,Pere Marquette Charter,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,5
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,LIB,Gregory Scott Stempfle,10
 Mason,"Riverton Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,8
 Mason,"Sheridan Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,3
 Mason,"Sherman Township, Prec 1",Secretary of State,,LIB,Gregory Scott Stempfle,6
@@ -592,8 +592,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,3
 Mason,"Hamlin Township, Prec 2",Secretary of State,,UST,Christine C. Schwartz,3
 Mason,"Logan Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,5
 Mason,"Meade Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,0
-Mason,Pere Marquette Charter,Secretary of State,,UST,Christine C. Schwartz,3
-Mason,Pere Marquette Charter,Secretary of State,,UST,Christine C. Schwartz,2
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,3
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,UST,Christine C. Schwartz,2
 Mason,"Riverton Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,2
 Mason,"Sheridan Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,3
 Mason,"Sherman Township, Prec 1",Secretary of State,,UST,Christine C. Schwartz,6
@@ -617,8 +617,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson J
 Mason,"Hamlin Township, Prec 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,6
 Mason,"Logan Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
 Mason,"Meade Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
-Mason,Pere Marquette Charter,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
-Mason,Pere Marquette Charter,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
 Mason,"Riverton Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
 Mason,"Sheridan Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
 Mason,"Sherman Township, Prec 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
@@ -642,8 +642,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,,Write-ins,0
 Mason,"Hamlin Township, Prec 2",Secretary of State,,,Write-ins,0
 Mason,"Logan Township, Prec 1",Secretary of State,,,Write-ins,0
 Mason,"Meade Township, Prec 1",Secretary of State,,,Write-ins,0
-Mason,Pere Marquette Charter,Secretary of State,,,Write-ins,0
-Mason,Pere Marquette Charter,Secretary of State,,,Write-ins,2
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,,Write-ins,0
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,,Write-ins,2
 Mason,"Riverton Township, Prec 1",Secretary of State,,,Write-ins,1
 Mason,"Sheridan Township, Prec 1",Secretary of State,,,Write-ins,0
 Mason,"Sherman Township, Prec 1",Secretary of State,,,Write-ins,0
@@ -667,8 +667,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,,Over Votes,0
 Mason,"Hamlin Township, Prec 2",Secretary of State,,,Over Votes,0
 Mason,"Logan Township, Prec 1",Secretary of State,,,Over Votes,0
 Mason,"Meade Township, Prec 1",Secretary of State,,,Over Votes,0
-Mason,Pere Marquette Charter,Secretary of State,,,Over Votes,0
-Mason,Pere Marquette Charter,Secretary of State,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,,Over Votes,0
 Mason,"Riverton Township, Prec 1",Secretary of State,,,Over Votes,0
 Mason,"Sheridan Township, Prec 1",Secretary of State,,,Over Votes,0
 Mason,"Sherman Township, Prec 1",Secretary of State,,,Over Votes,1
@@ -692,8 +692,8 @@ Mason,"Hamlin Township, Prec 1",Secretary of State,,,Under Votes,7
 Mason,"Hamlin Township, Prec 2",Secretary of State,,,Under Votes,9
 Mason,"Logan Township, Prec 1",Secretary of State,,,Under Votes,2
 Mason,"Meade Township, Prec 1",Secretary of State,,,Under Votes,2
-Mason,Pere Marquette Charter,Secretary of State,,,Under Votes,2
-Mason,Pere Marquette Charter,Secretary of State,,,Under Votes,12
+Mason,"Pere Marquette Township, Prec 1",Secretary of State,,,Under Votes,2
+Mason,"Pere Marquette Township, Prec 2",Secretary of State,,,Under Votes,12
 Mason,"Riverton Township, Prec 1",Secretary of State,,,Under Votes,9
 Mason,"Sheridan Township, Prec 1",Secretary of State,,,Under Votes,4
 Mason,"Sherman Township, Prec 1",Secretary of State,,,Under Votes,5
@@ -717,8 +717,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,DEM,Dana Nessel,370
 Mason,"Hamlin Township, Prec 2",Attorney General,,DEM,Dana Nessel,643
 Mason,"Logan Township, Prec 1",Attorney General,,DEM,Dana Nessel,61
 Mason,"Meade Township, Prec 1",Attorney General,,DEM,Dana Nessel,39
-Mason,Pere Marquette Charter,Attorney General,,DEM,Dana Nessel,166
-Mason,Pere Marquette Charter,Attorney General,,DEM,Dana Nessel,397
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,DEM,Dana Nessel,166
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,DEM,Dana Nessel,397
 Mason,"Riverton Township, Prec 1",Attorney General,,DEM,Dana Nessel,209
 Mason,"Sheridan Township, Prec 1",Attorney General,,DEM,Dana Nessel,200
 Mason,"Sherman Township, Prec 1",Attorney General,,DEM,Dana Nessel,182
@@ -742,8 +742,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,REP,Matthew DePerno,439
 Mason,"Hamlin Township, Prec 2",Attorney General,,REP,Matthew DePerno,752
 Mason,"Logan Township, Prec 1",Attorney General,,REP,Matthew DePerno,121
 Mason,"Meade Township, Prec 1",Attorney General,,REP,Matthew DePerno,61
-Mason,Pere Marquette Charter,Attorney General,,REP,Matthew DePerno,261
-Mason,Pere Marquette Charter,Attorney General,,REP,Matthew DePerno,472
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,REP,Matthew DePerno,261
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,REP,Matthew DePerno,472
 Mason,"Riverton Township, Prec 1",Attorney General,,REP,Matthew DePerno,389
 Mason,"Sheridan Township, Prec 1",Attorney General,,REP,Matthew DePerno,304
 Mason,"Sherman Township, Prec 1",Attorney General,,REP,Matthew DePerno,362
@@ -767,8 +767,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6
 Mason,"Hamlin Township, Prec 2",Attorney General,,LIB,Joseph W. McHugh Jr.,21
 Mason,"Logan Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4
 Mason,"Meade Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
-Mason,Pere Marquette Charter,Attorney General,,LIB,Joseph W. McHugh Jr.,5
-Mason,Pere Marquette Charter,Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,LIB,Joseph W. McHugh Jr.,11
 Mason,"Riverton Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
 Mason,"Sheridan Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6
 Mason,"Sherman Township, Prec 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6
@@ -792,8 +792,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,4
 Mason,"Hamlin Township, Prec 2",Attorney General,,UST,Gerald T. Van Sickle,10
 Mason,"Logan Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,3
 Mason,"Meade Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,0
-Mason,Pere Marquette Charter,Attorney General,,UST,Gerald T. Van Sickle,3
-Mason,Pere Marquette Charter,Attorney General,,UST,Gerald T. Van Sickle,7
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,3
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,UST,Gerald T. Van Sickle,7
 Mason,"Riverton Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,9
 Mason,"Sheridan Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,10
 Mason,"Sherman Township, Prec 1",Attorney General,,UST,Gerald T. Van Sickle,9
@@ -817,8 +817,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,,Write-ins,0
 Mason,"Hamlin Township, Prec 2",Attorney General,,,Write-ins,1
 Mason,"Logan Township, Prec 1",Attorney General,,,Write-ins,0
 Mason,"Meade Township, Prec 1",Attorney General,,,Write-ins,0
-Mason,Pere Marquette Charter,Attorney General,,,Write-ins,0
-Mason,Pere Marquette Charter,Attorney General,,,Write-ins,3
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,,Write-ins,0
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,,Write-ins,3
 Mason,"Riverton Township, Prec 1",Attorney General,,,Write-ins,1
 Mason,"Sheridan Township, Prec 1",Attorney General,,,Write-ins,0
 Mason,"Sherman Township, Prec 1",Attorney General,,,Write-ins,1
@@ -842,8 +842,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,,Over Votes,0
 Mason,"Hamlin Township, Prec 2",Attorney General,,,Over Votes,0
 Mason,"Logan Township, Prec 1",Attorney General,,,Over Votes,0
 Mason,"Meade Township, Prec 1",Attorney General,,,Over Votes,0
-Mason,Pere Marquette Charter,Attorney General,,,Over Votes,0
-Mason,Pere Marquette Charter,Attorney General,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,,Over Votes,0
 Mason,"Riverton Township, Prec 1",Attorney General,,,Over Votes,0
 Mason,"Sheridan Township, Prec 1",Attorney General,,,Over Votes,0
 Mason,"Sherman Township, Prec 1",Attorney General,,,Over Votes,0
@@ -867,8 +867,8 @@ Mason,"Hamlin Township, Prec 1",Attorney General,,,Under Votes,10
 Mason,"Hamlin Township, Prec 2",Attorney General,,,Under Votes,17
 Mason,"Logan Township, Prec 1",Attorney General,,,Under Votes,5
 Mason,"Meade Township, Prec 1",Attorney General,,,Under Votes,2
-Mason,Pere Marquette Charter,Attorney General,,,Under Votes,4
-Mason,Pere Marquette Charter,Attorney General,,,Under Votes,14
+Mason,"Pere Marquette Township, Prec 1",Attorney General,,,Under Votes,4
+Mason,"Pere Marquette Township, Prec 2",Attorney General,,,Under Votes,14
 Mason,"Riverton Township, Prec 1",Attorney General,,,Under Votes,10
 Mason,"Sheridan Township, Prec 1",Attorney General,,,Under Votes,5
 Mason,"Sherman Township, Prec 1",Attorney General,,,Under Votes,6
@@ -892,8 +892,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,319
 Mason,"Hamlin Township, Prec 2",U.S. House,2,DEM,Jerry Hilliard,567
 Mason,"Logan Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,57
 Mason,"Meade Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,35
-Mason,Pere Marquette Charter,U.S. House,2,DEM,Jerry Hilliard,152
-Mason,Pere Marquette Charter,U.S. House,2,DEM,Jerry Hilliard,366
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,152
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,DEM,Jerry Hilliard,366
 Mason,"Riverton Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,180
 Mason,"Sheridan Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,189
 Mason,"Sherman Township, Prec 1",U.S. House,2,DEM,Jerry Hilliard,153
@@ -917,8 +917,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,REP,John Moolenaar,478
 Mason,"Hamlin Township, Prec 2",U.S. House,2,REP,John Moolenaar,817
 Mason,"Logan Township, Prec 1",U.S. House,2,REP,John Moolenaar,130
 Mason,"Meade Township, Prec 1",U.S. House,2,REP,John Moolenaar,66
-Mason,Pere Marquette Charter,U.S. House,2,REP,John Moolenaar,278
-Mason,Pere Marquette Charter,U.S. House,2,REP,John Moolenaar,502
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,REP,John Moolenaar,278
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,REP,John Moolenaar,502
 Mason,"Riverton Township, Prec 1",U.S. House,2,REP,John Moolenaar,422
 Mason,"Sheridan Township, Prec 1",U.S. House,2,REP,John Moolenaar,325
 Mason,"Sherman Township, Prec 1",U.S. House,2,REP,John Moolenaar,394
@@ -942,8 +942,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,8
 Mason,"Hamlin Township, Prec 2",U.S. House,2,LIB,Nathan Hewer,27
 Mason,"Logan Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,3
 Mason,"Meade Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,4
-Mason,Pere Marquette Charter,U.S. House,2,LIB,Nathan Hewer,1
-Mason,Pere Marquette Charter,U.S. House,2,LIB,Nathan Hewer,10
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,1
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,LIB,Nathan Hewer,10
 Mason,"Riverton Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,7
 Mason,"Sheridan Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,6
 Mason,"Sherman Township, Prec 1",U.S. House,2,LIB,Nathan Hewer,10
@@ -967,8 +967,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,,Write-ins,2
 Mason,"Hamlin Township, Prec 2",U.S. House,2,,Write-ins,1
 Mason,"Logan Township, Prec 1",U.S. House,2,,Write-ins,0
 Mason,"Meade Township, Prec 1",U.S. House,2,,Write-ins,0
-Mason,Pere Marquette Charter,U.S. House,2,,Write-ins,0
-Mason,Pere Marquette Charter,U.S. House,2,,Write-ins,2
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,,Write-ins,0
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,,Write-ins,2
 Mason,"Riverton Township, Prec 1",U.S. House,2,,Write-ins,1
 Mason,"Sheridan Township, Prec 1",U.S. House,2,,Write-ins,0
 Mason,"Sherman Township, Prec 1",U.S. House,2,,Write-ins,0
@@ -992,8 +992,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,,Over Votes,0
 Mason,"Hamlin Township, Prec 2",U.S. House,2,,Over Votes,0
 Mason,"Logan Township, Prec 1",U.S. House,2,,Over Votes,0
 Mason,"Meade Township, Prec 1",U.S. House,2,,Over Votes,0
-Mason,Pere Marquette Charter,U.S. House,2,,Over Votes,0
-Mason,Pere Marquette Charter,U.S. House,2,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,,Over Votes,0
 Mason,"Riverton Township, Prec 1",U.S. House,2,,Over Votes,0
 Mason,"Sheridan Township, Prec 1",U.S. House,2,,Over Votes,0
 Mason,"Sherman Township, Prec 1",U.S. House,2,,Over Votes,0
@@ -1017,8 +1017,8 @@ Mason,"Hamlin Township, Prec 1",U.S. House,2,,Under Votes,22
 Mason,"Hamlin Township, Prec 2",U.S. House,2,,Under Votes,32
 Mason,"Logan Township, Prec 1",U.S. House,2,,Under Votes,4
 Mason,"Meade Township, Prec 1",U.S. House,2,,Under Votes,0
-Mason,Pere Marquette Charter,U.S. House,2,,Under Votes,8
-Mason,Pere Marquette Charter,U.S. House,2,,Under Votes,24
+Mason,"Pere Marquette Township, Prec 1",U.S. House,2,,Under Votes,8
+Mason,"Pere Marquette Township, Prec 2",U.S. House,2,,Under Votes,24
 Mason,"Riverton Township, Prec 1",U.S. House,2,,Under Votes,15
 Mason,"Sheridan Township, Prec 1",U.S. House,2,,Under Votes,5
 Mason,"Sherman Township, Prec 1",U.S. House,2,,Under Votes,9
@@ -1042,8 +1042,8 @@ Mason,"Hamlin Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,335
 Mason,"Hamlin Township, Prec 2",State Senate,32,DEM,Terry J. Sabo,577
 Mason,"Logan Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,61
 Mason,"Meade Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,39
-Mason,Pere Marquette Charter,State Senate,32,DEM,Terry J. Sabo,155
-Mason,Pere Marquette Charter,State Senate,32,DEM,Terry J. Sabo,370
+Mason,"Pere Marquette Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,155
+Mason,"Pere Marquette Township, Prec 2",State Senate,32,DEM,Terry J. Sabo,370
 Mason,"Riverton Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,177
 Mason,"Sheridan Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,184
 Mason,"Sherman Township, Prec 1",State Senate,32,DEM,Terry J. Sabo,157
@@ -1067,8 +1067,8 @@ Mason,"Hamlin Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,476
 Mason,"Hamlin Township, Prec 2",State Senate,32,REP,Jon C. Bumstead,835
 Mason,"Logan Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,128
 Mason,"Meade Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,66
-Mason,Pere Marquette Charter,State Senate,32,REP,Jon C. Bumstead,277
-Mason,Pere Marquette Charter,State Senate,32,REP,Jon C. Bumstead,508
+Mason,"Pere Marquette Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,277
+Mason,"Pere Marquette Township, Prec 2",State Senate,32,REP,Jon C. Bumstead,508
 Mason,"Riverton Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,432
 Mason,"Sheridan Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,333
 Mason,"Sherman Township, Prec 1",State Senate,32,REP,Jon C. Bumstead,398
@@ -1092,8 +1092,8 @@ Mason,"Hamlin Township, Prec 1",State Senate,32,,Write-ins,5
 Mason,"Hamlin Township, Prec 2",State Senate,32,,Write-ins,2
 Mason,"Logan Township, Prec 1",State Senate,32,,Write-ins,0
 Mason,"Meade Township, Prec 1",State Senate,32,,Write-ins,0
-Mason,Pere Marquette Charter,State Senate,32,,Write-ins,1
-Mason,Pere Marquette Charter,State Senate,32,,Write-ins,2
+Mason,"Pere Marquette Township, Prec 1",State Senate,32,,Write-ins,1
+Mason,"Pere Marquette Township, Prec 2",State Senate,32,,Write-ins,2
 Mason,"Riverton Township, Prec 1",State Senate,32,,Write-ins,2
 Mason,"Sheridan Township, Prec 1",State Senate,32,,Write-ins,0
 Mason,"Sherman Township, Prec 1",State Senate,32,,Write-ins,1
@@ -1117,8 +1117,8 @@ Mason,"Hamlin Township, Prec 1",State Senate,32,,Over Votes,0
 Mason,"Hamlin Township, Prec 2",State Senate,32,,Over Votes,0
 Mason,"Logan Township, Prec 1",State Senate,32,,Over Votes,0
 Mason,"Meade Township, Prec 1",State Senate,32,,Over Votes,0
-Mason,Pere Marquette Charter,State Senate,32,,Over Votes,0
-Mason,Pere Marquette Charter,State Senate,32,,Over Votes,1
+Mason,"Pere Marquette Township, Prec 1",State Senate,32,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 2",State Senate,32,,Over Votes,1
 Mason,"Riverton Township, Prec 1",State Senate,32,,Over Votes,4
 Mason,"Sheridan Township, Prec 1",State Senate,32,,Over Votes,0
 Mason,"Sherman Township, Prec 1",State Senate,32,,Over Votes,0
@@ -1142,8 +1142,8 @@ Mason,"Hamlin Township, Prec 1",State Senate,32,,Under Votes,13
 Mason,"Hamlin Township, Prec 2",State Senate,32,,Under Votes,30
 Mason,"Logan Township, Prec 1",State Senate,32,,Under Votes,5
 Mason,"Meade Township, Prec 1",State Senate,32,,Under Votes,0
-Mason,Pere Marquette Charter,State Senate,32,,Under Votes,6
-Mason,Pere Marquette Charter,State Senate,32,,Under Votes,23
+Mason,"Pere Marquette Township, Prec 1",State Senate,32,,Under Votes,6
+Mason,"Pere Marquette Township, Prec 2",State Senate,32,,Under Votes,23
 Mason,"Riverton Township, Prec 1",State Senate,32,,Under Votes,10
 Mason,"Sheridan Township, Prec 1",State Senate,32,,Under Votes,8
 Mason,"Sherman Township, Prec 1",State Senate,32,,Under Votes,10
@@ -1184,8 +1184,8 @@ Mason,"Free Soil Township, Prec 1",State House,102,DEM,Brian Hosticka,113
 Mason,"Grant Township, Prec 1",State House,102,DEM,Brian Hosticka,203
 Mason,"Hamlin Township, Prec 1",State House,102,DEM,Brian Hosticka,311
 Mason,"Hamlin Township, Prec 2",State House,102,DEM,Brian Hosticka,521
-Mason,Pere Marquette Charter,State House,102,DEM,Brian Hosticka,142
-Mason,Pere Marquette Charter,State House,102,DEM,Brian Hosticka,325
+Mason,"Pere Marquette Township, Prec 1",State House,102,DEM,Brian Hosticka,142
+Mason,"Pere Marquette Township, Prec 2",State House,102,DEM,Brian Hosticka,325
 Mason,"Riverton Township, Prec 1",State House,102,DEM,Brian Hosticka,167
 Mason,"Sherman Township, Prec 1",State House,102,DEM,Brian Hosticka,131
 Mason,"Summit Township, Prec 1",State House,102,DEM,Brian Hosticka,217
@@ -1205,8 +1205,8 @@ Mason,"Free Soil Township, Prec 1",State House,102,REP,Curt VanderWall,330
 Mason,"Grant Township, Prec 1",State House,102,REP,Curt VanderWall,336
 Mason,"Hamlin Township, Prec 1",State House,102,REP,Curt VanderWall,508
 Mason,"Hamlin Township, Prec 2",State House,102,REP,Curt VanderWall,897
-Mason,Pere Marquette Charter,State House,102,REP,Curt VanderWall,292
-Mason,Pere Marquette Charter,State House,102,REP,Curt VanderWall,566
+Mason,"Pere Marquette Township, Prec 1",State House,102,REP,Curt VanderWall,292
+Mason,"Pere Marquette Township, Prec 2",State House,102,REP,Curt VanderWall,566
 Mason,"Riverton Township, Prec 1",State House,102,REP,Curt VanderWall,445
 Mason,"Sherman Township, Prec 1",State House,102,REP,Curt VanderWall,430
 Mason,"Summit Township, Prec 1",State House,102,REP,Curt VanderWall,379
@@ -1226,8 +1226,8 @@ Mason,"Free Soil Township, Prec 1",State House,102,,Write-ins,2
 Mason,"Grant Township, Prec 1",State House,102,,Write-ins,2
 Mason,"Hamlin Township, Prec 1",State House,102,,Write-ins,0
 Mason,"Hamlin Township, Prec 2",State House,102,,Write-ins,6
-Mason,Pere Marquette Charter,State House,102,,Write-ins,0
-Mason,Pere Marquette Charter,State House,102,,Write-ins,2
+Mason,"Pere Marquette Township, Prec 1",State House,102,,Write-ins,0
+Mason,"Pere Marquette Township, Prec 2",State House,102,,Write-ins,2
 Mason,"Riverton Township, Prec 1",State House,102,,Write-ins,1
 Mason,"Sherman Township, Prec 1",State House,102,,Write-ins,1
 Mason,"Summit Township, Prec 1",State House,102,,Write-ins,2
@@ -1247,8 +1247,8 @@ Mason,"Free Soil Township, Prec 1",State House,102,,Over Votes,0
 Mason,"Grant Township, Prec 1",State House,102,,Over Votes,0
 Mason,"Hamlin Township, Prec 1",State House,102,,Over Votes,1
 Mason,"Hamlin Township, Prec 2",State House,102,,Over Votes,0
-Mason,Pere Marquette Charter,State House,102,,Over Votes,1
-Mason,Pere Marquette Charter,State House,102,,Over Votes,0
+Mason,"Pere Marquette Township, Prec 1",State House,102,,Over Votes,1
+Mason,"Pere Marquette Township, Prec 2",State House,102,,Over Votes,0
 Mason,"Riverton Township, Prec 1",State House,102,,Over Votes,0
 Mason,"Sherman Township, Prec 1",State House,102,,Over Votes,0
 Mason,"Summit Township, Prec 1",State House,102,,Over Votes,0
@@ -1268,8 +1268,8 @@ Mason,"Free Soil Township, Prec 1",State House,102,,Under Votes,3
 Mason,"Grant Township, Prec 1",State House,102,,Under Votes,11
 Mason,"Hamlin Township, Prec 1",State House,102,,Under Votes,9
 Mason,"Hamlin Township, Prec 2",State House,102,,Under Votes,20
-Mason,Pere Marquette Charter,State House,102,,Under Votes,4
-Mason,Pere Marquette Charter,State House,102,,Under Votes,11
+Mason,"Pere Marquette Township, Prec 1",State House,102,,Under Votes,4
+Mason,"Pere Marquette Township, Prec 2",State House,102,,Under Votes,11
 Mason,"Riverton Township, Prec 1",State House,102,,Under Votes,12
 Mason,"Sherman Township, Prec 1",State House,102,,Under Votes,4
 Mason,"Summit Township, Prec 1",State House,102,,Under Votes,9

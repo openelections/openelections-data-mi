@@ -1,0 +1,1405 @@
+county,precinct,office,district,party,candidate,votes
+Ionia,City of Belding 1,Registered Voters,,,,1730
+Ionia,City of Belding 2,Registered Voters,,,,1470
+Ionia,City of Belding 3,Registered Voters,,,,1040
+Ionia,Township of Berlin 1,Registered Voters,,,,1760
+Ionia,Township of Boston 1,Registered Voters,,,,1480
+Ionia,Township of Boston 2,Registered Voters,,,,1860
+Ionia,Township of Boston 3,Registered Voters,,,,1610
+Ionia,Township of Campbell 1,Registered Voters,,,,2040
+Ionia,Township of Danby 1,Registered Voters,,,,2420
+Ionia,Township of Easton 1,Registered Voters,,,,1240
+Ionia,Township of Easton 2,Registered Voters,,,,1420
+Ionia,City of Ionia 1,Registered Voters,,,,1370
+Ionia,City of Ionia 2,Registered Voters,,,,1200
+Ionia,City of Ionia 3,Registered Voters,,,,1270
+Ionia,City of Ionia 4,Registered Voters,,,,1230
+Ionia,Township of Ionia 1,Registered Voters,,,,3270
+Ionia,Township of Keene 1,Registered Voters,,,,1440
+Ionia,Township of Lyons 1,Registered Voters,,,,1830
+Ionia,Township of Lyons 2,Registered Voters,,,,1040
+Ionia,Township of North Plains 1,Registered Voters,,,,950
+Ionia,Township of Odessa 1,Registered Voters,,,,1600
+Ionia,Township of Odessa 2,Registered Voters,,,,1470
+Ionia,Township of Orange 1,Registered Voters,,,,830
+Ionia,Township of Orleans 1,Registered Voters,,,,2210
+Ionia,Township of Otisco 1,Registered Voters,,,,2000
+Ionia,City of Portland 1,Registered Voters,,,,2980
+Ionia,Township of Portland 1,Registered Voters,,,,1660
+Ionia,Township of Portland 2,Registered Voters,,,,1470
+Ionia,Township of Ronald 1,Registered Voters,,,,1490
+Ionia,Township of Sebewa 1,Registered Voters,,,,940
+Ionia,City of Belding 1,Ballots Cast,,,,786
+Ionia,City of Belding 2,Ballots Cast,,,,701
+Ionia,City of Belding 3,Ballots Cast,,,,566
+Ionia,Township of Berlin 1,Ballots Cast,,,,1153
+Ionia,Township of Boston 1,Ballots Cast,,,,987
+Ionia,Township of Boston 2,Ballots Cast,,,,1194
+Ionia,Township of Boston 3,Ballots Cast,,,,874
+Ionia,Township of Campbell 1,Ballots Cast,,,,1289
+Ionia,Township of Danby 1,Ballots Cast,,,,1568
+Ionia,Township of Easton 1,Ballots Cast,,,,730
+Ionia,Township of Easton 2,Ballots Cast,,,,728
+Ionia,City of Ionia 1,Ballots Cast,,,,562
+Ionia,City of Ionia 2,Ballots Cast,,,,495
+Ionia,City of Ionia 3,Ballots Cast,,,,569
+Ionia,City of Ionia 4,Ballots Cast,,,,569
+Ionia,Township of Ionia 1,Ballots Cast,,,,1572
+Ionia,Township of Keene 1,Ballots Cast,,,,982
+Ionia,Township of Lyons 1,Ballots Cast,,,,879
+Ionia,Township of Lyons 2,Ballots Cast,,,,722
+Ionia,Township of North Plains 1,Ballots Cast,,,,493
+Ionia,Township of Odessa 1,Ballots Cast,,,,884
+Ionia,Township of Odessa 2,Ballots Cast,,,,989
+Ionia,Township of Orange 1,Ballots Cast,,,,539
+Ionia,Township of Orleans 1,Ballots Cast,,,,1114
+Ionia,Township of Otisco 1,Ballots Cast,,,,1165
+Ionia,City of Portland 1,Ballots Cast,,,,1921
+Ionia,Township of Portland 1,Ballots Cast,,,,968
+Ionia,Township of Portland 2,Ballots Cast,,,,1024
+Ionia,Township of Ronald 1,Ballots Cast,,,,795
+Ionia,Township of Sebewa 1,Ballots Cast,,,,606
+Ionia,City of Belding 1,Straight Party,,DEM,Democratic,168
+Ionia,City of Belding 2,Straight Party,,DEM,Democratic,179
+Ionia,City of Belding 3,Straight Party,,DEM,Democratic,110
+Ionia,Township of Berlin 1,Straight Party,,DEM,Democratic,205
+Ionia,Township of Boston 1,Straight Party,,DEM,Democratic,156
+Ionia,Township of Boston 2,Straight Party,,DEM,Democratic,157
+Ionia,Township of Boston 3,Straight Party,,DEM,Democratic,166
+Ionia,Township of Campbell 1,Straight Party,,DEM,Democratic,188
+Ionia,Township of Danby 1,Straight Party,,DEM,Democratic,278
+Ionia,Township of Easton 1,Straight Party,,DEM,Democratic,112
+Ionia,Township of Easton 2,Straight Party,,DEM,Democratic,144
+Ionia,City of Ionia 1,Straight Party,,DEM,Democratic,181
+Ionia,City of Ionia 2,Straight Party,,DEM,Democratic,133
+Ionia,City of Ionia 3,Straight Party,,DEM,Democratic,131
+Ionia,City of Ionia 4,Straight Party,,DEM,Democratic,147
+Ionia,Township of Ionia 1,Straight Party,,DEM,Democratic,286
+Ionia,Township of Keene 1,Straight Party,,DEM,Democratic,116
+Ionia,Township of Lyons 1,Straight Party,,DEM,Democratic,211
+Ionia,Township of Lyons 2,Straight Party,,DEM,Democratic,64
+Ionia,Township of North Plains 1,Straight Party,,DEM,Democratic,89
+Ionia,Township of Odessa 1,Straight Party,,DEM,Democratic,211
+Ionia,Township of Odessa 2,Straight Party,,DEM,Democratic,140
+Ionia,Township of Orange 1,Straight Party,,DEM,Democratic,72
+Ionia,Township of Orleans 1,Straight Party,,DEM,Democratic,178
+Ionia,Township of Otisco 1,Straight Party,,DEM,Democratic,183
+Ionia,City of Portland 1,Straight Party,,DEM,Democratic,453
+Ionia,Township of Portland 1,Straight Party,,DEM,Democratic,183
+Ionia,Township of Portland 2,Straight Party,,DEM,Democratic,164
+Ionia,Township of Ronald 1,Straight Party,,DEM,Democratic,119
+Ionia,Township of Sebewa 1,Straight Party,,DEM,Democratic,79
+Ionia,City of Belding 1,Straight Party,,REP,Republican,249
+Ionia,City of Belding 2,Straight Party,,REP,Republican,201
+Ionia,City of Belding 3,Straight Party,,REP,Republican,170
+Ionia,Township of Berlin 1,Straight Party,,REP,Republican,387
+Ionia,Township of Boston 1,Straight Party,,REP,Republican,358
+Ionia,Township of Boston 2,Straight Party,,REP,Republican,442
+Ionia,Township of Boston 3,Straight Party,,REP,Republican,297
+Ionia,Township of Campbell 1,Straight Party,,REP,Republican,531
+Ionia,Township of Danby 1,Straight Party,,REP,Republican,552
+Ionia,Township of Easton 1,Straight Party,,REP,Republican,257
+Ionia,Township of Easton 2,Straight Party,,REP,Republican,233
+Ionia,City of Ionia 1,Straight Party,,REP,Republican,150
+Ionia,City of Ionia 2,Straight Party,,REP,Republican,141
+Ionia,City of Ionia 3,Straight Party,,REP,Republican,118
+Ionia,City of Ionia 4,Straight Party,,REP,Republican,159
+Ionia,Township of Ionia 1,Straight Party,,REP,Republican,484
+Ionia,Township of Keene 1,Straight Party,,REP,Republican,375
+Ionia,Township of Lyons 1,Straight Party,,REP,Republican,291
+Ionia,Township of Lyons 2,Straight Party,,REP,Republican,296
+Ionia,Township of North Plains 1,Straight Party,,REP,Republican,162
+Ionia,Township of Odessa 1,Straight Party,,REP,Republican,300
+Ionia,Township of Odessa 2,Straight Party,,REP,Republican,401
+Ionia,Township of Orange 1,Straight Party,,REP,Republican,201
+Ionia,Township of Orleans 1,Straight Party,,REP,Republican,439
+Ionia,Township of Otisco 1,Straight Party,,REP,Republican,421
+Ionia,City of Portland 1,Straight Party,,REP,Republican,489
+Ionia,Township of Portland 1,Straight Party,,REP,Republican,295
+Ionia,Township of Portland 2,Straight Party,,REP,Republican,317
+Ionia,Township of Ronald 1,Straight Party,,REP,Republican,290
+Ionia,Township of Sebewa 1,Straight Party,,REP,Republican,260
+Ionia,City of Belding 1,Straight Party,,LIB,Libertarian,4
+Ionia,City of Belding 2,Straight Party,,LIB,Libertarian,2
+Ionia,City of Belding 3,Straight Party,,LIB,Libertarian,1
+Ionia,Township of Berlin 1,Straight Party,,LIB,Libertarian,7
+Ionia,Township of Boston 1,Straight Party,,LIB,Libertarian,4
+Ionia,Township of Boston 2,Straight Party,,LIB,Libertarian,1
+Ionia,Township of Boston 3,Straight Party,,LIB,Libertarian,5
+Ionia,Township of Campbell 1,Straight Party,,LIB,Libertarian,5
+Ionia,Township of Danby 1,Straight Party,,LIB,Libertarian,5
+Ionia,Township of Easton 1,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Easton 2,Straight Party,,LIB,Libertarian,2
+Ionia,City of Ionia 1,Straight Party,,LIB,Libertarian,4
+Ionia,City of Ionia 2,Straight Party,,LIB,Libertarian,1
+Ionia,City of Ionia 3,Straight Party,,LIB,Libertarian,2
+Ionia,City of Ionia 4,Straight Party,,LIB,Libertarian,4
+Ionia,Township of Ionia 1,Straight Party,,LIB,Libertarian,6
+Ionia,Township of Keene 1,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Lyons 1,Straight Party,,LIB,Libertarian,7
+Ionia,Township of Lyons 2,Straight Party,,LIB,Libertarian,2
+Ionia,Township of North Plains 1,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Odessa 1,Straight Party,,LIB,Libertarian,4
+Ionia,Township of Odessa 2,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Orange 1,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Orleans 1,Straight Party,,LIB,Libertarian,3
+Ionia,Township of Otisco 1,Straight Party,,LIB,Libertarian,5
+Ionia,City of Portland 1,Straight Party,,LIB,Libertarian,9
+Ionia,Township of Portland 1,Straight Party,,LIB,Libertarian,4
+Ionia,Township of Portland 2,Straight Party,,LIB,Libertarian,2
+Ionia,Township of Ronald 1,Straight Party,,LIB,Libertarian,0
+Ionia,Township of Sebewa 1,Straight Party,,LIB,Libertarian,2
+Ionia,City of Belding 1,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,City of Belding 2,Straight Party,,UST,U.S. Taxpayers,3
+Ionia,City of Belding 3,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of Berlin 1,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Boston 1,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Boston 2,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Boston 3,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Campbell 1,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Danby 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,Township of Easton 1,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of Easton 2,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,City of Ionia 1,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,City of Ionia 2,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,City of Ionia 3,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,City of Ionia 4,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of Ionia 1,Straight Party,,UST,U.S. Taxpayers,3
+Ionia,Township of Keene 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,Township of Lyons 1,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Lyons 2,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of North Plains 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,Township of Odessa 1,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of Odessa 2,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Orange 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,Township of Orleans 1,Straight Party,,UST,U.S. Taxpayers,4
+Ionia,Township of Otisco 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,City of Portland 1,Straight Party,,UST,U.S. Taxpayers,5
+Ionia,Township of Portland 1,Straight Party,,UST,U.S. Taxpayers,1
+Ionia,Township of Portland 2,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,Township of Ronald 1,Straight Party,,UST,U.S. Taxpayers,2
+Ionia,Township of Sebewa 1,Straight Party,,UST,U.S. Taxpayers,0
+Ionia,City of Belding 1,Straight Party,,WCP,Working Class,2
+Ionia,City of Belding 2,Straight Party,,WCP,Working Class,4
+Ionia,City of Belding 3,Straight Party,,WCP,Working Class,1
+Ionia,Township of Berlin 1,Straight Party,,WCP,Working Class,1
+Ionia,Township of Boston 1,Straight Party,,WCP,Working Class,1
+Ionia,Township of Boston 2,Straight Party,,WCP,Working Class,1
+Ionia,Township of Boston 3,Straight Party,,WCP,Working Class,2
+Ionia,Township of Campbell 1,Straight Party,,WCP,Working Class,0
+Ionia,Township of Danby 1,Straight Party,,WCP,Working Class,4
+Ionia,Township of Easton 1,Straight Party,,WCP,Working Class,4
+Ionia,Township of Easton 2,Straight Party,,WCP,Working Class,1
+Ionia,City of Ionia 1,Straight Party,,WCP,Working Class,0
+Ionia,City of Ionia 2,Straight Party,,WCP,Working Class,1
+Ionia,City of Ionia 3,Straight Party,,WCP,Working Class,3
+Ionia,City of Ionia 4,Straight Party,,WCP,Working Class,3
+Ionia,Township of Ionia 1,Straight Party,,WCP,Working Class,4
+Ionia,Township of Keene 1,Straight Party,,WCP,Working Class,1
+Ionia,Township of Lyons 1,Straight Party,,WCP,Working Class,7
+Ionia,Township of Lyons 2,Straight Party,,WCP,Working Class,0
+Ionia,Township of North Plains 1,Straight Party,,WCP,Working Class,0
+Ionia,Township of Odessa 1,Straight Party,,WCP,Working Class,3
+Ionia,Township of Odessa 2,Straight Party,,WCP,Working Class,2
+Ionia,Township of Orange 1,Straight Party,,WCP,Working Class,1
+Ionia,Township of Orleans 1,Straight Party,,WCP,Working Class,5
+Ionia,Township of Otisco 1,Straight Party,,WCP,Working Class,0
+Ionia,City of Portland 1,Straight Party,,WCP,Working Class,4
+Ionia,Township of Portland 1,Straight Party,,WCP,Working Class,1
+Ionia,Township of Portland 2,Straight Party,,WCP,Working Class,4
+Ionia,Township of Ronald 1,Straight Party,,WCP,Working Class,3
+Ionia,Township of Sebewa 1,Straight Party,,WCP,Working Class,1
+Ionia,City of Belding 1,Straight Party,,GRN,Green,1
+Ionia,City of Belding 2,Straight Party,,GRN,Green,2
+Ionia,City of Belding 3,Straight Party,,GRN,Green,0
+Ionia,Township of Berlin 1,Straight Party,,GRN,Green,0
+Ionia,Township of Boston 1,Straight Party,,GRN,Green,0
+Ionia,Township of Boston 2,Straight Party,,GRN,Green,1
+Ionia,Township of Boston 3,Straight Party,,GRN,Green,0
+Ionia,Township of Campbell 1,Straight Party,,GRN,Green,0
+Ionia,Township of Danby 1,Straight Party,,GRN,Green,1
+Ionia,Township of Easton 1,Straight Party,,GRN,Green,1
+Ionia,Township of Easton 2,Straight Party,,GRN,Green,3
+Ionia,City of Ionia 1,Straight Party,,GRN,Green,2
+Ionia,City of Ionia 2,Straight Party,,GRN,Green,0
+Ionia,City of Ionia 3,Straight Party,,GRN,Green,0
+Ionia,City of Ionia 4,Straight Party,,GRN,Green,3
+Ionia,Township of Ionia 1,Straight Party,,GRN,Green,1
+Ionia,Township of Keene 1,Straight Party,,GRN,Green,0
+Ionia,Township of Lyons 1,Straight Party,,GRN,Green,2
+Ionia,Township of Lyons 2,Straight Party,,GRN,Green,1
+Ionia,Township of North Plains 1,Straight Party,,GRN,Green,0
+Ionia,Township of Odessa 1,Straight Party,,GRN,Green,3
+Ionia,Township of Odessa 2,Straight Party,,GRN,Green,0
+Ionia,Township of Orange 1,Straight Party,,GRN,Green,1
+Ionia,Township of Orleans 1,Straight Party,,GRN,Green,0
+Ionia,Township of Otisco 1,Straight Party,,GRN,Green,2
+Ionia,City of Portland 1,Straight Party,,GRN,Green,2
+Ionia,Township of Portland 1,Straight Party,,GRN,Green,1
+Ionia,Township of Portland 2,Straight Party,,GRN,Green,0
+Ionia,Township of Ronald 1,Straight Party,,GRN,Green,1
+Ionia,Township of Sebewa 1,Straight Party,,GRN,Green,0
+Ionia,City of Belding 1,Straight Party,,NLP,Natural Law,0
+Ionia,City of Belding 2,Straight Party,,NLP,Natural Law,1
+Ionia,City of Belding 3,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Berlin 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Boston 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Boston 2,Straight Party,,NLP,Natural Law,2
+Ionia,Township of Boston 3,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Campbell 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Danby 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Easton 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Easton 2,Straight Party,,NLP,Natural Law,0
+Ionia,City of Ionia 1,Straight Party,,NLP,Natural Law,0
+Ionia,City of Ionia 2,Straight Party,,NLP,Natural Law,0
+Ionia,City of Ionia 3,Straight Party,,NLP,Natural Law,0
+Ionia,City of Ionia 4,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Ionia 1,Straight Party,,NLP,Natural Law,3
+Ionia,Township of Keene 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Lyons 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Lyons 2,Straight Party,,NLP,Natural Law,1
+Ionia,Township of North Plains 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Odessa 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Odessa 2,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Orange 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Orleans 1,Straight Party,,NLP,Natural Law,2
+Ionia,Township of Otisco 1,Straight Party,,NLP,Natural Law,0
+Ionia,City of Portland 1,Straight Party,,NLP,Natural Law,1
+Ionia,Township of Portland 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Portland 2,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Ronald 1,Straight Party,,NLP,Natural Law,0
+Ionia,Township of Sebewa 1,Straight Party,,NLP,Natural Law,0
+Ionia,City of Belding 1,Straight Party,,,Under Votes,362
+Ionia,City of Belding 2,Straight Party,,,Under Votes,309
+Ionia,City of Belding 3,Straight Party,,,Under Votes,282
+Ionia,Township of Berlin 1,Straight Party,,,Under Votes,551
+Ionia,Township of Boston 1,Straight Party,,,Under Votes,466
+Ionia,Township of Boston 2,Straight Party,,,Under Votes,588
+Ionia,Township of Boston 3,Straight Party,,,Under Votes,399
+Ionia,Township of Campbell 1,Straight Party,,,Under Votes,561
+Ionia,Township of Danby 1,Straight Party,,,Under Votes,725
+Ionia,Township of Easton 1,Straight Party,,,Under Votes,354
+Ionia,Township of Easton 2,Straight Party,,,Under Votes,343
+Ionia,City of Ionia 1,Straight Party,,,Under Votes,225
+Ionia,City of Ionia 2,Straight Party,,,Under Votes,219
+Ionia,City of Ionia 3,Straight Party,,,Under Votes,313
+Ionia,City of Ionia 4,Straight Party,,,Under Votes,252
+Ionia,Township of Ionia 1,Straight Party,,,Under Votes,785
+Ionia,Township of Keene 1,Straight Party,,,Under Votes,486
+Ionia,Township of Lyons 1,Straight Party,,,Under Votes,357
+Ionia,Township of Lyons 2,Straight Party,,,Under Votes,358
+Ionia,Township of North Plains 1,Straight Party,,,Under Votes,238
+Ionia,Township of Odessa 1,Straight Party,,,Under Votes,362
+Ionia,Township of Odessa 2,Straight Party,,,Under Votes,440
+Ionia,Township of Orange 1,Straight Party,,,Under Votes,259
+Ionia,Township of Orleans 1,Straight Party,,,Under Votes,481
+Ionia,Township of Otisco 1,Straight Party,,,Under Votes,553
+Ionia,City of Portland 1,Straight Party,,,Under Votes,958
+Ionia,Township of Portland 1,Straight Party,,,Under Votes,483
+Ionia,Township of Portland 2,Straight Party,,,Under Votes,536
+Ionia,Township of Ronald 1,Straight Party,,,Under Votes,379
+Ionia,Township of Sebewa 1,Straight Party,,,Under Votes,264
+Ionia,City of Belding 1,Straight Party,,,Over Votes,0
+Ionia,City of Belding 2,Straight Party,,,Over Votes,0
+Ionia,City of Belding 3,Straight Party,,,Over Votes,1
+Ionia,Township of Berlin 1,Straight Party,,,Over Votes,0
+Ionia,Township of Boston 1,Straight Party,,,Over Votes,0
+Ionia,Township of Boston 2,Straight Party,,,Over Votes,0
+Ionia,Township of Boston 3,Straight Party,,,Over Votes,2
+Ionia,Township of Campbell 1,Straight Party,,,Over Votes,1
+Ionia,Township of Danby 1,Straight Party,,,Over Votes,1
+Ionia,Township of Easton 1,Straight Party,,,Over Votes,0
+Ionia,Township of Easton 2,Straight Party,,,Over Votes,0
+Ionia,City of Ionia 1,Straight Party,,,Over Votes,0
+Ionia,City of Ionia 2,Straight Party,,,Over Votes,0
+Ionia,City of Ionia 3,Straight Party,,,Over Votes,0
+Ionia,City of Ionia 4,Straight Party,,,Over Votes,0
+Ionia,Township of Ionia 1,Straight Party,,,Over Votes,0
+Ionia,Township of Keene 1,Straight Party,,,Over Votes,1
+Ionia,Township of Lyons 1,Straight Party,,,Over Votes,1
+Ionia,Township of Lyons 2,Straight Party,,,Over Votes,0
+Ionia,Township of North Plains 1,Straight Party,,,Over Votes,0
+Ionia,Township of Odessa 1,Straight Party,,,Over Votes,0
+Ionia,Township of Odessa 2,Straight Party,,,Over Votes,2
+Ionia,Township of Orange 1,Straight Party,,,Over Votes,2
+Ionia,Township of Orleans 1,Straight Party,,,Over Votes,2
+Ionia,Township of Otisco 1,Straight Party,,,Over Votes,0
+Ionia,City of Portland 1,Straight Party,,,Over Votes,0
+Ionia,Township of Portland 1,Straight Party,,,Over Votes,0
+Ionia,Township of Portland 2,Straight Party,,,Over Votes,1
+Ionia,Township of Ronald 1,Straight Party,,,Over Votes,1
+Ionia,Township of Sebewa 1,Straight Party,,,Over Votes,0
+Ionia,City of Belding 1,Governor,,DEM,Gretchen Whitmer,333
+Ionia,City of Belding 2,Governor,,DEM,Gretchen Whitmer,358
+Ionia,City of Belding 3,Governor,,DEM,Gretchen Whitmer,269
+Ionia,Township of Berlin 1,Governor,,DEM,Gretchen Whitmer,441
+Ionia,Township of Boston 1,Governor,,DEM,Gretchen Whitmer,377
+Ionia,Township of Boston 2,Governor,,DEM,Gretchen Whitmer,386
+Ionia,Township of Boston 3,Governor,,DEM,Gretchen Whitmer,314
+Ionia,Township of Campbell 1,Governor,,DEM,Gretchen Whitmer,398
+Ionia,Township of Danby 1,Governor,,DEM,Gretchen Whitmer,596
+Ionia,Township of Easton 1,Governor,,DEM,Gretchen Whitmer,268
+Ionia,Township of Easton 2,Governor,,DEM,Gretchen Whitmer,315
+Ionia,City of Ionia 1,Governor,,DEM,Gretchen Whitmer,295
+Ionia,City of Ionia 2,Governor,,DEM,Gretchen Whitmer,252
+Ionia,City of Ionia 3,Governor,,DEM,Gretchen Whitmer,305
+Ionia,City of Ionia 4,Governor,,DEM,Gretchen Whitmer,306
+Ionia,Township of Ionia 1,Governor,,DEM,Gretchen Whitmer,666
+Ionia,Township of Keene 1,Governor,,DEM,Gretchen Whitmer,309
+Ionia,Township of Lyons 1,Governor,,DEM,Gretchen Whitmer,383
+Ionia,Township of Lyons 2,Governor,,DEM,Gretchen Whitmer,184
+Ionia,Township of North Plains 1,Governor,,DEM,Gretchen Whitmer,196
+Ionia,Township of Odessa 1,Governor,,DEM,Gretchen Whitmer,382
+Ionia,Township of Odessa 2,Governor,,DEM,Gretchen Whitmer,327
+Ionia,Township of Orange 1,Governor,,DEM,Gretchen Whitmer,174
+Ionia,Township of Orleans 1,Governor,,DEM,Gretchen Whitmer,388
+Ionia,Township of Otisco 1,Governor,,DEM,Gretchen Whitmer,400
+Ionia,City of Portland 1,Governor,,DEM,Gretchen Whitmer,1001
+Ionia,Township of Portland 1,Governor,,DEM,Gretchen Whitmer,404
+Ionia,Township of Portland 2,Governor,,DEM,Gretchen Whitmer,388
+Ionia,Township of Ronald 1,Governor,,DEM,Gretchen Whitmer,263
+Ionia,Township of Sebewa 1,Governor,,DEM,Gretchen Whitmer,167
+Ionia,City of Belding 1,Governor,,REP,Tudor M. Dixon,425
+Ionia,City of Belding 2,Governor,,REP,Tudor M. Dixon,320
+Ionia,City of Belding 3,Governor,,REP,Tudor M. Dixon,279
+Ionia,Township of Berlin 1,Governor,,REP,Tudor M. Dixon,676
+Ionia,Township of Boston 1,Governor,,REP,Tudor M. Dixon,586
+Ionia,Township of Boston 2,Governor,,REP,Tudor M. Dixon,785
+Ionia,Township of Boston 3,Governor,,REP,Tudor M. Dixon,538
+Ionia,Township of Campbell 1,Governor,,REP,Tudor M. Dixon,864
+Ionia,Township of Danby 1,Governor,,REP,Tudor M. Dixon,924
+Ionia,Township of Easton 1,Governor,,REP,Tudor M. Dixon,442
+Ionia,Township of Easton 2,Governor,,REP,Tudor M. Dixon,385
+Ionia,City of Ionia 1,Governor,,REP,Tudor M. Dixon,246
+Ionia,City of Ionia 2,Governor,,REP,Tudor M. Dixon,231
+Ionia,City of Ionia 3,Governor,,REP,Tudor M. Dixon,236
+Ionia,City of Ionia 4,Governor,,REP,Tudor M. Dixon,246
+Ionia,Township of Ionia 1,Governor,,REP,Tudor M. Dixon,851
+Ionia,Township of Keene 1,Governor,,REP,Tudor M. Dixon,659
+Ionia,Township of Lyons 1,Governor,,REP,Tudor M. Dixon,460
+Ionia,Township of Lyons 2,Governor,,REP,Tudor M. Dixon,523
+Ionia,Township of North Plains 1,Governor,,REP,Tudor M. Dixon,286
+Ionia,Township of Odessa 1,Governor,,REP,Tudor M. Dixon,471
+Ionia,Township of Odessa 2,Governor,,REP,Tudor M. Dixon,638
+Ionia,Township of Orange 1,Governor,,REP,Tudor M. Dixon,351
+Ionia,Township of Orleans 1,Governor,,REP,Tudor M. Dixon,681
+Ionia,Township of Otisco 1,Governor,,REP,Tudor M. Dixon,726
+Ionia,City of Portland 1,Governor,,REP,Tudor M. Dixon,865
+Ionia,Township of Portland 1,Governor,,REP,Tudor M. Dixon,542
+Ionia,Township of Portland 2,Governor,,REP,Tudor M. Dixon,614
+Ionia,Township of Ronald 1,Governor,,REP,Tudor M. Dixon,509
+Ionia,Township of Sebewa 1,Governor,,REP,Tudor M. Dixon,427
+Ionia,City of Belding 1,Governor,,LIB,Mary Buzuma,14
+Ionia,City of Belding 2,Governor,,LIB,Mary Buzuma,8
+Ionia,City of Belding 3,Governor,,LIB,Mary Buzuma,7
+Ionia,Township of Berlin 1,Governor,,LIB,Mary Buzuma,16
+Ionia,Township of Boston 1,Governor,,LIB,Mary Buzuma,9
+Ionia,Township of Boston 2,Governor,,LIB,Mary Buzuma,13
+Ionia,Township of Boston 3,Governor,,LIB,Mary Buzuma,11
+Ionia,Township of Campbell 1,Governor,,LIB,Mary Buzuma,10
+Ionia,Township of Danby 1,Governor,,LIB,Mary Buzuma,20
+Ionia,Township of Easton 1,Governor,,LIB,Mary Buzuma,7
+Ionia,Township of Easton 2,Governor,,LIB,Mary Buzuma,7
+Ionia,City of Ionia 1,Governor,,LIB,Mary Buzuma,10
+Ionia,City of Ionia 2,Governor,,LIB,Mary Buzuma,3
+Ionia,City of Ionia 3,Governor,,LIB,Mary Buzuma,10
+Ionia,City of Ionia 4,Governor,,LIB,Mary Buzuma,8
+Ionia,Township of Ionia 1,Governor,,LIB,Mary Buzuma,14
+Ionia,Township of Keene 1,Governor,,LIB,Mary Buzuma,6
+Ionia,Township of Lyons 1,Governor,,LIB,Mary Buzuma,11
+Ionia,Township of Lyons 2,Governor,,LIB,Mary Buzuma,4
+Ionia,Township of North Plains 1,Governor,,LIB,Mary Buzuma,2
+Ionia,Township of Odessa 1,Governor,,LIB,Mary Buzuma,11
+Ionia,Township of Odessa 2,Governor,,LIB,Mary Buzuma,14
+Ionia,Township of Orange 1,Governor,,LIB,Mary Buzuma,5
+Ionia,Township of Orleans 1,Governor,,LIB,Mary Buzuma,13
+Ionia,Township of Otisco 1,Governor,,LIB,Mary Buzuma,16
+Ionia,City of Portland 1,Governor,,LIB,Mary Buzuma,33
+Ionia,Township of Portland 1,Governor,,LIB,Mary Buzuma,8
+Ionia,Township of Portland 2,Governor,,LIB,Mary Buzuma,12
+Ionia,Township of Ronald 1,Governor,,LIB,Mary Buzuma,7
+Ionia,Township of Sebewa 1,Governor,,LIB,Mary Buzuma,5
+Ionia,City of Belding 1,Governor,,UST,Donna Brandenburg,1
+Ionia,City of Belding 2,Governor,,UST,Donna Brandenburg,8
+Ionia,City of Belding 3,Governor,,UST,Donna Brandenburg,6
+Ionia,Township of Berlin 1,Governor,,UST,Donna Brandenburg,5
+Ionia,Township of Boston 1,Governor,,UST,Donna Brandenburg,3
+Ionia,Township of Boston 2,Governor,,UST,Donna Brandenburg,1
+Ionia,Township of Boston 3,Governor,,UST,Donna Brandenburg,5
+Ionia,Township of Campbell 1,Governor,,UST,Donna Brandenburg,5
+Ionia,Township of Danby 1,Governor,,UST,Donna Brandenburg,11
+Ionia,Township of Easton 1,Governor,,UST,Donna Brandenburg,3
+Ionia,Township of Easton 2,Governor,,UST,Donna Brandenburg,7
+Ionia,City of Ionia 1,Governor,,UST,Donna Brandenburg,0
+Ionia,City of Ionia 2,Governor,,UST,Donna Brandenburg,5
+Ionia,City of Ionia 3,Governor,,UST,Donna Brandenburg,5
+Ionia,City of Ionia 4,Governor,,UST,Donna Brandenburg,2
+Ionia,Township of Ionia 1,Governor,,UST,Donna Brandenburg,11
+Ionia,Township of Keene 1,Governor,,UST,Donna Brandenburg,0
+Ionia,Township of Lyons 1,Governor,,UST,Donna Brandenburg,8
+Ionia,Township of Lyons 2,Governor,,UST,Donna Brandenburg,2
+Ionia,Township of North Plains 1,Governor,,UST,Donna Brandenburg,0
+Ionia,Township of Odessa 1,Governor,,UST,Donna Brandenburg,1
+Ionia,Township of Odessa 2,Governor,,UST,Donna Brandenburg,0
+Ionia,Township of Orange 1,Governor,,UST,Donna Brandenburg,4
+Ionia,Township of Orleans 1,Governor,,UST,Donna Brandenburg,11
+Ionia,Township of Otisco 1,Governor,,UST,Donna Brandenburg,5
+Ionia,City of Portland 1,Governor,,UST,Donna Brandenburg,2
+Ionia,Township of Portland 1,Governor,,UST,Donna Brandenburg,8
+Ionia,Township of Portland 2,Governor,,UST,Donna Brandenburg,2
+Ionia,Township of Ronald 1,Governor,,UST,Donna Brandenburg,5
+Ionia,Township of Sebewa 1,Governor,,UST,Donna Brandenburg,2
+Ionia,City of Belding 1,Governor,,GRN,Kevin Hogan,5
+Ionia,City of Belding 2,Governor,,GRN,Kevin Hogan,2
+Ionia,City of Belding 3,Governor,,GRN,Kevin Hogan,1
+Ionia,Township of Berlin 1,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Boston 1,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Boston 2,Governor,,GRN,Kevin Hogan,0
+Ionia,Township of Boston 3,Governor,,GRN,Kevin Hogan,0
+Ionia,Township of Campbell 1,Governor,,GRN,Kevin Hogan,1
+Ionia,Township of Danby 1,Governor,,GRN,Kevin Hogan,7
+Ionia,Township of Easton 1,Governor,,GRN,Kevin Hogan,0
+Ionia,Township of Easton 2,Governor,,GRN,Kevin Hogan,3
+Ionia,City of Ionia 1,Governor,,GRN,Kevin Hogan,3
+Ionia,City of Ionia 2,Governor,,GRN,Kevin Hogan,0
+Ionia,City of Ionia 3,Governor,,GRN,Kevin Hogan,1
+Ionia,City of Ionia 4,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Ionia 1,Governor,,GRN,Kevin Hogan,5
+Ionia,Township of Keene 1,Governor,,GRN,Kevin Hogan,0
+Ionia,Township of Lyons 1,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Lyons 2,Governor,,GRN,Kevin Hogan,2
+Ionia,Township of North Plains 1,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Odessa 1,Governor,,GRN,Kevin Hogan,7
+Ionia,Township of Odessa 2,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Orange 1,Governor,,GRN,Kevin Hogan,2
+Ionia,Township of Orleans 1,Governor,,GRN,Kevin Hogan,7
+Ionia,Township of Otisco 1,Governor,,GRN,Kevin Hogan,7
+Ionia,City of Portland 1,Governor,,GRN,Kevin Hogan,6
+Ionia,Township of Portland 1,Governor,,GRN,Kevin Hogan,3
+Ionia,Township of Portland 2,Governor,,GRN,Kevin Hogan,4
+Ionia,Township of Ronald 1,Governor,,GRN,Kevin Hogan,1
+Ionia,Township of Sebewa 1,Governor,,GRN,Kevin Hogan,0
+Ionia,City of Belding 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,City of Belding 2,Governor,,NLP,Daryl M. Simpson,0
+Ionia,City of Belding 3,Governor,,NLP,Daryl M. Simpson,0
+Ionia,Township of Berlin 1,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Boston 1,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Boston 2,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Boston 3,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Campbell 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Danby 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Easton 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Easton 2,Governor,,NLP,Daryl M. Simpson,5
+Ionia,City of Ionia 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,City of Ionia 2,Governor,,NLP,Daryl M. Simpson,0
+Ionia,City of Ionia 3,Governor,,NLP,Daryl M. Simpson,2
+Ionia,City of Ionia 4,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Ionia 1,Governor,,NLP,Daryl M. Simpson,5
+Ionia,Township of Keene 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Lyons 1,Governor,,NLP,Daryl M. Simpson,3
+Ionia,Township of Lyons 2,Governor,,NLP,Daryl M. Simpson,0
+Ionia,Township of North Plains 1,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Odessa 1,Governor,,NLP,Daryl M. Simpson,3
+Ionia,Township of Odessa 2,Governor,,NLP,Daryl M. Simpson,3
+Ionia,Township of Orange 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Orleans 1,Governor,,NLP,Daryl M. Simpson,2
+Ionia,Township of Otisco 1,Governor,,NLP,Daryl M. Simpson,2
+Ionia,City of Portland 1,Governor,,NLP,Daryl M. Simpson,3
+Ionia,Township of Portland 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Portland 2,Governor,,NLP,Daryl M. Simpson,0
+Ionia,Township of Ronald 1,Governor,,NLP,Daryl M. Simpson,1
+Ionia,Township of Sebewa 1,Governor,,NLP,Daryl M. Simpson,0
+Ionia,City of Belding 1,Governor,,,Evan S. Space,0
+Ionia,City of Belding 2,Governor,,,Evan S. Space,0
+Ionia,City of Belding 3,Governor,,,Evan S. Space,0
+Ionia,Township of Berlin 1,Governor,,,Evan S. Space,0
+Ionia,Township of Boston 1,Governor,,,Evan S. Space,0
+Ionia,Township of Boston 2,Governor,,,Evan S. Space,0
+Ionia,Township of Boston 3,Governor,,,Evan S. Space,0
+Ionia,Township of Campbell 1,Governor,,,Evan S. Space,2
+Ionia,Township of Danby 1,Governor,,,Evan S. Space,0
+Ionia,Township of Easton 1,Governor,,,Evan S. Space,0
+Ionia,Township of Easton 2,Governor,,,Evan S. Space,0
+Ionia,City of Ionia 1,Governor,,,Evan S. Space,0
+Ionia,City of Ionia 2,Governor,,,Evan S. Space,0
+Ionia,City of Ionia 3,Governor,,,Evan S. Space,0
+Ionia,City of Ionia 4,Governor,,,Evan S. Space,0
+Ionia,Township of Ionia 1,Governor,,,Evan S. Space,0
+Ionia,Township of Keene 1,Governor,,,Evan S. Space,0
+Ionia,Township of Lyons 1,Governor,,,Evan S. Space,0
+Ionia,Township of Lyons 2,Governor,,,Evan S. Space,0
+Ionia,Township of North Plains 1,Governor,,,Evan S. Space,0
+Ionia,Township of Odessa 1,Governor,,,Evan S. Space,0
+Ionia,Township of Odessa 2,Governor,,,Evan S. Space,0
+Ionia,Township of Orange 1,Governor,,,Evan S. Space,0
+Ionia,Township of Orleans 1,Governor,,,Evan S. Space,0
+Ionia,Township of Otisco 1,Governor,,,Evan S. Space,0
+Ionia,City of Portland 1,Governor,,,Evan S. Space,0
+Ionia,Township of Portland 1,Governor,,,Evan S. Space,0
+Ionia,Township of Portland 2,Governor,,,Evan S. Space,0
+Ionia,Township of Ronald 1,Governor,,,Evan S. Space,0
+Ionia,Township of Sebewa 1,Governor,,,Evan S. Space,0
+Ionia,City of Belding 1,Governor,,,Under Votes,6
+Ionia,City of Belding 2,Governor,,,Under Votes,5
+Ionia,City of Belding 3,Governor,,,Under Votes,4
+Ionia,Township of Berlin 1,Governor,,,Under Votes,10
+Ionia,Township of Boston 1,Governor,,,Under Votes,6
+Ionia,Township of Boston 2,Governor,,,Under Votes,6
+Ionia,Township of Boston 3,Governor,,,Under Votes,5
+Ionia,Township of Campbell 1,Governor,,,Under Votes,8
+Ionia,Township of Danby 1,Governor,,,Under Votes,9
+Ionia,Township of Easton 1,Governor,,,Under Votes,9
+Ionia,Township of Easton 2,Governor,,,Under Votes,4
+Ionia,City of Ionia 1,Governor,,,Under Votes,5
+Ionia,City of Ionia 2,Governor,,,Under Votes,4
+Ionia,City of Ionia 3,Governor,,,Under Votes,10
+Ionia,City of Ionia 4,Governor,,,Under Votes,2
+Ionia,Township of Ionia 1,Governor,,,Under Votes,18
+Ionia,Township of Keene 1,Governor,,,Under Votes,6
+Ionia,Township of Lyons 1,Governor,,,Under Votes,10
+Ionia,Township of Lyons 2,Governor,,,Under Votes,7
+Ionia,Township of North Plains 1,Governor,,,Under Votes,2
+Ionia,Township of Odessa 1,Governor,,,Under Votes,8
+Ionia,Township of Odessa 2,Governor,,,Under Votes,4
+Ionia,Township of Orange 1,Governor,,,Under Votes,1
+Ionia,Township of Orleans 1,Governor,,,Under Votes,11
+Ionia,Township of Otisco 1,Governor,,,Under Votes,9
+Ionia,City of Portland 1,Governor,,,Under Votes,9
+Ionia,Township of Portland 1,Governor,,,Under Votes,2
+Ionia,Township of Portland 2,Governor,,,Under Votes,3
+Ionia,Township of Ronald 1,Governor,,,Under Votes,9
+Ionia,Township of Sebewa 1,Governor,,,Under Votes,4
+Ionia,City of Belding 1,Governor,,,Over Votes,1
+Ionia,City of Belding 2,Governor,,,Over Votes,0
+Ionia,City of Belding 3,Governor,,,Over Votes,0
+Ionia,Township of Berlin 1,Governor,,,Over Votes,0
+Ionia,Township of Boston 1,Governor,,,Over Votes,1
+Ionia,Township of Boston 2,Governor,,,Over Votes,1
+Ionia,Township of Boston 3,Governor,,,Over Votes,0
+Ionia,Township of Campbell 1,Governor,,,Over Votes,0
+Ionia,Township of Danby 1,Governor,,,Over Votes,0
+Ionia,Township of Easton 1,Governor,,,Over Votes,0
+Ionia,Township of Easton 2,Governor,,,Over Votes,2
+Ionia,City of Ionia 1,Governor,,,Over Votes,2
+Ionia,City of Ionia 2,Governor,,,Over Votes,0
+Ionia,City of Ionia 3,Governor,,,Over Votes,0
+Ionia,City of Ionia 4,Governor,,,Over Votes,0
+Ionia,Township of Ionia 1,Governor,,,Over Votes,2
+Ionia,Township of Keene 1,Governor,,,Over Votes,1
+Ionia,Township of Lyons 1,Governor,,,Over Votes,1
+Ionia,Township of Lyons 2,Governor,,,Over Votes,0
+Ionia,Township of North Plains 1,Governor,,,Over Votes,2
+Ionia,Township of Odessa 1,Governor,,,Over Votes,1
+Ionia,Township of Odessa 2,Governor,,,Over Votes,0
+Ionia,Township of Orange 1,Governor,,,Over Votes,1
+Ionia,Township of Orleans 1,Governor,,,Over Votes,1
+Ionia,Township of Otisco 1,Governor,,,Over Votes,0
+Ionia,City of Portland 1,Governor,,,Over Votes,2
+Ionia,Township of Portland 1,Governor,,,Over Votes,0
+Ionia,Township of Portland 2,Governor,,,Over Votes,1
+Ionia,Township of Ronald 1,Governor,,,Over Votes,0
+Ionia,Township of Sebewa 1,Governor,,,Over Votes,1
+Ionia,City of Belding 1,Secretary of State,,DEM,Jocelyn Benson,340
+Ionia,City of Belding 2,Secretary of State,,DEM,Jocelyn Benson,352
+Ionia,City of Belding 3,Secretary of State,,DEM,Jocelyn Benson,273
+Ionia,Township of Berlin 1,Secretary of State,,DEM,Jocelyn Benson,492
+Ionia,Township of Boston 1,Secretary of State,,DEM,Jocelyn Benson,410
+Ionia,Township of Boston 2,Secretary of State,,DEM,Jocelyn Benson,425
+Ionia,Township of Boston 3,Secretary of State,,DEM,Jocelyn Benson,336
+Ionia,Township of Campbell 1,Secretary of State,,DEM,Jocelyn Benson,430
+Ionia,Township of Danby 1,Secretary of State,,DEM,Jocelyn Benson,635
+Ionia,Township of Easton 1,Secretary of State,,DEM,Jocelyn Benson,282
+Ionia,Township of Easton 2,Secretary of State,,DEM,Jocelyn Benson,315
+Ionia,City of Ionia 1,Secretary of State,,DEM,Jocelyn Benson,294
+Ionia,City of Ionia 2,Secretary of State,,DEM,Jocelyn Benson,247
+Ionia,City of Ionia 3,Secretary of State,,DEM,Jocelyn Benson,307
+Ionia,City of Ionia 4,Secretary of State,,DEM,Jocelyn Benson,297
+Ionia,Township of Ionia 1,Secretary of State,,DEM,Jocelyn Benson,695
+Ionia,Township of Keene 1,Secretary of State,,DEM,Jocelyn Benson,342
+Ionia,Township of Lyons 1,Secretary of State,,DEM,Jocelyn Benson,388
+Ionia,Township of Lyons 2,Secretary of State,,DEM,Jocelyn Benson,202
+Ionia,Township of North Plains 1,Secretary of State,,DEM,Jocelyn Benson,209
+Ionia,Township of Odessa 1,Secretary of State,,DEM,Jocelyn Benson,399
+Ionia,Township of Odessa 2,Secretary of State,,DEM,Jocelyn Benson,346
+Ionia,Township of Orange 1,Secretary of State,,DEM,Jocelyn Benson,198
+Ionia,Township of Orleans 1,Secretary of State,,DEM,Jocelyn Benson,418
+Ionia,Township of Otisco 1,Secretary of State,,DEM,Jocelyn Benson,426
+Ionia,City of Portland 1,Secretary of State,,DEM,Jocelyn Benson,1010
+Ionia,Township of Portland 1,Secretary of State,,DEM,Jocelyn Benson,421
+Ionia,Township of Portland 2,Secretary of State,,DEM,Jocelyn Benson,415
+Ionia,Township of Ronald 1,Secretary of State,,DEM,Jocelyn Benson,276
+Ionia,Township of Sebewa 1,Secretary of State,,DEM,Jocelyn Benson,183
+Ionia,City of Belding 1,Secretary of State,,REP,Kristina Elaine Karamo,398
+Ionia,City of Belding 2,Secretary of State,,REP,Kristina Elaine Karamo,311
+Ionia,City of Belding 3,Secretary of State,,REP,Kristina Elaine Karamo,261
+Ionia,Township of Berlin 1,Secretary of State,,REP,Kristina Elaine Karamo,610
+Ionia,Township of Boston 1,Secretary of State,,REP,Kristina Elaine Karamo,537
+Ionia,Township of Boston 2,Secretary of State,,REP,Kristina Elaine Karamo,722
+Ionia,Township of Boston 3,Secretary of State,,REP,Kristina Elaine Karamo,501
+Ionia,Township of Campbell 1,Secretary of State,,REP,Kristina Elaine Karamo,811
+Ionia,Township of Danby 1,Secretary of State,,REP,Kristina Elaine Karamo,875
+Ionia,Township of Easton 1,Secretary of State,,REP,Kristina Elaine Karamo,410
+Ionia,Township of Easton 2,Secretary of State,,REP,Kristina Elaine Karamo,371
+Ionia,City of Ionia 1,Secretary of State,,REP,Kristina Elaine Karamo,232
+Ionia,City of Ionia 2,Secretary of State,,REP,Kristina Elaine Karamo,213
+Ionia,City of Ionia 3,Secretary of State,,REP,Kristina Elaine Karamo,223
+Ionia,City of Ionia 4,Secretary of State,,REP,Kristina Elaine Karamo,245
+Ionia,Township of Ionia 1,Secretary of State,,REP,Kristina Elaine Karamo,773
+Ionia,Township of Keene 1,Secretary of State,,REP,Kristina Elaine Karamo,599
+Ionia,Township of Lyons 1,Secretary of State,,REP,Kristina Elaine Karamo,437
+Ionia,Township of Lyons 2,Secretary of State,,REP,Kristina Elaine Karamo,500
+Ionia,Township of North Plains 1,Secretary of State,,REP,Kristina Elaine Karamo,259
+Ionia,Township of Odessa 1,Secretary of State,,REP,Kristina Elaine Karamo,445
+Ionia,Township of Odessa 2,Secretary of State,,REP,Kristina Elaine Karamo,600
+Ionia,Township of Orange 1,Secretary of State,,REP,Kristina Elaine Karamo,314
+Ionia,Township of Orleans 1,Secretary of State,,REP,Kristina Elaine Karamo,638
+Ionia,Township of Otisco 1,Secretary of State,,REP,Kristina Elaine Karamo,699
+Ionia,City of Portland 1,Secretary of State,,REP,Kristina Elaine Karamo,818
+Ionia,Township of Portland 1,Secretary of State,,REP,Kristina Elaine Karamo,508
+Ionia,Township of Portland 2,Secretary of State,,REP,Kristina Elaine Karamo,563
+Ionia,Township of Ronald 1,Secretary of State,,REP,Kristina Elaine Karamo,475
+Ionia,Township of Sebewa 1,Secretary of State,,REP,Kristina Elaine Karamo,399
+Ionia,City of Belding 1,Secretary of State,,LIB,Gregory Scott Stempfle,17
+Ionia,City of Belding 2,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Ionia,City of Belding 3,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Ionia,Township of Berlin 1,Secretary of State,,LIB,Gregory Scott Stempfle,15
+Ionia,Township of Boston 1,Secretary of State,,LIB,Gregory Scott Stempfle,13
+Ionia,Township of Boston 2,Secretary of State,,LIB,Gregory Scott Stempfle,13
+Ionia,Township of Boston 3,Secretary of State,,LIB,Gregory Scott Stempfle,16
+Ionia,Township of Campbell 1,Secretary of State,,LIB,Gregory Scott Stempfle,17
+Ionia,Township of Danby 1,Secretary of State,,LIB,Gregory Scott Stempfle,15
+Ionia,Township of Easton 1,Secretary of State,,LIB,Gregory Scott Stempfle,8
+Ionia,Township of Easton 2,Secretary of State,,LIB,Gregory Scott Stempfle,13
+Ionia,City of Ionia 1,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Ionia,City of Ionia 2,Secretary of State,,LIB,Gregory Scott Stempfle,8
+Ionia,City of Ionia 3,Secretary of State,,LIB,Gregory Scott Stempfle,11
+Ionia,City of Ionia 4,Secretary of State,,LIB,Gregory Scott Stempfle,8
+Ionia,Township of Ionia 1,Secretary of State,,LIB,Gregory Scott Stempfle,24
+Ionia,Township of Keene 1,Secretary of State,,LIB,Gregory Scott Stempfle,12
+Ionia,Township of Lyons 1,Secretary of State,,LIB,Gregory Scott Stempfle,18
+Ionia,Township of Lyons 2,Secretary of State,,LIB,Gregory Scott Stempfle,7
+Ionia,Township of North Plains 1,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Ionia,Township of Odessa 1,Secretary of State,,LIB,Gregory Scott Stempfle,14
+Ionia,Township of Odessa 2,Secretary of State,,LIB,Gregory Scott Stempfle,18
+Ionia,Township of Orange 1,Secretary of State,,LIB,Gregory Scott Stempfle,9
+Ionia,Township of Orleans 1,Secretary of State,,LIB,Gregory Scott Stempfle,15
+Ionia,Township of Otisco 1,Secretary of State,,LIB,Gregory Scott Stempfle,15
+Ionia,City of Portland 1,Secretary of State,,LIB,Gregory Scott Stempfle,30
+Ionia,Township of Portland 1,Secretary of State,,LIB,Gregory Scott Stempfle,9
+Ionia,Township of Portland 2,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Ionia,Township of Ronald 1,Secretary of State,,LIB,Gregory Scott Stempfle,6
+Ionia,Township of Sebewa 1,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Ionia,City of Belding 1,Secretary of State,,UST,Christine C. Schwartz,7
+Ionia,City of Belding 2,Secretary of State,,UST,Christine C. Schwartz,14
+Ionia,City of Belding 3,Secretary of State,,UST,Christine C. Schwartz,8
+Ionia,Township of Berlin 1,Secretary of State,,UST,Christine C. Schwartz,13
+Ionia,Township of Boston 1,Secretary of State,,UST,Christine C. Schwartz,9
+Ionia,Township of Boston 2,Secretary of State,,UST,Christine C. Schwartz,5
+Ionia,Township of Boston 3,Secretary of State,,UST,Christine C. Schwartz,5
+Ionia,Township of Campbell 1,Secretary of State,,UST,Christine C. Schwartz,6
+Ionia,Township of Danby 1,Secretary of State,,UST,Christine C. Schwartz,10
+Ionia,Township of Easton 1,Secretary of State,,UST,Christine C. Schwartz,3
+Ionia,Township of Easton 2,Secretary of State,,UST,Christine C. Schwartz,9
+Ionia,City of Ionia 1,Secretary of State,,UST,Christine C. Schwartz,2
+Ionia,City of Ionia 2,Secretary of State,,UST,Christine C. Schwartz,8
+Ionia,City of Ionia 3,Secretary of State,,UST,Christine C. Schwartz,10
+Ionia,City of Ionia 4,Secretary of State,,UST,Christine C. Schwartz,4
+Ionia,Township of Ionia 1,Secretary of State,,UST,Christine C. Schwartz,23
+Ionia,Township of Keene 1,Secretary of State,,UST,Christine C. Schwartz,8
+Ionia,Township of Lyons 1,Secretary of State,,UST,Christine C. Schwartz,15
+Ionia,Township of Lyons 2,Secretary of State,,UST,Christine C. Schwartz,2
+Ionia,Township of North Plains 1,Secretary of State,,UST,Christine C. Schwartz,3
+Ionia,Township of Odessa 1,Secretary of State,,UST,Christine C. Schwartz,11
+Ionia,Township of Odessa 2,Secretary of State,,UST,Christine C. Schwartz,3
+Ionia,Township of Orange 1,Secretary of State,,UST,Christine C. Schwartz,4
+Ionia,Township of Orleans 1,Secretary of State,,UST,Christine C. Schwartz,18
+Ionia,Township of Otisco 1,Secretary of State,,UST,Christine C. Schwartz,9
+Ionia,City of Portland 1,Secretary of State,,UST,Christine C. Schwartz,16
+Ionia,Township of Portland 1,Secretary of State,,UST,Christine C. Schwartz,10
+Ionia,Township of Portland 2,Secretary of State,,UST,Christine C. Schwartz,4
+Ionia,Township of Ronald 1,Secretary of State,,UST,Christine C. Schwartz,15
+Ionia,Township of Sebewa 1,Secretary of State,,UST,Christine C. Schwartz,6
+Ionia,City of Belding 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Ionia,City of Belding 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Ionia,City of Belding 3,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Ionia,Township of Berlin 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,Township of Boston 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Ionia,Township of Boston 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,6
+Ionia,Township of Boston 3,Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Ionia,Township of Campbell 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,Township of Danby 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Ionia,Township of Easton 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,Township of Easton 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Ionia,City of Ionia 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,City of Ionia 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,City of Ionia 3,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Ionia,City of Ionia 4,Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Ionia,Township of Ionia 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,8
+Ionia,Township of Keene 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,Township of Lyons 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,Township of Lyons 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,Township of North Plains 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Ionia,Township of Odessa 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,Township of Odessa 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,9
+Ionia,Township of Orange 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,Township of Orleans 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Ionia,Township of Otisco 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,City of Portland 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,9
+Ionia,Township of Portland 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Ionia,Township of Portland 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Ionia,Township of Ronald 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Ionia,Township of Sebewa 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Ionia,City of Belding 1,Secretary of State,,,Under Votes,17
+Ionia,City of Belding 2,Secretary of State,,,Under Votes,12
+Ionia,City of Belding 3,Secretary of State,,,Under Votes,11
+Ionia,Township of Berlin 1,Secretary of State,,,Under Votes,19
+Ionia,Township of Boston 1,Secretary of State,,,Under Votes,17
+Ionia,Township of Boston 2,Secretary of State,,,Under Votes,23
+Ionia,Township of Boston 3,Secretary of State,,,Under Votes,11
+Ionia,Township of Campbell 1,Secretary of State,,,Under Votes,21
+Ionia,Township of Danby 1,Secretary of State,,,Under Votes,32
+Ionia,Township of Easton 1,Secretary of State,,,Under Votes,24
+Ionia,Township of Easton 2,Secretary of State,,,Under Votes,17
+Ionia,City of Ionia 1,Secretary of State,,,Under Votes,18
+Ionia,City of Ionia 2,Secretary of State,,,Under Votes,15
+Ionia,City of Ionia 3,Secretary of State,,,Under Votes,16
+Ionia,City of Ionia 4,Secretary of State,,,Under Votes,10
+Ionia,Township of Ionia 1,Secretary of State,,,Under Votes,47
+Ionia,Township of Keene 1,Secretary of State,,,Under Votes,17
+Ionia,Township of Lyons 1,Secretary of State,,,Under Votes,16
+Ionia,Township of Lyons 2,Secretary of State,,,Under Votes,8
+Ionia,Township of North Plains 1,Secretary of State,,,Under Votes,11
+Ionia,Township of Odessa 1,Secretary of State,,,Under Votes,10
+Ionia,Township of Odessa 2,Secretary of State,,,Under Votes,13
+Ionia,Township of Orange 1,Secretary of State,,,Under Votes,10
+Ionia,Township of Orleans 1,Secretary of State,,,Under Votes,18
+Ionia,Township of Otisco 1,Secretary of State,,,Under Votes,13
+Ionia,City of Portland 1,Secretary of State,,,Under Votes,37
+Ionia,Township of Portland 1,Secretary of State,,,Under Votes,18
+Ionia,Township of Portland 2,Secretary of State,,,Under Votes,28
+Ionia,Township of Ronald 1,Secretary of State,,,Under Votes,19
+Ionia,Township of Sebewa 1,Secretary of State,,,Under Votes,12
+Ionia,City of Belding 1,Secretary of State,,,Over Votes,0
+Ionia,City of Belding 2,Secretary of State,,,Over Votes,0
+Ionia,City of Belding 3,Secretary of State,,,Over Votes,0
+Ionia,Township of Berlin 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Boston 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Boston 2,Secretary of State,,,Over Votes,0
+Ionia,Township of Boston 3,Secretary of State,,,Over Votes,0
+Ionia,Township of Campbell 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Danby 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Easton 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Easton 2,Secretary of State,,,Over Votes,1
+Ionia,City of Ionia 1,Secretary of State,,,Over Votes,0
+Ionia,City of Ionia 2,Secretary of State,,,Over Votes,0
+Ionia,City of Ionia 3,Secretary of State,,,Over Votes,0
+Ionia,City of Ionia 4,Secretary of State,,,Over Votes,0
+Ionia,Township of Ionia 1,Secretary of State,,,Over Votes,2
+Ionia,Township of Keene 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Lyons 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Lyons 2,Secretary of State,,,Over Votes,0
+Ionia,Township of North Plains 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Odessa 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Odessa 2,Secretary of State,,,Over Votes,0
+Ionia,Township of Orange 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Orleans 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Otisco 1,Secretary of State,,,Over Votes,0
+Ionia,City of Portland 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Portland 1,Secretary of State,,,Over Votes,0
+Ionia,Township of Portland 2,Secretary of State,,,Over Votes,0
+Ionia,Township of Ronald 1,Secretary of State,,,Over Votes,1
+Ionia,Township of Sebewa 1,Secretary of State,,,Over Votes,0
+Ionia,City of Belding 1,Attorney General,,DEM,Dana Nessel,323
+Ionia,City of Belding 2,Attorney General,,DEM,Dana Nessel,323
+Ionia,City of Belding 3,Attorney General,,DEM,Dana Nessel,261
+Ionia,Township of Berlin 1,Attorney General,,DEM,Dana Nessel,443
+Ionia,Township of Boston 1,Attorney General,,DEM,Dana Nessel,356
+Ionia,Township of Boston 2,Attorney General,,DEM,Dana Nessel,377
+Ionia,Township of Boston 3,Attorney General,,DEM,Dana Nessel,313
+Ionia,Township of Campbell 1,Attorney General,,DEM,Dana Nessel,389
+Ionia,Township of Danby 1,Attorney General,,DEM,Dana Nessel,571
+Ionia,Township of Easton 1,Attorney General,,DEM,Dana Nessel,242
+Ionia,Township of Easton 2,Attorney General,,DEM,Dana Nessel,288
+Ionia,City of Ionia 1,Attorney General,,DEM,Dana Nessel,267
+Ionia,City of Ionia 2,Attorney General,,DEM,Dana Nessel,231
+Ionia,City of Ionia 3,Attorney General,,DEM,Dana Nessel,285
+Ionia,City of Ionia 4,Attorney General,,DEM,Dana Nessel,288
+Ionia,Township of Ionia 1,Attorney General,,DEM,Dana Nessel,618
+Ionia,Township of Keene 1,Attorney General,,DEM,Dana Nessel,314
+Ionia,Township of Lyons 1,Attorney General,,DEM,Dana Nessel,371
+Ionia,Township of Lyons 2,Attorney General,,DEM,Dana Nessel,182
+Ionia,Township of North Plains 1,Attorney General,,DEM,Dana Nessel,187
+Ionia,Township of Odessa 1,Attorney General,,DEM,Dana Nessel,361
+Ionia,Township of Odessa 2,Attorney General,,DEM,Dana Nessel,325
+Ionia,Township of Orange 1,Attorney General,,DEM,Dana Nessel,176
+Ionia,Township of Orleans 1,Attorney General,,DEM,Dana Nessel,381
+Ionia,Township of Otisco 1,Attorney General,,DEM,Dana Nessel,391
+Ionia,City of Portland 1,Attorney General,,DEM,Dana Nessel,941
+Ionia,Township of Portland 1,Attorney General,,DEM,Dana Nessel,401
+Ionia,Township of Portland 2,Attorney General,,DEM,Dana Nessel,373
+Ionia,Township of Ronald 1,Attorney General,,DEM,Dana Nessel,253
+Ionia,Township of Sebewa 1,Attorney General,,DEM,Dana Nessel,156
+Ionia,City of Belding 1,Attorney General,,REP,Matthew DePerno,407
+Ionia,City of Belding 2,Attorney General,,REP,Matthew DePerno,331
+Ionia,City of Belding 3,Attorney General,,REP,Matthew DePerno,272
+Ionia,Township of Berlin 1,Attorney General,,REP,Matthew DePerno,644
+Ionia,Township of Boston 1,Attorney General,,REP,Matthew DePerno,590
+Ionia,Township of Boston 2,Attorney General,,REP,Matthew DePerno,762
+Ionia,Township of Boston 3,Attorney General,,REP,Matthew DePerno,514
+Ionia,Township of Campbell 1,Attorney General,,REP,Matthew DePerno,838
+Ionia,Township of Danby 1,Attorney General,,REP,Matthew DePerno,928
+Ionia,Township of Easton 1,Attorney General,,REP,Matthew DePerno,438
+Ionia,Township of Easton 2,Attorney General,,REP,Matthew DePerno,379
+Ionia,City of Ionia 1,Attorney General,,REP,Matthew DePerno,242
+Ionia,City of Ionia 2,Attorney General,,REP,Matthew DePerno,224
+Ionia,City of Ionia 3,Attorney General,,REP,Matthew DePerno,235
+Ionia,City of Ionia 4,Attorney General,,REP,Matthew DePerno,249
+Ionia,Township of Ionia 1,Attorney General,,REP,Matthew DePerno,821
+Ionia,Township of Keene 1,Attorney General,,REP,Matthew DePerno,613
+Ionia,Township of Lyons 1,Attorney General,,REP,Matthew DePerno,448
+Ionia,Township of Lyons 2,Attorney General,,REP,Matthew DePerno,519
+Ionia,Township of North Plains 1,Attorney General,,REP,Matthew DePerno,277
+Ionia,Township of Odessa 1,Attorney General,,REP,Matthew DePerno,466
+Ionia,Township of Odessa 2,Attorney General,,REP,Matthew DePerno,616
+Ionia,Township of Orange 1,Attorney General,,REP,Matthew DePerno,341
+Ionia,Township of Orleans 1,Attorney General,,REP,Matthew DePerno,675
+Ionia,Township of Otisco 1,Attorney General,,REP,Matthew DePerno,706
+Ionia,City of Portland 1,Attorney General,,REP,Matthew DePerno,865
+Ionia,Township of Portland 1,Attorney General,,REP,Matthew DePerno,523
+Ionia,Township of Portland 2,Attorney General,,REP,Matthew DePerno,591
+Ionia,Township of Ronald 1,Attorney General,,REP,Matthew DePerno,490
+Ionia,Township of Sebewa 1,Attorney General,,REP,Matthew DePerno,413
+Ionia,City of Belding 1,Attorney General,,LIB,Joseph W. McHugh Jr.,19
+Ionia,City of Belding 2,Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Ionia,City of Belding 3,Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Ionia,Township of Berlin 1,Attorney General,,LIB,Joseph W. McHugh Jr.,22
+Ionia,Township of Boston 1,Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Ionia,Township of Boston 2,Attorney General,,LIB,Joseph W. McHugh Jr.,22
+Ionia,Township of Boston 3,Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Ionia,Township of Campbell 1,Attorney General,,LIB,Joseph W. McHugh Jr.,26
+Ionia,Township of Danby 1,Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Ionia,Township of Easton 1,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Ionia,Township of Easton 2,Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Ionia,City of Ionia 1,Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Ionia,City of Ionia 2,Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Ionia,City of Ionia 3,Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Ionia,City of Ionia 4,Attorney General,,LIB,Joseph W. McHugh Jr.,11
+Ionia,Township of Ionia 1,Attorney General,,LIB,Joseph W. McHugh Jr.,29
+Ionia,Township of Keene 1,Attorney General,,LIB,Joseph W. McHugh Jr.,15
+Ionia,Township of Lyons 1,Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Ionia,Township of Lyons 2,Attorney General,,LIB,Joseph W. McHugh Jr.,6
+Ionia,Township of North Plains 1,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Ionia,Township of Odessa 1,Attorney General,,LIB,Joseph W. McHugh Jr.,18
+Ionia,Township of Odessa 2,Attorney General,,LIB,Joseph W. McHugh Jr.,25
+Ionia,Township of Orange 1,Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Ionia,Township of Orleans 1,Attorney General,,LIB,Joseph W. McHugh Jr.,25
+Ionia,Township of Otisco 1,Attorney General,,LIB,Joseph W. McHugh Jr.,20
+Ionia,City of Portland 1,Attorney General,,LIB,Joseph W. McHugh Jr.,44
+Ionia,Township of Portland 1,Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Ionia,Township of Portland 2,Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Ionia,Township of Ronald 1,Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Ionia,Township of Sebewa 1,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Ionia,City of Belding 1,Attorney General,,UST,Gerald T. Van Sickle,9
+Ionia,City of Belding 2,Attorney General,,UST,Gerald T. Van Sickle,19
+Ionia,City of Belding 3,Attorney General,,UST,Gerald T. Van Sickle,9
+Ionia,Township of Berlin 1,Attorney General,,UST,Gerald T. Van Sickle,12
+Ionia,Township of Boston 1,Attorney General,,UST,Gerald T. Van Sickle,6
+Ionia,Township of Boston 2,Attorney General,,UST,Gerald T. Van Sickle,6
+Ionia,Township of Boston 3,Attorney General,,UST,Gerald T. Van Sickle,10
+Ionia,Township of Campbell 1,Attorney General,,UST,Gerald T. Van Sickle,8
+Ionia,Township of Danby 1,Attorney General,,UST,Gerald T. Van Sickle,17
+Ionia,Township of Easton 1,Attorney General,,UST,Gerald T. Van Sickle,5
+Ionia,Township of Easton 2,Attorney General,,UST,Gerald T. Van Sickle,17
+Ionia,City of Ionia 1,Attorney General,,UST,Gerald T. Van Sickle,9
+Ionia,City of Ionia 2,Attorney General,,UST,Gerald T. Van Sickle,11
+Ionia,City of Ionia 3,Attorney General,,UST,Gerald T. Van Sickle,13
+Ionia,City of Ionia 4,Attorney General,,UST,Gerald T. Van Sickle,7
+Ionia,Township of Ionia 1,Attorney General,,UST,Gerald T. Van Sickle,32
+Ionia,Township of Keene 1,Attorney General,,UST,Gerald T. Van Sickle,8
+Ionia,Township of Lyons 1,Attorney General,,UST,Gerald T. Van Sickle,17
+Ionia,Township of Lyons 2,Attorney General,,UST,Gerald T. Van Sickle,3
+Ionia,Township of North Plains 1,Attorney General,,UST,Gerald T. Van Sickle,5
+Ionia,Township of Odessa 1,Attorney General,,UST,Gerald T. Van Sickle,14
+Ionia,Township of Odessa 2,Attorney General,,UST,Gerald T. Van Sickle,7
+Ionia,Township of Orange 1,Attorney General,,UST,Gerald T. Van Sickle,3
+Ionia,Township of Orleans 1,Attorney General,,UST,Gerald T. Van Sickle,11
+Ionia,Township of Otisco 1,Attorney General,,UST,Gerald T. Van Sickle,17
+Ionia,City of Portland 1,Attorney General,,UST,Gerald T. Van Sickle,14
+Ionia,Township of Portland 1,Attorney General,,UST,Gerald T. Van Sickle,5
+Ionia,Township of Portland 2,Attorney General,,UST,Gerald T. Van Sickle,10
+Ionia,Township of Ronald 1,Attorney General,,UST,Gerald T. Van Sickle,12
+Ionia,Township of Sebewa 1,Attorney General,,UST,Gerald T. Van Sickle,7
+Ionia,City of Belding 1,Attorney General,,,Under Votes,28
+Ionia,City of Belding 2,Attorney General,,,Under Votes,16
+Ionia,City of Belding 3,Attorney General,,,Under Votes,14
+Ionia,Township of Berlin 1,Attorney General,,,Under Votes,31
+Ionia,Township of Boston 1,Attorney General,,,Under Votes,17
+Ionia,Township of Boston 2,Attorney General,,,Under Votes,27
+Ionia,Township of Boston 3,Attorney General,,,Under Votes,16
+Ionia,Township of Campbell 1,Attorney General,,,Under Votes,28
+Ionia,Township of Danby 1,Attorney General,,,Under Votes,35
+Ionia,Township of Easton 1,Attorney General,,,Under Votes,40
+Ionia,Township of Easton 2,Attorney General,,,Under Votes,22
+Ionia,City of Ionia 1,Attorney General,,,Under Votes,26
+Ionia,City of Ionia 2,Attorney General,,,Under Votes,22
+Ionia,City of Ionia 3,Attorney General,,,Under Votes,24
+Ionia,City of Ionia 4,Attorney General,,,Under Votes,14
+Ionia,Township of Ionia 1,Attorney General,,,Under Votes,70
+Ionia,Township of Keene 1,Attorney General,,,Under Votes,31
+Ionia,Township of Lyons 1,Attorney General,,,Under Votes,22
+Ionia,Township of Lyons 2,Attorney General,,,Under Votes,11
+Ionia,Township of North Plains 1,Attorney General,,,Under Votes,15
+Ionia,Township of Odessa 1,Attorney General,,,Under Votes,23
+Ionia,Township of Odessa 2,Attorney General,,,Under Votes,16
+Ionia,Township of Orange 1,Attorney General,,,Under Votes,11
+Ionia,Township of Orleans 1,Attorney General,,,Under Votes,22
+Ionia,Township of Otisco 1,Attorney General,,,Under Votes,30
+Ionia,City of Portland 1,Attorney General,,,Under Votes,57
+Ionia,Township of Portland 1,Attorney General,,,Under Votes,22
+Ionia,Township of Portland 2,Attorney General,,,Under Votes,33
+Ionia,Township of Ronald 1,Attorney General,,,Under Votes,24
+Ionia,Township of Sebewa 1,Attorney General,,,Under Votes,22
+Ionia,City of Belding 1,Attorney General,,,Over Votes,0
+Ionia,City of Belding 2,Attorney General,,,Over Votes,1
+Ionia,City of Belding 3,Attorney General,,,Over Votes,0
+Ionia,Township of Berlin 1,Attorney General,,,Over Votes,1
+Ionia,Township of Boston 1,Attorney General,,,Over Votes,0
+Ionia,Township of Boston 2,Attorney General,,,Over Votes,0
+Ionia,Township of Boston 3,Attorney General,,,Over Votes,0
+Ionia,Township of Campbell 1,Attorney General,,,Over Votes,0
+Ionia,Township of Danby 1,Attorney General,,,Over Votes,0
+Ionia,Township of Easton 1,Attorney General,,,Over Votes,0
+Ionia,Township of Easton 2,Attorney General,,,Over Votes,1
+Ionia,City of Ionia 1,Attorney General,,,Over Votes,0
+Ionia,City of Ionia 2,Attorney General,,,Over Votes,0
+Ionia,City of Ionia 3,Attorney General,,,Over Votes,0
+Ionia,City of Ionia 4,Attorney General,,,Over Votes,0
+Ionia,Township of Ionia 1,Attorney General,,,Over Votes,2
+Ionia,Township of Keene 1,Attorney General,,,Over Votes,1
+Ionia,Township of Lyons 1,Attorney General,,,Over Votes,0
+Ionia,Township of Lyons 2,Attorney General,,,Over Votes,1
+Ionia,Township of North Plains 1,Attorney General,,,Over Votes,1
+Ionia,Township of Odessa 1,Attorney General,,,Over Votes,2
+Ionia,Township of Odessa 2,Attorney General,,,Over Votes,0
+Ionia,Township of Orange 1,Attorney General,,,Over Votes,1
+Ionia,Township of Orleans 1,Attorney General,,,Over Votes,0
+Ionia,Township of Otisco 1,Attorney General,,,Over Votes,1
+Ionia,City of Portland 1,Attorney General,,,Over Votes,0
+Ionia,Township of Portland 1,Attorney General,,,Over Votes,0
+Ionia,Township of Portland 2,Attorney General,,,Over Votes,0
+Ionia,Township of Ronald 1,Attorney General,,,Over Votes,0
+Ionia,Township of Sebewa 1,Attorney General,,,Over Votes,0
+Ionia,City of Belding 1,U.S. House,2,DEM,Jerry Hilliard,279
+Ionia,City of Belding 2,U.S. House,2,DEM,Jerry Hilliard,297
+Ionia,City of Belding 3,U.S. House,2,DEM,Jerry Hilliard,219
+Ionia,Township of Berlin 1,U.S. House,2,DEM,Jerry Hilliard,361
+Ionia,Township of Boston 1,U.S. House,2,DEM,Jerry Hilliard,313
+Ionia,Township of Boston 2,U.S. House,2,DEM,Jerry Hilliard,305
+Ionia,Township of Boston 3,U.S. House,2,DEM,Jerry Hilliard,267
+Ionia,Township of Campbell 1,U.S. House,2,DEM,Jerry Hilliard,329
+Ionia,Township of Danby 1,U.S. House,2,DEM,Jerry Hilliard,499
+Ionia,Township of Easton 1,U.S. House,2,DEM,Jerry Hilliard,200
+Ionia,Township of Easton 2,U.S. House,2,DEM,Jerry Hilliard,255
+Ionia,City of Ionia 1,U.S. House,2,DEM,Jerry Hilliard,257
+Ionia,City of Ionia 2,U.S. House,2,DEM,Jerry Hilliard,197
+Ionia,City of Ionia 3,U.S. House,2,DEM,Jerry Hilliard,248
+Ionia,City of Ionia 4,U.S. House,2,DEM,Jerry Hilliard,252
+Ionia,Township of Ionia 1,U.S. House,2,DEM,Jerry Hilliard,511
+Ionia,Township of Keene 1,U.S. House,2,DEM,Jerry Hilliard,252
+Ionia,Township of Lyons 1,U.S. House,2,DEM,Jerry Hilliard,312
+Ionia,Township of Lyons 2,U.S. House,2,DEM,Jerry Hilliard,141
+Ionia,Township of North Plains 1,U.S. House,2,DEM,Jerry Hilliard,147
+Ionia,Township of Odessa 1,U.S. House,2,DEM,Jerry Hilliard,332
+Ionia,Township of Odessa 2,U.S. House,2,DEM,Jerry Hilliard,265
+Ionia,Township of Orange 1,U.S. House,2,DEM,Jerry Hilliard,131
+Ionia,Township of Orleans 1,U.S. House,2,DEM,Jerry Hilliard,316
+Ionia,Township of Otisco 1,U.S. House,2,DEM,Jerry Hilliard,328
+Ionia,City of Portland 1,U.S. House,2,DEM,Jerry Hilliard,840
+Ionia,Township of Portland 1,U.S. House,2,DEM,Jerry Hilliard,333
+Ionia,Township of Portland 2,U.S. House,2,DEM,Jerry Hilliard,327
+Ionia,Township of Ronald 1,U.S. House,2,DEM,Jerry Hilliard,206
+Ionia,Township of Sebewa 1,U.S. House,2,DEM,Jerry Hilliard,136
+Ionia,City of Belding 1,U.S. House,2,REP,John Moolenaar,443
+Ionia,City of Belding 2,U.S. House,2,REP,John Moolenaar,357
+Ionia,City of Belding 3,U.S. House,2,REP,John Moolenaar,313
+Ionia,Township of Berlin 1,U.S. House,2,REP,John Moolenaar,719
+Ionia,Township of Boston 1,U.S. House,2,REP,John Moolenaar,626
+Ionia,Township of Boston 2,U.S. House,2,REP,John Moolenaar,821
+Ionia,Township of Boston 3,U.S. House,2,REP,John Moolenaar,551
+Ionia,Township of Campbell 1,U.S. House,2,REP,John Moolenaar,888
+Ionia,Township of Danby 1,U.S. House,2,REP,John Moolenaar,985
+Ionia,Township of Easton 1,U.S. House,2,REP,John Moolenaar,463
+Ionia,Township of Easton 2,U.S. House,2,REP,John Moolenaar,416
+Ionia,City of Ionia 1,U.S. House,2,REP,John Moolenaar,257
+Ionia,City of Ionia 2,U.S. House,2,REP,John Moolenaar,245
+Ionia,City of Ionia 3,U.S. House,2,REP,John Moolenaar,262
+Ionia,City of Ionia 4,U.S. House,2,REP,John Moolenaar,281
+Ionia,Township of Ionia 1,U.S. House,2,REP,John Moolenaar,916
+Ionia,Township of Keene 1,U.S. House,2,REP,John Moolenaar,670
+Ionia,Township of Lyons 1,U.S. House,2,REP,John Moolenaar,493
+Ionia,Township of Lyons 2,U.S. House,2,REP,John Moolenaar,546
+Ionia,Township of North Plains 1,U.S. House,2,REP,John Moolenaar,310
+Ionia,Township of Odessa 1,U.S. House,2,REP,John Moolenaar,492
+Ionia,Township of Odessa 2,U.S. House,2,REP,John Moolenaar,670
+Ionia,Township of Orange 1,U.S. House,2,REP,John Moolenaar,367
+Ionia,Township of Orleans 1,U.S. House,2,REP,John Moolenaar,728
+Ionia,Township of Otisco 1,U.S. House,2,REP,John Moolenaar,767
+Ionia,City of Portland 1,U.S. House,2,REP,John Moolenaar,917
+Ionia,Township of Portland 1,U.S. House,2,REP,John Moolenaar,578
+Ionia,Township of Portland 2,U.S. House,2,REP,John Moolenaar,630
+Ionia,Township of Ronald 1,U.S. House,2,REP,John Moolenaar,535
+Ionia,Township of Sebewa 1,U.S. House,2,REP,John Moolenaar,434
+Ionia,City of Belding 1,U.S. House,2,LIB,Nathan Hewer,24
+Ionia,City of Belding 2,U.S. House,2,LIB,Nathan Hewer,20
+Ionia,City of Belding 3,U.S. House,2,LIB,Nathan Hewer,10
+Ionia,Township of Berlin 1,U.S. House,2,LIB,Nathan Hewer,26
+Ionia,Township of Boston 1,U.S. House,2,LIB,Nathan Hewer,14
+Ionia,Township of Boston 2,U.S. House,2,LIB,Nathan Hewer,25
+Ionia,Township of Boston 3,U.S. House,2,LIB,Nathan Hewer,24
+Ionia,Township of Campbell 1,U.S. House,2,LIB,Nathan Hewer,21
+Ionia,Township of Danby 1,U.S. House,2,LIB,Nathan Hewer,26
+Ionia,Township of Easton 1,U.S. House,2,LIB,Nathan Hewer,14
+Ionia,Township of Easton 2,U.S. House,2,LIB,Nathan Hewer,14
+Ionia,City of Ionia 1,U.S. House,2,LIB,Nathan Hewer,21
+Ionia,City of Ionia 2,U.S. House,2,LIB,Nathan Hewer,24
+Ionia,City of Ionia 3,U.S. House,2,LIB,Nathan Hewer,27
+Ionia,City of Ionia 4,U.S. House,2,LIB,Nathan Hewer,13
+Ionia,Township of Ionia 1,U.S. House,2,LIB,Nathan Hewer,47
+Ionia,Township of Keene 1,U.S. House,2,LIB,Nathan Hewer,16
+Ionia,Township of Lyons 1,U.S. House,2,LIB,Nathan Hewer,28
+Ionia,Township of Lyons 2,U.S. House,2,LIB,Nathan Hewer,11
+Ionia,Township of North Plains 1,U.S. House,2,LIB,Nathan Hewer,10
+Ionia,Township of Odessa 1,U.S. House,2,LIB,Nathan Hewer,27
+Ionia,Township of Odessa 2,U.S. House,2,LIB,Nathan Hewer,26
+Ionia,Township of Orange 1,U.S. House,2,LIB,Nathan Hewer,18
+Ionia,Township of Orleans 1,U.S. House,2,LIB,Nathan Hewer,23
+Ionia,Township of Otisco 1,U.S. House,2,LIB,Nathan Hewer,27
+Ionia,City of Portland 1,U.S. House,2,LIB,Nathan Hewer,62
+Ionia,Township of Portland 1,U.S. House,2,LIB,Nathan Hewer,17
+Ionia,Township of Portland 2,U.S. House,2,LIB,Nathan Hewer,18
+Ionia,Township of Ronald 1,U.S. House,2,LIB,Nathan Hewer,14
+Ionia,Township of Sebewa 1,U.S. House,2,LIB,Nathan Hewer,9
+Ionia,City of Belding 1,U.S. House,2,,Under Votes,40
+Ionia,City of Belding 2,U.S. House,2,,Under Votes,27
+Ionia,City of Belding 3,U.S. House,2,,Under Votes,24
+Ionia,Township of Berlin 1,U.S. House,2,,Under Votes,47
+Ionia,Township of Boston 1,U.S. House,2,,Under Votes,34
+Ionia,Township of Boston 2,U.S. House,2,,Under Votes,42
+Ionia,Township of Boston 3,U.S. House,2,,Under Votes,29
+Ionia,Township of Campbell 1,U.S. House,2,,Under Votes,50
+Ionia,Township of Danby 1,U.S. House,2,,Under Votes,57
+Ionia,Township of Easton 1,U.S. House,2,,Under Votes,53
+Ionia,Township of Easton 2,U.S. House,2,,Under Votes,42
+Ionia,City of Ionia 1,U.S. House,2,,Under Votes,27
+Ionia,City of Ionia 2,U.S. House,2,,Under Votes,29
+Ionia,City of Ionia 3,U.S. House,2,,Under Votes,32
+Ionia,City of Ionia 4,U.S. House,2,,Under Votes,23
+Ionia,Township of Ionia 1,U.S. House,2,,Under Votes,97
+Ionia,Township of Keene 1,U.S. House,2,,Under Votes,43
+Ionia,Township of Lyons 1,U.S. House,2,,Under Votes,46
+Ionia,Township of Lyons 2,U.S. House,2,,Under Votes,24
+Ionia,Township of North Plains 1,U.S. House,2,,Under Votes,25
+Ionia,Township of Odessa 1,U.S. House,2,,Under Votes,32
+Ionia,Township of Odessa 2,U.S. House,2,,Under Votes,27
+Ionia,Township of Orange 1,U.S. House,2,,Under Votes,22
+Ionia,Township of Orleans 1,U.S. House,2,,Under Votes,47
+Ionia,Township of Otisco 1,U.S. House,2,,Under Votes,43
+Ionia,City of Portland 1,U.S. House,2,,Under Votes,102
+Ionia,Township of Portland 1,U.S. House,2,,Under Votes,40
+Ionia,Township of Portland 2,U.S. House,2,,Under Votes,48
+Ionia,Township of Ronald 1,U.S. House,2,,Under Votes,40
+Ionia,Township of Sebewa 1,U.S. House,2,,Under Votes,27
+Ionia,City of Belding 1,U.S. House,2,,Over Votes,0
+Ionia,City of Belding 2,U.S. House,2,,Over Votes,0
+Ionia,City of Belding 3,U.S. House,2,,Over Votes,0
+Ionia,Township of Berlin 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Boston 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Boston 2,U.S. House,2,,Over Votes,1
+Ionia,Township of Boston 3,U.S. House,2,,Over Votes,3
+Ionia,Township of Campbell 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Danby 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Easton 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Easton 2,U.S. House,2,,Over Votes,1
+Ionia,City of Ionia 1,U.S. House,2,,Over Votes,0
+Ionia,City of Ionia 2,U.S. House,2,,Over Votes,0
+Ionia,City of Ionia 3,U.S. House,2,,Over Votes,0
+Ionia,City of Ionia 4,U.S. House,2,,Over Votes,0
+Ionia,Township of Ionia 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Keene 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Lyons 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Lyons 2,U.S. House,2,,Over Votes,0
+Ionia,Township of North Plains 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Odessa 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Odessa 2,U.S. House,2,,Over Votes,1
+Ionia,Township of Orange 1,U.S. House,2,,Over Votes,1
+Ionia,Township of Orleans 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Otisco 1,U.S. House,2,,Over Votes,0
+Ionia,City of Portland 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Portland 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Portland 2,U.S. House,2,,Over Votes,1
+Ionia,Township of Ronald 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Sebewa 1,U.S. House,2,,Over Votes,0
+Ionia,Township of Boston 1,State Senate,18,DEM,Kai W. DeGraaf,297
+Ionia,Township of Boston 2,State Senate,18,DEM,Kai W. DeGraaf,309
+Ionia,Township of Boston 3,State Senate,18,DEM,Kai W. DeGraaf,270
+Ionia,Township of Campbell 1,State Senate,18,DEM,Kai W. DeGraaf,334
+Ionia,Township of Odessa 1,State Senate,18,DEM,Kai W. DeGraaf,328
+Ionia,Township of Odessa 2,State Senate,18,DEM,Kai W. DeGraaf,275
+Ionia,Township of Boston 1,State Senate,18,REP,Thomas A. Albert,654
+Ionia,Township of Boston 2,State Senate,18,REP,Thomas A. Albert,842
+Ionia,Township of Boston 3,State Senate,18,REP,Thomas A. Albert,576
+Ionia,Township of Campbell 1,State Senate,18,REP,Thomas A. Albert,908
+Ionia,Township of Odessa 1,State Senate,18,REP,Thomas A. Albert,518
+Ionia,Township of Odessa 2,State Senate,18,REP,Thomas A. Albert,684
+Ionia,Township of Boston 1,State Senate,18,,Under Votes,36
+Ionia,Township of Boston 2,State Senate,18,,Under Votes,43
+Ionia,Township of Boston 3,State Senate,18,,Under Votes,27
+Ionia,Township of Campbell 1,State Senate,18,,Under Votes,47
+Ionia,Township of Odessa 1,State Senate,18,,Under Votes,38
+Ionia,Township of Odessa 2,State Senate,18,,Under Votes,30
+Ionia,Township of Boston 1,State Senate,18,,Over Votes,0
+Ionia,Township of Boston 2,State Senate,18,,Over Votes,0
+Ionia,Township of Boston 3,State Senate,18,,Over Votes,1
+Ionia,Township of Campbell 1,State Senate,18,,Over Votes,0
+Ionia,Township of Odessa 1,State Senate,18,,Over Votes,0
+Ionia,Township of Odessa 2,State Senate,18,,Over Votes,0
+Ionia,City of Belding 1,State Senate,33,DEM,Mark Bignell,275
+Ionia,City of Belding 2,State Senate,33,DEM,Mark Bignell,297
+Ionia,City of Belding 3,State Senate,33,DEM,Mark Bignell,216
+Ionia,Township of Berlin 1,State Senate,33,DEM,Mark Bignell,371
+Ionia,Township of Danby 1,State Senate,33,DEM,Mark Bignell,496
+Ionia,Township of Easton 1,State Senate,33,DEM,Mark Bignell,200
+Ionia,Township of Easton 2,State Senate,33,DEM,Mark Bignell,254
+Ionia,City of Ionia 1,State Senate,33,DEM,Mark Bignell,255
+Ionia,City of Ionia 2,State Senate,33,DEM,Mark Bignell,202
+Ionia,City of Ionia 3,State Senate,33,DEM,Mark Bignell,253
+Ionia,City of Ionia 4,State Senate,33,DEM,Mark Bignell,254
+Ionia,Township of Ionia 1,State Senate,33,DEM,Mark Bignell,518
+Ionia,Township of Keene 1,State Senate,33,DEM,Mark Bignell,251
+Ionia,Township of Lyons 1,State Senate,33,DEM,Mark Bignell,311
+Ionia,Township of Lyons 2,State Senate,33,DEM,Mark Bignell,145
+Ionia,Township of North Plains 1,State Senate,33,DEM,Mark Bignell,155
+Ionia,Township of Orange 1,State Senate,33,DEM,Mark Bignell,136
+Ionia,Township of Orleans 1,State Senate,33,DEM,Mark Bignell,302
+Ionia,Township of Otisco 1,State Senate,33,DEM,Mark Bignell,324
+Ionia,City of Portland 1,State Senate,33,DEM,Mark Bignell,847
+Ionia,Township of Portland 1,State Senate,33,DEM,Mark Bignell,340
+Ionia,Township of Portland 2,State Senate,33,DEM,Mark Bignell,321
+Ionia,Township of Ronald 1,State Senate,33,DEM,Mark Bignell,220
+Ionia,Township of Sebewa 1,State Senate,33,DEM,Mark Bignell,135
+Ionia,City of Belding 1,State Senate,33,REP,Rick Outman,468
+Ionia,City of Belding 2,State Senate,33,REP,Rick Outman,364
+Ionia,City of Belding 3,State Senate,33,REP,Rick Outman,326
+Ionia,Township of Berlin 1,State Senate,33,REP,Rick Outman,708
+Ionia,Township of Danby 1,State Senate,33,REP,Rick Outman,985
+Ionia,Township of Easton 1,State Senate,33,REP,Rick Outman,472
+Ionia,Township of Easton 2,State Senate,33,REP,Rick Outman,421
+Ionia,City of Ionia 1,State Senate,33,REP,Rick Outman,259
+Ionia,City of Ionia 2,State Senate,33,REP,Rick Outman,252
+Ionia,City of Ionia 3,State Senate,33,REP,Rick Outman,279
+Ionia,City of Ionia 4,State Senate,33,REP,Rick Outman,279
+Ionia,Township of Ionia 1,State Senate,33,REP,Rick Outman,932
+Ionia,Township of Keene 1,State Senate,33,REP,Rick Outman,674
+Ionia,Township of Lyons 1,State Senate,33,REP,Rick Outman,493
+Ionia,Township of Lyons 2,State Senate,33,REP,Rick Outman,546
+Ionia,Township of North Plains 1,State Senate,33,REP,Rick Outman,312
+Ionia,Township of Orange 1,State Senate,33,REP,Rick Outman,371
+Ionia,Township of Orleans 1,State Senate,33,REP,Rick Outman,758
+Ionia,Township of Otisco 1,State Senate,33,REP,Rick Outman,785
+Ionia,City of Portland 1,State Senate,33,REP,Rick Outman,923
+Ionia,Township of Portland 1,State Senate,33,REP,Rick Outman,571
+Ionia,Township of Portland 2,State Senate,33,REP,Rick Outman,627
+Ionia,Township of Ronald 1,State Senate,33,REP,Rick Outman,531
+Ionia,Township of Sebewa 1,State Senate,33,REP,Rick Outman,436
+Ionia,City of Belding 1,State Senate,33,LIB,Jay Gillotte,16
+Ionia,City of Belding 2,State Senate,33,LIB,Jay Gillotte,17
+Ionia,City of Belding 3,State Senate,33,LIB,Jay Gillotte,11
+Ionia,Township of Berlin 1,State Senate,33,LIB,Jay Gillotte,22
+Ionia,Township of Danby 1,State Senate,33,LIB,Jay Gillotte,28
+Ionia,Township of Easton 1,State Senate,33,LIB,Jay Gillotte,12
+Ionia,Township of Easton 2,State Senate,33,LIB,Jay Gillotte,18
+Ionia,City of Ionia 1,State Senate,33,LIB,Jay Gillotte,22
+Ionia,City of Ionia 2,State Senate,33,LIB,Jay Gillotte,13
+Ionia,City of Ionia 3,State Senate,33,LIB,Jay Gillotte,14
+Ionia,City of Ionia 4,State Senate,33,LIB,Jay Gillotte,16
+Ionia,Township of Ionia 1,State Senate,33,LIB,Jay Gillotte,33
+Ionia,Township of Keene 1,State Senate,33,LIB,Jay Gillotte,15
+Ionia,Township of Lyons 1,State Senate,33,LIB,Jay Gillotte,27
+Ionia,Township of Lyons 2,State Senate,33,LIB,Jay Gillotte,9
+Ionia,Township of North Plains 1,State Senate,33,LIB,Jay Gillotte,7
+Ionia,Township of Orange 1,State Senate,33,LIB,Jay Gillotte,12
+Ionia,Township of Orleans 1,State Senate,33,LIB,Jay Gillotte,21
+Ionia,Township of Otisco 1,State Senate,33,LIB,Jay Gillotte,23
+Ionia,City of Portland 1,State Senate,33,LIB,Jay Gillotte,58
+Ionia,Township of Portland 1,State Senate,33,LIB,Jay Gillotte,18
+Ionia,Township of Portland 2,State Senate,33,LIB,Jay Gillotte,26
+Ionia,Township of Ronald 1,State Senate,33,LIB,Jay Gillotte,12
+Ionia,Township of Sebewa 1,State Senate,33,LIB,Jay Gillotte,6
+Ionia,City of Belding 1,State Senate,33,,Under Votes,27
+Ionia,City of Belding 2,State Senate,33,,Under Votes,23
+Ionia,City of Belding 3,State Senate,33,,Under Votes,13
+Ionia,Township of Berlin 1,State Senate,33,,Under Votes,51
+Ionia,Township of Danby 1,State Senate,33,,Under Votes,59
+Ionia,Township of Easton 1,State Senate,33,,Under Votes,45
+Ionia,Township of Easton 2,State Senate,33,,Under Votes,35
+Ionia,City of Ionia 1,State Senate,33,,Under Votes,26
+Ionia,City of Ionia 2,State Senate,33,,Under Votes,28
+Ionia,City of Ionia 3,State Senate,33,,Under Votes,23
+Ionia,City of Ionia 4,State Senate,33,,Under Votes,20
+Ionia,Township of Ionia 1,State Senate,33,,Under Votes,89
+Ionia,Township of Keene 1,State Senate,33,,Under Votes,42
+Ionia,Township of Lyons 1,State Senate,33,,Under Votes,47
+Ionia,Township of Lyons 2,State Senate,33,,Under Votes,22
+Ionia,Township of North Plains 1,State Senate,33,,Under Votes,19
+Ionia,Township of Orange 1,State Senate,33,,Under Votes,20
+Ionia,Township of Orleans 1,State Senate,33,,Under Votes,32
+Ionia,Township of Otisco 1,State Senate,33,,Under Votes,32
+Ionia,City of Portland 1,State Senate,33,,Under Votes,93
+Ionia,Township of Portland 1,State Senate,33,,Under Votes,39
+Ionia,Township of Portland 2,State Senate,33,,Under Votes,50
+Ionia,Township of Ronald 1,State Senate,33,,Under Votes,32
+Ionia,Township of Sebewa 1,State Senate,33,,Under Votes,29
+Ionia,City of Belding 1,State Senate,33,,Over Votes,0
+Ionia,City of Belding 2,State Senate,33,,Over Votes,0
+Ionia,City of Belding 3,State Senate,33,,Over Votes,0
+Ionia,Township of Berlin 1,State Senate,33,,Over Votes,1
+Ionia,Township of Danby 1,State Senate,33,,Over Votes,0
+Ionia,Township of Easton 1,State Senate,33,,Over Votes,1
+Ionia,Township of Easton 2,State Senate,33,,Over Votes,0
+Ionia,City of Ionia 1,State Senate,33,,Over Votes,0
+Ionia,City of Ionia 2,State Senate,33,,Over Votes,0
+Ionia,City of Ionia 3,State Senate,33,,Over Votes,0
+Ionia,City of Ionia 4,State Senate,33,,Over Votes,0
+Ionia,Township of Ionia 1,State Senate,33,,Over Votes,0
+Ionia,Township of Keene 1,State Senate,33,,Over Votes,0
+Ionia,Township of Lyons 1,State Senate,33,,Over Votes,1
+Ionia,Township of Lyons 2,State Senate,33,,Over Votes,0
+Ionia,Township of North Plains 1,State Senate,33,,Over Votes,0
+Ionia,Township of Orange 1,State Senate,33,,Over Votes,0
+Ionia,Township of Orleans 1,State Senate,33,,Over Votes,1
+Ionia,Township of Otisco 1,State Senate,33,,Over Votes,1
+Ionia,City of Portland 1,State Senate,33,,Over Votes,0
+Ionia,Township of Portland 1,State Senate,33,,Over Votes,0
+Ionia,Township of Portland 2,State Senate,33,,Over Votes,0
+Ionia,Township of Ronald 1,State Senate,33,,Over Votes,0
+Ionia,Township of Sebewa 1,State Senate,33,,Over Votes,0
+Ionia,Township of Lyons 1,State House,93,DEM,Jeffrey Lockwood,328
+Ionia,Township of Lyons 2,State House,93,DEM,Jeffrey Lockwood,149
+Ionia,Township of North Plains 1,State House,93,DEM,Jeffrey Lockwood,158
+Ionia,Township of Lyons 1,State House,93,REP,Graham Filler,493
+Ionia,Township of Lyons 2,State House,93,REP,Graham Filler,544
+Ionia,Township of North Plains 1,State House,93,REP,Graham Filler,307
+Ionia,Township of Lyons 1,State House,93,,Under Votes,58
+Ionia,Township of Lyons 2,State House,93,,Under Votes,29
+Ionia,Township of North Plains 1,State House,93,,Under Votes,28
+Ionia,Township of Lyons 1,State House,93,,Over Votes,0
+Ionia,Township of Lyons 2,State House,93,,Over Votes,0
+Ionia,Township of North Plains 1,State House,93,,Over Votes,0
+Ionia,City of Belding 1,State House,91,DEM,Tammy L. DeVries,277
+Ionia,City of Belding 2,State House,91,DEM,Tammy L. DeVries,305
+Ionia,City of Belding 3,State House,91,DEM,Tammy L. DeVries,225
+Ionia,Township of Orleans 1,State House,91,DEM,Tammy L. DeVries,318
+Ionia,Township of Otisco 1,State House,91,DEM,Tammy L. DeVries,333
+Ionia,City of Belding 1,State House,91,REP,Pat Outman,470
+Ionia,City of Belding 2,State House,91,REP,Pat Outman,366
+Ionia,City of Belding 3,State House,91,REP,Pat Outman,324
+Ionia,Township of Orleans 1,State House,91,REP,Pat Outman,748
+Ionia,Township of Otisco 1,State House,91,REP,Pat Outman,780
+Ionia,City of Belding 1,State House,91,,Under Votes,39
+Ionia,City of Belding 2,State House,91,,Under Votes,30
+Ionia,City of Belding 3,State House,91,,Under Votes,17
+Ionia,Township of Orleans 1,State House,91,,Under Votes,47
+Ionia,Township of Otisco 1,State House,91,,Under Votes,52
+Ionia,City of Belding 1,State House,91,,Over Votes,0
+Ionia,City of Belding 2,State House,91,,Over Votes,0
+Ionia,City of Belding 3,State House,91,,Over Votes,0
+Ionia,Township of Orleans 1,State House,91,,Over Votes,1
+Ionia,Township of Otisco 1,State House,91,,Over Votes,0
+Ionia,Township of Berlin 1,State House,78,DEM,Leah M. Groves,366
+Ionia,Township of Boston 1,State House,78,DEM,Leah M. Groves,297
+Ionia,Township of Boston 2,State House,78,DEM,Leah M. Groves,303
+Ionia,Township of Boston 3,State House,78,DEM,Leah M. Groves,277
+Ionia,Township of Campbell 1,State House,78,DEM,Leah M. Groves,312
+Ionia,Township of Danby 1,State House,78,DEM,Leah M. Groves,495
+Ionia,Township of Easton 1,State House,78,DEM,Leah M. Groves,197
+Ionia,Township of Easton 2,State House,78,DEM,Leah M. Groves,249
+Ionia,City of Ionia 1,State House,78,DEM,Leah M. Groves,256
+Ionia,City of Ionia 2,State House,78,DEM,Leah M. Groves,209
+Ionia,City of Ionia 3,State House,78,DEM,Leah M. Groves,251
+Ionia,City of Ionia 4,State House,78,DEM,Leah M. Groves,251
+Ionia,Township of Ionia 1,State House,78,DEM,Leah M. Groves,520
+Ionia,Township of Keene 1,State House,78,DEM,Leah M. Groves,244
+Ionia,Township of Odessa 1,State House,78,DEM,Leah M. Groves,333
+Ionia,Township of Odessa 2,State House,78,DEM,Leah M. Groves,269
+Ionia,Township of Orange 1,State House,78,DEM,Leah M. Groves,136
+Ionia,City of Portland 1,State House,78,DEM,Leah M. Groves,859
+Ionia,Township of Portland 1,State House,78,DEM,Leah M. Groves,336
+Ionia,Township of Portland 2,State House,78,DEM,Leah M. Groves,327
+Ionia,Township of Ronald 1,State House,78,DEM,Leah M. Groves,215
+Ionia,Township of Sebewa 1,State House,78,DEM,Leah M. Groves,134
+Ionia,Township of Berlin 1,State House,78,REP,Gina Johnson,731
+Ionia,Township of Boston 1,State House,78,REP,Gina Johnson,654
+Ionia,Township of Boston 2,State House,78,REP,Gina Johnson,833
+Ionia,Township of Boston 3,State House,78,REP,Gina Johnson,569
+Ionia,Township of Campbell 1,State House,78,REP,Gina Johnson,926
+Ionia,Township of Danby 1,State House,78,REP,Gina Johnson,1014
+Ionia,Township of Easton 1,State House,78,REP,Gina Johnson,479
+Ionia,Township of Easton 2,State House,78,REP,Gina Johnson,439
+Ionia,City of Ionia 1,State House,78,REP,Gina Johnson,274
+Ionia,City of Ionia 2,State House,78,REP,Gina Johnson,257
+Ionia,City of Ionia 3,State House,78,REP,Gina Johnson,287
+Ionia,City of Ionia 4,State House,78,REP,Gina Johnson,287
+Ionia,Township of Ionia 1,State House,78,REP,Gina Johnson,949
+Ionia,Township of Keene 1,State House,78,REP,Gina Johnson,696
+Ionia,Township of Odessa 1,State House,78,REP,Gina Johnson,514
+Ionia,Township of Odessa 2,State House,78,REP,Gina Johnson,677
+Ionia,Township of Orange 1,State House,78,REP,Gina Johnson,380
+Ionia,City of Portland 1,State House,78,REP,Gina Johnson,963
+Ionia,Township of Portland 1,State House,78,REP,Gina Johnson,591
+Ionia,Township of Portland 2,State House,78,REP,Gina Johnson,644
+Ionia,Township of Ronald 1,State House,78,REP,Gina Johnson,539
+Ionia,Township of Sebewa 1,State House,78,REP,Gina Johnson,448
+Ionia,Township of Berlin 1,State House,78,,Under Votes,55
+Ionia,Township of Boston 1,State House,78,,Under Votes,36
+Ionia,Township of Boston 2,State House,78,,Under Votes,58
+Ionia,Township of Boston 3,State House,78,,Under Votes,27
+Ionia,Township of Campbell 1,State House,78,,Under Votes,50
+Ionia,Township of Danby 1,State House,78,,Under Votes,59
+Ionia,Township of Easton 1,State House,78,,Under Votes,54
+Ionia,Township of Easton 2,State House,78,,Under Votes,40
+Ionia,City of Ionia 1,State House,78,,Under Votes,31
+Ionia,City of Ionia 2,State House,78,,Under Votes,29
+Ionia,City of Ionia 3,State House,78,,Under Votes,31
+Ionia,City of Ionia 4,State House,78,,Under Votes,31
+Ionia,Township of Ionia 1,State House,78,,Under Votes,103
+Ionia,Township of Keene 1,State House,78,,Under Votes,42
+Ionia,Township of Odessa 1,State House,78,,Under Votes,37
+Ionia,Township of Odessa 2,State House,78,,Under Votes,43
+Ionia,Township of Orange 1,State House,78,,Under Votes,23
+Ionia,City of Portland 1,State House,78,,Under Votes,99
+Ionia,Township of Portland 1,State House,78,,Under Votes,41
+Ionia,Township of Portland 2,State House,78,,Under Votes,53
+Ionia,Township of Ronald 1,State House,78,,Under Votes,40
+Ionia,Township of Sebewa 1,State House,78,,Under Votes,24
+Ionia,Township of Berlin 1,State House,78,,Over Votes,1
+Ionia,Township of Boston 1,State House,78,,Over Votes,0
+Ionia,Township of Boston 2,State House,78,,Over Votes,0
+Ionia,Township of Boston 3,State House,78,,Over Votes,1
+Ionia,Township of Campbell 1,State House,78,,Over Votes,1
+Ionia,Township of Danby 1,State House,78,,Over Votes,0
+Ionia,Township of Easton 1,State House,78,,Over Votes,0
+Ionia,Township of Easton 2,State House,78,,Over Votes,0
+Ionia,City of Ionia 1,State House,78,,Over Votes,1
+Ionia,City of Ionia 2,State House,78,,Over Votes,0
+Ionia,City of Ionia 3,State House,78,,Over Votes,0
+Ionia,City of Ionia 4,State House,78,,Over Votes,0
+Ionia,Township of Ionia 1,State House,78,,Over Votes,0
+Ionia,Township of Keene 1,State House,78,,Over Votes,0
+Ionia,Township of Odessa 1,State House,78,,Over Votes,0
+Ionia,Township of Odessa 2,State House,78,,Over Votes,0
+Ionia,Township of Orange 1,State House,78,,Over Votes,0
+Ionia,City of Portland 1,State House,78,,Over Votes,0
+Ionia,Township of Portland 1,State House,78,,Over Votes,0
+Ionia,Township of Portland 2,State House,78,,Over Votes,0
+Ionia,Township of Ronald 1,State House,78,,Over Votes,1
+Ionia,Township of Sebewa 1,State House,78,,Over Votes,0

@@ -1,0 +1,430 @@
+county,precinct,office,district,party,candidate,votes
+Gogebic,"City of Bessemer, Precinct 1",Registered Voters,,,,1763
+Gogebic,"City of Ironwood, Precinct 1",Registered Voters,,,,2016
+Gogebic,"City of Ironwood, Precinct 2",Registered Voters,,,,2130
+Gogebic,"City of Ironwood, Precinct 3",Registered Voters,,,,690
+Gogebic,"City of Wakefield, Precinct 1",Registered Voters,,,,1446
+Gogebic,"Bessemer Township, Precinct 1",Registered Voters,,,,1139
+Gogebic,"Erwin Township, Precinct 1",Registered Voters,,,,317
+Gogebic,"Ironwood Charter Township, Precinct 1",Registered Voters,,,,2082
+Gogebic,"Marenisco Township, Precinct 1",Registered Voters,,,,568
+Gogebic,"Wakefield Township, Precinct 1",Registered Voters,,,,295
+Gogebic,"Watersmeet Township, Precinct 1",Registered Voters,,,,1587
+Gogebic,"City of Bessemer, Precinct 1",Ballots Cast,,,,753
+Gogebic,"City of Ironwood, Precinct 1",Ballots Cast,,,,863
+Gogebic,"City of Ironwood, Precinct 2",Ballots Cast,,,,783
+Gogebic,"City of Ironwood, Precinct 3",Ballots Cast,,,,298
+Gogebic,"City of Wakefield, Precinct 1",Ballots Cast,,,,689
+Gogebic,"Bessemer Township, Precinct 1",Ballots Cast,,,,552
+Gogebic,"Erwin Township, Precinct 1",Ballots Cast,,,,175
+Gogebic,"Ironwood Charter Township, Precinct 1",Ballots Cast,,,,1171
+Gogebic,"Marenisco Township, Precinct 1",Ballots Cast,,,,323
+Gogebic,"Wakefield Township, Precinct 1",Ballots Cast,,,,155
+Gogebic,"Watersmeet Township, Precinct 1",Ballots Cast,,,,742
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,DEM,Democratic,221
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,DEM,Democratic,257
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,DEM,Democratic,243
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,DEM,Democratic,80
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,DEM,Democratic,174
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,DEM,Democratic,128
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,DEM,Democratic,52
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,DEM,Democratic,275
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,DEM,Democratic,48
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,DEM,Democratic,28
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,DEM,Democratic,167
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,REP,Republican,176
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,REP,Republican,214
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,REP,Republican,207
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,REP,Republican,94
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,REP,Republican,262
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,REP,Republican,195
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,REP,Republican,51
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,REP,Republican,358
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,REP,Republican,138
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,REP,Republican,66
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,REP,Republican,264
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,LIB,Libertarian,5
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,LIB,Libertarian,6
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,LIB,Libertarian,3
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,LIB,Libertarian,0
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,UST,U.S. Taxpayers,3
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,WCP,Working Class,2
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,WCP,Working Class,3
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,WCP,Working Class,1
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,WCP,Working Class,4
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,WCP,Working Class,1
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,GRN,Green,1
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,GRN,Green,2
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,GRN,Green,0
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,GRN,Green,1
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,GRN,Green,0
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,GRN,Green,2
+Gogebic,"City of Bessemer, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"City of Ironwood, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"City of Ironwood, Precinct 2",Straight Party,,NLP,Natural Law,1
+Gogebic,"City of Ironwood, Precinct 3",Straight Party,,NLP,Natural Law,0
+Gogebic,"City of Wakefield, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Bessemer Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Erwin Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Marenisco Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Wakefield Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"Watersmeet Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gogebic,"City of Bessemer, Precinct 1",Governor,,DEM,Gretchen Whitmer,392
+Gogebic,"City of Ironwood, Precinct 1",Governor,,DEM,Gretchen Whitmer,458
+Gogebic,"City of Ironwood, Precinct 2",Governor,,DEM,Gretchen Whitmer,416
+Gogebic,"City of Ironwood, Precinct 3",Governor,,DEM,Gretchen Whitmer,133
+Gogebic,"City of Wakefield, Precinct 1",Governor,,DEM,Gretchen Whitmer,290
+Gogebic,"Bessemer Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,224
+Gogebic,"Erwin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,81
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,494
+Gogebic,"Marenisco Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,100
+Gogebic,"Wakefield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,53
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,299
+Gogebic,"City of Bessemer, Precinct 1",Governor,,REP,Tudor M. Dixon,341
+Gogebic,"City of Ironwood, Precinct 1",Governor,,REP,Tudor M. Dixon,372
+Gogebic,"City of Ironwood, Precinct 2",Governor,,REP,Tudor M. Dixon,346
+Gogebic,"City of Ironwood, Precinct 3",Governor,,REP,Tudor M. Dixon,156
+Gogebic,"City of Wakefield, Precinct 1",Governor,,REP,Tudor M. Dixon,382
+Gogebic,"Bessemer Township, Precinct 1",Governor,,REP,Tudor M. Dixon,320
+Gogebic,"Erwin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,92
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,661
+Gogebic,"Marenisco Township, Precinct 1",Governor,,REP,Tudor M. Dixon,217
+Gogebic,"Wakefield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,100
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,REP,Tudor M. Dixon,426
+Gogebic,"City of Bessemer, Precinct 1",Governor,,LIB,Mary Buzuma,11
+Gogebic,"City of Ironwood, Precinct 1",Governor,,LIB,Mary Buzuma,18
+Gogebic,"City of Ironwood, Precinct 2",Governor,,LIB,Mary Buzuma,6
+Gogebic,"City of Ironwood, Precinct 3",Governor,,LIB,Mary Buzuma,1
+Gogebic,"City of Wakefield, Precinct 1",Governor,,LIB,Mary Buzuma,3
+Gogebic,"Bessemer Township, Precinct 1",Governor,,LIB,Mary Buzuma,3
+Gogebic,"Erwin Township, Precinct 1",Governor,,LIB,Mary Buzuma,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,LIB,Mary Buzuma,4
+Gogebic,"Marenisco Township, Precinct 1",Governor,,LIB,Mary Buzuma,4
+Gogebic,"Wakefield Township, Precinct 1",Governor,,LIB,Mary Buzuma,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,LIB,Mary Buzuma,5
+Gogebic,"City of Bessemer, Precinct 1",Governor,,UST,Donna Brandenburg,4
+Gogebic,"City of Ironwood, Precinct 1",Governor,,UST,Donna Brandenburg,2
+Gogebic,"City of Ironwood, Precinct 2",Governor,,UST,Donna Brandenburg,6
+Gogebic,"City of Ironwood, Precinct 3",Governor,,UST,Donna Brandenburg,3
+Gogebic,"City of Wakefield, Precinct 1",Governor,,UST,Donna Brandenburg,6
+Gogebic,"Bessemer Township, Precinct 1",Governor,,UST,Donna Brandenburg,2
+Gogebic,"Erwin Township, Precinct 1",Governor,,UST,Donna Brandenburg,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,UST,Donna Brandenburg,7
+Gogebic,"Marenisco Township, Precinct 1",Governor,,UST,Donna Brandenburg,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,UST,Donna Brandenburg,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,UST,Donna Brandenburg,1
+Gogebic,"City of Bessemer, Precinct 1",Governor,,GRN,Kevin Hogan,3
+Gogebic,"City of Ironwood, Precinct 1",Governor,,GRN,Kevin Hogan,4
+Gogebic,"City of Ironwood, Precinct 2",Governor,,GRN,Kevin Hogan,2
+Gogebic,"City of Ironwood, Precinct 3",Governor,,GRN,Kevin Hogan,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,GRN,Kevin Hogan,4
+Gogebic,"Bessemer Township, Precinct 1",Governor,,GRN,Kevin Hogan,1
+Gogebic,"Erwin Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gogebic,"Marenisco Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,GRN,Kevin Hogan,1
+Gogebic,"City of Bessemer, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gogebic,"City of Ironwood, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gogebic,"City of Ironwood, Precinct 2",Governor,,NLP,Daryl M. Simpson,2
+Gogebic,"City of Ironwood, Precinct 3",Governor,,NLP,Daryl M. Simpson,0
+Gogebic,"City of Wakefield, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gogebic,"Bessemer Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gogebic,"Marenisco Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gogebic,"Wakefield Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gogebic,"City of Bessemer, Precinct 1",Governor,,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 2",Governor,,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 3",Governor,,,Write-ins,1
+Gogebic,"City of Wakefield, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Bessemer Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Erwin Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Marenisco Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Wakefield Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",Governor,,,Write-ins,0
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,385
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,455
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,413
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,131
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,279
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,218
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,80
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,502
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,103
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,56
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,295
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,333
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,362
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,336
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,151
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,385
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,313
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,88
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,634
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,212
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,97
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,418
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,12
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,18
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,13
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,2
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,2
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,2
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,0
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,4
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,9
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,3
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,5
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,10
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,8
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,9
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,6
+Gogebic,"City of Bessemer, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 2",Secretary of State,,,Write-ins,2
+Gogebic,"City of Ironwood, Precinct 3",Secretary of State,,,Write-ins,0
+Gogebic,"City of Wakefield, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"Bessemer Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"Erwin Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Secretary of State,,,Write-ins,1
+Gogebic,"Marenisco Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"Wakefield Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gogebic,"City of Bessemer, Precinct 1",Attorney General,,DEM,Dana Nessel,372
+Gogebic,"City of Ironwood, Precinct 1",Attorney General,,DEM,Dana Nessel,436
+Gogebic,"City of Ironwood, Precinct 2",Attorney General,,DEM,Dana Nessel,393
+Gogebic,"City of Ironwood, Precinct 3",Attorney General,,DEM,Dana Nessel,128
+Gogebic,"City of Wakefield, Precinct 1",Attorney General,,DEM,Dana Nessel,263
+Gogebic,"Bessemer Township, Precinct 1",Attorney General,,DEM,Dana Nessel,214
+Gogebic,"Erwin Township, Precinct 1",Attorney General,,DEM,Dana Nessel,76
+Gogebic,"Ironwood Charter Township, Precinct 1",Attorney General,,DEM,Dana Nessel,474
+Gogebic,"Marenisco Township, Precinct 1",Attorney General,,DEM,Dana Nessel,90
+Gogebic,"Wakefield Township, Precinct 1",Attorney General,,DEM,Dana Nessel,52
+Gogebic,"Watersmeet Township, Precinct 1",Attorney General,,DEM,Dana Nessel,283
+Gogebic,"City of Bessemer, Precinct 1",Attorney General,,REP,Matthew DePerno,347
+Gogebic,"City of Ironwood, Precinct 1",Attorney General,,REP,Matthew DePerno,376
+Gogebic,"City of Ironwood, Precinct 2",Attorney General,,REP,Matthew DePerno,346
+Gogebic,"City of Ironwood, Precinct 3",Attorney General,,REP,Matthew DePerno,153
+Gogebic,"City of Wakefield, Precinct 1",Attorney General,,REP,Matthew DePerno,397
+Gogebic,"Bessemer Township, Precinct 1",Attorney General,,REP,Matthew DePerno,315
+Gogebic,"Erwin Township, Precinct 1",Attorney General,,REP,Matthew DePerno,93
+Gogebic,"Ironwood Charter Township, Precinct 1",Attorney General,,REP,Matthew DePerno,660
+Gogebic,"Marenisco Township, Precinct 1",Attorney General,,REP,Matthew DePerno,219
+Gogebic,"Wakefield Township, Precinct 1",Attorney General,,REP,Matthew DePerno,95
+Gogebic,"Watersmeet Township, Precinct 1",Attorney General,,REP,Matthew DePerno,424
+Gogebic,"City of Bessemer, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Gogebic,"City of Ironwood, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,20
+Gogebic,"City of Ironwood, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,14
+Gogebic,"City of Ironwood, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Gogebic,"City of Wakefield, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Gogebic,"Bessemer Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Gogebic,"Erwin Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,1
+Gogebic,"Ironwood Charter Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Gogebic,"Marenisco Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Gogebic,"Wakefield Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,0
+Gogebic,"Watersmeet Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Gogebic,"City of Bessemer, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
+Gogebic,"City of Ironwood, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5
+Gogebic,"City of Ironwood, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,10
+Gogebic,"City of Ironwood, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,2
+Gogebic,"City of Wakefield, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,8
+Gogebic,"Bessemer Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
+Gogebic,"Erwin Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11
+Gogebic,"Marenisco Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3
+Gogebic,"Wakefield Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,1
+Gogebic,"Watersmeet Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7
+Gogebic,"City of Bessemer, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 1",Attorney General,,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 2",Attorney General,,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 3",Attorney General,,,Write-ins,0
+Gogebic,"City of Wakefield, Precinct 1",Attorney General,,,Write-ins,1
+Gogebic,"Bessemer Township, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"Erwin Township, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",Attorney General,,,Write-ins,3
+Gogebic,"Marenisco Township, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"Wakefield Township, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",Attorney General,,,Write-ins,0
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,DEM,Bob Lorinser,339
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,DEM,Bob Lorinser,401
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,DEM,Bob Lorinser,364
+Gogebic,"City of Ironwood, Precinct 3",U.S. House,1,DEM,Bob Lorinser,116
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,DEM,Bob Lorinser,245
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,185
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,74
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,454
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,84
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,48
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,255
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,REP,Jack Bergman,383
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,REP,Jack Bergman,411
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,REP,Jack Bergman,383
+Gogebic,"City of Ironwood, Precinct 3",U.S. House,1,REP,Jack Bergman,168
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,REP,Jack Bergman,417
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,REP,Jack Bergman,342
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,REP,Jack Bergman,130
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,REP,Jack Bergman,691
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,REP,Jack Bergman,230
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,99
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,REP,Jack Bergman,457
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,LIB,Andrew Gale,11
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,LIB,Andrew Gale,14
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,LIB,Andrew Gale,13
+Gogebic,"City of Ironwood, Precinct 3",U.S. House,1,LIB,Andrew Gale,2
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,LIB,Andrew Gale,4
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,WCP,Liz Hakola,7
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,WCP,Liz Hakola,17
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,WCP,Liz Hakola,14
+Gogebic,"City of Ironwood, Precinct 3",U.S. House,1,WCP,Liz Hakola,5
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,WCP,Liz Hakola,12
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,12
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,2
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9
+Gogebic,"City of Bessemer, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"City of Ironwood, Precinct 2",U.S. House,1,,Write-ins,2
+Gogebic,"City of Ironwood, Precinct 3",U.S. House,1,,Write-ins,0
+Gogebic,"City of Wakefield, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"Bessemer Township, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"Erwin Township, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",U.S. House,1,,Write-ins,2
+Gogebic,"Marenisco Township, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"Wakefield Township, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",U.S. House,1,,Write-ins,0
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,DEM,John Braamse,315
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,DEM,John Braamse,394
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,DEM,John Braamse,352
+Gogebic,"City of Ironwood, Precinct 3",State Senate,38,DEM,John Braamse,109
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,DEM,John Braamse,234
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,DEM,John Braamse,181
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,DEM,John Braamse,72
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,DEM,John Braamse,426
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,DEM,John Braamse,75
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,DEM,John Braamse,47
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,DEM,John Braamse,259
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,REP,Edward McBroom,415
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,REP,Edward McBroom,444
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,REP,Edward McBroom,403
+Gogebic,"City of Ironwood, Precinct 3",State Senate,38,REP,Edward McBroom,179
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,REP,Edward McBroom,434
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,REP,Edward McBroom,359
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,REP,Edward McBroom,102
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,REP,Edward McBroom,722
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,REP,Edward McBroom,242
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,REP,Edward McBroom,105
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,REP,Edward McBroom,450
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,7
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,9
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,GRN,Wade Paul Roberts,9
+Gogebic,"City of Ironwood, Precinct 3",State Senate,38,GRN,Wade Paul Roberts,1
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,11
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,3
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,9
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,0
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,0
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,GRN,Wade Paul Roberts,9
+Gogebic,"City of Bessemer, Precinct 1",State Senate,38,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 1",State Senate,38,,Write-ins,1
+Gogebic,"City of Ironwood, Precinct 2",State Senate,38,,Write-ins,3
+Gogebic,"City of Ironwood, Precinct 3",State Senate,38,,Write-ins,0
+Gogebic,"City of Wakefield, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"Bessemer Township, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"Erwin Township, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State Senate,38,,Write-ins,1
+Gogebic,"Marenisco Township, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"Wakefield Township, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",State Senate,38,,Write-ins,0
+Gogebic,"City of Bessemer, Precinct 1",State House,110,DEM,Casey VerBerkmoes,327
+Gogebic,"City of Ironwood, Precinct 1",State House,110,DEM,Casey VerBerkmoes,409
+Gogebic,"City of Ironwood, Precinct 2",State House,110,DEM,Casey VerBerkmoes,367
+Gogebic,"City of Ironwood, Precinct 3",State House,110,DEM,Casey VerBerkmoes,112
+Gogebic,"City of Wakefield, Precinct 1",State House,110,DEM,Casey VerBerkmoes,244
+Gogebic,"Bessemer Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,182
+Gogebic,"Erwin Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,72
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,439
+Gogebic,"Marenisco Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,80
+Gogebic,"Wakefield Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,48
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,DEM,Casey VerBerkmoes,273
+Gogebic,"City of Bessemer, Precinct 1",State House,110,REP,Gregory Markkanen,403
+Gogebic,"City of Ironwood, Precinct 1",State House,110,REP,Gregory Markkanen,420
+Gogebic,"City of Ironwood, Precinct 2",State House,110,REP,Gregory Markkanen,393
+Gogebic,"City of Ironwood, Precinct 3",State House,110,REP,Gregory Markkanen,171
+Gogebic,"City of Wakefield, Precinct 1",State House,110,REP,Gregory Markkanen,428
+Gogebic,"Bessemer Township, Precinct 1",State House,110,REP,Gregory Markkanen,355
+Gogebic,"Erwin Township, Precinct 1",State House,110,REP,Gregory Markkanen,99
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,REP,Gregory Markkanen,709
+Gogebic,"Marenisco Township, Precinct 1",State House,110,REP,Gregory Markkanen,234
+Gogebic,"Wakefield Township, Precinct 1",State House,110,REP,Gregory Markkanen,104
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,REP,Gregory Markkanen,442
+Gogebic,"City of Bessemer, Precinct 1",State House,110,,Write-ins,4
+Gogebic,"City of Ironwood, Precinct 1",State House,110,,Write-ins,8
+Gogebic,"City of Ironwood, Precinct 2",State House,110,,Write-ins,5
+Gogebic,"City of Ironwood, Precinct 3",State House,110,,Write-ins,1
+Gogebic,"City of Wakefield, Precinct 1",State House,110,,Write-ins,4
+Gogebic,"Bessemer Township, Precinct 1",State House,110,,Write-ins,3
+Gogebic,"Erwin Township, Precinct 1",State House,110,,Write-ins,0
+Gogebic,"Ironwood Charter Township, Precinct 1",State House,110,,Write-ins,3
+Gogebic,"Marenisco Township, Precinct 1",State House,110,,Write-ins,2
+Gogebic,"Wakefield Township, Precinct 1",State House,110,,Write-ins,0
+Gogebic,"Watersmeet Township, Precinct 1",State House,110,,Write-ins,3

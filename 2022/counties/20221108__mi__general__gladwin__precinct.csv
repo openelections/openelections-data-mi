@@ -1,0 +1,667 @@
+county,precinct,office,district,party,candidate,votes
+Gladwin,"City of Beaverton, Precinct 1",Ballots Cast,,,,386
+Gladwin,"City of Gladwin, Precinct 1",Ballots Cast,,,,613
+Gladwin,"City of Gladwin, Precinct 2",Ballots Cast,,,,494
+Gladwin,"Beaverton Township, Precinct 1",Ballots Cast,,,,781
+Gladwin,"Bentley Township, Precinct 1",Ballots Cast,,,,378
+Gladwin,"Billings Township, Precinct 1",Ballots Cast,,,,1205
+Gladwin,"Bourret Township, Precinct 1",Ballots Cast,,,,236
+Gladwin,"Buckeye Township, Precinct 1",Ballots Cast,,,,565
+Gladwin,"Butman Township, Precinct 1",Ballots Cast,,,,1375
+Gladwin,"Clement Township, Precinct 1",Ballots Cast,,,,505
+Gladwin,"Gladwin Township, Precinct 1",Ballots Cast,,,,432
+Gladwin,"Grim Township, Precinct 1",Ballots Cast,,,,63
+Gladwin,"Grout Township, Precinct 1",Ballots Cast,,,,818
+Gladwin,"Hay Township, Precinct 1",Ballots Cast,,,,590
+Gladwin,"Sage Township, Precinct 1",Ballots Cast,,,,1172
+Gladwin,"Secord Township, Precinct 1",Ballots Cast,,,,672
+Gladwin,"Sherman Township, Precinct 1",Ballots Cast,,,,498
+Gladwin,"Tobacco Township, Precinct 1",Ballots Cast,,,,1339
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,DEM,Democratic,82
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,DEM,Democratic,106
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,DEM,Democratic,101
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,DEM,Democratic,88
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,DEM,Democratic,69
+Gladwin,"Billings Township, Precinct 1",Straight Party,,DEM,Democratic,232
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,DEM,Democratic,41
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,DEM,Democratic,63
+Gladwin,"Butman Township, Precinct 1",Straight Party,,DEM,Democratic,270
+Gladwin,"Clement Township, Precinct 1",Straight Party,,DEM,Democratic,86
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,DEM,Democratic,64
+Gladwin,"Grim Township, Precinct 1",Straight Party,,DEM,Democratic,11
+Gladwin,"Grout Township, Precinct 1",Straight Party,,DEM,Democratic,91
+Gladwin,"Hay Township, Precinct 1",Straight Party,,DEM,Democratic,119
+Gladwin,"Sage Township, Precinct 1",Straight Party,,DEM,Democratic,187
+Gladwin,"Secord Township, Precinct 1",Straight Party,,DEM,Democratic,130
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,DEM,Democratic,83
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,DEM,Democratic,213
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,REP,Republican,115
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,REP,Republican,188
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,REP,Republican,104
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,REP,Republican,291
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,REP,Republican,115
+Gladwin,"Billings Township, Precinct 1",Straight Party,,REP,Republican,443
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,REP,Republican,84
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,REP,Republican,238
+Gladwin,"Butman Township, Precinct 1",Straight Party,,REP,Republican,529
+Gladwin,"Clement Township, Precinct 1",Straight Party,,REP,Republican,195
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,REP,Republican,142
+Gladwin,"Grim Township, Precinct 1",Straight Party,,REP,Republican,29
+Gladwin,"Grout Township, Precinct 1",Straight Party,,REP,Republican,294
+Gladwin,"Hay Township, Precinct 1",Straight Party,,REP,Republican,196
+Gladwin,"Sage Township, Precinct 1",Straight Party,,REP,Republican,416
+Gladwin,"Secord Township, Precinct 1",Straight Party,,REP,Republican,260
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,REP,Republican,204
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,REP,Republican,453
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,LIB,Libertarian,3
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,LIB,Libertarian,3
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gladwin,"Billings Township, Precinct 1",Straight Party,,LIB,Libertarian,9
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Gladwin,"Butman Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gladwin,"Clement Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gladwin,"Grim Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gladwin,"Grout Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Gladwin,"Hay Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Gladwin,"Sage Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Gladwin,"Secord Township, Precinct 1",Straight Party,,UST,Libertarian,0
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,UST,Libertarian,0
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,UST,Libertarian,3
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gladwin,"Billings Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"Butman Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gladwin,"Clement Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gladwin,"Grim Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Gladwin,"Grout Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,2
+Gladwin,"Hay Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,0
+Gladwin,"Sage Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,0
+Gladwin,"Secord Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,0
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,0
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,WCP,U.S. Taxpayers,2
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,WCP,Working Class,2
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,WCP,Working Class,3
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,WCP,Working Class,5
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Gladwin,"Billings Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Gladwin,"Butman Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gladwin,"Clement Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gladwin,"Grim Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Gladwin,"Grout Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Gladwin,"Hay Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Gladwin,"Sage Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Gladwin,"Secord Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,GRN,Green,2
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,GRN,Green,0
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Billings Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Butman Township, Precinct 1",Straight Party,,GRN,Green,5
+Gladwin,"Clement Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,GRN,Green,1
+Gladwin,"Grim Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Grout Township, Precinct 1",Straight Party,,GRN,Green,1
+Gladwin,"Hay Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Sage Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Secord Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,GRN,Green,0
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,GRN,Green,1
+Gladwin,"City of Beaverton, Precinct 1",Straight Party,,NLP,Natural Law,1
+Gladwin,"City of Gladwin, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"City of Gladwin, Precinct 2",Straight Party,,NLP,Natural Law,0
+Gladwin,"Beaverton Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Bentley Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Billings Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Gladwin,"Bourret Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Buckeye Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Gladwin,"Butman Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Gladwin,"Clement Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Gladwin Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Grim Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Grout Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Hay Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Gladwin,"Sage Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Secord Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Sherman Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"Tobacco Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Gladwin,"City of Beaverton, Precinct 1",Governor,,DEM,Gretchen Whitmer,165
+Gladwin,"City of Gladwin, Precinct 1",Governor,,DEM,Gretchen Whitmer,246
+Gladwin,"City of Gladwin, Precinct 2",Governor,,DEM,Gretchen Whitmer,241
+Gladwin,"Beaverton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,219
+Gladwin,"Bentley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,159
+Gladwin,"Billings Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,475
+Gladwin,"Bourret Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,88
+Gladwin,"Buckeye Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,156
+Gladwin,"Butman Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,541
+Gladwin,"Clement Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,173
+Gladwin,"Gladwin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,141
+Gladwin,"Grim Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,22
+Gladwin,"Grout Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,239
+Gladwin,"Hay Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,232
+Gladwin,"Sage Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,402
+Gladwin,"Secord Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,256
+Gladwin,"Sherman Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,168
+Gladwin,"Tobacco Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,499
+Gladwin,"City of Beaverton, Precinct 1",Governor,,REP,Tudor M. Dixon,194
+Gladwin,"City of Gladwin, Precinct 1",Governor,,REP,Tudor M. Dixon,341
+Gladwin,"City of Gladwin, Precinct 2",Governor,,REP,Tudor M. Dixon,240
+Gladwin,"Beaverton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,543
+Gladwin,"Bentley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,215
+Gladwin,"Billings Township, Precinct 1",Governor,,REP,Tudor M. Dixon,695
+Gladwin,"Bourret Township, Precinct 1",Governor,,REP,Tudor M. Dixon,131
+Gladwin,"Buckeye Township, Precinct 1",Governor,,REP,Tudor M. Dixon,387
+Gladwin,"Butman Township, Precinct 1",Governor,,REP,Tudor M. Dixon,811
+Gladwin,"Clement Township, Precinct 1",Governor,,REP,Tudor M. Dixon,318
+Gladwin,"Gladwin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,285
+Gladwin,"Grim Township, Precinct 1",Governor,,REP,Tudor M. Dixon,40
+Gladwin,"Grout Township, Precinct 1",Governor,,REP,Tudor M. Dixon,552
+Gladwin,"Hay Township, Precinct 1",Governor,,REP,Tudor M. Dixon,339
+Gladwin,"Sage Township, Precinct 1",Governor,,REP,Tudor M. Dixon,737
+Gladwin,"Secord Township, Precinct 1",Governor,,REP,Tudor M. Dixon,406
+Gladwin,"Sherman Township, Precinct 1",Governor,,REP,Tudor M. Dixon,319
+Gladwin,"Tobacco Township, Precinct 1",Governor,,REP,Tudor M. Dixon,804
+Gladwin,"City of Beaverton, Precinct 1",Governor,,LIB,Mary Buzuma,12
+Gladwin,"City of Gladwin, Precinct 1",Governor,,LIB,Mary Buzuma,7
+Gladwin,"City of Gladwin, Precinct 2",Governor,,LIB,Mary Buzuma,7
+Gladwin,"Beaverton Township, Precinct 1",Governor,,LIB,Mary Buzuma,9
+Gladwin,"Bentley Township, Precinct 1",Governor,,LIB,Mary Buzuma,1
+Gladwin,"Billings Township, Precinct 1",Governor,,LIB,Mary Buzuma,10
+Gladwin,"Bourret Township, Precinct 1",Governor,,LIB,Mary Buzuma,7
+Gladwin,"Buckeye Township, Precinct 1",Governor,,LIB,Mary Buzuma,7
+Gladwin,"Butman Township, Precinct 1",Governor,,LIB,Mary Buzuma,4
+Gladwin,"Clement Township, Precinct 1",Governor,,LIB,Mary Buzuma,2
+Gladwin,"Gladwin Township, Precinct 1",Governor,,LIB,Mary Buzuma,2
+Gladwin,"Grim Township, Precinct 1",Governor,,LIB,Mary Buzuma,0
+Gladwin,"Grout Township, Precinct 1",Governor,,LIB,Mary Buzuma,6
+Gladwin,"Hay Township, Precinct 1",Governor,,LIB,Mary Buzuma,6
+Gladwin,"Sage Township, Precinct 1",Governor,,LIB,Mary Buzuma,13
+Gladwin,"Secord Township, Precinct 1",Governor,,LIB,Mary Buzuma,2
+Gladwin,"Sherman Township, Precinct 1",Governor,,LIB,Mary Buzuma,4
+Gladwin,"Tobacco Township, Precinct 1",Governor,,LIB,Mary Buzuma,11
+Gladwin,"City of Beaverton, Precinct 1",Governor,,UST,Donna Brandenburg,4
+Gladwin,"City of Gladwin, Precinct 1",Governor,,UST,Donna Brandenburg,8
+Gladwin,"City of Gladwin, Precinct 2",Governor,,UST,Donna Brandenburg,3
+Gladwin,"Beaverton Township, Precinct 1",Governor,,UST,Donna Brandenburg,5
+Gladwin,"Bentley Township, Precinct 1",Governor,,UST,Donna Brandenburg,1
+Gladwin,"Billings Township, Precinct 1",Governor,,UST,Donna Brandenburg,13
+Gladwin,"Bourret Township, Precinct 1",Governor,,UST,Donna Brandenburg,1
+Gladwin,"Buckeye Township, Precinct 1",Governor,,UST,Donna Brandenburg,3
+Gladwin,"Butman Township, Precinct 1",Governor,,UST,Donna Brandenburg,10
+Gladwin,"Clement Township, Precinct 1",Governor,,UST,Donna Brandenburg,4
+Gladwin,"Gladwin Township, Precinct 1",Governor,,UST,Donna Brandenburg,0
+Gladwin,"Grim Township, Precinct 1",Governor,,UST,Donna Brandenburg,0
+Gladwin,"Grout Township, Precinct 1",Governor,,UST,Donna Brandenburg,5
+Gladwin,"Hay Township, Precinct 1",Governor,,UST,Donna Brandenburg,3
+Gladwin,"Sage Township, Precinct 1",Governor,,UST,Donna Brandenburg,6
+Gladwin,"Secord Township, Precinct 1",Governor,,UST,Donna Brandenburg,3
+Gladwin,"Sherman Township, Precinct 1",Governor,,UST,Donna Brandenburg,1
+Gladwin,"Tobacco Township, Precinct 1",Governor,,UST,Donna Brandenburg,5
+Gladwin,"City of Beaverton, Precinct 1",Governor,,GRN,Kevin Hogan,3
+Gladwin,"City of Gladwin, Precinct 1",Governor,,GRN,Kevin Hogan,5
+Gladwin,"City of Gladwin, Precinct 2",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Beaverton Township, Precinct 1",Governor,,GRN,Kevin Hogan,1
+Gladwin,"Bentley Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Billings Township, Precinct 1",Governor,,GRN,Kevin Hogan,6
+Gladwin,"Bourret Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
+Gladwin,"Buckeye Township, Precinct 1",Governor,,GRN,Kevin Hogan,3
+Gladwin,"Butman Township, Precinct 1",Governor,,GRN,Kevin Hogan,4
+Gladwin,"Clement Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Gladwin Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Grim Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Grout Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
+Gladwin,"Hay Township, Precinct 1",Governor,,GRN,Kevin Hogan,4
+Gladwin,"Sage Township, Precinct 1",Governor,,GRN,Kevin Hogan,2
+Gladwin,"Secord Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Sherman Township, Precinct 1",Governor,,GRN,Kevin Hogan,0
+Gladwin,"Tobacco Township, Precinct 1",Governor,,GRN,Kevin Hogan,3
+Gladwin,"City of Beaverton, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gladwin,"City of Gladwin, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"City of Gladwin, Precinct 2",Governor,,NLP,Daryl M. Simpson,0
+Gladwin,"Beaverton Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Bentley Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gladwin,"Billings Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Bourret Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gladwin,"Buckeye Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Butman Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gladwin,"Clement Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Gladwin Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Grim Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gladwin,"Grout Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,5
+Gladwin,"Hay Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gladwin,"Sage Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"Secord Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1
+Gladwin,"Sherman Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0
+Gladwin,"Tobacco Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2
+Gladwin,"City of Beaverton, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 2",Governor,,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Bentley Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Billings Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",Governor,,,Write-ins,1
+Gladwin,"Buckeye Township, Precinct 1",Governor,,,Write-ins,4
+Gladwin,"Butman Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Clement Township, Precinct 1",Governor,,,Write-ins,1
+Gladwin,"Gladwin Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Grim Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",Governor,,,Write-ins,6
+Gladwin,"Hay Township, Precinct 1",Governor,,,Write-ins,1
+Gladwin,"Sage Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Secord Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Sherman Township, Precinct 1",Governor,,,Write-ins,0
+Gladwin,"Tobacco Township, Precinct 1",Governor,,,Write-ins,3
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,169
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,241
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,250
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,243
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,164
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,504
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,94
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,167
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,572
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,189
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,149
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,25
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,252
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,243
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,426
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,285
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,163
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,518
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,189
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,329
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,221
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,501
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,193
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,655
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,127
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,373
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,764
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,301
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,264
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,37
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,534
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,319
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,695
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,379
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,321
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,762
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,11
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,13
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,7
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,10
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,13
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,3
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,2
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,0
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,3
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,4
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,19
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,14
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,2
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,10
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,16
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,3
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,12
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,7
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,12
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Gladwin,"City of Beaverton, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 1",Secretary of State,,,Write-ins,1
+Gladwin,"City of Gladwin, Precinct 2",Secretary of State,,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Bentley Township, Precinct 1",Secretary of State,,,Write-ins,1
+Gladwin,"Billings Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",Secretary of State,,,Write-ins,1
+Gladwin,"Buckeye Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Butman Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Clement Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Gladwin Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Grim Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",Secretary of State,,,Write-ins,2
+Gladwin,"Hay Township, Precinct 1",Secretary of State,,,Write-ins,2
+Gladwin,"Sage Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Secord Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Sherman Township, Precinct 1",Secretary of State,,,Write-ins,0
+Gladwin,"Tobacco Township, Precinct 1",Secretary of State,,,Write-ins,1
+Gladwin,"City of Beaverton, Precinct 1",Attorney General,,DEM,Dana Nessel,156
+Gladwin,"City of Gladwin, Precinct 1",Attorney General,,DEM,Dana Nessel,216
+Gladwin,"City of Gladwin, Precinct 2",Attorney General,,DEM,Dana Nessel,231
+Gladwin,"Beaverton Township, Precinct 1",Attorney General,,DEM,Dana Nessel,212
+Gladwin,"Bentley Township, Precinct 1",Attorney General,,DEM,Dana Nessel,144
+Gladwin,"Billings Township, Precinct 1",Attorney General,,DEM,Dana Nessel,455
+Gladwin,"Bourret Township, Precinct 1",Attorney General,,DEM,Dana Nessel,82
+Gladwin,"Buckeye Township, Precinct 1",Attorney General,,DEM,Dana Nessel,150
+Gladwin,"Butman Township, Precinct 1",Attorney General,,DEM,Dana Nessel,526
+Gladwin,"Clement Township, Precinct 1",Attorney General,,DEM,Dana Nessel,169
+Gladwin,"Gladwin Township, Precinct 1",Attorney General,,DEM,Dana Nessel,127
+Gladwin,"Grim Township, Precinct 1",Attorney General,,DEM,Dana Nessel,25
+Gladwin,"Grout Township, Precinct 1",Attorney General,,DEM,Dana Nessel,222
+Gladwin,"Hay Township, Precinct 1",Attorney General,,DEM,Dana Nessel,221
+Gladwin,"Sage Township, Precinct 1",Attorney General,,DEM,Dana Nessel,383
+Gladwin,"Secord Township, Precinct 1",Attorney General,,DEM,Dana Nessel,251
+Gladwin,"Sherman Township, Precinct 1",Attorney General,,DEM,Dana Nessel,161
+Gladwin,"Tobacco Township, Precinct 1",Attorney General,,DEM,Dana Nessel,461
+Gladwin,"City of Beaverton, Precinct 1",Attorney General,,REP,Matthew DePerno,197
+Gladwin,"City of Gladwin, Precinct 1",Attorney General,,REP,Matthew DePerno,355
+Gladwin,"City of Gladwin, Precinct 2",Attorney General,,REP,Matthew DePerno,234
+Gladwin,"Beaverton Township, Precinct 1",Attorney General,,REP,Matthew DePerno,528
+Gladwin,"Bentley Township, Precinct 1",Attorney General,,REP,Matthew DePerno,208
+Gladwin,"Billings Township, Precinct 1",Attorney General,,REP,Matthew DePerno,692
+Gladwin,"Bourret Township, Precinct 1",Attorney General,,REP,Matthew DePerno,138
+Gladwin,"Buckeye Township, Precinct 1",Attorney General,,REP,Matthew DePerno,384
+Gladwin,"Butman Township, Precinct 1",Attorney General,,REP,Matthew DePerno,808
+Gladwin,"Clement Township, Precinct 1",Attorney General,,REP,Matthew DePerno,316
+Gladwin,"Gladwin Township, Precinct 1",Attorney General,,REP,Matthew DePerno,282
+Gladwin,"Grim Township, Precinct 1",Attorney General,,REP,Matthew DePerno,36
+Gladwin,"Grout Township, Precinct 1",Attorney General,,REP,Matthew DePerno,552
+Gladwin,"Hay Township, Precinct 1",Attorney General,,REP,Matthew DePerno,340
+Gladwin,"Sage Township, Precinct 1",Attorney General,,REP,Matthew DePerno,735
+Gladwin,"Secord Township, Precinct 1",Attorney General,,REP,Matthew DePerno,404
+Gladwin,"Sherman Township, Precinct 1",Attorney General,,REP,Matthew DePerno,325
+Gladwin,"Tobacco Township, Precinct 1",Attorney General,,REP,Matthew DePerno,810
+Gladwin,"City of Beaverton, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,13
+Gladwin,"City of Gladwin, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,17
+Gladwin,"City of Gladwin, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Gladwin,"Beaverton Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Gladwin,"Bentley Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Gladwin,"Billings Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,21
+Gladwin,"Bourret Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Gladwin,"Buckeye Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,15
+Gladwin,"Butman Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Gladwin,"Clement Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,1
+Gladwin,"Gladwin Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Gladwin,"Grim Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,0
+Gladwin,"Grout Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Gladwin,"Hay Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,9
+Gladwin,"Sage Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,16
+Gladwin,"Secord Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Gladwin,"Sherman Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Gladwin,"Tobacco Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,24
+Gladwin,"City of Beaverton, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5
+Gladwin,"City of Gladwin, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10
+Gladwin,"City of Gladwin, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,4
+Gladwin,"Beaverton Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,9
+Gladwin,"Bentley Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
+Gladwin,"Billings Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,20
+Gladwin,"Bourret Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3
+Gladwin,"Buckeye Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
+Gladwin,"Butman Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,16
+Gladwin,"Clement Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7
+Gladwin,"Gladwin Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3
+Gladwin,"Grim Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,0
+Gladwin,"Grout Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,18
+Gladwin,"Hay Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5
+Gladwin,"Sage Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,8
+Gladwin,"Secord Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4
+Gladwin,"Sherman Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5
+Gladwin,"Tobacco Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7
+Gladwin,"City of Beaverton, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 2",Attorney General,,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Bentley Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Billings Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Buckeye Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Butman Township, Precinct 1",Attorney General,,,Write-ins,2
+Gladwin,"Clement Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Gladwin Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Grim Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Hay Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"Sage Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Secord Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Sherman Township, Precinct 1",Attorney General,,,Write-ins,0
+Gladwin,"Tobacco Township, Precinct 1",Attorney General,,,Write-ins,1
+Gladwin,"City of Beaverton, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,135
+Gladwin,"City of Gladwin, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,181
+Gladwin,"City of Gladwin, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,191
+Gladwin,"Beaverton Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,169
+Gladwin,"Bentley Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,125
+Gladwin,"Billings Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,372
+Gladwin,"Bourret Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,65
+Gladwin,"Buckeye Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,105
+Gladwin,"Butman Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,435
+Gladwin,"Clement Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,133
+Gladwin,"Gladwin Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,105
+Gladwin,"Grim Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,21
+Gladwin,"Grout Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,163
+Gladwin,"Hay Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,183
+Gladwin,"Sage Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,296
+Gladwin,"Secord Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,197
+Gladwin,"Sherman Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,126
+Gladwin,"Tobacco Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,377
+Gladwin,"City of Beaverton, Precinct 1",U.S. House,2,REP,John Moolenaar,231
+Gladwin,"City of Gladwin, Precinct 1",U.S. House,2,REP,John Moolenaar,403
+Gladwin,"City of Gladwin, Precinct 2",U.S. House,2,REP,John Moolenaar,278
+Gladwin,"Beaverton Township, Precinct 1",U.S. House,2,REP,John Moolenaar,583
+Gladwin,"Bentley Township, Precinct 1",U.S. House,2,REP,John Moolenaar,241
+Gladwin,"Billings Township, Precinct 1",U.S. House,2,REP,John Moolenaar,782
+Gladwin,"Bourret Township, Precinct 1",U.S. House,2,REP,John Moolenaar,153
+Gladwin,"Buckeye Township, Precinct 1",U.S. House,2,REP,John Moolenaar,437
+Gladwin,"Butman Township, Precinct 1",U.S. House,2,REP,John Moolenaar,904
+Gladwin,"Clement Township, Precinct 1",U.S. House,2,REP,John Moolenaar,350
+Gladwin,"Gladwin Township, Precinct 1",U.S. House,2,REP,John Moolenaar,307
+Gladwin,"Grim Township, Precinct 1",U.S. House,2,REP,John Moolenaar,39
+Gladwin,"Grout Township, Precinct 1",U.S. House,2,REP,John Moolenaar,623
+Gladwin,"Hay Township, Precinct 1",U.S. House,2,REP,John Moolenaar,384
+Gladwin,"Sage Township, Precinct 1",U.S. House,2,REP,John Moolenaar,826
+Gladwin,"Secord Township, Precinct 1",U.S. House,2,REP,John Moolenaar,466
+Gladwin,"Sherman Township, Precinct 1",U.S. House,2,REP,John Moolenaar,354
+Gladwin,"Tobacco Township, Precinct 1",U.S. House,2,REP,John Moolenaar,913
+Gladwin,"City of Beaverton, Precinct 1",U.S. House,2,LIB,Nathan Hewer,9
+Gladwin,"City of Gladwin, Precinct 1",U.S. House,2,LIB,Nathan Hewer,18
+Gladwin,"City of Gladwin, Precinct 2",U.S. House,2,LIB,Nathan Hewer,14
+Gladwin,"Beaverton Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,14
+Gladwin,"Bentley Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,4
+Gladwin,"Billings Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,24
+Gladwin,"Bourret Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,5
+Gladwin,"Buckeye Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,14
+Gladwin,"Butman Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,11
+Gladwin,"Clement Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,6
+Gladwin,"Gladwin Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,8
+Gladwin,"Grim Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,1
+Gladwin,"Grout Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,16
+Gladwin,"Hay Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,9
+Gladwin,"Sage Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,19
+Gladwin,"Secord Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,3
+Gladwin,"Sherman Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,9
+Gladwin,"Tobacco Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,20
+Gladwin,"City of Beaverton, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"City of Gladwin, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"City of Gladwin, Precinct 2",U.S. House,2,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Bentley Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Billings Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"Buckeye Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Butman Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"Clement Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"Gladwin Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Grim Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"Hay Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"Sage Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Secord Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Sherman Township, Precinct 1",U.S. House,2,,Write-ins,0
+Gladwin,"Tobacco Township, Precinct 1",U.S. House,2,,Write-ins,1
+Gladwin,"City of Beaverton, Precinct 1",State Senate,34,DEM,Christine Gerace,136
+Gladwin,"City of Gladwin, Precinct 1",State Senate,34,DEM,Christine Gerace,189
+Gladwin,"City of Gladwin, Precinct 2",State Senate,34,DEM,Christine Gerace,197
+Gladwin,"Beaverton Township, Precinct 1",State Senate,34,DEM,Christine Gerace,184
+Gladwin,"Bentley Township, Precinct 1",State Senate,34,DEM,Christine Gerace,136
+Gladwin,"Billings Township, Precinct 1",State Senate,34,DEM,Christine Gerace,382
+Gladwin,"Bourret Township, Precinct 1",State Senate,34,DEM,Christine Gerace,67
+Gladwin,"Buckeye Township, Precinct 1",State Senate,34,DEM,Christine Gerace,112
+Gladwin,"Butman Township, Precinct 1",State Senate,34,DEM,Christine Gerace,449
+Gladwin,"Clement Township, Precinct 1",State Senate,34,DEM,Christine Gerace,138
+Gladwin,"Gladwin Township, Precinct 1",State Senate,34,DEM,Christine Gerace,109
+Gladwin,"Grim Township, Precinct 1",State Senate,34,DEM,Christine Gerace,21
+Gladwin,"Grout Township, Precinct 1",State Senate,34,DEM,Christine Gerace,176
+Gladwin,"Hay Township, Precinct 1",State Senate,34,DEM,Christine Gerace,188
+Gladwin,"Sage Township, Precinct 1",State Senate,34,DEM,Christine Gerace,323
+Gladwin,"Secord Township, Precinct 1",State Senate,34,DEM,Christine Gerace,205
+Gladwin,"Sherman Township, Precinct 1",State Senate,34,DEM,Christine Gerace,133
+Gladwin,"Tobacco Township, Precinct 1",State Senate,34,DEM,Christine Gerace,395
+Gladwin,"City of Beaverton, Precinct 1",State Senate,34,REP,Roger Hauck,214
+Gladwin,"City of Gladwin, Precinct 1",State Senate,34,REP,Roger Hauck,380
+Gladwin,"City of Gladwin, Precinct 2",State Senate,34,REP,Roger Hauck,260
+Gladwin,"Beaverton Township, Precinct 1",State Senate,34,REP,Roger Hauck,558
+Gladwin,"Bentley Township, Precinct 1",State Senate,34,REP,Roger Hauck,216
+Gladwin,"Billings Township, Precinct 1",State Senate,34,REP,Roger Hauck,744
+Gladwin,"Bourret Township, Precinct 1",State Senate,34,REP,Roger Hauck,144
+Gladwin,"Buckeye Township, Precinct 1",State Senate,34,REP,Roger Hauck,421
+Gladwin,"Butman Township, Precinct 1",State Senate,34,REP,Roger Hauck,865
+Gladwin,"Clement Township, Precinct 1",State Senate,34,REP,Roger Hauck,339
+Gladwin,"Gladwin Township, Precinct 1",State Senate,34,REP,Roger Hauck,302
+Gladwin,"Grim Township, Precinct 1",State Senate,34,REP,Roger Hauck,40
+Gladwin,"Grout Township, Precinct 1",State Senate,34,REP,Roger Hauck,592
+Gladwin,"Hay Township, Precinct 1",State Senate,34,REP,Roger Hauck,369
+Gladwin,"Sage Township, Precinct 1",State Senate,34,REP,Roger Hauck,775
+Gladwin,"Secord Township, Precinct 1",State Senate,34,REP,Roger Hauck,445
+Gladwin,"Sherman Township, Precinct 1",State Senate,34,REP,Roger Hauck,343
+Gladwin,"Tobacco Township, Precinct 1",State Senate,34,REP,Roger Hauck,870
+Gladwin,"City of Beaverton, Precinct 1",State Senate,34,UST,Becky McDonald,17
+Gladwin,"City of Gladwin, Precinct 1",State Senate,34,UST,Becky McDonald,21
+Gladwin,"City of Gladwin, Precinct 2",State Senate,34,UST,Becky McDonald,14
+Gladwin,"Beaverton Township, Precinct 1",State Senate,34,UST,Becky McDonald,16
+Gladwin,"Bentley Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Gladwin,"Billings Township, Precinct 1",State Senate,34,UST,Becky McDonald,36
+Gladwin,"Bourret Township, Precinct 1",State Senate,34,UST,Becky McDonald,6
+Gladwin,"Buckeye Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Gladwin,"Butman Township, Precinct 1",State Senate,34,UST,Becky McDonald,20
+Gladwin,"Clement Township, Precinct 1",State Senate,34,UST,Becky McDonald,6
+Gladwin,"Gladwin Township, Precinct 1",State Senate,34,UST,Becky McDonald,7
+Gladwin,"Grim Township, Precinct 1",State Senate,34,UST,Becky McDonald,0
+Gladwin,"Grout Township, Precinct 1",State Senate,34,UST,Becky McDonald,26
+Gladwin,"Hay Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Gladwin,"Sage Township, Precinct 1",State Senate,34,UST,Becky McDonald,28
+Gladwin,"Secord Township, Precinct 1",State Senate,34,UST,Becky McDonald,9
+Gladwin,"Sherman Township, Precinct 1",State Senate,34,UST,Becky McDonald,12
+Gladwin,"Tobacco Township, Precinct 1",State Senate,34,UST,Becky McDonald,23
+Gladwin,"City of Beaverton, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"City of Gladwin, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"City of Gladwin, Precinct 2",State Senate,34,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Bentley Township, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"Billings Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"Buckeye Township, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"Butman Township, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"Clement Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Gladwin Township, Precinct 1",State Senate,34,,Write-ins,2
+Gladwin,"Grim Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Hay Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Sage Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Secord Township, Precinct 1",State Senate,34,,Write-ins,0
+Gladwin,"Sherman Township, Precinct 1",State Senate,34,,Write-ins,1
+Gladwin,"Tobacco Township, Precinct 1",State Senate,34,,Write-ins,2
+Gladwin,"City of Beaverton, Precinct 1",State House,95,DEM,Matthew Dawson,130
+Gladwin,"Beaverton Township, Precinct 1",State House,95,DEM,Matthew Dawson,166
+Gladwin,"Billings Township, Precinct 1",State House,95,DEM,Matthew Dawson,392
+Gladwin,"Tobacco Township, Precinct 1",State House,95,DEM,Matthew Dawson,385
+Gladwin,"City of Beaverton, Precinct 1",State House,95,REP,Bill G. Schuette,239
+Gladwin,"Beaverton Township, Precinct 1",State House,95,REP,Bill G. Schuette,594
+Gladwin,"Billings Township, Precinct 1",State House,95,REP,Bill G. Schuette,788
+Gladwin,"Tobacco Township, Precinct 1",State House,95,REP,Bill G. Schuette,916
+Gladwin,"City of Beaverton, Precinct 1",State House,95,,Write-ins,0
+Gladwin,"Beaverton Township, Precinct 1",State House,95,,Write-ins,1
+Gladwin,"Billings Township, Precinct 1",State House,95,,Write-ins,1
+Gladwin,"Tobacco Township, Precinct 1",State House,95,,Write-ins,3
+Gladwin,"City of Gladwin, Precinct 1",State House,99,DEM,Kenneth A. Kish,203
+Gladwin,"City of Gladwin, Precinct 2",State House,99,DEM,Kenneth A. Kish,205
+Gladwin,"Bentley Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,136
+Gladwin,"Bourret Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,73
+Gladwin,"Buckeye Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,129
+Gladwin,"Butman Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,456
+Gladwin,"Clement Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,145
+Gladwin,"Gladwin Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,113
+Gladwin,"Grim Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,21
+Gladwin,"Grout Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,193
+Gladwin,"Hay Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,202
+Gladwin,"Sage Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,331
+Gladwin,"Secord Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,211
+Gladwin,"Sherman Township, Precinct 1",State House,99,DEM,Kenneth A. Kish,139
+Gladwin,"City of Gladwin, Precinct 1",State House,99,REP,Mike Hoadley,381
+Gladwin,"City of Gladwin, Precinct 2",State House,99,REP,Mike Hoadley,263
+Gladwin,"Bentley Township, Precinct 1",State House,99,REP,Mike Hoadley,230
+Gladwin,"Bourret Township, Precinct 1",State House,99,REP,Mike Hoadley,145
+Gladwin,"Buckeye Township, Precinct 1",State House,99,REP,Mike Hoadley,418
+Gladwin,"Butman Township, Precinct 1",State House,99,REP,Mike Hoadley,866
+Gladwin,"Clement Township, Precinct 1",State House,99,REP,Mike Hoadley,338
+Gladwin,"Gladwin Township, Precinct 1",State House,99,REP,Mike Hoadley,304
+Gladwin,"Grim Township, Precinct 1",State House,99,REP,Mike Hoadley,40
+Gladwin,"Grout Township, Precinct 1",State House,99,REP,Mike Hoadley,595
+Gladwin,"Hay Township, Precinct 1",State House,99,REP,Mike Hoadley,369
+Gladwin,"Sage Township, Precinct 1",State House,99,REP,Mike Hoadley,789
+Gladwin,"Secord Township, Precinct 1",State House,99,REP,Mike Hoadley,438
+Gladwin,"Sherman Township, Precinct 1",State House,99,REP,Mike Hoadley,347
+Gladwin,"City of Gladwin, Precinct 1",State House,99,,Write-ins,2
+Gladwin,"City of Gladwin, Precinct 2",State House,99,,Write-ins,2
+Gladwin,"Bentley Township, Precinct 1",State House,99,,Write-ins,0
+Gladwin,"Bourret Township, Precinct 1",State House,99,,Write-ins,2
+Gladwin,"Buckeye Township, Precinct 1",State House,99,,Write-ins,0
+Gladwin,"Butman Township, Precinct 1",State House,99,,Write-ins,5
+Gladwin,"Clement Township, Precinct 1",State House,99,,Write-ins,2
+Gladwin,"Gladwin Township, Precinct 1",State House,99,,Write-ins,1
+Gladwin,"Grim Township, Precinct 1",State House,99,,Write-ins,0
+Gladwin,"Grout Township, Precinct 1",State House,99,,Write-ins,5
+Gladwin,"Hay Township, Precinct 1",State House,99,,Write-ins,3
+Gladwin,"Sage Township, Precinct 1",State House,99,,Write-ins,6
+Gladwin,"Secord Township, Precinct 1",State House,99,,Write-ins,4
+Gladwin,"Sherman Township, Precinct 1",State House,99,,Write-ins,1

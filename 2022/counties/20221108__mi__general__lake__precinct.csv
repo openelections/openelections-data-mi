@@ -1,0 +1,505 @@
+county,precinct,office,district,party,candidate,votes
+Lake,Chase Township Precinct 1,Straight Party,,DEM,Democratic,67
+Lake,Cherry Valley Township Precinct 2,Straight Party,,DEM,Democratic,36
+Lake,Dover Township Precinct 3,Straight Party,,DEM,Democratic,24
+Lake,Eden Township Precinct 4,Straight Party,,DEM,Democratic,61
+Lake,Elk Township Precinct 5,Straight Party,,DEM,Democratic,141
+Lake,Ellsworth Township Precinct 6,Straight Party,,DEM,Democratic,51
+Lake,Lake Township Precinct 7,Straight Party,,DEM,Democratic,91
+Lake,Newkirk Township Precinct 8,Straight Party,,DEM,Democratic,40
+Lake,Peacock Township Precinct 10,Straight Party,,DEM,Democratic,47
+Lake,Pinora Township Precinct 11,Straight Party,,DEM,Democratic,38
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,DEM,Democratic,136
+Lake,Sauble Township Precinct 15,Straight Party,,DEM,Democratic,37
+Lake,Sweetwater Township Precinct 16,Straight Party,,DEM,Democratic,29
+Lake,Webber Township Precinct 17,Straight Party,,DEM,Democratic,115
+Lake,Yates Township Precinct 19,Straight Party,,DEM,Democratic,159
+Lake,Chase Township Precinct 1,Straight Party,,REP,Republican,254
+Lake,Cherry Valley Township Precinct 2,Straight Party,,REP,Republican,82
+Lake,Dover Township Precinct 3,Straight Party,,REP,Republican,96
+Lake,Eden Township Precinct 4,Straight Party,,REP,Republican,106
+Lake,Elk Township Precinct 5,Straight Party,,REP,Republican,228
+Lake,Ellsworth Township Precinct 6,Straight Party,,REP,Republican,174
+Lake,Lake Township Precinct 7,Straight Party,,REP,Republican,199
+Lake,Newkirk Township Precinct 8,Straight Party,,REP,Republican,129
+Lake,Peacock Township Precinct 10,Straight Party,,REP,Republican,104
+Lake,Pinora Township Precinct 11,Straight Party,,REP,Republican,157
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,REP,Republican,149
+Lake,Sauble Township Precinct 15,Straight Party,,REP,Republican,102
+Lake,Sweetwater Township Precinct 16,Straight Party,,REP,Republican,35
+Lake,Webber Township Precinct 17,Straight Party,,REP,Republican,137
+Lake,Yates Township Precinct 19,Straight Party,,REP,Republican,76
+Lake,Chase Township Precinct 1,Straight Party,,LIB,Libertarian,0
+Lake,Cherry Valley Township Precinct 2,Straight Party,,LIB,Libertarian,1
+Lake,Dover Township Precinct 3,Straight Party,,LIB,Libertarian,1
+Lake,Eden Township Precinct 4,Straight Party,,LIB,Libertarian,1
+Lake,Elk Township Precinct 5,Straight Party,,LIB,Libertarian,1
+Lake,Ellsworth Township Precinct 6,Straight Party,,LIB,Libertarian,0
+Lake,Lake Township Precinct 7,Straight Party,,LIB,Libertarian,2
+Lake,Newkirk Township Precinct 8,Straight Party,,LIB,Libertarian,4
+Lake,Peacock Township Precinct 10,Straight Party,,LIB,Libertarian,0
+Lake,Pinora Township Precinct 11,Straight Party,,LIB,Libertarian,1
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,LIB,Libertarian,3
+Lake,Sauble Township Precinct 15,Straight Party,,LIB,Libertarian,0
+Lake,Sweetwater Township Precinct 16,Straight Party,,LIB,Libertarian,0
+Lake,Webber Township Precinct 17,Straight Party,,LIB,Libertarian,3
+Lake,Yates Township Precinct 19,Straight Party,,LIB,Libertarian,0
+Lake,Chase Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Cherry Valley Township Precinct 2,Straight Party,,UST,U.S. Taxpayers,1
+Lake,Dover Township Precinct 3,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Eden Township Precinct 4,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Elk Township Precinct 5,Straight Party,,UST,U.S. Taxpayers,1
+Lake,Ellsworth Township Precinct 6,Straight Party,,UST,U.S. Taxpayers,1
+Lake,Lake Township Precinct 7,Straight Party,,UST,U.S. Taxpayers,2
+Lake,Newkirk Township Precinct 8,Straight Party,,UST,U.S. Taxpayers,1
+Lake,Peacock Township Precinct 10,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Pinora Township Precinct 11,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,UST,U.S. Taxpayers,3
+Lake,Sauble Township Precinct 15,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Sweetwater Township Precinct 16,Straight Party,,UST,U.S. Taxpayers,0
+Lake,Webber Township Precinct 17,Straight Party,,UST,U.S. Taxpayers,3
+Lake,Yates Township Precinct 19,Straight Party,,UST,U.S. Taxpayers,2
+Lake,Chase Township Precinct 1,Straight Party,,WCP,Working Class,1
+Lake,Cherry Valley Township Precinct 2,Straight Party,,WCP,Working Class,2
+Lake,Dover Township Precinct 3,Straight Party,,WCP,Working Class,1
+Lake,Eden Township Precinct 4,Straight Party,,WCP,Working Class,2
+Lake,Elk Township Precinct 5,Straight Party,,WCP,Working Class,1
+Lake,Ellsworth Township Precinct 6,Straight Party,,WCP,Working Class,1
+Lake,Lake Township Precinct 7,Straight Party,,WCP,Working Class,1
+Lake,Newkirk Township Precinct 8,Straight Party,,WCP,Working Class,2
+Lake,Peacock Township Precinct 10,Straight Party,,WCP,Working Class,1
+Lake,Pinora Township Precinct 11,Straight Party,,WCP,Working Class,0
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,WCP,Working Class,2
+Lake,Sauble Township Precinct 15,Straight Party,,WCP,Working Class,0
+Lake,Sweetwater Township Precinct 16,Straight Party,,WCP,Working Class,0
+Lake,Webber Township Precinct 17,Straight Party,,WCP,Working Class,3
+Lake,Yates Township Precinct 19,Straight Party,,WCP,Working Class,2
+Lake,Chase Township Precinct 1,Straight Party,,GRN,Green,0
+Lake,Cherry Valley Township Precinct 2,Straight Party,,GRN,Green,0
+Lake,Dover Township Precinct 3,Straight Party,,GRN,Green,0
+Lake,Eden Township Precinct 4,Straight Party,,GRN,Green,0
+Lake,Elk Township Precinct 5,Straight Party,,GRN,Green,0
+Lake,Ellsworth Township Precinct 6,Straight Party,,GRN,Green,0
+Lake,Lake Township Precinct 7,Straight Party,,GRN,Green,1
+Lake,Newkirk Township Precinct 8,Straight Party,,GRN,Green,1
+Lake,Peacock Township Precinct 10,Straight Party,,GRN,Green,0
+Lake,Pinora Township Precinct 11,Straight Party,,GRN,Green,1
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,GRN,Green,1
+Lake,Sauble Township Precinct 15,Straight Party,,GRN,Green,0
+Lake,Sweetwater Township Precinct 16,Straight Party,,GRN,Green,0
+Lake,Webber Township Precinct 17,Straight Party,,GRN,Green,1
+Lake,Yates Township Precinct 19,Straight Party,,GRN,Green,1
+Lake,Chase Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Lake,Cherry Valley Township Precinct 2,Straight Party,,NLP,Natural Law,0
+Lake,Dover Township Precinct 3,Straight Party,,NLP,Natural Law,0
+Lake,Eden Township Precinct 4,Straight Party,,NLP,Natural Law,0
+Lake,Elk Township Precinct 5,Straight Party,,NLP,Natural Law,0
+Lake,Ellsworth Township Precinct 6,Straight Party,,NLP,Natural Law,0
+Lake,Lake Township Precinct 7,Straight Party,,NLP,Natural Law,0
+Lake,Newkirk Township Precinct 8,Straight Party,,NLP,Natural Law,1
+Lake,Peacock Township Precinct 10,Straight Party,,NLP,Natural Law,0
+Lake,Pinora Township Precinct 11,Straight Party,,NLP,Natural Law,2
+Lake,Pleasant Plains Township Precinct 12,Straight Party,,NLP,Natural Law,1
+Lake,Sauble Township Precinct 15,Straight Party,,NLP,Natural Law,1
+Lake,Sweetwater Township Precinct 16,Straight Party,,NLP,Natural Law,0
+Lake,Webber Township Precinct 17,Straight Party,,NLP,Natural Law,0
+Lake,Yates Township Precinct 19,Straight Party,,NLP,Natural Law,1
+Lake,Chase Township Precinct 1,Governor,,DEM,Gretchen Whitmer,130
+Lake,Cherry Valley Township Precinct 2,Governor,,DEM,Gretchen Whitmer,70
+Lake,Dover Township Precinct 3,Governor,,DEM,Gretchen Whitmer,48
+Lake,Eden Township Precinct 4,Governor,,DEM,Gretchen Whitmer,102
+Lake,Elk Township Precinct 5,Governor,,DEM,Gretchen Whitmer,276
+Lake,Ellsworth Township Precinct 6,Governor,,DEM,Gretchen Whitmer,123
+Lake,Lake Township Precinct 7,Governor,,DEM,Gretchen Whitmer,195
+Lake,Newkirk Township Precinct 8,Governor,,DEM,Gretchen Whitmer,83
+Lake,Peacock Township Precinct 10,Governor,,DEM,Gretchen Whitmer,87
+Lake,Pinora Township Precinct 11,Governor,,DEM,Gretchen Whitmer,77
+Lake,Pleasant Plains Township Precinct 12,Governor,,DEM,Gretchen Whitmer,294
+Lake,Sauble Township Precinct 15,Governor,,DEM,Gretchen Whitmer,96
+Lake,Sweetwater Township Precinct 16,Governor,,DEM,Gretchen Whitmer,56
+Lake,Webber Township Precinct 17,Governor,,DEM,Gretchen Whitmer,227
+Lake,Yates Township Precinct 19,Governor,,DEM,Gretchen Whitmer,217
+Lake,Chase Township Precinct 1,Governor,,REP,Tudor M. Dixon,372
+Lake,Cherry Valley Township Precinct 2,Governor,,REP,Tudor M. Dixon,126
+Lake,Dover Township Precinct 3,Governor,,REP,Tudor M. Dixon,150
+Lake,Eden Township Precinct 4,Governor,,REP,Tudor M. Dixon,159
+Lake,Elk Township Precinct 5,Governor,,REP,Tudor M. Dixon,328
+Lake,Ellsworth Township Precinct 6,Governor,,REP,Tudor M. Dixon,244
+Lake,Lake Township Precinct 7,Governor,,REP,Tudor M. Dixon,287
+Lake,Newkirk Township Precinct 8,Governor,,REP,Tudor M. Dixon,196
+Lake,Peacock Township Precinct 10,Governor,,REP,Tudor M. Dixon,141
+Lake,Pinora Township Precinct 11,Governor,,REP,Tudor M. Dixon,248
+Lake,Pleasant Plains Township Precinct 12,Governor,,REP,Tudor M. Dixon,257
+Lake,Sauble Township Precinct 15,Governor,,REP,Tudor M. Dixon,159
+Lake,Sweetwater Township Precinct 16,Governor,,REP,Tudor M. Dixon,53
+Lake,Webber Township Precinct 17,Governor,,REP,Tudor M. Dixon,216
+Lake,Yates Township Precinct 19,Governor,,REP,Tudor M. Dixon,119
+Lake,Chase Township Precinct 1,Governor,,LIB,Mary Buzuma,5
+Lake,Cherry Valley Township Precinct 2,Governor,,LIB,Mary Buzuma,3
+Lake,Dover Township Precinct 3,Governor,,LIB,Mary Buzuma,3
+Lake,Eden Township Precinct 4,Governor,,LIB,Mary Buzuma,2
+Lake,Elk Township Precinct 5,Governor,,LIB,Mary Buzuma,7
+Lake,Ellsworth Township Precinct 6,Governor,,LIB,Mary Buzuma,3
+Lake,Lake Township Precinct 7,Governor,,LIB,Mary Buzuma,2
+Lake,Newkirk Township Precinct 8,Governor,,LIB,Mary Buzuma,3
+Lake,Peacock Township Precinct 10,Governor,,LIB,Mary Buzuma,2
+Lake,Pinora Township Precinct 11,Governor,,LIB,Mary Buzuma,5
+Lake,Pleasant Plains Township Precinct 12,Governor,,LIB,Mary Buzuma,3
+Lake,Sauble Township Precinct 15,Governor,,LIB,Mary Buzuma,1
+Lake,Sweetwater Township Precinct 16,Governor,,LIB,Mary Buzuma,2
+Lake,Webber Township Precinct 17,Governor,,LIB,Mary Buzuma,6
+Lake,Yates Township Precinct 19,Governor,,LIB,Mary Buzuma,6
+Lake,Chase Township Precinct 1,Governor,,UST,Donna Brandenburg,3
+Lake,Cherry Valley Township Precinct 2,Governor,,UST,Donna Brandenburg,5
+Lake,Dover Township Precinct 3,Governor,,UST,Donna Brandenburg,1
+Lake,Eden Township Precinct 4,Governor,,UST,Donna Brandenburg,3
+Lake,Elk Township Precinct 5,Governor,,UST,Donna Brandenburg,4
+Lake,Ellsworth Township Precinct 6,Governor,,UST,Donna Brandenburg,5
+Lake,Lake Township Precinct 7,Governor,,UST,Donna Brandenburg,2
+Lake,Newkirk Township Precinct 8,Governor,,UST,Donna Brandenburg,3
+Lake,Peacock Township Precinct 10,Governor,,UST,Donna Brandenburg,1
+Lake,Pinora Township Precinct 11,Governor,,UST,Donna Brandenburg,1
+Lake,Pleasant Plains Township Precinct 12,Governor,,UST,Donna Brandenburg,5
+Lake,Sauble Township Precinct 15,Governor,,UST,Donna Brandenburg,0
+Lake,Sweetwater Township Precinct 16,Governor,,UST,Donna Brandenburg,4
+Lake,Webber Township Precinct 17,Governor,,UST,Donna Brandenburg,4
+Lake,Yates Township Precinct 19,Governor,,UST,Donna Brandenburg,1
+Lake,Chase Township Precinct 1,Governor,,GRN,Kevin Hogan,1
+Lake,Cherry Valley Township Precinct 2,Governor,,GRN,Kevin Hogan,2
+Lake,Dover Township Precinct 3,Governor,,GRN,Kevin Hogan,1
+Lake,Eden Township Precinct 4,Governor,,GRN,Kevin Hogan,0
+Lake,Elk Township Precinct 5,Governor,,GRN,Kevin Hogan,0
+Lake,Ellsworth Township Precinct 6,Governor,,GRN,Kevin Hogan,0
+Lake,Lake Township Precinct 7,Governor,,GRN,Kevin Hogan,1
+Lake,Newkirk Township Precinct 8,Governor,,GRN,Kevin Hogan,2
+Lake,Peacock Township Precinct 10,Governor,,GRN,Kevin Hogan,1
+Lake,Pinora Township Precinct 11,Governor,,GRN,Kevin Hogan,1
+Lake,Pleasant Plains Township Precinct 12,Governor,,GRN,Kevin Hogan,2
+Lake,Sauble Township Precinct 15,Governor,,GRN,Kevin Hogan,0
+Lake,Sweetwater Township Precinct 16,Governor,,GRN,Kevin Hogan,3
+Lake,Webber Township Precinct 17,Governor,,GRN,Kevin Hogan,3
+Lake,Yates Township Precinct 19,Governor,,GRN,Kevin Hogan,3
+Lake,Chase Township Precinct 1,Governor,,NLP,Daryl M. Simpson,2
+Lake,Cherry Valley Township Precinct 2,Governor,,NLP,Daryl M. Simpson,0
+Lake,Dover Township Precinct 3,Governor,,NLP,Daryl M. Simpson,0
+Lake,Eden Township Precinct 4,Governor,,NLP,Daryl M. Simpson,1
+Lake,Elk Township Precinct 5,Governor,,NLP,Daryl M. Simpson,0
+Lake,Ellsworth Township Precinct 6,Governor,,NLP,Daryl M. Simpson,1
+Lake,Lake Township Precinct 7,Governor,,NLP,Daryl M. Simpson,1
+Lake,Newkirk Township Precinct 8,Governor,,NLP,Daryl M. Simpson,1
+Lake,Peacock Township Precinct 10,Governor,,NLP,Daryl M. Simpson,0
+Lake,Pinora Township Precinct 11,Governor,,NLP,Daryl M. Simpson,2
+Lake,Pleasant Plains Township Precinct 12,Governor,,NLP,Daryl M. Simpson,0
+Lake,Sauble Township Precinct 15,Governor,,NLP,Daryl M. Simpson,0
+Lake,Sweetwater Township Precinct 16,Governor,,NLP,Daryl M. Simpson,0
+Lake,Webber Township Precinct 17,Governor,,NLP,Daryl M. Simpson,1
+Lake,Yates Township Precinct 19,Governor,,NLP,Daryl M. Simpson,0
+Lake,Chase Township Precinct 1,Governor,,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,Governor,,,Write-ins,0
+Lake,Dover Township Precinct 3,Governor,,,Write-ins,0
+Lake,Eden Township Precinct 4,Governor,,,Write-ins,1
+Lake,Elk Township Precinct 5,Governor,,,Write-ins,1
+Lake,Ellsworth Township Precinct 6,Governor,,,Write-ins,0
+Lake,Lake Township Precinct 7,Governor,,,Write-ins,0
+Lake,Newkirk Township Precinct 8,Governor,,,Write-ins,0
+Lake,Peacock Township Precinct 10,Governor,,,Write-ins,0
+Lake,Pinora Township Precinct 11,Governor,,,Write-ins,0
+Lake,Pleasant Plains Township Precinct 12,Governor,,,Write-ins,2
+Lake,Sauble Township Precinct 15,Governor,,,Write-ins,0
+Lake,Sweetwater Township Precinct 16,Governor,,,Write-ins,0
+Lake,Webber Township Precinct 17,Governor,,,Write-ins,0
+Lake,Yates Township Precinct 19,Governor,,,Write-ins,0
+Lake,Chase Township Precinct 1,Secretary of State,,DEM,Jocelyn Benson,127
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,DEM,Jocelyn Benson,74
+Lake,Dover Township Precinct 3,Secretary of State,,DEM,Jocelyn Benson,58
+Lake,Eden Township Precinct 4,Secretary of State,,DEM,Jocelyn Benson,104
+Lake,Elk Township Precinct 5,Secretary of State,,DEM,Jocelyn Benson,273
+Lake,Ellsworth Township Precinct 6,Secretary of State,,DEM,Jocelyn Benson,115
+Lake,Lake Township Precinct 7,Secretary of State,,DEM,Jocelyn Benson,194
+Lake,Newkirk Township Precinct 8,Secretary of State,,DEM,Jocelyn Benson,78
+Lake,Peacock Township Precinct 10,Secretary of State,,DEM,Jocelyn Benson,86
+Lake,Pinora Township Precinct 11,Secretary of State,,DEM,Jocelyn Benson,93
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,DEM,Jocelyn Benson,286
+Lake,Sauble Township Precinct 15,Secretary of State,,DEM,Jocelyn Benson,94
+Lake,Sweetwater Township Precinct 16,Secretary of State,,DEM,Jocelyn Benson,58
+Lake,Webber Township Precinct 17,Secretary of State,,DEM,Jocelyn Benson,222
+Lake,Yates Township Precinct 19,Secretary of State,,DEM,Jocelyn Benson,217
+Lake,Chase Township Precinct 1,Secretary of State,,REP,Kristina Elaine Karamo,371
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,REP,Kristina Elaine Karamo,125
+Lake,Dover Township Precinct 3,Secretary of State,,REP,Kristina Elaine Karamo,142
+Lake,Eden Township Precinct 4,Secretary of State,,REP,Kristina Elaine Karamo,155
+Lake,Elk Township Precinct 5,Secretary of State,,REP,Kristina Elaine Karamo,332
+Lake,Ellsworth Township Precinct 6,Secretary of State,,REP,Kristina Elaine Karamo,245
+Lake,Lake Township Precinct 7,Secretary of State,,REP,Kristina Elaine Karamo,286
+Lake,Newkirk Township Precinct 8,Secretary of State,,REP,Kristina Elaine Karamo,198
+Lake,Peacock Township Precinct 10,Secretary of State,,REP,Kristina Elaine Karamo,143
+Lake,Pinora Township Precinct 11,Secretary of State,,REP,Kristina Elaine Karamo,227
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,REP,Kristina Elaine Karamo,259
+Lake,Sauble Township Precinct 15,Secretary of State,,REP,Kristina Elaine Karamo,155
+Lake,Sweetwater Township Precinct 16,Secretary of State,,REP,Kristina Elaine Karamo,57
+Lake,Webber Township Precinct 17,Secretary of State,,REP,Kristina Elaine Karamo,218
+Lake,Yates Township Precinct 19,Secretary of State,,REP,Kristina Elaine Karamo,120
+Lake,Chase Township Precinct 1,Secretary of State,,LIB,Gregory Scott Stempfle,6
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Lake,Dover Township Precinct 3,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Lake,Eden Township Precinct 4,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Lake,Elk Township Precinct 5,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Lake,Ellsworth Township Precinct 6,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Lake,Lake Township Precinct 7,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Lake,Newkirk Township Precinct 8,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Lake,Peacock Township Precinct 10,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Lake,Pinora Township Precinct 11,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Lake,Sauble Township Precinct 15,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Lake,Sweetwater Township Precinct 16,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Lake,Webber Township Precinct 17,Secretary of State,,LIB,Gregory Scott Stempfle,3
+Lake,Yates Township Precinct 19,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Lake,Chase Township Precinct 1,Secretary of State,,UST,Christine C. Schwartz,4
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,UST,Christine C. Schwartz,2
+Lake,Dover Township Precinct 3,Secretary of State,,UST,Christine C. Schwartz,2
+Lake,Eden Township Precinct 4,Secretary of State,,UST,Christine C. Schwartz,5
+Lake,Elk Township Precinct 5,Secretary of State,,UST,Christine C. Schwartz,4
+Lake,Ellsworth Township Precinct 6,Secretary of State,,UST,Christine C. Schwartz,2
+Lake,Lake Township Precinct 7,Secretary of State,,UST,Christine C. Schwartz,1
+Lake,Newkirk Township Precinct 8,Secretary of State,,UST,Christine C. Schwartz,5
+Lake,Peacock Township Precinct 10,Secretary of State,,UST,Christine C. Schwartz,1
+Lake,Pinora Township Precinct 11,Secretary of State,,UST,Christine C. Schwartz,5
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,UST,Christine C. Schwartz,5
+Lake,Sauble Township Precinct 15,Secretary of State,,UST,Christine C. Schwartz,1
+Lake,Sweetwater Township Precinct 16,Secretary of State,,UST,Christine C. Schwartz,0
+Lake,Webber Township Precinct 17,Secretary of State,,UST,Christine C. Schwartz,8
+Lake,Yates Township Precinct 19,Secretary of State,,UST,Christine C. Schwartz,4
+Lake,Chase Township Precinct 1,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lake,Dover Township Precinct 3,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Lake,Eden Township Precinct 4,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Lake,Elk Township Precinct 5,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lake,Ellsworth Township Precinct 6,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lake,Lake Township Precinct 7,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lake,Newkirk Township Precinct 8,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lake,Peacock Township Precinct 10,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Lake,Pinora Township Precinct 11,Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Lake,Sauble Township Precinct 15,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lake,Sweetwater Township Precinct 16,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Lake,Webber Township Precinct 17,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Lake,Yates Township Precinct 19,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Lake,Chase Township Precinct 1,Secretary of State,,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,Secretary of State,,,Write-ins,0
+Lake,Dover Township Precinct 3,Secretary of State,,,Write-ins,0
+Lake,Eden Township Precinct 4,Secretary of State,,,Write-ins,1
+Lake,Elk Township Precinct 5,Secretary of State,,,Write-ins,1
+Lake,Ellsworth Township Precinct 6,Secretary of State,,,Write-ins,0
+Lake,Lake Township Precinct 7,Secretary of State,,,Write-ins,0
+Lake,Newkirk Township Precinct 8,Secretary of State,,,Write-ins,1
+Lake,Peacock Township Precinct 10,Secretary of State,,,Write-ins,0
+Lake,Pinora Township Precinct 11,Secretary of State,,,Write-ins,0
+Lake,Pleasant Plains Township Precinct 12,Secretary of State,,,Write-ins,2
+Lake,Sauble Township Precinct 15,Secretary of State,,,Write-ins,0
+Lake,Sweetwater Township Precinct 16,Secretary of State,,,Write-ins,0
+Lake,Webber Township Precinct 17,Secretary of State,,,Write-ins,0
+Lake,Yates Township Precinct 19,Secretary of State,,,Write-ins,0
+Lake,Chase Township Precinct 1,Attorney General,,DEM,Dana Nessel,121
+Lake,Cherry Valley Township Precinct 2,Attorney General,,DEM,Dana Nessel,67
+Lake,Dover Township Precinct 3,Attorney General,,DEM,Dana Nessel,51
+Lake,Eden Township Precinct 4,Attorney General,,DEM,Dana Nessel,97
+Lake,Elk Township Precinct 5,Attorney General,,DEM,Dana Nessel,264
+Lake,Ellsworth Township Precinct 6,Attorney General,,DEM,Dana Nessel,111
+Lake,Lake Township Precinct 7,Attorney General,,DEM,Dana Nessel,184
+Lake,Newkirk Township Precinct 8,Attorney General,,DEM,Dana Nessel,78
+Lake,Peacock Township Precinct 10,Attorney General,,DEM,Dana Nessel,84
+Lake,Pinora Township Precinct 11,Attorney General,,DEM,Dana Nessel,85
+Lake,Pleasant Plains Township Precinct 12,Attorney General,,DEM,Dana Nessel,268
+Lake,Sauble Township Precinct 15,Attorney General,,DEM,Dana Nessel,89
+Lake,Sweetwater Township Precinct 16,Attorney General,,DEM,Dana Nessel,52
+Lake,Webber Township Precinct 17,Attorney General,,DEM,Dana Nessel,215
+Lake,Yates Township Precinct 19,Attorney General,,DEM,Dana Nessel,213
+Lake,Chase Township Precinct 1,Attorney General,,REP,Matthew DePerno,369
+Lake,Cherry Valley Township Precinct 2,Attorney General,,REP,Matthew DePerno,124
+Lake,Dover Township Precinct 3,Attorney General,,REP,Matthew DePerno,145
+Lake,Eden Township Precinct 4,Attorney General,,REP,Matthew DePerno,161
+Lake,Elk Township Precinct 5,Attorney General,,REP,Matthew DePerno,325
+Lake,Ellsworth Township Precinct 6,Attorney General,,REP,Matthew DePerno,252
+Lake,Lake Township Precinct 7,Attorney General,,REP,Matthew DePerno,290
+Lake,Newkirk Township Precinct 8,Attorney General,,REP,Matthew DePerno,196
+Lake,Peacock Township Precinct 10,Attorney General,,REP,Matthew DePerno,147
+Lake,Pinora Township Precinct 11,Attorney General,,REP,Matthew DePerno,234
+Lake,Pleasant Plains Township Precinct 12,Attorney General,,REP,Matthew DePerno,266
+Lake,Sauble Township Precinct 15,Attorney General,,REP,Matthew DePerno,153
+Lake,Sweetwater Township Precinct 16,Attorney General,,REP,Matthew DePerno,60
+Lake,Webber Township Precinct 17,Attorney General,,REP,Matthew DePerno,212
+Lake,Yates Township Precinct 19,Attorney General,,REP,Matthew DePerno,123
+Lake,Chase Township Precinct 1,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Lake,Cherry Valley Township Precinct 2,Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Lake,Dover Township Precinct 3,Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Lake,Eden Township Precinct 4,Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Lake,Elk Township Precinct 5,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Lake,Ellsworth Township Precinct 6,Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Lake,Lake Township Precinct 7,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Lake,Newkirk Township Precinct 8,Attorney General,,LIB,Joseph W. McHugh Jr.,2
+Lake,Peacock Township Precinct 10,Attorney General,,LIB,Joseph W. McHugh Jr.,1
+Lake,Pinora Township Precinct 11,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Lake,Pleasant Plains Township Precinct 12,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Lake,Sauble Township Precinct 15,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Lake,Sweetwater Township Precinct 16,Attorney General,,LIB,Joseph W. McHugh Jr.,0
+Lake,Webber Township Precinct 17,Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Lake,Yates Township Precinct 19,Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Lake,Chase Township Precinct 1,Attorney General,,UST,Gerald T. Van Sickle,12
+Lake,Cherry Valley Township Precinct 2,Attorney General,,UST,Gerald T. Van Sickle,8
+Lake,Dover Township Precinct 3,Attorney General,,UST,Gerald T. Van Sickle,2
+Lake,Eden Township Precinct 4,Attorney General,,UST,Gerald T. Van Sickle,3
+Lake,Elk Township Precinct 5,Attorney General,,UST,Gerald T. Van Sickle,9
+Lake,Ellsworth Township Precinct 6,Attorney General,,UST,Gerald T. Van Sickle,2
+Lake,Lake Township Precinct 7,Attorney General,,UST,Gerald T. Van Sickle,7
+Lake,Newkirk Township Precinct 8,Attorney General,,UST,Gerald T. Van Sickle,6
+Lake,Peacock Township Precinct 10,Attorney General,,UST,Gerald T. Van Sickle,1
+Lake,Pinora Township Precinct 11,Attorney General,,UST,Gerald T. Van Sickle,3
+Lake,Pleasant Plains Township Precinct 12,Attorney General,,UST,Gerald T. Van Sickle,8
+Lake,Sauble Township Precinct 15,Attorney General,,UST,Gerald T. Van Sickle,4
+Lake,Sweetwater Township Precinct 16,Attorney General,,UST,Gerald T. Van Sickle,2
+Lake,Webber Township Precinct 17,Attorney General,,UST,Gerald T. Van Sickle,14
+Lake,Yates Township Precinct 19,Attorney General,,UST,Gerald T. Van Sickle,6
+Lake,Chase Township Precinct 1,Attorney General,,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,Attorney General,,,Write-ins,1
+Lake,Dover Township Precinct 3,Attorney General,,,Write-ins,0
+Lake,Eden Township Precinct 4,Attorney General,,,Write-ins,1
+Lake,Elk Township Precinct 5,Attorney General,,,Write-ins,1
+Lake,Ellsworth Township Precinct 6,Attorney General,,,Write-ins,0
+Lake,Lake Township Precinct 7,Attorney General,,,Write-ins,0
+Lake,Newkirk Township Precinct 8,Attorney General,,,Write-ins,0
+Lake,Peacock Township Precinct 10,Attorney General,,,Write-ins,0
+Lake,Pinora Township Precinct 11,Attorney General,,,Write-ins,0
+Lake,Pleasant Plains Township Precinct 12,Attorney General,,,Write-ins,0
+Lake,Sauble Township Precinct 15,Attorney General,,,Write-ins,0
+Lake,Sweetwater Township Precinct 16,Attorney General,,,Write-ins,0
+Lake,Webber Township Precinct 17,Attorney General,,,Write-ins,3
+Lake,Yates Township Precinct 19,Attorney General,,,Write-ins,0
+Lake,Chase Township Precinct 1,U.S. House,2,DEM,Jerry Hilliard,98
+Lake,Cherry Valley Township Precinct 2,U.S. House,2,DEM,Jerry Hilliard,59
+Lake,Dover Township Precinct 3,U.S. House,2,DEM,Jerry Hilliard,42
+Lake,Eden Township Precinct 4,U.S. House,2,DEM,Jerry Hilliard,89
+Lake,Elk Township Precinct 5,U.S. House,2,DEM,Jerry Hilliard,225
+Lake,Ellsworth Township Precinct 6,U.S. House,2,DEM,Jerry Hilliard,99
+Lake,Lake Township Precinct 7,U.S. House,2,DEM,Jerry Hilliard,161
+Lake,Newkirk Township Precinct 8,U.S. House,2,DEM,Jerry Hilliard,70
+Lake,Peacock Township Precinct 10,U.S. House,2,DEM,Jerry Hilliard,70
+Lake,Pinora Township Precinct 11,U.S. House,2,DEM,Jerry Hilliard,73
+Lake,Pleasant Plains Township Precinct 12,U.S. House,2,DEM,Jerry Hilliard,236
+Lake,Sauble Township Precinct 15,U.S. House,2,DEM,Jerry Hilliard,73
+Lake,Sweetwater Township Precinct 16,U.S. House,2,DEM,Jerry Hilliard,45
+Lake,Webber Township Precinct 17,U.S. House,2,DEM,Jerry Hilliard,188
+Lake,Yates Township Precinct 19,U.S. House,2,DEM,Jerry Hilliard,204
+Lake,Chase Township Precinct 1,U.S. House,2,REP,John Moolenaar,393
+Lake,Cherry Valley Township Precinct 2,U.S. House,2,REP,John Moolenaar,136
+Lake,Dover Township Precinct 3,U.S. House,2,REP,John Moolenaar,153
+Lake,Eden Township Precinct 4,U.S. House,2,REP,John Moolenaar,166
+Lake,Elk Township Precinct 5,U.S. House,2,REP,John Moolenaar,371
+Lake,Ellsworth Township Precinct 6,U.S. House,2,REP,John Moolenaar,260
+Lake,Lake Township Precinct 7,U.S. House,2,REP,John Moolenaar,316
+Lake,Newkirk Township Precinct 8,U.S. House,2,REP,John Moolenaar,208
+Lake,Peacock Township Precinct 10,U.S. House,2,REP,John Moolenaar,155
+Lake,Pinora Township Precinct 11,U.S. House,2,REP,John Moolenaar,246
+Lake,Pleasant Plains Township Precinct 12,U.S. House,2,REP,John Moolenaar,304
+Lake,Sauble Township Precinct 15,U.S. House,2,REP,John Moolenaar,170
+Lake,Sweetwater Township Precinct 16,U.S. House,2,REP,John Moolenaar,68
+Lake,Webber Township Precinct 17,U.S. House,2,REP,John Moolenaar,244
+Lake,Yates Township Precinct 19,U.S. House,2,REP,John Moolenaar,132
+Lake,Chase Township Precinct 1,U.S. House,2,LIB,Nathan Hewer,11
+Lake,Cherry Valley Township Precinct 2,U.S. House,2,LIB,Nathan Hewer,6
+Lake,Dover Township Precinct 3,U.S. House,2,LIB,Nathan Hewer,5
+Lake,Eden Township Precinct 4,U.S. House,2,LIB,Nathan Hewer,6
+Lake,Elk Township Precinct 5,U.S. House,2,LIB,Nathan Hewer,7
+Lake,Ellsworth Township Precinct 6,U.S. House,2,LIB,Nathan Hewer,5
+Lake,Lake Township Precinct 7,U.S. House,2,LIB,Nathan Hewer,7
+Lake,Newkirk Township Precinct 8,U.S. House,2,LIB,Nathan Hewer,4
+Lake,Peacock Township Precinct 10,U.S. House,2,LIB,Nathan Hewer,4
+Lake,Pinora Township Precinct 11,U.S. House,2,LIB,Nathan Hewer,11
+Lake,Pleasant Plains Township Precinct 12,U.S. House,2,LIB,Nathan Hewer,8
+Lake,Sauble Township Precinct 15,U.S. House,2,LIB,Nathan Hewer,5
+Lake,Sweetwater Township Precinct 16,U.S. House,2,LIB,Nathan Hewer,0
+Lake,Webber Township Precinct 17,U.S. House,2,LIB,Nathan Hewer,16
+Lake,Yates Township Precinct 19,U.S. House,2,LIB,Nathan Hewer,6
+Lake,Chase Township Precinct 1,U.S. House,2,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,U.S. House,2,,Write-ins,0
+Lake,Dover Township Precinct 3,U.S. House,2,,Write-ins,0
+Lake,Eden Township Precinct 4,U.S. House,2,,Write-ins,1
+Lake,Elk Township Precinct 5,U.S. House,2,,Write-ins,1
+Lake,Ellsworth Township Precinct 6,U.S. House,2,,Write-ins,0
+Lake,Lake Township Precinct 7,U.S. House,2,,Write-ins,0
+Lake,Newkirk Township Precinct 8,U.S. House,2,,Write-ins,0
+Lake,Peacock Township Precinct 10,U.S. House,2,,Write-ins,0
+Lake,Pinora Township Precinct 11,U.S. House,2,,Write-ins,0
+Lake,Pleasant Plains Township Precinct 12,U.S. House,2,,Write-ins,2
+Lake,Sauble Township Precinct 15,U.S. House,2,,Write-ins,0
+Lake,Sweetwater Township Precinct 16,U.S. House,2,,Write-ins,0
+Lake,Webber Township Precinct 17,U.S. House,2,,Write-ins,1
+Lake,Yates Township Precinct 19,U.S. House,2,,Write-ins,1
+Lake,Chase Township Precinct 1,State Senate,34,DEM,Christine Gerace,102
+Lake,Cherry Valley Township Precinct 2,State Senate,34,DEM,Christine Gerace,57
+Lake,Dover Township Precinct 3,State Senate,34,DEM,Christine Gerace,42
+Lake,Ellsworth Township Precinct 6,State Senate,34,DEM,Christine Gerace,91
+Lake,Pinora Township Precinct 11,State Senate,34,DEM,Christine Gerace,73
+Lake,Yates Township Precinct 19,State Senate,34,DEM,Christine Gerace,202
+Lake,Chase Township Precinct 1,State Senate,34,REP,Roger Hauck,376
+Lake,Cherry Valley Township Precinct 2,State Senate,34,REP,Roger Hauck,136
+Lake,Dover Township Precinct 3,State Senate,34,REP,Roger Hauck,154
+Lake,Ellsworth Township Precinct 6,State Senate,34,REP,Roger Hauck,255
+Lake,Pinora Township Precinct 11,State Senate,34,REP,Roger Hauck,239
+Lake,Yates Township Precinct 19,State Senate,34,REP,Roger Hauck,128
+Lake,Chase Township Precinct 1,State Senate,34,UST,Becky McDonald,17
+Lake,Cherry Valley Township Precinct 2,State Senate,34,UST,Becky McDonald,4
+Lake,Dover Township Precinct 3,State Senate,34,UST,Becky McDonald,6
+Lake,Ellsworth Township Precinct 6,State Senate,34,UST,Becky McDonald,12
+Lake,Pinora Township Precinct 11,State Senate,34,UST,Becky McDonald,12
+Lake,Yates Township Precinct 19,State Senate,34,UST,Becky McDonald,12
+Lake,Chase Township Precinct 1,State Senate,34,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,State Senate,34,,Write-ins,1
+Lake,Dover Township Precinct 3,State Senate,34,,Write-ins,0
+Lake,Ellsworth Township Precinct 6,State Senate,34,,Write-ins,0
+Lake,Pinora Township Precinct 11,State Senate,34,,Write-ins,0
+Lake,Yates Township Precinct 19,State Senate,34,,Write-ins,0
+Lake,Chase Township Precinct 1,State House,100,DEM,Nate Bailey,112
+Lake,Dover Township Precinct 3,State House,100,DEM,Nate Bailey,43
+Lake,Ellsworth Township Precinct 6,State House,100,DEM,Nate Bailey,100
+Lake,Pinora Township Precinct 11,State House,100,DEM,Nate Bailey,81
+Lake,Chase Township Precinct 1,State House,100,REP,Tom Kunse,383
+Lake,Dover Township Precinct 3,State House,100,REP,Tom Kunse,158
+Lake,Ellsworth Township Precinct 6,State House,100,REP,Tom Kunse,260
+Lake,Pinora Township Precinct 11,State House,100,REP,Tom Kunse,245
+Lake,Chase Township Precinct 1,State House,100,,Write-ins,3
+Lake,Dover Township Precinct 3,State House,100,,Write-ins,0
+Lake,Ellsworth Township Precinct 6,State House,100,,Write-ins,0
+Lake,Pinora Township Precinct 11,State House,100,,Write-ins,0
+Lake,Cherry Valley Township Precinct 2,State House,101,DEM,Amanda Siggins,62
+Lake,Eden Township Precinct 4,State House,101,DEM,Amanda Siggins,86
+Lake,Elk Township Precinct 5,State House,101,DEM,Amanda Siggins,231
+Lake,Lake Township Precinct 7,State House,101,DEM,Amanda Siggins,161
+Lake,Newkirk Township Precinct 8,State House,101,DEM,Amanda Siggins,79
+Lake,Peacock Township Precinct 10,State House,101,DEM,Amanda Siggins,75
+Lake,Pleasant Plains Township Precinct 12,State House,101,DEM,Amanda Siggins,246
+Lake,Sauble Township Precinct 15,State House,101,DEM,Amanda Siggins,81
+Lake,Sweetwater Township Precinct 16,State House,101,DEM,Amanda Siggins,46
+Lake,Webber Township Precinct 17,State House,101,DEM,Amanda Siggins,191
+Lake,Yates Township Precinct 19,State House,101,DEM,Amanda Siggins,208
+Lake,Cherry Valley Township Precinct 2,State House,101,REP,Joseph D. Fox,135
+Lake,Eden Township Precinct 4,State House,101,REP,Joseph D. Fox,173
+Lake,Elk Township Precinct 5,State House,101,REP,Joseph D. Fox,361
+Lake,Lake Township Precinct 7,State House,101,REP,Joseph D. Fox,317
+Lake,Newkirk Township Precinct 8,State House,101,REP,Joseph D. Fox,202
+Lake,Peacock Township Precinct 10,State House,101,REP,Joseph D. Fox,151
+Lake,Pleasant Plains Township Precinct 12,State House,101,REP,Joseph D. Fox,287
+Lake,Sauble Township Precinct 15,State House,101,REP,Joseph D. Fox,166
+Lake,Sweetwater Township Precinct 16,State House,101,REP,Joseph D. Fox,65
+Lake,Webber Township Precinct 17,State House,101,REP,Joseph D. Fox,250
+Lake,Yates Township Precinct 19,State House,101,REP,Joseph D. Fox,131
+Lake,Cherry Valley Township Precinct 2,State House,101,,Write-ins,2
+Lake,Eden Township Precinct 4,State House,101,,Write-ins,1
+Lake,Elk Township Precinct 5,State House,101,,Write-ins,4
+Lake,Lake Township Precinct 7,State House,101,,Write-ins,2
+Lake,Newkirk Township Precinct 8,State House,101,,Write-ins,0
+Lake,Peacock Township Precinct 10,State House,101,,Write-ins,0
+Lake,Pleasant Plains Township Precinct 12,State House,101,,Write-ins,2
+Lake,Sauble Township Precinct 15,State House,101,,Write-ins,0
+Lake,Sweetwater Township Precinct 16,State House,101,,Write-ins,0
+Lake,Webber Township Precinct 17,State House,101,,Write-ins,2
+Lake,Yates Township Precinct 19,State House,101,,Write-ins,1

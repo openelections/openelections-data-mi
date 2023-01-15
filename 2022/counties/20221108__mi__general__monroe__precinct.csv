@@ -1,0 +1,2434 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Monroe,"Ash Township, Precinct 1",Registered Voters,,,,2544,,
+Monroe,"Ash Township, Precinct 2",Registered Voters,,,,2545,,
+Monroe,"Ash Township, Precinct 3",Registered Voters,,,,2009,,
+Monroe,"Bedford Township, Precinct 1",Registered Voters,,,,1224,,
+Monroe,"Bedford Township, Precinct 2",Registered Voters,,,,2016,,
+Monroe,"Bedford Township, Precinct 3",Registered Voters,,,,1967,,
+Monroe,"Bedford Township, Precinct 4",Registered Voters,,,,2407,,
+Monroe,"Bedford Township, Precinct 5",Registered Voters,,,,2422,,
+Monroe,"Bedford Township, Precinct 6",Registered Voters,,,,2603,,
+Monroe,"Bedford Township, Precinct 7",Registered Voters,,,,1968,,
+Monroe,"Bedford Township, Precinct 8",Registered Voters,,,,2065,,
+Monroe,"Bedford Township, Precinct 9",Registered Voters,,,,1291,,
+Monroe,"Bedford Township, Precinct 10",Registered Voters,,,,1409,,
+Monroe,"Bedford Township, Precinct 11",Registered Voters,,,,2523,,
+Monroe,"Bedford Township, Precinct 12",Registered Voters,,,,1826,,
+Monroe,"Bedford Township, Precinct 13",Registered Voters,,,,2052,,
+Monroe,"Bedford Township, Precinct 14",Registered Voters,,,,2353,,
+Monroe,"Berlin Township, Precinct 1",Registered Voters,,,,2242,,
+Monroe,"Berlin Township, Precinct 2",Registered Voters,,,,2712,,
+Monroe,"Berlin Township, Precinct 3",Registered Voters,,,,1318,,
+Monroe,"Berlin Township, Precinct 4",Registered Voters,,,,2202,,
+Monroe,"City of Luna Pier, Precinct 1",Registered Voters,,,,1228,,
+Monroe,"City of Milan, Precinct 1",Registered Voters,,,,1773,,
+Monroe,"City of Monroe, Precinct 1",Registered Voters,,,,3029,,
+Monroe,"City of Monroe, Precinct 2",Registered Voters,,,,2744,,
+Monroe,"City of Monroe, Precinct 3N",Registered Voters,,,,1411,,
+Monroe,"City of Monroe, Precinct 3S",Registered Voters,,,,1576,,
+Monroe,"City of Monroe, Precinct 4",Registered Voters,,,,2982,,
+Monroe,"City of Monroe, Precinct 5",Registered Voters,,,,3063,,
+Monroe,"City of Monroe, Precinct 6",Registered Voters,,,,2659,,
+Monroe,"City of Petersburg, Precinct 1",Registered Voters,,,,967,,
+Monroe,"Dundee Township, Precinct 1",Registered Voters,,,,1844,,
+Monroe,"Dundee Township, Precinct 2",Registered Voters,,,,2409,,
+Monroe,"Dundee Township, Precinct 3",Registered Voters,,,,2727,,
+Monroe,"Erie Township, Precinct 1",Registered Voters,,,,2058,,
+Monroe,"Erie Township, Precinct 2",Registered Voters,,,,1794,,
+Monroe,"Exeter Township, Precinct 1",Registered Voters,,,,1448,,
+Monroe,"Exeter Township, Precinct 2",Registered Voters,,,,1920,,
+Monroe,"Frenchtown Township, Precinct 1",Registered Voters,,,,1427,,
+Monroe,"Frenchtown Township, Precinct 2",Registered Voters,,,,1401,,
+Monroe,"Frenchtown Township, Precinct 3",Registered Voters,,,,1432,,
+Monroe,"Frenchtown Township, Precinct 4",Registered Voters,,,,1938,,
+Monroe,"Frenchtown Township, Precinct 5",Registered Voters,,,,2841,,
+Monroe,"Frenchtown Township, Precinct 6",Registered Voters,,,,2255,,
+Monroe,"Frenchtown Township, Precinct 7",Registered Voters,,,,2810,,
+Monroe,"Frenchtown Township, Precinct 8",Registered Voters,,,,1723,,
+Monroe,"Frenchtown Township, Precinct 9",Registered Voters,,,,1915,,
+Monroe,"Ida Township, Precinct 1",Registered Voters,,,,2351,,
+Monroe,"Ida Township, Precinct 2",Registered Voters,,,,1987,,
+Monroe,"La Salle Township, Precinct 1",Registered Voters,,,,1903,,
+Monroe,"La Salle Township, Precinct 2",Registered Voters,,,,2253,,
+Monroe,"London Township, Precinct 1",Registered Voters,,,,2664,,
+Monroe,"Milan Township, Precinct 1",Registered Voters,,,,1474,,
+Monroe,"Monroe Township, Precinct 1",Registered Voters,,,,1557,,
+Monroe,"Monroe Township, Precinct 2",Registered Voters,,,,1714,,
+Monroe,"Monroe Township, Precinct 3",Registered Voters,,,,1178,,
+Monroe,"Monroe Township, Precinct 4",Registered Voters,,,,2614,,
+Monroe,"Monroe Township, Precinct 5",Registered Voters,,,,2770,,
+Monroe,"Monroe Township, Precinct 6",Registered Voters,,,,1830,,
+Monroe,"Raisinville Township, Precinct 1",Registered Voters,,,,2446,,
+Monroe,"Raisinville Township, Precinct 2",Registered Voters,,,,2898,,
+Monroe,"Summerfield Township, Precinct 1",Registered Voters,,,,2646,,
+Monroe,"Whiteford Township, Precinct 1",Registered Voters,,,,2289,,
+Monroe,"Whiteford Township, Precinct 2",Registered Voters,,,,1953,,
+Monroe,"Ash Township, Precinct 1",Cards Cast,,,,1292,776,516
+Monroe,"Ash Township, Precinct 2",Cards Cast,,,,1522,825,697
+Monroe,"Ash Township, Precinct 3",Cards Cast,,,,1192,674,518
+Monroe,"Bedford Township, Precinct 1",Cards Cast,,,,615,430,185
+Monroe,"Bedford Township, Precinct 2",Cards Cast,,,,1167,751,416
+Monroe,"Bedford Township, Precinct 3",Cards Cast,,,,1052,759,293
+Monroe,"Bedford Township, Precinct 4",Cards Cast,,,,1316,823,493
+Monroe,"Bedford Township, Precinct 5",Cards Cast,,,,1130,715,415
+Monroe,"Bedford Township, Precinct 6",Cards Cast,,,,1494,984,510
+Monroe,"Bedford Township, Precinct 7",Cards Cast,,,,1200,780,420
+Monroe,"Bedford Township, Precinct 8",Cards Cast,,,,1253,730,523
+Monroe,"Bedford Township, Precinct 9",Cards Cast,,,,814,482,332
+Monroe,"Bedford Township, Precinct 10",Cards Cast,,,,1025,515,510
+Monroe,"Bedford Township, Precinct 11",Cards Cast,,,,1357,925,432
+Monroe,"Bedford Township, Precinct 12",Cards Cast,,,,999,586,413
+Monroe,"Bedford Township, Precinct 13",Cards Cast,,,,1067,687,380
+Monroe,"Bedford Township, Precinct 14",Cards Cast,,,,858,552,306
+Monroe,"Berlin Township, Precinct 1",Cards Cast,,,,1099,755,344
+Monroe,"Berlin Township, Precinct 2",Cards Cast,,,,1447,905,542
+Monroe,"Berlin Township, Precinct 3",Cards Cast,,,,848,527,321
+Monroe,"Berlin Township, Precinct 4",Cards Cast,,,,1305,869,436
+Monroe,"City of Luna Pier, Precinct 1",Cards Cast,,,,636,636,0
+Monroe,"City of Milan, Precinct 1",Cards Cast,,,,984,984,0
+Monroe,"City of Monroe, Precinct 1",Cards Cast,,,,1174,702,472
+Monroe,"City of Monroe, Precinct 2",Cards Cast,,,,948,635,313
+Monroe,"City of Monroe, Precinct 3N",Cards Cast,,,,570,419,151
+Monroe,"City of Monroe, Precinct 3S",Cards Cast,,,,408,268,140
+Monroe,"City of Monroe, Precinct 4",Cards Cast,,,,1551,946,605
+Monroe,"City of Monroe, Precinct 5",Cards Cast,,,,1639,883,756
+Monroe,"City of Monroe, Precinct 6",Cards Cast,,,,1309,813,496
+Monroe,"City of Petersburg, Precinct 1",Cards Cast,,,,510,385,125
+Monroe,"Dundee Township, Precinct 1",Cards Cast,,,,947,641,306
+Monroe,"Dundee Township, Precinct 2",Cards Cast,,,,1252,790,462
+Monroe,"Dundee Township, Precinct 3",Cards Cast,,,,1535,"1,058",477
+Monroe,"Erie Township, Precinct 1",Cards Cast,,,,1136,676,460
+Monroe,"Erie Township, Precinct 2",Cards Cast,,,,781,509,272
+Monroe,"Exeter Township, Precinct 1",Cards Cast,,,,909,909,0
+Monroe,"Exeter Township, Precinct 2",Cards Cast,,,,1163,"1,163",0
+Monroe,"Frenchtown Township, Precinct 1",Cards Cast,,,,605,359,246
+Monroe,"Frenchtown Township, Precinct 2",Cards Cast,,,,734,482,252
+Monroe,"Frenchtown Township, Precinct 3",Cards Cast,,,,863,509,354
+Monroe,"Frenchtown Township, Precinct 4",Cards Cast,,,,1080,468,612
+Monroe,"Frenchtown Township, Precinct 5",Cards Cast,,,,880,607,273
+Monroe,"Frenchtown Township, Precinct 6",Cards Cast,,,,1120,674,446
+Monroe,"Frenchtown Township, Precinct 7",Cards Cast,,,,1480,752,728
+Monroe,"Frenchtown Township, Precinct 8",Cards Cast,,,,869,528,341
+Monroe,"Frenchtown Township, Precinct 9",Cards Cast,,,,910,539,371
+Monroe,"Ida Township, Precinct 1",Cards Cast,,,,1310,868,442
+Monroe,"Ida Township, Precinct 2",Cards Cast,,,,1201,794,407
+Monroe,"La Salle Township, Precinct 1",Cards Cast,,,,1095,675,420
+Monroe,"La Salle Township, Precinct 2",Cards Cast,,,,1378,864,514
+Monroe,"London Township, Precinct 1",Cards Cast,,,,1397,"1,397",0
+Monroe,"Milan Township, Precinct 1",Cards Cast,,,,830,830,0
+Monroe,"Monroe Township, Precinct 1",Cards Cast,,,,834,449,385
+Monroe,"Monroe Township, Precinct 2",Cards Cast,,,,542,340,202
+Monroe,"Monroe Township, Precinct 3",Cards Cast,,,,721,412,309
+Monroe,"Monroe Township, Precinct 4",Cards Cast,,,,1058,660,398
+Monroe,"Monroe Township, Precinct 5",Cards Cast,,,,1530,855,675
+Monroe,"Monroe Township, Precinct 6",Cards Cast,,,,1014,549,465
+Monroe,"Raisinville Township, Precinct 1",Cards Cast,,,,1491,826,665
+Monroe,"Raisinville Township, Precinct 2",Cards Cast,,,,1684,"1,014",670
+Monroe,"Summerfield Township, Precinct 1",Cards Cast,,,,1588,"1,079",509
+Monroe,"Whiteford Township, Precinct 1",Cards Cast,,,,1168,827,341
+Monroe,"Whiteford Township, Precinct 2",Cards Cast,,,,1041,757,284
+Monroe,"Ash Township, Precinct 1",Straight Party,,DEM,,248,107,141
+Monroe,"Ash Township, Precinct 2",Straight Party,,DEM,,320,118,202
+Monroe,"Ash Township, Precinct 3",Straight Party,,DEM,,184,65,119
+Monroe,"Bedford Township, Precinct 1",Straight Party,,DEM,,105,57,48
+Monroe,"Bedford Township, Precinct 2",Straight Party,,DEM,,216,96,120
+Monroe,"Bedford Township, Precinct 3",Straight Party,,DEM,,185,104,81
+Monroe,"Bedford Township, Precinct 4",Straight Party,,DEM,,273,117,156
+Monroe,"Bedford Township, Precinct 5",Straight Party,,DEM,,215,108,107
+Monroe,"Bedford Township, Precinct 6",Straight Party,,DEM,,316,139,177
+Monroe,"Bedford Township, Precinct 7",Straight Party,,DEM,,262,129,133
+Monroe,"Bedford Township, Precinct 8",Straight Party,,DEM,,279,114,165
+Monroe,"Bedford Township, Precinct 9",Straight Party,,DEM,,177,78,99
+Monroe,"Bedford Township, Precinct 10",Straight Party,,DEM,,126,50,76
+Monroe,"Bedford Township, Precinct 11",Straight Party,,DEM,,220,116,104
+Monroe,"Bedford Township, Precinct 12",Straight Party,,DEM,,219,101,118
+Monroe,"Bedford Township, Precinct 13",Straight Party,,DEM,,222,91,131
+Monroe,"Bedford Township, Precinct 14",Straight Party,,DEM,,239,106,133
+Monroe,"Berlin Township, Precinct 1",Straight Party,,DEM,,213,110,103
+Monroe,"Berlin Township, Precinct 2",Straight Party,,DEM,,315,143,172
+Monroe,"Berlin Township, Precinct 3",Straight Party,,DEM,,164,78,86
+Monroe,"Berlin Township, Precinct 4",Straight Party,,DEM,,210,112,98
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,DEM,,134,134,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,DEM,,320,320,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,DEM,,323,150,173
+Monroe,"City of Monroe, Precinct 2",Straight Party,,DEM,,241,132,109
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,DEM,,145,88,57
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,DEM,,185,117,68
+Monroe,"City of Monroe, Precinct 4",Straight Party,,DEM,,360,162,198
+Monroe,"City of Monroe, Precinct 5",Straight Party,,DEM,,443,168,275
+Monroe,"City of Monroe, Precinct 6",Straight Party,,DEM,,306,162,144
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,DEM,,118,75,43
+Monroe,"Dundee Township, Precinct 1",Straight Party,,DEM,,177,103,74
+Monroe,"Dundee Township, Precinct 2",Straight Party,,DEM,,216,99,117
+Monroe,"Dundee Township, Precinct 3",Straight Party,,DEM,,258,132,126
+Monroe,"Erie Township, Precinct 1",Straight Party,,DEM,,184,80,104
+Monroe,"Erie Township, Precinct 2",Straight Party,,DEM,,155,69,86
+Monroe,"Exeter Township, Precinct 1",Straight Party,,DEM,,98,98,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,DEM,,204,204,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,DEM,,133,76,57
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,DEM,,162,86,76
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,DEM,,159,60,99
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,DEM,,242,69,173
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,DEM,,254,155,99
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,DEM,,245,96,149
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,DEM,,344,128,216
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,DEM,,174,73,101
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,DEM,,214,84,130
+Monroe,"Ida Township, Precinct 1",Straight Party,,DEM,,170,76,94
+Monroe,"Ida Township, Precinct 2",Straight Party,,DEM,,183,83,100
+Monroe,"La Salle Township, Precinct 1",Straight Party,,DEM,,173,63,110
+Monroe,"La Salle Township, Precinct 2",Straight Party,,DEM,,211,94,117
+Monroe,"London Township, Precinct 1",Straight Party,,DEM,,290,290,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,DEM,,166,166,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,DEM,,196,68,128
+Monroe,"Monroe Township, Precinct 2",Straight Party,,DEM,,162,70,92
+Monroe,"Monroe Township, Precinct 3",Straight Party,,DEM,,113,47,66
+Monroe,"Monroe Township, Precinct 4",Straight Party,,DEM,,251,126,125
+Monroe,"Monroe Township, Precinct 5",Straight Party,,DEM,,247,92,155
+Monroe,"Monroe Township, Precinct 6",Straight Party,,DEM,,196,89,107
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,DEM,,231,93,138
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,DEM,,334,145,189
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,DEM,,217,102,115
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,DEM,,184,88,96
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,DEM,,112,56,56
+Monroe,"Ash Township, Precinct 1",Straight Party,,REP,,422,300,122
+Monroe,"Ash Township, Precinct 2",Straight Party,,REP,,585,398,187
+Monroe,"Ash Township, Precinct 3",Straight Party,,REP,,440,303,137
+Monroe,"Bedford Township, Precinct 1",Straight Party,,REP,,223,168,55
+Monroe,"Bedford Township, Precinct 2",Straight Party,,REP,,355,257,98
+Monroe,"Bedford Township, Precinct 3",Straight Party,,REP,,327,277,50
+Monroe,"Bedford Township, Precinct 4",Straight Party,,REP,,359,270,89
+Monroe,"Bedford Township, Precinct 5",Straight Party,,REP,,332,242,90
+Monroe,"Bedford Township, Precinct 6",Straight Party,,REP,,413,319,94
+Monroe,"Bedford Township, Precinct 7",Straight Party,,REP,,316,224,92
+Monroe,"Bedford Township, Precinct 8",Straight Party,,REP,,388,260,128
+Monroe,"Bedford Township, Precinct 9",Straight Party,,REP,,269,202,67
+Monroe,"Bedford Township, Precinct 10",Straight Party,,REP,,243,188,55
+Monroe,"Bedford Township, Precinct 11",Straight Party,,REP,,469,356,113
+Monroe,"Bedford Township, Precinct 12",Straight Party,,REP,,281,196,85
+Monroe,"Bedford Township, Precinct 13",Straight Party,,REP,,336,247,89
+Monroe,"Bedford Township, Precinct 14",Straight Party,,REP,,257,197,60
+Monroe,"Berlin Township, Precinct 1",Straight Party,,REP,,363,280,83
+Monroe,"Berlin Township, Precinct 2",Straight Party,,REP,,475,347,128
+Monroe,"Berlin Township, Precinct 3",Straight Party,,REP,,257,192,65
+Monroe,"Berlin Township, Precinct 4",Straight Party,,REP,,416,326,90
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,REP,,174,174,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,REP,,244,244,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,REP,,283,217,66
+Monroe,"City of Monroe, Precinct 2",Straight Party,,REP,,236,187,49
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,REP,,129,110,19
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,REP,,77,54,23
+Monroe,"City of Monroe, Precinct 4",Straight Party,,REP,,364,273,91
+Monroe,"City of Monroe, Precinct 5",Straight Party,,REP,,344,250,94
+Monroe,"City of Monroe, Precinct 6",Straight Party,,REP,,302,217,85
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,REP,,135,116,19
+Monroe,"Dundee Township, Precinct 1",Straight Party,,REP,,231,184,47
+Monroe,"Dundee Township, Precinct 2",Straight Party,,REP,,325,231,94
+Monroe,"Dundee Township, Precinct 3",Straight Party,,REP,,424,333,91
+Monroe,"Erie Township, Precinct 1",Straight Party,,REP,,364,256,108
+Monroe,"Erie Township, Precinct 2",Straight Party,,REP,,274,205,69
+Monroe,"Exeter Township, Precinct 1",Straight Party,,REP,,229,229,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,REP,,302,302,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,REP,,210,153,57
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,REP,,207,164,43
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,REP,,258,204,54
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,REP,,265,146,119
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,REP,,287,222,65
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,REP,,307,222,85
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,REP,,403,225,178
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,REP,,272,193,79
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,REP,,268,187,81
+Monroe,"Ida Township, Precinct 1",Straight Party,,REP,,471,345,126
+Monroe,"Ida Township, Precinct 2",Straight Party,,REP,,357,267,90
+Monroe,"La Salle Township, Precinct 1",Straight Party,,REP,,351,254,97
+Monroe,"La Salle Township, Precinct 2",Straight Party,,REP,,444,299,145
+Monroe,"London Township, Precinct 1",Straight Party,,REP,,466,466,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,REP,,233,233,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,REP,,216,133,83
+Monroe,"Monroe Township, Precinct 2",Straight Party,,REP,,129,110,19
+Monroe,"Monroe Township, Precinct 3",Straight Party,,REP,,167,116,51
+Monroe,"Monroe Township, Precinct 4",Straight Party,,REP,,302,231,71
+Monroe,"Monroe Township, Precinct 5",Straight Party,,REP,,456,298,158
+Monroe,"Monroe Township, Precinct 6",Straight Party,,REP,,303,199,104
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,REP,,555,378,177
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,REP,,513,369,144
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,REP,,541,406,135
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,REP,,400,314,86
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,REP,,366,283,83
+Monroe,"Ash Township, Precinct 1",Straight Party,,LIB,,9,8,1
+Monroe,"Ash Township, Precinct 2",Straight Party,,LIB,,3,2,1
+Monroe,"Ash Township, Precinct 3",Straight Party,,LIB,,2,1,1
+Monroe,"Bedford Township, Precinct 1",Straight Party,,LIB,,1,0,1
+Monroe,"Bedford Township, Precinct 2",Straight Party,,LIB,,6,4,2
+Monroe,"Bedford Township, Precinct 3",Straight Party,,LIB,,2,2,0
+Monroe,"Bedford Township, Precinct 4",Straight Party,,LIB,,3,1,2
+Monroe,"Bedford Township, Precinct 5",Straight Party,,LIB,,7,6,1
+Monroe,"Bedford Township, Precinct 6",Straight Party,,LIB,,7,5,2
+Monroe,"Bedford Township, Precinct 7",Straight Party,,LIB,,10,10,0
+Monroe,"Bedford Township, Precinct 8",Straight Party,,LIB,,8,6,2
+Monroe,"Bedford Township, Precinct 9",Straight Party,,LIB,,1,1,0
+Monroe,"Bedford Township, Precinct 10",Straight Party,,LIB,,5,4,1
+Monroe,"Bedford Township, Precinct 11",Straight Party,,LIB,,1,0,1
+Monroe,"Bedford Township, Precinct 12",Straight Party,,LIB,,1,1,0
+Monroe,"Bedford Township, Precinct 13",Straight Party,,LIB,,4,4,0
+Monroe,"Bedford Township, Precinct 14",Straight Party,,LIB,,3,2,1
+Monroe,"Berlin Township, Precinct 1",Straight Party,,LIB,,4,4,0
+Monroe,"Berlin Township, Precinct 2",Straight Party,,LIB,,6,6,0
+Monroe,"Berlin Township, Precinct 3",Straight Party,,LIB,,4,4,0
+Monroe,"Berlin Township, Precinct 4",Straight Party,,LIB,,6,5,1
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,LIB,,3,3,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,LIB,,1,1,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,LIB,,6,3,3
+Monroe,"City of Monroe, Precinct 2",Straight Party,,LIB,,6,4,2
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,LIB,,4,3,1
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,LIB,,4,3,1
+Monroe,"City of Monroe, Precinct 4",Straight Party,,LIB,,5,4,1
+Monroe,"City of Monroe, Precinct 5",Straight Party,,LIB,,7,5,2
+Monroe,"City of Monroe, Precinct 6",Straight Party,,LIB,,4,4,0
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,LIB,,4,3,1
+Monroe,"Dundee Township, Precinct 1",Straight Party,,LIB,,4,2,2
+Monroe,"Dundee Township, Precinct 2",Straight Party,,LIB,,3,3,0
+Monroe,"Dundee Township, Precinct 3",Straight Party,,LIB,,3,3,0
+Monroe,"Erie Township, Precinct 1",Straight Party,,LIB,,5,5,0
+Monroe,"Erie Township, Precinct 2",Straight Party,,LIB,,5,5,0
+Monroe,"Exeter Township, Precinct 1",Straight Party,,LIB,,3,3,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,LIB,,2,2,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,LIB,,2,2,0
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,LIB,,2,1,1
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,LIB,,0,0,0
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,LIB,,2,1,1
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,LIB,,5,5,0
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,LIB,,8,7,1
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,LIB,,5,4,1
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,LIB,,0,0,0
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,LIB,,1,1,0
+Monroe,"Ida Township, Precinct 1",Straight Party,,LIB,,6,4,2
+Monroe,"Ida Township, Precinct 2",Straight Party,,LIB,,1,1,0
+Monroe,"La Salle Township, Precinct 1",Straight Party,,LIB,,6,5,1
+Monroe,"La Salle Township, Precinct 2",Straight Party,,LIB,,4,1,3
+Monroe,"London Township, Precinct 1",Straight Party,,LIB,,3,3,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,LIB,,4,4,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,LIB,,3,3,0
+Monroe,"Monroe Township, Precinct 2",Straight Party,,LIB,,1,1,0
+Monroe,"Monroe Township, Precinct 3",Straight Party,,LIB,,4,4,0
+Monroe,"Monroe Township, Precinct 4",Straight Party,,LIB,,2,1,1
+Monroe,"Monroe Township, Precinct 5",Straight Party,,LIB,,5,4,1
+Monroe,"Monroe Township, Precinct 6",Straight Party,,LIB,,2,1,1
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,LIB,,3,2,1
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,LIB,,8,7,1
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,LIB,,4,3,1
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,LIB,,2,2,0
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,LIB,,1,1,0
+Monroe,"Ash Township, Precinct 1",Straight Party,,UST,,2,1,1
+Monroe,"Ash Township, Precinct 2",Straight Party,,UST,,2,1,1
+Monroe,"Ash Township, Precinct 3",Straight Party,,UST,,1,1,0
+Monroe,"Bedford Township, Precinct 1",Straight Party,,UST,,0,0,0
+Monroe,"Bedford Township, Precinct 2",Straight Party,,UST,,1,1,0
+Monroe,"Bedford Township, Precinct 3",Straight Party,,UST,,0,0,0
+Monroe,"Bedford Township, Precinct 4",Straight Party,,UST,,3,3,0
+Monroe,"Bedford Township, Precinct 5",Straight Party,,UST,,0,0,0
+Monroe,"Bedford Township, Precinct 6",Straight Party,,UST,,2,1,1
+Monroe,"Bedford Township, Precinct 7",Straight Party,,UST,,4,4,0
+Monroe,"Bedford Township, Precinct 8",Straight Party,,UST,,1,1,0
+Monroe,"Bedford Township, Precinct 9",Straight Party,,UST,,0,0,0
+Monroe,"Bedford Township, Precinct 10",Straight Party,,UST,,1,1,0
+Monroe,"Bedford Township, Precinct 11",Straight Party,,UST,,0,0,0
+Monroe,"Bedford Township, Precinct 12",Straight Party,,UST,,1,0,1
+Monroe,"Bedford Township, Precinct 13",Straight Party,,UST,,1,1,0
+Monroe,"Bedford Township, Precinct 14",Straight Party,,UST,,3,0,3
+Monroe,"Berlin Township, Precinct 1",Straight Party,,UST,,1,0,1
+Monroe,"Berlin Township, Precinct 2",Straight Party,,UST,,2,1,1
+Monroe,"Berlin Township, Precinct 3",Straight Party,,UST,,1,1,0
+Monroe,"Berlin Township, Precinct 4",Straight Party,,UST,,3,3,0
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,UST,,4,4,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,UST,,0,0,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,UST,,1,1,0
+Monroe,"City of Monroe, Precinct 2",Straight Party,,UST,,2,2,0
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,UST,,0,0,0
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,UST,,1,1,0
+Monroe,"City of Monroe, Precinct 4",Straight Party,,UST,,0,0,0
+Monroe,"City of Monroe, Precinct 5",Straight Party,,UST,,3,3,0
+Monroe,"City of Monroe, Precinct 6",Straight Party,,UST,,2,0,2
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,UST,,2,2,0
+Monroe,"Dundee Township, Precinct 1",Straight Party,,UST,,2,1,1
+Monroe,"Dundee Township, Precinct 2",Straight Party,,UST,,2,2,0
+Monroe,"Dundee Township, Precinct 3",Straight Party,,UST,,2,2,0
+Monroe,"Erie Township, Precinct 1",Straight Party,,UST,,0,0,0
+Monroe,"Erie Township, Precinct 2",Straight Party,,UST,,3,3,0
+Monroe,"Exeter Township, Precinct 1",Straight Party,,UST,,1,1,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,UST,,1,1,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,UST,,0,0,0
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,UST,,1,0,1
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,UST,,2,2,0
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,UST,,0,0,0
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,UST,,3,2,1
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,UST,,4,3,1
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,UST,,1,0,1
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,UST,,4,2,2
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,UST,,2,2,0
+Monroe,"Ida Township, Precinct 1",Straight Party,,UST,,1,1,0
+Monroe,"Ida Township, Precinct 2",Straight Party,,UST,,2,2,0
+Monroe,"La Salle Township, Precinct 1",Straight Party,,UST,,2,1,1
+Monroe,"La Salle Township, Precinct 2",Straight Party,,UST,,1,1,0
+Monroe,"London Township, Precinct 1",Straight Party,,UST,,2,2,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,UST,,1,1,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,UST,,2,1,1
+Monroe,"Monroe Township, Precinct 2",Straight Party,,UST,,2,1,1
+Monroe,"Monroe Township, Precinct 3",Straight Party,,UST,,0,0,0
+Monroe,"Monroe Township, Precinct 4",Straight Party,,UST,,5,2,3
+Monroe,"Monroe Township, Precinct 5",Straight Party,,UST,,1,1,0
+Monroe,"Monroe Township, Precinct 6",Straight Party,,UST,,0,0,0
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,UST,,2,1,1
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,UST,,2,1,1
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,UST,,0,0,0
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,UST,,3,1,2
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,UST,,0,0,0
+Monroe,"Ash Township, Precinct 1",Straight Party,,WCP,,5,2,3
+Monroe,"Ash Township, Precinct 2",Straight Party,,WCP,,0,0,0
+Monroe,"Ash Township, Precinct 3",Straight Party,,WCP,,3,1,2
+Monroe,"Bedford Township, Precinct 1",Straight Party,,WCP,,3,3,0
+Monroe,"Bedford Township, Precinct 2",Straight Party,,WCP,,2,0,2
+Monroe,"Bedford Township, Precinct 3",Straight Party,,WCP,,2,0,2
+Monroe,"Bedford Township, Precinct 4",Straight Party,,WCP,,2,2,0
+Monroe,"Bedford Township, Precinct 5",Straight Party,,WCP,,6,6,0
+Monroe,"Bedford Township, Precinct 6",Straight Party,,WCP,,2,0,2
+Monroe,"Bedford Township, Precinct 7",Straight Party,,WCP,,2,2,0
+Monroe,"Bedford Township, Precinct 8",Straight Party,,WCP,,1,1,0
+Monroe,"Bedford Township, Precinct 9",Straight Party,,WCP,,0,0,0
+Monroe,"Bedford Township, Precinct 10",Straight Party,,WCP,,3,3,0
+Monroe,"Bedford Township, Precinct 11",Straight Party,,WCP,,3,3,0
+Monroe,"Bedford Township, Precinct 12",Straight Party,,WCP,,2,2,0
+Monroe,"Bedford Township, Precinct 13",Straight Party,,WCP,,4,4,0
+Monroe,"Bedford Township, Precinct 14",Straight Party,,WCP,,1,1,0
+Monroe,"Berlin Township, Precinct 1",Straight Party,,WCP,,6,5,1
+Monroe,"Berlin Township, Precinct 2",Straight Party,,WCP,,5,5,0
+Monroe,"Berlin Township, Precinct 3",Straight Party,,WCP,,5,4,1
+Monroe,"Berlin Township, Precinct 4",Straight Party,,WCP,,4,4,0
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,WCP,,5,5,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,WCP,,1,1,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,WCP,,6,2,4
+Monroe,"City of Monroe, Precinct 2",Straight Party,,WCP,,6,4,2
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,WCP,,1,1,0
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,WCP,,4,4,0
+Monroe,"City of Monroe, Precinct 4",Straight Party,,WCP,,9,8,1
+Monroe,"City of Monroe, Precinct 5",Straight Party,,WCP,,2,1,1
+Monroe,"City of Monroe, Precinct 6",Straight Party,,WCP,,2,2,0
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,WCP,,2,2,0
+Monroe,"Dundee Township, Precinct 1",Straight Party,,WCP,,3,3,0
+Monroe,"Dundee Township, Precinct 2",Straight Party,,WCP,,3,2,1
+Monroe,"Dundee Township, Precinct 3",Straight Party,,WCP,,3,2,1
+Monroe,"Erie Township, Precinct 1",Straight Party,,WCP,,6,5,1
+Monroe,"Erie Township, Precinct 2",Straight Party,,WCP,,4,3,1
+Monroe,"Exeter Township, Precinct 1",Straight Party,,WCP,,2,2,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,WCP,,2,2,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,WCP,,3,2,1
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,WCP,,6,4,2
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,WCP,,2,2,0
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,WCP,,3,3,0
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,WCP,,7,5,2
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,WCP,,9,6,3
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,WCP,,5,2,3
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,WCP,,6,5,1
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,WCP,,3,3,0
+Monroe,"Ida Township, Precinct 1",Straight Party,,WCP,,1,1,0
+Monroe,"Ida Township, Precinct 2",Straight Party,,WCP,,2,1,1
+Monroe,"La Salle Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Monroe,"La Salle Township, Precinct 2",Straight Party,,WCP,,2,2,0
+Monroe,"London Township, Precinct 1",Straight Party,,WCP,,5,5,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,WCP,,2,2,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,WCP,,2,1,1
+Monroe,"Monroe Township, Precinct 2",Straight Party,,WCP,,5,4,1
+Monroe,"Monroe Township, Precinct 3",Straight Party,,WCP,,4,4,0
+Monroe,"Monroe Township, Precinct 4",Straight Party,,WCP,,4,3,1
+Monroe,"Monroe Township, Precinct 5",Straight Party,,WCP,,5,2,3
+Monroe,"Monroe Township, Precinct 6",Straight Party,,WCP,,2,0,2
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,WCP,,3,1,2
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,WCP,,7,6,1
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,WCP,,5,3,2
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,WCP,,4,2,2
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,WCP,,3,3,0
+Monroe,"Ash Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Ash Township, Precinct 2",Straight Party,,GRN,,1,1,0
+Monroe,"Ash Township, Precinct 3",Straight Party,,GRN,,1,0,1
+Monroe,"Bedford Township, Precinct 1",Straight Party,,GRN,,1,0,1
+Monroe,"Bedford Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 3",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 4",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 5",Straight Party,,GRN,,1,0,1
+Monroe,"Bedford Township, Precinct 6",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 7",Straight Party,,GRN,,1,0,1
+Monroe,"Bedford Township, Precinct 8",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 9",Straight Party,,GRN,,1,0,1
+Monroe,"Bedford Township, Precinct 10",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 11",Straight Party,,GRN,,1,1,0
+Monroe,"Bedford Township, Precinct 12",Straight Party,,GRN,,0,0,0
+Monroe,"Bedford Township, Precinct 13",Straight Party,,GRN,,1,1,0
+Monroe,"Bedford Township, Precinct 14",Straight Party,,GRN,,1,1,0
+Monroe,"Berlin Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"Berlin Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Berlin Township, Precinct 3",Straight Party,,GRN,,0,0,0
+Monroe,"Berlin Township, Precinct 4",Straight Party,,GRN,,0,0,0
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,GRN,,4,4,0
+Monroe,"City of Monroe, Precinct 2",Straight Party,,GRN,,1,0,1
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,GRN,,3,3,0
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,GRN,,1,1,0
+Monroe,"City of Monroe, Precinct 4",Straight Party,,GRN,,0,0,0
+Monroe,"City of Monroe, Precinct 5",Straight Party,,GRN,,1,1,0
+Monroe,"City of Monroe, Precinct 6",Straight Party,,GRN,,4,2,2
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"Dundee Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"Dundee Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Dundee Township, Precinct 3",Straight Party,,GRN,,1,1,0
+Monroe,"Erie Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"Erie Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Exeter Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,GRN,,1,1,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,GRN,,3,2,1
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,GRN,,3,3,0
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,GRN,,0,0,0
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,GRN,,0,0,0
+Monroe,"Ida Township, Precinct 1",Straight Party,,GRN,,1,0,1
+Monroe,"Ida Township, Precinct 2",Straight Party,,GRN,,1,1,0
+Monroe,"La Salle Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"La Salle Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"London Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Monroe Township, Precinct 2",Straight Party,,GRN,,1,0,1
+Monroe,"Monroe Township, Precinct 3",Straight Party,,GRN,,0,0,0
+Monroe,"Monroe Township, Precinct 4",Straight Party,,GRN,,1,1,0
+Monroe,"Monroe Township, Precinct 5",Straight Party,,GRN,,0,0,0
+Monroe,"Monroe Township, Precinct 6",Straight Party,,GRN,,1,0,1
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,GRN,,1,0,1
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,GRN,,0,0,0
+Monroe,"Ash Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Ash Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Ash Township, Precinct 3",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 1",Straight Party,,NLP,,2,1,1
+Monroe,"Bedford Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 3",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 4",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 5",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 6",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 7",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 8",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 9",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 10",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 11",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 12",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 13",Straight Party,,NLP,,0,0,0
+Monroe,"Bedford Township, Precinct 14",Straight Party,,NLP,,0,0,0
+Monroe,"Berlin Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Berlin Township, Precinct 2",Straight Party,,NLP,,2,2,0
+Monroe,"Berlin Township, Precinct 3",Straight Party,,NLP,,1,0,1
+Monroe,"Berlin Township, Precinct 4",Straight Party,,NLP,,1,1,0
+Monroe,"City of Luna Pier, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"City of Milan, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"City of Monroe, Precinct 1",Straight Party,,NLP,,2,2,0
+Monroe,"City of Monroe, Precinct 2",Straight Party,,NLP,,3,3,0
+Monroe,"City of Monroe, Precinct 3N",Straight Party,,NLP,,1,1,0
+Monroe,"City of Monroe, Precinct 3S",Straight Party,,NLP,,0,0,0
+Monroe,"City of Monroe, Precinct 4",Straight Party,,NLP,,2,2,0
+Monroe,"City of Monroe, Precinct 5",Straight Party,,NLP,,2,2,0
+Monroe,"City of Monroe, Precinct 6",Straight Party,,NLP,,1,1,0
+Monroe,"City of Petersburg, Precinct 1",Straight Party,,NLP,,0,0,0
+Monroe,"Dundee Township, Precinct 1",Straight Party,,NLP,,3,2,1
+Monroe,"Dundee Township, Precinct 2",Straight Party,,NLP,,2,1,1
+Monroe,"Dundee Township, Precinct 3",Straight Party,,NLP,,1,1,0
+Monroe,"Erie Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Monroe,"Erie Township, Precinct 2",Straight Party,,NLP,,1,1,0
+Monroe,"Exeter Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Monroe,"Exeter Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Frenchtown Township, Precinct 1",Straight Party,,NLP,,1,0,1
+Monroe,"Frenchtown Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Frenchtown Township, Precinct 3",Straight Party,,NLP,,0,0,0
+Monroe,"Frenchtown Township, Precinct 4",Straight Party,,NLP,,0,0,0
+Monroe,"Frenchtown Township, Precinct 5",Straight Party,,NLP,,2,2,0
+Monroe,"Frenchtown Township, Precinct 6",Straight Party,,NLP,,0,0,0
+Monroe,"Frenchtown Township, Precinct 7",Straight Party,,NLP,,3,3,0
+Monroe,"Frenchtown Township, Precinct 8",Straight Party,,NLP,,1,0,1
+Monroe,"Frenchtown Township, Precinct 9",Straight Party,,NLP,,1,0,1
+Monroe,"Ida Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Ida Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"La Salle Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Monroe,"La Salle Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"London Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Milan Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Monroe Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Monroe Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Monroe Township, Precinct 3",Straight Party,,NLP,,0,0,0
+Monroe,"Monroe Township, Precinct 4",Straight Party,,NLP,,0,0,0
+Monroe,"Monroe Township, Precinct 5",Straight Party,,NLP,,0,0,0
+Monroe,"Monroe Township, Precinct 6",Straight Party,,NLP,,0,0,0
+Monroe,"Raisinville Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Monroe,"Raisinville Township, Precinct 2",Straight Party,,NLP,,1,1,0
+Monroe,"Summerfield Township, Precinct 1",Straight Party,,NLP,,2,2,0
+Monroe,"Whiteford Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Monroe,"Whiteford Township, Precinct 2",Straight Party,,NLP,,0,0,0
+Monroe,"Ash Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,524,251,273
+Monroe,"Ash Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,593,243,350
+Monroe,"Ash Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,416,168,248
+Monroe,"Bedford Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,206,121,85
+Monroe,"Bedford Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,492,250,242
+Monroe,"Bedford Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,423,247,176
+Monroe,"Bedford Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,572,282,290
+Monroe,"Bedford Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,517,268,249
+Monroe,"Bedford Township, Precinct 6",Governor,,DEM,Gretchen Whitmer,652,341,311
+Monroe,"Bedford Township, Precinct 7",Governor,,DEM,Gretchen Whitmer,552,296,256
+Monroe,"Bedford Township, Precinct 8",Governor,,DEM,Gretchen Whitmer,567,268,299
+Monroe,"Bedford Township, Precinct 9",Governor,,DEM,Gretchen Whitmer,344,146,198
+Monroe,"Bedford Township, Precinct 10",Governor,,DEM,Gretchen Whitmer,271,131,140
+Monroe,"Bedford Township, Precinct 11",Governor,,DEM,Gretchen Whitmer,502,280,222
+Monroe,"Bedford Township, Precinct 12",Governor,,DEM,Gretchen Whitmer,466,222,244
+Monroe,"Bedford Township, Precinct 13",Governor,,DEM,Gretchen Whitmer,435,211,224
+Monroe,"Bedford Township, Precinct 14",Governor,,DEM,Gretchen Whitmer,413,213,200
+Monroe,"Berlin Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,436,247,189
+Monroe,"Berlin Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,584,295,289
+Monroe,"Berlin Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,340,159,181
+Monroe,"Berlin Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,526,263,263
+Monroe,"City of Luna Pier, Precinct 1",Governor,,DEM,Gretchen Whitmer,600,300,300
+Monroe,"City of Milan, Precinct 1",Governor,,DEM,Gretchen Whitmer,1170,585,585
+Monroe,"City of Monroe, Precinct 1",Governor,,DEM,Gretchen Whitmer,654,322,332
+Monroe,"City of Monroe, Precinct 2",Governor,,DEM,Gretchen Whitmer,582,291,291
+Monroe,"City of Monroe, Precinct 3N",Governor,,DEM,Gretchen Whitmer,402,201,201
+Monroe,"City of Monroe, Precinct 3S",Governor,,DEM,Gretchen Whitmer,324,162,162
+Monroe,"City of Monroe, Precinct 4",Governor,,DEM,Gretchen Whitmer,780,390,390
+Monroe,"City of Monroe, Precinct 5",Governor,,DEM,Gretchen Whitmer,720,360,360
+Monroe,"City of Monroe, Precinct 6",Governor,,DEM,Gretchen Whitmer,655,350,305
+Monroe,"City of Petersburg, Precinct 1",Governor,,DEM,Gretchen Whitmer,238,157,81
+Monroe,"Dundee Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,451,263,188
+Monroe,"Dundee Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,583,292,291
+Monroe,"Dundee Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,653,368,285
+Monroe,"Erie Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,422,193,229
+Monroe,"Erie Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,289,136,153
+Monroe,"Exeter Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,314,314,0
+Monroe,"Exeter Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,444,444,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,262,130,132
+Monroe,"Frenchtown Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,330,174,156
+Monroe,"Frenchtown Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,346,139,207
+Monroe,"Frenchtown Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,506,152,354
+Monroe,"Frenchtown Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,421,250,171
+Monroe,"Frenchtown Township, Precinct 6",Governor,,DEM,Gretchen Whitmer,493,238,255
+Monroe,"Frenchtown Township, Precinct 7",Governor,,DEM,Gretchen Whitmer,656,260,396
+Monroe,"Frenchtown Township, Precinct 8",Governor,,DEM,Gretchen Whitmer,369,177,192
+Monroe,"Frenchtown Township, Precinct 9",Governor,,DEM,Gretchen Whitmer,441,194,247
+Monroe,"Ida Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,396,204,192
+Monroe,"Ida Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,427,212,215
+Monroe,"La Salle Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,393,173,220
+Monroe,"La Salle Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,490,231,259
+Monroe,"London Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,531,531,0
+Monroe,"Milan Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,360,360,0
+Monroe,"Monroe Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,419,184,235
+Monroe,"Monroe Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,290,140,150
+Monroe,"Monroe Township, Precinct 3",Governor,,DEM,Gretchen Whitmer,300,126,174
+Monroe,"Monroe Township, Precinct 4",Governor,,DEM,Gretchen Whitmer,478,235,243
+Monroe,"Monroe Township, Precinct 5",Governor,,DEM,Gretchen Whitmer,616,259,357
+Monroe,"Monroe Township, Precinct 6",Governor,,DEM,Gretchen Whitmer,409,166,243
+Monroe,"Raisinville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,494,192,302
+Monroe,"Raisinville Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,692,314,378
+Monroe,"Summerfield Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,530,286,244
+Monroe,"Whiteford Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,399,218,181
+Monroe,"Whiteford Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,292,163,129
+Monroe,"Ash Township, Precinct 1",Governor,,REP,Tudor M. Dixon,714,494,220
+Monroe,"Ash Township, Precinct 2",Governor,,REP,Tudor M. Dixon,890,564,326
+Monroe,"Ash Township, Precinct 3",Governor,,REP,Tudor M. Dixon,742,486,256
+Monroe,"Bedford Township, Precinct 1",Governor,,REP,Tudor M. Dixon,393,301,92
+Monroe,"Bedford Township, Precinct 2",Governor,,REP,Tudor M. Dixon,634,478,156
+Monroe,"Bedford Township, Precinct 3",Governor,,REP,Tudor M. Dixon,603,491,112
+Monroe,"Bedford Township, Precinct 4",Governor,,REP,Tudor M. Dixon,710,523,187
+Monroe,"Bedford Township, Precinct 5",Governor,,REP,Tudor M. Dixon,586,431,155
+Monroe,"Bedford Township, Precinct 6",Governor,,REP,Tudor M. Dixon,804,622,182
+Monroe,"Bedford Township, Precinct 7",Governor,,REP,Tudor M. Dixon,619,464,155
+Monroe,"Bedford Township, Precinct 8",Governor,,REP,Tudor M. Dixon,658,444,214
+Monroe,"Bedford Township, Precinct 9",Governor,,REP,Tudor M. Dixon,449,325,124
+Monroe,"Bedford Township, Precinct 10",Governor,,REP,Tudor M. Dixon,479,371,108
+Monroe,"Bedford Township, Precinct 11",Governor,,REP,Tudor M. Dixon,826,627,199
+Monroe,"Bedford Township, Precinct 12",Governor,,REP,Tudor M. Dixon,501,346,155
+Monroe,"Bedford Township, Precinct 13",Governor,,REP,Tudor M. Dixon,601,451,150
+Monroe,"Bedford Township, Precinct 14",Governor,,REP,Tudor M. Dixon,415,317,98
+Monroe,"Berlin Township, Precinct 1",Governor,,REP,Tudor M. Dixon,636,487,149
+Monroe,"Berlin Township, Precinct 2",Governor,,REP,Tudor M. Dixon,827,590,237
+Monroe,"Berlin Township, Precinct 3",Governor,,REP,Tudor M. Dixon,481,351,130
+Monroe,"Berlin Township, Precinct 4",Governor,,REP,Tudor M. Dixon,777,584,193
+Monroe,"City of Luna Pier, Precinct 1",Governor,,REP,Tudor M. Dixon,306,306,0
+Monroe,"City of Milan, Precinct 1",Governor,,REP,Tudor M. Dixon,377,377,0
+Monroe,"City of Monroe, Precinct 1",Governor,,REP,Tudor M. Dixon,489,353,136
+Monroe,"City of Monroe, Precinct 2",Governor,,REP,Tudor M. Dixon,407,321,86
+Monroe,"City of Monroe, Precinct 3N",Governor,,REP,Tudor M. Dixon,234,203,31
+Monroe,"City of Monroe, Precinct 3S",Governor,,REP,Tudor M. Dixon,135,94,41
+Monroe,"City of Monroe, Precinct 4",Governor,,REP,Tudor M. Dixon,735,535,200
+Monroe,"City of Monroe, Precinct 5",Governor,,REP,Tudor M. Dixon,702,493,209
+Monroe,"City of Monroe, Precinct 6",Governor,,REP,Tudor M. Dixon,622,447,175
+Monroe,"City of Petersburg, Precinct 1",Governor,,REP,Tudor M. Dixon,260,219,41
+Monroe,"Dundee Township, Precinct 1",Governor,,REP,Tudor M. Dixon,466,361,105
+Monroe,"Dundee Township, Precinct 2",Governor,,REP,Tudor M. Dixon,634,474,160
+Monroe,"Dundee Township, Precinct 3",Governor,,REP,Tudor M. Dixon,845,666,179
+Monroe,"Erie Township, Precinct 1",Governor,,REP,Tudor M. Dixon,686,466,220
+Monroe,"Erie Township, Precinct 2",Governor,,REP,Tudor M. Dixon,464,351,113
+Monroe,"Exeter Township, Precinct 1",Governor,,REP,Tudor M. Dixon,564,564,0
+Monroe,"Exeter Township, Precinct 2",Governor,,REP,Tudor M. Dixon,685,685,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,REP,Tudor M. Dixon,333,225,108
+Monroe,"Frenchtown Township, Precinct 2",Governor,,REP,Tudor M. Dixon,384,293,91
+Monroe,"Frenchtown Township, Precinct 3",Governor,,REP,Tudor M. Dixon,488,355,133
+Monroe,"Frenchtown Township, Precinct 4",Governor,,REP,Tudor M. Dixon,551,304,247
+Monroe,"Frenchtown Township, Precinct 5",Governor,,REP,Tudor M. Dixon,437,341,96
+Monroe,"Frenchtown Township, Precinct 6",Governor,,REP,Tudor M. Dixon,585,413,172
+Monroe,"Frenchtown Township, Precinct 7",Governor,,REP,Tudor M. Dixon,787,470,317
+Monroe,"Frenchtown Township, Precinct 8",Governor,,REP,Tudor M. Dixon,479,339,140
+Monroe,"Frenchtown Township, Precinct 9",Governor,,REP,Tudor M. Dixon,455,334,121
+Monroe,"Ida Township, Precinct 1",Governor,,REP,Tudor M. Dixon,888,650,238
+Monroe,"Ida Township, Precinct 2",Governor,,REP,Tudor M. Dixon,737,560,177
+Monroe,"La Salle Township, Precinct 1",Governor,,REP,Tudor M. Dixon,669,484,185
+Monroe,"La Salle Township, Precinct 2",Governor,,REP,Tudor M. Dixon,853,610,243
+Monroe,"London Township, Precinct 1",Governor,,REP,Tudor M. Dixon,829,829,0
+Monroe,"Milan Township, Precinct 1",Governor,,REP,Tudor M. Dixon,446,446,0
+Monroe,"Monroe Township, Precinct 1",Governor,,REP,Tudor M. Dixon,392,250,142
+Monroe,"Monroe Township, Precinct 2",Governor,,REP,Tudor M. Dixon,230,187,43
+Monroe,"Monroe Township, Precinct 3",Governor,,REP,Tudor M. Dixon,394,267,127
+Monroe,"Monroe Township, Precinct 4",Governor,,REP,Tudor M. Dixon,554,407,147
+Monroe,"Monroe Township, Precinct 5",Governor,,REP,Tudor M. Dixon,874,580,294
+Monroe,"Monroe Township, Precinct 6",Governor,,REP,Tudor M. Dixon,571,369,202
+Monroe,"Raisinville Township, Precinct 1",Governor,,REP,Tudor M. Dixon,972,618,354
+Monroe,"Raisinville Township, Precinct 2",Governor,,REP,Tudor M. Dixon,950,672,278
+Monroe,"Summerfield Township, Precinct 1",Governor,,REP,Tudor M. Dixon,1025,772,253
+Monroe,"Whiteford Township, Precinct 1",Governor,,REP,Tudor M. Dixon,743,590,153
+Monroe,"Whiteford Township, Precinct 2",Governor,,REP,Tudor M. Dixon,730,579,151
+Monroe,"Ash Township, Precinct 1",Governor,,LIB,Mary Buzuma,24,17,7
+Monroe,"Ash Township, Precinct 2",Governor,,LIB,Mary Buzuma,8,5,3
+Monroe,"Ash Township, Precinct 3",Governor,,LIB,Mary Buzuma,9,6,3
+Monroe,"Bedford Township, Precinct 1",Governor,,LIB,Mary Buzuma,6,2,4
+Monroe,"Bedford Township, Precinct 2",Governor,,LIB,Mary Buzuma,13,8,5
+Monroe,"Bedford Township, Precinct 3",Governor,,LIB,Mary Buzuma,13,13,0
+Monroe,"Bedford Township, Precinct 4",Governor,,LIB,Mary Buzuma,13,7,6
+Monroe,"Bedford Township, Precinct 5",Governor,,LIB,Mary Buzuma,14,10,4
+Monroe,"Bedford Township, Precinct 6",Governor,,LIB,Mary Buzuma,14,13,1
+Monroe,"Bedford Township, Precinct 7",Governor,,LIB,Mary Buzuma,10,10,0
+Monroe,"Bedford Township, Precinct 8",Governor,,LIB,Mary Buzuma,14,10,4
+Monroe,"Bedford Township, Precinct 9",Governor,,LIB,Mary Buzuma,7,5,2
+Monroe,"Bedford Township, Precinct 10",Governor,,LIB,Mary Buzuma,7,5,2
+Monroe,"Bedford Township, Precinct 11",Governor,,LIB,Mary Buzuma,8,5,3
+Monroe,"Bedford Township, Precinct 12",Governor,,LIB,Mary Buzuma,9,6,3
+Monroe,"Bedford Township, Precinct 13",Governor,,LIB,Mary Buzuma,14,12,2
+Monroe,"Bedford Township, Precinct 14",Governor,,LIB,Mary Buzuma,11,8,3
+Monroe,"Berlin Township, Precinct 1",Governor,,LIB,Mary Buzuma,12,11,1
+Monroe,"Berlin Township, Precinct 2",Governor,,LIB,Mary Buzuma,9,6,3
+Monroe,"Berlin Township, Precinct 3",Governor,,LIB,Mary Buzuma,6,5,1
+Monroe,"Berlin Township, Precinct 4",Governor,,LIB,Mary Buzuma,13,10,3
+Monroe,"City of Luna Pier, Precinct 1",Governor,,LIB,Mary Buzuma,13,13,0
+Monroe,"City of Milan, Precinct 1",Governor,,LIB,Mary Buzuma,7,7,0
+Monroe,"City of Monroe, Precinct 1",Governor,,LIB,Mary Buzuma,13,10,3
+Monroe,"City of Monroe, Precinct 2",Governor,,LIB,Mary Buzuma,10,7,3
+Monroe,"City of Monroe, Precinct 3N",Governor,,LIB,Mary Buzuma,6,5,1
+Monroe,"City of Monroe, Precinct 3S",Governor,,LIB,Mary Buzuma,6,5,1
+Monroe,"City of Monroe, Precinct 4",Governor,,LIB,Mary Buzuma,6,5,1
+Monroe,"City of Monroe, Precinct 5",Governor,,LIB,Mary Buzuma,13,11,2
+Monroe,"City of Monroe, Precinct 6",Governor,,LIB,Mary Buzuma,9,7,2
+Monroe,"City of Petersburg, Precinct 1",Governor,,LIB,Mary Buzuma,5,4,1
+Monroe,"Dundee Township, Precinct 1",Governor,,LIB,Mary Buzuma,12,4,8
+Monroe,"Dundee Township, Precinct 2",Governor,,LIB,Mary Buzuma,11,10,1
+Monroe,"Dundee Township, Precinct 3",Governor,,LIB,Mary Buzuma,15,8,7
+Monroe,"Erie Township, Precinct 1",Governor,,LIB,Mary Buzuma,11,7,4
+Monroe,"Erie Township, Precinct 2",Governor,,LIB,Mary Buzuma,11,9,2
+Monroe,"Exeter Township, Precinct 1",Governor,,LIB,Mary Buzuma,8,8,0
+Monroe,"Exeter Township, Precinct 2",Governor,,LIB,Mary Buzuma,12,12,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,LIB,Mary Buzuma,2,2,0
+Monroe,"Frenchtown Township, Precinct 2",Governor,,LIB,Mary Buzuma,5,5,0
+Monroe,"Frenchtown Township, Precinct 3",Governor,,LIB,Mary Buzuma,9,5,4
+Monroe,"Frenchtown Township, Precinct 4",Governor,,LIB,Mary Buzuma,10,6,4
+Monroe,"Frenchtown Township, Precinct 5",Governor,,LIB,Mary Buzuma,10,7,3
+Monroe,"Frenchtown Township, Precinct 6",Governor,,LIB,Mary Buzuma,18,15,3
+Monroe,"Frenchtown Township, Precinct 7",Governor,,LIB,Mary Buzuma,11,6,5
+Monroe,"Frenchtown Township, Precinct 8",Governor,,LIB,Mary Buzuma,8,7,1
+Monroe,"Frenchtown Township, Precinct 9",Governor,,LIB,Mary Buzuma,4,4,0
+Monroe,"Ida Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,5,4
+Monroe,"Ida Township, Precinct 2",Governor,,LIB,Mary Buzuma,9,8,1
+Monroe,"La Salle Township, Precinct 1",Governor,,LIB,Mary Buzuma,8,8,0
+Monroe,"La Salle Township, Precinct 2",Governor,,LIB,Mary Buzuma,19,13,6
+Monroe,"London Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,9,0
+Monroe,"Milan Township, Precinct 1",Governor,,LIB,Mary Buzuma,8,8,0
+Monroe,"Monroe Township, Precinct 1",Governor,,LIB,Mary Buzuma,7,5,2
+Monroe,"Monroe Township, Precinct 2",Governor,,LIB,Mary Buzuma,5,3,2
+Monroe,"Monroe Township, Precinct 3",Governor,,LIB,Mary Buzuma,10,8,2
+Monroe,"Monroe Township, Precinct 4",Governor,,LIB,Mary Buzuma,7,4,3
+Monroe,"Monroe Township, Precinct 5",Governor,,LIB,Mary Buzuma,10,7,3
+Monroe,"Monroe Township, Precinct 6",Governor,,LIB,Mary Buzuma,10,7,3
+Monroe,"Raisinville Township, Precinct 1",Governor,,LIB,Mary Buzuma,11,7,4
+Monroe,"Raisinville Township, Precinct 2",Governor,,LIB,Mary Buzuma,16,14,2
+Monroe,"Summerfield Township, Precinct 1",Governor,,LIB,Mary Buzuma,8,6,2
+Monroe,"Whiteford Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,8,1
+Monroe,"Whiteford Township, Precinct 2",Governor,,LIB,Mary Buzuma,4,4,0
+Monroe,"Ash Township, Precinct 1",Governor,,UST,Donna Brandenburg,4,3,1
+Monroe,"Ash Township, Precinct 2",Governor,,UST,Donna Brandenburg,8,2,6
+Monroe,"Ash Township, Precinct 3",Governor,,UST,Donna Brandenburg,4,2,2
+Monroe,"Bedford Township, Precinct 1",Governor,,UST,Donna Brandenburg,4,3,1
+Monroe,"Bedford Township, Precinct 2",Governor,,UST,Donna Brandenburg,2,1,1
+Monroe,"Bedford Township, Precinct 3",Governor,,UST,Donna Brandenburg,6,1,5
+Monroe,"Bedford Township, Precinct 4",Governor,,UST,Donna Brandenburg,8,5,3
+Monroe,"Bedford Township, Precinct 5",Governor,,UST,Donna Brandenburg,3,1,2
+Monroe,"Bedford Township, Precinct 6",Governor,,UST,Donna Brandenburg,4,1,3
+Monroe,"Bedford Township, Precinct 7",Governor,,UST,Donna Brandenburg,6,2,4
+Monroe,"Bedford Township, Precinct 8",Governor,,UST,Donna Brandenburg,6,3,3
+Monroe,"Bedford Township, Precinct 9",Governor,,UST,Donna Brandenburg,7,1,6
+Monroe,"Bedford Township, Precinct 10",Governor,,UST,Donna Brandenburg,4,3,1
+Monroe,"Bedford Township, Precinct 11",Governor,,UST,Donna Brandenburg,2,0,2
+Monroe,"Bedford Township, Precinct 12",Governor,,UST,Donna Brandenburg,5,4,1
+Monroe,"Bedford Township, Precinct 13",Governor,,UST,Donna Brandenburg,3,2,1
+Monroe,"Bedford Township, Precinct 14",Governor,,UST,Donna Brandenburg,8,5,3
+Monroe,"Berlin Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,2,0
+Monroe,"Berlin Township, Precinct 2",Governor,,UST,Donna Brandenburg,5,2,3
+Monroe,"Berlin Township, Precinct 3",Governor,,UST,Donna Brandenburg,6,3,3
+Monroe,"Berlin Township, Precinct 4",Governor,,UST,Donna Brandenburg,8,6,2
+Monroe,"City of Luna Pier, Precinct 1",Governor,,UST,Donna Brandenburg,4,4,0
+Monroe,"City of Milan, Precinct 1",Governor,,UST,Donna Brandenburg,3,3,0
+Monroe,"City of Monroe, Precinct 1",Governor,,UST,Donna Brandenburg,2,0,2
+Monroe,"City of Monroe, Precinct 2",Governor,,UST,Donna Brandenburg,5,3,2
+Monroe,"City of Monroe, Precinct 3N",Governor,,UST,Donna Brandenburg,3,2,1
+Monroe,"City of Monroe, Precinct 3S",Governor,,UST,Donna Brandenburg,1,,1
+Monroe,"City of Monroe, Precinct 4",Governor,,UST,Donna Brandenburg,6,4,2
+Monroe,"City of Monroe, Precinct 5",Governor,,UST,Donna Brandenburg,9,5,4
+Monroe,"City of Monroe, Precinct 6",Governor,,UST,Donna Brandenburg,6,1,5
+Monroe,"City of Petersburg, Precinct 1",Governor,,UST,Donna Brandenburg,1,1,0
+Monroe,"Dundee Township, Precinct 1",Governor,,UST,Donna Brandenburg,5,4,1
+Monroe,"Dundee Township, Precinct 2",Governor,,UST,Donna Brandenburg,1,1,0
+Monroe,"Dundee Township, Precinct 3",Governor,,UST,Donna Brandenburg,6,5,1
+Monroe,"Erie Township, Precinct 1",Governor,,UST,Donna Brandenburg,1,1,0
+Monroe,"Erie Township, Precinct 2",Governor,,UST,Donna Brandenburg,5,5,0
+Monroe,"Exeter Township, Precinct 1",Governor,,UST,Donna Brandenburg,9,9,0
+Monroe,"Exeter Township, Precinct 2",Governor,,UST,Donna Brandenburg,9,9,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,1,1
+Monroe,"Frenchtown Township, Precinct 2",Governor,,UST,Donna Brandenburg,5,4,1
+Monroe,"Frenchtown Township, Precinct 3",Governor,,UST,Donna Brandenburg,6,3,3
+Monroe,"Frenchtown Township, Precinct 4",Governor,,UST,Donna Brandenburg,2,2,0
+Monroe,"Frenchtown Township, Precinct 5",Governor,,UST,Donna Brandenburg,5,3,2
+Monroe,"Frenchtown Township, Precinct 6",Governor,,UST,Donna Brandenburg,5,2,3
+Monroe,"Frenchtown Township, Precinct 7",Governor,,UST,Donna Brandenburg,7,3,4
+Monroe,"Frenchtown Township, Precinct 8",Governor,,UST,Donna Brandenburg,4,2,2
+Monroe,"Frenchtown Township, Precinct 9",Governor,,UST,Donna Brandenburg,2,1,1
+Monroe,"Ida Township, Precinct 1",Governor,,UST,Donna Brandenburg,6,2,4
+Monroe,"Ida Township, Precinct 2",Governor,,UST,Donna Brandenburg,6,4,2
+Monroe,"La Salle Township, Precinct 1",Governor,,UST,Donna Brandenburg,10,4,6
+Monroe,"La Salle Township, Precinct 2",Governor,,UST,Donna Brandenburg,5,4,1
+Monroe,"London Township, Precinct 1",Governor,,UST,Donna Brandenburg,9,9,0
+Monroe,"Milan Township, Precinct 1",Governor,,UST,Donna Brandenburg,7,7,0
+Monroe,"Monroe Township, Precinct 1",Governor,,UST,Donna Brandenburg,8,4,4
+Monroe,"Monroe Township, Precinct 2",Governor,,UST,Donna Brandenburg,4,2,2
+Monroe,"Monroe Township, Precinct 3",Governor,,UST,Donna Brandenburg,3,2,1
+Monroe,"Monroe Township, Precinct 4",Governor,,UST,Donna Brandenburg,8,6,2
+Monroe,"Monroe Township, Precinct 5",Governor,,UST,Donna Brandenburg,9,4,5
+Monroe,"Monroe Township, Precinct 6",Governor,,UST,Donna Brandenburg,5,2,3
+Monroe,"Raisinville Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,1,1
+Monroe,"Raisinville Township, Precinct 2",Governor,,UST,Donna Brandenburg,3,3,0
+Monroe,"Summerfield Township, Precinct 1",Governor,,UST,Donna Brandenburg,6,2,4
+Monroe,"Whiteford Township, Precinct 1",Governor,,UST,Donna Brandenburg,7,5,2
+Monroe,"Whiteford Township, Precinct 2",Governor,,UST,Donna Brandenburg,3,3,0
+Monroe,"Ash Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,1,2
+Monroe,"Ash Township, Precinct 2",Governor,,GRN,Kevin Hogan,6,5,1
+Monroe,"Ash Township, Precinct 3",Governor,,GRN,Kevin Hogan,3,1,2
+Monroe,"Bedford Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Bedford Township, Precinct 2",Governor,,GRN,Kevin Hogan,6,4,2
+Monroe,"Bedford Township, Precinct 3",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 4",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"Bedford Township, Precinct 5",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"Bedford Township, Precinct 6",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 7",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"Bedford Township, Precinct 8",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Bedford Township, Precinct 9",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Bedford Township, Precinct 10",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 11",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 12",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 13",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Bedford Township, Precinct 14",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Berlin Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,3,1
+Monroe,"Berlin Township, Precinct 2",Governor,,GRN,Kevin Hogan,3,1,2
+Monroe,"Berlin Township, Precinct 3",Governor,,GRN,Kevin Hogan,3,1,2
+Monroe,"Berlin Township, Precinct 4",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"City of Luna Pier, Precinct 1",Governor,,GRN,Kevin Hogan,5,5,0
+Monroe,"City of Milan, Precinct 1",Governor,,GRN,Kevin Hogan,5,5,0
+Monroe,"City of Monroe, Precinct 1",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"City of Monroe, Precinct 2",Governor,,GRN,Kevin Hogan,4,3,1
+Monroe,"City of Monroe, Precinct 3N",Governor,,GRN,Kevin Hogan,3,3,0
+Monroe,"City of Monroe, Precinct 3S",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"City of Monroe, Precinct 4",Governor,,GRN,Kevin Hogan,6,5,1
+Monroe,"City of Monroe, Precinct 5",Governor,,GRN,Kevin Hogan,6,3,3
+Monroe,"City of Monroe, Precinct 6",Governor,,GRN,Kevin Hogan,4,3,1
+Monroe,"City of Petersburg, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Dundee Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,2,1
+Monroe,"Dundee Township, Precinct 2",Governor,,GRN,Kevin Hogan,4,4,0
+Monroe,"Dundee Township, Precinct 3",Governor,,GRN,Kevin Hogan,1,1,0
+Monroe,"Erie Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,1,0
+Monroe,"Erie Township, Precinct 2",Governor,,GRN,Kevin Hogan,5,3,2
+Monroe,"Exeter Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Exeter Township, Precinct 2",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Frenchtown Township, Precinct 2",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"Frenchtown Township, Precinct 3",Governor,,GRN,Kevin Hogan,6,3,3
+Monroe,"Frenchtown Township, Precinct 4",Governor,,GRN,Kevin Hogan,1,1,0
+Monroe,"Frenchtown Township, Precinct 5",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Frenchtown Township, Precinct 6",Governor,,GRN,Kevin Hogan,3,1,2
+Monroe,"Frenchtown Township, Precinct 7",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Frenchtown Township, Precinct 8",Governor,,GRN,Kevin Hogan,1,1,0
+Monroe,"Frenchtown Township, Precinct 9",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Ida Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,2,2
+Monroe,"Ida Township, Precinct 2",Governor,,GRN,Kevin Hogan,4,4,0
+Monroe,"La Salle Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"La Salle Township, Precinct 2",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"London Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,3,0
+Monroe,"Milan Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Monroe Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Monroe Township, Precinct 2",Governor,,GRN,Kevin Hogan,5,3,2
+Monroe,"Monroe Township, Precinct 3",Governor,,GRN,Kevin Hogan,1,0,1
+Monroe,"Monroe Township, Precinct 4",Governor,,GRN,Kevin Hogan,2,2,0
+Monroe,"Monroe Township, Precinct 5",Governor,,GRN,Kevin Hogan,2,0,2
+Monroe,"Monroe Township, Precinct 6",Governor,,GRN,Kevin Hogan,5,2,3
+Monroe,"Raisinville Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,3,1
+Monroe,"Raisinville Township, Precinct 2",Governor,,GRN,Kevin Hogan,6,6,0
+Monroe,"Summerfield Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,4,0
+Monroe,"Whiteford Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Monroe,"Whiteford Township, Precinct 2",Governor,,GRN,Kevin Hogan,2,1,1
+Monroe,"Ash Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,4,3,1
+Monroe,"Ash Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Ash Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Bedford Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Monroe,"Bedford Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"Bedford Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Bedford Township, Precinct 4",Governor,,NLP,Daryl M. Simpson,3,1,2
+Monroe,"Bedford Township, Precinct 5",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 6",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 7",Governor,,NLP,Daryl M. Simpson,3,1,2
+Monroe,"Bedford Township, Precinct 8",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 9",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 10",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 11",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"Bedford Township, Precinct 12",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 13",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Bedford Township, Precinct 14",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Berlin Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,3,2,1
+Monroe,"Berlin Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Berlin Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"Berlin Township, Precinct 4",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"City of Luna Pier, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"City of Milan, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"City of Monroe, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"City of Monroe, Precinct 2",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"City of Monroe, Precinct 3N",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"City of Monroe, Precinct 3S",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"City of Monroe, Precinct 4",Governor,,NLP,Daryl M. Simpson,2,1,1
+Monroe,"City of Monroe, Precinct 5",Governor,,NLP,Daryl M. Simpson,2,1,1
+Monroe,"City of Monroe, Precinct 6",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"City of Petersburg, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Dundee Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Dundee Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,4,2,2
+Monroe,"Dundee Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,2,2,0
+Monroe,"Erie Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Erie Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,3,2,1
+Monroe,"Exeter Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Exeter Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Monroe,"Frenchtown Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,2,0,2
+Monroe,"Frenchtown Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Frenchtown Township, Precinct 4",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Frenchtown Township, Precinct 5",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Frenchtown Township, Precinct 6",Governor,,NLP,Daryl M. Simpson,2,1,1
+Monroe,"Frenchtown Township, Precinct 7",Governor,,NLP,Daryl M. Simpson,4,2,2
+Monroe,"Frenchtown Township, Precinct 8",Governor,,NLP,Daryl M. Simpson,2,1,1
+Monroe,"Frenchtown Township, Precinct 9",Governor,,NLP,Daryl M. Simpson,1,0,1
+Monroe,"Ida Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Ida Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"La Salle Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"La Salle Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"London Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Milan Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Monroe Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Monroe Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Monroe Township, Precinct 3",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Monroe Township, Precinct 4",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Monroe Township, Precinct 5",Governor,,NLP,Daryl M. Simpson,3,1,2
+Monroe,"Monroe Township, Precinct 6",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Raisinville Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,1,1
+Monroe,"Raisinville Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,3,3,0
+Monroe,"Summerfield Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Monroe,"Whiteford Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,3,2,1
+Monroe,"Whiteford Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0,0,0
+Monroe,"Ash Township, Precinct 1",Governor,,,Write-ins,3,3,0
+Monroe,"Ash Township, Precinct 2",Governor,,,Write-ins,3,2,1
+Monroe,"Ash Township, Precinct 3",Governor,,,Write-ins,2,1,1
+Monroe,"Bedford Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 2",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 3",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 4",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 5",Governor,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 6",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 7",Governor,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 8",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 9",Governor,,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 10",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 11",Governor,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 12",Governor,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 13",Governor,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 14",Governor,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 1",Governor,,,Write-ins,1,0,1
+Monroe,"Berlin Township, Precinct 2",Governor,,,Write-ins,2,2,0
+Monroe,"Berlin Township, Precinct 3",Governor,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 4",Governor,,,Write-ins,5,3,2
+Monroe,"City of Luna Pier, Precinct 1",Governor,,,Write-ins,1,1,0
+Monroe,"City of Milan, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 1",Governor,,,Write-ins,2,1,1
+Monroe,"City of Monroe, Precinct 2",Governor,,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 3N",Governor,,,Write-ins,1,1,0
+Monroe,"City of Monroe, Precinct 3S",Governor,,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 4",Governor,,,Write-ins,4,2,2
+Monroe,"City of Monroe, Precinct 5",Governor,,,Write-ins,5,5,0
+Monroe,"City of Monroe, Precinct 6",Governor,,,Write-ins,2,1,1
+Monroe,"City of Petersburg, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Dundee Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Dundee Township, Precinct 2",Governor,,,Write-ins,1,1,0
+Monroe,"Dundee Township, Precinct 3",Governor,,,Write-ins,0,0,0
+Monroe,"Erie Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Erie Township, Precinct 2",Governor,,,Write-ins,0,0,0
+Monroe,"Exeter Township, Precinct 1",Governor,,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 2",Governor,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 2",Governor,,,Write-ins,1,0,1
+Monroe,"Frenchtown Township, Precinct 3",Governor,,,Write-ins,2,1,1
+Monroe,"Frenchtown Township, Precinct 4",Governor,,,Write-ins,1,0,1
+Monroe,"Frenchtown Township, Precinct 5",Governor,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 6",Governor,,,Write-ins,5,1,4
+Monroe,"Frenchtown Township, Precinct 7",Governor,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 8",Governor,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 9",Governor,,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 2",Governor,,,Write-ins,1,0,1
+Monroe,"La Salle Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 2",Governor,,,Write-ins,2,1,1
+Monroe,"London Township, Precinct 1",Governor,,,Write-ins,4,4,0
+Monroe,"Milan Township, Precinct 1",Governor,,,Write-ins,4,4,0
+Monroe,"Monroe Township, Precinct 1",Governor,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 2",Governor,,,Write-ins,3,1,2
+Monroe,"Monroe Township, Precinct 3",Governor,,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 4",Governor,,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 5",Governor,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 6",Governor,,,Write-ins,0,0,0
+Monroe,"Raisinville Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Raisinville Township, Precinct 2",Governor,,,Write-ins,1,1,0
+Monroe,"Summerfield Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Monroe,"Whiteford Township, Precinct 1",Governor,,,Write-ins,1,1,0
+Monroe,"Whiteford Township, Precinct 2",Governor,,,Write-ins,0,0,0
+Monroe,"Ash Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,594,299,295
+Monroe,"Ash Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,660,276,384
+Monroe,"Ash Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,464,187,277
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,207,117,90
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,479,235,244
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,412,236,176
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,548,266,282
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,DEM,Jocelyn Benson,505,266,239
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,DEM,Jocelyn Benson,640,327,313
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,DEM,Jocelyn Benson,531,276,255
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,DEM,Jocelyn Benson,283,253,30
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,DEM,Jocelyn Benson,342,148,194
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,DEM,Jocelyn Benson,267,135,132
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,DEM,Jocelyn Benson,486,267,219
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,DEM,Jocelyn Benson,456,213,243
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,DEM,Jocelyn Benson,443,214,229
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,DEM,Jocelyn Benson,396,199,197
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,455,246,209
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,611,296,315
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,377,185,192
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,549,289,260
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,294,294,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,576,576,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,642,312,330
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,501,278,223
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,DEM,Jocelyn Benson,312,192,120
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,DEM,Jocelyn Benson,254,158,96
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,805,397,408
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,DEM,Jocelyn Benson,912,371,541
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,DEM,Jocelyn Benson,667,356,311
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,232,156,76
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,440,250,190
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,689,397,292
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,670,369,301
+Monroe,"Erie Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,434,183,251
+Monroe,"Erie Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,302,147,155
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,356,356,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,478,478,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,270,131,139
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,346,184,162
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,358,141,217
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,519,153,366
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,DEM,Jocelyn Benson,433,255,178
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,DEM,Jocelyn Benson,528,251,277
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,DEM,Jocelyn Benson,685,274,411
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,DEM,Jocelyn Benson,376,176,200
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,DEM,Jocelyn Benson,457,203,254
+Monroe,"Ida Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,400,204,196
+Monroe,"Ida Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,461,234,227
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,422,187,235
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,509,245,264
+Monroe,"London Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,567,567,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,381,381,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,432,180,252
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,292,134,158
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,330,142,188
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,499,244,255
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,DEM,Jocelyn Benson,660,269,391
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,DEM,Jocelyn Benson,435,185,250
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,547,214,333
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,741,341,400
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,537,287,250
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,410,226,184
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,290,156,134
+Monroe,"Ash Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,649,455,194
+Monroe,"Ash Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,805,518,287
+Monroe,"Ash Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,688,455,233
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,376,290,86
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,619,469,150
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,585,480,105
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,REP,Kristina Elaine Karamo,699,510,189
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,REP,Kristina Elaine Karamo,575,416,159
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,REP,Kristina Elaine Karamo,774,601,173
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,REP,Kristina Elaine Karamo,602,451,151
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,REP,Kristina Elaine Karamo,646,442,204
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,REP,Kristina Elaine Karamo,442,314,128
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,REP,Kristina Elaine Karamo,460,354,106
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,REP,Kristina Elaine Karamo,815,621,194
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,REP,Kristina Elaine Karamo,501,348,153
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,REP,Kristina Elaine Karamo,583,440,143
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,REP,Kristina Elaine Karamo,410,315,95
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,592,464,128
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,756,548,208
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,427,310,117
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,REP,Kristina Elaine Karamo,692,540,152
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,303,303,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,363,363,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,475,349,126
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,391,314,77
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,REP,Kristina Elaine Karamo,226,198,28
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,REP,Kristina Elaine Karamo,129,90,39
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,REP,Kristina Elaine Karamo,681,513,168
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,REP,Kristina Elaine Karamo,633,453,180
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,REP,Kristina Elaine Karamo,578,412,166
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,254,209,45
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,436,342,94
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,600,447,153
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,793,635,158
+Monroe,"Erie Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,643,451,192
+Monroe,"Erie Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,437,329,108
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,512,512,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,632,632,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,312,212,100
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,348,268,80
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,458,341,117
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,REP,Kristina Elaine Karamo,515,287,228
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,REP,Kristina Elaine Karamo,405,318,87
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,REP,Kristina Elaine Karamo,535,384,151
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,REP,Kristina Elaine Karamo,724,433,291
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,REP,Kristina Elaine Karamo,450,318,132
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,REP,Kristina Elaine Karamo,417,308,109
+Monroe,"Ida Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,855,624,231
+Monroe,"Ida Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,672,515,157
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,623,454,169
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,798,568,230
+Monroe,"London Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,764,764,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,416,416,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,351,234,117
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,219,183,36
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,359,249,110
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,REP,Kristina Elaine Karamo,513,385,128
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,REP,Kristina Elaine Karamo,809,547,262
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,REP,Kristina Elaine Karamo,527,334,193
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,884,576,308
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,885,634,251
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,980,745,235
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,714,568,146
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,706,571,135
+Monroe,"Ash Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,25,19,6
+Monroe,"Ash Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,15,11,4
+Monroe,"Ash Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,9,7,2
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8,6,2
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,24,19,5
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,12,11,1
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,LIB,Gregory Scott Stempfle,13,9,4
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,LIB,Gregory Scott Stempfle,12,9,3
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,LIB,Gregory Scott Stempfle,20,20,0
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,LIB,Gregory Scott Stempfle,19,16,3
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,LIB,Gregory Scott Stempfle,18,11,7
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,LIB,Gregory Scott Stempfle,8,6,2
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,LIB,Gregory Scott Stempfle,9,6,3
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,LIB,Gregory Scott Stempfle,9,6,3
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,LIB,Gregory Scott Stempfle,6,5,1
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,LIB,Gregory Scott Stempfle,18,18,0
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,LIB,Gregory Scott Stempfle,17,16,1
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,15,11,4
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,26,18,8
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,12,10,2
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,LIB,Gregory Scott Stempfle,21,14,7
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6,6,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,18,18,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,15,9,6
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,19,15,4
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,LIB,Gregory Scott Stempfle,6,5,1
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,LIB,Gregory Scott Stempfle,8,7,1
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,LIB,Gregory Scott Stempfle,19,9,10
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,LIB,Gregory Scott Stempfle,33,25,8
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,LIB,Gregory Scott Stempfle,11,9,2
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6,5,1
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,29,16,13
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,11,11,0
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,25,16,9
+Monroe,"Erie Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,11,8,3
+Monroe,"Erie Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,11,9,2
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,11,11,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,15,15,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,1,0,1
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,8,6,2
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,12,8,4
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,LIB,Gregory Scott Stempfle,12,9,3
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,LIB,Gregory Scott Stempfle,12,9,3
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,LIB,Gregory Scott Stempfle,22,17,5
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,LIB,Gregory Scott Stempfle,12,9,3
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,LIB,Gregory Scott Stempfle,12,11,1
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,LIB,Gregory Scott Stempfle,6,4,2
+Monroe,"Ida Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,19,13,6
+Monroe,"Ida Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,10,8,2
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14,12,2
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,26,19,7
+Monroe,"London Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,15,15,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,11,11,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,15,12,3
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,9,6,3
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,10,9,1
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,LIB,Gregory Scott Stempfle,10,5,5
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,LIB,Gregory Scott Stempfle,14,9,5
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,LIB,Gregory Scott Stempfle,13,12,1
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,19,14,5
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,19,14,5
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9,5,4
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,10,9,1
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,9,7,2
+Monroe,"Ash Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,16,9,7
+Monroe,"Ash Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,4,3,1
+Monroe,"Ash Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,6,4,2
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4,4,0
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,12,7,5
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,UST,Christine C. Schwartz,10,6,4
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,UST,Christine C. Schwartz,5,4,1
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,UST,Christine C. Schwartz,10,5,5
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,UST,Christine C. Schwartz,8,5,3
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,UST,Christine C. Schwartz,5,4,1
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,UST,Christine C. Schwartz,4,3,1
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,UST,Christine C. Schwartz,7,6,1
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,UST,Christine C. Schwartz,7,5,2
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,UST,Christine C. Schwartz,4,3,1
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,UST,Christine C. Schwartz,10,5,5
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,11,6,5
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,11,9,2
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,UST,Christine C. Schwartz,10,6,4
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,11,11,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5,5,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,13,7,6
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,UST,Christine C. Schwartz,3,2,1
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,UST,Christine C. Schwartz,10,6,4
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,UST,Christine C. Schwartz,17,8,9
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,UST,Christine C. Schwartz,10,8,2
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4,3,1
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,11,9,2
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,9,9,0
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,5,4,1
+Monroe,"Erie Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,7,6,1
+Monroe,"Erie Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,8,7,1
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,11,11,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,12,12,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6,5,1
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,9,7,2
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,6,3,3
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,UST,Christine C. Schwartz,5,4,1
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,UST,Christine C. Schwartz,11,9,2
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,UST,Christine C. Schwartz,8,5,3
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,UST,Christine C. Schwartz,16,11,5
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,UST,Christine C. Schwartz,10,8,2
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,UST,Christine C. Schwartz,5,3,2
+Monroe,"Ida Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5,4,1
+Monroe,"Ida Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,13,8,5
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,11,5,6
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,7,4,3
+Monroe,"London Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,16,16,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,7,7,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,9,3,6
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,10,8,2
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,6,2,4
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,UST,Christine C. Schwartz,10,7,3
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,UST,Christine C. Schwartz,10,8,2
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,UST,Christine C. Schwartz,5,3,2
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8,4,4
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,7,5,2
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,16,10,6
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,10,9,1
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6,3,3
+Monroe,"Ash Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,6,1
+Monroe,"Ash Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,1,3
+Monroe,"Ash Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,3,1
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,1,3
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,5,1
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,1,2
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,1
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,4,2
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,1
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,2,2
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,2,2
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,1
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,4,0
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,6,0
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,1
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,5,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,5,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,7,0
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,2,4
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,5,0
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,6,1
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",12,10,2
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,5,2
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,5,0
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,2,4
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Monroe,"Erie Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",9,7,2
+Monroe,"Erie Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,1,0
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,2,2
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,5,2
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",8,6,2
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,4,1
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,5,2
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"Ida Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,2,2
+Monroe,"Ida Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,6,0
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,5,1
+Monroe,"London Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,5,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,0,1
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,1
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,4,3
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,3,3
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,4,1
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,4,1
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,1,0
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,1
+Monroe,"Ash Township, Precinct 1",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Ash Township, Precinct 2",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Ash Township, Precinct 3",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 2",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 3",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 4",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 5",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 6",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 7",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 8",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 9",Secretary of State,,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 10",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 11",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 12",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 13",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 14",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 1",Secretary of State,,,Write-ins,2,1,1
+Monroe,"Berlin Township, Precinct 2",Secretary of State,,,Write-ins,3,3,0
+Monroe,"Berlin Township, Precinct 3",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 4",Secretary of State,,,Write-ins,2,2,0
+Monroe,"City of Luna Pier, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"City of Milan, Precinct 1",Secretary of State,,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 1",Secretary of State,,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 2",Secretary of State,,,Write-ins,4,4,0
+Monroe,"City of Monroe, Precinct 3N",Secretary of State,,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 3S",Secretary of State,,,Write-ins,1,1,0
+Monroe,"City of Monroe, Precinct 4",Secretary of State,,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 5",Secretary of State,,,Write-ins,5,5,0
+Monroe,"City of Monroe, Precinct 6",Secretary of State,,,Write-ins,2,2,0
+Monroe,"City of Petersburg, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Dundee Township, Precinct 1",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Dundee Township, Precinct 2",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Dundee Township, Precinct 3",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Erie Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Erie Township, Precinct 2",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Exeter Township, Precinct 2",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 2",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 3",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 4",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 5",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 6",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 7",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 8",Secretary of State,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 9",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 2",Secretary of State,,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 2",Secretary of State,,,Write-ins,3,3,0
+Monroe,"London Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Milan Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Monroe Township, Precinct 1",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 2",Secretary of State,,,Write-ins,5,4,1
+Monroe,"Monroe Township, Precinct 3",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Monroe Township, Precinct 4",Secretary of State,,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 5",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 6",Secretary of State,,,Write-ins,1,1,0
+Monroe,"Raisinville Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Raisinville Township, Precinct 2",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Summerfield Township, Precinct 1",Secretary of State,,,Write-ins,2,1,1
+Monroe,"Whiteford Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Whiteford Township, Precinct 2",Secretary of State,,,Write-ins,0,0,0
+Monroe,"Ash Township, Precinct 1",Attorney General,,DEM,Dana Nessel,498,231,267
+Monroe,"Ash Township, Precinct 2",Attorney General,,DEM,Dana Nessel,577,233,344
+Monroe,"Ash Township, Precinct 3",Attorney General,,DEM,Dana Nessel,408,159,249
+Monroe,"Bedford Township, Precinct 1",Attorney General,,DEM,Dana Nessel,183,102,81
+Monroe,"Bedford Township, Precinct 2",Attorney General,,DEM,Dana Nessel,445,220,225
+Monroe,"Bedford Township, Precinct 3",Attorney General,,DEM,Dana Nessel,386,216,170
+Monroe,"Bedford Township, Precinct 4",Attorney General,,DEM,Dana Nessel,514,246,268
+Monroe,"Bedford Township, Precinct 5",Attorney General,,DEM,Dana Nessel,476,247,229
+Monroe,"Bedford Township, Precinct 6",Attorney General,,DEM,Dana Nessel,593,301,292
+Monroe,"Bedford Township, Precinct 7",Attorney General,,DEM,Dana Nessel,485,240,245
+Monroe,"Bedford Township, Precinct 8",Attorney General,,DEM,Dana Nessel,522,237,285
+Monroe,"Bedford Township, Precinct 9",Attorney General,,DEM,Dana Nessel,310,128,182
+Monroe,"Bedford Township, Precinct 10",Attorney General,,DEM,Dana Nessel,244,118,126
+Monroe,"Bedford Township, Precinct 11",Attorney General,,DEM,Dana Nessel,450,240,210
+Monroe,"Bedford Township, Precinct 12",Attorney General,,DEM,Dana Nessel,424,192,232
+Monroe,"Bedford Township, Precinct 13",Attorney General,,DEM,Dana Nessel,401,189,212
+Monroe,"Bedford Township, Precinct 14",Attorney General,,DEM,Dana Nessel,380,192,188
+Monroe,"Berlin Township, Precinct 1",Attorney General,,DEM,Dana Nessel,397,214,183
+Monroe,"Berlin Township, Precinct 2",Attorney General,,DEM,Dana Nessel,554,260,294
+Monroe,"Berlin Township, Precinct 3",Attorney General,,DEM,Dana Nessel,331,157,174
+Monroe,"Berlin Township, Precinct 4",Attorney General,,DEM,Dana Nessel,477,240,237
+Monroe,"City of Luna Pier, Precinct 1",Attorney General,,DEM,Dana Nessel,276,276,0
+Monroe,"City of Milan, Precinct 1",Attorney General,,DEM,Dana Nessel,556,556,0
+Monroe,"City of Monroe, Precinct 1",Attorney General,,DEM,Dana Nessel,612,299,313
+Monroe,"City of Monroe, Precinct 2",Attorney General,,DEM,Dana Nessel,471,262,209
+Monroe,"City of Monroe, Precinct 3N",Attorney General,,DEM,Dana Nessel,291,178,113
+Monroe,"City of Monroe, Precinct 3S",Attorney General,,DEM,Dana Nessel,244,152,92
+Monroe,"City of Monroe, Precinct 4",Attorney General,,DEM,Dana Nessel,738,355,383
+Monroe,"City of Monroe, Precinct 5",Attorney General,,DEM,Dana Nessel,845,346,499
+Monroe,"City of Monroe, Precinct 6",Attorney General,,DEM,Dana Nessel,618,321,297
+Monroe,"City of Petersburg, Precinct 1",Attorney General,,DEM,Dana Nessel,214,143,71
+Monroe,"Dundee Township, Precinct 1",Attorney General,,DEM,Dana Nessel,402,227,175
+Monroe,"Dundee Township, Precinct 2",Attorney General,,DEM,Dana Nessel,544,272,272
+Monroe,"Dundee Township, Precinct 3",Attorney General,,DEM,Dana Nessel,606,323,283
+Monroe,"Erie Township, Precinct 1",Attorney General,,DEM,Dana Nessel,381,163,218
+Monroe,"Erie Township, Precinct 2",Attorney General,,DEM,Dana Nessel,271,127,144
+Monroe,"Exeter Township, Precinct 1",Attorney General,,DEM,Dana Nessel,305,305,0
+Monroe,"Exeter Township, Precinct 2",Attorney General,,DEM,Dana Nessel,433,433,0
+Monroe,"Frenchtown Township, Precinct 1",Attorney General,,DEM,Dana Nessel,232,112,120
+Monroe,"Frenchtown Township, Precinct 2",Attorney General,,DEM,Dana Nessel,309,159,150
+Monroe,"Frenchtown Township, Precinct 3",Attorney General,,DEM,Dana Nessel,327,126,201
+Monroe,"Frenchtown Township, Precinct 4",Attorney General,,DEM,Dana Nessel,487,141,346
+Monroe,"Frenchtown Township, Precinct 5",Attorney General,,DEM,Dana Nessel,401,236,165
+Monroe,"Frenchtown Township, Precinct 6",Attorney General,,DEM,Dana Nessel,469,217,252
+Monroe,"Frenchtown Township, Precinct 7",Attorney General,,DEM,Dana Nessel,623,238,385
+Monroe,"Frenchtown Township, Precinct 8",Attorney General,,DEM,Dana Nessel,335,152,183
+Monroe,"Frenchtown Township, Precinct 9",Attorney General,,DEM,Dana Nessel,413,175,238
+Monroe,"Ida Township, Precinct 1",Attorney General,,DEM,Dana Nessel,358,178,180
+Monroe,"Ida Township, Precinct 2",Attorney General,,DEM,Dana Nessel,389,191,198
+Monroe,"La Salle Township, Precinct 1",Attorney General,,DEM,Dana Nessel,369,159,210
+Monroe,"La Salle Township, Precinct 2",Attorney General,,DEM,Dana Nessel,448,206,242
+Monroe,"London Township, Precinct 1",Attorney General,,DEM,Dana Nessel,519,519,0
+Monroe,"Milan Township, Precinct 1",Attorney General,,DEM,Dana Nessel,330,330,0
+Monroe,"Monroe Township, Precinct 1",Attorney General,,DEM,Dana Nessel,385,159,226
+Monroe,"Monroe Township, Precinct 2",Attorney General,,DEM,Dana Nessel,271,118,153
+Monroe,"Monroe Township, Precinct 3",Attorney General,,DEM,Dana Nessel,284,121,163
+Monroe,"Monroe Township, Precinct 4",Attorney General,,DEM,Dana Nessel,450,219,231
+Monroe,"Monroe Township, Precinct 5",Attorney General,,DEM,Dana Nessel,586,239,347
+Monroe,"Monroe Township, Precinct 6",Attorney General,,DEM,Dana Nessel,390,158,232
+Monroe,"Raisinville Township, Precinct 1",Attorney General,,DEM,Dana Nessel,483,181,302
+Monroe,"Raisinville Township, Precinct 2",Attorney General,,DEM,Dana Nessel,649,291,358
+Monroe,"Summerfield Township, Precinct 1",Attorney General,,DEM,Dana Nessel,469,245,224
+Monroe,"Whiteford Township, Precinct 1",Attorney General,,DEM,Dana Nessel,368,196,172
+Monroe,"Whiteford Township, Precinct 2",Attorney General,,DEM,Dana Nessel,265,143,122
+Monroe,"Ash Township, Precinct 1",Attorney General,,REP,Matthew DePerno,710,490,220
+Monroe,"Ash Township, Precinct 2",Attorney General,,REP,Matthew DePerno,877,548,329
+Monroe,"Ash Township, Precinct 3",Attorney General,,REP,Matthew DePerno,736,478,258
+Monroe,"Bedford Township, Precinct 1",Attorney General,,REP,Matthew DePerno,396,308,88
+Monroe,"Bedford Township, Precinct 2",Attorney General,,REP,Matthew DePerno,639,475,164
+Monroe,"Bedford Township, Precinct 3",Attorney General,,REP,Matthew DePerno,596,485,111
+Monroe,"Bedford Township, Precinct 4",Attorney General,,REP,Matthew DePerno,707,515,192
+Monroe,"Bedford Township, Precinct 5",Attorney General,,REP,Matthew DePerno,582,423,159
+Monroe,"Bedford Township, Precinct 6",Attorney General,,REP,Matthew DePerno,800,612,188
+Monroe,"Bedford Township, Precinct 7",Attorney General,,REP,Matthew DePerno,631,474,157
+Monroe,"Bedford Township, Precinct 8",Attorney General,,REP,Matthew DePerno,663,452,211
+Monroe,"Bedford Township, Precinct 9",Attorney General,,REP,Matthew DePerno,461,328,133
+Monroe,"Bedford Township, Precinct 10",Attorney General,,REP,Matthew DePerno,473,365,108
+Monroe,"Bedford Township, Precinct 11",Attorney General,,REP,Matthew DePerno,839,639,200
+Monroe,"Bedford Township, Precinct 12",Attorney General,,REP,Matthew DePerno,514,357,157
+Monroe,"Bedford Township, Precinct 13",Attorney General,,REP,Matthew DePerno,606,458,148
+Monroe,"Bedford Township, Precinct 14",Attorney General,,REP,Matthew DePerno,428,325,103
+Monroe,"Berlin Township, Precinct 1",Attorney General,,REP,Matthew DePerno,634,486,148
+Monroe,"Berlin Township, Precinct 2",Attorney General,,REP,Matthew DePerno,803,575,228
+Monroe,"Berlin Township, Precinct 3",Attorney General,,REP,Matthew DePerno,455,328,127
+Monroe,"Berlin Township, Precinct 4",Attorney General,,REP,Matthew DePerno,757,574,183
+Monroe,"City of Luna Pier, Precinct 1",Attorney General,,REP,Matthew DePerno,308,308,0
+Monroe,"City of Milan, Precinct 1",Attorney General,,REP,Matthew DePerno,371,371,0
+Monroe,"City of Monroe, Precinct 1",Attorney General,,REP,Matthew DePerno,500,355,145
+Monroe,"City of Monroe, Precinct 2",Attorney General,,REP,Matthew DePerno,407,319,88
+Monroe,"City of Monroe, Precinct 3N",Attorney General,,REP,Matthew DePerno,241,206,35
+Monroe,"City of Monroe, Precinct 3S",Attorney General,,REP,Matthew DePerno,134,94,40
+Monroe,"City of Monroe, Precinct 4",Attorney General,,REP,Matthew DePerno,727,531,196
+Monroe,"City of Monroe, Precinct 5",Attorney General,,REP,Matthew DePerno,698,479,219
+Monroe,"City of Monroe, Precinct 6",Attorney General,,REP,Matthew DePerno,614,436,178
+Monroe,"City of Petersburg, Precinct 1",Attorney General,,REP,Matthew DePerno,263,217,46
+Monroe,"Dundee Township, Precinct 1",Attorney General,,REP,Matthew DePerno,469,361,108
+Monroe,"Dundee Township, Precinct 2",Attorney General,,REP,Matthew DePerno,635,473,162
+Monroe,"Dundee Township, Precinct 3",Attorney General,,REP,Matthew DePerno,832,659,173
+Monroe,"Erie Township, Precinct 1",Attorney General,,REP,Matthew DePerno,686,469,217
+Monroe,"Erie Township, Precinct 2",Attorney General,,REP,Matthew DePerno,456,340,116
+Monroe,"Exeter Township, Precinct 1",Attorney General,,REP,Matthew DePerno,559,559,0
+Monroe,"Exeter Township, Precinct 2",Attorney General,,REP,Matthew DePerno,664,664,0
+Monroe,"Frenchtown Township, Precinct 1",Attorney General,,REP,Matthew DePerno,339,224,115
+Monroe,"Frenchtown Township, Precinct 2",Attorney General,,REP,Matthew DePerno,374,285,89
+Monroe,"Frenchtown Township, Precinct 3",Attorney General,,REP,Matthew DePerno,486,350,136
+Monroe,"Frenchtown Township, Precinct 4",Attorney General,,REP,Matthew DePerno,538,300,238
+Monroe,"Frenchtown Township, Precinct 5",Attorney General,,REP,Matthew DePerno,430,333,97
+Monroe,"Frenchtown Township, Precinct 6",Attorney General,,REP,Matthew DePerno,582,412,170
+Monroe,"Frenchtown Township, Precinct 7",Attorney General,,REP,Matthew DePerno,779,461,318
+Monroe,"Frenchtown Township, Precinct 8",Attorney General,,REP,Matthew DePerno,486,342,144
+Monroe,"Frenchtown Township, Precinct 9",Attorney General,,REP,Matthew DePerno,449,326,123
+Monroe,"Ida Township, Precinct 1",Attorney General,,REP,Matthew DePerno,875,638,237
+Monroe,"Ida Township, Precinct 2",Attorney General,,REP,Matthew DePerno,726,552,174
+Monroe,"La Salle Township, Precinct 1",Attorney General,,REP,Matthew DePerno,661,469,192
+Monroe,"La Salle Township, Precinct 2",Attorney General,,REP,Matthew DePerno,854,604,250
+Monroe,"London Township, Precinct 1",Attorney General,,REP,Matthew DePerno,804,804,0
+Monroe,"Milan Township, Precinct 1",Attorney General,,REP,Matthew DePerno,451,451,0
+Monroe,"Monroe Township, Precinct 1",Attorney General,,REP,Matthew DePerno,399,256,143
+Monroe,"Monroe Township, Precinct 2",Attorney General,,REP,Matthew DePerno,239,200,39
+Monroe,"Monroe Township, Precinct 3",Attorney General,,REP,Matthew DePerno,398,263,135
+Monroe,"Monroe Township, Precinct 4",Attorney General,,REP,Matthew DePerno,557,409,148
+Monroe,"Monroe Township, Precinct 5",Attorney General,,REP,Matthew DePerno,865,565,300
+Monroe,"Monroe Township, Precinct 6",Attorney General,,REP,Matthew DePerno,576,362,214
+Monroe,"Raisinville Township, Precinct 1",Attorney General,,REP,Matthew DePerno,931,599,332
+Monroe,"Raisinville Township, Precinct 2",Attorney General,,REP,Matthew DePerno,948,668,280
+Monroe,"Summerfield Township, Precinct 1",Attorney General,,REP,Matthew DePerno,1028,773,255
+Monroe,"Whiteford Township, Precinct 1",Attorney General,,REP,Matthew DePerno,743,590,153
+Monroe,"Whiteford Township, Precinct 2",Attorney General,,REP,Matthew DePerno,715,567,148
+Monroe,"Ash Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21,17,4
+Monroe,"Ash Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,9,3
+Monroe,"Ash Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,7,3
+Monroe,"Bedford Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",9,3,6
+Monroe,"Bedford Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",26,18,8
+Monroe,"Bedford Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,19,1
+Monroe,"Bedford Township, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,11,7
+Monroe,"Bedford Township, Precinct 5",Attorney General,,LIB,"Joseph W. McHugh, Jr.",26,22,4
+Monroe,"Bedford Township, Precinct 6",Attorney General,,LIB,"Joseph W. McHugh, Jr.",30,25,5
+Monroe,"Bedford Township, Precinct 7",Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,23,1
+Monroe,"Bedford Township, Precinct 8",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21,14,7
+Monroe,"Bedford Township, Precinct 9",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,9,2
+Monroe,"Bedford Township, Precinct 10",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,9,6
+Monroe,"Bedford Township, Precinct 11",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,8,7
+Monroe,"Bedford Township, Precinct 12",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,10,5
+Monroe,"Bedford Township, Precinct 13",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,16,2
+Monroe,"Bedford Township, Precinct 14",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21,16,5
+Monroe,"Berlin Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",22,17,5
+Monroe,"Berlin Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,18,6
+Monroe,"Berlin Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,12,3
+Monroe,"Berlin Township, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,10,8
+Monroe,"City of Luna Pier, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,12,0
+Monroe,"City of Milan, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",23,23,0
+Monroe,"City of Monroe, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,14,4
+Monroe,"City of Monroe, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25,21,4
+Monroe,"City of Monroe, Precinct 3N",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,11,2
+Monroe,"City of Monroe, Precinct 3S",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,10,1
+Monroe,"City of Monroe, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25,19,6
+Monroe,"City of Monroe, Precinct 5",Attorney General,,LIB,"Joseph W. McHugh, Jr.",23,16,7
+Monroe,"City of Monroe, Precinct 6",Attorney General,,LIB,"Joseph W. McHugh, Jr.",19,13,6
+Monroe,"City of Petersburg, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,9,1
+Monroe,"Dundee Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,10,8
+Monroe,"Dundee Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,11,0
+Monroe,"Dundee Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,18,6
+Monroe,"Erie Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16,12,4
+Monroe,"Erie Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,19,1
+Monroe,"Exeter Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,11,0
+Monroe,"Exeter Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,17,0
+Monroe,"Frenchtown Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,8,3
+Monroe,"Frenchtown Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,8,2
+Monroe,"Frenchtown Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,6,5
+Monroe,"Frenchtown Township, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,8,10
+Monroe,"Frenchtown Township, Precinct 5",Attorney General,,LIB,"Joseph W. McHugh, Jr.",22,18,4
+Monroe,"Frenchtown Township, Precinct 6",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25,18,7
+Monroe,"Frenchtown Township, Precinct 7",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,14,3
+Monroe,"Frenchtown Township, Precinct 8",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,10,3
+Monroe,"Frenchtown Township, Precinct 9",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8,6,2
+Monroe,"Ida Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",19,12,7
+Monroe,"Ida Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,13,2
+Monroe,"La Salle Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,12,1
+Monroe,"La Salle Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",22,18,4
+Monroe,"London Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",18,18,0
+Monroe,"Milan Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,14,0
+Monroe,"Monroe Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,9,1
+Monroe,"Monroe Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,7,5
+Monroe,"Monroe Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,8,2
+Monroe,"Monroe Township, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,6,5
+Monroe,"Monroe Township, Precinct 5",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,15,5
+Monroe,"Monroe Township, Precinct 6",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,11,0
+Monroe,"Raisinville Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,14,6
+Monroe,"Raisinville Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",31,25,6
+Monroe,"Summerfield Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",22,15,7
+Monroe,"Whiteford Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,10,2
+Monroe,"Whiteford Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,11,3
+Monroe,"Ash Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,15,10,5
+Monroe,"Ash Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,13,10,3
+Monroe,"Ash Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,5,3,2
+Monroe,"Bedford Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,4,2
+Monroe,"Bedford Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,6,6,0
+Monroe,"Bedford Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,7,4,3
+Monroe,"Bedford Township, Precinct 4",Attorney General,,UST,Gerald T. Van Sickle,13,9,4
+Monroe,"Bedford Township, Precinct 5",Attorney General,,UST,Gerald T. Van Sickle,6,4,2
+Monroe,"Bedford Township, Precinct 6",Attorney General,,UST,Gerald T. Van Sickle,9,6,3
+Monroe,"Bedford Township, Precinct 7",Attorney General,,UST,Gerald T. Van Sickle,4,2,2
+Monroe,"Bedford Township, Precinct 8",Attorney General,,UST,Gerald T. Van Sickle,8,5,3
+Monroe,"Bedford Township, Precinct 9",Attorney General,,UST,Gerald T. Van Sickle,7,3,4
+Monroe,"Bedford Township, Precinct 10",Attorney General,,UST,Gerald T. Van Sickle,5,3,2
+Monroe,"Bedford Township, Precinct 11",Attorney General,,UST,Gerald T. Van Sickle,3,2,1
+Monroe,"Bedford Township, Precinct 12",Attorney General,,UST,Gerald T. Van Sickle,5,3,2
+Monroe,"Bedford Township, Precinct 13",Attorney General,,UST,Gerald T. Van Sickle,5,4,1
+Monroe,"Bedford Township, Precinct 14",Attorney General,,UST,Gerald T. Van Sickle,5,2,3
+Monroe,"Berlin Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,9,7,2
+Monroe,"Berlin Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,10,8,2
+Monroe,"Berlin Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,9,5,4
+Monroe,"Berlin Township, Precinct 4",Attorney General,,UST,Gerald T. Van Sickle,13,12,1
+Monroe,"City of Luna Pier, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11,11,0
+Monroe,"City of Milan, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7,7,0
+Monroe,"City of Monroe, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11,8,3
+Monroe,"City of Monroe, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,9,6,3
+Monroe,"City of Monroe, Precinct 3N",Attorney General,,UST,Gerald T. Van Sickle,5,5,0
+Monroe,"City of Monroe, Precinct 3S",Attorney General,,UST,Gerald T. Van Sickle,7,4,3
+Monroe,"City of Monroe, Precinct 4",Attorney General,,UST,Gerald T. Van Sickle,16,12,4
+Monroe,"City of Monroe, Precinct 5",Attorney General,,UST,Gerald T. Van Sickle,16,8,8
+Monroe,"City of Monroe, Precinct 6",Attorney General,,UST,Gerald T. Van Sickle,10,7,3
+Monroe,"City of Petersburg, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5,4,1
+Monroe,"Dundee Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,16,14,2
+Monroe,"Dundee Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,6,4,2
+Monroe,"Dundee Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,15,12,3
+Monroe,"Erie Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,5,4,1
+Monroe,"Erie Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,5,5,0
+Monroe,"Exeter Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10,10,0
+Monroe,"Exeter Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,9,9,0
+Monroe,"Frenchtown Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4,2,2
+Monroe,"Frenchtown Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,13,8,5
+Monroe,"Frenchtown Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,5,3,2
+Monroe,"Frenchtown Township, Precinct 4",Attorney General,,UST,Gerald T. Van Sickle,6,6,0
+Monroe,"Frenchtown Township, Precinct 5",Attorney General,,UST,Gerald T. Van Sickle,14,10,4
+Monroe,"Frenchtown Township, Precinct 6",Attorney General,,UST,Gerald T. Van Sickle,10,3,7
+Monroe,"Frenchtown Township, Precinct 7",Attorney General,,UST,Gerald T. Van Sickle,16,10,6
+Monroe,"Frenchtown Township, Precinct 8",Attorney General,,UST,Gerald T. Van Sickle,9,7,2
+Monroe,"Frenchtown Township, Precinct 9",Attorney General,,UST,Gerald T. Van Sickle,6,4,2
+Monroe,"Ida Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,3,3
+Monroe,"Ida Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,13,7,6
+Monroe,"La Salle Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,12,9,3
+Monroe,"La Salle Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,13,9,4
+Monroe,"London Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,17,17,0
+Monroe,"Milan Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11,11,0
+Monroe,"Monroe Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10,5,5
+Monroe,"Monroe Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,9,7,2
+Monroe,"Monroe Township, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,4,3,1
+Monroe,"Monroe Township, Precinct 4",Attorney General,,UST,Gerald T. Van Sickle,7,5,2
+Monroe,"Monroe Township, Precinct 5",Attorney General,,UST,Gerald T. Van Sickle,8,6,2
+Monroe,"Monroe Township, Precinct 6",Attorney General,,UST,Gerald T. Van Sickle,3,2,1
+Monroe,"Raisinville Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,12,7,5
+Monroe,"Raisinville Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,11,6,5
+Monroe,"Summerfield Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,12,8,4
+Monroe,"Whiteford Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10,7,3
+Monroe,"Whiteford Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,3,3,0
+Monroe,"Ash Township, Precinct 1",Attorney General,,,Write-ins,1,1,0
+Monroe,"Ash Township, Precinct 2",Attorney General,,,Write-ins,3,2,1
+Monroe,"Ash Township, Precinct 3",Attorney General,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 2",Attorney General,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 3",Attorney General,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 4",Attorney General,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 5",Attorney General,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 6",Attorney General,,,Write-ins,3,2,1
+Monroe,"Bedford Township, Precinct 7",Attorney General,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 8",Attorney General,,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 9",Attorney General,,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 10",Attorney General,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 11",Attorney General,,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 12",Attorney General,,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 13",Attorney General,,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 14",Attorney General,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 1",Attorney General,,,Write-ins,1,0,1
+Monroe,"Berlin Township, Precinct 2",Attorney General,,,Write-ins,3,3,0
+Monroe,"Berlin Township, Precinct 3",Attorney General,,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 4",Attorney General,,,Write-ins,3,3,0
+Monroe,"City of Luna Pier, Precinct 1",Attorney General,,,Write-ins,1,1,0
+Monroe,"City of Milan, Precinct 1",Attorney General,,,Write-ins,3,3,0
+Monroe,"City of Monroe, Precinct 1",Attorney General,,,Write-ins,4,4,0
+Monroe,"City of Monroe, Precinct 2",Attorney General,,,Write-ins,6,5,1
+Monroe,"City of Monroe, Precinct 3N",Attorney General,,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 3S",Attorney General,,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 4",Attorney General,,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 5",Attorney General,,,Write-ins,9,9,0
+Monroe,"City of Monroe, Precinct 6",Attorney General,,,Write-ins,4,4,0
+Monroe,"City of Petersburg, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Monroe,"Dundee Township, Precinct 1",Attorney General,,,Write-ins,3,3,0
+Monroe,"Dundee Township, Precinct 2",Attorney General,,,Write-ins,1,1,0
+Monroe,"Dundee Township, Precinct 3",Attorney General,,,Write-ins,2,2,0
+Monroe,"Erie Township, Precinct 1",Attorney General,,,Write-ins,2,2,0
+Monroe,"Erie Township, Precinct 2",Attorney General,,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 1",Attorney General,,,Write-ins,1,1,0
+Monroe,"Exeter Township, Precinct 2",Attorney General,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 1",Attorney General,,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 2",Attorney General,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 3",Attorney General,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 4",Attorney General,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 5",Attorney General,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 6",Attorney General,,,Write-ins,3,2,1
+Monroe,"Frenchtown Township, Precinct 7",Attorney General,,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 8",Attorney General,,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 9",Attorney General,,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 1",Attorney General,,,Write-ins,2,2,0
+Monroe,"Ida Township, Precinct 2",Attorney General,,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 2",Attorney General,,,Write-ins,4,4,0
+Monroe,"London Township, Precinct 1",Attorney General,,,Write-ins,3,3,0
+Monroe,"Milan Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Monroe,"Monroe Township, Precinct 1",Attorney General,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 2",Attorney General,,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 3",Attorney General,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 4",Attorney General,,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 5",Attorney General,,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 6",Attorney General,,,Write-ins,1,1,0
+Monroe,"Raisinville Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Monroe,"Raisinville Township, Precinct 2",Attorney General,,,Write-ins,1,1,0
+Monroe,"Summerfield Township, Precinct 1",Attorney General,,,Write-ins,2,1,1
+Monroe,"Whiteford Township, Precinct 1",Attorney General,,,Write-ins,2,2,0
+Monroe,"Whiteford Township, Precinct 2",Attorney General,,,Write-ins,0,0,0
+Monroe,"Ash Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,414,182,232
+Monroe,"Ash Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,481,190,291
+Monroe,"Ash Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,329,120,209
+Monroe,"Bedford Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,176,96,80
+Monroe,"Bedford Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,404,202,202
+Monroe,"Bedford Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,351,200,151
+Monroe,"Bedford Township, Precinct 4",U.S. House,5,DEM,Bart Goldberg,471,224,247
+Monroe,"Bedford Township, Precinct 5",U.S. House,5,DEM,Bart Goldberg,438,221,217
+Monroe,"Bedford Township, Precinct 6",U.S. House,5,DEM,Bart Goldberg,550,272,278
+Monroe,"Bedford Township, Precinct 7",U.S. House,5,DEM,Bart Goldberg,444,214,230
+Monroe,"Bedford Township, Precinct 8",U.S. House,5,DEM,Bart Goldberg,479,225,254
+Monroe,"Bedford Township, Precinct 9",U.S. House,5,DEM,Bart Goldberg,293,125,168
+Monroe,"Bedford Township, Precinct 10",U.S. House,5,DEM,Bart Goldberg,218,103,115
+Monroe,"Bedford Township, Precinct 11",U.S. House,5,DEM,Bart Goldberg,409,223,186
+Monroe,"Bedford Township, Precinct 12",U.S. House,5,DEM,Bart Goldberg,384,181,203
+Monroe,"Bedford Township, Precinct 13",U.S. House,5,DEM,Bart Goldberg,373,171,202
+Monroe,"Bedford Township, Precinct 14",U.S. House,5,DEM,Bart Goldberg,347,175,172
+Monroe,"Berlin Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,336,179,157
+Monroe,"Berlin Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,460,215,245
+Monroe,"Berlin Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,266,119,147
+Monroe,"Berlin Township, Precinct 4",U.S. House,5,DEM,Bart Goldberg,377,183,194
+Monroe,"City of Luna Pier, Precinct 1",U.S. House,5,DEM,Bart Goldberg,239,239,0
+Monroe,"City of Monroe, Precinct 1",U.S. House,5,DEM,Bart Goldberg,552,272,280
+Monroe,"City of Monroe, Precinct 2",U.S. House,5,DEM,Bart Goldberg,428,236,192
+Monroe,"City of Monroe, Precinct 3N",U.S. House,5,DEM,Bart Goldberg,264,160,104
+Monroe,"City of Monroe, Precinct 3S",U.S. House,5,DEM,Bart Goldberg,236,147,89
+Monroe,"City of Monroe, Precinct 4",U.S. House,5,DEM,Bart Goldberg,658,310,348
+Monroe,"City of Monroe, Precinct 5",U.S. House,5,DEM,Bart Goldberg,761,303,458
+Monroe,"City of Monroe, Precinct 6",U.S. House,5,DEM,Bart Goldberg,539,281,258
+Monroe,"City of Petersburg, Precinct 1",U.S. House,5,DEM,Bart Goldberg,199,125,74
+Monroe,"Dundee Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,349,192,157
+Monroe,"Dundee Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,461,228,233
+Monroe,"Dundee Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,524,273,251
+Monroe,"Erie Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,343,142,201
+Monroe,"Erie Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,241,108,133
+Monroe,"Exeter Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,255,255,0
+Monroe,"Exeter Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,350,350,0
+Monroe,"Frenchtown Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,201,98,103
+Monroe,"Frenchtown Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,257,129,128
+Monroe,"Frenchtown Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,285,111,174
+Monroe,"Frenchtown Township, Precinct 4",U.S. House,5,DEM,Bart Goldberg,433,120,313
+Monroe,"Frenchtown Township, Precinct 5",U.S. House,5,DEM,Bart Goldberg,349,206,143
+Monroe,"Frenchtown Township, Precinct 6",U.S. House,5,DEM,Bart Goldberg,401,178,223
+Monroe,"Frenchtown Township, Precinct 7",U.S. House,5,DEM,Bart Goldberg,545,204,341
+Monroe,"Frenchtown Township, Precinct 8",U.S. House,5,DEM,Bart Goldberg,280,129,151
+Monroe,"Frenchtown Township, Precinct 9",U.S. House,5,DEM,Bart Goldberg,360,147,213
+Monroe,"Ida Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,326,158,168
+Monroe,"Ida Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,331,160,171
+Monroe,"La Salle Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,308,130,178
+Monroe,"La Salle Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,396,171,225
+Monroe,"London Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,435,435,0
+Monroe,"Milan Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,274,274,0
+Monroe,"Monroe Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,348,143,205
+Monroe,"Monroe Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,233,109,124
+Monroe,"Monroe Township, Precinct 3",U.S. House,5,DEM,Bart Goldberg,246,102,144
+Monroe,"Monroe Township, Precinct 4",U.S. House,5,DEM,Bart Goldberg,399,191,208
+Monroe,"Monroe Township, Precinct 5",U.S. House,5,DEM,Bart Goldberg,481,195,286
+Monroe,"Monroe Township, Precinct 6",U.S. House,5,DEM,Bart Goldberg,331,133,198
+Monroe,"Raisinville Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,390,141,249
+Monroe,"Raisinville Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,577,252,325
+Monroe,"Summerfield Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,411,208,203
+Monroe,"Whiteford Township, Precinct 1",U.S. House,5,DEM,Bart Goldberg,340,179,161
+Monroe,"Whiteford Township, Precinct 2",U.S. House,5,DEM,Bart Goldberg,228,118,110
+Monroe,"Ash Township, Precinct 1",U.S. House,5,REP,Tim Walberg,800,544,256
+Monroe,"Ash Township, Precinct 2",U.S. House,5,REP,Tim Walberg,963,597,366
+Monroe,"Ash Township, Precinct 3",U.S. House,5,REP,Tim Walberg,814,520,294
+Monroe,"Bedford Township, Precinct 1",U.S. House,5,REP,Tim Walberg,410,316,94
+Monroe,"Bedford Township, Precinct 2",U.S. House,5,REP,Tim Walberg,703,512,191
+Monroe,"Bedford Township, Precinct 3",U.S. House,5,REP,Tim Walberg,649,517,132
+Monroe,"Bedford Township, Precinct 4",U.S. House,5,REP,Tim Walberg,789,559,230
+Monroe,"Bedford Township, Precinct 5",U.S. House,5,REP,Tim Walberg,644,462,182
+Monroe,"Bedford Township, Precinct 6",U.S. House,5,REP,Tim Walberg,864,654,210
+Monroe,"Bedford Township, Precinct 7",U.S. House,5,REP,Tim Walberg,693,516,177
+Monroe,"Bedford Township, Precinct 8",U.S. House,5,REP,Tim Walberg,717,474,243
+Monroe,"Bedford Township, Precinct 9",U.S. House,5,REP,Tim Walberg,495,345,150
+Monroe,"Bedford Township, Precinct 10",U.S. House,5,REP,Tim Walberg,510,387,123
+Monroe,"Bedford Township, Precinct 11",U.S. House,5,REP,Tim Walberg,888,664,224
+Monroe,"Bedford Township, Precinct 12",U.S. House,5,REP,Tim Walberg,564,375,189
+Monroe,"Bedford Township, Precinct 13",U.S. House,5,REP,Tim Walberg,656,486,170
+Monroe,"Bedford Township, Precinct 14",U.S. House,5,REP,Tim Walberg,467,345,122
+Monroe,"Berlin Township, Precinct 1",U.S. House,5,REP,Tim Walberg,691,513,178
+Monroe,"Berlin Township, Precinct 2",U.S. House,5,REP,Tim Walberg,892,614,278
+Monroe,"Berlin Township, Precinct 3",U.S. House,5,REP,Tim Walberg,530,372,158
+Monroe,"Berlin Township, Precinct 4",U.S. House,5,REP,Tim Walberg,867,639,228
+Monroe,"City of Luna Pier, Precinct 1",U.S. House,5,REP,Tim Walberg,349,349,0
+Monroe,"City of Monroe, Precinct 1",U.S. House,5,REP,Tim Walberg,539,371,168
+Monroe,"City of Monroe, Precinct 2",U.S. House,5,REP,Tim Walberg,453,347,106
+Monroe,"City of Monroe, Precinct 3N",U.S. House,5,REP,Tim Walberg,268,224,44
+Monroe,"City of Monroe, Precinct 3S",U.S. House,5,REP,Tim Walberg,141,97,44
+Monroe,"City of Monroe, Precinct 4",U.S. House,5,REP,Tim Walberg,812,576,236
+Monroe,"City of Monroe, Precinct 5",U.S. House,5,REP,Tim Walberg,787,517,270
+Monroe,"City of Monroe, Precinct 6",U.S. House,5,REP,Tim Walberg,687,481,206
+Monroe,"City of Petersburg, Precinct 1",U.S. House,5,REP,Tim Walberg,283,235,48
+Monroe,"Dundee Township, Precinct 1",U.S. House,5,REP,Tim Walberg,533,401,132
+Monroe,"Dundee Township, Precinct 2",U.S. House,5,REP,Tim Walberg,710,515,195
+Monroe,"Dundee Township, Precinct 3",U.S. House,5,REP,Tim Walberg,929,724,205
+Monroe,"Erie Township, Precinct 1",U.S. House,5,REP,Tim Walberg,736,494,242
+Monroe,"Erie Township, Precinct 2",U.S. House,5,REP,Tim Walberg,502,374,128
+Monroe,"Exeter Township, Precinct 1",U.S. House,5,REP,Tim Walberg,611,611,0
+Monroe,"Exeter Township, Precinct 2",U.S. House,5,REP,Tim Walberg,745,745,0
+Monroe,"Frenchtown Township, Precinct 1",U.S. House,5,REP,Tim Walberg,378,244,134
+Monroe,"Frenchtown Township, Precinct 2",U.S. House,5,REP,Tim Walberg,430,317,113
+Monroe,"Frenchtown Township, Precinct 3",U.S. House,5,REP,Tim Walberg,532,371,161
+Monroe,"Frenchtown Township, Precinct 4",U.S. House,5,REP,Tim Walberg,608,326,282
+Monroe,"Frenchtown Township, Precinct 5",U.S. House,5,REP,Tim Walberg,477,362,115
+Monroe,"Frenchtown Township, Precinct 6",U.S. House,5,REP,Tim Walberg,658,455,203
+Monroe,"Frenchtown Township, Precinct 7",U.S. House,5,REP,Tim Walberg,869,505,364
+Monroe,"Frenchtown Township, Precinct 8",U.S. House,5,REP,Tim Walberg,534,360,174
+Monroe,"Frenchtown Township, Precinct 9",U.S. House,5,REP,Tim Walberg,500,355,145
+Monroe,"Ida Township, Precinct 1",U.S. House,5,REP,Tim Walberg,928,675,253
+Monroe,"Ida Township, Precinct 2",U.S. House,5,REP,Tim Walberg,787,584,203
+Monroe,"La Salle Township, Precinct 1",U.S. House,5,REP,Tim Walberg,742,515,227
+Monroe,"La Salle Township, Precinct 2",U.S. House,5,REP,Tim Walberg,911,643,268
+Monroe,"London Township, Precinct 1",U.S. House,5,REP,Tim Walberg,876,876,0
+Monroe,"Milan Township, Precinct 1",U.S. House,5,REP,Tim Walberg,509,509,0
+Monroe,"Monroe Township, Precinct 1",U.S. House,5,REP,Tim Walberg,435,271,164
+Monroe,"Monroe Township, Precinct 2",U.S. House,5,REP,Tim Walberg,277,214,63
+Monroe,"Monroe Township, Precinct 3",U.S. House,5,REP,Tim Walberg,440,291,149
+Monroe,"Monroe Township, Precinct 4",U.S. House,5,REP,Tim Walberg,612,441,171
+Monroe,"Monroe Township, Precinct 5",U.S. House,5,REP,Tim Walberg,976,616,360
+Monroe,"Monroe Township, Precinct 6",U.S. House,5,REP,Tim Walberg,637,389,248
+Monroe,"Raisinville Township, Precinct 1",U.S. House,5,REP,Tim Walberg,1046,656,390
+Monroe,"Raisinville Township, Precinct 2",U.S. House,5,REP,Tim Walberg,1432,716,716
+Monroe,"Summerfield Township, Precinct 1",U.S. House,5,REP,Tim Walberg,1100,825,275
+Monroe,"Whiteford Township, Precinct 1",U.S. House,5,REP,Tim Walberg,786,613,173
+Monroe,"Whiteford Township, Precinct 2",U.S. House,5,REP,Tim Walberg,769,604,165
+Monroe,"Ash Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,18,12,6
+Monroe,"Ash Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,13,7,6
+Monroe,"Ash Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,15,10,5
+Monroe,"Bedford Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,6,2,4
+Monroe,"Bedford Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,17,10,7
+Monroe,"Bedford Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,18,14,4
+Monroe,"Bedford Township, Precinct 4",U.S. House,5,LIB,Norman Peterson,10,7,3
+Monroe,"Bedford Township, Precinct 5",U.S. House,5,LIB,Norman Peterson,15,13,2
+Monroe,"Bedford Township, Precinct 6",U.S. House,5,LIB,Norman Peterson,26,22,4
+Monroe,"Bedford Township, Precinct 7",U.S. House,5,LIB,Norman Peterson,18,16,2
+Monroe,"Bedford Township, Precinct 8",U.S. House,5,LIB,Norman Peterson,18,12,6
+Monroe,"Bedford Township, Precinct 9",U.S. House,5,LIB,Norman Peterson,7,3,4
+Monroe,"Bedford Township, Precinct 10",U.S. House,5,LIB,Norman Peterson,8,5,3
+Monroe,"Bedford Township, Precinct 11",U.S. House,5,LIB,Norman Peterson,14,7,7
+Monroe,"Bedford Township, Precinct 12",U.S. House,5,LIB,Norman Peterson,10,8,2
+Monroe,"Bedford Township, Precinct 13",U.S. House,5,LIB,Norman Peterson,8,7,1
+Monroe,"Bedford Township, Precinct 14",U.S. House,5,LIB,Norman Peterson,12,10,2
+Monroe,"Berlin Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,18,15,3
+Monroe,"Berlin Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,20,17,3
+Monroe,"Berlin Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,10,9,1
+Monroe,"Berlin Township, Precinct 4",U.S. House,5,LIB,Norman Peterson,16,10,6
+Monroe,"City of Luna Pier, Precinct 1",U.S. House,5,LIB,Norman Peterson,8,8,0
+Monroe,"City of Monroe, Precinct 1",U.S. House,5,LIB,Norman Peterson,19,13,6
+Monroe,"City of Monroe, Precinct 2",U.S. House,5,LIB,Norman Peterson,26,22,4
+Monroe,"City of Monroe, Precinct 3N",U.S. House,5,LIB,Norman Peterson,15,13,2
+Monroe,"City of Monroe, Precinct 3S",U.S. House,5,LIB,Norman Peterson,11,10,1
+Monroe,"City of Monroe, Precinct 4",U.S. House,5,LIB,Norman Peterson,21,14,7
+Monroe,"City of Monroe, Precinct 5",U.S. House,5,LIB,Norman Peterson,34,28,6
+Monroe,"City of Monroe, Precinct 6",U.S. House,5,LIB,Norman Peterson,14,12,2
+Monroe,"City of Petersburg, Precinct 1",U.S. House,5,LIB,Norman Peterson,12,11,1
+Monroe,"Dundee Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,17,11,6
+Monroe,"Dundee Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,19,17,2
+Monroe,"Dundee Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,21,13,8
+Monroe,"Erie Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,10,8,2
+Monroe,"Erie Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,11,9,2
+Monroe,"Exeter Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,10,10,0
+Monroe,"Exeter Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,16,16,0
+Monroe,"Frenchtown Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,2,1,1
+Monroe,"Frenchtown Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,12,10,2
+Monroe,"Frenchtown Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,16,8,8
+Monroe,"Frenchtown Township, Precinct 4",U.S. House,5,LIB,Norman Peterson,13,7,6
+Monroe,"Frenchtown Township, Precinct 5",U.S. House,5,LIB,Norman Peterson,24,16,8
+Monroe,"Frenchtown Township, Precinct 6",U.S. House,5,LIB,Norman Peterson,16,13,3
+Monroe,"Frenchtown Township, Precinct 7",U.S. House,5,LIB,Norman Peterson,11,8,3
+Monroe,"Frenchtown Township, Precinct 8",U.S. House,5,LIB,Norman Peterson,16,15,1
+Monroe,"Frenchtown Township, Precinct 9",U.S. House,5,LIB,Norman Peterson,10,9,1
+Monroe,"Ida Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,18,12,6
+Monroe,"Ida Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,15,13,2
+Monroe,"La Salle Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,10,8,2
+Monroe,"La Salle Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,22,17,5
+Monroe,"London Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,17,17,0
+Monroe,"Milan Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,19,19,0
+Monroe,"Monroe Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,12,9,3
+Monroe,"Monroe Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,7,2,5
+Monroe,"Monroe Township, Precinct 3",U.S. House,5,LIB,Norman Peterson,8,4,4
+Monroe,"Monroe Township, Precinct 4",U.S. House,5,LIB,Norman Peterson,12,4,8
+Monroe,"Monroe Township, Precinct 5",U.S. House,5,LIB,Norman Peterson,12,8,4
+Monroe,"Monroe Township, Precinct 6",U.S. House,5,LIB,Norman Peterson,11,9,2
+Monroe,"Raisinville Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,18,12,6
+Monroe,"Raisinville Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,27,21,6
+Monroe,"Summerfield Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,19,12,7
+Monroe,"Whiteford Township, Precinct 1",U.S. House,5,LIB,Norman Peterson,10,10,0
+Monroe,"Whiteford Township, Precinct 2",U.S. House,5,LIB,Norman Peterson,11,10,1
+Monroe,"Ash Township, Precinct 1",U.S. House,5,UST,Ezra Scott,10,6,4
+Monroe,"Ash Township, Precinct 2",U.S. House,5,UST,Ezra Scott,17,6,11
+Monroe,"Ash Township, Precinct 3",U.S. House,5,UST,Ezra Scott,4,4,0
+Monroe,"Bedford Township, Precinct 1",U.S. House,5,UST,Ezra Scott,4,3,1
+Monroe,"Bedford Township, Precinct 2",U.S. House,5,UST,Ezra Scott,4,4,0
+Monroe,"Bedford Township, Precinct 3",U.S. House,5,UST,Ezra Scott,6,3,3
+Monroe,"Bedford Township, Precinct 4",U.S. House,5,UST,Ezra Scott,6,6,0
+Monroe,"Bedford Township, Precinct 5",U.S. House,5,UST,Ezra Scott,7,3,4
+Monroe,"Bedford Township, Precinct 6",U.S. House,5,UST,Ezra Scott,4,3,1
+Monroe,"Bedford Township, Precinct 7",U.S. House,5,UST,Ezra Scott,6,4,2
+Monroe,"Bedford Township, Precinct 8",U.S. House,5,UST,Ezra Scott,4,2,2
+Monroe,"Bedford Township, Precinct 9",U.S. House,5,UST,Ezra Scott,4,2,2
+Monroe,"Bedford Township, Precinct 10",U.S. House,5,UST,Ezra Scott,5,4,1
+Monroe,"Bedford Township, Precinct 11",U.S. House,5,UST,Ezra Scott,3,1,2
+Monroe,"Bedford Township, Precinct 12",U.S. House,5,UST,Ezra Scott,6,4,2
+Monroe,"Bedford Township, Precinct 13",U.S. House,5,UST,Ezra Scott,5,4,1
+Monroe,"Bedford Township, Precinct 14",U.S. House,5,UST,Ezra Scott,6,4,2
+Monroe,"Berlin Township, Precinct 1",U.S. House,5,UST,Ezra Scott,10,8,2
+Monroe,"Berlin Township, Precinct 2",U.S. House,5,UST,Ezra Scott,15,11,4
+Monroe,"Berlin Township, Precinct 3",U.S. House,5,UST,Ezra Scott,7,5,2
+Monroe,"Berlin Township, Precinct 4",U.S. House,5,UST,Ezra Scott,6,6,0
+Monroe,"City of Luna Pier, Precinct 1",U.S. House,5,UST,Ezra Scott,12,12,0
+Monroe,"City of Monroe, Precinct 1",U.S. House,5,UST,Ezra Scott,17,11,6
+Monroe,"City of Monroe, Precinct 2",U.S. House,5,UST,Ezra Scott,5,4,1
+Monroe,"City of Monroe, Precinct 3N",U.S. House,5,UST,Ezra Scott,4,4,0
+Monroe,"City of Monroe, Precinct 3S",U.S. House,5,UST,Ezra Scott,9,7,2
+Monroe,"City of Monroe, Precinct 4",U.S. House,5,UST,Ezra Scott,19,16,3
+Monroe,"City of Monroe, Precinct 5",U.S. House,5,UST,Ezra Scott,13,10,3
+Monroe,"City of Monroe, Precinct 6",U.S. House,5,UST,Ezra Scott,14,6,8
+Monroe,"City of Petersburg, Precinct 1",U.S. House,5,UST,Ezra Scott,5,5,0
+Monroe,"Dundee Township, Precinct 1",U.S. House,5,UST,Ezra Scott,5,5,0
+Monroe,"Dundee Township, Precinct 2",U.S. House,5,UST,Ezra Scott,6,3,3
+Monroe,"Dundee Township, Precinct 3",U.S. House,5,UST,Ezra Scott,10,9,1
+Monroe,"Erie Township, Precinct 1",U.S. House,5,UST,Ezra Scott,7,7,0
+Monroe,"Erie Township, Precinct 2",U.S. House,5,UST,Ezra Scott,3,3,0
+Monroe,"Exeter Township, Precinct 1",U.S. House,5,UST,Ezra Scott,7,7,0
+Monroe,"Exeter Township, Precinct 2",U.S. House,5,UST,Ezra Scott,9,9,0
+Monroe,"Frenchtown Township, Precinct 1",U.S. House,5,UST,Ezra Scott,7,4,3
+Monroe,"Frenchtown Township, Precinct 2",U.S. House,5,UST,Ezra Scott,6,4,2
+Monroe,"Frenchtown Township, Precinct 3",U.S. House,5,UST,Ezra Scott,6,3,3
+Monroe,"Frenchtown Township, Precinct 4",U.S. House,5,UST,Ezra Scott,5,3,2
+Monroe,"Frenchtown Township, Precinct 5",U.S. House,5,UST,Ezra Scott,15,12,3
+Monroe,"Frenchtown Township, Precinct 6",U.S. House,5,UST,Ezra Scott,11,4,7
+Monroe,"Frenchtown Township, Precinct 7",U.S. House,5,UST,Ezra Scott,12,7,5
+Monroe,"Frenchtown Township, Precinct 8",U.S. House,5,UST,Ezra Scott,8,6,2
+Monroe,"Frenchtown Township, Precinct 9",U.S. House,5,UST,Ezra Scott,8,6,2
+Monroe,"Ida Township, Precinct 1",U.S. House,5,UST,Ezra Scott,2,1,1
+Monroe,"Ida Township, Precinct 2",U.S. House,5,UST,Ezra Scott,12,8,4
+Monroe,"La Salle Township, Precinct 1",U.S. House,5,UST,Ezra Scott,6,4,2
+Monroe,"La Salle Township, Precinct 2",U.S. House,5,UST,Ezra Scott,11,6,5
+Monroe,"London Township, Precinct 1",U.S. House,5,UST,Ezra Scott,20,20,0
+Monroe,"Milan Township, Precinct 1",U.S. House,5,UST,Ezra Scott,6,6,0
+Monroe,"Monroe Township, Precinct 1",U.S. House,5,UST,Ezra Scott,11,8,3
+Monroe,"Monroe Township, Precinct 2",U.S. House,5,UST,Ezra Scott,10,7,3
+Monroe,"Monroe Township, Precinct 3",U.S. House,5,UST,Ezra Scott,7,4,3
+Monroe,"Monroe Township, Precinct 4",U.S. House,5,UST,Ezra Scott,7,5,2
+Monroe,"Monroe Township, Precinct 5",U.S. House,5,UST,Ezra Scott,12,10,2
+Monroe,"Monroe Township, Precinct 6",U.S. House,5,UST,Ezra Scott,4,3,1
+Monroe,"Raisinville Township, Precinct 1",U.S. House,5,UST,Ezra Scott,5,2,3
+Monroe,"Raisinville Township, Precinct 2",U.S. House,5,UST,Ezra Scott,10,6,4
+Monroe,"Summerfield Township, Precinct 1",U.S. House,5,UST,Ezra Scott,13,8,5
+Monroe,"Whiteford Township, Precinct 1",U.S. House,5,UST,Ezra Scott,7,7,0
+Monroe,"Whiteford Township, Precinct 2",U.S. House,5,UST,Ezra Scott,5,4,1
+Monroe,"Ash Township, Precinct 1",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Ash Township, Precinct 2",U.S. House,5,,Write-ins,4,2,2
+Monroe,"Ash Township, Precinct 3",U.S. House,5,,Write-ins,3,2,1
+Monroe,"Bedford Township, Precinct 1",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 2",U.S. House,5,,Write-ins,3,2,1
+Monroe,"Bedford Township, Precinct 3",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 4",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 5",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 6",U.S. House,5,,Write-ins,3,2,1
+Monroe,"Bedford Township, Precinct 7",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 8",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 9",U.S. House,5,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 10",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 11",U.S. House,5,,Write-ins,4,3,1
+Monroe,"Bedford Township, Precinct 12",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 13",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Bedford Township, Precinct 14",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 1",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Berlin Township, Precinct 2",U.S. House,5,,Write-ins,5,4,1
+Monroe,"Berlin Township, Precinct 3",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Berlin Township, Precinct 4",U.S. House,5,,Write-ins,5,4,1
+Monroe,"City of Luna Pier, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 1",U.S. House,5,,Write-ins,3,2,1
+Monroe,"City of Monroe, Precinct 2",U.S. House,5,,Write-ins,6,5,1
+Monroe,"City of Monroe, Precinct 3N",U.S. House,5,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 3S",U.S. House,5,,Write-ins,1,1,0
+Monroe,"City of Monroe, Precinct 4",U.S. House,5,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 5",U.S. House,5,,Write-ins,4,3,1
+Monroe,"City of Monroe, Precinct 6",U.S. House,5,,Write-ins,4,4,0
+Monroe,"City of Petersburg, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Dundee Township, Precinct 1",U.S. House,5,,Write-ins,4,4,0
+Monroe,"Dundee Township, Precinct 2",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Dundee Township, Precinct 3",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Erie Township, Precinct 1",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Erie Township, Precinct 2",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Exeter Township, Precinct 2",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 1",U.S. House,5,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 2",U.S. House,5,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 3",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 4",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 5",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 6",U.S. House,5,,Write-ins,3,2,1
+Monroe,"Frenchtown Township, Precinct 7",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Frenchtown Township, Precinct 8",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 9",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 1",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Ida Township, Precinct 2",U.S. House,5,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 2",U.S. House,5,,Write-ins,2,2,0
+Monroe,"London Township, Precinct 1",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Milan Township, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Monroe Township, Precinct 1",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 2",U.S. House,5,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 3",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Monroe Township, Precinct 4",U.S. House,5,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 5",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 6",U.S. House,5,,Write-ins,1,1,0
+Monroe,"Raisinville Township, Precinct 1",U.S. House,5,,Write-ins,0,0,0
+Monroe,"Raisinville Township, Precinct 2",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Summerfield Township, Precinct 1",U.S. House,5,,Write-ins,2,1,1
+Monroe,"Whiteford Township, Precinct 1",U.S. House,5,,Write-ins,2,2,0
+Monroe,"Whiteford Township, Precinct 2",U.S. House,5,,Write-ins,1,0,1
+Monroe,"City of Milan, Precinct 1",U.S. House,6,DEM,Debbie Dingell,553,553,0
+Monroe,"City of Milan, Precinct 1",U.S. House,6,REP,Whittney Williams,400,400,0
+Monroe,"City of Milan, Precinct 1",U.S. House,6,,Write-ins,2,2,0
+Monroe,"City of Milan, Precinct 1",State Senate,15,DEM,Jeff Irwin,514,514,0
+Monroe,"City of Milan, Precinct 1",State Senate,15,REP,Scott Price,416,416,0
+Monroe,"City of Milan, Precinct 1",State Senate,15,,Write-ins,4,4,0
+Monroe,"Ash Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,404,183,221
+Monroe,"Ash Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,466,180,286
+Monroe,"Ash Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,318,125,193
+Monroe,"Bedford Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,188,102,86
+Monroe,"Bedford Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,409,203,206
+Monroe,"Bedford Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,359,204,155
+Monroe,"Bedford Township, Precinct 4",State Senate,16,DEM,Katybeth Davis,494,234,260
+Monroe,"Bedford Township, Precinct 5",State Senate,16,DEM,Katybeth Davis,450,237,213
+Monroe,"Bedford Township, Precinct 6",State Senate,16,DEM,Katybeth Davis,553,285,268
+Monroe,"Bedford Township, Precinct 7",State Senate,16,DEM,Katybeth Davis,451,224,227
+Monroe,"Bedford Township, Precinct 8",State Senate,16,DEM,Katybeth Davis,494,229,265
+Monroe,"Bedford Township, Precinct 9",State Senate,16,DEM,Katybeth Davis,306,134,172
+Monroe,"Bedford Township, Precinct 10",State Senate,16,DEM,Katybeth Davis,242,119,123
+Monroe,"Bedford Township, Precinct 11",State Senate,16,DEM,Katybeth Davis,424,223,201
+Monroe,"Bedford Township, Precinct 12",State Senate,16,DEM,Katybeth Davis,392,184,208
+Monroe,"Bedford Township, Precinct 13",State Senate,16,DEM,Katybeth Davis,378,184,194
+Monroe,"Bedford Township, Precinct 14",State Senate,16,DEM,Katybeth Davis,366,187,179
+Monroe,"Berlin Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,350,191,159
+Monroe,"Berlin Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,476,229,247
+Monroe,"Berlin Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,255,114,141
+Monroe,"Berlin Township, Precinct 4",State Senate,16,DEM,Katybeth Davis,367,182,185
+Monroe,"City of Luna Pier, Precinct 1",State Senate,16,DEM,Katybeth Davis,254,254,0
+Monroe,"City of Monroe, Precinct 1",State Senate,16,DEM,Katybeth Davis,515,260,255
+Monroe,"City of Monroe, Precinct 2",State Senate,16,DEM,Katybeth Davis,420,237,183
+Monroe,"City of Monroe, Precinct 3N",State Senate,16,DEM,Katybeth Davis,252,156,96
+Monroe,"City of Monroe, Precinct 3S",State Senate,16,DEM,Katybeth Davis,237,150,87
+Monroe,"City of Monroe, Precinct 4",State Senate,16,DEM,Katybeth Davis,619,304,315
+Monroe,"City of Monroe, Precinct 5",State Senate,16,DEM,Katybeth Davis,694,287,407
+Monroe,"City of Monroe, Precinct 6",State Senate,16,DEM,Katybeth Davis,497,265,232
+Monroe,"City of Petersburg, Precinct 1",State Senate,16,DEM,Katybeth Davis,195,125,70
+Monroe,"Dundee Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,367,213,154
+Monroe,"Dundee Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,476,240,236
+Monroe,"Dundee Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,529,289,240
+Monroe,"Erie Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,327,143,184
+Monroe,"Erie Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,246,120,126
+Monroe,"Exeter Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,249,249,0
+Monroe,"Exeter Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,353,353,0
+Monroe,"Frenchtown Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,195,99,96
+Monroe,"Frenchtown Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,256,131,125
+Monroe,"Frenchtown Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,1266,107,1159
+Monroe,"Frenchtown Township, Precinct 4",State Senate,16,DEM,Katybeth Davis,394,117,277
+Monroe,"Frenchtown Township, Precinct 5",State Senate,16,DEM,Katybeth Davis,361,218,143
+Monroe,"Frenchtown Township, Precinct 6",State Senate,16,DEM,Katybeth Davis,368,164,204
+Monroe,"Frenchtown Township, Precinct 7",State Senate,16,DEM,Katybeth Davis,509,199,310
+Monroe,"Frenchtown Township, Precinct 8",State Senate,16,DEM,Katybeth Davis,273,122,151
+Monroe,"Frenchtown Township, Precinct 9",State Senate,16,DEM,Katybeth Davis,351,153,198
+Monroe,"Ida Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,322,159,163
+Monroe,"Ida Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,344,169,175
+Monroe,"La Salle Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,301,125,176
+Monroe,"La Salle Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,386,176,210
+Monroe,"London Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,455,455,0
+Monroe,"Milan Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,287,287,0
+Monroe,"Monroe Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,324,138,186
+Monroe,"Monroe Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,229,113,116
+Monroe,"Monroe Township, Precinct 3",State Senate,16,DEM,Katybeth Davis,234,102,132
+Monroe,"Monroe Township, Precinct 4",State Senate,16,DEM,Katybeth Davis,395,192,203
+Monroe,"Monroe Township, Precinct 5",State Senate,16,DEM,Katybeth Davis,461,189,272
+Monroe,"Monroe Township, Precinct 6",State Senate,16,DEM,Katybeth Davis,302,131,171
+Monroe,"Raisinville Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,361,131,230
+Monroe,"Raisinville Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,568,262,306
+Monroe,"Summerfield Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,423,222,201
+Monroe,"Whiteford Township, Precinct 1",State Senate,16,DEM,Katybeth Davis,348,182,166
+Monroe,"Whiteford Township, Precinct 2",State Senate,16,DEM,Katybeth Davis,240,127,113
+Monroe,"Ash Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",809,541,268
+Monroe,"Ash Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",992,609,383
+Monroe,"Ash Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",836,522,314
+Monroe,"Bedford Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",402,309,93
+Monroe,"Bedford Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",688,502,186
+Monroe,"Bedford Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",646,519,127
+Monroe,"Bedford Township, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",762,549,213
+Monroe,"Bedford Township, Precinct 5",State Senate,16,REP,"Joseph Bellino, Jr.",618,440,178
+Monroe,"Bedford Township, Precinct 6",State Senate,16,REP,"Joseph Bellino, Jr.",867,651,216
+Monroe,"Bedford Township, Precinct 7",State Senate,16,REP,"Joseph Bellino, Jr.",677,503,174
+Monroe,"Bedford Township, Precinct 8",State Senate,16,REP,"Joseph Bellino, Jr.",697,466,231
+Monroe,"Bedford Township, Precinct 9",State Senate,16,REP,"Joseph Bellino, Jr.",479,334,145
+Monroe,"Bedford Township, Precinct 10",State Senate,16,REP,"Joseph Bellino, Jr.",488,369,119
+Monroe,"Bedford Township, Precinct 11",State Senate,16,REP,"Joseph Bellino, Jr.",863,651,212
+Monroe,"Bedford Township, Precinct 12",State Senate,16,REP,"Joseph Bellino, Jr.",546,371,175
+Monroe,"Bedford Township, Precinct 13",State Senate,16,REP,"Joseph Bellino, Jr.",639,469,170
+Monroe,"Bedford Township, Precinct 14",State Senate,16,REP,"Joseph Bellino, Jr.",458,341,117
+Monroe,"Berlin Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",696,516,180
+Monroe,"Berlin Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",903,628,275
+Monroe,"Berlin Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",554,384,170
+Monroe,"Berlin Township, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",885,646,239
+Monroe,"City of Luna Pier, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",688,344,344
+Monroe,"City of Monroe, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",607,408,199
+Monroe,"City of Monroe, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",488,368,120
+Monroe,"City of Monroe, Precinct 3N",State Senate,16,REP,"Joseph Bellino, Jr.",299,245,54
+Monroe,"City of Monroe, Precinct 3S",State Senate,16,REP,"Joseph Bellino, Jr.",158,108,50
+Monroe,"City of Monroe, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",886,610,276
+Monroe,"City of Monroe, Precinct 5",State Senate,16,REP,"Joseph Bellino, Jr.",881,562,319
+Monroe,"City of Monroe, Precinct 6",State Senate,16,REP,"Joseph Bellino, Jr.",756,515,241
+Monroe,"City of Petersburg, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",291,239,52
+Monroe,"Dundee Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",523,389,134
+Monroe,"Dundee Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",702,504,198
+Monroe,"Dundee Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",919,706,213
+Monroe,"Erie Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",761,505,256
+Monroe,"Erie Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",497,359,138
+Monroe,"Exeter Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",619,619,0
+Monroe,"Exeter Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",765,765,0
+Monroe,"Frenchtown Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",392,249,143
+Monroe,"Frenchtown Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",452,333,119
+Monroe,"Frenchtown Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",567,383,184
+Monroe,"Frenchtown Township, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",660,342,318
+Monroe,"Frenchtown Township, Precinct 5",State Senate,16,REP,"Joseph Bellino, Jr.",499,374,125
+Monroe,"Frenchtown Township, Precinct 6",State Senate,16,REP,"Joseph Bellino, Jr.",712,483,229
+Monroe,"Frenchtown Township, Precinct 7",State Senate,16,REP,"Joseph Bellino, Jr.",928,524,404
+Monroe,"Frenchtown Township, Precinct 8",State Senate,16,REP,"Joseph Bellino, Jr.",557,385,172
+Monroe,"Frenchtown Township, Precinct 9",State Senate,16,REP,"Joseph Bellino, Jr.",522,362,160
+Monroe,"Ida Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",939,679,260
+Monroe,"Ida Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",796,589,207
+Monroe,"La Salle Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",752,521,231
+Monroe,"La Salle Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",934,650,284
+Monroe,"London Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",881,881,0
+Monroe,"Milan Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",497,497,0
+Monroe,"Monroe Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",476,291,185
+Monroe,"Monroe Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",299,220,79
+Monroe,"Monroe Township, Precinct 3",State Senate,16,REP,"Joseph Bellino, Jr.",461,294,167
+Monroe,"Monroe Township, Precinct 4",State Senate,16,REP,"Joseph Bellino, Jr.",635,449,186
+Monroe,"Monroe Township, Precinct 5",State Senate,16,REP,"Joseph Bellino, Jr.",1006,637,369
+Monroe,"Monroe Township, Precinct 6",State Senate,16,REP,"Joseph Bellino, Jr.",664,397,267
+Monroe,"Raisinville Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1092,675,417
+Monroe,"Raisinville Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",1059,716,343
+Monroe,"Summerfield Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",1090,805,285
+Monroe,"Whiteford Township, Precinct 1",State Senate,16,REP,"Joseph Bellino, Jr.",765,602,163
+Monroe,"Whiteford Township, Precinct 2",State Senate,16,REP,"Joseph Bellino, Jr.",749,591,158
+Monroe,"Ash Township, Precinct 1",State Senate,16,,Write-ins,6,4,2
+Monroe,"Ash Township, Precinct 2",State Senate,16,,Write-ins,7,3,4
+Monroe,"Ash Township, Precinct 3",State Senate,16,,Write-ins,5,3,2
+Monroe,"Bedford Township, Precinct 1",State Senate,16,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 2",State Senate,16,,Write-ins,4,4,0
+Monroe,"Bedford Township, Precinct 3",State Senate,16,,Write-ins,4,4,0
+Monroe,"Bedford Township, Precinct 4",State Senate,16,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 5",State Senate,16,,Write-ins,6,4,2
+Monroe,"Bedford Township, Precinct 6",State Senate,16,,Write-ins,7,5,2
+Monroe,"Bedford Township, Precinct 7",State Senate,16,,Write-ins,5,5,0
+Monroe,"Bedford Township, Precinct 8",State Senate,16,,Write-ins,3,1,2
+Monroe,"Bedford Township, Precinct 9",State Senate,16,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 10",State Senate,16,,Write-ins,3,3,0
+Monroe,"Bedford Township, Precinct 11",State Senate,16,,Write-ins,8,6,2
+Monroe,"Bedford Township, Precinct 12",State Senate,16,,Write-ins,5,5,0
+Monroe,"Bedford Township, Precinct 13",State Senate,16,,Write-ins,2,1,1
+Monroe,"Bedford Township, Precinct 14",State Senate,16,,Write-ins,4,4,0
+Monroe,"Berlin Township, Precinct 1",State Senate,16,,Write-ins,7,6,1
+Monroe,"Berlin Township, Precinct 2",State Senate,16,,Write-ins,9,5,4
+Monroe,"Berlin Township, Precinct 3",State Senate,16,,Write-ins,4,4,0
+Monroe,"Berlin Township, Precinct 4",State Senate,16,,Write-ins,6,6,0
+Monroe,"City of Luna Pier, Precinct 1",State Senate,16,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 1",State Senate,16,,Write-ins,4,2,2
+Monroe,"City of Monroe, Precinct 2",State Senate,16,,Write-ins,4,4,0
+Monroe,"City of Monroe, Precinct 3N",State Senate,16,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 3S",State Senate,16,,Write-ins,1,1,0
+Monroe,"City of Monroe, Precinct 4",State Senate,16,,Write-ins,7,5,2
+Monroe,"City of Monroe, Precinct 5",State Senate,16,,Write-ins,7,6,1
+Monroe,"City of Monroe, Precinct 6",State Senate,16,,Write-ins,7,6,1
+Monroe,"City of Petersburg, Precinct 1",State Senate,16,,Write-ins,1,1,0
+Monroe,"Dundee Township, Precinct 1",State Senate,16,,Write-ins,6,4,2
+Monroe,"Dundee Township, Precinct 2",State Senate,16,,Write-ins,4,3,1
+Monroe,"Dundee Township, Precinct 3",State Senate,16,,Write-ins,4,3,1
+Monroe,"Erie Township, Precinct 1",State Senate,16,,Write-ins,3,2,1
+Monroe,"Erie Township, Precinct 2",State Senate,16,,Write-ins,6,5,1
+Monroe,"Exeter Township, Precinct 1",State Senate,16,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 2",State Senate,16,,Write-ins,5,5,0
+Monroe,"Frenchtown Township, Precinct 1",State Senate,16,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 2",State Senate,16,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 3",State Senate,16,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 4",State Senate,16,,Write-ins,3,1,2
+Monroe,"Frenchtown Township, Precinct 5",State Senate,16,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 6",State Senate,16,,Write-ins,4,3,1
+Monroe,"Frenchtown Township, Precinct 7",State Senate,16,,Write-ins,3,1,2
+Monroe,"Frenchtown Township, Precinct 8",State Senate,16,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 9",State Senate,16,,Write-ins,2,2,0
+Monroe,"Ida Township, Precinct 1",State Senate,16,,Write-ins,3,2,1
+Monroe,"Ida Township, Precinct 2",State Senate,16,,Write-ins,3,2,1
+Monroe,"La Salle Township, Precinct 1",State Senate,16,,Write-ins,1,0,1
+Monroe,"La Salle Township, Precinct 2",State Senate,16,,Write-ins,8,6,2
+Monroe,"London Township, Precinct 1",State Senate,16,,Write-ins,5,5,0
+Monroe,"Milan Township, Precinct 1",State Senate,16,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 1",State Senate,16,,Write-ins,2,2,0
+Monroe,"Monroe Township, Precinct 2",State Senate,16,,Write-ins,3,2,1
+Monroe,"Monroe Township, Precinct 3",State Senate,16,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 4",State Senate,16,,Write-ins,4,3,1
+Monroe,"Monroe Township, Precinct 5",State Senate,16,,Write-ins,7,6,1
+Monroe,"Monroe Township, Precinct 6",State Senate,16,,Write-ins,1,1,0
+Monroe,"Raisinville Township, Precinct 1",State Senate,16,,Write-ins,3,3,0
+Monroe,"Raisinville Township, Precinct 2",State Senate,16,,Write-ins,4,2,2
+Monroe,"Summerfield Township, Precinct 1",State Senate,16,,Write-ins,4,2,2
+Monroe,"Whiteford Township, Precinct 1",State Senate,16,,Write-ins,2,2,0
+Monroe,"Whiteford Township, Precinct 2",State Senate,16,,Write-ins,4,3,1
+Monroe,"Berlin Township, Precinct 1",State House,28,DEM,Robert Kull,389,209,180
+Monroe,"Berlin Township, Precinct 2",State House,28,DEM,Robert Kull,504,237,267
+Monroe,"Berlin Township, Precinct 3",State House,28,DEM,Robert Kull,306,142,164
+Monroe,"Berlin Township, Precinct 4",State House,28,DEM,Robert Kull,425,214,211
+Monroe,"Frenchtown Township, Precinct 2",State House,28,DEM,Robert Kull,302,159,143
+Monroe,"Frenchtown Township, Precinct 3",State House,28,DEM,Robert Kull,328,141,187
+Monroe,"Frenchtown Township, Precinct 5",State House,28,DEM,Robert Kull,396,236,160
+Monroe,"Frenchtown Township, Precinct 8",State House,28,DEM,Robert Kull,336,162,174
+Monroe,"Berlin Township, Precinct 1",State House,28,REP,Jamie Thompson,662,505,157
+Monroe,"Berlin Township, Precinct 2",State House,28,REP,Jamie Thompson,862,609,253
+Monroe,"Berlin Township, Precinct 3",State House,28,REP,Jamie Thompson,508,362,146
+Monroe,"Berlin Township, Precinct 4",State House,28,REP,Jamie Thompson,820,615,205
+Monroe,"Frenchtown Township, Precinct 2",State House,28,REP,Jamie Thompson,409,305,104
+Monroe,"Frenchtown Township, Precinct 3",State House,28,REP,Jamie Thompson,505,351,154
+Monroe,"Frenchtown Township, Precinct 5",State House,28,REP,Jamie Thompson,462,356,106
+Monroe,"Frenchtown Township, Precinct 8",State House,28,REP,Jamie Thompson,499,347,152
+Monroe,"Berlin Township, Precinct 1",State House,28,,Write-ins,2,2,0
+Monroe,"Berlin Township, Precinct 2",State House,28,,Write-ins,9,6,3
+Monroe,"Berlin Township, Precinct 3",State House,28,,Write-ins,3,2,1
+Monroe,"Berlin Township, Precinct 4",State House,28,,Write-ins,6,5,1
+Monroe,"Frenchtown Township, Precinct 2",State House,28,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 3",State House,28,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 5",State House,28,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 8",State House,28,,Write-ins,4,4,0
+Monroe,"Ash Township, Precinct 1",State House,29,DEM,Alex Garza,466,215,251
+Monroe,"Ash Township, Precinct 2",State House,29,DEM,Alex Garza,505,201,304
+Monroe,"Ash Township, Precinct 3",State House,29,DEM,Alex Garza,357,141,216
+Monroe,"City of Monroe, Precinct 6",State House,29,DEM,Alex Garza,577,312,265
+Monroe,"Frenchtown Township, Precinct 1",State House,29,DEM,Alex Garza,219,104,115
+Monroe,"Frenchtown Township, Precinct 4",State House,29,DEM,Alex Garza,440,137,303
+Monroe,"Frenchtown Township, Precinct 7",State House,29,DEM,Alex Garza,574,223,351
+Monroe,"Frenchtown Township, Precinct 9",State House,29,DEM,Alex Garza,394,174,220
+Monroe,"Ash Township, Precinct 1",State House,29,REP,James DeSana,779,530,249
+Monroe,"Ash Township, Precinct 2",State House,29,REP,James DeSana,963,595,368
+Monroe,"Ash Township, Precinct 3",State House,29,REP,James DeSana,805,512,293
+Monroe,"City of Monroe, Precinct 6",State House,29,REP,James DeSana,674,469,205
+Monroe,"Frenchtown Township, Precinct 1",State House,29,REP,James DeSana,369,245,124
+Monroe,"Frenchtown Township, Precinct 4",State House,29,REP,James DeSana,606,320,286
+Monroe,"Frenchtown Township, Precinct 7",State House,29,REP,James DeSana,852,496,356
+Monroe,"Frenchtown Township, Precinct 9",State House,29,REP,James DeSana,484,348,136
+Monroe,"Ash Township, Precinct 1",State House,29,,Write-ins,3,3,0
+Monroe,"Ash Township, Precinct 2",State House,29,,Write-ins,4,3,1
+Monroe,"Ash Township, Precinct 3",State House,29,,Write-ins,3,3,0
+Monroe,"City of Monroe, Precinct 6",State House,29,,Write-ins,9,5,4
+Monroe,"Frenchtown Township, Precinct 1",State House,29,,Write-ins,2,2,0
+Monroe,"Frenchtown Township, Precinct 4",State House,29,,Write-ins,1,1,0
+Monroe,"Frenchtown Township, Precinct 7",State House,29,,Write-ins,3,2,1
+Monroe,"Frenchtown Township, Precinct 9",State House,29,,Write-ins,1,0,1
+Monroe,"Bedford Township, Precinct 1",State House,30,DEM,Suzanne Jennens,175,96,79
+Monroe,"Bedford Township, Precinct 2",State House,30,DEM,Suzanne Jennens,407,213,194
+Monroe,"Bedford Township, Precinct 3",State House,30,DEM,Suzanne Jennens,360,207,153
+Monroe,"Bedford Township, Precinct 4",State House,30,DEM,Suzanne Jennens,486,236,250
+Monroe,"Bedford Township, Precinct 5",State House,30,DEM,Suzanne Jennens,445,234,211
+Monroe,"Bedford Township, Precinct 6",State House,30,DEM,Suzanne Jennens,543,277,266
+Monroe,"Bedford Township, Precinct 7",State House,30,DEM,Suzanne Jennens,442,218,224
+Monroe,"Bedford Township, Precinct 8",State House,30,DEM,Suzanne Jennens,491,229,262
+Monroe,"Bedford Township, Precinct 9",State House,30,DEM,Suzanne Jennens,295,128,167
+Monroe,"Bedford Township, Precinct 10",State House,30,DEM,Suzanne Jennens,231,112,119
+Monroe,"Bedford Township, Precinct 11",State House,30,DEM,Suzanne Jennens,427,225,202
+Monroe,"Bedford Township, Precinct 12",State House,30,DEM,Suzanne Jennens,394,191,203
+Monroe,"Bedford Township, Precinct 13",State House,30,DEM,Suzanne Jennens,374,178,196
+Monroe,"Bedford Township, Precinct 14",State House,30,DEM,Suzanne Jennens,365,188,177
+Monroe,"City of Luna Pier, Precinct 1",State House,30,DEM,Suzanne Jennens,247,247,0
+Monroe,"City of Monroe, Precinct 1",State House,30,DEM,Suzanne Jennens,561,272,289
+Monroe,"City of Monroe, Precinct 2",State House,30,DEM,Suzanne Jennens,444,251,193
+Monroe,"City of Monroe, Precinct 3N",State House,30,DEM,Suzanne Jennens,273,170,103
+Monroe,"City of Monroe, Precinct 3S",State House,30,DEM,Suzanne Jennens,247,157,90
+Monroe,"City of Monroe, Precinct 4",State House,30,DEM,Suzanne Jennens,662,326,336
+Monroe,"City of Monroe, Precinct 5",State House,30,DEM,Suzanne Jennens,753,309,444
+Monroe,"City of Petersburg, Precinct 1",State House,30,DEM,Suzanne Jennens,194,129,65
+Monroe,"Erie Township, Precinct 1",State House,30,DEM,Suzanne Jennens,343,153,190
+Monroe,"Erie Township, Precinct 2",State House,30,DEM,Suzanne Jennens,248,119,129
+Monroe,"Frenchtown Township, Precinct 6",State House,30,DEM,Suzanne Jennens,388,175,213
+Monroe,"Frenchtown Township, Precinct 7",State House,30,DEM,Suzanne Jennens,0,0,0
+Monroe,"Ida Township, Precinct 1",State House,30,DEM,Suzanne Jennens,313,159,154
+Monroe,"Ida Township, Precinct 2",State House,30,DEM,Suzanne Jennens,341,174,167
+Monroe,"La Salle Township, Precinct 1",State House,30,DEM,Suzanne Jennens,308,136,172
+Monroe,"La Salle Township, Precinct 2",State House,30,DEM,Suzanne Jennens,394,178,216
+Monroe,"Monroe Township, Precinct 1",State House,30,DEM,Suzanne Jennens,338,142,196
+Monroe,"Monroe Township, Precinct 2",State House,30,DEM,Suzanne Jennens,238,111,127
+Monroe,"Monroe Township, Precinct 3",State House,30,DEM,Suzanne Jennens,233,99,134
+Monroe,"Monroe Township, Precinct 4",State House,30,DEM,Suzanne Jennens,409,197,212
+Monroe,"Monroe Township, Precinct 5",State House,30,DEM,Suzanne Jennens,483,195,288
+Monroe,"Monroe Township, Precinct 6",State House,30,DEM,Suzanne Jennens,329,141,188
+Monroe,"Summerfield Township, Precinct 1",State House,30,DEM,Suzanne Jennens,423,224,199
+Monroe,"Whiteford Township, Precinct 1",State House,30,DEM,Suzanne Jennens,348,189,159
+Monroe,"Whiteford Township, Precinct 2",State House,30,DEM,Suzanne Jennens,241,129,112
+Monroe,"Bedford Township, Precinct 1",State House,30,REP,William Bruck,421,320,101
+Monroe,"Bedford Township, Precinct 2",State House,30,REP,William Bruck,698,500,198
+Monroe,"Bedford Township, Precinct 3",State House,30,REP,William Bruck,659,528,131
+Monroe,"Bedford Township, Precinct 4",State House,30,REP,William Bruck,770,548,222
+Monroe,"Bedford Township, Precinct 5",State House,30,REP,William Bruck,637,451,186
+Monroe,"Bedford Township, Precinct 6",State House,30,REP,William Bruck,875,662,213
+Monroe,"Bedford Township, Precinct 7",State House,30,REP,William Bruck,697,517,180
+Monroe,"Bedford Township, Precinct 8",State House,30,REP,William Bruck,715,474,241
+Monroe,"Bedford Township, Precinct 9",State House,30,REP,William Bruck,487,338,149
+Monroe,"Bedford Township, Precinct 10",State House,30,REP,William Bruck,504,383,121
+Monroe,"Bedford Township, Precinct 11",State House,30,REP,William Bruck,874,662,212
+Monroe,"Bedford Township, Precinct 12",State House,30,REP,William Bruck,549,367,182
+Monroe,"Bedford Township, Precinct 13",State House,30,REP,William Bruck,652,478,174
+Monroe,"Bedford Township, Precinct 14",State House,30,REP,William Bruck,456,343,113
+Monroe,"City of Luna Pier, Precinct 1",State House,30,REP,William Bruck,351,351,0
+Monroe,"City of Monroe, Precinct 1",State House,30,REP,William Bruck,572,397,175
+Monroe,"City of Monroe, Precinct 2",State House,30,REP,William Bruck,458,348,110
+Monroe,"City of Monroe, Precinct 3N",State House,30,REP,William Bruck,266,220,46
+Monroe,"City of Monroe, Precinct 3S",State House,30,REP,William Bruck,146,100,46
+Monroe,"City of Monroe, Precinct 4",State House,30,REP,William Bruck,820,576,244
+Monroe,"City of Monroe, Precinct 5",State House,30,REP,William Bruck,816,536,280
+Monroe,"City of Petersburg, Precinct 1",State House,30,REP,William Bruck,297,242,55
+Monroe,"Erie Township, Precinct 1",State House,30,REP,William Bruck,742,494,248
+Monroe,"Erie Township, Precinct 2",State House,30,REP,William Bruck,493,360,133
+Monroe,"Frenchtown Township, Precinct 6",State House,30,REP,William Bruck,688,470,218
+Monroe,"Frenchtown Township, Precinct 7",State House,30,REP,William Bruck,2,0,2
+Monroe,"Ida Township, Precinct 1",State House,30,REP,William Bruck,946,680,266
+Monroe,"Ida Township, Precinct 2",State House,30,REP,William Bruck,799,588,211
+Monroe,"La Salle Township, Precinct 1",State House,30,REP,William Bruck,735,510,225
+Monroe,"La Salle Township, Precinct 2",State House,30,REP,William Bruck,938,655,283
+Monroe,"Monroe Township, Precinct 1",State House,30,REP,William Bruck,463,285,178
+Monroe,"Monroe Township, Precinct 2",State House,30,REP,William Bruck,287,218,69
+Monroe,"Monroe Township, Precinct 3",State House,30,REP,William Bruck,456,293,163
+Monroe,"Monroe Township, Precinct 4",State House,30,REP,William Bruck,614,442,172
+Monroe,"Monroe Township, Precinct 5",State House,30,REP,William Bruck,973,618,355
+Monroe,"Monroe Township, Precinct 6",State House,30,REP,William Bruck,631,385,246
+Monroe,"Summerfield Township, Precinct 1",State House,30,REP,William Bruck,1088,801,287
+Monroe,"Whiteford Township, Precinct 1",State House,30,REP,William Bruck,773,609,164
+Monroe,"Whiteford Township, Precinct 2",State House,30,REP,William Bruck,754,593,161
+Monroe,"Bedford Township, Precinct 1",State House,30,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 2",State House,30,,Write-ins,3,3,0
+Monroe,"Bedford Township, Precinct 3",State House,30,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 4",State House,30,,Write-ins,4,2,2
+Monroe,"Bedford Township, Precinct 5",State House,30,,Write-ins,1,1,0
+Monroe,"Bedford Township, Precinct 6",State House,30,,Write-ins,6,4,2
+Monroe,"Bedford Township, Precinct 7",State House,30,,Write-ins,2,2,0
+Monroe,"Bedford Township, Precinct 8",State House,30,,Write-ins,3,2,1
+Monroe,"Bedford Township, Precinct 9",State House,30,,Write-ins,2,1,1
+Monroe,"Bedford Township, Precinct 10",State House,30,,Write-ins,4,4,0
+Monroe,"Bedford Township, Precinct 11",State House,30,,Write-ins,3,1,2
+Monroe,"Bedford Township, Precinct 12",State House,30,,Write-ins,3,3,0
+Monroe,"Bedford Township, Precinct 13",State House,30,,Write-ins,3,3,0
+Monroe,"Bedford Township, Precinct 14",State House,30,,Write-ins,1,1,0
+Monroe,"City of Luna Pier, Precinct 1",State House,30,,Write-ins,0,0,0
+Monroe,"City of Monroe, Precinct 1",State House,30,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 2",State House,30,,Write-ins,6,6,0
+Monroe,"City of Monroe, Precinct 3N",State House,30,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 3S",State House,30,,Write-ins,2,2,0
+Monroe,"City of Monroe, Precinct 4",State House,30,,Write-ins,8,7,1
+Monroe,"City of Monroe, Precinct 5",State House,30,,Write-ins,8,8,0
+Monroe,"City of Petersburg, Precinct 1",State House,30,,Write-ins,1,1,0
+Monroe,"Erie Township, Precinct 1",State House,30,,Write-ins,4,3,1
+Monroe,"Erie Township, Precinct 2",State House,30,,Write-ins,3,3,0
+Monroe,"Frenchtown Township, Precinct 6",State House,30,,Write-ins,4,3,1
+Monroe,"Frenchtown Township, Precinct 7",State House,30,,Write-ins,0,0,0
+Monroe,"Ida Township, Precinct 1",State House,30,,Write-ins,3,2,1
+Monroe,"Ida Township, Precinct 2",State House,30,,Write-ins,2,1,1
+Monroe,"La Salle Township, Precinct 1",State House,30,,Write-ins,0,0,0
+Monroe,"La Salle Township, Precinct 2",State House,30,,Write-ins,5,5,0
+Monroe,"Monroe Township, Precinct 1",State House,30,,Write-ins,2,2,0
+Monroe,"Monroe Township, Precinct 2",State House,30,,Write-ins,3,3,0
+Monroe,"Monroe Township, Precinct 3",State House,30,,Write-ins,5,5,0
+Monroe,"Monroe Township, Precinct 4",State House,30,,Write-ins,1,1,0
+Monroe,"Monroe Township, Precinct 5",State House,30,,Write-ins,6,5,1
+Monroe,"Monroe Township, Precinct 6",State House,30,,Write-ins,2,1,1
+Monroe,"Summerfield Township, Precinct 1",State House,30,,Write-ins,8,7,1
+Monroe,"Whiteford Township, Precinct 1",State House,30,,Write-ins,1,1,0
+Monroe,"Whiteford Township, Precinct 2",State House,30,,Write-ins,0,0,0
+Monroe,"City of Milan, Precinct 1",State House,31,DEM,Reggie Miller,533,533,0
+Monroe,"Dundee Township, Precinct 1",State House,31,DEM,Reggie Miller,382,218,164
+Monroe,"Dundee Township, Precinct 2",State House,31,DEM,Reggie Miller,505,253,252
+Monroe,"Dundee Township, Precinct 3",State House,31,DEM,Reggie Miller,572,314,258
+Monroe,"Exeter Township, Precinct 1",State House,31,DEM,Reggie Miller,278,278,0
+Monroe,"Exeter Township, Precinct 2",State House,31,DEM,Reggie Miller,379,379,0
+Monroe,"London Township, Precinct 1",State House,31,DEM,Reggie Miller,463,463,0
+Monroe,"Milan Township, Precinct 1",State House,31,DEM,Reggie Miller,299,299,0
+Monroe,"Raisinville Township, Precinct 1",State House,31,DEM,Reggie Miller,391,144,247
+Monroe,"Raisinville Township, Precinct 2",State House,31,DEM,Reggie Miller,613,275,338
+Monroe,"City of Milan, Precinct 1",State House,31,REP,Dale Biniecki,420,420,0
+Monroe,"Dundee Township, Precinct 1",State House,31,REP,Dale Biniecki,522,393,129
+Monroe,"Dundee Township, Precinct 2",State House,31,REP,Dale Biniecki,677,491,186
+Monroe,"Dundee Township, Precinct 3",State House,31,REP,Dale Biniecki,897,699,198
+Monroe,"Exeter Township, Precinct 1",State House,31,REP,Dale Biniecki,599,599,0
+Monroe,"Exeter Township, Precinct 2",State House,31,REP,Dale Biniecki,739,739,0
+Monroe,"London Township, Precinct 1",State House,31,REP,Dale Biniecki,893,893,0
+Monroe,"Milan Township, Precinct 1",State House,31,REP,Dale Biniecki,496,496,0
+Monroe,"Raisinville Township, Precinct 1",State House,31,REP,Dale Biniecki,1055,658,397
+Monroe,"Raisinville Township, Precinct 2",State House,31,REP,Dale Biniecki,1021,704,317
+Monroe,"City of Milan, Precinct 1",State House,31,,Write-ins,3,3,0
+Monroe,"Dundee Township, Precinct 1",State House,31,,Write-ins,3,3,0
+Monroe,"Dundee Township, Precinct 2",State House,31,,Write-ins,7,6,1
+Monroe,"Dundee Township, Precinct 3",State House,31,,Write-ins,3,2,1
+Monroe,"Exeter Township, Precinct 1",State House,31,,Write-ins,2,2,0
+Monroe,"Exeter Township, Precinct 2",State House,31,,Write-ins,4,4,0
+Monroe,"London Township, Precinct 1",State House,31,,Write-ins,4,4,0
+Monroe,"Milan Township, Precinct 1",State House,31,,Write-ins,1,1,0
+Monroe,"Raisinville Township, Precinct 1",State House,31,,Write-ins,3,1,2
+Monroe,"Raisinville Township, Precinct 2",State House,31,,Write-ins,3,2,1

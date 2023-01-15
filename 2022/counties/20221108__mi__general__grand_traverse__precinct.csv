@@ -1,0 +1,1313 @@
+county,precinct,office,district,party,candidate,election_day,absentee,votes
+Grand Traverse,Acme Twp Pct 1,Registered Voters,,,,,,2556
+Grand Traverse,Acme Twp Pct 2,Registered Voters,,,,,,1465
+Grand Traverse,Blair Twp Pct 1,Registered Voters,,,,,,1574
+Grand Traverse,Blair Twp Pct 2,Registered Voters,,,,,,2375
+Grand Traverse,Blair Twp Pct 3,Registered Voters,,,,,,1649
+Grand Traverse,Blair Twp Pct 4,Registered Voters,,,,,,1678
+Grand Traverse,East Bay Twp Pct 1,Registered Voters,,,,,,2291
+Grand Traverse,East Bay Twp Pct 2,Registered Voters,,,,,,2120
+Grand Traverse,East Bay Twp Pct 3,Registered Voters,,,,,,1789
+Grand Traverse,East Bay Twp Pct 4,Registered Voters,,,,,,2276
+Grand Traverse,East Bay Twp Pct 5,Registered Voters,,,,,,1888
+Grand Traverse,Fife Lake Twp Pct 1,Registered Voters,,,,,,1409
+Grand Traverse,Garfield Twp Pct 1,Registered Voters,,,,,,2874
+Grand Traverse,Garfield Twp Pct 2,Registered Voters,,,,,,2556
+Grand Traverse,Garfield Twp Pct 3,Registered Voters,,,,,,1964
+Grand Traverse,Garfield Twp Pct 4,Registered Voters,,,,,,2503
+Grand Traverse,Garfield Twp Pct 5,Registered Voters,,,,,,2745
+Grand Traverse,Garfield Twp Pct 6,Registered Voters,,,,,,2444
+Grand Traverse,Garfield Twp Pct 7,Registered Voters,,,,,,2094
+Grand Traverse,Grant Twp Pct 1,Registered Voters,,,,,,1067
+Grand Traverse,Green Lake Twp Pct 1,Registered Voters,,,,,,2246
+Grand Traverse,Green Lake Twp Pct 2,Registered Voters,,,,,,1949
+Grand Traverse,Green Lake Twp Pct 3,Registered Voters,,,,,,1471
+Grand Traverse,Long Lake Twp Pct 1,Registered Voters,,,,,,2734
+Grand Traverse,Long Lake Twp Pct 2,Registered Voters,,,,,,2616
+Grand Traverse,Long Lake Twp Pct 3,Registered Voters,,,,,,3090
+Grand Traverse,Mayfield Twp Pct 1,Registered Voters,,,,,,1477
+Grand Traverse,Paradise Twp Pct 1,Registered Voters,,,,,,2191
+Grand Traverse,Paradise Twp Pct 2,Registered Voters,,,,,,1863
+Grand Traverse,Peninsula Twp Pct 1,Registered Voters,,,,,,2840
+Grand Traverse,Peninsula Twp Pct 2,Registered Voters,,,,,,2869
+Grand Traverse,Union Twp Pct 1,Registered Voters,,,,,,432
+Grand Traverse,Whitewater Twp Pct 1,Registered Voters,,,,,,2407
+Grand Traverse,Traverse City Pct 1,Registered Voters,,,,,,2231
+Grand Traverse,Traverse City Pct 3,Registered Voters,,,,,,2043
+Grand Traverse,Traverse City Pct 7,Registered Voters,,,,,,2189
+Grand Traverse,Traverse City Pct 8,Registered Voters,,,,,,2105
+Grand Traverse,Traverse City Pct 9,Registered Voters,,,,,,1963
+Grand Traverse,Traverse City Pct 10,Registered Voters,,,,,,2400
+Grand Traverse,Acme Twp Pct 1,Ballots Cast,,,,831,951,1782
+Grand Traverse,Acme Twp Pct 2,Ballots Cast,,,,466,592,1058
+Grand Traverse,Blair Twp Pct 1,Ballots Cast,,,,465,263,728
+Grand Traverse,Blair Twp Pct 2,Ballots Cast,,,,838,614,1452
+Grand Traverse,Blair Twp Pct 3,Ballots Cast,,,,495,412,907
+Grand Traverse,Blair Twp Pct 4,Ballots Cast,,,,554,275,829
+Grand Traverse,East Bay Twp Pct 1,Ballots Cast,,,,663,717,1380
+Grand Traverse,East Bay Twp Pct 2,Ballots Cast,,,,712,704,1416
+Grand Traverse,East Bay Twp Pct 3,Ballots Cast,,,,612,685,1297
+Grand Traverse,East Bay Twp Pct 4,Ballots Cast,,,,751,748,1499
+Grand Traverse,East Bay Twp Pct 5,Ballots Cast,,,,643,601,1244
+Grand Traverse,Fife Lake Twp Pct 1,Ballots Cast,,,,632,259,891
+Grand Traverse,Garfield Twp Pct 1,Ballots Cast,,,,871,734,1605
+Grand Traverse,Garfield Twp Pct 2,Ballots Cast,,,,696,1070,1766
+Grand Traverse,Garfield Twp Pct 3,Ballots Cast,,,,542,476,1018
+Grand Traverse,Garfield Twp Pct 4,Ballots Cast,,,,598,666,1264
+Grand Traverse,Garfield Twp Pct 5,Ballots Cast,,,,904,1076,1980
+Grand Traverse,Garfield Twp Pct 6,Ballots Cast,,,,691,691,1382
+Grand Traverse,Garfield Twp Pct 7,Ballots Cast,,,,571,318,889
+Grand Traverse,Grant Twp Pct 1,Ballots Cast,,,,675,0,675
+Grand Traverse,Green Lake Twp Pct 1,Ballots Cast,,,,852,607,1459
+Grand Traverse,Green Lake Twp Pct 2,Ballots Cast,,,,735,441,1176
+Grand Traverse,Green Lake Twp Pct 3,Ballots Cast,,,,535,357,892
+Grand Traverse,Long Lake Twp Pct 1,Ballots Cast,,,,992,846,1838
+Grand Traverse,Long Lake Twp Pct 2,Ballots Cast,,,,979,877,1856
+Grand Traverse,Long Lake Twp Pct 3,Ballots Cast,,,,1126,1163,2289
+Grand Traverse,Mayfield Twp Pct 1,Ballots Cast,,,,850,0,850
+Grand Traverse,Paradise Twp Pct 1,Ballots Cast,,,,1339,0,1339
+Grand Traverse,Paradise Twp Pct 2,Ballots Cast,,,,1006,0,1006
+Grand Traverse,Peninsula Twp Pct 1,Ballots Cast,,,,845,1400,2245
+Grand Traverse,Peninsula Twp Pct 2,Ballots Cast,,,,805,1372,2177
+Grand Traverse,Union Twp Pct 1,Ballots Cast,,,,274,0,274
+Grand Traverse,Whitewater Twp Pct 1,Ballots Cast,,,,854,835,1689
+Grand Traverse,Traverse City Pct 1,Ballots Cast,,,,694,826,1520
+Grand Traverse,Traverse City Pct 3,Ballots Cast,,,,656,801,1457
+Grand Traverse,Traverse City Pct 7,Ballots Cast,,,,690,633,1323
+Grand Traverse,Traverse City Pct 8,Ballots Cast,,,,680,697,1377
+Grand Traverse,Traverse City Pct 9,Ballots Cast,,,,594,819,1413
+Grand Traverse,Traverse City Pct 10,Ballots Cast,,,,712,806,1518
+Grand Traverse,Acme Twp Pct 1,Straight Party,,DEM,,158,255,413
+Grand Traverse,Acme Twp Pct 2,Straight Party,,DEM,,61,148,209
+Grand Traverse,Blair Twp Pct 1,Straight Party,,DEM,,74,61,135
+Grand Traverse,Blair Twp Pct 2,Straight Party,,DEM,,101,139,240
+Grand Traverse,Blair Twp Pct 3,Straight Party,,DEM,,89,110,199
+Grand Traverse,Blair Twp Pct 4,Straight Party,,DEM,,84,74,158
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,DEM,,124,206,330
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,DEM,,113,162,275
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,DEM,,111,199,310
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,DEM,,138,209,347
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,DEM,,94,149,243
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,DEM,,74,63,137
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,DEM,,167,198,365
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,DEM,,113,315,428
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,DEM,,123,161,284
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,DEM,,144,242,386
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,DEM,,137,327,464
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,DEM,,138,236,374
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,DEM,,153,134,287
+Grand Traverse,Grant Twp Pct 1,Straight Party,,DEM,,104,0,104
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,DEM,,137,171,308
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,DEM,,119,162,281
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,DEM,,87,131,218
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,DEM,,200,271,471
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,DEM,,147,246,393
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,DEM,,144,324,468
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,DEM,,110,0,110
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,DEM,,195,0,195
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,DEM,,166,0,166
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,DEM,,161,374,535
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,DEM,,160,383,543
+Grand Traverse,Union Twp Pct 1,Straight Party,,DEM,,49,0,49
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,DEM,,115,187,302
+Grand Traverse,Traverse City Pct 1,Straight Party,,DEM,,176,267,443
+Grand Traverse,Traverse City Pct 3,Straight Party,,DEM,,179,328,507
+Grand Traverse,Traverse City Pct 7,Straight Party,,DEM,,259,256,515
+Grand Traverse,Traverse City Pct 8,Straight Party,,DEM,,190,280,470
+Grand Traverse,Traverse City Pct 9,Straight Party,,DEM,,137,285,422
+Grand Traverse,Traverse City Pct 10,Straight Party,,DEM,,203,300,503
+Grand Traverse,Acme Twp Pct 1,Straight Party,,REP,,267,205,472
+Grand Traverse,Acme Twp Pct 2,Straight Party,,REP,,174,170,344
+Grand Traverse,Blair Twp Pct 1,Straight Party,,REP,,176,69,245
+Grand Traverse,Blair Twp Pct 2,Straight Party,,REP,,312,154,466
+Grand Traverse,Blair Twp Pct 3,Straight Party,,REP,,175,89,264
+Grand Traverse,Blair Twp Pct 4,Straight Party,,REP,,205,66,271
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,REP,,196,181,377
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,REP,,216,175,391
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,REP,,205,164,369
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,REP,,216,170,386
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,REP,,212,162,374
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,REP,,252,84,336
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,REP,,272,163,435
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,REP,,231,252,483
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,REP,,152,76,228
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,REP,,144,144,288
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,REP,,289,218,507
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,REP,,235,156,391
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,REP,,166,52,218
+Grand Traverse,Grant Twp Pct 1,Straight Party,,REP,,291,0,291
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,REP,,281,154,435
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,REP,,271,107,378
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,REP,,180,76,256
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,REP,,327,158,485
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,REP,,328,208,536
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,REP,,394,297,691
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,REP,,325,0,325
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,REP,,439,0,439
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,REP,,361,0,361
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,REP,,253,331,584
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,REP,,213,333,546
+Grand Traverse,Union Twp Pct 1,Straight Party,,REP,,107,0,107
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,REP,,341,240,581
+Grand Traverse,Traverse City Pct 1,Straight Party,,REP,,142,122,264
+Grand Traverse,Traverse City Pct 3,Straight Party,,REP,,99,78,177
+Grand Traverse,Traverse City Pct 7,Straight Party,,REP,,155,84,239
+Grand Traverse,Traverse City Pct 8,Straight Party,,REP,,124,78,202
+Grand Traverse,Traverse City Pct 9,Straight Party,,REP,,120,128,248
+Grand Traverse,Traverse City Pct 10,Straight Party,,REP,,180,114,294
+Grand Traverse,Acme Twp Pct 1,Straight Party,,LIB,,7,1,8
+Grand Traverse,Acme Twp Pct 2,Straight Party,,LIB,,3,2,5
+Grand Traverse,Blair Twp Pct 1,Straight Party,,LIB,,4,1,5
+Grand Traverse,Blair Twp Pct 2,Straight Party,,LIB,,3,0,3
+Grand Traverse,Blair Twp Pct 3,Straight Party,,LIB,,0,4,4
+Grand Traverse,Blair Twp Pct 4,Straight Party,,LIB,,3,2,5
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,LIB,,4,1,5
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,LIB,,1,1,2
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,LIB,,5,2,7
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,LIB,,3,5,8
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,LIB,,4,2,6
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,LIB,,2,1,3
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,LIB,,3,2,5
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,LIB,,4,1,5
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,LIB,,3,2,5
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,LIB,,6,2,8
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,LIB,,1,2,3
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,LIB,,4,2,6
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,LIB,,10,1,11
+Grand Traverse,Grant Twp Pct 1,Straight Party,,LIB,,1,0,1
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,LIB,,6,2,8
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,LIB,,5,0,5
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,LIB,,2,0,2
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,LIB,,1,1,2
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,LIB,,5,6,11
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,LIB,,2,1,3
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,LIB,,2,0,2
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,LIB,,11,0,11
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,LIB,,2,0,2
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,LIB,,3,0,3
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,LIB,,1,2,3
+Grand Traverse,Union Twp Pct 1,Straight Party,,LIB,,1,0,1
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,LIB,,4,4,8
+Grand Traverse,Traverse City Pct 1,Straight Party,,LIB,,2,0,2
+Grand Traverse,Traverse City Pct 3,Straight Party,,LIB,,0,3,3
+Grand Traverse,Traverse City Pct 7,Straight Party,,LIB,,9,0,9
+Grand Traverse,Traverse City Pct 8,Straight Party,,LIB,,3,0,3
+Grand Traverse,Traverse City Pct 9,Straight Party,,LIB,,2,0,2
+Grand Traverse,Traverse City Pct 10,Straight Party,,LIB,,5,4,9
+Grand Traverse,Acme Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Acme Twp Pct 2,Straight Party,,UST,,0,0,0
+Grand Traverse,Blair Twp Pct 1,Straight Party,,UST,,0,1,1
+Grand Traverse,Blair Twp Pct 2,Straight Party,,UST,,3,0,3
+Grand Traverse,Blair Twp Pct 3,Straight Party,,UST,,2,0,2
+Grand Traverse,Blair Twp Pct 4,Straight Party,,UST,,1,0,1
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,UST,,1,0,1
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,UST,,0,0,0
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,UST,,1,0,1
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,UST,,0,0,0
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,UST,,1,1,2
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,UST,,0,1,1
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,UST,,1,0,1
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,UST,,2,1,3
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,UST,,0,1,1
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,UST,,0,0,0
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,UST,,1,1,2
+Grand Traverse,Grant Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,UST,,1,1,2
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,UST,,3,0,3
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,UST,,0,0,0
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,UST,,1,1,2
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,UST,,1,0,1
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,UST,,0,0,0
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,UST,,2,0,2
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,UST,,2,0,2
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,UST,,0,0,0
+Grand Traverse,Union Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,UST,,0,0,0
+Grand Traverse,Traverse City Pct 1,Straight Party,,UST,,2,1,3
+Grand Traverse,Traverse City Pct 3,Straight Party,,UST,,0,0,0
+Grand Traverse,Traverse City Pct 7,Straight Party,,UST,,0,0,0
+Grand Traverse,Traverse City Pct 8,Straight Party,,UST,,0,1,1
+Grand Traverse,Traverse City Pct 9,Straight Party,,UST,,0,0,0
+Grand Traverse,Traverse City Pct 10,Straight Party,,UST,,1,0,1
+Grand Traverse,Acme Twp Pct 1,Straight Party,,WCP,,0,0,0
+Grand Traverse,Acme Twp Pct 2,Straight Party,,WCP,,0,2,2
+Grand Traverse,Blair Twp Pct 1,Straight Party,,WCP,,0,0,0
+Grand Traverse,Blair Twp Pct 2,Straight Party,,WCP,,2,0,2
+Grand Traverse,Blair Twp Pct 3,Straight Party,,WCP,,4,1,5
+Grand Traverse,Blair Twp Pct 4,Straight Party,,WCP,,2,0,2
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,WCP,,1,0,1
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,WCP,,4,1,5
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,WCP,,0,3,3
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,WCP,,0,0,0
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,WCP,,1,1,2
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,WCP,,4,2,6
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,WCP,,3,2,5
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,WCP,,0,0,0
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,WCP,,0,0,0
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,WCP,,4,2,6
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,WCP,,0,0,0
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,WCP,,4,2,6
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,WCP,,3,1,4
+Grand Traverse,Grant Twp Pct 1,Straight Party,,WCP,,2,0,2
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,WCP,,3,0,3
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,WCP,,3,2,5
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,WCP,,2,0,2
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,WCP,,0,0,0
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,WCP,,1,0,1
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,WCP,,0,0,0
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,WCP,,3,0,3
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,WCP,,2,0,2
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,WCP,,3,0,3
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,WCP,,2,1,3
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,WCP,,0,1,1
+Grand Traverse,Union Twp Pct 1,Straight Party,,WCP,,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,WCP,,1,0,1
+Grand Traverse,Traverse City Pct 1,Straight Party,,WCP,,2,2,4
+Grand Traverse,Traverse City Pct 3,Straight Party,,WCP,,1,1,2
+Grand Traverse,Traverse City Pct 7,Straight Party,,WCP,,0,1,1
+Grand Traverse,Traverse City Pct 8,Straight Party,,WCP,,3,0,3
+Grand Traverse,Traverse City Pct 9,Straight Party,,WCP,,2,0,2
+Grand Traverse,Traverse City Pct 10,Straight Party,,WCP,,0,1,1
+Grand Traverse,Acme Twp Pct 1,Straight Party,,GRN,,1,0,1
+Grand Traverse,Acme Twp Pct 2,Straight Party,,GRN,,1,0,1
+Grand Traverse,Blair Twp Pct 1,Straight Party,,GRN,,1,0,1
+Grand Traverse,Blair Twp Pct 2,Straight Party,,GRN,,0,0,0
+Grand Traverse,Blair Twp Pct 3,Straight Party,,GRN,,2,0,2
+Grand Traverse,Blair Twp Pct 4,Straight Party,,GRN,,1,0,1
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,GRN,,0,1,1
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,GRN,,2,0,2
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,GRN,,3,0,3
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,GRN,,1,1,2
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,GRN,,1,0,1
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,GRN,,1,0,1
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,GRN,,2,0,2
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,GRN,,1,0,1
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,GRN,,3,0,3
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,GRN,,1,0,1
+Grand Traverse,Grant Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,GRN,,0,0,0
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,GRN,,0,0,0
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,GRN,,0,1,1
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,GRN,,0,0,0
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,GRN,,5,0,5
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,GRN,,0,0,0
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,GRN,,0,2,2
+Grand Traverse,Union Twp Pct 1,Straight Party,,GRN,,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,GRN,,1,1,2
+Grand Traverse,Traverse City Pct 1,Straight Party,,GRN,,3,0,3
+Grand Traverse,Traverse City Pct 3,Straight Party,,GRN,,1,0,1
+Grand Traverse,Traverse City Pct 7,Straight Party,,GRN,,0,0,0
+Grand Traverse,Traverse City Pct 8,Straight Party,,GRN,,4,1,5
+Grand Traverse,Traverse City Pct 9,Straight Party,,GRN,,1,0,1
+Grand Traverse,Traverse City Pct 10,Straight Party,,GRN,,2,1,3
+Grand Traverse,Acme Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Acme Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,Blair Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Blair Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,Blair Twp Pct 3,Straight Party,,NLP,,0,1,1
+Grand Traverse,Blair Twp Pct 4,Straight Party,,NLP,,1,0,1
+Grand Traverse,East Bay Twp Pct 1,Straight Party,,NLP,,1,0,1
+Grand Traverse,East Bay Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,East Bay Twp Pct 3,Straight Party,,NLP,,0,0,0
+Grand Traverse,East Bay Twp Pct 4,Straight Party,,NLP,,0,0,0
+Grand Traverse,East Bay Twp Pct 5,Straight Party,,NLP,,0,0,0
+Grand Traverse,Fife Lake Twp Pct 1,Straight Party,,NLP,,0,1,1
+Grand Traverse,Garfield Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Garfield Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,Garfield Twp Pct 3,Straight Party,,NLP,,0,0,0
+Grand Traverse,Garfield Twp Pct 4,Straight Party,,NLP,,0,1,1
+Grand Traverse,Garfield Twp Pct 5,Straight Party,,NLP,,0,0,0
+Grand Traverse,Garfield Twp Pct 6,Straight Party,,NLP,,1,0,1
+Grand Traverse,Garfield Twp Pct 7,Straight Party,,NLP,,1,0,1
+Grand Traverse,Grant Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Green Lake Twp Pct 1,Straight Party,,NLP,,1,0,1
+Grand Traverse,Green Lake Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,Green Lake Twp Pct 3,Straight Party,,NLP,,0,0,0
+Grand Traverse,Long Lake Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Long Lake Twp Pct 2,Straight Party,,NLP,,0,1,1
+Grand Traverse,Long Lake Twp Pct 3,Straight Party,,NLP,,0,0,0
+Grand Traverse,Mayfield Twp Pct 1,Straight Party,,NLP,,1,0,1
+Grand Traverse,Paradise Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Paradise Twp Pct 2,Straight Party,,NLP,,1,0,1
+Grand Traverse,Peninsula Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Peninsula Twp Pct 2,Straight Party,,NLP,,0,0,0
+Grand Traverse,Union Twp Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Straight Party,,NLP,,1,0,1
+Grand Traverse,Traverse City Pct 1,Straight Party,,NLP,,0,0,0
+Grand Traverse,Traverse City Pct 3,Straight Party,,NLP,,0,0,0
+Grand Traverse,Traverse City Pct 7,Straight Party,,NLP,,0,0,0
+Grand Traverse,Traverse City Pct 8,Straight Party,,NLP,,0,0,0
+Grand Traverse,Traverse City Pct 9,Straight Party,,NLP,,1,0,1
+Grand Traverse,Traverse City Pct 10,Straight Party,,NLP,,0,0,0
+Grand Traverse,Acme Twp Pct 1,Governor,,DEM,Gretchen Whitmer,336,588,924
+Grand Traverse,Acme Twp Pct 2,Governor,,DEM,Gretchen Whitmer,164,330,494
+Grand Traverse,Blair Twp Pct 1,Governor,,DEM,Gretchen Whitmer,170,141,311
+Grand Traverse,Blair Twp Pct 2,Governor,,DEM,Gretchen Whitmer,272,327,599
+Grand Traverse,Blair Twp Pct 3,Governor,,DEM,Gretchen Whitmer,186,250,436
+Grand Traverse,Blair Twp Pct 4,Governor,,DEM,Gretchen Whitmer,201,164,365
+Grand Traverse,East Bay Twp Pct 1,Governor,,DEM,Gretchen Whitmer,285,420,705
+Grand Traverse,East Bay Twp Pct 2,Governor,,DEM,Gretchen Whitmer,274,388,662
+Grand Traverse,East Bay Twp Pct 3,Governor,,DEM,Gretchen Whitmer,240,396,636
+Grand Traverse,East Bay Twp Pct 4,Governor,,DEM,Gretchen Whitmer,315,445,760
+Grand Traverse,East Bay Twp Pct 5,Governor,,DEM,Gretchen Whitmer,231,323,554
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,DEM,Gretchen Whitmer,177,134,311
+Grand Traverse,Garfield Twp Pct 1,Governor,,DEM,Gretchen Whitmer,365,442,807
+Grand Traverse,Garfield Twp Pct 2,Governor,,DEM,Gretchen Whitmer,281,653,934
+Grand Traverse,Garfield Twp Pct 3,Governor,,DEM,Gretchen Whitmer,261,331,592
+Grand Traverse,Garfield Twp Pct 4,Governor,,DEM,Gretchen Whitmer,305,442,747
+Grand Traverse,Garfield Twp Pct 5,Governor,,DEM,Gretchen Whitmer,360,724,1084
+Grand Traverse,Garfield Twp Pct 6,Governor,,DEM,Gretchen Whitmer,315,446,761
+Grand Traverse,Garfield Twp Pct 7,Governor,,DEM,Gretchen Whitmer,286,235,521
+Grand Traverse,Grant Twp Pct 1,Governor,,DEM,Gretchen Whitmer,205,0,205
+Grand Traverse,Green Lake Twp Pct 1,Governor,,DEM,Gretchen Whitmer,321,347,668
+Grand Traverse,Green Lake Twp Pct 2,Governor,,DEM,Gretchen Whitmer,269,275,544
+Grand Traverse,Green Lake Twp Pct 3,Governor,,DEM,Gretchen Whitmer,219,228,447
+Grand Traverse,Long Lake Twp Pct 1,Governor,,DEM,Gretchen Whitmer,438,559,997
+Grand Traverse,Long Lake Twp Pct 2,Governor,,DEM,Gretchen Whitmer,362,517,879
+Grand Traverse,Long Lake Twp Pct 3,Governor,,DEM,Gretchen Whitmer,390,682,1072
+Grand Traverse,Mayfield Twp Pct 1,Governor,,DEM,Gretchen Whitmer,263,0,263
+Grand Traverse,Paradise Twp Pct 1,Governor,,DEM,Gretchen Whitmer,494,0,494
+Grand Traverse,Paradise Twp Pct 2,Governor,,DEM,Gretchen Whitmer,371,0,371
+Grand Traverse,Peninsula Twp Pct 1,Governor,,DEM,Gretchen Whitmer,374,850,1224
+Grand Traverse,Peninsula Twp Pct 2,Governor,,DEM,Gretchen Whitmer,401,860,1261
+Grand Traverse,Union Twp Pct 1,Governor,,DEM,Gretchen Whitmer,100,0,100
+Grand Traverse,Whitewater Twp Pct 1,Governor,,DEM,Gretchen Whitmer,257,428,685
+Grand Traverse,Traverse City Pct 1,Governor,,DEM,Gretchen Whitmer,424,609,1033
+Grand Traverse,Traverse City Pct 3,Governor,,DEM,Gretchen Whitmer,448,642,1090
+Grand Traverse,Traverse City Pct 7,Governor,,DEM,Gretchen Whitmer,419,490,909
+Grand Traverse,Traverse City Pct 8,Governor,,DEM,Gretchen Whitmer,451,555,1006
+Grand Traverse,Traverse City Pct 9,Governor,,DEM,Gretchen Whitmer,331,606,937
+Grand Traverse,Traverse City Pct 10,Governor,,DEM,Gretchen Whitmer,403,605,1008
+Grand Traverse,Acme Twp Pct 1,Governor,,REP,Tudor M. Dixon,470,345,815
+Grand Traverse,Acme Twp Pct 2,Governor,,REP,Tudor M. Dixon,291,250,541
+Grand Traverse,Blair Twp Pct 1,Governor,,REP,Tudor M. Dixon,279,113,392
+Grand Traverse,Blair Twp Pct 2,Governor,,REP,Tudor M. Dixon,545,274,819
+Grand Traverse,Blair Twp Pct 3,Governor,,REP,Tudor M. Dixon,295,147,442
+Grand Traverse,Blair Twp Pct 4,Governor,,REP,Tudor M. Dixon,331,101,432
+Grand Traverse,East Bay Twp Pct 1,Governor,,REP,Tudor M. Dixon,361,278,639
+Grand Traverse,East Bay Twp Pct 2,Governor,,REP,Tudor M. Dixon,414,299,713
+Grand Traverse,East Bay Twp Pct 3,Governor,,REP,Tudor M. Dixon,358,275,633
+Grand Traverse,East Bay Twp Pct 4,Governor,,REP,Tudor M. Dixon,422,281,703
+Grand Traverse,East Bay Twp Pct 5,Governor,,REP,Tudor M. Dixon,390,255,645
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,REP,Tudor M. Dixon,437,117,554
+Grand Traverse,Garfield Twp Pct 1,Governor,,REP,Tudor M. Dixon,485,272,757
+Grand Traverse,Garfield Twp Pct 2,Governor,,REP,Tudor M. Dixon,387,389,776
+Grand Traverse,Garfield Twp Pct 3,Governor,,REP,Tudor M. Dixon,261,138,399
+Grand Traverse,Garfield Twp Pct 4,Governor,,REP,Tudor M. Dixon,266,208,474
+Grand Traverse,Garfield Twp Pct 5,Governor,,REP,Tudor M. Dixon,534,331,865
+Grand Traverse,Garfield Twp Pct 6,Governor,,REP,Tudor M. Dixon,359,232,591
+Grand Traverse,Garfield Twp Pct 7,Governor,,REP,Tudor M. Dixon,266,75,341
+Grand Traverse,Grant Twp Pct 1,Governor,,REP,Tudor M. Dixon,457,0,457
+Grand Traverse,Green Lake Twp Pct 1,Governor,,REP,Tudor M. Dixon,503,238,741
+Grand Traverse,Green Lake Twp Pct 2,Governor,,REP,Tudor M. Dixon,439,157,596
+Grand Traverse,Green Lake Twp Pct 3,Governor,,REP,Tudor M. Dixon,304,124,428
+Grand Traverse,Long Lake Twp Pct 1,Governor,,REP,Tudor M. Dixon,528,269,797
+Grand Traverse,Long Lake Twp Pct 2,Governor,,REP,Tudor M. Dixon,595,338,933
+Grand Traverse,Long Lake Twp Pct 3,Governor,,REP,Tudor M. Dixon,714,456,1170
+Grand Traverse,Mayfield Twp Pct 1,Governor,,REP,Tudor M. Dixon,554,0,554
+Grand Traverse,Paradise Twp Pct 1,Governor,,REP,Tudor M. Dixon,789,0,789
+Grand Traverse,Paradise Twp Pct 2,Governor,,REP,Tudor M. Dixon,600,0,600
+Grand Traverse,Peninsula Twp Pct 1,Governor,,REP,Tudor M. Dixon,449,527,976
+Grand Traverse,Peninsula Twp Pct 2,Governor,,REP,Tudor M. Dixon,385,486,871
+Grand Traverse,Union Twp Pct 1,Governor,,REP,Tudor M. Dixon,167,0,167
+Grand Traverse,Whitewater Twp Pct 1,Governor,,REP,Tudor M. Dixon,579,390,969
+Grand Traverse,Traverse City Pct 1,Governor,,REP,Tudor M. Dixon,255,199,454
+Grand Traverse,Traverse City Pct 3,Governor,,REP,Tudor M. Dixon,200,147,347
+Grand Traverse,Traverse City Pct 7,Governor,,REP,Tudor M. Dixon,241,129,370
+Grand Traverse,Traverse City Pct 8,Governor,,REP,Tudor M. Dixon,208,126,334
+Grand Traverse,Traverse City Pct 9,Governor,,REP,Tudor M. Dixon,249,202,451
+Grand Traverse,Traverse City Pct 10,Governor,,REP,Tudor M. Dixon,284,186,470
+Grand Traverse,Acme Twp Pct 1,Governor,,LIB,Mary Buzuma,16,2,18
+Grand Traverse,Acme Twp Pct 2,Governor,,LIB,Mary Buzuma,7,3,10
+Grand Traverse,Blair Twp Pct 1,Governor,,LIB,Mary Buzuma,10,2,12
+Grand Traverse,Blair Twp Pct 2,Governor,,LIB,Mary Buzuma,8,5,13
+Grand Traverse,Blair Twp Pct 3,Governor,,LIB,Mary Buzuma,7,3,10
+Grand Traverse,Blair Twp Pct 4,Governor,,LIB,Mary Buzuma,11,3,14
+Grand Traverse,East Bay Twp Pct 1,Governor,,LIB,Mary Buzuma,7,7,14
+Grand Traverse,East Bay Twp Pct 2,Governor,,LIB,Mary Buzuma,13,5,18
+Grand Traverse,East Bay Twp Pct 3,Governor,,LIB,Mary Buzuma,5,4,9
+Grand Traverse,East Bay Twp Pct 4,Governor,,LIB,Mary Buzuma,7,17,24
+Grand Traverse,East Bay Twp Pct 5,Governor,,LIB,Mary Buzuma,10,5,15
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,LIB,Mary Buzuma,6,4,10
+Grand Traverse,Garfield Twp Pct 1,Governor,,LIB,Mary Buzuma,8,2,10
+Grand Traverse,Garfield Twp Pct 2,Governor,,LIB,Mary Buzuma,12,8,20
+Grand Traverse,Garfield Twp Pct 3,Governor,,LIB,Mary Buzuma,8,4,12
+Grand Traverse,Garfield Twp Pct 4,Governor,,LIB,Mary Buzuma,17,5,22
+Grand Traverse,Garfield Twp Pct 5,Governor,,LIB,Mary Buzuma,6,6,12
+Grand Traverse,Garfield Twp Pct 6,Governor,,LIB,Mary Buzuma,9,2,11
+Grand Traverse,Garfield Twp Pct 7,Governor,,LIB,Mary Buzuma,5,2,7
+Grand Traverse,Grant Twp Pct 1,Governor,,LIB,Mary Buzuma,2,0,2
+Grand Traverse,Green Lake Twp Pct 1,Governor,,LIB,Mary Buzuma,11,6,17
+Grand Traverse,Green Lake Twp Pct 2,Governor,,LIB,Mary Buzuma,12,3,15
+Grand Traverse,Green Lake Twp Pct 3,Governor,,LIB,Mary Buzuma,4,3,7
+Grand Traverse,Long Lake Twp Pct 1,Governor,,LIB,Mary Buzuma,11,5,16
+Grand Traverse,Long Lake Twp Pct 2,Governor,,LIB,Mary Buzuma,13,7,20
+Grand Traverse,Long Lake Twp Pct 3,Governor,,LIB,Mary Buzuma,9,8,17
+Grand Traverse,Mayfield Twp Pct 1,Governor,,LIB,Mary Buzuma,14,0,14
+Grand Traverse,Paradise Twp Pct 1,Governor,,LIB,Mary Buzuma,27,0,27
+Grand Traverse,Paradise Twp Pct 2,Governor,,LIB,Mary Buzuma,14,0,14
+Grand Traverse,Peninsula Twp Pct 1,Governor,,LIB,Mary Buzuma,13,6,19
+Grand Traverse,Peninsula Twp Pct 2,Governor,,LIB,Mary Buzuma,9,7,16
+Grand Traverse,Union Twp Pct 1,Governor,,LIB,Mary Buzuma,2,0,2
+Grand Traverse,Whitewater Twp Pct 1,Governor,,LIB,Mary Buzuma,7,2,9
+Grand Traverse,Traverse City Pct 1,Governor,,LIB,Mary Buzuma,6,5,11
+Grand Traverse,Traverse City Pct 3,Governor,,LIB,Mary Buzuma,6,5,11
+Grand Traverse,Traverse City Pct 7,Governor,,LIB,Mary Buzuma,22,3,25
+Grand Traverse,Traverse City Pct 8,Governor,,LIB,Mary Buzuma,14,6,20
+Grand Traverse,Traverse City Pct 9,Governor,,LIB,Mary Buzuma,7,3,10
+Grand Traverse,Traverse City Pct 10,Governor,,LIB,Mary Buzuma,13,5,18
+Grand Traverse,Acme Twp Pct 1,Governor,,UST,Donna Brandenburg,0,2,2
+Grand Traverse,Acme Twp Pct 2,Governor,,UST,Donna Brandenburg,2,3,5
+Grand Traverse,Blair Twp Pct 1,Governor,,UST,Donna Brandenburg,2,2,4
+Grand Traverse,Blair Twp Pct 2,Governor,,UST,Donna Brandenburg,3,2,5
+Grand Traverse,Blair Twp Pct 3,Governor,,UST,Donna Brandenburg,2,1,3
+Grand Traverse,Blair Twp Pct 4,Governor,,UST,Donna Brandenburg,3,3,6
+Grand Traverse,East Bay Twp Pct 1,Governor,,UST,Donna Brandenburg,4,0,4
+Grand Traverse,East Bay Twp Pct 2,Governor,,UST,Donna Brandenburg,5,3,8
+Grand Traverse,East Bay Twp Pct 3,Governor,,UST,Donna Brandenburg,0,1,1
+Grand Traverse,East Bay Twp Pct 4,Governor,,UST,Donna Brandenburg,1,1,2
+Grand Traverse,East Bay Twp Pct 5,Governor,,UST,Donna Brandenburg,1,4,5
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,UST,Donna Brandenburg,4,0,4
+Grand Traverse,Garfield Twp Pct 1,Governor,,UST,Donna Brandenburg,6,0,6
+Grand Traverse,Garfield Twp Pct 2,Governor,,UST,Donna Brandenburg,3,3,6
+Grand Traverse,Garfield Twp Pct 3,Governor,,UST,Donna Brandenburg,3,0,3
+Grand Traverse,Garfield Twp Pct 4,Governor,,UST,Donna Brandenburg,2,2,4
+Grand Traverse,Garfield Twp Pct 5,Governor,,UST,Donna Brandenburg,1,1,2
+Grand Traverse,Garfield Twp Pct 6,Governor,,UST,Donna Brandenburg,1,4,5
+Grand Traverse,Garfield Twp Pct 7,Governor,,UST,Donna Brandenburg,1,0,1
+Grand Traverse,Grant Twp Pct 1,Governor,,UST,Donna Brandenburg,7,0,7
+Grand Traverse,Green Lake Twp Pct 1,Governor,,UST,Donna Brandenburg,5,2,7
+Grand Traverse,Green Lake Twp Pct 2,Governor,,UST,Donna Brandenburg,4,0,4
+Grand Traverse,Green Lake Twp Pct 3,Governor,,UST,Donna Brandenburg,4,0,4
+Grand Traverse,Long Lake Twp Pct 1,Governor,,UST,Donna Brandenburg,2,4,6
+Grand Traverse,Long Lake Twp Pct 2,Governor,,UST,Donna Brandenburg,1,3,4
+Grand Traverse,Long Lake Twp Pct 3,Governor,,UST,Donna Brandenburg,2,1,3
+Grand Traverse,Mayfield Twp Pct 1,Governor,,UST,Donna Brandenburg,6,0,6
+Grand Traverse,Paradise Twp Pct 1,Governor,,UST,Donna Brandenburg,8,0,8
+Grand Traverse,Paradise Twp Pct 2,Governor,,UST,Donna Brandenburg,7,0,7
+Grand Traverse,Peninsula Twp Pct 1,Governor,,UST,Donna Brandenburg,2,6,8
+Grand Traverse,Peninsula Twp Pct 2,Governor,,UST,Donna Brandenburg,1,1,2
+Grand Traverse,Union Twp Pct 1,Governor,,UST,Donna Brandenburg,1,0,1
+Grand Traverse,Whitewater Twp Pct 1,Governor,,UST,Donna Brandenburg,2,1,3
+Grand Traverse,Traverse City Pct 1,Governor,,UST,Donna Brandenburg,1,0,1
+Grand Traverse,Traverse City Pct 3,Governor,,UST,Donna Brandenburg,1,1,2
+Grand Traverse,Traverse City Pct 7,Governor,,UST,Donna Brandenburg,0,0,0
+Grand Traverse,Traverse City Pct 8,Governor,,UST,Donna Brandenburg,0,0,0
+Grand Traverse,Traverse City Pct 9,Governor,,UST,Donna Brandenburg,0,0,0
+Grand Traverse,Traverse City Pct 10,Governor,,UST,Donna Brandenburg,1,4,5
+Grand Traverse,Acme Twp Pct 1,Governor,,GRN,Kevin Hogan,7,2,9
+Grand Traverse,Acme Twp Pct 2,Governor,,GRN,Kevin Hogan,0,2,2
+Grand Traverse,Blair Twp Pct 1,Governor,,GRN,Kevin Hogan,3,2,5
+Grand Traverse,Blair Twp Pct 2,Governor,,GRN,Kevin Hogan,5,2,7
+Grand Traverse,Blair Twp Pct 3,Governor,,GRN,Kevin Hogan,2,1,3
+Grand Traverse,Blair Twp Pct 4,Governor,,GRN,Kevin Hogan,2,0,2
+Grand Traverse,East Bay Twp Pct 1,Governor,,GRN,Kevin Hogan,0,3,3
+Grand Traverse,East Bay Twp Pct 2,Governor,,GRN,Kevin Hogan,2,1,3
+Grand Traverse,East Bay Twp Pct 3,Governor,,GRN,Kevin Hogan,3,2,5
+Grand Traverse,East Bay Twp Pct 4,Governor,,GRN,Kevin Hogan,2,0,2
+Grand Traverse,East Bay Twp Pct 5,Governor,,GRN,Kevin Hogan,4,4,8
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,GRN,Kevin Hogan,1,1,2
+Grand Traverse,Garfield Twp Pct 1,Governor,,GRN,Kevin Hogan,3,2,5
+Grand Traverse,Garfield Twp Pct 2,Governor,,GRN,Kevin Hogan,2,2,4
+Grand Traverse,Garfield Twp Pct 3,Governor,,GRN,Kevin Hogan,4,1,5
+Grand Traverse,Garfield Twp Pct 4,Governor,,GRN,Kevin Hogan,2,2,4
+Grand Traverse,Garfield Twp Pct 5,Governor,,GRN,Kevin Hogan,1,3,4
+Grand Traverse,Garfield Twp Pct 6,Governor,,GRN,Kevin Hogan,1,1,2
+Grand Traverse,Garfield Twp Pct 7,Governor,,GRN,Kevin Hogan,5,1,6
+Grand Traverse,Grant Twp Pct 1,Governor,,GRN,Kevin Hogan,1,0,1
+Grand Traverse,Green Lake Twp Pct 1,Governor,,GRN,Kevin Hogan,1,3,4
+Grand Traverse,Green Lake Twp Pct 2,Governor,,GRN,Kevin Hogan,4,4,8
+Grand Traverse,Green Lake Twp Pct 3,Governor,,GRN,Kevin Hogan,1,0,1
+Grand Traverse,Long Lake Twp Pct 1,Governor,,GRN,Kevin Hogan,5,0,5
+Grand Traverse,Long Lake Twp Pct 2,Governor,,GRN,Kevin Hogan,2,1,3
+Grand Traverse,Long Lake Twp Pct 3,Governor,,GRN,Kevin Hogan,1,0,1
+Grand Traverse,Mayfield Twp Pct 1,Governor,,GRN,Kevin Hogan,1,0,1
+Grand Traverse,Paradise Twp Pct 1,Governor,,GRN,Kevin Hogan,8,0,8
+Grand Traverse,Paradise Twp Pct 2,Governor,,GRN,Kevin Hogan,3,0,3
+Grand Traverse,Peninsula Twp Pct 1,Governor,,GRN,Kevin Hogan,0,2,2
+Grand Traverse,Peninsula Twp Pct 2,Governor,,GRN,Kevin Hogan,1,4,5
+Grand Traverse,Union Twp Pct 1,Governor,,GRN,Kevin Hogan,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Governor,,GRN,Kevin Hogan,3,1,4
+Grand Traverse,Traverse City Pct 1,Governor,,GRN,Kevin Hogan,3,1,4
+Grand Traverse,Traverse City Pct 3,Governor,,GRN,Kevin Hogan,0,0,0
+Grand Traverse,Traverse City Pct 7,Governor,,GRN,Kevin Hogan,1,1,2
+Grand Traverse,Traverse City Pct 8,Governor,,GRN,Kevin Hogan,4,2,6
+Grand Traverse,Traverse City Pct 9,Governor,,GRN,Kevin Hogan,2,2,4
+Grand Traverse,Traverse City Pct 10,Governor,,GRN,Kevin Hogan,4,1,5
+Grand Traverse,Acme Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Acme Twp Pct 2,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Blair Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Blair Twp Pct 2,Governor,,NLP,Daryl M. Simpson,1,1,2
+Grand Traverse,Blair Twp Pct 3,Governor,,NLP,Daryl M. Simpson,0,1,1
+Grand Traverse,Blair Twp Pct 4,Governor,,NLP,Daryl M. Simpson,0,1,1
+Grand Traverse,East Bay Twp Pct 1,Governor,,NLP,Daryl M. Simpson,2,0,2
+Grand Traverse,East Bay Twp Pct 2,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,East Bay Twp Pct 3,Governor,,NLP,Daryl M. Simpson,3,0,3
+Grand Traverse,East Bay Twp Pct 4,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,East Bay Twp Pct 5,Governor,,NLP,Daryl M. Simpson,1,1,2
+Grand Traverse,Fife Lake Twp Pct 1,Governor,,NLP,Daryl M. Simpson,1,2,3
+Grand Traverse,Garfield Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,1,1
+Grand Traverse,Garfield Twp Pct 2,Governor,,NLP,Daryl M. Simpson,3,0,3
+Grand Traverse,Garfield Twp Pct 3,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Garfield Twp Pct 4,Governor,,NLP,Daryl M. Simpson,0,2,2
+Grand Traverse,Garfield Twp Pct 5,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Garfield Twp Pct 6,Governor,,NLP,Daryl M. Simpson,0,1,1
+Grand Traverse,Garfield Twp Pct 7,Governor,,NLP,Daryl M. Simpson,2,0,2
+Grand Traverse,Grant Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Green Lake Twp Pct 1,Governor,,NLP,Daryl M. Simpson,1,2,3
+Grand Traverse,Green Lake Twp Pct 2,Governor,,NLP,Daryl M. Simpson,1,0,1
+Grand Traverse,Green Lake Twp Pct 3,Governor,,NLP,Daryl M. Simpson,1,0,1
+Grand Traverse,Long Lake Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Long Lake Twp Pct 2,Governor,,NLP,Daryl M. Simpson,1,1,2
+Grand Traverse,Long Lake Twp Pct 3,Governor,,NLP,Daryl M. Simpson,1,1,2
+Grand Traverse,Mayfield Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Paradise Twp Pct 1,Governor,,NLP,Daryl M. Simpson,4,0,4
+Grand Traverse,Paradise Twp Pct 2,Governor,,NLP,Daryl M. Simpson,1,0,1
+Grand Traverse,Peninsula Twp Pct 1,Governor,,NLP,Daryl M. Simpson,3,1,4
+Grand Traverse,Peninsula Twp Pct 2,Governor,,NLP,Daryl M. Simpson,0,1,1
+Grand Traverse,Union Twp Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Governor,,NLP,Daryl M. Simpson,1,2,3
+Grand Traverse,Traverse City Pct 1,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Traverse City Pct 3,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Traverse City Pct 7,Governor,,NLP,Daryl M. Simpson,0,2,2
+Grand Traverse,Traverse City Pct 8,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Traverse City Pct 9,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Traverse City Pct 10,Governor,,NLP,Daryl M. Simpson,0,0,0
+Grand Traverse,Acme Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,335,578,913
+Grand Traverse,Acme Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,166,331,497
+Grand Traverse,Blair Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,159,146,305
+Grand Traverse,Blair Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,275,322,597
+Grand Traverse,Blair Twp Pct 3,Secretary of State,,DEM,Jocelyn Benson,184,250,434
+Grand Traverse,Blair Twp Pct 4,Secretary of State,,DEM,Jocelyn Benson,200,166,366
+Grand Traverse,East Bay Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,283,419,702
+Grand Traverse,East Bay Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,268,386,654
+Grand Traverse,East Bay Twp Pct 3,Secretary of State,,DEM,Jocelyn Benson,234,402,636
+Grand Traverse,East Bay Twp Pct 4,Secretary of State,,DEM,Jocelyn Benson,319,454,773
+Grand Traverse,East Bay Twp Pct 5,Secretary of State,,DEM,Jocelyn Benson,242,323,565
+Grand Traverse,Fife Lake Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,178,129,307
+Grand Traverse,Garfield Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,360,442,802
+Grand Traverse,Garfield Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,284,649,933
+Grand Traverse,Garfield Twp Pct 3,Secretary of State,,DEM,Jocelyn Benson,261,329,590
+Grand Traverse,Garfield Twp Pct 4,Secretary of State,,DEM,Jocelyn Benson,292,444,736
+Grand Traverse,Garfield Twp Pct 5,Secretary of State,,DEM,Jocelyn Benson,370,717,1087
+Grand Traverse,Garfield Twp Pct 6,Secretary of State,,DEM,Jocelyn Benson,296,441,737
+Grand Traverse,Garfield Twp Pct 7,Secretary of State,,DEM,Jocelyn Benson,272,232,504
+Grand Traverse,Grant Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,203,0,203
+Grand Traverse,Green Lake Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,319,348,667
+Grand Traverse,Green Lake Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,256,274,530
+Grand Traverse,Green Lake Twp Pct 3,Secretary of State,,DEM,Jocelyn Benson,206,224,430
+Grand Traverse,Long Lake Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,437,551,988
+Grand Traverse,Long Lake Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,381,520,901
+Grand Traverse,Long Lake Twp Pct 3,Secretary of State,,DEM,Jocelyn Benson,399,682,1081
+Grand Traverse,Mayfield Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,273,0,273
+Grand Traverse,Paradise Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,500,0,500
+Grand Traverse,Paradise Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,368,0,368
+Grand Traverse,Peninsula Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,367,840,1207
+Grand Traverse,Peninsula Twp Pct 2,Secretary of State,,DEM,Jocelyn Benson,409,859,1268
+Grand Traverse,Union Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,96,0,96
+Grand Traverse,Whitewater Twp Pct 1,Secretary of State,,DEM,Jocelyn Benson,254,432,686
+Grand Traverse,Traverse City Pct 1,Secretary of State,,DEM,Jocelyn Benson,412,600,1012
+Grand Traverse,Traverse City Pct 3,Secretary of State,,DEM,Jocelyn Benson,442,638,1080
+Grand Traverse,Traverse City Pct 7,Secretary of State,,DEM,Jocelyn Benson,413,482,895
+Grand Traverse,Traverse City Pct 8,Secretary of State,,DEM,Jocelyn Benson,442,545,987
+Grand Traverse,Traverse City Pct 9,Secretary of State,,DEM,Jocelyn Benson,335,590,925
+Grand Traverse,Traverse City Pct 10,Secretary of State,,DEM,Jocelyn Benson,401,600,1001
+Grand Traverse,Acme Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,457,350,807
+Grand Traverse,Acme Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,284,242,526
+Grand Traverse,Blair Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,275,107,382
+Grand Traverse,Blair Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,531,271,802
+Grand Traverse,Blair Twp Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,289,145,434
+Grand Traverse,Blair Twp Pct 4,Secretary of State,,REP,Kristina Elaine Karamo,329,103,432
+Grand Traverse,East Bay Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,349,281,630
+Grand Traverse,East Bay Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,406,297,703
+Grand Traverse,East Bay Twp Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,358,264,622
+Grand Traverse,East Bay Twp Pct 4,Secretary of State,,REP,Kristina Elaine Karamo,403,271,674
+Grand Traverse,East Bay Twp Pct 5,Secretary of State,,REP,Kristina Elaine Karamo,381,259,640
+Grand Traverse,Fife Lake Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,430,120,550
+Grand Traverse,Garfield Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,477,275,752
+Grand Traverse,Garfield Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,378,400,778
+Grand Traverse,Garfield Twp Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,247,137,384
+Grand Traverse,Garfield Twp Pct 4,Secretary of State,,REP,Kristina Elaine Karamo,273,204,477
+Grand Traverse,Garfield Twp Pct 5,Secretary of State,,REP,Kristina Elaine Karamo,511,337,848
+Grand Traverse,Garfield Twp Pct 6,Secretary of State,,REP,Kristina Elaine Karamo,358,233,591
+Grand Traverse,Garfield Twp Pct 7,Secretary of State,,REP,Kristina Elaine Karamo,267,72,339
+Grand Traverse,Grant Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,450,0,450
+Grand Traverse,Green Lake Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,488,242,730
+Grand Traverse,Green Lake Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,439,161,600
+Grand Traverse,Green Lake Twp Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,301,125,426
+Grand Traverse,Long Lake Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,516,274,790
+Grand Traverse,Long Lake Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,567,334,901
+Grand Traverse,Long Lake Twp Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,682,454,1136
+Grand Traverse,Mayfield Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,541,0,541
+Grand Traverse,Paradise Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,761,0,761
+Grand Traverse,Paradise Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,594,0,594
+Grand Traverse,Peninsula Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,444,526,970
+Grand Traverse,Peninsula Twp Pct 2,Secretary of State,,REP,Kristina Elaine Karamo,362,491,853
+Grand Traverse,Union Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,167,0,167
+Grand Traverse,Whitewater Twp Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,558,381,939
+Grand Traverse,Traverse City Pct 1,Secretary of State,,REP,Kristina Elaine Karamo,255,201,456
+Grand Traverse,Traverse City Pct 3,Secretary of State,,REP,Kristina Elaine Karamo,195,151,346
+Grand Traverse,Traverse City Pct 7,Secretary of State,,REP,Kristina Elaine Karamo,236,134,370
+Grand Traverse,Traverse City Pct 8,Secretary of State,,REP,Kristina Elaine Karamo,212,130,342
+Grand Traverse,Traverse City Pct 9,Secretary of State,,REP,Kristina Elaine Karamo,241,209,450
+Grand Traverse,Traverse City Pct 10,Secretary of State,,REP,Kristina Elaine Karamo,274,188,462
+Grand Traverse,Acme Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,20,6,26
+Grand Traverse,Acme Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,7,7,14
+Grand Traverse,Blair Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,14,3,17
+Grand Traverse,Blair Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,9,8,17
+Grand Traverse,Blair Twp Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,6,5,11
+Grand Traverse,Blair Twp Pct 4,Secretary of State,,LIB,Gregory Scott Stempfle,9,2,11
+Grand Traverse,East Bay Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,12,5,17
+Grand Traverse,East Bay Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,14,7,21
+Grand Traverse,East Bay Twp Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,9,3,12
+Grand Traverse,East Bay Twp Pct 4,Secretary of State,,LIB,Gregory Scott Stempfle,14,14,28
+Grand Traverse,East Bay Twp Pct 5,Secretary of State,,LIB,Gregory Scott Stempfle,9,7,16
+Grand Traverse,Fife Lake Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,17,5,22
+Grand Traverse,Garfield Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,13,4,17
+Grand Traverse,Garfield Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,13,5,18
+Grand Traverse,Garfield Twp Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,8,5,13
+Grand Traverse,Garfield Twp Pct 4,Secretary of State,,LIB,Gregory Scott Stempfle,18,8,26
+Grand Traverse,Garfield Twp Pct 5,Secretary of State,,LIB,Gregory Scott Stempfle,9,6,15
+Grand Traverse,Garfield Twp Pct 6,Secretary of State,,LIB,Gregory Scott Stempfle,11,1,12
+Grand Traverse,Garfield Twp Pct 7,Secretary of State,,LIB,Gregory Scott Stempfle,10,2,12
+Grand Traverse,Grant Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,3,0,3
+Grand Traverse,Green Lake Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,21,8,29
+Grand Traverse,Green Lake Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,10,0,10
+Grand Traverse,Green Lake Twp Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,10,2,12
+Grand Traverse,Long Lake Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,15,2,17
+Grand Traverse,Long Lake Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,15,7,22
+Grand Traverse,Long Lake Twp Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,13,8,21
+Grand Traverse,Mayfield Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,15,0,15
+Grand Traverse,Paradise Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,37,0,37
+Grand Traverse,Paradise Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,10,0,10
+Grand Traverse,Peninsula Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,11,11,22
+Grand Traverse,Peninsula Twp Pct 2,Secretary of State,,LIB,Gregory Scott Stempfle,16,4,20
+Grand Traverse,Union Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,3,0,3
+Grand Traverse,Whitewater Twp Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,19,5,24
+Grand Traverse,Traverse City Pct 1,Secretary of State,,LIB,Gregory Scott Stempfle,11,10,21
+Grand Traverse,Traverse City Pct 3,Secretary of State,,LIB,Gregory Scott Stempfle,11,4,15
+Grand Traverse,Traverse City Pct 7,Secretary of State,,LIB,Gregory Scott Stempfle,24,4,28
+Grand Traverse,Traverse City Pct 8,Secretary of State,,LIB,Gregory Scott Stempfle,8,6,14
+Grand Traverse,Traverse City Pct 9,Secretary of State,,LIB,Gregory Scott Stempfle,7,6,13
+Grand Traverse,Traverse City Pct 10,Secretary of State,,LIB,Gregory Scott Stempfle,17,6,23
+Grand Traverse,Acme Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,1,0,1
+Grand Traverse,Acme Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,2,0,2
+Grand Traverse,Blair Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,2,4,6
+Grand Traverse,Blair Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,5,1,6
+Grand Traverse,Blair Twp Pct 3,Secretary of State,,UST,Christine C. Schwartz,2,1,3
+Grand Traverse,Blair Twp Pct 4,Secretary of State,,UST,Christine C. Schwartz,5,0,5
+Grand Traverse,East Bay Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,2,2,4
+Grand Traverse,East Bay Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,5,3,8
+Grand Traverse,East Bay Twp Pct 3,Secretary of State,,UST,Christine C. Schwartz,1,3,4
+Grand Traverse,East Bay Twp Pct 4,Secretary of State,,UST,Christine C. Schwartz,1,0,1
+Grand Traverse,East Bay Twp Pct 5,Secretary of State,,UST,Christine C. Schwartz,1,1,2
+Grand Traverse,Fife Lake Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,0,2,2
+Grand Traverse,Garfield Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,3,3,6
+Grand Traverse,Garfield Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,5,1,6
+Grand Traverse,Garfield Twp Pct 3,Secretary of State,,UST,Christine C. Schwartz,6,1,7
+Grand Traverse,Garfield Twp Pct 4,Secretary of State,,UST,Christine C. Schwartz,6,2,8
+Grand Traverse,Garfield Twp Pct 5,Secretary of State,,UST,Christine C. Schwartz,3,0,3
+Grand Traverse,Garfield Twp Pct 6,Secretary of State,,UST,Christine C. Schwartz,6,3,9
+Grand Traverse,Garfield Twp Pct 7,Secretary of State,,UST,Christine C. Schwartz,3,2,5
+Grand Traverse,Grant Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,7,0,7
+Grand Traverse,Green Lake Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,1,2,3
+Grand Traverse,Green Lake Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,14,0,14
+Grand Traverse,Green Lake Twp Pct 3,Secretary of State,,UST,Christine C. Schwartz,5,1,6
+Grand Traverse,Long Lake Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,2,6,8
+Grand Traverse,Long Lake Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,3,1,4
+Grand Traverse,Long Lake Twp Pct 3,Secretary of State,,UST,Christine C. Schwartz,6,2,8
+Grand Traverse,Mayfield Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,4,0,4
+Grand Traverse,Paradise Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,8,0,8
+Grand Traverse,Paradise Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,8,0,8
+Grand Traverse,Peninsula Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,1,4,5
+Grand Traverse,Peninsula Twp Pct 2,Secretary of State,,UST,Christine C. Schwartz,3,3,6
+Grand Traverse,Union Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,4,0,4
+Grand Traverse,Whitewater Twp Pct 1,Secretary of State,,UST,Christine C. Schwartz,2,1,3
+Grand Traverse,Traverse City Pct 1,Secretary of State,,UST,Christine C. Schwartz,3,1,4
+Grand Traverse,Traverse City Pct 3,Secretary of State,,UST,Christine C. Schwartz,0,1,1
+Grand Traverse,Traverse City Pct 7,Secretary of State,,UST,Christine C. Schwartz,2,1,3
+Grand Traverse,Traverse City Pct 8,Secretary of State,,UST,Christine C. Schwartz,0,3,3
+Grand Traverse,Traverse City Pct 9,Secretary of State,,UST,Christine C. Schwartz,2,0,2
+Grand Traverse,Traverse City Pct 10,Secretary of State,,UST,Christine C. Schwartz,3,3,6
+Grand Traverse,Acme Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,2,7
+Grand Traverse,Acme Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,5,7
+Grand Traverse,Blair Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,1,4
+Grand Traverse,Blair Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,5
+Grand Traverse,Blair Twp Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,1,7
+Grand Traverse,Blair Twp Pct 4,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Grand Traverse,East Bay Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,2,6
+Grand Traverse,East Bay Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,3,5
+Grand Traverse,East Bay Twp Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,3,8
+Grand Traverse,East Bay Twp Pct 4,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,3,4
+Grand Traverse,East Bay Twp Pct 5,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,3,5
+Grand Traverse,Fife Lake Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,3
+Grand Traverse,Garfield Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,3
+Grand Traverse,Garfield Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,5
+Grand Traverse,Garfield Twp Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,0,1
+Grand Traverse,Garfield Twp Pct 4,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,4
+Grand Traverse,Garfield Twp Pct 5,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,6
+Grand Traverse,Garfield Twp Pct 6,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,6
+Grand Traverse,Garfield Twp Pct 7,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,3,7
+Grand Traverse,Grant Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,0,2
+Grand Traverse,Green Lake Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,0,4
+Grand Traverse,Green Lake Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,2,5
+Grand Traverse,Green Lake Twp Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,0,2
+Grand Traverse,Long Lake Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,3,5
+Grand Traverse,Long Lake Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,3
+Grand Traverse,Long Lake Twp Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,1,5
+Grand Traverse,Mayfield Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Grand Traverse,Paradise Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",10,0,10
+Grand Traverse,Paradise Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,0,6
+Grand Traverse,Peninsula Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,0,2
+Grand Traverse,Peninsula Twp Pct 2,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Grand Traverse,Union Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Grand Traverse,Whitewater Twp Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,1,6
+Grand Traverse,Traverse City Pct 1,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,4,8
+Grand Traverse,Traverse City Pct 3,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,0,1
+Grand Traverse,Traverse City Pct 7,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,4
+Grand Traverse,Traverse City Pct 8,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,1,7
+Grand Traverse,Traverse City Pct 9,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,3
+Grand Traverse,Traverse City Pct 10,Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,1,3
+Grand Traverse,Acme Twp Pct 1,Attorney General,,DEM,Dana Nessel,319,565,884
+Grand Traverse,Acme Twp Pct 2,Attorney General,,DEM,Dana Nessel,155,318,473
+Grand Traverse,Blair Twp Pct 1,Attorney General,,DEM,Dana Nessel,151,135,286
+Grand Traverse,Blair Twp Pct 2,Attorney General,,DEM,Dana Nessel,259,310,569
+Grand Traverse,Blair Twp Pct 3,Attorney General,,DEM,Dana Nessel,173,234,407
+Grand Traverse,Blair Twp Pct 4,Attorney General,,DEM,Dana Nessel,187,153,340
+Grand Traverse,East Bay Twp Pct 1,Attorney General,,DEM,Dana Nessel,274,404,678
+Grand Traverse,East Bay Twp Pct 2,Attorney General,,DEM,Dana Nessel,259,375,634
+Grand Traverse,East Bay Twp Pct 3,Attorney General,,DEM,Dana Nessel,227,387,614
+Grand Traverse,East Bay Twp Pct 4,Attorney General,,DEM,Dana Nessel,305,440,745
+Grand Traverse,East Bay Twp Pct 5,Attorney General,,DEM,Dana Nessel,227,303,530
+Grand Traverse,Fife Lake Twp Pct 1,Attorney General,,DEM,Dana Nessel,172,127,299
+Grand Traverse,Garfield Twp Pct 1,Attorney General,,DEM,Dana Nessel,350,432,782
+Grand Traverse,Garfield Twp Pct 2,Attorney General,,DEM,Dana Nessel,269,637,906
+Grand Traverse,Garfield Twp Pct 3,Attorney General,,DEM,Dana Nessel,246,317,563
+Grand Traverse,Garfield Twp Pct 4,Attorney General,,DEM,Dana Nessel,296,428,724
+Grand Traverse,Garfield Twp Pct 5,Attorney General,,DEM,Dana Nessel,358,690,1048
+Grand Traverse,Garfield Twp Pct 6,Attorney General,,DEM,Dana Nessel,300,424,724
+Grand Traverse,Garfield Twp Pct 7,Attorney General,,DEM,Dana Nessel,262,226,488
+Grand Traverse,Grant Twp Pct 1,Attorney General,,DEM,Dana Nessel,195,0,195
+Grand Traverse,Green Lake Twp Pct 1,Attorney General,,DEM,Dana Nessel,306,334,640
+Grand Traverse,Green Lake Twp Pct 2,Attorney General,,DEM,Dana Nessel,250,270,520
+Grand Traverse,Green Lake Twp Pct 3,Attorney General,,DEM,Dana Nessel,196,221,417
+Grand Traverse,Long Lake Twp Pct 1,Attorney General,,DEM,Dana Nessel,426,534,960
+Grand Traverse,Long Lake Twp Pct 2,Attorney General,,DEM,Dana Nessel,356,501,857
+Grand Traverse,Long Lake Twp Pct 3,Attorney General,,DEM,Dana Nessel,375,657,1032
+Grand Traverse,Mayfield Twp Pct 1,Attorney General,,DEM,Dana Nessel,255,0,255
+Grand Traverse,Paradise Twp Pct 1,Attorney General,,DEM,Dana Nessel,460,0,460
+Grand Traverse,Paradise Twp Pct 2,Attorney General,,DEM,Dana Nessel,352,0,352
+Grand Traverse,Peninsula Twp Pct 1,Attorney General,,DEM,Dana Nessel,350,813,1163
+Grand Traverse,Peninsula Twp Pct 2,Attorney General,,DEM,Dana Nessel,390,836,1226
+Grand Traverse,Union Twp Pct 1,Attorney General,,DEM,Dana Nessel,94,0,94
+Grand Traverse,Whitewater Twp Pct 1,Attorney General,,DEM,Dana Nessel,245,406,651
+Grand Traverse,Traverse City Pct 1,Attorney General,,DEM,Dana Nessel,415,594,1009
+Grand Traverse,Traverse City Pct 3,Attorney General,,DEM,Dana Nessel,433,631,1064
+Grand Traverse,Traverse City Pct 7,Attorney General,,DEM,Dana Nessel,405,479,884
+Grand Traverse,Traverse City Pct 8,Attorney General,,DEM,Dana Nessel,438,535,973
+Grand Traverse,Traverse City Pct 9,Attorney General,,DEM,Dana Nessel,328,575,903
+Grand Traverse,Traverse City Pct 10,Attorney General,,DEM,Dana Nessel,384,583,967
+Grand Traverse,Acme Twp Pct 1,Attorney General,,REP,Matthew DePerno,476,351,827
+Grand Traverse,Acme Twp Pct 2,Attorney General,,REP,Matthew DePerno,293,252,545
+Grand Traverse,Blair Twp Pct 1,Attorney General,,REP,Matthew DePerno,284,117,401
+Grand Traverse,Blair Twp Pct 2,Attorney General,,REP,Matthew DePerno,543,281,824
+Grand Traverse,Blair Twp Pct 3,Attorney General,,REP,Matthew DePerno,293,157,450
+Grand Traverse,Blair Twp Pct 4,Attorney General,,REP,Matthew DePerno,327,103,430
+Grand Traverse,East Bay Twp Pct 1,Attorney General,,REP,Matthew DePerno,355,285,640
+Grand Traverse,East Bay Twp Pct 2,Attorney General,,REP,Matthew DePerno,409,302,711
+Grand Traverse,East Bay Twp Pct 3,Attorney General,,REP,Matthew DePerno,358,266,624
+Grand Traverse,East Bay Twp Pct 4,Attorney General,,REP,Matthew DePerno,415,281,696
+Grand Traverse,East Bay Twp Pct 5,Attorney General,,REP,Matthew DePerno,388,272,660
+Grand Traverse,Fife Lake Twp Pct 1,Attorney General,,REP,Matthew DePerno,431,124,555
+Grand Traverse,Garfield Twp Pct 1,Attorney General,,REP,Matthew DePerno,472,285,757
+Grand Traverse,Garfield Twp Pct 2,Attorney General,,REP,Matthew DePerno,393,400,793
+Grand Traverse,Garfield Twp Pct 3,Attorney General,,REP,Matthew DePerno,253,147,400
+Grand Traverse,Garfield Twp Pct 4,Attorney General,,REP,Matthew DePerno,270,213,483
+Grand Traverse,Garfield Twp Pct 5,Attorney General,,REP,Matthew DePerno,514,348,862
+Grand Traverse,Garfield Twp Pct 6,Attorney General,,REP,Matthew DePerno,351,239,590
+Grand Traverse,Garfield Twp Pct 7,Attorney General,,REP,Matthew DePerno,267,78,345
+Grand Traverse,Grant Twp Pct 1,Attorney General,,REP,Matthew DePerno,449,0,449
+Grand Traverse,Green Lake Twp Pct 1,Attorney General,,REP,Matthew DePerno,495,252,747
+Grand Traverse,Green Lake Twp Pct 2,Attorney General,,REP,Matthew DePerno,438,160,598
+Grand Traverse,Green Lake Twp Pct 3,Attorney General,,REP,Matthew DePerno,306,123,429
+Grand Traverse,Long Lake Twp Pct 1,Attorney General,,REP,Matthew DePerno,512,278,790
+Grand Traverse,Long Lake Twp Pct 2,Attorney General,,REP,Matthew DePerno,583,344,927
+Grand Traverse,Long Lake Twp Pct 3,Attorney General,,REP,Matthew DePerno,706,466,1172
+Grand Traverse,Mayfield Twp Pct 1,Attorney General,,REP,Matthew DePerno,546,0,546
+Grand Traverse,Paradise Twp Pct 1,Attorney General,,REP,Matthew DePerno,790,0,790
+Grand Traverse,Paradise Twp Pct 2,Attorney General,,REP,Matthew DePerno,595,0,595
+Grand Traverse,Peninsula Twp Pct 1,Attorney General,,REP,Matthew DePerno,447,543,990
+Grand Traverse,Peninsula Twp Pct 2,Attorney General,,REP,Matthew DePerno,378,495,873
+Grand Traverse,Union Twp Pct 1,Attorney General,,REP,Matthew DePerno,170,0,170
+Grand Traverse,Whitewater Twp Pct 1,Attorney General,,REP,Matthew DePerno,562,396,958
+Grand Traverse,Traverse City Pct 1,Attorney General,,REP,Matthew DePerno,250,207,457
+Grand Traverse,Traverse City Pct 3,Attorney General,,REP,Matthew DePerno,199,155,354
+Grand Traverse,Traverse City Pct 7,Attorney General,,REP,Matthew DePerno,239,132,371
+Grand Traverse,Traverse City Pct 8,Attorney General,,REP,Matthew DePerno,209,139,348
+Grand Traverse,Traverse City Pct 9,Attorney General,,REP,Matthew DePerno,247,220,467
+Grand Traverse,Traverse City Pct 10,Attorney General,,REP,Matthew DePerno,283,198,481
+Grand Traverse,Acme Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",16,6,22
+Grand Traverse,Acme Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",8,7,15
+Grand Traverse,Blair Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,3,16
+Grand Traverse,Blair Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,5,20
+Grand Traverse,Blair Twp Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",9,7,16
+Grand Traverse,Blair Twp Pct 4,Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,6,20
+Grand Traverse,East Bay Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,9,23
+Grand Traverse,East Bay Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,8,25
+Grand Traverse,East Bay Twp Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,9,23
+Grand Traverse,East Bay Twp Pct 4,Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,13,28
+Grand Traverse,East Bay Twp Pct 5,Attorney General,,LIB,"Joseph W. McHugh, Jr.",14,8,22
+Grand Traverse,Fife Lake Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,5,20
+Grand Traverse,Garfield Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,5,22
+Grand Traverse,Garfield Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,7,20
+Grand Traverse,Garfield Twp Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,4,16
+Grand Traverse,Garfield Twp Pct 4,Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,9,29
+Grand Traverse,Garfield Twp Pct 5,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,11,28
+Grand Traverse,Garfield Twp Pct 6,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,14,31
+Grand Traverse,Garfield Twp Pct 7,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,4,17
+Grand Traverse,Grant Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",8,0,8
+Grand Traverse,Green Lake Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",22,5,27
+Grand Traverse,Green Lake Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,4,21
+Grand Traverse,Green Lake Twp Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,2,15
+Grand Traverse,Long Lake Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,9,29
+Grand Traverse,Long Lake Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,10,27
+Grand Traverse,Long Lake Twp Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",16,10,26
+Grand Traverse,Mayfield Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,0,15
+Grand Traverse,Paradise Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",47,0,47
+Grand Traverse,Paradise Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",23,0,23
+Grand Traverse,Peninsula Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,11,24
+Grand Traverse,Peninsula Twp Pct 2,Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,14,31
+Grand Traverse,Union Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",3,0,3
+Grand Traverse,Whitewater Twp Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",25,11,36
+Grand Traverse,Traverse City Pct 1,Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,7,22
+Grand Traverse,Traverse City Pct 3,Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,5,18
+Grand Traverse,Traverse City Pct 7,Attorney General,,LIB,"Joseph W. McHugh, Jr.",26,9,35
+Grand Traverse,Traverse City Pct 8,Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,5,16
+Grand Traverse,Traverse City Pct 9,Attorney General,,LIB,"Joseph W. McHugh, Jr.",9,6,15
+Grand Traverse,Traverse City Pct 10,Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,8,32
+Grand Traverse,Acme Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,3,6,9
+Grand Traverse,Acme Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,2,1,3
+Grand Traverse,Blair Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,4,3,7
+Grand Traverse,Blair Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,5,2,7
+Grand Traverse,Blair Twp Pct 3,Attorney General,,UST,Gerald T. Van Sickle,5,2,7
+Grand Traverse,Blair Twp Pct 4,Attorney General,,UST,Gerald T. Van Sickle,8,1,9
+Grand Traverse,East Bay Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,2,4,6
+Grand Traverse,East Bay Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,11,4,15
+Grand Traverse,East Bay Twp Pct 3,Attorney General,,UST,Gerald T. Van Sickle,3,7,10
+Grand Traverse,East Bay Twp Pct 4,Attorney General,,UST,Gerald T. Van Sickle,1,2,3
+Grand Traverse,East Bay Twp Pct 5,Attorney General,,UST,Gerald T. Van Sickle,4,2,6
+Grand Traverse,Fife Lake Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,4,1,5
+Grand Traverse,Garfield Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,8,1,9
+Grand Traverse,Garfield Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,6,0,6
+Grand Traverse,Garfield Twp Pct 3,Attorney General,,UST,Gerald T. Van Sickle,3,2,5
+Grand Traverse,Garfield Twp Pct 4,Attorney General,,UST,Gerald T. Van Sickle,3,5,8
+Grand Traverse,Garfield Twp Pct 5,Attorney General,,UST,Gerald T. Van Sickle,3,4,7
+Grand Traverse,Garfield Twp Pct 6,Attorney General,,UST,Gerald T. Van Sickle,2,2,4
+Grand Traverse,Garfield Twp Pct 7,Attorney General,,UST,Gerald T. Van Sickle,3,1,4
+Grand Traverse,Grant Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,7,0,7
+Grand Traverse,Green Lake Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,3,4,7
+Grand Traverse,Green Lake Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,13,1,14
+Grand Traverse,Green Lake Twp Pct 3,Attorney General,,UST,Gerald T. Van Sickle,5,2,7
+Grand Traverse,Long Lake Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,7,5,12
+Grand Traverse,Long Lake Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,5,2,7
+Grand Traverse,Long Lake Twp Pct 3,Attorney General,,UST,Gerald T. Van Sickle,3,6,9
+Grand Traverse,Mayfield Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,10,0,10
+Grand Traverse,Paradise Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,6,0,6
+Grand Traverse,Paradise Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,9,0,9
+Grand Traverse,Peninsula Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,4,5,9
+Grand Traverse,Peninsula Twp Pct 2,Attorney General,,UST,Gerald T. Van Sickle,2,1,3
+Grand Traverse,Union Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,2,0,2
+Grand Traverse,Whitewater Twp Pct 1,Attorney General,,UST,Gerald T. Van Sickle,3,3,6
+Grand Traverse,Traverse City Pct 1,Attorney General,,UST,Gerald T. Van Sickle,2,1,3
+Grand Traverse,Traverse City Pct 3,Attorney General,,UST,Gerald T. Van Sickle,2,1,3
+Grand Traverse,Traverse City Pct 7,Attorney General,,UST,Gerald T. Van Sickle,5,2,7
+Grand Traverse,Traverse City Pct 8,Attorney General,,UST,Gerald T. Van Sickle,1,1,2
+Grand Traverse,Traverse City Pct 9,Attorney General,,UST,Gerald T. Van Sickle,0,0,0
+Grand Traverse,Traverse City Pct 10,Attorney General,,UST,Gerald T. Van Sickle,2,3,5
+Grand Traverse,Acme Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,280,520,800
+Grand Traverse,Acme Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,130,290,420
+Grand Traverse,Blair Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,130,121,251
+Grand Traverse,Blair Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,209,282,491
+Grand Traverse,Blair Twp Pct 3,U.S. House,1,DEM,Bob Lorinser,152,205,357
+Grand Traverse,Blair Twp Pct 4,U.S. House,1,DEM,Bob Lorinser,155,129,284
+Grand Traverse,East Bay Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,245,361,606
+Grand Traverse,East Bay Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,221,339,560
+Grand Traverse,East Bay Twp Pct 3,U.S. House,1,DEM,Bob Lorinser,204,350,554
+Grand Traverse,East Bay Twp Pct 4,U.S. House,1,DEM,Bob Lorinser,267,397,664
+Grand Traverse,East Bay Twp Pct 5,U.S. House,1,DEM,Bob Lorinser,196,280,476
+Grand Traverse,Fife Lake Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,128,109,237
+Grand Traverse,Garfield Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,293,373,666
+Grand Traverse,Garfield Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,245,589,834
+Grand Traverse,Garfield Twp Pct 3,U.S. House,1,DEM,Bob Lorinser,217,292,509
+Grand Traverse,Garfield Twp Pct 4,U.S. House,1,DEM,Bob Lorinser,249,397,646
+Grand Traverse,Garfield Twp Pct 5,U.S. House,1,DEM,Bob Lorinser,307,646,953
+Grand Traverse,Garfield Twp Pct 6,U.S. House,1,DEM,Bob Lorinser,257,390,647
+Grand Traverse,Garfield Twp Pct 7,U.S. House,1,DEM,Bob Lorinser,232,202,434
+Grand Traverse,Grant Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,169,0,169
+Grand Traverse,Green Lake Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,262,301,563
+Grand Traverse,Green Lake Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,219,252,471
+Grand Traverse,Green Lake Twp Pct 3,U.S. House,1,DEM,Bob Lorinser,162,208,370
+Grand Traverse,Long Lake Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,383,476,859
+Grand Traverse,Long Lake Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,304,454,758
+Grand Traverse,Long Lake Twp Pct 3,U.S. House,1,DEM,Bob Lorinser,318,594,912
+Grand Traverse,Mayfield Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,205,0,205
+Grand Traverse,Paradise Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,395,0,395
+Grand Traverse,Paradise Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,301,0,301
+Grand Traverse,Peninsula Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,319,752,1071
+Grand Traverse,Peninsula Twp Pct 2,U.S. House,1,DEM,Bob Lorinser,345,779,1124
+Grand Traverse,Union Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,83,0,83
+Grand Traverse,Whitewater Twp Pct 1,U.S. House,1,DEM,Bob Lorinser,210,348,558
+Grand Traverse,Traverse City Pct 1,U.S. House,1,DEM,Bob Lorinser,372,562,934
+Grand Traverse,Traverse City Pct 3,U.S. House,1,DEM,Bob Lorinser,402,601,1003
+Grand Traverse,Traverse City Pct 7,U.S. House,1,DEM,Bob Lorinser,371,450,821
+Grand Traverse,Traverse City Pct 8,U.S. House,1,DEM,Bob Lorinser,408,522,930
+Grand Traverse,Traverse City Pct 9,U.S. House,1,DEM,Bob Lorinser,301,541,842
+Grand Traverse,Traverse City Pct 10,U.S. House,1,DEM,Bob Lorinser,355,551,906
+Grand Traverse,Acme Twp Pct 1,U.S. House,1,REP,Jack Bergman,505,399,904
+Grand Traverse,Acme Twp Pct 2,U.S. House,1,REP,Jack Bergman,316,281,597
+Grand Traverse,Blair Twp Pct 1,U.S. House,1,REP,Jack Bergman,305,129,434
+Grand Traverse,Blair Twp Pct 2,U.S. House,1,REP,Jack Bergman,597,313,910
+Grand Traverse,Blair Twp Pct 3,U.S. House,1,REP,Jack Bergman,319,182,501
+Grand Traverse,Blair Twp Pct 4,U.S. House,1,REP,Jack Bergman,364,136,500
+Grand Traverse,East Bay Twp Pct 1,U.S. House,1,REP,Jack Bergman,374,334,708
+Grand Traverse,East Bay Twp Pct 2,U.S. House,1,REP,Jack Bergman,451,335,786
+Grand Traverse,East Bay Twp Pct 3,U.S. House,1,REP,Jack Bergman,386,308,694
+Grand Traverse,East Bay Twp Pct 4,U.S. House,1,REP,Jack Bergman,446,323,769
+Grand Traverse,East Bay Twp Pct 5,U.S. House,1,REP,Jack Bergman,420,286,706
+Grand Traverse,Fife Lake Twp Pct 1,U.S. House,1,REP,Jack Bergman,477,142,619
+Grand Traverse,Garfield Twp Pct 1,U.S. House,1,REP,Jack Bergman,535,334,869
+Grand Traverse,Garfield Twp Pct 2,U.S. House,1,REP,Jack Bergman,416,451,867
+Grand Traverse,Garfield Twp Pct 3,U.S. House,1,REP,Jack Bergman,277,171,448
+Grand Traverse,Garfield Twp Pct 4,U.S. House,1,REP,Jack Bergman,305,241,546
+Grand Traverse,Garfield Twp Pct 5,U.S. House,1,REP,Jack Bergman,572,398,970
+Grand Traverse,Garfield Twp Pct 6,U.S. House,1,REP,Jack Bergman,384,274,658
+Grand Traverse,Garfield Twp Pct 7,U.S. House,1,REP,Jack Bergman,289,101,390
+Grand Traverse,Grant Twp Pct 1,U.S. House,1,REP,Jack Bergman,481,0,481
+Grand Traverse,Green Lake Twp Pct 1,U.S. House,1,REP,Jack Bergman,537,289,826
+Grand Traverse,Green Lake Twp Pct 2,U.S. House,1,REP,Jack Bergman,475,170,645
+Grand Traverse,Green Lake Twp Pct 3,U.S. House,1,REP,Jack Bergman,344,138,482
+Grand Traverse,Long Lake Twp Pct 1,U.S. House,1,REP,Jack Bergman,551,339,890
+Grand Traverse,Long Lake Twp Pct 2,U.S. House,1,REP,Jack Bergman,638,388,1026
+Grand Traverse,Long Lake Twp Pct 3,U.S. House,1,REP,Jack Bergman,768,536,1304
+Grand Traverse,Mayfield Twp Pct 1,U.S. House,1,REP,Jack Bergman,600,0,600
+Grand Traverse,Paradise Twp Pct 1,U.S. House,1,REP,Jack Bergman,878,0,878
+Grand Traverse,Paradise Twp Pct 2,U.S. House,1,REP,Jack Bergman,656,0,656
+Grand Traverse,Peninsula Twp Pct 1,U.S. House,1,REP,Jack Bergman,492,612,1104
+Grand Traverse,Peninsula Twp Pct 2,U.S. House,1,REP,Jack Bergman,432,554,986
+Grand Traverse,Union Twp Pct 1,U.S. House,1,REP,Jack Bergman,180,0,180
+Grand Traverse,Whitewater Twp Pct 1,U.S. House,1,REP,Jack Bergman,607,457,1064
+Grand Traverse,Traverse City Pct 1,U.S. House,1,REP,Jack Bergman,284,242,526
+Grand Traverse,Traverse City Pct 3,U.S. House,1,REP,Jack Bergman,221,184,405
+Grand Traverse,Traverse City Pct 7,U.S. House,1,REP,Jack Bergman,267,159,426
+Grand Traverse,Traverse City Pct 8,U.S. House,1,REP,Jack Bergman,230,155,385
+Grand Traverse,Traverse City Pct 9,U.S. House,1,REP,Jack Bergman,273,250,523
+Grand Traverse,Traverse City Pct 10,U.S. House,1,REP,Jack Bergman,308,225,533
+Grand Traverse,Acme Twp Pct 1,U.S. House,1,LIB,Andrew Gale,21,7,28
+Grand Traverse,Acme Twp Pct 2,U.S. House,1,LIB,Andrew Gale,10,7,17
+Grand Traverse,Blair Twp Pct 1,U.S. House,1,LIB,Andrew Gale,16,4,20
+Grand Traverse,Blair Twp Pct 2,U.S. House,1,LIB,Andrew Gale,9,6,15
+Grand Traverse,Blair Twp Pct 3,U.S. House,1,LIB,Andrew Gale,4,8,12
+Grand Traverse,Blair Twp Pct 4,U.S. House,1,LIB,Andrew Gale,16,2,18
+Grand Traverse,East Bay Twp Pct 1,U.S. House,1,LIB,Andrew Gale,14,6,20
+Grand Traverse,East Bay Twp Pct 2,U.S. House,1,LIB,Andrew Gale,11,8,19
+Grand Traverse,East Bay Twp Pct 3,U.S. House,1,LIB,Andrew Gale,9,5,14
+Grand Traverse,East Bay Twp Pct 4,U.S. House,1,LIB,Andrew Gale,17,13,30
+Grand Traverse,East Bay Twp Pct 5,U.S. House,1,LIB,Andrew Gale,12,12,24
+Grand Traverse,Fife Lake Twp Pct 1,U.S. House,1,LIB,Andrew Gale,10,4,14
+Grand Traverse,Garfield Twp Pct 1,U.S. House,1,LIB,Andrew Gale,15,7,22
+Grand Traverse,Garfield Twp Pct 2,U.S. House,1,LIB,Andrew Gale,19,5,24
+Grand Traverse,Garfield Twp Pct 3,U.S. House,1,LIB,Andrew Gale,12,3,15
+Grand Traverse,Garfield Twp Pct 4,U.S. House,1,LIB,Andrew Gale,17,8,25
+Grand Traverse,Garfield Twp Pct 5,U.S. House,1,LIB,Andrew Gale,12,9,21
+Grand Traverse,Garfield Twp Pct 6,U.S. House,1,LIB,Andrew Gale,15,4,19
+Grand Traverse,Garfield Twp Pct 7,U.S. House,1,LIB,Andrew Gale,14,2,16
+Grand Traverse,Grant Twp Pct 1,U.S. House,1,LIB,Andrew Gale,6,0,6
+Grand Traverse,Green Lake Twp Pct 1,U.S. House,1,LIB,Andrew Gale,14,7,21
+Grand Traverse,Green Lake Twp Pct 2,U.S. House,1,LIB,Andrew Gale,18,6,24
+Grand Traverse,Green Lake Twp Pct 3,U.S. House,1,LIB,Andrew Gale,9,5,14
+Grand Traverse,Long Lake Twp Pct 1,U.S. House,1,LIB,Andrew Gale,19,5,24
+Grand Traverse,Long Lake Twp Pct 2,U.S. House,1,LIB,Andrew Gale,11,7,18
+Grand Traverse,Long Lake Twp Pct 3,U.S. House,1,LIB,Andrew Gale,11,10,21
+Grand Traverse,Mayfield Twp Pct 1,U.S. House,1,LIB,Andrew Gale,19,0,19
+Grand Traverse,Paradise Twp Pct 1,U.S. House,1,LIB,Andrew Gale,30,0,30
+Grand Traverse,Paradise Twp Pct 2,U.S. House,1,LIB,Andrew Gale,7,0,7
+Grand Traverse,Peninsula Twp Pct 1,U.S. House,1,LIB,Andrew Gale,13,18,31
+Grand Traverse,Peninsula Twp Pct 2,U.S. House,1,LIB,Andrew Gale,12,7,19
+Grand Traverse,Union Twp Pct 1,U.S. House,1,LIB,Andrew Gale,3,0,3
+Grand Traverse,Whitewater Twp Pct 1,U.S. House,1,LIB,Andrew Gale,16,5,21
+Grand Traverse,Traverse City Pct 1,U.S. House,1,LIB,Andrew Gale,15,4,19
+Grand Traverse,Traverse City Pct 3,U.S. House,1,LIB,Andrew Gale,10,7,17
+Grand Traverse,Traverse City Pct 7,U.S. House,1,LIB,Andrew Gale,26,8,34
+Grand Traverse,Traverse City Pct 8,U.S. House,1,LIB,Andrew Gale,12,5,17
+Grand Traverse,Traverse City Pct 9,U.S. House,1,LIB,Andrew Gale,11,9,20
+Grand Traverse,Traverse City Pct 10,U.S. House,1,LIB,Andrew Gale,21,11,32
+Grand Traverse,Acme Twp Pct 1,U.S. House,1,WCP,Liz Hakola,15,6,21
+Grand Traverse,Acme Twp Pct 2,U.S. House,1,WCP,Liz Hakola,2,3,5
+Grand Traverse,Blair Twp Pct 1,U.S. House,1,WCP,Liz Hakola,4,6,10
+Grand Traverse,Blair Twp Pct 2,U.S. House,1,WCP,Liz Hakola,6,7,13
+Grand Traverse,Blair Twp Pct 3,U.S. House,1,WCP,Liz Hakola,8,4,12
+Grand Traverse,Blair Twp Pct 4,U.S. House,1,WCP,Liz Hakola,6,3,9
+Grand Traverse,East Bay Twp Pct 1,U.S. House,1,WCP,Liz Hakola,10,5,15
+Grand Traverse,East Bay Twp Pct 2,U.S. House,1,WCP,Liz Hakola,12,9,21
+Grand Traverse,East Bay Twp Pct 3,U.S. House,1,WCP,Liz Hakola,8,11,19
+Grand Traverse,East Bay Twp Pct 4,U.S. House,1,WCP,Liz Hakola,5,6,11
+Grand Traverse,East Bay Twp Pct 5,U.S. House,1,WCP,Liz Hakola,6,5,11
+Grand Traverse,Fife Lake Twp Pct 1,U.S. House,1,WCP,Liz Hakola,8,4,12
+Grand Traverse,Garfield Twp Pct 1,U.S. House,1,WCP,Liz Hakola,11,9,20
+Grand Traverse,Garfield Twp Pct 2,U.S. House,1,WCP,Liz Hakola,4,4,8
+Grand Traverse,Garfield Twp Pct 3,U.S. House,1,WCP,Liz Hakola,12,6,18
+Grand Traverse,Garfield Twp Pct 4,U.S. House,1,WCP,Liz Hakola,17,10,27
+Grand Traverse,Garfield Twp Pct 5,U.S. House,1,WCP,Liz Hakola,4,12,16
+Grand Traverse,Garfield Twp Pct 6,U.S. House,1,WCP,Liz Hakola,12,8,20
+Grand Traverse,Garfield Twp Pct 7,U.S. House,1,WCP,Liz Hakola,15,4,19
+Grand Traverse,Grant Twp Pct 1,U.S. House,1,WCP,Liz Hakola,11,0,11
+Grand Traverse,Green Lake Twp Pct 1,U.S. House,1,WCP,Liz Hakola,12,6,18
+Grand Traverse,Green Lake Twp Pct 2,U.S. House,1,WCP,Liz Hakola,8,5,13
+Grand Traverse,Green Lake Twp Pct 3,U.S. House,1,WCP,Liz Hakola,7,0,7
+Grand Traverse,Long Lake Twp Pct 1,U.S. House,1,WCP,Liz Hakola,12,6,18
+Grand Traverse,Long Lake Twp Pct 2,U.S. House,1,WCP,Liz Hakola,10,8,18
+Grand Traverse,Long Lake Twp Pct 3,U.S. House,1,WCP,Liz Hakola,12,4,16
+Grand Traverse,Mayfield Twp Pct 1,U.S. House,1,WCP,Liz Hakola,5,0,5
+Grand Traverse,Paradise Twp Pct 1,U.S. House,1,WCP,Liz Hakola,9,0,9
+Grand Traverse,Paradise Twp Pct 2,U.S. House,1,WCP,Liz Hakola,19,0,19
+Grand Traverse,Peninsula Twp Pct 1,U.S. House,1,WCP,Liz Hakola,5,1,6
+Grand Traverse,Peninsula Twp Pct 2,U.S. House,1,WCP,Liz Hakola,4,9,13
+Grand Traverse,Union Twp Pct 1,U.S. House,1,WCP,Liz Hakola,2,0,2
+Grand Traverse,Whitewater Twp Pct 1,U.S. House,1,WCP,Liz Hakola,9,8,17
+Grand Traverse,Traverse City Pct 1,U.S. House,1,WCP,Liz Hakola,9,5,14
+Grand Traverse,Traverse City Pct 3,U.S. House,1,WCP,Liz Hakola,9,2,11
+Grand Traverse,Traverse City Pct 7,U.S. House,1,WCP,Liz Hakola,13,6,19
+Grand Traverse,Traverse City Pct 8,U.S. House,1,WCP,Liz Hakola,9,4,13
+Grand Traverse,Traverse City Pct 9,U.S. House,1,WCP,Liz Hakola,2,5,7
+Grand Traverse,Traverse City Pct 10,U.S. House,1,WCP,Liz Hakola,8,5,13
+Grand Traverse,Acme Twp Pct 1,State Senate,37,DEM,Barbara Conley,301,523,824
+Grand Traverse,Acme Twp Pct 2,State Senate,37,DEM,Barbara Conley,131,297,428
+Grand Traverse,Blair Twp Pct 1,State Senate,37,DEM,Barbara Conley,140,125,265
+Grand Traverse,Blair Twp Pct 2,State Senate,37,DEM,Barbara Conley,226,283,509
+Grand Traverse,Blair Twp Pct 3,State Senate,37,DEM,Barbara Conley,157,212,369
+Grand Traverse,Blair Twp Pct 4,State Senate,37,DEM,Barbara Conley,165,147,312
+Grand Traverse,East Bay Twp Pct 1,State Senate,37,DEM,Barbara Conley,250,377,627
+Grand Traverse,East Bay Twp Pct 2,State Senate,37,DEM,Barbara Conley,233,357,590
+Grand Traverse,East Bay Twp Pct 3,State Senate,37,DEM,Barbara Conley,207,361,568
+Grand Traverse,East Bay Twp Pct 4,State Senate,37,DEM,Barbara Conley,278,403,681
+Grand Traverse,East Bay Twp Pct 5,State Senate,37,DEM,Barbara Conley,196,284,480
+Grand Traverse,Fife Lake Twp Pct 1,State Senate,37,DEM,Barbara Conley,134,115,249
+Grand Traverse,Garfield Twp Pct 1,State Senate,37,DEM,Barbara Conley,308,391,699
+Grand Traverse,Garfield Twp Pct 2,State Senate,37,DEM,Barbara Conley,243,592,835
+Grand Traverse,Garfield Twp Pct 3,State Senate,37,DEM,Barbara Conley,226,293,519
+Grand Traverse,Garfield Twp Pct 4,State Senate,37,DEM,Barbara Conley,275,415,690
+Grand Traverse,Garfield Twp Pct 5,State Senate,37,DEM,Barbara Conley,317,652,969
+Grand Traverse,Garfield Twp Pct 6,State Senate,37,DEM,Barbara Conley,264,392,656
+Grand Traverse,Garfield Twp Pct 7,State Senate,37,DEM,Barbara Conley,248,209,457
+Grand Traverse,Grant Twp Pct 1,State Senate,37,DEM,Barbara Conley,176,0,176
+Grand Traverse,Green Lake Twp Pct 1,State Senate,37,DEM,Barbara Conley,275,307,582
+Grand Traverse,Green Lake Twp Pct 2,State Senate,37,DEM,Barbara Conley,227,259,486
+Grand Traverse,Green Lake Twp Pct 3,State Senate,37,DEM,Barbara Conley,171,212,383
+Grand Traverse,Long Lake Twp Pct 1,State Senate,37,DEM,Barbara Conley,389,494,883
+Grand Traverse,Long Lake Twp Pct 2,State Senate,37,DEM,Barbara Conley,307,463,770
+Grand Traverse,Long Lake Twp Pct 3,State Senate,37,DEM,Barbara Conley,333,610,943
+Grand Traverse,Mayfield Twp Pct 1,State Senate,37,DEM,Barbara Conley,208,0,208
+Grand Traverse,Paradise Twp Pct 1,State Senate,37,DEM,Barbara Conley,411,0,411
+Grand Traverse,Paradise Twp Pct 2,State Senate,37,DEM,Barbara Conley,316,0,316
+Grand Traverse,Peninsula Twp Pct 1,State Senate,37,DEM,Barbara Conley,320,760,1080
+Grand Traverse,Peninsula Twp Pct 2,State Senate,37,DEM,Barbara Conley,350,776,1126
+Grand Traverse,Union Twp Pct 1,State Senate,37,DEM,Barbara Conley,87,0,87
+Grand Traverse,Whitewater Twp Pct 1,State Senate,37,DEM,Barbara Conley,209,357,566
+Grand Traverse,Traverse City Pct 1,State Senate,37,DEM,Barbara Conley,379,571,950
+Grand Traverse,Traverse City Pct 3,State Senate,37,DEM,Barbara Conley,416,610,1026
+Grand Traverse,Traverse City Pct 7,State Senate,37,DEM,Barbara Conley,394,460,854
+Grand Traverse,Traverse City Pct 8,State Senate,37,DEM,Barbara Conley,423,527,950
+Grand Traverse,Traverse City Pct 9,State Senate,37,DEM,Barbara Conley,307,552,859
+Grand Traverse,Traverse City Pct 10,State Senate,37,DEM,Barbara Conley,367,567,934
+Grand Traverse,Acme Twp Pct 1,State Senate,37,REP,John N. Damoose,489,391,880
+Grand Traverse,Acme Twp Pct 2,State Senate,37,REP,John N. Damoose,304,276,580
+Grand Traverse,Blair Twp Pct 1,State Senate,37,REP,John N. Damoose,293,125,418
+Grand Traverse,Blair Twp Pct 2,State Senate,37,REP,John N. Damoose,570,300,870
+Grand Traverse,Blair Twp Pct 3,State Senate,37,REP,John N. Damoose,312,177,489
+Grand Traverse,Blair Twp Pct 4,State Senate,37,REP,John N. Damoose,349,119,468
+Grand Traverse,East Bay Twp Pct 1,State Senate,37,REP,John N. Damoose,374,313,687
+Grand Traverse,East Bay Twp Pct 2,State Senate,37,REP,John N. Damoose,440,318,758
+Grand Traverse,East Bay Twp Pct 3,State Senate,37,REP,John N. Damoose,383,294,677
+Grand Traverse,East Bay Twp Pct 4,State Senate,37,REP,John N. Damoose,431,320,751
+Grand Traverse,East Bay Twp Pct 5,State Senate,37,REP,John N. Damoose,409,281,690
+Grand Traverse,Fife Lake Twp Pct 1,State Senate,37,REP,John N. Damoose,467,135,602
+Grand Traverse,Garfield Twp Pct 1,State Senate,37,REP,John N. Damoose,519,313,832
+Grand Traverse,Garfield Twp Pct 2,State Senate,37,REP,John N. Damoose,411,438,849
+Grand Traverse,Garfield Twp Pct 3,State Senate,37,REP,John N. Damoose,271,165,436
+Grand Traverse,Garfield Twp Pct 4,State Senate,37,REP,John N. Damoose,291,229,520
+Grand Traverse,Garfield Twp Pct 5,State Senate,37,REP,John N. Damoose,558,400,958
+Grand Traverse,Garfield Twp Pct 6,State Senate,37,REP,John N. Damoose,380,270,650
+Grand Traverse,Garfield Twp Pct 7,State Senate,37,REP,John N. Damoose,278,94,372
+Grand Traverse,Grant Twp Pct 1,State Senate,37,REP,John N. Damoose,476,0,476
+Grand Traverse,Green Lake Twp Pct 1,State Senate,37,REP,John N. Damoose,524,280,804
+Grand Traverse,Green Lake Twp Pct 2,State Senate,37,REP,John N. Damoose,470,169,639
+Grand Traverse,Green Lake Twp Pct 3,State Senate,37,REP,John N. Damoose,329,129,458
+Grand Traverse,Long Lake Twp Pct 1,State Senate,37,REP,John N. Damoose,548,313,861
+Grand Traverse,Long Lake Twp Pct 2,State Senate,37,REP,John N. Damoose,630,376,1006
+Grand Traverse,Long Lake Twp Pct 3,State Senate,37,REP,John N. Damoose,742,522,1264
+Grand Traverse,Mayfield Twp Pct 1,State Senate,37,REP,John N. Damoose,596,0,596
+Grand Traverse,Paradise Twp Pct 1,State Senate,37,REP,John N. Damoose,853,0,853
+Grand Traverse,Paradise Twp Pct 2,State Senate,37,REP,John N. Damoose,634,0,634
+Grand Traverse,Peninsula Twp Pct 1,State Senate,37,REP,John N. Damoose,490,597,1087
+Grand Traverse,Peninsula Twp Pct 2,State Senate,37,REP,John N. Damoose,420,563,983
+Grand Traverse,Union Twp Pct 1,State Senate,37,REP,John N. Damoose,176,0,176
+Grand Traverse,Whitewater Twp Pct 1,State Senate,37,REP,John N. Damoose,596,451,1047
+Grand Traverse,Traverse City Pct 1,State Senate,37,REP,John N. Damoose,283,230,513
+Grand Traverse,Traverse City Pct 3,State Senate,37,REP,John N. Damoose,213,174,387
+Grand Traverse,Traverse City Pct 7,State Senate,37,REP,John N. Damoose,256,151,407
+Grand Traverse,Traverse City Pct 8,State Senate,37,REP,John N. Damoose,223,145,368
+Grand Traverse,Traverse City Pct 9,State Senate,37,REP,John N. Damoose,266,240,506
+Grand Traverse,Traverse City Pct 10,State Senate,37,REP,John N. Damoose,308,214,522
+Grand Traverse,Acme Twp Pct 1,State Senate,37,LIB,Zachary Dean,26,12,38
+Grand Traverse,Acme Twp Pct 2,State Senate,37,LIB,Zachary Dean,16,6,22
+Grand Traverse,Blair Twp Pct 1,State Senate,37,LIB,Zachary Dean,18,9,27
+Grand Traverse,Blair Twp Pct 2,State Senate,37,LIB,Zachary Dean,18,15,33
+Grand Traverse,Blair Twp Pct 3,State Senate,37,LIB,Zachary Dean,9,7,16
+Grand Traverse,Blair Twp Pct 4,State Senate,37,LIB,Zachary Dean,22,2,24
+Grand Traverse,East Bay Twp Pct 1,State Senate,37,LIB,Zachary Dean,17,11,28
+Grand Traverse,East Bay Twp Pct 2,State Senate,37,LIB,Zachary Dean,18,11,29
+Grand Traverse,East Bay Twp Pct 3,State Senate,37,LIB,Zachary Dean,11,7,18
+Grand Traverse,East Bay Twp Pct 4,State Senate,37,LIB,Zachary Dean,24,15,39
+Grand Traverse,East Bay Twp Pct 5,State Senate,37,LIB,Zachary Dean,19,11,30
+Grand Traverse,Fife Lake Twp Pct 1,State Senate,37,LIB,Zachary Dean,14,5,19
+Grand Traverse,Garfield Twp Pct 1,State Senate,37,LIB,Zachary Dean,20,8,28
+Grand Traverse,Garfield Twp Pct 2,State Senate,37,LIB,Zachary Dean,24,6,30
+Grand Traverse,Garfield Twp Pct 3,State Senate,37,LIB,Zachary Dean,18,10,28
+Grand Traverse,Garfield Twp Pct 4,State Senate,37,LIB,Zachary Dean,21,10,31
+Grand Traverse,Garfield Twp Pct 5,State Senate,37,LIB,Zachary Dean,14,8,22
+Grand Traverse,Garfield Twp Pct 6,State Senate,37,LIB,Zachary Dean,20,10,30
+Grand Traverse,Garfield Twp Pct 7,State Senate,37,LIB,Zachary Dean,21,4,25
+Grand Traverse,Grant Twp Pct 1,State Senate,37,LIB,Zachary Dean,12,0,12
+Grand Traverse,Green Lake Twp Pct 1,State Senate,37,LIB,Zachary Dean,21,11,32
+Grand Traverse,Green Lake Twp Pct 2,State Senate,37,LIB,Zachary Dean,20,6,26
+Grand Traverse,Green Lake Twp Pct 3,State Senate,37,LIB,Zachary Dean,19,4,23
+Grand Traverse,Long Lake Twp Pct 1,State Senate,37,LIB,Zachary Dean,18,8,26
+Grand Traverse,Long Lake Twp Pct 2,State Senate,37,LIB,Zachary Dean,16,9,25
+Grand Traverse,Long Lake Twp Pct 3,State Senate,37,LIB,Zachary Dean,18,8,26
+Grand Traverse,Mayfield Twp Pct 1,State Senate,37,LIB,Zachary Dean,22,0,22
+Grand Traverse,Paradise Twp Pct 1,State Senate,37,LIB,Zachary Dean,33,0,33
+Grand Traverse,Paradise Twp Pct 2,State Senate,37,LIB,Zachary Dean,22,0,22
+Grand Traverse,Peninsula Twp Pct 1,State Senate,37,LIB,Zachary Dean,15,15,30
+Grand Traverse,Peninsula Twp Pct 2,State Senate,37,LIB,Zachary Dean,16,8,24
+Grand Traverse,Union Twp Pct 1,State Senate,37,LIB,Zachary Dean,4,0,4
+Grand Traverse,Whitewater Twp Pct 1,State Senate,37,LIB,Zachary Dean,26,10,36
+Grand Traverse,Traverse City Pct 1,State Senate,37,LIB,Zachary Dean,10,6,16
+Grand Traverse,Traverse City Pct 3,State Senate,37,LIB,Zachary Dean,12,5,17
+Grand Traverse,Traverse City Pct 7,State Senate,37,LIB,Zachary Dean,25,7,32
+Grand Traverse,Traverse City Pct 8,State Senate,37,LIB,Zachary Dean,14,7,21
+Grand Traverse,Traverse City Pct 9,State Senate,37,LIB,Zachary Dean,12,7,19
+Grand Traverse,Traverse City Pct 10,State Senate,37,LIB,Zachary Dean,18,9,27
+Grand Traverse,Acme Twp Pct 1,State House,103,DEM,Betsy Coffia,289,524,813
+Grand Traverse,Acme Twp Pct 2,State House,103,DEM,Betsy Coffia,133,285,418
+Grand Traverse,East Bay Twp Pct 1,State House,103,DEM,Betsy Coffia,250,365,615
+Grand Traverse,East Bay Twp Pct 2,State House,103,DEM,Betsy Coffia,235,335,570
+Grand Traverse,East Bay Twp Pct 3,State House,103,DEM,Betsy Coffia,208,354,562
+Grand Traverse,East Bay Twp Pct 4,State House,103,DEM,Betsy Coffia,280,391,671
+Grand Traverse,East Bay Twp Pct 5,State House,103,DEM,Betsy Coffia,197,274,471
+Grand Traverse,Garfield Twp Pct 1,State House,103,DEM,Betsy Coffia,307,380,687
+Grand Traverse,Garfield Twp Pct 2,State House,103,DEM,Betsy Coffia,238,578,816
+Grand Traverse,Garfield Twp Pct 3,State House,103,DEM,Betsy Coffia,233,287,520
+Grand Traverse,Garfield Twp Pct 4,State House,103,DEM,Betsy Coffia,261,405,666
+Grand Traverse,Garfield Twp Pct 5,State House,103,DEM,Betsy Coffia,314,653,967
+Grand Traverse,Garfield Twp Pct 6,State House,103,DEM,Betsy Coffia,269,399,668
+Grand Traverse,Garfield Twp Pct 7,State House,103,DEM,Betsy Coffia,256,211,467
+Grand Traverse,Long Lake Twp Pct 1,State House,103,DEM,Betsy Coffia,377,487,864
+Grand Traverse,Long Lake Twp Pct 2,State House,103,DEM,Betsy Coffia,308,451,759
+Grand Traverse,Long Lake Twp Pct 3,State House,103,DEM,Betsy Coffia,330,591,921
+Grand Traverse,Peninsula Twp Pct 1,State House,103,DEM,Betsy Coffia,320,766,1086
+Grand Traverse,Peninsula Twp Pct 2,State House,103,DEM,Betsy Coffia,346,789,1135
+Grand Traverse,Traverse City Pct 1,State House,103,DEM,Betsy Coffia,380,570,950
+Grand Traverse,Traverse City Pct 3,State House,103,DEM,Betsy Coffia,399,608,1007
+Grand Traverse,Traverse City Pct 7,State House,103,DEM,Betsy Coffia,394,450,844
+Grand Traverse,Traverse City Pct 8,State House,103,DEM,Betsy Coffia,420,524,944
+Grand Traverse,Traverse City Pct 9,State House,103,DEM,Betsy Coffia,309,553,862
+Grand Traverse,Traverse City Pct 10,State House,103,DEM,Betsy Coffia,368,557,925
+Grand Traverse,Acme Twp Pct 1,State House,103,REP,Jack O'Malley,501,401,902
+Grand Traverse,Acme Twp Pct 2,State House,103,REP,Jack O'Malley,312,286,598
+Grand Traverse,East Bay Twp Pct 1,State House,103,REP,Jack O'Malley,381,335,716
+Grand Traverse,East Bay Twp Pct 2,State House,103,REP,Jack O'Malley,449,354,803
+Grand Traverse,East Bay Twp Pct 3,State House,103,REP,Jack O'Malley,385,311,696
+Grand Traverse,East Bay Twp Pct 4,State House,103,REP,Jack O'Malley,440,328,768
+Grand Traverse,East Bay Twp Pct 5,State House,103,REP,Jack O'Malley,423,298,721
+Grand Traverse,Garfield Twp Pct 1,State House,103,REP,Jack O'Malley,539,339,878
+Grand Traverse,Garfield Twp Pct 2,State House,103,REP,Jack O'Malley,432,469,901
+Grand Traverse,Garfield Twp Pct 3,State House,103,REP,Jack O'Malley,273,172,445
+Grand Traverse,Garfield Twp Pct 4,State House,103,REP,Jack O'Malley,305,242,547
+Grand Traverse,Garfield Twp Pct 5,State House,103,REP,Jack O'Malley,564,402,966
+Grand Traverse,Garfield Twp Pct 6,State House,103,REP,Jack O'Malley,383,274,657
+Grand Traverse,Garfield Twp Pct 7,State House,103,REP,Jack O'Malley,288,94,382
+Grand Traverse,Long Lake Twp Pct 1,State House,103,REP,Jack O'Malley,566,335,901
+Grand Traverse,Long Lake Twp Pct 2,State House,103,REP,Jack O'Malley,650,389,1039
+Grand Traverse,Long Lake Twp Pct 3,State House,103,REP,Jack O'Malley,764,546,1310
+Grand Traverse,Peninsula Twp Pct 1,State House,103,REP,Jack O'Malley,490,613,1103
+Grand Traverse,Peninsula Twp Pct 2,State House,103,REP,Jack O'Malley,429,557,986
+Grand Traverse,Traverse City Pct 1,State House,103,REP,Jack O'Malley,287,235,522
+Grand Traverse,Traverse City Pct 3,State House,103,REP,Jack O'Malley,233,178,411
+Grand Traverse,Traverse City Pct 7,State House,103,REP,Jack O'Malley,264,166,430
+Grand Traverse,Traverse City Pct 8,State House,103,REP,Jack O'Malley,233,151,384
+Grand Traverse,Traverse City Pct 9,State House,103,REP,Jack O'Malley,269,247,516
+Grand Traverse,Traverse City Pct 10,State House,103,REP,Jack O'Malley,313,231,544
+Grand Traverse,Acme Twp Pct 1,State House,103,LIB,Courtney Evans,31,14,45
+Grand Traverse,Acme Twp Pct 2,State House,103,LIB,Courtney Evans,14,10,24
+Grand Traverse,East Bay Twp Pct 1,State House,103,LIB,Courtney Evans,18,8,26
+Grand Traverse,East Bay Twp Pct 2,State House,103,LIB,Courtney Evans,17,9,26
+Grand Traverse,East Bay Twp Pct 3,State House,103,LIB,Courtney Evans,13,7,20
+Grand Traverse,East Bay Twp Pct 4,State House,103,LIB,Courtney Evans,19,16,35
+Grand Traverse,East Bay Twp Pct 5,State House,103,LIB,Courtney Evans,13,14,27
+Grand Traverse,Garfield Twp Pct 1,State House,103,LIB,Courtney Evans,17,5,22
+Grand Traverse,Garfield Twp Pct 2,State House,103,LIB,Courtney Evans,15,7,22
+Grand Traverse,Garfield Twp Pct 3,State House,103,LIB,Courtney Evans,18,9,27
+Grand Traverse,Garfield Twp Pct 4,State House,103,LIB,Courtney Evans,21,7,28
+Grand Traverse,Garfield Twp Pct 5,State House,103,LIB,Courtney Evans,16,8,24
+Grand Traverse,Garfield Twp Pct 6,State House,103,LIB,Courtney Evans,23,10,33
+Grand Traverse,Garfield Twp Pct 7,State House,103,LIB,Courtney Evans,15,9,24
+Grand Traverse,Long Lake Twp Pct 1,State House,103,LIB,Courtney Evans,28,15,43
+Grand Traverse,Long Lake Twp Pct 2,State House,103,LIB,Courtney Evans,14,12,26
+Grand Traverse,Long Lake Twp Pct 3,State House,103,LIB,Courtney Evans,18,11,29
+Grand Traverse,Peninsula Twp Pct 1,State House,103,LIB,Courtney Evans,19,7,26
+Grand Traverse,Peninsula Twp Pct 2,State House,103,LIB,Courtney Evans,14,8,22
+Grand Traverse,Traverse City Pct 1,State House,103,LIB,Courtney Evans,16,10,26
+Grand Traverse,Traverse City Pct 3,State House,103,LIB,Courtney Evans,10,10,20
+Grand Traverse,Traverse City Pct 7,State House,103,LIB,Courtney Evans,19,11,30
+Grand Traverse,Traverse City Pct 8,State House,103,LIB,Courtney Evans,10,10,20
+Grand Traverse,Traverse City Pct 9,State House,103,LIB,Courtney Evans,9,7,16
+Grand Traverse,Traverse City Pct 10,State House,103,LIB,Courtney Evans,18,9,27
+Grand Traverse,Blair Twp Pct 1,State House,104,DEM,Cathy Albro,142,129,271
+Grand Traverse,Blair Twp Pct 2,State House,104,DEM,Cathy Albro,215,284,499
+Grand Traverse,Blair Twp Pct 3,State House,104,DEM,Cathy Albro,161,206,367
+Grand Traverse,Blair Twp Pct 4,State House,104,DEM,Cathy Albro,174,130,304
+Grand Traverse,Fife Lake Twp Pct 1,State House,104,DEM,Cathy Albro,139,107,246
+Grand Traverse,Grant Twp Pct 1,State House,104,DEM,Cathy Albro,171,0,171
+Grand Traverse,Green Lake Twp Pct 1,State House,104,DEM,Cathy Albro,271,300,571
+Grand Traverse,Green Lake Twp Pct 2,State House,104,DEM,Cathy Albro,233,260,493
+Grand Traverse,Green Lake Twp Pct 3,State House,104,DEM,Cathy Albro,175,204,379
+Grand Traverse,Mayfield Twp Pct 1,State House,104,DEM,Cathy Albro,213,0,213
+Grand Traverse,Paradise Twp Pct 1,State House,104,DEM,Cathy Albro,409,0,409
+Grand Traverse,Paradise Twp Pct 2,State House,104,DEM,Cathy Albro,317,0,317
+Grand Traverse,Union Twp Pct 1,State House,104,DEM,Cathy Albro,84,0,84
+Grand Traverse,Whitewater Twp Pct 1,State House,104,DEM,Cathy Albro,219,350,569
+Grand Traverse,Blair Twp Pct 1,State House,104,REP,John R. Roth,303,130,433
+Grand Traverse,Blair Twp Pct 2,State House,104,REP,John R. Roth,588,311,899
+Grand Traverse,Blair Twp Pct 3,State House,104,REP,John R. Roth,313,186,499
+Grand Traverse,Blair Twp Pct 4,State House,104,REP,John R. Roth,355,133,488
+Grand Traverse,Fife Lake Twp Pct 1,State House,104,REP,John R. Roth,472,147,619
+Grand Traverse,Grant Twp Pct 1,State House,104,REP,John R. Roth,491,0,491
+Grand Traverse,Green Lake Twp Pct 1,State House,104,REP,John R. Roth,540,291,831
+Grand Traverse,Green Lake Twp Pct 2,State House,104,REP,John R. Roth,477,175,652
+Grand Traverse,Green Lake Twp Pct 3,State House,104,REP,John R. Roth,337,139,476
+Grand Traverse,Mayfield Twp Pct 1,State House,104,REP,John R. Roth,610,0,610
+Grand Traverse,Paradise Twp Pct 1,State House,104,REP,John R. Roth,881,0,881
+Grand Traverse,Paradise Twp Pct 2,State House,104,REP,John R. Roth,649,0,649
+Grand Traverse,Union Twp Pct 1,State House,104,REP,John R. Roth,181,0,181
+Grand Traverse,Whitewater Twp Pct 1,State House,104,REP,John R. Roth,604,462,1066

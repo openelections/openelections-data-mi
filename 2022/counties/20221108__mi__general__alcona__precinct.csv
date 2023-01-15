@@ -1,0 +1,301 @@
+county,precinct,office,district,party,candidate,votes
+Alcona,Alcona,Registered Voters,,,,1083
+Alcona,Caledonia,Registered Voters,,,,1037
+Alcona,Curtis,Registered Voters,,,,1166
+Alcona,Greenbush,Registered Voters,,,,1397
+Alcona,Gustin,Registered Voters,,,,724
+Alcona,Harrisville,Registered Voters,,,,1210
+Alcona,Hawes,Registered Voters,,,,1034
+Alcona,Haynes,Registered Voters,,,,707
+Alcona,Mikado,Registered Voters,,,,823
+Alcona,Millen,Registered Voters,,,,374
+Alcona,Mitchell,Registered Voters,,,,395
+Alcona,City of Harrisville,Registered Voters,,,,407
+Alcona,Alcona,Ballots Cast,,,,739
+Alcona,Caledonia,Ballots Cast,,,,675
+Alcona,Curtis,Ballots Cast,,,,582
+Alcona,Greenbush,Ballots Cast,,,,751
+Alcona,Gustin,Ballots Cast,,,,362
+Alcona,Harrisville,Ballots Cast,,,,715
+Alcona,Hawes,Ballots Cast,,,,595
+Alcona,Haynes,Ballots Cast,,,,444
+Alcona,Mikado,Ballots Cast,,,,454
+Alcona,Millen,Ballots Cast,,,,229
+Alcona,Mitchell,Ballots Cast,,,,248
+Alcona,City of Harrisville,Ballots Cast,,,,236
+Alcona,Alcona,Governor,,DEM,Gretchen Whitmer,260
+Alcona,Caledonia,Governor,,DEM,Gretchen Whitmer,229
+Alcona,Curtis,Governor,,DEM,Gretchen Whitmer,211
+Alcona,Greenbush,Governor,,DEM,Gretchen Whitmer,305
+Alcona,Gustin,Governor,,DEM,Gretchen Whitmer,109
+Alcona,Harrisville,Governor,,DEM,Gretchen Whitmer,239
+Alcona,Hawes,Governor,,DEM,Gretchen Whitmer,191
+Alcona,Haynes,Governor,,DEM,Gretchen Whitmer,160
+Alcona,Mikado,Governor,,DEM,Gretchen Whitmer,107
+Alcona,Millen,Governor,,DEM,Gretchen Whitmer,87
+Alcona,Mitchell,Governor,,DEM,Gretchen Whitmer,56
+Alcona,City of Harrisville,Governor,,DEM,Gretchen Whitmer,122
+Alcona,Alcona,Governor,,REP,Tudor M. Dixon,465
+Alcona,Caledonia,Governor,,REP,Tudor M. Dixon,437
+Alcona,Curtis,Governor,,REP,Tudor M. Dixon,357
+Alcona,Greenbush,Governor,,REP,Tudor M. Dixon,428
+Alcona,Gustin,Governor,,REP,Tudor M. Dixon,246
+Alcona,Harrisville,Governor,,REP,Tudor M. Dixon,456
+Alcona,Hawes,Governor,,REP,Tudor M. Dixon,389
+Alcona,Haynes,Governor,,REP,Tudor M. Dixon,274
+Alcona,Mikado,Governor,,REP,Tudor M. Dixon,329
+Alcona,Millen,Governor,,REP,Tudor M. Dixon,131
+Alcona,Mitchell,Governor,,REP,Tudor M. Dixon,179
+Alcona,City of Harrisville,Governor,,REP,Tudor M. Dixon,111
+Alcona,Alcona,Governor,,LIB,Mary Buzuma,2
+Alcona,Caledonia,Governor,,LIB,Mary Buzuma,3
+Alcona,Curtis,Governor,,LIB,Mary Buzuma,6
+Alcona,Greenbush,Governor,,LIB,Mary Buzuma,4
+Alcona,Gustin,Governor,,LIB,Mary Buzuma,4
+Alcona,Harrisville,Governor,,LIB,Mary Buzuma,4
+Alcona,Hawes,Governor,,LIB,Mary Buzuma,6
+Alcona,Haynes,Governor,,LIB,Mary Buzuma,0
+Alcona,Mikado,Governor,,LIB,Mary Buzuma,4
+Alcona,Millen,Governor,,LIB,Mary Buzuma,1
+Alcona,Mitchell,Governor,,LIB,Mary Buzuma,2
+Alcona,City of Harrisville,Governor,,LIB,Mary Buzuma,2
+Alcona,Alcona,Governor,,UST,Donna Brandenburg,0
+Alcona,Caledonia,Governor,,UST,Donna Brandenburg,0
+Alcona,Curtis,Governor,,UST,Donna Brandenburg,3
+Alcona,Greenbush,Governor,,UST,Donna Brandenburg,3
+Alcona,Gustin,Governor,,UST,Donna Brandenburg,1
+Alcona,Harrisville,Governor,,UST,Donna Brandenburg,6
+Alcona,Hawes,Governor,,UST,Donna Brandenburg,6
+Alcona,Haynes,Governor,,UST,Donna Brandenburg,3
+Alcona,Mikado,Governor,,UST,Donna Brandenburg,6
+Alcona,Millen,Governor,,UST,Donna Brandenburg,4
+Alcona,Mitchell,Governor,,UST,Donna Brandenburg,7
+Alcona,City of Harrisville,Governor,,UST,Donna Brandenburg,0
+Alcona,Alcona,Governor,,GRN,Kevin Hogan,0
+Alcona,Caledonia,Governor,,GRN,Kevin Hogan,2
+Alcona,Curtis,Governor,,GRN,Kevin Hogan,2
+Alcona,Greenbush,Governor,,GRN,Kevin Hogan,0
+Alcona,Gustin,Governor,,GRN,Kevin Hogan,1
+Alcona,Harrisville,Governor,,GRN,Kevin Hogan,4
+Alcona,Hawes,Governor,,GRN,Kevin Hogan,1
+Alcona,Haynes,Governor,,GRN,Kevin Hogan,1
+Alcona,Mikado,Governor,,GRN,Kevin Hogan,2
+Alcona,Millen,Governor,,GRN,Kevin Hogan,1
+Alcona,Mitchell,Governor,,GRN,Kevin Hogan,0
+Alcona,City of Harrisville,Governor,,GRN,Kevin Hogan,0
+Alcona,Alcona,Governor,,NLP,Daryl M. Simpson,3
+Alcona,Caledonia,Governor,,NLP,Daryl M. Simpson,1
+Alcona,Curtis,Governor,,NLP,Daryl M. Simpson,1
+Alcona,Greenbush,Governor,,NLP,Daryl M. Simpson,3
+Alcona,Gustin,Governor,,NLP,Daryl M. Simpson,0
+Alcona,Harrisville,Governor,,NLP,Daryl M. Simpson,1
+Alcona,Hawes,Governor,,NLP,Daryl M. Simpson,0
+Alcona,Haynes,Governor,,NLP,Daryl M. Simpson,0
+Alcona,Mikado,Governor,,NLP,Daryl M. Simpson,2
+Alcona,Millen,Governor,,NLP,Daryl M. Simpson,1
+Alcona,Mitchell,Governor,,NLP,Daryl M. Simpson,0
+Alcona,City of Harrisville,Governor,,NLP,Daryl M. Simpson,0
+Alcona,Alcona,Secretary of State,,DEM,Jocelyn Benson,269
+Alcona,Caledonia,Secretary of State,,DEM,Jocelyn Benson,220
+Alcona,Curtis,Secretary of State,,DEM,Jocelyn Benson,203
+Alcona,Greenbush,Secretary of State,,DEM,Jocelyn Benson,306
+Alcona,Gustin,Secretary of State,,DEM,Jocelyn Benson,103
+Alcona,Harrisville,Secretary of State,,DEM,Jocelyn Benson,240
+Alcona,Hawes,Secretary of State,,DEM,Jocelyn Benson,187
+Alcona,Haynes,Secretary of State,,DEM,Jocelyn Benson,166
+Alcona,Mikado,Secretary of State,,DEM,Jocelyn Benson,103
+Alcona,Millen,Secretary of State,,DEM,Jocelyn Benson,80
+Alcona,Mitchell,Secretary of State,,DEM,Jocelyn Benson,54
+Alcona,City of Harrisville,Secretary of State,,DEM,Jocelyn Benson,118
+Alcona,Alcona,Secretary of State,,REP,Kristina Elaine Karamo,447
+Alcona,Caledonia,Secretary of State,,REP,Kristina Elaine Karamo,440
+Alcona,Curtis,Secretary of State,,REP,Kristina Elaine Karamo,362
+Alcona,Greenbush,Secretary of State,,REP,Kristina Elaine Karamo,419
+Alcona,Gustin,Secretary of State,,REP,Kristina Elaine Karamo,241
+Alcona,Harrisville,Secretary of State,,REP,Kristina Elaine Karamo,443
+Alcona,Hawes,Secretary of State,,REP,Kristina Elaine Karamo,387
+Alcona,Haynes,Secretary of State,,REP,Kristina Elaine Karamo,262
+Alcona,Mikado,Secretary of State,,REP,Kristina Elaine Karamo,333
+Alcona,Millen,Secretary of State,,REP,Kristina Elaine Karamo,134
+Alcona,Mitchell,Secretary of State,,REP,Kristina Elaine Karamo,185
+Alcona,City of Harrisville,Secretary of State,,REP,Kristina Elaine Karamo,112
+Alcona,Alcona,Secretary of State,,LIB,Gregory Scott Stempfle,6
+Alcona,Caledonia,Secretary of State,,LIB,Gregory Scott Stempfle,5
+Alcona,Curtis,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Alcona,Greenbush,Secretary of State,,LIB,Gregory Scott Stempfle,7
+Alcona,Gustin,Secretary of State,,LIB,Gregory Scott Stempfle,7
+Alcona,Harrisville,Secretary of State,,LIB,Gregory Scott Stempfle,8
+Alcona,Hawes,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Alcona,Haynes,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Alcona,Mikado,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Alcona,Millen,Secretary of State,,LIB,Gregory Scott Stempfle,2
+Alcona,Mitchell,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Alcona,City of Harrisville,Secretary of State,,LIB,Gregory Scott Stempfle,4
+Alcona,Alcona,Secretary of State,,UST,Christine C. Schwartz,4
+Alcona,Caledonia,Secretary of State,,UST,Christine C. Schwartz,3
+Alcona,Curtis,Secretary of State,,UST,Christine C. Schwartz,7
+Alcona,Greenbush,Secretary of State,,UST,Christine C. Schwartz,3
+Alcona,Gustin,Secretary of State,,UST,Christine C. Schwartz,7
+Alcona,Harrisville,Secretary of State,,UST,Christine C. Schwartz,12
+Alcona,Hawes,Secretary of State,,UST,Christine C. Schwartz,5
+Alcona,Haynes,Secretary of State,,UST,Christine C. Schwartz,4
+Alcona,Mikado,Secretary of State,,UST,Christine C. Schwartz,3
+Alcona,Millen,Secretary of State,,UST,Christine C. Schwartz,4
+Alcona,Mitchell,Secretary of State,,UST,Christine C. Schwartz,3
+Alcona,City of Harrisville,Secretary of State,,UST,Christine C. Schwartz,0
+Alcona,Alcona,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Alcona,Caledonia,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,Curtis,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Alcona,Greenbush,Secretary of State,,GRN,Larry James Hutchinson Jr.,7
+Alcona,Gustin,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,Harrisville,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Alcona,Hawes,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,Haynes,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,Mikado,Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Alcona,Millen,Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Alcona,Mitchell,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,City of Harrisville,Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alcona,Alcona,Attorney General,,DEM,Dana Nessel,236
+Alcona,Caledonia,Attorney General,,DEM,Dana Nessel,217
+Alcona,Curtis,Attorney General,,DEM,Dana Nessel,198
+Alcona,Greenbush,Attorney General,,DEM,Dana Nessel,288
+Alcona,Gustin,Attorney General,,DEM,Dana Nessel,97
+Alcona,Harrisville,Attorney General,,DEM,Dana Nessel,223
+Alcona,Hawes,Attorney General,,DEM,Dana Nessel,177
+Alcona,Haynes,Attorney General,,DEM,Dana Nessel,149
+Alcona,Mikado,Attorney General,,DEM,Dana Nessel,96
+Alcona,Millen,Attorney General,,DEM,Dana Nessel,77
+Alcona,Mitchell,Attorney General,,DEM,Dana Nessel,52
+Alcona,City of Harrisville,Attorney General,,DEM,Dana Nessel,108
+Alcona,Alcona,Attorney General,,REP,Matthew DePerno,476
+Alcona,Caledonia,Attorney General,,REP,Matthew DePerno,445
+Alcona,Curtis,Attorney General,,REP,Matthew DePerno,362
+Alcona,Greenbush,Attorney General,,REP,Matthew DePerno,434
+Alcona,Gustin,Attorney General,,REP,Matthew DePerno,248
+Alcona,Harrisville,Attorney General,,REP,Matthew DePerno,461
+Alcona,Hawes,Attorney General,,REP,Matthew DePerno,390
+Alcona,Haynes,Attorney General,,REP,Matthew DePerno,276
+Alcona,Mikado,Attorney General,,REP,Matthew DePerno,340
+Alcona,Millen,Attorney General,,REP,Matthew DePerno,139
+Alcona,Mitchell,Attorney General,,REP,Matthew DePerno,187
+Alcona,City of Harrisville,Attorney General,,REP,Matthew DePerno,117
+Alcona,Alcona,Attorney General,,LIB,Joseph W. McHugh Jr.,10
+Alcona,Caledonia,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Alcona,Curtis,Attorney General,,LIB,Joseph W. McHugh Jr.,6
+Alcona,Greenbush,Attorney General,,LIB,Joseph W. McHugh Jr.,8
+Alcona,Gustin,Attorney General,,LIB,Joseph W. McHugh Jr.,5
+Alcona,Harrisville,Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Alcona,Hawes,Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Alcona,Haynes,Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Alcona,Mikado,Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Alcona,Millen,Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Alcona,Mitchell,Attorney General,,LIB,Joseph W. McHugh Jr.,2
+Alcona,City of Harrisville,Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Alcona,Alcona,Attorney General,,UST,Gerald T. Van Sickle,3
+Alcona,Caledonia,Attorney General,,UST,Gerald T. Van Sickle,1
+Alcona,Curtis,Attorney General,,UST,Gerald T. Van Sickle,4
+Alcona,Greenbush,Attorney General,,UST,Gerald T. Van Sickle,4
+Alcona,Gustin,Attorney General,,UST,Gerald T. Van Sickle,8
+Alcona,Harrisville,Attorney General,,UST,Gerald T. Van Sickle,11
+Alcona,Hawes,Attorney General,,UST,Gerald T. Van Sickle,6
+Alcona,Haynes,Attorney General,,UST,Gerald T. Van Sickle,3
+Alcona,Mikado,Attorney General,,UST,Gerald T. Van Sickle,3
+Alcona,Millen,Attorney General,,UST,Gerald T. Van Sickle,2
+Alcona,Mitchell,Attorney General,,UST,Gerald T. Van Sickle,1
+Alcona,City of Harrisville,Attorney General,,UST,Gerald T. Van Sickle,2
+Alcona,Alcona,U.S. House,1,DEM,Bob Lorinser,205
+Alcona,Caledonia,U.S. House,1,DEM,Bob Lorinser,206
+Alcona,Curtis,U.S. House,1,DEM,Bob Lorinser,167
+Alcona,Greenbush,U.S. House,1,DEM,Bob Lorinser,247
+Alcona,Gustin,U.S. House,1,DEM,Bob Lorinser,83
+Alcona,Harrisville,U.S. House,1,DEM,Bob Lorinser,192
+Alcona,Hawes,U.S. House,1,DEM,Bob Lorinser,148
+Alcona,Haynes,U.S. House,1,DEM,Bob Lorinser,135
+Alcona,Mikado,U.S. House,1,DEM,Bob Lorinser,81
+Alcona,Millen,U.S. House,1,DEM,Bob Lorinser,63
+Alcona,Mitchell,U.S. House,1,DEM,Bob Lorinser,46
+Alcona,City of Harrisville,U.S. House,1,DEM,Bob Lorinser,102
+Alcona,Alcona,U.S. House,1,REP,Jack Bergman,505
+Alcona,Caledonia,U.S. House,1,REP,Jack Bergman,455
+Alcona,Curtis,U.S. House,1,REP,Jack Bergman,380
+Alcona,Greenbush,U.S. House,1,REP,Jack Bergman,478
+Alcona,Gustin,U.S. House,1,REP,Jack Bergman,266
+Alcona,Harrisville,U.S. House,1,REP,Jack Bergman,487
+Alcona,Hawes,U.S. House,1,REP,Jack Bergman,428
+Alcona,Haynes,U.S. House,1,REP,Jack Bergman,297
+Alcona,Mikado,U.S. House,1,REP,Jack Bergman,351
+Alcona,Millen,U.S. House,1,REP,Jack Bergman,158
+Alcona,Mitchell,U.S. House,1,REP,Jack Bergman,193
+Alcona,City of Harrisville,U.S. House,1,REP,Jack Bergman,126
+Alcona,Alcona,U.S. House,1,LIB,Andrew Gale,5
+Alcona,Caledonia,U.S. House,1,LIB,Andrew Gale,4
+Alcona,Curtis,U.S. House,1,LIB,Andrew Gale,7
+Alcona,Greenbush,U.S. House,1,LIB,Andrew Gale,9
+Alcona,Gustin,U.S. House,1,LIB,Andrew Gale,5
+Alcona,Harrisville,U.S. House,1,LIB,Andrew Gale,4
+Alcona,Hawes,U.S. House,1,LIB,Andrew Gale,8
+Alcona,Haynes,U.S. House,1,LIB,Andrew Gale,1
+Alcona,Mikado,U.S. House,1,LIB,Andrew Gale,5
+Alcona,Millen,U.S. House,1,LIB,Andrew Gale,0
+Alcona,Mitchell,U.S. House,1,LIB,Andrew Gale,2
+Alcona,City of Harrisville,U.S. House,1,LIB,Andrew Gale,4
+Alcona,Alcona,U.S. House,1,WCP,Liz Hakola,9
+Alcona,Caledonia,U.S. House,1,WCP,Liz Hakola,3
+Alcona,Curtis,U.S. House,1,WCP,Liz Hakola,9
+Alcona,Greenbush,U.S. House,1,WCP,Liz Hakola,4
+Alcona,Gustin,U.S. House,1,WCP,Liz Hakola,5
+Alcona,Harrisville,U.S. House,1,WCP,Liz Hakola,13
+Alcona,Hawes,U.S. House,1,WCP,Liz Hakola,4
+Alcona,Haynes,U.S. House,1,WCP,Liz Hakola,5
+Alcona,Mikado,U.S. House,1,WCP,Liz Hakola,9
+Alcona,Millen,U.S. House,1,WCP,Liz Hakola,4
+Alcona,Mitchell,U.S. House,1,WCP,Liz Hakola,3
+Alcona,City of Harrisville,U.S. House,1,WCP,Liz Hakola,0
+Alcona,Alcona,State Senate,36,DEM,Joel A. Sheltrown,218
+Alcona,Caledonia,State Senate,36,DEM,Joel A. Sheltrown,206
+Alcona,Curtis,State Senate,36,DEM,Joel A. Sheltrown,186
+Alcona,Greenbush,State Senate,36,DEM,Joel A. Sheltrown,274
+Alcona,Gustin,State Senate,36,DEM,Joel A. Sheltrown,96
+Alcona,Harrisville,State Senate,36,DEM,Joel A. Sheltrown,208
+Alcona,Hawes,State Senate,36,DEM,Joel A. Sheltrown,173
+Alcona,Haynes,State Senate,36,DEM,Joel A. Sheltrown,138
+Alcona,Mikado,State Senate,36,DEM,Joel A. Sheltrown,100
+Alcona,Millen,State Senate,36,DEM,Joel A. Sheltrown,69
+Alcona,Mitchell,State Senate,36,DEM,Joel A. Sheltrown,44
+Alcona,City of Harrisville,State Senate,36,DEM,Joel A. Sheltrown,107
+Alcona,Alcona,State Senate,36,REP,Michele Hoitenga,497
+Alcona,Caledonia,State Senate,36,REP,Michele Hoitenga,458
+Alcona,Curtis,State Senate,36,REP,Michele Hoitenga,375
+Alcona,Greenbush,State Senate,36,REP,Michele Hoitenga,455
+Alcona,Gustin,State Senate,36,REP,Michele Hoitenga,259
+Alcona,Harrisville,State Senate,36,REP,Michele Hoitenga,484
+Alcona,Hawes,State Senate,36,REP,Michele Hoitenga,412
+Alcona,Haynes,State Senate,36,REP,Michele Hoitenga,292
+Alcona,Mikado,State Senate,36,REP,Michele Hoitenga,340
+Alcona,Millen,State Senate,36,REP,Michele Hoitenga,150
+Alcona,Mitchell,State Senate,36,REP,Michele Hoitenga,199
+Alcona,City of Harrisville,State Senate,36,REP,Michele Hoitenga,121
+Alcona,Alcona,State House,106,DEM,Marie M. Fielder,233
+Alcona,Caledonia,State House,106,DEM,Marie M. Fielder,216
+Alcona,Curtis,State House,106,DEM,Marie M. Fielder,179
+Alcona,Greenbush,State House,106,DEM,Marie M. Fielder,274
+Alcona,Gustin,State House,106,DEM,Marie M. Fielder,94
+Alcona,Harrisville,State House,106,DEM,Marie M. Fielder,215
+Alcona,Hawes,State House,106,DEM,Marie M. Fielder,176
+Alcona,Haynes,State House,106,DEM,Marie M. Fielder,149
+Alcona,Mikado,State House,106,DEM,Marie M. Fielder,94
+Alcona,Millen,State House,106,DEM,Marie M. Fielder,74
+Alcona,Mitchell,State House,106,DEM,Marie M. Fielder,49
+Alcona,City of Harrisville,State House,106,DEM,Marie M. Fielder,111
+Alcona,Alcona,State House,106,REP,Cam Cavitt,490
+Alcona,Caledonia,State House,106,REP,Cam Cavitt,449
+Alcona,Curtis,State House,106,REP,Cam Cavitt,378
+Alcona,Greenbush,State House,106,REP,Cam Cavitt,453
+Alcona,Gustin,State House,106,REP,Cam Cavitt,262
+Alcona,Harrisville,State House,106,REP,Cam Cavitt,476
+Alcona,Hawes,State House,106,REP,Cam Cavitt,413
+Alcona,Haynes,State House,106,REP,Cam Cavitt,286
+Alcona,Mikado,State House,106,REP,Cam Cavitt,346
+Alcona,Millen,State House,106,REP,Cam Cavitt,148
+Alcona,Mitchell,State House,106,REP,Cam Cavitt,191
+Alcona,City of Harrisville,State House,106,REP,Cam Cavitt,119

@@ -1,0 +1,330 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,Beaver Creek Twsp (CASD),Registered Voters,,,,1124
+Crawford,Beaver Creek Twsp (RAPS),Registered Voters,,,,389
+Crawford,Frederic Twsp,Registered Voters,,,,1300
+Crawford,Grayling Twsp - 302,Registered Voters,,,,390
+Crawford,Grayling Twsp - 304,Registered Voters,,,,1743
+Crawford,Grayling Twsp - 305,Registered Voters,,,,1655
+Crawford,Grayling Twsp - 306,Registered Voters,,,,1157
+Crawford,Grayling Twsp - 307,Registered Voters,,,,194
+Crawford,Lovells Twsp,Registered Voters,,,,603
+Crawford,Maple Forest Twsp (CASD),Registered Voters,,,,638
+Crawford,Maple Forest Twsp (GAPS),Registered Voters,,,,2
+Crawford,South Branch Twsp,Registered Voters,,,,1700
+Crawford,Grayling City,Registered Voters,,,,1494
+Crawford,Bear Lake Twsp (CASD),Registered Voters,,,,226
+Crawford,Otsego Lake Twsp (CASD),Registered Voters,,,,97
+Crawford,Beaver Creek Twsp (CASD),Ballots Cast,,,,688
+Crawford,Beaver Creek Twsp (RAPS),Ballots Cast,,,,156
+Crawford,Frederic Twsp,Ballots Cast,,,,675
+Crawford,Grayling Twsp - 302,Ballots Cast,,,,194
+Crawford,Grayling Twsp - 304,Ballots Cast,,,,1044
+Crawford,Grayling Twsp - 305,Ballots Cast,,,,839
+Crawford,Grayling Twsp - 306,Ballots Cast,,,,634
+Crawford,Grayling Twsp - 307,Ballots Cast,,,,96
+Crawford,Lovells Twsp,Ballots Cast,,,,406
+Crawford,Maple Forest Twsp (CASD),Ballots Cast,,,,358
+Crawford,Maple Forest Twsp (GAPS),Ballots Cast,,,,0
+Crawford,South Branch Twsp,Ballots Cast,,,,949
+Crawford,Grayling City,Ballots Cast,,,,548
+Crawford,Bear Lake Twsp (CASD),Ballots Cast,,,,67
+Crawford,Otsego Lake Twsp (CASD),Ballots Cast,,,,62
+Crawford,Beaver Creek Twsp (CASD),Governor,,DEM,Gretchen Whitmer,273
+Crawford,Beaver Creek Twsp (RAPS),Governor,,DEM,Gretchen Whitmer,55
+Crawford,Frederic Twsp,Governor,,DEM,Gretchen Whitmer,243
+Crawford,Grayling Twsp - 302,Governor,,DEM,Gretchen Whitmer,87
+Crawford,Grayling Twsp - 304,Governor,,DEM,Gretchen Whitmer,438
+Crawford,Grayling Twsp - 305,Governor,,DEM,Gretchen Whitmer,362
+Crawford,Grayling Twsp - 306,Governor,,DEM,Gretchen Whitmer,252
+Crawford,Grayling Twsp - 307,Governor,,DEM,Gretchen Whitmer,25
+Crawford,Lovells Twsp,Governor,,DEM,Gretchen Whitmer,149
+Crawford,Maple Forest Twsp (CASD),Governor,,DEM,Gretchen Whitmer,106
+Crawford,Maple Forest Twsp (GAPS),Governor,,DEM,Gretchen Whitmer,0
+Crawford,South Branch Twsp,Governor,,DEM,Gretchen Whitmer,399
+Crawford,Grayling City,Governor,,DEM,Gretchen Whitmer,266
+Crawford,Beaver Creek Twsp (CASD),Governor,,REP,Tudor M. Dixon,402
+Crawford,Beaver Creek Twsp (RAPS),Governor,,REP,Tudor M. Dixon,100
+Crawford,Frederic Twsp,Governor,,REP,Tudor M. Dixon,413
+Crawford,Grayling Twsp - 302,Governor,,REP,Tudor M. Dixon,105
+Crawford,Grayling Twsp - 304,Governor,,REP,Tudor M. Dixon,573
+Crawford,Grayling Twsp - 305,Governor,,REP,Tudor M. Dixon,441
+Crawford,Grayling Twsp - 306,Governor,,REP,Tudor M. Dixon,358
+Crawford,Grayling Twsp - 307,Governor,,REP,Tudor M. Dixon,68
+Crawford,Lovells Twsp,Governor,,REP,Tudor M. Dixon,244
+Crawford,Maple Forest Twsp (CASD),Governor,,REP,Tudor M. Dixon,240
+Crawford,Maple Forest Twsp (GAPS),Governor,,REP,Tudor M. Dixon,0
+Crawford,South Branch Twsp,Governor,,REP,Tudor M. Dixon,525
+Crawford,Grayling City,Governor,,REP,Tudor M. Dixon,259
+Crawford,Beaver Creek Twsp (CASD),Governor,,LIB,Mary Buzuma,7
+Crawford,Beaver Creek Twsp (RAPS),Governor,,LIB,Mary Buzuma,0
+Crawford,Frederic Twsp,Governor,,LIB,Mary Buzuma,5
+Crawford,Grayling Twsp - 302,Governor,,LIB,Mary Buzuma,0
+Crawford,Grayling Twsp - 304,Governor,,LIB,Mary Buzuma,17
+Crawford,Grayling Twsp - 305,Governor,,LIB,Mary Buzuma,12
+Crawford,Grayling Twsp - 306,Governor,,LIB,Mary Buzuma,11
+Crawford,Grayling Twsp - 307,Governor,,LIB,Mary Buzuma,1
+Crawford,Lovells Twsp,Governor,,LIB,Mary Buzuma,5
+Crawford,Maple Forest Twsp (CASD),Governor,,LIB,Mary Buzuma,6
+Crawford,Maple Forest Twsp (GAPS),Governor,,LIB,Mary Buzuma,0
+Crawford,South Branch Twsp,Governor,,LIB,Mary Buzuma,7
+Crawford,Grayling City,Governor,,LIB,Mary Buzuma,9
+Crawford,Beaver Creek Twsp (CASD),Governor,,UST,Donna Brandenburg,
+Crawford,Beaver Creek Twsp (RAPS),Governor,,UST,Donna Brandenburg,0
+Crawford,Frederic Twsp,Governor,,UST,Donna Brandenburg,5
+Crawford,Grayling Twsp - 302,Governor,,UST,Donna Brandenburg,0
+Crawford,Grayling Twsp - 304,Governor,,UST,Donna Brandenburg,4
+Crawford,Grayling Twsp - 305,Governor,,UST,Donna Brandenburg,8
+Crawford,Grayling Twsp - 306,Governor,,UST,Donna Brandenburg,3
+Crawford,Grayling Twsp - 307,Governor,,UST,Donna Brandenburg,0
+Crawford,Lovells Twsp,Governor,,UST,Donna Brandenburg,3
+Crawford,Maple Forest Twsp (CASD),Governor,,UST,Donna Brandenburg,2
+Crawford,Maple Forest Twsp (GAPS),Governor,,UST,Donna Brandenburg,0
+Crawford,South Branch Twsp,Governor,,UST,Donna Brandenburg,7
+Crawford,Grayling City,Governor,,UST,Donna Brandenburg,5
+Crawford,Beaver Creek Twsp (CASD),Governor,,GRN,Kevin Hogan,2
+Crawford,Beaver Creek Twsp (RAPS),Governor,,GRN,Kevin Hogan,0
+Crawford,Frederic Twsp,Governor,,GRN,Kevin Hogan,2
+Crawford,Grayling Twsp - 302,Governor,,GRN,Kevin Hogan,0
+Crawford,Grayling Twsp - 304,Governor,,GRN,Kevin Hogan,1
+Crawford,Grayling Twsp - 305,Governor,,GRN,Kevin Hogan,5
+Crawford,Grayling Twsp - 306,Governor,,GRN,Kevin Hogan,3
+Crawford,Grayling Twsp - 307,Governor,,GRN,Kevin Hogan,1
+Crawford,Lovells Twsp,Governor,,GRN,Kevin Hogan,1
+Crawford,Maple Forest Twsp (CASD),Governor,,GRN,Kevin Hogan,1
+Crawford,Maple Forest Twsp (GAPS),Governor,,GRN,Kevin Hogan,0
+Crawford,South Branch Twsp,Governor,,GRN,Kevin Hogan,2
+Crawford,Grayling City,Governor,,GRN,Kevin Hogan,4
+Crawford,Beaver Creek Twsp (CASD),Governor,,NLP,Daryl M. Simpson,1
+Crawford,Beaver Creek Twsp (RAPS),Governor,,NLP,Daryl M. Simpson,0
+Crawford,Frederic Twsp,Governor,,NLP,Daryl M. Simpson,2
+Crawford,Grayling Twsp - 302,Governor,,NLP,Daryl M. Simpson,0
+Crawford,Grayling Twsp - 304,Governor,,NLP,Daryl M. Simpson,2
+Crawford,Grayling Twsp - 305,Governor,,NLP,Daryl M. Simpson,1
+Crawford,Grayling Twsp - 306,Governor,,NLP,Daryl M. Simpson,1
+Crawford,Grayling Twsp - 307,Governor,,NLP,Daryl M. Simpson,0
+Crawford,Lovells Twsp,Governor,,NLP,Daryl M. Simpson,1
+Crawford,Maple Forest Twsp (CASD),Governor,,NLP,Daryl M. Simpson,0
+Crawford,Maple Forest Twsp (GAPS),Governor,,NLP,Daryl M. Simpson,0
+Crawford,South Branch Twsp,Governor,,NLP,Daryl M. Simpson,0
+Crawford,Grayling City,Governor,,NLP,Daryl M. Simpson,0
+Crawford,Beaver Creek Twsp (CASD),Secretary of State,,DEM,Jocelyn Benson,255
+Crawford,Beaver Creek Twsp (RAPS),Secretary of State,,DEM,Jocelyn Benson,57
+Crawford,Frederic Twsp,Secretary of State,,DEM,Jocelyn Benson,240
+Crawford,Grayling Twsp - 302,Secretary of State,,DEM,Jocelyn Benson,86
+Crawford,Grayling Twsp - 304,Secretary of State,,DEM,Jocelyn Benson,424
+Crawford,Grayling Twsp - 305,Secretary of State,,DEM,Jocelyn Benson,346
+Crawford,Grayling Twsp - 306,Secretary of State,,DEM,Jocelyn Benson,247
+Crawford,Grayling Twsp - 307,Secretary of State,,DEM,Jocelyn Benson,27
+Crawford,Lovells Twsp,Secretary of State,,DEM,Jocelyn Benson,156
+Crawford,Maple Forest Twsp (CASD),Secretary of State,,DEM,Jocelyn Benson,108
+Crawford,Maple Forest Twsp (GAPS),Secretary of State,,DEM,Jocelyn Benson,0
+Crawford,South Branch Twsp,Secretary of State,,DEM,Jocelyn Benson,392
+Crawford,Grayling City,Secretary of State,,DEM,Jocelyn Benson,252
+Crawford,Beaver Creek Twsp (CASD),Secretary of State,,REP,Kristina Elaine Karamo,408
+Crawford,Beaver Creek Twsp (RAPS),Secretary of State,,REP,Kristina Elaine Karamo,94
+Crawford,Frederic Twsp,Secretary of State,,REP,Kristina Elaine Karamo,411
+Crawford,Grayling Twsp - 302,Secretary of State,,REP,Kristina Elaine Karamo,101
+Crawford,Grayling Twsp - 304,Secretary of State,,REP,Kristina Elaine Karamo,571
+Crawford,Grayling Twsp - 305,Secretary of State,,REP,Kristina Elaine Karamo,444
+Crawford,Grayling Twsp - 306,Secretary of State,,REP,Kristina Elaine Karamo,358
+Crawford,Grayling Twsp - 307,Secretary of State,,REP,Kristina Elaine Karamo,63
+Crawford,Lovells Twsp,Secretary of State,,REP,Kristina Elaine Karamo,238
+Crawford,Maple Forest Twsp (CASD),Secretary of State,,REP,Kristina Elaine Karamo,231
+Crawford,Maple Forest Twsp (GAPS),Secretary of State,,REP,Kristina Elaine Karamo,0
+Crawford,South Branch Twsp,Secretary of State,,REP,Kristina Elaine Karamo,527
+Crawford,Grayling City,Secretary of State,,REP,Kristina Elaine Karamo,263
+Crawford,Beaver Creek Twsp (CASD),Secretary of State,,LIB,Gregory Scott Stempfle,5
+Crawford,Beaver Creek Twsp (RAPS),Secretary of State,,LIB,Gregory Scott Stempfle,0
+Crawford,Frederic Twsp,Secretary of State,,LIB,Gregory Scott Stempfle,6
+Crawford,Grayling Twsp - 302,Secretary of State,,LIB,Gregory Scott Stempfle,0
+Crawford,Grayling Twsp - 304,Secretary of State,,LIB,Gregory Scott Stempfle,19
+Crawford,Grayling Twsp - 305,Secretary of State,,LIB,Gregory Scott Stempfle,17
+Crawford,Grayling Twsp - 306,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Crawford,Grayling Twsp - 307,Secretary of State,,LIB,Gregory Scott Stempfle,1
+Crawford,Lovells Twsp,Secretary of State,,LIB,Gregory Scott Stempfle,5
+Crawford,Maple Forest Twsp (CASD),Secretary of State,,LIB,Gregory Scott Stempfle,5
+Crawford,Maple Forest Twsp (GAPS),Secretary of State,,LIB,Gregory Scott Stempfle,0
+Crawford,South Branch Twsp,Secretary of State,,LIB,Gregory Scott Stempfle,10
+Crawford,Grayling City,Secretary of State,,LIB,Gregory Scott Stempfle,7
+Crawford,Beaver Creek Twsp (CASD),Secretary of State,,UST,Christine C. Schwartz,3
+Crawford,Beaver Creek Twsp (RAPS),Secretary of State,,UST,Christine C. Schwartz,1
+Crawford,Frederic Twsp,Secretary of State,,UST,Christine C. Schwartz,5
+Crawford,Grayling Twsp - 302,Secretary of State,,UST,Christine C. Schwartz,1
+Crawford,Grayling Twsp - 304,Secretary of State,,UST,Christine C. Schwartz,9
+Crawford,Grayling Twsp - 305,Secretary of State,,UST,Christine C. Schwartz,11
+Crawford,Grayling Twsp - 306,Secretary of State,,UST,Christine C. Schwartz,5
+Crawford,Grayling Twsp - 307,Secretary of State,,UST,Christine C. Schwartz,0
+Crawford,Lovells Twsp,Secretary of State,,UST,Christine C. Schwartz,1
+Crawford,Maple Forest Twsp (CASD),Secretary of State,,UST,Christine C. Schwartz,5
+Crawford,Maple Forest Twsp (GAPS),Secretary of State,,UST,Christine C. Schwartz,0
+Crawford,South Branch Twsp,Secretary of State,,UST,Christine C. Schwartz,5
+Crawford,Grayling City,Secretary of State,,UST,Christine C. Schwartz,7
+Crawford,Beaver Creek Twsp (CASD),Secretary of State,,GRN,"Larry James Hutchinson,Jr.",6
+Crawford,Beaver Creek Twsp (RAPS),Secretary of State,,GRN,"Larry James Hutchinson,Jr.",0
+Crawford,Frederic Twsp,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",3
+Crawford,Grayling Twsp - 302,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",0
+Crawford,Grayling Twsp - 304,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",1
+Crawford,Grayling Twsp - 305,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",3
+Crawford,Grayling Twsp - 306,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",6
+Crawford,Grayling Twsp - 307,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",1
+Crawford,Lovells Twsp,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",0
+Crawford,Maple Forest Twsp (CASD),Secretary of State,,GRN,"Larry James Hutchinson,Jr.",2
+Crawford,Maple Forest Twsp (GAPS),Secretary of State,,GRN,"Larry James Hutchinson,Jr.",0
+Crawford,South Branch Twsp,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",2
+Crawford,Grayling City,Secretary of State,,GRN,"Larry James Hutchinson,Jr.",6
+Crawford,Beaver Creek Twsp (CASD),Attorney General,,DEM,Dana Nessel,238
+Crawford,Beaver Creek Twsp (RAPS),Attorney General,,DEM,Dana Nessel,53
+Crawford,Frederic Twsp,Attorney General,,DEM,Dana Nessel,240
+Crawford,Grayling Twsp - 302,Attorney General,,DEM,Dana Nessel,85
+Crawford,Grayling Twsp - 304,Attorney General,,DEM,Dana Nessel,401
+Crawford,Grayling Twsp - 305,Attorney General,,DEM,Dana Nessel,337
+Crawford,Grayling Twsp - 306,Attorney General,,DEM,Dana Nessel,226
+Crawford,Grayling Twsp - 307,Attorney General,,DEM,Dana Nessel,19
+Crawford,Lovells Twsp,Attorney General,,DEM,Dana Nessel,144
+Crawford,Maple Forest Twsp (CASD),Attorney General,,DEM,Dana Nessel,101
+Crawford,Maple Forest Twsp (GAPS),Attorney General,,DEM,Dana Nessel,0
+Crawford,South Branch Twsp,Attorney General,,DEM,Dana Nessel,382
+Crawford,Grayling City,Attorney General,,DEM,Dana Nessel,242
+Crawford,Beaver Creek Twsp (CASD),Attorney General,,REP,Matthew DePerno,417
+Crawford,Beaver Creek Twsp (RAPS),Attorney General,,REP,Matthew DePerno,97
+Crawford,Frederic Twsp,Attorney General,,REP,Matthew DePerno,410
+Crawford,Grayling Twsp - 302,Attorney General,,REP,Matthew DePerno,99
+Crawford,Grayling Twsp - 304,Attorney General,,REP,Matthew DePerno,580
+Crawford,Grayling Twsp - 305,Attorney General,,REP,Matthew DePerno,442
+Crawford,Grayling Twsp - 306,Attorney General,,REP,Matthew DePerno,371
+Crawford,Grayling Twsp - 307,Attorney General,,REP,Matthew DePerno,68
+Crawford,Lovells Twsp,Attorney General,,REP,Matthew DePerno,241
+Crawford,Maple Forest Twsp (CASD),Attorney General,,REP,Matthew DePerno,240
+Crawford,Maple Forest Twsp (GAPS),Attorney General,,REP,Matthew DePerno,0
+Crawford,South Branch Twsp,Attorney General,,REP,Matthew DePerno,532
+Crawford,Grayling City,Attorney General,,REP,Matthew DePerno,263
+Crawford,Beaver Creek Twsp (CASD),Attorney General,,LIB,"Joseph W. McHugh,Jr.",10
+Crawford,Beaver Creek Twsp (RAPS),Attorney General,,LIB,"Joseph W. McHugh,Jr.",1
+Crawford,Frederic Twsp,Attorney General,,LIB,"Joseph W. McHugh,Jr.",11
+Crawford,Grayling Twsp - 302,Attorney General,,LIB,"Joseph W. McHugh,Jr.",1
+Crawford,Grayling Twsp - 304,Attorney General,,LIB,"Joseph W. McHugh,Jr.",22
+Crawford,Grayling Twsp - 305,Attorney General,,LIB,"Joseph W. McHugh,Jr.",25
+Crawford,Grayling Twsp - 306,Attorney General,,LIB,"Joseph W. McHugh,Jr.",13
+Crawford,Grayling Twsp - 307,Attorney General,,LIB,"Joseph W. McHugh,Jr.",3
+Crawford,Lovells Twsp,Attorney General,,LIB,"Joseph W. McHugh,Jr.",6
+Crawford,Maple Forest Twsp (CASD),Attorney General,,LIB,"Joseph W. McHugh,Jr.",8
+Crawford,Maple Forest Twsp (GAPS),Attorney General,,LIB,"Joseph W. McHugh,Jr.",0
+Crawford,South Branch Twsp,Attorney General,,LIB,"Joseph W. McHugh,Jr.",13
+Crawford,Grayling City,Attorney General,,LIB,"Joseph W. McHugh,Jr.",14
+Crawford,Beaver Creek Twsp (CASD),Attorney General,,UST,Gerald T. Van Sickle,5
+Crawford,Beaver Creek Twsp (RAPS),Attorney General,,UST,Gerald T. Van Sickle,0
+Crawford,Frederic Twsp,Attorney General,,UST,Gerald T. Van Sickle,6
+Crawford,Grayling Twsp - 302,Attorney General,,UST,Gerald T. Van Sickle,1
+Crawford,Grayling Twsp - 304,Attorney General,,UST,Gerald T. Van Sickle,15
+Crawford,Grayling Twsp - 305,Attorney General,,UST,Gerald T. Van Sickle,10
+Crawford,Grayling Twsp - 306,Attorney General,,UST,Gerald T. Van Sickle,10
+Crawford,Grayling Twsp - 307,Attorney General,,UST,Gerald T. Van Sickle,1
+Crawford,Lovells Twsp,Attorney General,,UST,Gerald T. Van Sickle,6
+Crawford,Maple Forest Twsp (CASD),Attorney General,,UST,Gerald T. Van Sickle,3
+Crawford,Maple Forest Twsp (GAPS),Attorney General,,UST,Gerald T. Van Sickle,0
+Crawford,South Branch Twsp,Attorney General,,UST,Gerald T. Van Sickle,8
+Crawford,Grayling City,Attorney General,,UST,Gerald T. Van Sickle,6
+Crawford,Beaver Creek Twsp (CASD),U.S. House,1,DEM,Bob Lorinser,178
+Crawford,Beaver Creek Twsp (RAPS),U.S. House,1,DEM,Bob Lorinser,40
+Crawford,Frederic Twsp,U.S. House,1,DEM,Bob Lorinser,197
+Crawford,Grayling Twsp - 302,U.S. House,1,DEM,Bob Lorinser,66
+Crawford,Grayling Twsp - 304,U.S. House,1,DEM,Bob Lorinser,329
+Crawford,Grayling Twsp - 305,U.S. House,1,DEM,Bob Lorinser,276
+Crawford,Grayling Twsp - 306,U.S. House,1,DEM,Bob Lorinser,193
+Crawford,Grayling Twsp - 307,U.S. House,1,DEM,Bob Lorinser,19
+Crawford,Lovells Twsp,U.S. House,1,DEM,Bob Lorinser,118
+Crawford,Maple Forest Twsp (CASD),U.S. House,1,DEM,Bob Lorinser,76
+Crawford,Maple Forest Twsp (GAPS),U.S. House,1,DEM,Bob Lorinser,0
+Crawford,South Branch Twsp,U.S. House,1,DEM,Bob Lorinser,330
+Crawford,Grayling City,U.S. House,1,DEM,Bob Lorinser,200
+Crawford,Beaver Creek Twsp (CASD),U.S. House,1,REP,Jack Bergman,466
+Crawford,Beaver Creek Twsp (RAPS),U.S. House,1,REP,Jack Bergman,108
+Crawford,Frederic Twsp,U.S. House,1,REP,Jack Bergman,451
+Crawford,Grayling Twsp - 302,U.S. House,1,REP,Jack Bergman,122
+Crawford,Grayling Twsp - 304,U.S. House,1,REP,Jack Bergman,672
+Crawford,Grayling Twsp - 305,U.S. House,1,REP,Jack Bergman,516
+Crawford,Grayling Twsp - 306,U.S. House,1,REP,Jack Bergman,398
+Crawford,Grayling Twsp - 307,U.S. House,1,REP,Jack Bergman,72
+Crawford,Lovells Twsp,U.S. House,1,REP,Jack Bergman,259
+Crawford,Maple Forest Twsp (CASD),U.S. House,1,REP,Jack Bergman,261
+Crawford,Maple Forest Twsp (GAPS),U.S. House,1,REP,Jack Bergman,0
+Crawford,South Branch Twsp,U.S. House,1,REP,Jack Bergman,588
+Crawford,Grayling City,U.S. House,1,REP,Jack Bergman,301
+Crawford,Beaver Creek Twsp (CASD),U.S. House,1,LIB,Andrew Gale,12
+Crawford,Beaver Creek Twsp (RAPS),U.S. House,1,LIB,Andrew Gale,1
+Crawford,Frederic Twsp,U.S. House,1,LIB,Andrew Gale,6
+Crawford,Grayling Twsp - 302,U.S. House,1,LIB,Andrew Gale,1
+Crawford,Grayling Twsp - 304,U.S. House,1,LIB,Andrew Gale,12
+Crawford,Grayling Twsp - 305,U.S. House,1,LIB,Andrew Gale,11
+Crawford,Grayling Twsp - 306,U.S. House,1,LIB,Andrew Gale,11
+Crawford,Grayling Twsp - 307,U.S. House,1,LIB,Andrew Gale,1
+Crawford,Lovells Twsp,U.S. House,1,LIB,Andrew Gale,7
+Crawford,Maple Forest Twsp (CASD),U.S. House,1,LIB,Andrew Gale,8
+Crawford,Maple Forest Twsp (GAPS),U.S. House,1,LIB,Andrew Gale,0
+Crawford,South Branch Twsp,U.S. House,1,LIB,Andrew Gale,9
+Crawford,Grayling City,U.S. House,1,LIB,Andrew Gale,11
+Crawford,Beaver Creek Twsp (CASD),U.S. House,1,WCP,Liz Hakola,16
+Crawford,Beaver Creek Twsp (RAPS),U.S. House,1,WCP,Liz Hakola,3
+Crawford,Frederic Twsp,U.S. House,1,WCP,Liz Hakola,7
+Crawford,Grayling Twsp - 302,U.S. House,1,WCP,Liz Hakola,0
+Crawford,Grayling Twsp - 304,U.S. House,1,WCP,Liz Hakola,13
+Crawford,Grayling Twsp - 305,U.S. House,1,WCP,Liz Hakola,11
+Crawford,Grayling Twsp - 306,U.S. House,1,WCP,Liz Hakola,15
+Crawford,Grayling Twsp - 307,U.S. House,1,WCP,Liz Hakola,2
+Crawford,Lovells Twsp,U.S. House,1,WCP,Liz Hakola,11
+Crawford,Maple Forest Twsp (CASD),U.S. House,1,WCP,Liz Hakola,5
+Crawford,Maple Forest Twsp (GAPS),U.S. House,1,WCP,Liz Hakola,0
+Crawford,South Branch Twsp,U.S. House,1,WCP,Liz Hakola,8
+Crawford,Grayling City,U.S. House,1,WCP,Liz Hakola,16
+Crawford,Beaver Creek Twsp (CASD),State Senate,35,DEM,Joel A. Sheltrown,214
+Crawford,Beaver Creek Twsp (RAPS),State Senate,35,DEM,Joel A. Sheltrown,48
+Crawford,Frederic Twsp,State Senate,35,DEM,Joel A. Sheltrown,207
+Crawford,Grayling Twsp - 302,State Senate,35,DEM,Joel A. Sheltrown,70
+Crawford,Grayling Twsp - 304,State Senate,35,DEM,Joel A. Sheltrown,361
+Crawford,Grayling Twsp - 305,State Senate,35,DEM,Joel A. Sheltrown,306
+Crawford,Grayling Twsp - 306,State Senate,35,DEM,Joel A. Sheltrown,213
+Crawford,Grayling Twsp - 307,State Senate,35,DEM,Joel A. Sheltrown,22
+Crawford,Lovells Twsp,State Senate,35,DEM,Joel A. Sheltrown,122
+Crawford,Maple Forest Twsp (CASD),State Senate,35,DEM,Joel A. Sheltrown,83
+Crawford,Maple Forest Twsp (GAPS),State Senate,35,DEM,Joel A. Sheltrown,0
+Crawford,South Branch Twsp,State Senate,35,DEM,Joel A. Sheltrown,355
+Crawford,Grayling City,State Senate,35,DEM,Joel A. Sheltrown,227
+Crawford,Beaver Creek Twsp (CASD),State Senate,35,REP,Michele Hoitenga,445
+Crawford,Beaver Creek Twsp (RAPS),State Senate,35,REP,Michele Hoitenga,103
+Crawford,Frederic Twsp,State Senate,35,REP,Michele Hoitenga,437
+Crawford,Grayling Twsp - 302,State Senate,35,REP,Michele Hoitenga,112
+Crawford,Grayling Twsp - 304,State Senate,35,REP,Michele Hoitenga,638
+Crawford,Grayling Twsp - 305,State Senate,35,REP,Michele Hoitenga,486
+Crawford,Grayling Twsp - 306,State Senate,35,REP,Michele Hoitenga,400
+Crawford,Grayling Twsp - 307,State Senate,35,REP,Michele Hoitenga,68
+Crawford,Lovells Twsp,State Senate,35,REP,Michele Hoitenga,260
+Crawford,Maple Forest Twsp (CASD),State Senate,35,REP,Michele Hoitenga,257
+Crawford,Maple Forest Twsp (GAPS),State Senate,35,REP,Michele Hoitenga,0
+Crawford,South Branch Twsp,State Senate,35,REP,Michele Hoitenga,564
+Crawford,Grayling City,State Senate,35,REP,Michele Hoitenga,289
+Crawford,Beaver Creek Twsp (CASD),State House,105,DEM,Adam J. Wojdan,21
+Crawford,Beaver Creek Twsp (RAPS),State House,105,DEM,Adam J. Wojdan,46
+Crawford,Frederic Twsp,State House,105,DEM,Adam J. Wojdan,216
+Crawford,Grayling Twsp - 302,State House,105,DEM,Adam J. Wojdan,69
+Crawford,Grayling Twsp - 304,State House,105,DEM,Adam J. Wojdan,367
+Crawford,Grayling Twsp - 305,State House,105,DEM,Adam J. Wojdan,294
+Crawford,Grayling Twsp - 306,State House,105,DEM,Adam J. Wojdan,208
+Crawford,Grayling Twsp - 307,State House,105,DEM,Adam J. Wojdan,21
+Crawford,Lovells Twsp,State House,105,DEM,Adam J. Wojdan,126
+Crawford,Maple Forest Twsp (CASD),State House,105,DEM,Adam J. Wojdan,92
+Crawford,Maple Forest Twsp (GAPS),State House,105,DEM,Adam J. Wojdan,0
+Crawford,South Branch Twsp,State House,105,DEM,Adam J. Wojdan,339
+Crawford,Grayling City,State House,105,DEM,Adam J. Wojdan,226
+Crawford,Beaver Creek Twsp (CASD),State House,105,REP,Ken Borton,443
+Crawford,Beaver Creek Twsp (RAPS),State House,105,REP,Ken Borton,104
+Crawford,Frederic Twsp,State House,105,REP,Ken Borton,425
+Crawford,Grayling Twsp - 302,State House,105,REP,Ken Borton,113
+Crawford,Grayling Twsp - 304,State House,105,REP,Ken Borton,633
+Crawford,Grayling Twsp - 305,State House,105,REP,Ken Borton,492
+Crawford,Grayling Twsp - 306,State House,105,REP,Ken Borton,401
+Crawford,Grayling Twsp - 307,State House,105,REP,Ken Borton,71
+Crawford,Lovells Twsp,State House,105,REP,Ken Borton,262
+Crawford,Maple Forest Twsp (CASD),State House,105,REP,Ken Borton,249
+Crawford,Maple Forest Twsp (GAPS),State House,105,REP,Ken Borton,0
+Crawford,South Branch Twsp,State House,105,REP,Ken Borton,577
+Crawford,Grayling City,State House,105,REP,Ken Borton,289

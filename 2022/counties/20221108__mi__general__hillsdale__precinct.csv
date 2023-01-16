@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,votes
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Ballots Cast,,,,543
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Registered Voters,,,,1211
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Democratic Party,DEM,65
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Republican Party,REP,208
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Democratic,DEM,65
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Republican,REP,208
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Natural Law,NLP,2
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Governor,,Gretchen Whitmer,DEM,144
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Governor,,Tudor M. Dixon,REP,379
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Governor,,Mary Buzuma,LIB,7
@@ -99,13 +99,13 @@ Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Proposal 22-3,,Yes,,163
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Proposal 22-3,,No,,374
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Ballots Cast,,,,380
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Registered Voters,,,,1151
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Democratic Party,DEM,58
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Republican Party,REP,135
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Democratic,DEM,58
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Republican,REP,135
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Governor,,Gretchen Whitmer,DEM,135
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Governor,,Tudor M. Dixon,REP,228
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Governor,,Mary Buzuma,LIB,6
@@ -197,13 +197,13 @@ Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Proposal 22-3,,Yes,,148
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Proposal 22-3,,No,,230
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Ballots Cast,,,,772
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Registered Voters,,,,1675
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Democratic Party,DEM,126
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Republican Party,REP,283
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Libertarian Party,LIB,7
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Working Class Party,WCP,3
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Green Party,GRN,2
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Democratic,DEM,126
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Republican,REP,283
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Libertarian,LIB,7
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Working Class,WCP,3
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Green,GRN,2
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Natural Law,NLP,2
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Governor,,Gretchen Whitmer,DEM,275
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Governor,,Tudor M. Dixon,REP,470
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Governor,,Mary Buzuma,LIB,11
@@ -296,13 +296,13 @@ Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Proposal 22-3,,Yes,,301
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Proposal 22-3,,No,,458
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Ballots Cast,,,,805
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Registered Voters,,,,1766
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Democratic Party,DEM,121
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Republican Party,REP,290
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Libertarian Party,LIB,8
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Working Class Party,WCP,4
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Democratic,DEM,121
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Republican,REP,290
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Libertarian,LIB,8
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Working Class,WCP,4
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Governor,,Gretchen Whitmer,DEM,288
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Governor,,Tudor M. Dixon,REP,484
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Governor,,Mary Buzuma,LIB,15
@@ -395,13 +395,13 @@ Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Proposal 22-3,,Yes,,302
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Proposal 22-3,,No,,492
 Hillsdale,"City of Jonesville, Precinct 1",Ballots Cast,,,,901
 Hillsdale,"City of Jonesville, Precinct 1",Registered Voters,,,,1685
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Democratic Party,DEM,154
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Republican Party,REP,361
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Working Class Party,WCP,5
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Democratic,DEM,154
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Republican,REP,361
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Working Class,WCP,5
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"City of Jonesville, Precinct 1",Governor,,Gretchen Whitmer,DEM,339
 Hillsdale,"City of Jonesville, Precinct 1",Governor,,Tudor M. Dixon,REP,539
 Hillsdale,"City of Jonesville, Precinct 1",Governor,,Mary Buzuma,LIB,5
@@ -499,13 +499,13 @@ Hillsdale,"City of Jonesville, Precinct 1",Proposal 22-3,,Yes,,387
 Hillsdale,"City of Jonesville, Precinct 1",Proposal 22-3,,No,,491
 Hillsdale,"City of Litchfield, Precinct 1",Ballots Cast,,,,514
 Hillsdale,"City of Litchfield, Precinct 1",Registered Voters,,,,1033
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Democratic Party,DEM,70
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Republican Party,REP,250
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Democratic,DEM,70
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Republican,REP,250
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"City of Litchfield, Precinct 1",Governor,,Gretchen Whitmer,DEM,151
 Hillsdale,"City of Litchfield, Precinct 1",Governor,,Tudor M. Dixon,REP,345
 Hillsdale,"City of Litchfield, Precinct 1",Governor,,Mary Buzuma,LIB,8
@@ -600,13 +600,13 @@ Hillsdale,"City of Litchfield, Precinct 1",Proposal 22-3,,Yes,,185
 Hillsdale,"City of Litchfield, Precinct 1",Proposal 22-3,,No,,310
 Hillsdale,"City of Reading, Precinct 1",Ballots Cast,,,,344
 Hillsdale,"City of Reading, Precinct 1",Registered Voters,,,,918
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Democratic Party,DEM,52
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Republican Party,REP,133
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Libertarian Party,LIB,0
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"City of Reading, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Democratic,DEM,52
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Republican,REP,133
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Libertarian,LIB,0
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"City of Reading, Precinct 1",Straight Party,,Natural Law,NLP,1
 Hillsdale,"City of Reading, Precinct 1",Governor,,Gretchen Whitmer,DEM,124
 Hillsdale,"City of Reading, Precinct 1",Governor,,Tudor M. Dixon,REP,204
 Hillsdale,"City of Reading, Precinct 1",Governor,,Mary Buzuma,LIB,5
@@ -705,13 +705,13 @@ Hillsdale,"City of Reading, Precinct 1",II. Reading Community Schools Operating 
 Hillsdale,"City of Reading, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,120
 Hillsdale,"Adams Township, Precinct 1",Ballots Cast,,,,1092
 Hillsdale,"Adams Township, Precinct 1",Registered Voters,,,,2022
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Democratic Party,DEM,135
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Republican Party,REP,457
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Adams Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Democratic,DEM,135
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Republican,REP,457
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Libertarian,LIB,4
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Working Class,WCP,4
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Adams Township, Precinct 1",Straight Party,,Natural Law,NLP,2
 Hillsdale,"Adams Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,281
 Hillsdale,"Adams Township, Precinct 1",Governor,,Tudor M. Dixon,REP,766
 Hillsdale,"Adams Township, Precinct 1",Governor,,Mary Buzuma,LIB,16
@@ -830,13 +830,13 @@ Hillsdale,"Adams Township, Precinct 1",Pittsford Area Schools Operating Millage 
 Hillsdale,"Adams Township, Precinct 1",Pittsford Area Schools Operating Millage Proposal,,No,,31
 Hillsdale,"Allen Township, Precinct 1",Ballots Cast,,,,719
 Hillsdale,"Allen Township, Precinct 1",Registered Voters,,,,1490
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Democratic Party,DEM,89
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Republican Party,REP,349
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Green Party,GRN,3
-Hillsdale,"Allen Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Democratic,DEM,89
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Republican,REP,349
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Green,GRN,3
+Hillsdale,"Allen Township, Precinct 1",Straight Party,,Natural Law,NLP,1
 Hillsdale,"Allen Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,193
 Hillsdale,"Allen Township, Precinct 1",Governor,,Tudor M. Dixon,REP,512
 Hillsdale,"Allen Township, Precinct 1",Governor,,Mary Buzuma,LIB,5
@@ -944,13 +944,13 @@ Hillsdale,"Allen Township, Precinct 1",II. Reading Community Schools Operating M
 Hillsdale,"Allen Township, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,118
 Hillsdale,"Amboy Township, Precinct 1",Ballots Cast,,,,558
 Hillsdale,"Amboy Township, Precinct 1",Registered Voters,,,,1060
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Democratic Party,DEM,75
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Republican Party,REP,259
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Democratic,DEM,75
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Republican,REP,259
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Working Class,WCP,1
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Amboy Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,155
 Hillsdale,"Amboy Township, Precinct 1",Governor,,Tudor M. Dixon,REP,382
 Hillsdale,"Amboy Township, Precinct 1",Governor,,Mary Buzuma,LIB,10
@@ -1042,13 +1042,13 @@ Hillsdale,"Amboy Township, Precinct 1",Proposal 22-3,,Yes,,192
 Hillsdale,"Amboy Township, Precinct 1",Proposal 22-3,,No,,350
 Hillsdale,"Cambria Township, Precinct 1",Ballots Cast,,,,1079
 Hillsdale,"Cambria Township, Precinct 1",Registered Voters,,,,2143
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Democratic Party,DEM,134
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Republican Party,REP,553
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Green Party,GRN,2
-Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Democratic,DEM,134
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Republican,REP,553
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Green,GRN,2
+Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Cambria Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,277
 Hillsdale,"Cambria Township, Precinct 1",Governor,,Tudor M. Dixon,REP,774
 Hillsdale,"Cambria Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
@@ -1149,13 +1149,13 @@ Hillsdale,"Cambria Township, Precinct 1",II. Reading Community Schools Operating
 Hillsdale,"Cambria Township, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,109
 Hillsdale,"Camden Township, Precinct 1",Ballots Cast,,,,638
 Hillsdale,"Camden Township, Precinct 1",Registered Voters,,,,1490
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Democratic Party,DEM,72
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Republican Party,REP,337
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Camden Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Democratic,DEM,72
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Republican,REP,337
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Camden Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Camden Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,141
 Hillsdale,"Camden Township, Precinct 1",Governor,,Tudor M. Dixon,REP,478
 Hillsdale,"Camden Township, Precinct 1",Governor,,Mary Buzuma,LIB,7
@@ -1263,13 +1263,13 @@ Hillsdale,"Camden Township, Precinct 1",II. Reading Community Schools Operating 
 Hillsdale,"Camden Township, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,76
 Hillsdale,"Fayette Township, Precinct 1",Ballots Cast,,,,551
 Hillsdale,"Fayette Township, Precinct 1",Registered Voters,,,,989
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Democratic Party,DEM,56
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Republican Party,REP,227
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Democratic,DEM,56
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Republican,REP,227
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Fayette Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,160
 Hillsdale,"Fayette Township, Precinct 1",Governor,,Tudor M. Dixon,REP,374
 Hillsdale,"Fayette Township, Precinct 1",Governor,,Mary Buzuma,LIB,6
@@ -1370,13 +1370,13 @@ Hillsdale,"Fayette Township, Precinct 1",North Adams-Jerome Public Schools Sinki
 Hillsdale,"Fayette Township, Precinct 1",North Adams-Jerome Public Schools Sinking Fund Millage Renewal Proposal,,No,,1
 Hillsdale,"Hillsdale Township, Precinct 1",Ballots Cast,,,,1062
 Hillsdale,"Hillsdale Township, Precinct 1",Registered Voters,,,,1858
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Democratic Party,DEM,125
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Republican Party,REP,487
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Democratic,DEM,125
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Republican,REP,487
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Hillsdale Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,296
 Hillsdale,"Hillsdale Township, Precinct 1",Governor,,Tudor M. Dixon,REP,744
 Hillsdale,"Hillsdale Township, Precinct 1",Governor,,Mary Buzuma,LIB,8
@@ -1471,13 +1471,13 @@ Hillsdale,"Hillsdale Township, Precinct 1",Proposal 22-3,,Yes,,350
 Hillsdale,"Hillsdale Township, Precinct 1",Proposal 22-3,,No,,689
 Hillsdale,"Jefferson Township, Precinct 1",Ballots Cast,,,,1228
 Hillsdale,"Jefferson Township, Precinct 1",Registered Voters,,,,2700
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Democratic Party,DEM,158
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Republican Party,REP,545
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Libertarian Party,LIB,5
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Democratic,DEM,158
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Republican,REP,545
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Libertarian,LIB,5
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Jefferson Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,345
 Hillsdale,"Jefferson Township, Precinct 1",Governor,,Tudor M. Dixon,REP,834
 Hillsdale,"Jefferson Township, Precinct 1",Governor,,Mary Buzuma,LIB,22
@@ -1579,13 +1579,13 @@ Hillsdale,"Jefferson Township, Precinct 1",Pittsford Area Schools Operating Mill
 Hillsdale,"Jefferson Township, Precinct 1",Pittsford Area Schools Operating Millage Proposal,,No,,249
 Hillsdale,"Litchfield Township, Precinct 1",Ballots Cast,,,,418
 Hillsdale,"Litchfield Township, Precinct 1",Registered Voters,,,,836
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Democratic Party,DEM,58
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Republican Party,REP,195
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Libertarian Party,LIB,0
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Democratic,DEM,58
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Republican,REP,195
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Litchfield Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,101
 Hillsdale,"Litchfield Township, Precinct 1",Governor,,Tudor M. Dixon,REP,310
 Hillsdale,"Litchfield Township, Precinct 1",Governor,,Mary Buzuma,LIB,1
@@ -1684,13 +1684,13 @@ Hillsdale,"Litchfield Township, Precinct 1",Proposal 22-3,,Yes,,146
 Hillsdale,"Litchfield Township, Precinct 1",Proposal 22-3,,No,,267
 Hillsdale,"Moscow Township, Precinct 1",Ballots Cast,,,,609
 Hillsdale,"Moscow Township, Precinct 1",Registered Voters,,,,1188
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Democratic Party,DEM,84
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Republican Party,REP,271
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Democratic,DEM,84
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Republican,REP,271
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Working Class,WCP,1
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Moscow Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,168
 Hillsdale,"Moscow Township, Precinct 1",Governor,,Tudor M. Dixon,REP,421
 Hillsdale,"Moscow Township, Precinct 1",Governor,,Mary Buzuma,LIB,12
@@ -1793,13 +1793,13 @@ Hillsdale,"Moscow Township, Precinct 1",North Adams-Jerome Public Schools Sinkin
 Hillsdale,"Moscow Township, Precinct 1",North Adams-Jerome Public Schools Sinking Fund Millage Renewal Proposal,,No,,95
 Hillsdale,"Pittsford Township, Precinct 1",Ballots Cast,,,,685
 Hillsdale,"Pittsford Township, Precinct 1",Registered Voters,,,,1223
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Democratic Party,DEM,74
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Republican Party,REP,317
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Democratic,DEM,74
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Republican,REP,317
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Natural Law,NLP,2
 Hillsdale,"Pittsford Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,170
 Hillsdale,"Pittsford Township, Precinct 1",Governor,,Tudor M. Dixon,REP,493
 Hillsdale,"Pittsford Township, Precinct 1",Governor,,Mary Buzuma,LIB,7
@@ -1899,13 +1899,13 @@ Hillsdale,"Pittsford Township, Precinct 1",Pittsford Area Schools Operating Mill
 Hillsdale,"Pittsford Township, Precinct 1",Pittsford Area Schools Operating Millage Proposal,,No,,197
 Hillsdale,"Ransom Township, Precinct 1",Ballots Cast,,,,370
 Hillsdale,"Ransom Township, Precinct 1",Registered Voters,,,,660
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Democratic Party,DEM,36
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Republican Party,REP,198
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Democratic,DEM,36
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Republican,REP,198
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Ransom Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,75
 Hillsdale,"Ransom Township, Precinct 1",Governor,,Tudor M. Dixon,REP,283
 Hillsdale,"Ransom Township, Precinct 1",Governor,,Mary Buzuma,LIB,6
@@ -2008,13 +2008,13 @@ Hillsdale,"Ransom Township, Precinct 1",Pittsford Area Schools Operating Millage
 Hillsdale,"Ransom Township, Precinct 1",Pittsford Area Schools Operating Millage Proposal,,No,,98
 Hillsdale,"Reading Township, Precinct 1",Ballots Cast,,,,781
 Hillsdale,"Reading Township, Precinct 1",Registered Voters,,,,1552
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Democratic Party,DEM,132
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Republican Party,REP,332
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Reading Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Democratic,DEM,132
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Republican,REP,332
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Reading Township, Precinct 1",Straight Party,,Natural Law,NLP,1
 Hillsdale,"Reading Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,268
 Hillsdale,"Reading Township, Precinct 1",Governor,,Tudor M. Dixon,REP,496
 Hillsdale,"Reading Township, Precinct 1",Governor,,Mary Buzuma,LIB,4
@@ -2110,13 +2110,13 @@ Hillsdale,"Reading Township, Precinct 1",II. Reading Community Schools Operating
 Hillsdale,"Reading Township, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,408
 Hillsdale,"Scipio Township, Precinct 1",Ballots Cast,,,,705
 Hillsdale,"Scipio Township, Precinct 1",Registered Voters,,,,1591
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Democratic Party,DEM,72
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Republican Party,REP,324
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Democratic,DEM,72
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Republican,REP,324
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Working Class,WCP,1
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Scipio Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,183
 Hillsdale,"Scipio Township, Precinct 1",Governor,,Tudor M. Dixon,REP,500
 Hillsdale,"Scipio Township, Precinct 1",Governor,,Mary Buzuma,LIB,3
@@ -2208,13 +2208,13 @@ Hillsdale,"Scipio Township, Precinct 1",Proposal 22-2,,Yes,,261
 Hillsdale,"Scipio Township, Precinct 1",Proposal 22-2,,No,,422
 Hillsdale,"Scipio Township, Precinct 1",Proposal 22-3,,Yes,,258
 Hillsdale,"Scipio Township, Precinct 1",Proposal 22-3,,No,,437
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Democratic Party,DEM,228
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Republican Party,REP,464
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Working Class Party,WCP,5
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Democratic,DEM,228
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Republican,REP,464
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Libertarian,LIB,3
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Working Class,WCP,5
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Somerset Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,431
 Hillsdale,"Somerset Township, Precinct 1",Governor,,Tudor M. Dixon,REP,735
 Hillsdale,"Somerset Township, Precinct 1",Governor,,Mary Buzuma,LIB,14
@@ -2318,13 +2318,13 @@ Hillsdale,"Somerset Township, Precinct 1",Columbia School District Operating Mil
 Hillsdale,"Somerset Township, Precinct 1",Columbia School District Operating Millage Proposal,,No,,0
 Hillsdale,"Somerset Township, Precinct 2",Ballots Cast,,,,1242
 Hillsdale,"Somerset Township, Precinct 2",Registered Voters,,,,2110
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Democratic Party,DEM,251
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Republican Party,REP,477
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Libertarian Party,LIB,2
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,2
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Green Party,GRN,1
-Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Natural Law Party,NLP,1
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Democratic,DEM,251
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Republican,REP,477
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Libertarian,LIB,2
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,U.S. Taxpayers,UST,2
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Working Class,WCP,0
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Green,GRN,1
+Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Natural Law,NLP,1
 Hillsdale,"Somerset Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,470
 Hillsdale,"Somerset Township, Precinct 2",Governor,,Tudor M. Dixon,REP,749
 Hillsdale,"Somerset Township, Precinct 2",Governor,,Mary Buzuma,LIB,5
@@ -2424,13 +2424,13 @@ Hillsdale,"Somerset Township, Precinct 2",Columbia School District Operating Mil
 Hillsdale,"Somerset Township, Precinct 2",Columbia School District Operating Millage Proposal,,No,,15
 Hillsdale,"Wheatland Township, Precinct 1",Ballots Cast,,,,576
 Hillsdale,"Wheatland Township, Precinct 1",Registered Voters,,,,1021
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Democratic Party,DEM,65
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Republican Party,REP,244
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Green Party,GRN,1
-Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Democratic,DEM,65
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Republican,REP,244
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Working Class,WCP,1
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Green,GRN,1
+Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Wheatland Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,157
 Hillsdale,"Wheatland Township, Precinct 1",Governor,,Tudor M. Dixon,REP,398
 Hillsdale,"Wheatland Township, Precinct 1",Governor,,Mary Buzuma,LIB,2
@@ -2538,13 +2538,13 @@ Hillsdale,"Wheatland Township, Precinct 1",Hudson Carnegie District Library Mill
 Hillsdale,"Wheatland Township, Precinct 1",Hudson Carnegie District Library Millage Renewal,,No,,62
 Hillsdale,"Woodbridge Township, Precinct 1",Ballots Cast,,,,397
 Hillsdale,"Woodbridge Township, Precinct 1",Registered Voters,,,,777
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Democratic Party,DEM,38
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Republican Party,REP,215
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Working Class Party,WCP,0
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Democratic,DEM,38
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Republican,REP,215
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Working Class,WCP,0
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Woodbridge Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,81
 Hillsdale,"Woodbridge Township, Precinct 1",Governor,,Tudor M. Dixon,REP,308
 Hillsdale,"Woodbridge Township, Precinct 1",Governor,,Mary Buzuma,LIB,2
@@ -2645,13 +2645,13 @@ Hillsdale,"Woodbridge Township, Precinct 1",II. Reading Community Schools Operat
 Hillsdale,"Woodbridge Township, Precinct 1",II. Reading Community Schools Operating Millage Proposal,,No,,18
 Hillsdale,"Wright Township, Precinct 1",Ballots Cast,,,,628
 Hillsdale,"Wright Township, Precinct 1",Registered Voters,,,,1308
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Democratic Party,DEM,91
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Republican Party,REP,284
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Green Party,GRN,0
-Hillsdale,"Wright Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Democratic,DEM,91
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Republican,REP,284
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Working Class,WCP,4
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Green,GRN,0
+Hillsdale,"Wright Township, Precinct 1",Straight Party,,Natural Law,NLP,0
 Hillsdale,"Wright Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,167
 Hillsdale,"Wright Township, Precinct 1",Governor,,Tudor M. Dixon,REP,438
 Hillsdale,"Wright Township, Precinct 1",Governor,,Mary Buzuma,LIB,5

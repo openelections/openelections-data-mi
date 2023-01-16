@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,votes
 Montcalm,Belvidere Township Precinct 1,Registered Voters,,,,1898
 Montcalm,Belvidere Township Precinct 1,Ballots Cast,,,,1040
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Democratic Party,DEM,175
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Republican Party,REP,410
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Libertarian Party,LIB,6
-Montcalm,Belvidere Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Working Class Party,WCP,5
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Belvidere Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Democratic,DEM,175
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Republican,REP,410
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Libertarian,LIB,6
+Montcalm,Belvidere Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Working Class,WCP,5
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Belvidere Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Belvidere Township Precinct 1,Straight Party,,Under Votes,,443
 Montcalm,Belvidere Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Belvidere Township Precinct 1,Governor,,Gretchen Whitmer,DEM,376
@@ -160,13 +160,13 @@ Montcalm,Belvidere Township Precinct 1,Belvidere Township Zoning Ordinance Amend
 Montcalm,Belvidere Township Precinct 1,Belvidere Township Zoning Ordinance Amendment,,Over Votes,,0
 Montcalm,Bloomer Township Precinct 1,Registered Voters,,,,989
 Montcalm,Bloomer Township Precinct 1,Ballots Cast,,,,526
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Democratic Party,DEM,70
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Republican Party,REP,280
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Libertarian Party,LIB,6
-Montcalm,Bloomer Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Working Class Party,WCP,0
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Bloomer Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Democratic,DEM,70
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Republican,REP,280
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Libertarian,LIB,6
+Montcalm,Bloomer Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Working Class,WCP,0
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Bloomer Township Precinct 1,Straight Party,,Natural Law,NLP,1
 Montcalm,Bloomer Township Precinct 1,Straight Party,,Under Votes,,167
 Montcalm,Bloomer Township Precinct 1,Straight Party,,Over Votes,,2
 Montcalm,Bloomer Township Precinct 1,Governor,,Gretchen Whitmer,DEM,139
@@ -310,13 +310,13 @@ Montcalm,Bloomer Township Precinct 1,Proposal 22-3,,Under Votes,,6
 Montcalm,Bloomer Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Bushnell Township Precinct 1,Registered Voters,,,,1226
 Montcalm,Bushnell Township Precinct 1,Ballots Cast,,,,601
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Democratic Party,DEM,77
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Republican Party,REP,291
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Libertarian Party,LIB,2
-Montcalm,Bushnell Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Working Class Party,WCP,3
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Bushnell Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Democratic,DEM,77
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Republican,REP,291
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Libertarian,LIB,2
+Montcalm,Bushnell Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Working Class,WCP,3
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Bushnell Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Bushnell Township Precinct 1,Straight Party,,Under Votes,,225
 Montcalm,Bushnell Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Bushnell Township Precinct 1,Governor,,Gretchen Whitmer,DEM,155
@@ -465,13 +465,13 @@ Montcalm,Bushnell Township Precinct 1,Proposal 22-3,,Under Votes,,14
 Montcalm,Bushnell Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Cato Township Precinct 1,Registered Voters,,,,2397
 Montcalm,Cato Township Precinct 1,Ballots Cast,,,,1258
-Montcalm,Cato Township Precinct 1,Straight Party,,Democratic Party,DEM,229
-Montcalm,Cato Township Precinct 1,Straight Party,,Republican Party,REP,416
-Montcalm,Cato Township Precinct 1,Straight Party,,Libertarian Party,LIB,1
-Montcalm,Cato Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Cato Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Cato Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Cato Township Precinct 1,Straight Party,,Natural Law Party,NLP,3
+Montcalm,Cato Township Precinct 1,Straight Party,,Democratic,DEM,229
+Montcalm,Cato Township Precinct 1,Straight Party,,Republican,REP,416
+Montcalm,Cato Township Precinct 1,Straight Party,,Libertarian,LIB,1
+Montcalm,Cato Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Cato Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Cato Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Cato Township Precinct 1,Straight Party,,Natural Law,NLP,3
 Montcalm,Cato Township Precinct 1,Straight Party,,Under Votes,,604
 Montcalm,Cato Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Cato Township Precinct 1,Governor,,Gretchen Whitmer,DEM,478
@@ -627,13 +627,13 @@ Montcalm,Cato Township Precinct 1,Proposal 22-3,,Under Votes,,31
 Montcalm,Cato Township Precinct 1,Proposal 22-3,,Over Votes,,2
 Montcalm,Crystal Township Precinct 1,Registered Voters,,,,2167
 Montcalm,Crystal Township Precinct 1,Ballots Cast,,,,1142
-Montcalm,Crystal Township Precinct 1,Straight Party,,Democratic Party,DEM,189
-Montcalm,Crystal Township Precinct 1,Straight Party,,Republican Party,REP,421
-Montcalm,Crystal Township Precinct 1,Straight Party,,Libertarian Party,LIB,1
-Montcalm,Crystal Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Crystal Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Crystal Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Crystal Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Montcalm,Crystal Township Precinct 1,Straight Party,,Democratic,DEM,189
+Montcalm,Crystal Township Precinct 1,Straight Party,,Republican,REP,421
+Montcalm,Crystal Township Precinct 1,Straight Party,,Libertarian,LIB,1
+Montcalm,Crystal Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Crystal Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Crystal Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Crystal Township Precinct 1,Straight Party,,Natural Law,NLP,1
 Montcalm,Crystal Township Precinct 1,Straight Party,,Under Votes,,526
 Montcalm,Crystal Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Crystal Township Precinct 1,Governor,,Gretchen Whitmer,DEM,420
@@ -786,13 +786,13 @@ Montcalm,Crystal Township Precinct 1,Proposal 22-3,,Under Votes,,23
 Montcalm,Crystal Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Day Township Precinct 1,Registered Voters,,,,895
 Montcalm,Day Township Precinct 1,Ballots Cast,,,,482
-Montcalm,Day Township Precinct 1,Straight Party,,Democratic Party,DEM,56
-Montcalm,Day Township Precinct 1,Straight Party,,Republican Party,REP,213
-Montcalm,Day Township Precinct 1,Straight Party,,Libertarian Party,LIB,2
-Montcalm,Day Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Day Township Precinct 1,Straight Party,,Working Class Party,WCP,2
-Montcalm,Day Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Day Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Day Township Precinct 1,Straight Party,,Democratic,DEM,56
+Montcalm,Day Township Precinct 1,Straight Party,,Republican,REP,213
+Montcalm,Day Township Precinct 1,Straight Party,,Libertarian,LIB,2
+Montcalm,Day Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Day Township Precinct 1,Straight Party,,Working Class,WCP,2
+Montcalm,Day Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Day Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Day Township Precinct 1,Straight Party,,Under Votes,,208
 Montcalm,Day Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Day Township Precinct 1,Governor,,Gretchen Whitmer,DEM,135
@@ -957,13 +957,13 @@ Montcalm,Day Township Precinct 1,Proposal 22-3,,Under Votes,,8
 Montcalm,Day Township Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,Douglass Township Precinct 1,Registered Voters,,,,1810
 Montcalm,Douglass Township Precinct 1,Ballots Cast,,,,1164
-Montcalm,Douglass Township Precinct 1,Straight Party,,Democratic Party,DEM,125
-Montcalm,Douglass Township Precinct 1,Straight Party,,Republican Party,REP,262
-Montcalm,Douglass Township Precinct 1,Straight Party,,Libertarian Party,LIB,5
-Montcalm,Douglass Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
-Montcalm,Douglass Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Douglass Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Douglass Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Douglass Township Precinct 1,Straight Party,,Democratic,DEM,125
+Montcalm,Douglass Township Precinct 1,Straight Party,,Republican,REP,262
+Montcalm,Douglass Township Precinct 1,Straight Party,,Libertarian,LIB,5
+Montcalm,Douglass Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2
+Montcalm,Douglass Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Douglass Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Douglass Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Douglass Township Precinct 1,Straight Party,,Under Votes,,765
 Montcalm,Douglass Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Douglass Township Precinct 1,Governor,,Gretchen Whitmer,DEM,382
@@ -1139,13 +1139,13 @@ Montcalm,Douglass Township Precinct 1,Douglass Township Proposal No. 2 Referendu
 Montcalm,Douglass Township Precinct 1,Douglass Township Proposal No. 2 Referendum on Ordinance No. 174,,Over Votes,,0
 Montcalm,Eureka Charter Township Precinct 1,Registered Voters,,,,1662
 Montcalm,Eureka Charter Township Precinct 1,Ballots Cast,,,,1045
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Democratic Party,DEM,229
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Republican Party,REP,316
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Libertarian Party,LIB,4
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Working Class Party,WCP,5
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Green Party,GRN,2
-Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Democratic,DEM,229
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Republican,REP,316
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Libertarian,LIB,4
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Working Class,WCP,5
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Green,GRN,2
+Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Natural Law,NLP,1
 Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Under Votes,,487
 Montcalm,Eureka Charter Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Eureka Charter Township Precinct 1,Governor,,Gretchen Whitmer,DEM,462
@@ -1290,13 +1290,13 @@ Montcalm,Eureka Charter Township Precinct 1,Proposal 22-3,,Under Votes,,19
 Montcalm,Eureka Charter Township Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,Eureka Charter Township Precinct 2,Registered Voters,,,,1766
 Montcalm,Eureka Charter Township Precinct 2,Ballots Cast,,,,1078
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Democratic Party,DEM,222
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Republican Party,REP,400
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Libertarian Party,LIB,4
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Working Class Party,WCP,2
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Green Party,GRN,0
-Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Democratic,DEM,222
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Republican,REP,400
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Libertarian,LIB,4
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Working Class,WCP,2
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Green,GRN,0
+Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Natural Law,NLP,0
 Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Under Votes,,449
 Montcalm,Eureka Charter Township Precinct 2,Straight Party,,Over Votes,,0
 Montcalm,Eureka Charter Township Precinct 2,Governor,,Gretchen Whitmer,DEM,433
@@ -1448,13 +1448,13 @@ Montcalm,Eureka Charter Township Precinct 2,Proposal 22-3,,Under Votes,,19
 Montcalm,Eureka Charter Township Precinct 2,Proposal 22-3,,Over Votes,,0
 Montcalm,Evergreen Township Precinct 1,Registered Voters,,,,2499
 Montcalm,Evergreen Township Precinct 1,Ballots Cast,,,,1188
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Democratic Party,DEM,200
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Republican Party,REP,456
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Libertarian Party,LIB,7
-Montcalm,Evergreen Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Working Class Party,WCP,9
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Green Party,GRN,2
-Montcalm,Evergreen Township Precinct 1,Straight Party,,Natural Law Party,NLP,4
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Democratic,DEM,200
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Republican,REP,456
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Libertarian,LIB,7
+Montcalm,Evergreen Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Working Class,WCP,9
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Green,GRN,2
+Montcalm,Evergreen Township Precinct 1,Straight Party,,Natural Law,NLP,4
 Montcalm,Evergreen Township Precinct 1,Straight Party,,Under Votes,,507
 Montcalm,Evergreen Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Evergreen Township Precinct 1,Governor,,Gretchen Whitmer,DEM,434
@@ -1615,13 +1615,13 @@ Montcalm,Evergreen Township Precinct 1,Proposal 22-3,,Under Votes,,11
 Montcalm,Evergreen Township Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,Fairplain Township Precinct 1,Registered Voters,,,,1474
 Montcalm,Fairplain Township Precinct 1,Ballots Cast,,,,786
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Democratic Party,DEM,120
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Republican Party,REP,315
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Libertarian Party,LIB,4
-Montcalm,Fairplain Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Working Class Party,WCP,6
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Fairplain Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Democratic,DEM,120
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Republican,REP,315
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Libertarian,LIB,4
+Montcalm,Fairplain Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Working Class,WCP,6
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Fairplain Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Fairplain Township Precinct 1,Straight Party,,Under Votes,,338
 Montcalm,Fairplain Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Fairplain Township Precinct 1,Governor,,Gretchen Whitmer,DEM,281
@@ -1777,13 +1777,13 @@ Montcalm,Fairplain Township Precinct 1,Proposal 22-3,,Under Votes,,18
 Montcalm,Fairplain Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Ferris Township Precinct 1,Registered Voters,,,,1050
 Montcalm,Ferris Township Precinct 1,Ballots Cast,,,,538
-Montcalm,Ferris Township Precinct 1,Straight Party,,Democratic Party,DEM,81
-Montcalm,Ferris Township Precinct 1,Straight Party,,Republican Party,REP,243
-Montcalm,Ferris Township Precinct 1,Straight Party,,Libertarian Party,LIB,2
-Montcalm,Ferris Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Ferris Township Precinct 1,Straight Party,,Working Class Party,WCP,2
-Montcalm,Ferris Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Ferris Township Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Montcalm,Ferris Township Precinct 1,Straight Party,,Democratic,DEM,81
+Montcalm,Ferris Township Precinct 1,Straight Party,,Republican,REP,243
+Montcalm,Ferris Township Precinct 1,Straight Party,,Libertarian,LIB,2
+Montcalm,Ferris Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Ferris Township Precinct 1,Straight Party,,Working Class,WCP,2
+Montcalm,Ferris Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Ferris Township Precinct 1,Straight Party,,Natural Law,NLP,1
 Montcalm,Ferris Township Precinct 1,Straight Party,,Under Votes,,208
 Montcalm,Ferris Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Ferris Township Precinct 1,Governor,,Gretchen Whitmer,DEM,174
@@ -1950,13 +1950,13 @@ Montcalm,Ferris Township Precinct 1,Ferris Township 2023-2026 Fire Millage Renew
 Montcalm,Ferris Township Precinct 1,Ferris Township 2023-2026 Fire Millage Renewal,,Over Votes,,1
 Montcalm,Home Township Precinct 1,Registered Voters,,,,2095
 Montcalm,Home Township Precinct 1,Ballots Cast,,,,1003
-Montcalm,Home Township Precinct 1,Straight Party,,Democratic Party,DEM,159
-Montcalm,Home Township Precinct 1,Straight Party,,Republican Party,REP,442
-Montcalm,Home Township Precinct 1,Straight Party,,Libertarian Party,LIB,5
-Montcalm,Home Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Home Township Precinct 1,Straight Party,,Working Class Party,WCP,1
-Montcalm,Home Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Home Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Home Township Precinct 1,Straight Party,,Democratic,DEM,159
+Montcalm,Home Township Precinct 1,Straight Party,,Republican,REP,442
+Montcalm,Home Township Precinct 1,Straight Party,,Libertarian,LIB,5
+Montcalm,Home Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Home Township Precinct 1,Straight Party,,Working Class,WCP,1
+Montcalm,Home Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Home Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Home Township Precinct 1,Straight Party,,Under Votes,,391
 Montcalm,Home Township Precinct 1,Straight Party,,Over Votes,,2
 Montcalm,Home Township Precinct 1,Governor,,Gretchen Whitmer,DEM,308
@@ -2106,13 +2106,13 @@ Montcalm,Home Township Precinct 1,Proposal 22-3,,Under Votes,,34
 Montcalm,Home Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Maple Valley Township Precinct 1,Registered Voters,,,,1563
 Montcalm,Maple Valley Township Precinct 1,Ballots Cast,,,,880
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Democratic Party,DEM,70
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Republican Party,REP,229
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Libertarian Party,LIB,2
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,3
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Maple Valley Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Democratic,DEM,70
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Republican,REP,229
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Libertarian,LIB,2
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,3
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Maple Valley Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Maple Valley Township Precinct 1,Straight Party,,Under Votes,,572
 Montcalm,Maple Valley Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Maple Valley Township Precinct 1,Governor,,Gretchen Whitmer,DEM,223
@@ -2276,13 +2276,13 @@ Montcalm,Maple Valley Township Precinct 1,Maple Valley Township Zoning Ordinance
 Montcalm,Maple Valley Township Precinct 1,Maple Valley Township Zoning Ordinance Amendment,,Over Votes,,1
 Montcalm,Montcalm Township Precinct 1,Registered Voters,,,,2914
 Montcalm,Montcalm Township Precinct 1,Ballots Cast,,,,1548
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Democratic Party,DEM,248
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Republican Party,REP,517
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Libertarian Party,LIB,5
-Montcalm,Montcalm Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,4
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Montcalm Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Democratic,DEM,248
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Republican,REP,517
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Libertarian,LIB,5
+Montcalm,Montcalm Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,4
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Montcalm Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Montcalm Township Precinct 1,Straight Party,,Under Votes,,765
 Montcalm,Montcalm Township Precinct 1,Straight Party,,Over Votes,,2
 Montcalm,Montcalm Township Precinct 1,Governor,,Gretchen Whitmer,DEM,582
@@ -2435,13 +2435,13 @@ Montcalm,Montcalm Township Precinct 1,Proposal 22-3,,Under Votes,,35
 Montcalm,Montcalm Township Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,Pierson Township Precinct 1,Registered Voters,,,,1509
 Montcalm,Pierson Township Precinct 1,Ballots Cast,,,,940
-Montcalm,Pierson Township Precinct 1,Straight Party,,Democratic Party,DEM,153
-Montcalm,Pierson Township Precinct 1,Straight Party,,Republican Party,REP,402
-Montcalm,Pierson Township Precinct 1,Straight Party,,Libertarian Party,LIB,5
-Montcalm,Pierson Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Pierson Township Precinct 1,Straight Party,,Working Class Party,WCP,3
-Montcalm,Pierson Township Precinct 1,Straight Party,,Green Party,GRN,2
-Montcalm,Pierson Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Pierson Township Precinct 1,Straight Party,,Democratic,DEM,153
+Montcalm,Pierson Township Precinct 1,Straight Party,,Republican,REP,402
+Montcalm,Pierson Township Precinct 1,Straight Party,,Libertarian,LIB,5
+Montcalm,Pierson Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Pierson Township Precinct 1,Straight Party,,Working Class,WCP,3
+Montcalm,Pierson Township Precinct 1,Straight Party,,Green,GRN,2
+Montcalm,Pierson Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Pierson Township Precinct 1,Straight Party,,Under Votes,,373
 Montcalm,Pierson Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Pierson Township Precinct 1,Governor,,Gretchen Whitmer,DEM,295
@@ -2589,13 +2589,13 @@ Montcalm,Pierson Township Precinct 1,Pierson Township Proposal 1 Road Funding Sp
 Montcalm,Pierson Township Precinct 1,Pierson Township Proposal 1 Road Funding Special Assessment,,Over Votes,,1
 Montcalm,Pierson Township Precinct 2,Registered Voters,,,,1412
 Montcalm,Pierson Township Precinct 2,Ballots Cast,,,,851
-Montcalm,Pierson Township Precinct 2,Straight Party,,Democratic Party,DEM,115
-Montcalm,Pierson Township Precinct 2,Straight Party,,Republican Party,REP,392
-Montcalm,Pierson Township Precinct 2,Straight Party,,Libertarian Party,LIB,3
-Montcalm,Pierson Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Pierson Township Precinct 2,Straight Party,,Working Class Party,WCP,2
-Montcalm,Pierson Township Precinct 2,Straight Party,,Green Party,GRN,1
-Montcalm,Pierson Township Precinct 2,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Pierson Township Precinct 2,Straight Party,,Democratic,DEM,115
+Montcalm,Pierson Township Precinct 2,Straight Party,,Republican,REP,392
+Montcalm,Pierson Township Precinct 2,Straight Party,,Libertarian,LIB,3
+Montcalm,Pierson Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Pierson Township Precinct 2,Straight Party,,Working Class,WCP,2
+Montcalm,Pierson Township Precinct 2,Straight Party,,Green,GRN,1
+Montcalm,Pierson Township Precinct 2,Straight Party,,Natural Law,NLP,0
 Montcalm,Pierson Township Precinct 2,Straight Party,,Under Votes,,337
 Montcalm,Pierson Township Precinct 2,Straight Party,,Over Votes,,1
 Montcalm,Pierson Township Precinct 2,Governor,,Gretchen Whitmer,DEM,234
@@ -2753,13 +2753,13 @@ Montcalm,Pierson Township Precinct 2,Pierson Township Proposal 1 Road Funding Sp
 Montcalm,Pierson Township Precinct 2,Pierson Township Proposal 1 Road Funding Special Assessment,,Over Votes,,0
 Montcalm,Pine Township Precinct 1,Registered Voters,,,,1396
 Montcalm,Pine Township Precinct 1,Ballots Cast,,,,799
-Montcalm,Pine Township Precinct 1,Straight Party,,Democratic Party,DEM,139
-Montcalm,Pine Township Precinct 1,Straight Party,,Republican Party,REP,275
-Montcalm,Pine Township Precinct 1,Straight Party,,Libertarian Party,LIB,0
-Montcalm,Pine Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Pine Township Precinct 1,Straight Party,,Working Class Party,WCP,1
-Montcalm,Pine Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Pine Township Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Pine Township Precinct 1,Straight Party,,Democratic,DEM,139
+Montcalm,Pine Township Precinct 1,Straight Party,,Republican,REP,275
+Montcalm,Pine Township Precinct 1,Straight Party,,Libertarian,LIB,0
+Montcalm,Pine Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Pine Township Precinct 1,Straight Party,,Working Class,WCP,1
+Montcalm,Pine Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Pine Township Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,Pine Township Precinct 1,Straight Party,,Under Votes,,383
 Montcalm,Pine Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Pine Township Precinct 1,Governor,,Gretchen Whitmer,DEM,311
@@ -2912,13 +2912,13 @@ Montcalm,Pine Township Precinct 1,Pine Township Road Millage Proposal,,Under Vot
 Montcalm,Pine Township Precinct 1,Pine Township Road Millage Proposal,,Over Votes,,0
 Montcalm,Reynolds Township Precinct 1,Registered Voters,,,,2419
 Montcalm,Reynolds Township Precinct 1,Ballots Cast,,,,1239
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Democratic Party,DEM,190
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Republican Party,REP,532
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Libertarian Party,LIB,12
-Montcalm,Reynolds Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,6
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Working Class Party,WCP,7
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Green Party,GRN,3
-Montcalm,Reynolds Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Democratic,DEM,190
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Republican,REP,532
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Libertarian,LIB,12
+Montcalm,Reynolds Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,6
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Working Class,WCP,7
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Green,GRN,3
+Montcalm,Reynolds Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Reynolds Township Precinct 1,Straight Party,,Under Votes,,485
 Montcalm,Reynolds Township Precinct 1,Straight Party,,Over Votes,,2
 Montcalm,Reynolds Township Precinct 1,Governor,,Gretchen Whitmer,DEM,384
@@ -3078,13 +3078,13 @@ Montcalm,Reynolds Township Precinct 1,Reynolds Township 2022 Proposal 1 Road Fun
 Montcalm,Reynolds Township Precinct 1,Reynolds Township 2022 Proposal 1 Road Funding and Special Assessment,,Over Votes,,0
 Montcalm,Reynolds Township Precinct 2,Registered Voters,,,,1947
 Montcalm,Reynolds Township Precinct 2,Ballots Cast,,,,943
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Democratic Party,DEM,136
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Republican Party,REP,447
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Libertarian Party,LIB,7
-Montcalm,Reynolds Township Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Working Class Party,WCP,1
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Green Party,GRN,0
-Montcalm,Reynolds Township Precinct 2,Straight Party,,Natural Law Party,NLP,0
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Democratic,DEM,136
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Republican,REP,447
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Libertarian,LIB,7
+Montcalm,Reynolds Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Working Class,WCP,1
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Green,GRN,0
+Montcalm,Reynolds Township Precinct 2,Straight Party,,Natural Law,NLP,0
 Montcalm,Reynolds Township Precinct 2,Straight Party,,Under Votes,,350
 Montcalm,Reynolds Township Precinct 2,Straight Party,,Over Votes,,1
 Montcalm,Reynolds Township Precinct 2,Governor,,Gretchen Whitmer,DEM,257
@@ -3235,13 +3235,13 @@ Montcalm,Reynolds Township Precinct 2,Reynolds Township 2022 Proposal 1 Road Fun
 Montcalm,Reynolds Township Precinct 2,Reynolds Township 2022 Proposal 1 Road Funding and Special Assessment,,Over Votes,,1
 Montcalm,Richland Township Precinct 1,Registered Voters,,,,2244
 Montcalm,Richland Township Precinct 1,Ballots Cast,,,,1157
-Montcalm,Richland Township Precinct 1,Straight Party,,Democratic Party,DEM,184
-Montcalm,Richland Township Precinct 1,Straight Party,,Republican Party,REP,457
-Montcalm,Richland Township Precinct 1,Straight Party,,Libertarian Party,LIB,4
-Montcalm,Richland Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,Richland Township Precinct 1,Straight Party,,Working Class Party,WCP,7
-Montcalm,Richland Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Richland Township Precinct 1,Straight Party,,Natural Law Party,NLP,3
+Montcalm,Richland Township Precinct 1,Straight Party,,Democratic,DEM,184
+Montcalm,Richland Township Precinct 1,Straight Party,,Republican,REP,457
+Montcalm,Richland Township Precinct 1,Straight Party,,Libertarian,LIB,4
+Montcalm,Richland Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,Richland Township Precinct 1,Straight Party,,Working Class,WCP,7
+Montcalm,Richland Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Richland Township Precinct 1,Straight Party,,Natural Law,NLP,3
 Montcalm,Richland Township Precinct 1,Straight Party,,Under Votes,,501
 Montcalm,Richland Township Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,Richland Township Precinct 1,Governor,,Gretchen Whitmer,DEM,389
@@ -3400,13 +3400,13 @@ Montcalm,Richland Township Precinct 1,Proposal 22-3,,Under Votes,,43
 Montcalm,Richland Township Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,Sidney Township Precinct 1,Registered Voters,,,,2166
 Montcalm,Sidney Township Precinct 1,Ballots Cast,,,,1288
-Montcalm,Sidney Township Precinct 1,Straight Party,,Democratic Party,DEM,217
-Montcalm,Sidney Township Precinct 1,Straight Party,,Republican Party,REP,417
-Montcalm,Sidney Township Precinct 1,Straight Party,,Libertarian Party,LIB,4
-Montcalm,Sidney Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Sidney Township Precinct 1,Straight Party,,Working Class Party,WCP,4
-Montcalm,Sidney Township Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,Sidney Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Sidney Township Precinct 1,Straight Party,,Democratic,DEM,217
+Montcalm,Sidney Township Precinct 1,Straight Party,,Republican,REP,417
+Montcalm,Sidney Township Precinct 1,Straight Party,,Libertarian,LIB,4
+Montcalm,Sidney Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Sidney Township Precinct 1,Straight Party,,Working Class,WCP,4
+Montcalm,Sidney Township Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,Sidney Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Sidney Township Precinct 1,Straight Party,,Under Votes,,643
 Montcalm,Sidney Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Sidney Township Precinct 1,Governor,,Gretchen Whitmer,DEM,496
@@ -3566,13 +3566,13 @@ Montcalm,Sidney Township Precinct 1,Proposal 22-3,,Under Votes,,16
 Montcalm,Sidney Township Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,Winfield Township Precinct 1,Registered Voters,,,,1918
 Montcalm,Winfield Township Precinct 1,Ballots Cast,,,,1134
-Montcalm,Winfield Township Precinct 1,Straight Party,,Democratic Party,DEM,117
-Montcalm,Winfield Township Precinct 1,Straight Party,,Republican Party,REP,272
-Montcalm,Winfield Township Precinct 1,Straight Party,,Libertarian Party,LIB,2
-Montcalm,Winfield Township Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,Winfield Township Precinct 1,Straight Party,,Working Class Party,WCP,3
-Montcalm,Winfield Township Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,Winfield Township Precinct 1,Straight Party,,Natural Law Party,NLP,2
+Montcalm,Winfield Township Precinct 1,Straight Party,,Democratic,DEM,117
+Montcalm,Winfield Township Precinct 1,Straight Party,,Republican,REP,272
+Montcalm,Winfield Township Precinct 1,Straight Party,,Libertarian,LIB,2
+Montcalm,Winfield Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,Winfield Township Precinct 1,Straight Party,,Working Class,WCP,3
+Montcalm,Winfield Township Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,Winfield Township Precinct 1,Straight Party,,Natural Law,NLP,2
 Montcalm,Winfield Township Precinct 1,Straight Party,,Under Votes,,736
 Montcalm,Winfield Township Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,Winfield Township Precinct 1,Governor,,Gretchen Whitmer,DEM,309
@@ -3748,13 +3748,13 @@ Montcalm,Winfield Township Precinct 1,Winfield Township Zoning Ordinance Amendme
 Montcalm,Winfield Township Precinct 1,Winfield Township Zoning Ordinance Amendment,,Over Votes,,0
 Montcalm,City of Carson City Precinct 1,Registered Voters,,,,1031
 Montcalm,City of Carson City Precinct 1,Ballots Cast,,,,429
-Montcalm,City of Carson City Precinct 1,Straight Party,,Democratic Party,DEM,106
-Montcalm,City of Carson City Precinct 1,Straight Party,,Republican Party,REP,141
-Montcalm,City of Carson City Precinct 1,Straight Party,,Libertarian Party,LIB,3
-Montcalm,City of Carson City Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,City of Carson City Precinct 1,Straight Party,,Working Class Party,WCP,1
-Montcalm,City of Carson City Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,City of Carson City Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,City of Carson City Precinct 1,Straight Party,,Democratic,DEM,106
+Montcalm,City of Carson City Precinct 1,Straight Party,,Republican,REP,141
+Montcalm,City of Carson City Precinct 1,Straight Party,,Libertarian,LIB,3
+Montcalm,City of Carson City Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,City of Carson City Precinct 1,Straight Party,,Working Class,WCP,1
+Montcalm,City of Carson City Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,City of Carson City Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,City of Carson City Precinct 1,Straight Party,,Under Votes,,177
 Montcalm,City of Carson City Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,City of Carson City Precinct 1,Governor,,Gretchen Whitmer,DEM,199
@@ -3903,13 +3903,13 @@ Montcalm,City of Carson City Precinct 1,Proposal 22-3,,Under Votes,,7
 Montcalm,City of Carson City Precinct 1,Proposal 22-3,,Over Votes,,0
 Montcalm,City of Greenville Precinct 1,Registered Voters,,,,1837
 Montcalm,City of Greenville Precinct 1,Ballots Cast,,,,781
-Montcalm,City of Greenville Precinct 1,Straight Party,,Democratic Party,DEM,193
-Montcalm,City of Greenville Precinct 1,Straight Party,,Republican Party,REP,242
-Montcalm,City of Greenville Precinct 1,Straight Party,,Libertarian Party,LIB,8
-Montcalm,City of Greenville Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,2
-Montcalm,City of Greenville Precinct 1,Straight Party,,Working Class Party,WCP,3
-Montcalm,City of Greenville Precinct 1,Straight Party,,Green Party,GRN,1
-Montcalm,City of Greenville Precinct 1,Straight Party,,Natural Law Party,NLP,1
+Montcalm,City of Greenville Precinct 1,Straight Party,,Democratic,DEM,193
+Montcalm,City of Greenville Precinct 1,Straight Party,,Republican,REP,242
+Montcalm,City of Greenville Precinct 1,Straight Party,,Libertarian,LIB,8
+Montcalm,City of Greenville Precinct 1,Straight Party,,U.S. Taxpayers,UST,2
+Montcalm,City of Greenville Precinct 1,Straight Party,,Working Class,WCP,3
+Montcalm,City of Greenville Precinct 1,Straight Party,,Green,GRN,1
+Montcalm,City of Greenville Precinct 1,Straight Party,,Natural Law,NLP,1
 Montcalm,City of Greenville Precinct 1,Straight Party,,Under Votes,,331
 Montcalm,City of Greenville Precinct 1,Straight Party,,Over Votes,,0
 Montcalm,City of Greenville Precinct 1,Governor,,Gretchen Whitmer,DEM,380
@@ -4057,13 +4057,13 @@ Montcalm,City of Greenville Precinct 1,Proposal 22-3,,Under Votes,,17
 Montcalm,City of Greenville Precinct 1,Proposal 22-3,,Over Votes,,1
 Montcalm,City of Greenville Precinct 2,Registered Voters,,,,1686
 Montcalm,City of Greenville Precinct 2,Ballots Cast,,,,794
-Montcalm,City of Greenville Precinct 2,Straight Party,,Democratic Party,DEM,218
-Montcalm,City of Greenville Precinct 2,Straight Party,,Republican Party,REP,204
-Montcalm,City of Greenville Precinct 2,Straight Party,,Libertarian Party,LIB,4
-Montcalm,City of Greenville Precinct 2,Straight Party,,U.S. Taxpayers Party,UST,1
-Montcalm,City of Greenville Precinct 2,Straight Party,,Working Class Party,WCP,6
-Montcalm,City of Greenville Precinct 2,Straight Party,,Green Party,GRN,2
-Montcalm,City of Greenville Precinct 2,Straight Party,,Natural Law Party,NLP,1
+Montcalm,City of Greenville Precinct 2,Straight Party,,Democratic,DEM,218
+Montcalm,City of Greenville Precinct 2,Straight Party,,Republican,REP,204
+Montcalm,City of Greenville Precinct 2,Straight Party,,Libertarian,LIB,4
+Montcalm,City of Greenville Precinct 2,Straight Party,,U.S. Taxpayers,UST,1
+Montcalm,City of Greenville Precinct 2,Straight Party,,Working Class,WCP,6
+Montcalm,City of Greenville Precinct 2,Straight Party,,Green,GRN,2
+Montcalm,City of Greenville Precinct 2,Straight Party,,Natural Law,NLP,1
 Montcalm,City of Greenville Precinct 2,Straight Party,,Under Votes,,357
 Montcalm,City of Greenville Precinct 2,Straight Party,,Over Votes,,1
 Montcalm,City of Greenville Precinct 2,Governor,,Gretchen Whitmer,DEM,425
@@ -4211,13 +4211,13 @@ Montcalm,City of Greenville Precinct 2,Proposal 22-3,,Under Votes,,22
 Montcalm,City of Greenville Precinct 2,Proposal 22-3,,Over Votes,,1
 Montcalm,City of Greenville Precinct 3,Registered Voters,,,,2044
 Montcalm,City of Greenville Precinct 3,Ballots Cast,,,,1111
-Montcalm,City of Greenville Precinct 3,Straight Party,,Democratic Party,DEM,268
-Montcalm,City of Greenville Precinct 3,Straight Party,,Republican Party,REP,274
-Montcalm,City of Greenville Precinct 3,Straight Party,,Libertarian Party,LIB,7
-Montcalm,City of Greenville Precinct 3,Straight Party,,U.S. Taxpayers Party,UST,2
-Montcalm,City of Greenville Precinct 3,Straight Party,,Working Class Party,WCP,1
-Montcalm,City of Greenville Precinct 3,Straight Party,,Green Party,GRN,1
-Montcalm,City of Greenville Precinct 3,Straight Party,,Natural Law Party,NLP,0
+Montcalm,City of Greenville Precinct 3,Straight Party,,Democratic,DEM,268
+Montcalm,City of Greenville Precinct 3,Straight Party,,Republican,REP,274
+Montcalm,City of Greenville Precinct 3,Straight Party,,Libertarian,LIB,7
+Montcalm,City of Greenville Precinct 3,Straight Party,,U.S. Taxpayers,UST,2
+Montcalm,City of Greenville Precinct 3,Straight Party,,Working Class,WCP,1
+Montcalm,City of Greenville Precinct 3,Straight Party,,Green,GRN,1
+Montcalm,City of Greenville Precinct 3,Straight Party,,Natural Law,NLP,0
 Montcalm,City of Greenville Precinct 3,Straight Party,,Under Votes,,558
 Montcalm,City of Greenville Precinct 3,Straight Party,,Over Votes,,0
 Montcalm,City of Greenville Precinct 3,Governor,,Gretchen Whitmer,DEM,582
@@ -4365,13 +4365,13 @@ Montcalm,City of Greenville Precinct 3,Proposal 22-3,,Under Votes,,24
 Montcalm,City of Greenville Precinct 3,Proposal 22-3,,Over Votes,,0
 Montcalm,City of Greenville Precinct 4,Registered Voters,,,,1344
 Montcalm,City of Greenville Precinct 4,Ballots Cast,,,,511
-Montcalm,City of Greenville Precinct 4,Straight Party,,Democratic Party,DEM,130
-Montcalm,City of Greenville Precinct 4,Straight Party,,Republican Party,REP,159
-Montcalm,City of Greenville Precinct 4,Straight Party,,Libertarian Party,LIB,7
-Montcalm,City of Greenville Precinct 4,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,City of Greenville Precinct 4,Straight Party,,Working Class Party,WCP,1
-Montcalm,City of Greenville Precinct 4,Straight Party,,Green Party,GRN,1
-Montcalm,City of Greenville Precinct 4,Straight Party,,Natural Law Party,NLP,0
+Montcalm,City of Greenville Precinct 4,Straight Party,,Democratic,DEM,130
+Montcalm,City of Greenville Precinct 4,Straight Party,,Republican,REP,159
+Montcalm,City of Greenville Precinct 4,Straight Party,,Libertarian,LIB,7
+Montcalm,City of Greenville Precinct 4,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,City of Greenville Precinct 4,Straight Party,,Working Class,WCP,1
+Montcalm,City of Greenville Precinct 4,Straight Party,,Green,GRN,1
+Montcalm,City of Greenville Precinct 4,Straight Party,,Natural Law,NLP,0
 Montcalm,City of Greenville Precinct 4,Straight Party,,Under Votes,,213
 Montcalm,City of Greenville Precinct 4,Straight Party,,Over Votes,,0
 Montcalm,City of Greenville Precinct 4,Governor,,Gretchen Whitmer,DEM,233
@@ -4519,13 +4519,13 @@ Montcalm,City of Greenville Precinct 4,Proposal 22-3,,Under Votes,,8
 Montcalm,City of Greenville Precinct 4,Proposal 22-3,,Over Votes,,0
 Montcalm,City of Stanton Precinct 1,Registered Voters,,,,926
 Montcalm,City of Stanton Precinct 1,Ballots Cast,,,,380
-Montcalm,City of Stanton Precinct 1,Straight Party,,Democratic Party,DEM,66
-Montcalm,City of Stanton Precinct 1,Straight Party,,Republican Party,REP,136
-Montcalm,City of Stanton Precinct 1,Straight Party,,Libertarian Party,LIB,0
-Montcalm,City of Stanton Precinct 1,Straight Party,,U.S. Taxpayers Party,UST,0
-Montcalm,City of Stanton Precinct 1,Straight Party,,Working Class Party,WCP,2
-Montcalm,City of Stanton Precinct 1,Straight Party,,Green Party,GRN,0
-Montcalm,City of Stanton Precinct 1,Straight Party,,Natural Law Party,NLP,0
+Montcalm,City of Stanton Precinct 1,Straight Party,,Democratic,DEM,66
+Montcalm,City of Stanton Precinct 1,Straight Party,,Republican,REP,136
+Montcalm,City of Stanton Precinct 1,Straight Party,,Libertarian,LIB,0
+Montcalm,City of Stanton Precinct 1,Straight Party,,U.S. Taxpayers,UST,0
+Montcalm,City of Stanton Precinct 1,Straight Party,,Working Class,WCP,2
+Montcalm,City of Stanton Precinct 1,Straight Party,,Green,GRN,0
+Montcalm,City of Stanton Precinct 1,Straight Party,,Natural Law,NLP,0
 Montcalm,City of Stanton Precinct 1,Straight Party,,Under Votes,,175
 Montcalm,City of Stanton Precinct 1,Straight Party,,Over Votes,,1
 Montcalm,City of Stanton Precinct 1,Governor,,Gretchen Whitmer,DEM,146

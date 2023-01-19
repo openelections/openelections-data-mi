@@ -1,0 +1,2399 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,"City of Jackson, Ward 1, Precinct 1",Registered Voters,,,,2242
+Jackson,"City of Jackson, Ward 1, Precinct 2",Registered Voters,,,,1797
+Jackson,"City of Jackson, Ward 2, Precinct 3",Registered Voters,,,,930
+Jackson,"City of Jackson, Ward 2, Precinct 4",Registered Voters,,,,1287
+Jackson,"City of Jackson, Ward 2, Precinct 5",Registered Voters,,,,1599
+Jackson,"City of Jackson, Ward 3, Precinct 6",Registered Voters,,,,1808
+Jackson,"City of Jackson, Ward 3, Precinct 7",Registered Voters,,,,2142
+Jackson,"City of Jackson, Ward 4, Precinct 8",Registered Voters,,,,2003
+Jackson,"City of Jackson, Ward 4, Precinct 9",Registered Voters,,,,2030
+Jackson,"City of Jackson, Ward 5, Precinct 10",Registered Voters,,,,1959
+Jackson,"City of Jackson, Ward 5, Precinct 11",Registered Voters,,,,2033
+Jackson,"City of Jackson, Ward 6, Precinct 12",Registered Voters,,,,1714
+Jackson,"City of Jackson, Ward 6, Precinct 13",Registered Voters,,,,1101
+Jackson,"City of Jackson, Ward 6, Precinct 14",Registered Voters,,,,1470
+Jackson,"Blackman Charter Township, Precinct 1",Registered Voters,,,,2629
+Jackson,"Blackman Charter Township, Precinct 2",Registered Voters,,,,2354
+Jackson,"Blackman Charter Township, Precinct 3",Registered Voters,,,,2548
+Jackson,"Blackman Charter Township, Precinct 4",Registered Voters,,,,2728
+Jackson,"Blackman Charter Township, Precinct 5",Registered Voters,,,,2623
+Jackson,"Blackman Charter Township, Precinct 6",Registered Voters,,,,2303
+Jackson,"Columbia Township, Precinct 1",Registered Voters,,,,2294
+Jackson,"Columbia Township, Precinct 2",Registered Voters,,,,1713
+Jackson,"Columbia Township, Precinct 3",Registered Voters,,,,2641
+Jackson,"Concord Township, Precinct 1",Registered Voters,,,,2238
+Jackson,"Grass Lake Charter Township, Precinct 1",Registered Voters,,,,2260
+Jackson,"Grass Lake Charter Township, Precinct 2",Registered Voters,,,,2083
+Jackson,"Grass Lake Charter Township, Precinct 3",Registered Voters,,,,919
+Jackson,"Hanover Township, Precinct 1",Registered Voters,,,,1365
+Jackson,"Hanover Township, Precinct 2",Registered Voters,,,,1723
+Jackson,"Henrietta Township, Precinct 1",Registered Voters,,,,1845
+Jackson,"Henrietta Township, Precinct 2",Registered Voters,,,,2165
+Jackson,"Leoni Township, Precinct 1",Registered Voters,,,,2736
+Jackson,"Leoni Township, Precinct 2",Registered Voters,,,,3054
+Jackson,"Leoni Township, Precinct 3",Registered Voters,,,,2670
+Jackson,"Leoni Township, Precinct 4",Registered Voters,,,,2884
+Jackson,"Liberty Township, Precinct 1",Registered Voters,,,,1604
+Jackson,"Liberty Township, Precinct 2",Registered Voters,,,,1099
+Jackson,"Napoleon Township, Precinct 1",Registered Voters,,,,2082
+Jackson,"Napoleon Township, Precinct 2",Registered Voters,,,,1805
+Jackson,"Napoleon Township, Precinct 3",Registered Voters,,,,2037
+Jackson,"Norvell Township, Precinct 1",Registered Voters,,,,1137
+Jackson,"Norvell Township, Precinct 2",Registered Voters,,,,1417
+Jackson,"Parma Township, Precinct 1",Registered Voters,,,,2201
+Jackson,"Pulaski Township, Precinct 1",Registered Voters,,,,1452
+Jackson,"Rives Township, Precinct 1",Registered Voters,,,,2303
+Jackson,"Rives Township, Precinct 2",Registered Voters,,,,2987
+Jackson,"Sandstone Charter Township, Precinct 1",Registered Voters,,,,1343
+Jackson,"Sandstone Charter Township, Precinct 2",Registered Voters,,,,950
+Jackson,"Sandstone Charter Township, Precinct 3",Registered Voters,,,,1345
+Jackson,"Spring Arbor Township, Precinct 1",Registered Voters,,,,1454
+Jackson,"Spring Arbor Township, Precinct 2",Registered Voters,,,,2364
+Jackson,"Spring Arbor Township, Precinct 3",Registered Voters,,,,2196
+Jackson,"Springport Township, Precinct 1",Registered Voters,,,,1706
+Jackson,"Summit Township, Precinct 1",Registered Voters,,,,2407
+Jackson,"Summit Township, Precinct 2",Registered Voters,,,,2552
+Jackson,"Summit Township, Precinct 3",Registered Voters,,,,2213
+Jackson,"Summit Township, Precinct 4",Registered Voters,,,,2241
+Jackson,"Summit Township, Precinct 5",Registered Voters,,,,2112
+Jackson,"Summit Township, Precinct 6",Registered Voters,,,,1497
+Jackson,"Summit Township, Precinct 7",Registered Voters,,,,3017
+Jackson,"Summit Township, Precinct 8",Registered Voters,,,,3500
+Jackson,"Tompkins Township, Precinct 1",Registered Voters,,,,2189
+Jackson,"Waterloo Township, Precinct 1",Registered Voters,,,,2420
+Jackson,"City of Jackson, Ward 1, Precinct 1",Votes Cast,,,,611
+Jackson,"City of Jackson, Ward 1, Precinct 2",Votes Cast,,,,456
+Jackson,"City of Jackson, Ward 2, Precinct 3",Votes Cast,,,,211
+Jackson,"City of Jackson, Ward 2, Precinct 4",Votes Cast,,,,397
+Jackson,"City of Jackson, Ward 2, Precinct 5",Votes Cast,,,,404
+Jackson,"City of Jackson, Ward 3, Precinct 6",Votes Cast,,,,666
+Jackson,"City of Jackson, Ward 3, Precinct 7",Votes Cast,,,,838
+Jackson,"City of Jackson, Ward 4, Precinct 8",Votes Cast,,,,831
+Jackson,"City of Jackson, Ward 4, Precinct 9",Votes Cast,,,,645
+Jackson,"City of Jackson, Ward 5, Precinct 10",Votes Cast,,,,567
+Jackson,"City of Jackson, Ward 5, Precinct 11",Votes Cast,,,,654
+Jackson,"City of Jackson, Ward 6, Precinct 12",Votes Cast,,,,1039
+Jackson,"City of Jackson, Ward 6, Precinct 13",Votes Cast,,,,554
+Jackson,"City of Jackson, Ward 6, Precinct 14",Votes Cast,,,,883
+Jackson,"Blackman Charter Township, Precinct 1",Votes Cast,,,,958
+Jackson,"Blackman Charter Township, Precinct 2",Votes Cast,,,,1354
+Jackson,"Blackman Charter Township, Precinct 3",Votes Cast,,,,1140
+Jackson,"Blackman Charter Township, Precinct 4",Votes Cast,,,,934
+Jackson,"Blackman Charter Township, Precinct 5",Votes Cast,,,,1014
+Jackson,"Blackman Charter Township, Precinct 6",Votes Cast,,,,1435
+Jackson,"Columbia Township, Precinct 1",Votes Cast,,,,1329
+Jackson,"Columbia Township, Precinct 2",Votes Cast,,,,1103
+Jackson,"Columbia Township, Precinct 3",Votes Cast,,,,1720
+Jackson,"Concord Township, Precinct 1",Votes Cast,,,,1331
+Jackson,"Grass Lake Charter Township, Precinct 1",Votes Cast,,,,1449
+Jackson,"Grass Lake Charter Township, Precinct 2",Votes Cast,,,,1408
+Jackson,"Grass Lake Charter Township, Precinct 3",Votes Cast,,,,573
+Jackson,"Hanover Township, Precinct 1",Votes Cast,,,,909
+Jackson,"Hanover Township, Precinct 2",Votes Cast,,,,983
+Jackson,"Henrietta Township, Precinct 1",Votes Cast,,,,1215
+Jackson,"Henrietta Township, Precinct 2",Votes Cast,,,,1150
+Jackson,"Leoni Township, Precinct 1",Votes Cast,,,,1468
+Jackson,"Leoni Township, Precinct 2",Votes Cast,,,,1394
+Jackson,"Leoni Township, Precinct 3",Votes Cast,,,,1373
+Jackson,"Leoni Township, Precinct 4",Votes Cast,,,,1566
+Jackson,"Liberty Township, Precinct 1",Votes Cast,,,,1002
+Jackson,"Liberty Township, Precinct 2",Votes Cast,,,,689
+Jackson,"Napoleon Township, Precinct 1",Votes Cast,,,,1083
+Jackson,"Napoleon Township, Precinct 2",Votes Cast,,,,1008
+Jackson,"Napoleon Township, Precinct 3",Votes Cast,,,,1189
+Jackson,"Norvell Township, Precinct 1",Votes Cast,,,,728
+Jackson,"Norvell Township, Precinct 2",Votes Cast,,,,878
+Jackson,"Parma Township, Precinct 1",Votes Cast,,,,1116
+Jackson,"Pulaski Township, Precinct 1",Votes Cast,,,,825
+Jackson,"Rives Township, Precinct 1",Votes Cast,,,,1176
+Jackson,"Rives Township, Precinct 2",Votes Cast,,,,970
+Jackson,"Sandstone Charter Township, Precinct 1",Votes Cast,,,,849
+Jackson,"Sandstone Charter Township, Precinct 2",Votes Cast,,,,617
+Jackson,"Sandstone Charter Township, Precinct 3",Votes Cast,,,,513
+Jackson,"Spring Arbor Township, Precinct 1",Votes Cast,,,,900
+Jackson,"Spring Arbor Township, Precinct 2",Votes Cast,,,,1480
+Jackson,"Spring Arbor Township, Precinct 3",Votes Cast,,,,1280
+Jackson,"Springport Township, Precinct 1",Votes Cast,,,,841
+Jackson,"Summit Township, Precinct 1",Votes Cast,,,,1061
+Jackson,"Summit Township, Precinct 2",Votes Cast,,,,1719
+Jackson,"Summit Township, Precinct 3",Votes Cast,,,,1419
+Jackson,"Summit Township, Precinct 4",Votes Cast,,,,1505
+Jackson,"Summit Township, Precinct 5",Votes Cast,,,,1449
+Jackson,"Summit Township, Precinct 6",Votes Cast,,,,929
+Jackson,"Summit Township, Precinct 7",Votes Cast,,,,1540
+Jackson,"Summit Township, Precinct 8",Votes Cast,,,,1179
+Jackson,"Tompkins Township, Precinct 1",Votes Cast,,,,1239
+Jackson,"Waterloo Township, Precinct 1",Votes Cast,,,,1500
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,DEM,317
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,DEM,294
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,DEM,95
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,DEM,134
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,DEM,151
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,DEM,202
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,DEM,289
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,DEM,229
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,DEM,206
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,DEM,223
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,DEM,231
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,DEM,263
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,DEM,153
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,DEM,264
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,DEM,274
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,DEM,295
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,DEM,264
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,DEM,285
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,DEM,280
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,DEM,280
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,DEM,294
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,DEM,166
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,DEM,293
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,DEM,185
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,DEM,275
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,DEM,278
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,DEM,130
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,DEM,126
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,DEM,132
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,DEM,213
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,DEM,226
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,DEM,260
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,DEM,266
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,DEM,295
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,DEM,299
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,DEM,161
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,DEM,106
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,DEM,177
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,DEM,207
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,DEM,216
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,DEM,156
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,DEM,167
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,DEM,209
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,DEM,111
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,DEM,222
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,DEM,155
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,DEM,143
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,DEM,74
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,DEM,82
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,DEM,130
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,DEM,221
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,DEM,189
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,DEM,133
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,DEM,292
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,DEM,342
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,DEM,351
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,DEM,290
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,DEM,281
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,DEM,199
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,DEM,319
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,DEM,328
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,DEM,178
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,DEM,313
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,REP,98
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,REP,29
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,REP,40
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,REP,105
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,REP,92
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,REP,161
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,REP,218
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,REP,211
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,REP,167
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,REP,109
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,REP,120
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,REP,224
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,REP,124
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,REP,177
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,REP,279
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,REP,383
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,REP,383
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,REP,242
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,REP,317
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,REP,424
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,REP,471
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,REP,349
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,REP,617
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,REP,557
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,REP,470
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,REP,452
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,REP,145
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,REP,350
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,REP,376
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,REP,416
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,REP,461
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,REP,492
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,REP,445
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,REP,402
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,REP,522
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,REP,377
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,REP,271
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,REP,360
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,REP,340
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,REP,374
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,REP,259
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,REP,323
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,REP,379
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,REP,360
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,REP,419
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,REP,351
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,REP,320
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,REP,239
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,REP,192
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,REP,353
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,REP,527
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,REP,487
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,REP,337
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,REP,295
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,REP,513
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,REP,377
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,REP,475
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,REP,451
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,REP,311
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,REP,488
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,REP,336
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,REP,481
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,REP,458
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,LIB,0
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,LIB,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,LIB,0
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,LIB,1
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,LIB,7
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,LIB,8
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,LIB,2
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,LIB,8
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,LIB,5
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,LIB,5
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,LIB,0
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,LIB,3
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,LIB,2
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,LIB,2
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,LIB,8
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,LIB,6
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,LIB,6
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,LIB,5
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,LIB,6
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,LIB,3
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,LIB,8
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,LIB,0
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,LIB,1
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,LIB,6
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,LIB,4
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,LIB,4
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,LIB,5
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,LIB,8
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,LIB,2
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,LIB,4
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,LIB,6
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,LIB,2
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,LIB,4
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,LIB,0
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,LIB,2
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,LIB,0
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,LIB,2
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,LIB,2
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,LIB,3
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,LIB,2
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,LIB,0
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,LIB,4
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,LIB,4
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,LIB,3
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,LIB,5
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,LIB,5
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,LIB,3
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,LIB,5
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,LIB,3
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,LIB,2
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,LIB,4
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,LIB,8
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,LIB,6
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,LIB,3
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,LIB,5
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,UST,0
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,UST,2
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,UST,1
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,UST,3
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,UST,0
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,UST,1
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,UST,2
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,UST,1
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,UST,3
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,UST,0
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,UST,0
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,UST,1
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,UST,0
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,UST,0
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,UST,3
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,UST,2
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,UST,4
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,UST,0
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,UST,0
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,UST,3
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,UST,0
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,UST,0
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,UST,0
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,UST,0
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,UST,5
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,UST,4
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,UST,2
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,UST,0
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,UST,2
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,UST,0
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,UST,4
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,UST,0
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,UST,2
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,UST,4
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,UST,0
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,UST,1
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,UST,1
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,UST,0
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,UST,0
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,UST,1
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,UST,0
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,UST,1
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,UST,1
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,UST,2
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,UST,0
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,WCP,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,WCP,1
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,WCP,5
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,WCP,2
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,WCP,4
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,WCP,9
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,WCP,3
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,WCP,9
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,WCP,1
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,WCP,6
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,WCP,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,WCP,4
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,WCP,3
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,WCP,10
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,WCP,3
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,WCP,3
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,WCP,7
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,WCP,8
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,WCP,1
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,WCP,2
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,WCP,4
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,WCP,4
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,WCP,1
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,WCP,4
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,WCP,1
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,WCP,4
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,WCP,3
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,WCP,3
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,WCP,6
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,WCP,2
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,WCP,1
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,WCP,3
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,WCP,3
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,WCP,1
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,WCP,3
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,WCP,1
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,WCP,2
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,WCP,0
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,WCP,8
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,WCP,2
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,WCP,3
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,WCP,4
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,WCP,1
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,WCP,4
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,WCP,2
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,WCP,5
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,WCP,9
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,WCP,4
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,WCP,4
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,WCP,2
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,WCP,1
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,WCP,2
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,WCP,2
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,WCP,5
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,WCP,4
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,WCP,4
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,WCP,3
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,WCP,6
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,GRN,4
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,GRN,3
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,GRN,0
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,GRN,2
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,GRN,2
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,GRN,2
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,GRN,0
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,GRN,0
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,GRN,2
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,GRN,2
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,GRN,1
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,GRN,1
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,GRN,1
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,GRN,3
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,GRN,1
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,GRN,2
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,GRN,2
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,GRN,1
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,GRN,1
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,GRN,2
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,GRN,0
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,GRN,0
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,GRN,1
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,GRN,0
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,GRN,1
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,GRN,1
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,GRN,2
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,GRN,0
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,GRN,0
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,GRN,2
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,GRN,3
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,GRN,1
+Jackson,"City of Jackson, Ward 1, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"City of Jackson, Ward 2, Precinct 3",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Straight Ticket,,,NLP,2
+Jackson,"City of Jackson, Ward 2, Precinct 5",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 3, Precinct 6",Straight Ticket,,,NLP,3
+Jackson,"City of Jackson, Ward 3, Precinct 7",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 4, Precinct 8",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 5, Precinct 10",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 5, Precinct 11",Straight Ticket,,,NLP,1
+Jackson,"City of Jackson, Ward 6, Precinct 12",Straight Ticket,,,NLP,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 6, Precinct 14",Straight Ticket,,,NLP,0
+Jackson,"Blackman Charter Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Blackman Charter Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Blackman Charter Township, Precinct 3",Straight Ticket,,,NLP,0
+Jackson,"Blackman Charter Township, Precinct 4",Straight Ticket,,,NLP,1
+Jackson,"Blackman Charter Township, Precinct 5",Straight Ticket,,,NLP,3
+Jackson,"Blackman Charter Township, Precinct 6",Straight Ticket,,,NLP,0
+Jackson,"Columbia Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Columbia Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Columbia Township, Precinct 3",Straight Ticket,,,NLP,1
+Jackson,"Concord Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Grass Lake Charter Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Grass Lake Charter Township, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"Grass Lake Charter Township, Precinct 3",Straight Ticket,,,NLP,0
+Jackson,"Hanover Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Hanover Township, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"Henrietta Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Henrietta Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Leoni Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Leoni Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Leoni Township, Precinct 3",Straight Ticket,,,NLP,1
+Jackson,"Leoni Township, Precinct 4",Straight Ticket,,,NLP,2
+Jackson,"Liberty Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Liberty Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Napoleon Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Napoleon Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Napoleon Township, Precinct 3",Straight Ticket,,,NLP,0
+Jackson,"Norvell Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Norvell Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Parma Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Pulaski Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Rives Township, Precinct 1",Straight Ticket,,,NLP,3
+Jackson,"Rives Township, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"Sandstone Charter Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Sandstone Charter Township, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"Sandstone Charter Township, Precinct 3",Straight Ticket,,,NLP,1
+Jackson,"Spring Arbor Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Spring Arbor Township, Precinct 2",Straight Ticket,,,NLP,0
+Jackson,"Spring Arbor Township, Precinct 3",Straight Ticket,,,NLP,0
+Jackson,"Springport Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Summit Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"Summit Township, Precinct 2",Straight Ticket,,,NLP,1
+Jackson,"Summit Township, Precinct 3",Straight Ticket,,,NLP,2
+Jackson,"Summit Township, Precinct 4",Straight Ticket,,,NLP,0
+Jackson,"Summit Township, Precinct 5",Straight Ticket,,,NLP,0
+Jackson,"Summit Township, Precinct 6",Straight Ticket,,,NLP,0
+Jackson,"Summit Township, Precinct 7",Straight Ticket,,,NLP,1
+Jackson,"Summit Township, Precinct 8",Straight Ticket,,,NLP,0
+Jackson,"Tompkins Township, Precinct 1",Straight Ticket,,,NLP,1
+Jackson,"Waterloo Township, Precinct 1",Straight Ticket,,,NLP,0
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Gretchen Whitmer,DEM,439
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Gretchen Whitmer,DEM,385
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Gretchen Whitmer,DEM,149
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Gretchen Whitmer,DEM,231
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Gretchen Whitmer,DEM,250
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Gretchen Whitmer,DEM,369
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Gretchen Whitmer,DEM,488
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Gretchen Whitmer,DEM,459
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Gretchen Whitmer,DEM,365
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Gretchen Whitmer,DEM,369
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Gretchen Whitmer,DEM,426
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Gretchen Whitmer,DEM,599
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Gretchen Whitmer,DEM,315
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Gretchen Whitmer,DEM,522
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,509
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,639
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,555
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Gretchen Whitmer,DEM,530
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Gretchen Whitmer,DEM,517
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Gretchen Whitmer,DEM,656
+Jackson,"Columbia Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,582
+Jackson,"Columbia Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,450
+Jackson,"Columbia Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,692
+Jackson,"Concord Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,423
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,586
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,599
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,280
+Jackson,"Hanover Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,303
+Jackson,"Hanover Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,303
+Jackson,"Henrietta Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,502
+Jackson,"Henrietta Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,418
+Jackson,"Leoni Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,625
+Jackson,"Leoni Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,593
+Jackson,"Leoni Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,667
+Jackson,"Leoni Township, Precinct 4",Governor,,Gretchen Whitmer,DEM,661
+Jackson,"Liberty Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,363
+Jackson,"Liberty Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,246
+Jackson,"Napoleon Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,438
+Jackson,"Napoleon Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,421
+Jackson,"Napoleon Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,494
+Jackson,"Norvell Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,305
+Jackson,"Norvell Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,346
+Jackson,"Parma Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,444
+Jackson,"Pulaski Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,239
+Jackson,"Rives Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,457
+Jackson,"Rives Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,357
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,286
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,198
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,193
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,318
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,552
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,475
+Jackson,"Springport Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,269
+Jackson,"Summit Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,556
+Jackson,"Summit Township, Precinct 2",Governor,,Gretchen Whitmer,DEM,793
+Jackson,"Summit Township, Precinct 3",Governor,,Gretchen Whitmer,DEM,731
+Jackson,"Summit Township, Precinct 4",Governor,,Gretchen Whitmer,DEM,666
+Jackson,"Summit Township, Precinct 5",Governor,,Gretchen Whitmer,DEM,620
+Jackson,"Summit Township, Precinct 6",Governor,,Gretchen Whitmer,DEM,413
+Jackson,"Summit Township, Precinct 7",Governor,,Gretchen Whitmer,DEM,711
+Jackson,"Summit Township, Precinct 8",Governor,,Gretchen Whitmer,DEM,620
+Jackson,"Tompkins Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,406
+Jackson,"Waterloo Township, Precinct 1",Governor,,Gretchen Whitmer,DEM,638
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Tudor M. Dixon,REP,148
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Tudor M. Dixon,REP,54
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Tudor M. Dixon,REP,55
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Tudor M. Dixon,REP,150
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Tudor M. Dixon,REP,143
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Tudor M. Dixon,REP,276
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Tudor M. Dixon,REP,314
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Tudor M. Dixon,REP,355
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Tudor M. Dixon,REP,260
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Tudor M. Dixon,REP,175
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Tudor M. Dixon,REP,208
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Tudor M. Dixon,REP,418
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Tudor M. Dixon,REP,220
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Tudor M. Dixon,REP,339
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Tudor M. Dixon,REP,424
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Tudor M. Dixon,REP,674
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Tudor M. Dixon,REP,550
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Tudor M. Dixon,REP,370
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Tudor M. Dixon,REP,478
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Tudor M. Dixon,REP,740
+Jackson,"Columbia Township, Precinct 1",Governor,,Tudor M. Dixon,REP,718
+Jackson,"Columbia Township, Precinct 2",Governor,,Tudor M. Dixon,REP,626
+Jackson,"Columbia Township, Precinct 3",Governor,,Tudor M. Dixon,REP,993
+Jackson,"Concord Township, Precinct 1",Governor,,Tudor M. Dixon,REP,867
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Tudor M. Dixon,REP,826
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Tudor M. Dixon,REP,765
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Tudor M. Dixon,REP,273
+Jackson,"Hanover Township, Precinct 1",Governor,,Tudor M. Dixon,REP,593
+Jackson,"Hanover Township, Precinct 2",Governor,,Tudor M. Dixon,REP,648
+Jackson,"Henrietta Township, Precinct 1",Governor,,Tudor M. Dixon,REP,685
+Jackson,"Henrietta Township, Precinct 2",Governor,,Tudor M. Dixon,REP,689
+Jackson,"Leoni Township, Precinct 1",Governor,,Tudor M. Dixon,REP,790
+Jackson,"Leoni Township, Precinct 2",Governor,,Tudor M. Dixon,REP,749
+Jackson,"Leoni Township, Precinct 3",Governor,,Tudor M. Dixon,REP,671
+Jackson,"Leoni Township, Precinct 4",Governor,,Tudor M. Dixon,REP,857
+Jackson,"Liberty Township, Precinct 1",Governor,,Tudor M. Dixon,REP,618
+Jackson,"Liberty Township, Precinct 2",Governor,,Tudor M. Dixon,REP,427
+Jackson,"Napoleon Township, Precinct 1",Governor,,Tudor M. Dixon,REP,609
+Jackson,"Napoleon Township, Precinct 2",Governor,,Tudor M. Dixon,REP,565
+Jackson,"Napoleon Township, Precinct 3",Governor,,Tudor M. Dixon,REP,656
+Jackson,"Norvell Township, Precinct 1",Governor,,Tudor M. Dixon,REP,403
+Jackson,"Norvell Township, Precinct 2",Governor,,Tudor M. Dixon,REP,503
+Jackson,"Parma Township, Precinct 1",Governor,,Tudor M. Dixon,REP,637
+Jackson,"Pulaski Township, Precinct 1",Governor,,Tudor M. Dixon,REP,563
+Jackson,"Rives Township, Precinct 1",Governor,,Tudor M. Dixon,REP,691
+Jackson,"Rives Township, Precinct 2",Governor,,Tudor M. Dixon,REP,591
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Tudor M. Dixon,REP,536
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Tudor M. Dixon,REP,403
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Tudor M. Dixon,REP,310
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Tudor M. Dixon,REP,554
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Tudor M. Dixon,REP,893
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Tudor M. Dixon,REP,778
+Jackson,"Springport Township, Precinct 1",Governor,,Tudor M. Dixon,REP,536
+Jackson,"Summit Township, Precinct 1",Governor,,Tudor M. Dixon,REP,476
+Jackson,"Summit Township, Precinct 2",Governor,,Tudor M. Dixon,REP,890
+Jackson,"Summit Township, Precinct 3",Governor,,Tudor M. Dixon,REP,663
+Jackson,"Summit Township, Precinct 4",Governor,,Tudor M. Dixon,REP,804
+Jackson,"Summit Township, Precinct 5",Governor,,Tudor M. Dixon,REP,808
+Jackson,"Summit Township, Precinct 6",Governor,,Tudor M. Dixon,REP,499
+Jackson,"Summit Township, Precinct 7",Governor,,Tudor M. Dixon,REP,795
+Jackson,"Summit Township, Precinct 8",Governor,,Tudor M. Dixon,REP,522
+Jackson,"Tompkins Township, Precinct 1",Governor,,Tudor M. Dixon,REP,796
+Jackson,"Waterloo Township, Precinct 1",Governor,,Tudor M. Dixon,REP,812
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Mary Buzuma,LIB,7
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Mary Buzuma,LIB,4
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Mary Buzuma,LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Mary Buzuma,LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Mary Buzuma,LIB,4
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Mary Buzuma,LIB,5
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Mary Buzuma,LIB,21
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Mary Buzuma,LIB,9
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Mary Buzuma,LIB,5
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Mary Buzuma,LIB,7
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Mary Buzuma,LIB,6
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Mary Buzuma,LIB,5
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Mary Buzuma,LIB,4
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Mary Buzuma,LIB,7
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Mary Buzuma,LIB,5
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Mary Buzuma,LIB,13
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Mary Buzuma,LIB,8
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Mary Buzuma,LIB,15
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Mary Buzuma,LIB,11
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Mary Buzuma,LIB,12
+Jackson,"Columbia Township, Precinct 1",Governor,,Mary Buzuma,LIB,7
+Jackson,"Columbia Township, Precinct 2",Governor,,Mary Buzuma,LIB,11
+Jackson,"Columbia Township, Precinct 3",Governor,,Mary Buzuma,LIB,14
+Jackson,"Concord Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Mary Buzuma,LIB,10
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Mary Buzuma,LIB,22
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Mary Buzuma,LIB,12
+Jackson,"Hanover Township, Precinct 1",Governor,,Mary Buzuma,LIB,6
+Jackson,"Hanover Township, Precinct 2",Governor,,Mary Buzuma,LIB,9
+Jackson,"Henrietta Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
+Jackson,"Henrietta Township, Precinct 2",Governor,,Mary Buzuma,LIB,16
+Jackson,"Leoni Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
+Jackson,"Leoni Township, Precinct 2",Governor,,Mary Buzuma,LIB,22
+Jackson,"Leoni Township, Precinct 3",Governor,,Mary Buzuma,LIB,13
+Jackson,"Leoni Township, Precinct 4",Governor,,Mary Buzuma,LIB,20
+Jackson,"Liberty Township, Precinct 1",Governor,,Mary Buzuma,LIB,9
+Jackson,"Liberty Township, Precinct 2",Governor,,Mary Buzuma,LIB,6
+Jackson,"Napoleon Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
+Jackson,"Napoleon Township, Precinct 2",Governor,,Mary Buzuma,LIB,10
+Jackson,"Napoleon Township, Precinct 3",Governor,,Mary Buzuma,LIB,14
+Jackson,"Norvell Township, Precinct 1",Governor,,Mary Buzuma,LIB,10
+Jackson,"Norvell Township, Precinct 2",Governor,,Mary Buzuma,LIB,9
+Jackson,"Parma Township, Precinct 1",Governor,,Mary Buzuma,LIB,7
+Jackson,"Pulaski Township, Precinct 1",Governor,,Mary Buzuma,LIB,4
+Jackson,"Rives Township, Precinct 1",Governor,,Mary Buzuma,LIB,8
+Jackson,"Rives Township, Precinct 2",Governor,,Mary Buzuma,LIB,7
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Mary Buzuma,LIB,12
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Mary Buzuma,LIB,7
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Mary Buzuma,LIB,6
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Mary Buzuma,LIB,13
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Mary Buzuma,LIB,9
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Mary Buzuma,LIB,7
+Jackson,"Springport Township, Precinct 1",Governor,,Mary Buzuma,LIB,14
+Jackson,"Summit Township, Precinct 1",Governor,,Mary Buzuma,LIB,8
+Jackson,"Summit Township, Precinct 2",Governor,,Mary Buzuma,LIB,17
+Jackson,"Summit Township, Precinct 3",Governor,,Mary Buzuma,LIB,9
+Jackson,"Summit Township, Precinct 4",Governor,,Mary Buzuma,LIB,12
+Jackson,"Summit Township, Precinct 5",Governor,,Mary Buzuma,LIB,9
+Jackson,"Summit Township, Precinct 6",Governor,,Mary Buzuma,LIB,9
+Jackson,"Summit Township, Precinct 7",Governor,,Mary Buzuma,LIB,14
+Jackson,"Summit Township, Precinct 8",Governor,,Mary Buzuma,LIB,16
+Jackson,"Tompkins Township, Precinct 1",Governor,,Mary Buzuma,LIB,18
+Jackson,"Waterloo Township, Precinct 1",Governor,,Mary Buzuma,LIB,22
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Donna Brandenburg,UST,7
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Donna Brandenburg,UST,2
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Donna Brandenburg,UST,1
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Donna Brandenburg,UST,4
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Donna Brandenburg,UST,3
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Donna Brandenburg,UST,5
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Donna Brandenburg,UST,5
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Donna Brandenburg,UST,1
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Donna Brandenburg,UST,6
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Donna Brandenburg,UST,6
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Donna Brandenburg,UST,3
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Donna Brandenburg,UST,2
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Donna Brandenburg,UST,3
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Donna Brandenburg,UST,3
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Donna Brandenburg,UST,5
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Donna Brandenburg,UST,10
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Donna Brandenburg,UST,7
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Donna Brandenburg,UST,4
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Donna Brandenburg,UST,1
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Donna Brandenburg,UST,6
+Jackson,"Columbia Township, Precinct 1",Governor,,Donna Brandenburg,UST,6
+Jackson,"Columbia Township, Precinct 2",Governor,,Donna Brandenburg,UST,4
+Jackson,"Columbia Township, Precinct 3",Governor,,Donna Brandenburg,UST,3
+Jackson,"Concord Township, Precinct 1",Governor,,Donna Brandenburg,UST,7
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Donna Brandenburg,UST,5
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Donna Brandenburg,UST,10
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Donna Brandenburg,UST,1
+Jackson,"Hanover Township, Precinct 1",Governor,,Donna Brandenburg,UST,2
+Jackson,"Hanover Township, Precinct 2",Governor,,Donna Brandenburg,UST,8
+Jackson,"Henrietta Township, Precinct 1",Governor,,Donna Brandenburg,UST,2
+Jackson,"Henrietta Township, Precinct 2",Governor,,Donna Brandenburg,UST,6
+Jackson,"Leoni Township, Precinct 1",Governor,,Donna Brandenburg,UST,11
+Jackson,"Leoni Township, Precinct 2",Governor,,Donna Brandenburg,UST,13
+Jackson,"Leoni Township, Precinct 3",Governor,,Donna Brandenburg,UST,7
+Jackson,"Leoni Township, Precinct 4",Governor,,Donna Brandenburg,UST,9
+Jackson,"Liberty Township, Precinct 1",Governor,,Donna Brandenburg,UST,0
+Jackson,"Liberty Township, Precinct 2",Governor,,Donna Brandenburg,UST,3
+Jackson,"Napoleon Township, Precinct 1",Governor,,Donna Brandenburg,UST,9
+Jackson,"Napoleon Township, Precinct 2",Governor,,Donna Brandenburg,UST,4
+Jackson,"Napoleon Township, Precinct 3",Governor,,Donna Brandenburg,UST,9
+Jackson,"Norvell Township, Precinct 1",Governor,,Donna Brandenburg,UST,4
+Jackson,"Norvell Township, Precinct 2",Governor,,Donna Brandenburg,UST,4
+Jackson,"Parma Township, Precinct 1",Governor,,Donna Brandenburg,UST,8
+Jackson,"Pulaski Township, Precinct 1",Governor,,Donna Brandenburg,UST,10
+Jackson,"Rives Township, Precinct 1",Governor,,Donna Brandenburg,UST,6
+Jackson,"Rives Township, Precinct 2",Governor,,Donna Brandenburg,UST,11
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Donna Brandenburg,UST,8
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Donna Brandenburg,UST,2
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Donna Brandenburg,UST,1
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Donna Brandenburg,UST,4
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Donna Brandenburg,UST,5
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Donna Brandenburg,UST,2
+Jackson,"Springport Township, Precinct 1",Governor,,Donna Brandenburg,UST,7
+Jackson,"Summit Township, Precinct 1",Governor,,Donna Brandenburg,UST,11
+Jackson,"Summit Township, Precinct 2",Governor,,Donna Brandenburg,UST,1
+Jackson,"Summit Township, Precinct 3",Governor,,Donna Brandenburg,UST,2
+Jackson,"Summit Township, Precinct 4",Governor,,Donna Brandenburg,UST,4
+Jackson,"Summit Township, Precinct 5",Governor,,Donna Brandenburg,UST,2
+Jackson,"Summit Township, Precinct 6",Governor,,Donna Brandenburg,UST,2
+Jackson,"Summit Township, Precinct 7",Governor,,Donna Brandenburg,UST,4
+Jackson,"Summit Township, Precinct 8",Governor,,Donna Brandenburg,UST,8
+Jackson,"Tompkins Township, Precinct 1",Governor,,Donna Brandenburg,UST,10
+Jackson,"Waterloo Township, Precinct 1",Governor,,Donna Brandenburg,UST,6
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Kevin Hogan,GRN,4
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Kevin Hogan,GRN,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Kevin Hogan,GRN,2
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Kevin Hogan,GRN,1
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Kevin Hogan,GRN,4
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Kevin Hogan,GRN,1
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Kevin Hogan,GRN,2
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Kevin Hogan,GRN,3
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Kevin Hogan,GRN,5
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Kevin Hogan,GRN,3
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Kevin Hogan,GRN,2
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Kevin Hogan,GRN,4
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Kevin Hogan,GRN,1
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Kevin Hogan,GRN,2
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Kevin Hogan,GRN,1
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Kevin Hogan,GRN,5
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Kevin Hogan,GRN,1
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Kevin Hogan,GRN,3
+Jackson,"Columbia Township, Precinct 1",Governor,,Kevin Hogan,GRN,2
+Jackson,"Columbia Township, Precinct 2",Governor,,Kevin Hogan,GRN,3
+Jackson,"Columbia Township, Precinct 3",Governor,,Kevin Hogan,GRN,4
+Jackson,"Concord Township, Precinct 1",Governor,,Kevin Hogan,GRN,4
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Kevin Hogan,GRN,5
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Kevin Hogan,GRN,1
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Kevin Hogan,GRN,0
+Jackson,"Hanover Township, Precinct 1",Governor,,Kevin Hogan,GRN,0
+Jackson,"Hanover Township, Precinct 2",Governor,,Kevin Hogan,GRN,7
+Jackson,"Henrietta Township, Precinct 1",Governor,,Kevin Hogan,GRN,3
+Jackson,"Henrietta Township, Precinct 2",Governor,,Kevin Hogan,GRN,5
+Jackson,"Leoni Township, Precinct 1",Governor,,Kevin Hogan,GRN,5
+Jackson,"Leoni Township, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"Leoni Township, Precinct 3",Governor,,Kevin Hogan,GRN,4
+Jackson,"Leoni Township, Precinct 4",Governor,,Kevin Hogan,GRN,4
+Jackson,"Liberty Township, Precinct 1",Governor,,Kevin Hogan,GRN,1
+Jackson,"Liberty Township, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"Napoleon Township, Precinct 1",Governor,,Kevin Hogan,GRN,2
+Jackson,"Napoleon Township, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"Napoleon Township, Precinct 3",Governor,,Kevin Hogan,GRN,2
+Jackson,"Norvell Township, Precinct 1",Governor,,Kevin Hogan,GRN,0
+Jackson,"Norvell Township, Precinct 2",Governor,,Kevin Hogan,GRN,4
+Jackson,"Parma Township, Precinct 1",Governor,,Kevin Hogan,GRN,6
+Jackson,"Pulaski Township, Precinct 1",Governor,,Kevin Hogan,GRN,0
+Jackson,"Rives Township, Precinct 1",Governor,,Kevin Hogan,GRN,5
+Jackson,"Rives Township, Precinct 2",Governor,,Kevin Hogan,GRN,0
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Kevin Hogan,GRN,1
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Kevin Hogan,GRN,1
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Kevin Hogan,GRN,1
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Kevin Hogan,GRN,2
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Kevin Hogan,GRN,2
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Kevin Hogan,GRN,5
+Jackson,"Springport Township, Precinct 1",Governor,,Kevin Hogan,GRN,5
+Jackson,"Summit Township, Precinct 1",Governor,,Kevin Hogan,GRN,2
+Jackson,"Summit Township, Precinct 2",Governor,,Kevin Hogan,GRN,0
+Jackson,"Summit Township, Precinct 3",Governor,,Kevin Hogan,GRN,3
+Jackson,"Summit Township, Precinct 4",Governor,,Kevin Hogan,GRN,5
+Jackson,"Summit Township, Precinct 5",Governor,,Kevin Hogan,GRN,1
+Jackson,"Summit Township, Precinct 6",Governor,,Kevin Hogan,GRN,0
+Jackson,"Summit Township, Precinct 7",Governor,,Kevin Hogan,GRN,2
+Jackson,"Summit Township, Precinct 8",Governor,,Kevin Hogan,GRN,5
+Jackson,"Tompkins Township, Precinct 1",Governor,,Kevin Hogan,GRN,1
+Jackson,"Waterloo Township, Precinct 1",Governor,,Kevin Hogan,GRN,5
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,Daryl M. Simpson,NLP,4
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Columbia Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Columbia Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Columbia Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Concord Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Hanover Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Hanover Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Henrietta Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Henrietta Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Leoni Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Leoni Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Leoni Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Leoni Township, Precinct 4",Governor,,Daryl M. Simpson,NLP,5
+Jackson,"Liberty Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,4
+Jackson,"Liberty Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Napoleon Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Napoleon Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Napoleon Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Norvell Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Norvell Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Parma Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,7
+Jackson,"Pulaski Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Rives Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Rives Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Springport Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Summit Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Summit Township, Precinct 2",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Summit Township, Precinct 3",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Summit Township, Precinct 4",Governor,,Daryl M. Simpson,NLP,1
+Jackson,"Summit Township, Precinct 5",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Summit Township, Precinct 6",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Summit Township, Precinct 7",Governor,,Daryl M. Simpson,NLP,3
+Jackson,"Summit Township, Precinct 8",Governor,,Daryl M. Simpson,NLP,2
+Jackson,"Tompkins Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,0
+Jackson,"Waterloo Township, Precinct 1",Governor,,Daryl M. Simpson,NLP,4
+Jackson,"City of Jackson, Ward 1, Precinct 1",Governor,,,Write-ins,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",Governor,,,Write-ins,1
+Jackson,"City of Jackson, Ward 2, Precinct 3",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 5",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 3, Precinct 6",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 3, Precinct 7",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 4, Precinct 8",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",Governor,,,Write-ins,1
+Jackson,"City of Jackson, Ward 5, Precinct 10",Governor,,,Write-ins,0
+Jackson,"City of Jackson, Ward 5, Precinct 11",Governor,,,Write-ins,3
+Jackson,"City of Jackson, Ward 6, Precinct 12",Governor,,,Write-ins,3
+Jackson,"City of Jackson, Ward 6, Precinct 13",Governor,,,Write-ins,1
+Jackson,"City of Jackson, Ward 6, Precinct 14",Governor,,,Write-ins,0
+Jackson,"Blackman Charter Township, Precinct 1",Governor,,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 2",Governor,,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 3",Governor,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 4",Governor,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 5",Governor,,,Write-ins,0
+Jackson,"Blackman Charter Township, Precinct 6",Governor,,,Write-ins,3
+Jackson,"Columbia Township, Precinct 1",Governor,,,Write-ins,1
+Jackson,"Columbia Township, Precinct 2",Governor,,,Write-ins,0
+Jackson,"Columbia Township, Precinct 3",Governor,,,Write-ins,0
+Jackson,"Concord Township, Precinct 1",Governor,,,Write-ins,3
+Jackson,"Grass Lake Charter Township, Precinct 1",Governor,,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 2",Governor,,,Write-ins,1
+Jackson,"Grass Lake Charter Township, Precinct 3",Governor,,,Write-ins,2
+Jackson,"Hanover Township, Precinct 1",Governor,,,Write-ins,1
+Jackson,"Hanover Township, Precinct 2",Governor,,,Write-ins,0
+Jackson,"Henrietta Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Henrietta Township, Precinct 2",Governor,,,Write-ins,3
+Jackson,"Leoni Township, Precinct 1",Governor,,,Write-ins,3
+Jackson,"Leoni Township, Precinct 2",Governor,,,Write-ins,0
+Jackson,"Leoni Township, Precinct 3",Governor,,,Write-ins,1
+Jackson,"Leoni Township, Precinct 4",Governor,,,Write-ins,2
+Jackson,"Liberty Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Liberty Township, Precinct 2",Governor,,,Write-ins,2
+Jackson,"Napoleon Township, Precinct 1",Governor,,,Write-ins,4
+Jackson,"Napoleon Township, Precinct 2",Governor,,,Write-ins,1
+Jackson,"Napoleon Township, Precinct 3",Governor,,,Write-ins,3
+Jackson,"Norvell Township, Precinct 1",Governor,,,Write-ins,1
+Jackson,"Norvell Township, Precinct 2",Governor,,,Write-ins,1
+Jackson,"Parma Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Pulaski Township, Precinct 1",Governor,,,Write-ins,3
+Jackson,"Rives Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Rives Township, Precinct 2",Governor,,,Write-ins,1
+Jackson,"Sandstone Charter Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 2",Governor,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 3",Governor,,,Write-ins,1
+Jackson,"Spring Arbor Township, Precinct 1",Governor,,,Write-ins,3
+Jackson,"Spring Arbor Township, Precinct 2",Governor,,,Write-ins,3
+Jackson,"Spring Arbor Township, Precinct 3",Governor,,,Write-ins,2
+Jackson,"Springport Township, Precinct 1",Governor,,,Write-ins,1
+Jackson,"Summit Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Summit Township, Precinct 2",Governor,,,Write-ins,4
+Jackson,"Summit Township, Precinct 3",Governor,,,Write-ins,1
+Jackson,"Summit Township, Precinct 4",Governor,,,Write-ins,0
+Jackson,"Summit Township, Precinct 5",Governor,,,Write-ins,0
+Jackson,"Summit Township, Precinct 6",Governor,,,Write-ins,0
+Jackson,"Summit Township, Precinct 7",Governor,,,Write-ins,6
+Jackson,"Summit Township, Precinct 8",Governor,,,Write-ins,0
+Jackson,"Tompkins Township, Precinct 1",Governor,,,Write-ins,0
+Jackson,"Waterloo Township, Precinct 1",Governor,,,Write-ins,1
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,431
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,370
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,145
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,Jocelyn Benton,DEM,224
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,Jocelyn Benton,DEM,252
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,Jocelyn Benton,DEM,369
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,Jocelyn Benton,DEM,475
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,Jocelyn Benton,DEM,443
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,Jocelyn Benton,DEM,351
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,Jocelyn Benton,DEM,359
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,Jocelyn Benton,DEM,410
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,Jocelyn Benton,DEM,605
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,Jocelyn Benton,DEM,322
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,Jocelyn Benton,DEM,531
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,496
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,661
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,542
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,Jocelyn Benton,DEM,503
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,Jocelyn Benton,DEM,501
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,Jocelyn Benton,DEM,663
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,583
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,451
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,707
+Jackson,"Concord Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,430
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,595
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,623
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,279
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,312
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,325
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,518
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,434
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,617
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,588
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,669
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,Jocelyn Benton,DEM,666
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,373
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,245
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,454
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,419
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,502
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,314
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,352
+Jackson,"Parma Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,451
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,249
+Jackson,"Rives Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,448
+Jackson,"Rives Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,349
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,301
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,212
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,197
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,328
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,587
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,472
+Jackson,"Springport Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,278
+Jackson,"Summit Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,558
+Jackson,"Summit Township, Precinct 2",Secretary of State,,Jocelyn Benton,DEM,812
+Jackson,"Summit Township, Precinct 3",Secretary of State,,Jocelyn Benton,DEM,754
+Jackson,"Summit Township, Precinct 4",Secretary of State,,Jocelyn Benton,DEM,682
+Jackson,"Summit Township, Precinct 5",Secretary of State,,Jocelyn Benton,DEM,628
+Jackson,"Summit Township, Precinct 6",Secretary of State,,Jocelyn Benton,DEM,422
+Jackson,"Summit Township, Precinct 7",Secretary of State,,Jocelyn Benton,DEM,701
+Jackson,"Summit Township, Precinct 8",Secretary of State,,Jocelyn Benton,DEM,588
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,429
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,Jocelyn Benton,DEM,642
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,152
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,61
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,57
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,Kristina Elaine Karamo,REP,144
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,Kristina Elaine Karamo,REP,137
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,Kristina Elaine Karamo,REP,265
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,Kristina Elaine Karamo,REP,327
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,Kristina Elaine Karamo,REP,345
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,Kristina Elaine Karamo,REP,260
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,Kristina Elaine Karamo,REP,168
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,Kristina Elaine Karamo,REP,205
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,Kristina Elaine Karamo,REP,394
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,Kristina Elaine Karamo,REP,206
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,Kristina Elaine Karamo,REP,322
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,412
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,639
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,545
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,Kristina Elaine Karamo,REP,370
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,Kristina Elaine Karamo,REP,463
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,Kristina Elaine Karamo,REP,719
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,684
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,597
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,948
+Jackson,"Concord Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,853
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,804
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,728
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,265
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,564
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,611
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,649
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,681
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,780
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,735
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,634
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,Kristina Elaine Karamo,REP,832
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,593
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,419
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,592
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,551
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,641
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,382
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,493
+Jackson,"Parma Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,608
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,544
+Jackson,"Rives Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,691
+Jackson,"Rives Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,586
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,512
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,385
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,297
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,527
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,846
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,755
+Jackson,"Springport Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,523
+Jackson,"Summit Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,458
+Jackson,"Summit Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,848
+Jackson,"Summit Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,621
+Jackson,"Summit Township, Precinct 4",Secretary of State,,Kristina Elaine Karamo,REP,774
+Jackson,"Summit Township, Precinct 5",Secretary of State,,Kristina Elaine Karamo,REP,776
+Jackson,"Summit Township, Precinct 6",Secretary of State,,Kristina Elaine Karamo,REP,474
+Jackson,"Summit Township, Precinct 7",Secretary of State,,Kristina Elaine Karamo,REP,773
+Jackson,"Summit Township, Precinct 8",Secretary of State,,Kristina Elaine Karamo,REP,524
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,762
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,800
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,4
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,9
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,Gregory Scott Stempfle,LIB,9
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,Gregory Scott Stempfle,LIB,2
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,Gregory Scott Stempfle,LIB,11
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,Gregory Scott Stempfle,LIB,12
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,Gregory Scott Stempfle,LIB,7
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,Gregory Scott Stempfle,LIB,6
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,Gregory Scott Stempfle,LIB,11
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,14
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,Gregory Scott Stempfle,LIB,17
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,20
+Jackson,"Concord Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,11
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,19
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,8
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,12
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,14
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,18
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,20
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,Gregory Scott Stempfle,LIB,26
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,11
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,6
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,9
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,14
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"Parma Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,6
+Jackson,"Rives Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"Rives Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,3
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,9
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,3
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,18
+Jackson,"Springport Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,13
+Jackson,"Summit Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,16
+Jackson,"Summit Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,19
+Jackson,"Summit Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,11
+Jackson,"Summit Township, Precinct 4",Secretary of State,,Gregory Scott Stempfle,LIB,15
+Jackson,"Summit Township, Precinct 5",Secretary of State,,Gregory Scott Stempfle,LIB,12
+Jackson,"Summit Township, Precinct 6",Secretary of State,,Gregory Scott Stempfle,LIB,10
+Jackson,"Summit Township, Precinct 7",Secretary of State,,Gregory Scott Stempfle,LIB,21
+Jackson,"Summit Township, Precinct 8",Secretary of State,,Gregory Scott Stempfle,LIB,19
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,18
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,23
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,14
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,5
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,1
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,Christina C. Schwartz,UST,13
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,Christina C. Schwartz,UST,11
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,Christina C. Schwartz,UST,5
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,Christina C. Schwartz,UST,2
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,Christina C. Schwartz,UST,8
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,Christina C. Schwartz,UST,7
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,19
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,Christina C. Schwartz,UST,17
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,Christina C. Schwartz,UST,8
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Concord Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,11
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,8
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,6
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,3
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,11
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,11
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,8
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,15
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,19
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,16
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,7
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,8
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,13
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,6
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,7
+Jackson,"Parma Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,7
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,11
+Jackson,"Rives Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"Rives Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,2
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,3
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,10
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,4
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,6
+Jackson,"Springport Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,13
+Jackson,"Summit Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,6
+Jackson,"Summit Township, Precinct 2",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"Summit Township, Precinct 3",Secretary of State,,Christina C. Schwartz,UST,15
+Jackson,"Summit Township, Precinct 4",Secretary of State,,Christina C. Schwartz,UST,5
+Jackson,"Summit Township, Precinct 5",Secretary of State,,Christina C. Schwartz,UST,12
+Jackson,"Summit Township, Precinct 6",Secretary of State,,Christina C. Schwartz,UST,6
+Jackson,"Summit Township, Precinct 7",Secretary of State,,Christina C. Schwartz,UST,16
+Jackson,"Summit Township, Precinct 8",Secretary of State,,Christina C. Schwartz,UST,14
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,14
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,Christina C. Schwartz,UST,9
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,6
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,6
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,11
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,7
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Concord Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,0
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,7
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,0
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,8
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,0
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,6
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Parma Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,6
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"Rives Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"Rives Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,1
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,0
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,6
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Springport Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Summit Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,3
+Jackson,"Summit Township, Precinct 2",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,8
+Jackson,"Summit Township, Precinct 3",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Summit Township, Precinct 4",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Summit Township, Precinct 5",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Summit Township, Precinct 6",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,4
+Jackson,"Summit Township, Precinct 7",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,7
+Jackson,"Summit Township, Precinct 8",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,9
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,2
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,"Larry James Hutchinson, Jr.",GRN,5
+Jackson,"City of Jackson, Ward 1, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",Secretary of State,,,Write-ins,1
+Jackson,"City of Jackson, Ward 2, Precinct 3",Secretary of State,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Secretary of State,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 5",Secretary of State,,,Write-ins,0
+Jackson,"City of Jackson, Ward 3, Precinct 6",Secretary of State,,,Write-ins,1
+Jackson,"City of Jackson, Ward 3, Precinct 7",Secretary of State,,,Write-ins,2
+Jackson,"City of Jackson, Ward 4, Precinct 8",Secretary of State,,,Write-ins,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",Secretary of State,,,Write-ins,1
+Jackson,"City of Jackson, Ward 5, Precinct 10",Secretary of State,,,Write-ins,2
+Jackson,"City of Jackson, Ward 5, Precinct 11",Secretary of State,,,Write-ins,2
+Jackson,"City of Jackson, Ward 6, Precinct 12",Secretary of State,,,Write-ins,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Secretary of State,,,Write-ins,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",Secretary of State,,,Write-ins,0
+Jackson,"Blackman Charter Township, Precinct 1",Secretary of State,,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 2",Secretary of State,,,Write-ins,1
+Jackson,"Blackman Charter Township, Precinct 3",Secretary of State,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 4",Secretary of State,,,Write-ins,5
+Jackson,"Blackman Charter Township, Precinct 5",Secretary of State,,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 6",Secretary of State,,,Write-ins,1
+Jackson,"Columbia Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Columbia Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Columbia Township, Precinct 3",Secretary of State,,,Write-ins,0
+Jackson,"Concord Township, Precinct 1",Secretary of State,,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"Grass Lake Charter Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Grass Lake Charter Township, Precinct 3",Secretary of State,,,Write-ins,0
+Jackson,"Hanover Township, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"Hanover Township, Precinct 2",Secretary of State,,,Write-ins,1
+Jackson,"Henrietta Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Henrietta Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Leoni Township, Precinct 1",Secretary of State,,,Write-ins,2
+Jackson,"Leoni Township, Precinct 2",Secretary of State,,,Write-ins,1
+Jackson,"Leoni Township, Precinct 3",Secretary of State,,,Write-ins,1
+Jackson,"Leoni Township, Precinct 4",Secretary of State,,,Write-ins,1
+Jackson,"Liberty Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Liberty Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Napoleon Township, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"Napoleon Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Napoleon Township, Precinct 3",Secretary of State,,,Write-ins,1
+Jackson,"Norvell Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Norvell Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Parma Township, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"Pulaski Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Rives Township, Precinct 1",Secretary of State,,,Write-ins,2
+Jackson,"Rives Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 2",Secretary of State,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 3",Secretary of State,,,Write-ins,2
+Jackson,"Spring Arbor Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"Spring Arbor Township, Precinct 2",Secretary of State,,,Write-ins,2
+Jackson,"Spring Arbor Township, Precinct 3",Secretary of State,,,Write-ins,0
+Jackson,"Springport Township, Precinct 1",Secretary of State,,,Write-ins,1
+Jackson,"Summit Township, Precinct 1",Secretary of State,,,Write-ins,3
+Jackson,"Summit Township, Precinct 2",Secretary of State,,,Write-ins,2
+Jackson,"Summit Township, Precinct 3",Secretary of State,,,Write-ins,0
+Jackson,"Summit Township, Precinct 4",Secretary of State,,,Write-ins,0
+Jackson,"Summit Township, Precinct 5",Secretary of State,,,Write-ins,0
+Jackson,"Summit Township, Precinct 6",Secretary of State,,,Write-ins,1
+Jackson,"Summit Township, Precinct 7",Secretary of State,,,Write-ins,0
+Jackson,"Summit Township, Precinct 8",Secretary of State,,,Write-ins,0
+Jackson,"Tompkins Township, Precinct 1",Secretary of State,,,Write-ins,2
+Jackson,"Waterloo Township, Precinct 1",Secretary of State,,,Write-ins,0
+Jackson,"City of Jackson, Ward 1, Precinct 1",Attorney General,,Dana Messel,DEM,428
+Jackson,"City of Jackson, Ward 1, Precinct 2",Attorney General,,Dana Messel,DEM,371
+Jackson,"City of Jackson, Ward 2, Precinct 3",Attorney General,,Dana Messel,DEM,140
+Jackson,"City of Jackson, Ward 2, Precinct 4",Attorney General,,Dana Messel,DEM,220
+Jackson,"City of Jackson, Ward 2, Precinct 5",Attorney General,,Dana Messel,DEM,229
+Jackson,"City of Jackson, Ward 3, Precinct 6",Attorney General,,Dana Messel,DEM,360
+Jackson,"City of Jackson, Ward 3, Precinct 7",Attorney General,,Dana Messel,DEM,450
+Jackson,"City of Jackson, Ward 4, Precinct 8",Attorney General,,Dana Messel,DEM,429
+Jackson,"City of Jackson, Ward 4, Precinct 9",Attorney General,,Dana Messel,DEM,342
+Jackson,"City of Jackson, Ward 5, Precinct 10",Attorney General,,Dana Messel,DEM,348
+Jackson,"City of Jackson, Ward 5, Precinct 11",Attorney General,,Dana Messel,DEM,403
+Jackson,"City of Jackson, Ward 6, Precinct 12",Attorney General,,Dana Messel,DEM,571
+Jackson,"City of Jackson, Ward 6, Precinct 13",Attorney General,,Dana Messel,DEM,305
+Jackson,"City of Jackson, Ward 6, Precinct 14",Attorney General,,Dana Messel,DEM,505
+Jackson,"Blackman Charter Township, Precinct 1",Attorney General,,Dana Messel,DEM,463
+Jackson,"Blackman Charter Township, Precinct 2",Attorney General,,Dana Messel,DEM,601
+Jackson,"Blackman Charter Township, Precinct 3",Attorney General,,Dana Messel,DEM,510
+Jackson,"Blackman Charter Township, Precinct 4",Attorney General,,Dana Messel,DEM,487
+Jackson,"Blackman Charter Township, Precinct 5",Attorney General,,Dana Messel,DEM,473
+Jackson,"Blackman Charter Township, Precinct 6",Attorney General,,Dana Messel,DEM,606
+Jackson,"Columbia Township, Precinct 1",Attorney General,,Dana Messel,DEM,550
+Jackson,"Columbia Township, Precinct 2",Attorney General,,Dana Messel,DEM,406
+Jackson,"Columbia Township, Precinct 3",Attorney General,,Dana Messel,DEM,649
+Jackson,"Concord Township, Precinct 1",Attorney General,,Dana Messel,DEM,405
+Jackson,"Grass Lake Charter Township, Precinct 1",Attorney General,,Dana Messel,DEM,557
+Jackson,"Grass Lake Charter Township, Precinct 2",Attorney General,,Dana Messel,DEM,571
+Jackson,"Grass Lake Charter Township, Precinct 3",Attorney General,,Dana Messel,DEM,268
+Jackson,"Hanover Township, Precinct 1",Attorney General,,Dana Messel,DEM,292
+Jackson,"Hanover Township, Precinct 2",Attorney General,,Dana Messel,DEM,302
+Jackson,"Henrietta Township, Precinct 1",Attorney General,,Dana Messel,DEM,480
+Jackson,"Henrietta Township, Precinct 2",Attorney General,,Dana Messel,DEM,403
+Jackson,"Leoni Township, Precinct 1",Attorney General,,Dana Messel,DEM,565
+Jackson,"Leoni Township, Precinct 2",Attorney General,,Dana Messel,DEM,554
+Jackson,"Leoni Township, Precinct 3",Attorney General,,Dana Messel,DEM,609
+Jackson,"Leoni Township, Precinct 4",Attorney General,,Dana Messel,DEM,621
+Jackson,"Liberty Township, Precinct 1",Attorney General,,Dana Messel,DEM,343
+Jackson,"Liberty Township, Precinct 2",Attorney General,,Dana Messel,DEM,220
+Jackson,"Napoleon Township, Precinct 1",Attorney General,,Dana Messel,DEM,413
+Jackson,"Napoleon Township, Precinct 2",Attorney General,,Dana Messel,DEM,409
+Jackson,"Napoleon Township, Precinct 3",Attorney General,,Dana Messel,DEM,454
+Jackson,"Norvell Township, Precinct 1",Attorney General,,Dana Messel,DEM,301
+Jackson,"Norvell Township, Precinct 2",Attorney General,,Dana Messel,DEM,324
+Jackson,"Parma Township, Precinct 1",Attorney General,,Dana Messel,DEM,423
+Jackson,"Pulaski Township, Precinct 1",Attorney General,,Dana Messel,DEM,227
+Jackson,"Rives Township, Precinct 1",Attorney General,,Dana Messel,DEM,422
+Jackson,"Rives Township, Precinct 2",Attorney General,,Dana Messel,DEM,329
+Jackson,"Sandstone Charter Township, Precinct 1",Attorney General,,Dana Messel,DEM,279
+Jackson,"Sandstone Charter Township, Precinct 2",Attorney General,,Dana Messel,DEM,190
+Jackson,"Sandstone Charter Township, Precinct 3",Attorney General,,Dana Messel,DEM,183
+Jackson,"Spring Arbor Township, Precinct 1",Attorney General,,Dana Messel,DEM,286
+Jackson,"Spring Arbor Township, Precinct 2",Attorney General,,Dana Messel,DEM,531
+Jackson,"Spring Arbor Township, Precinct 3",Attorney General,,Dana Messel,DEM,426
+Jackson,"Springport Township, Precinct 1",Attorney General,,Dana Messel,DEM,243
+Jackson,"Summit Township, Precinct 1",Attorney General,,Dana Messel,DEM,521
+Jackson,"Summit Township, Precinct 2",Attorney General,,Dana Messel,DEM,747
+Jackson,"Summit Township, Precinct 3",Attorney General,,Dana Messel,DEM,704
+Jackson,"Summit Township, Precinct 4",Attorney General,,Dana Messel,DEM,635
+Jackson,"Summit Township, Precinct 5",Attorney General,,Dana Messel,DEM,585
+Jackson,"Summit Township, Precinct 6",Attorney General,,Dana Messel,DEM,398
+Jackson,"Summit Township, Precinct 7",Attorney General,,Dana Messel,DEM,662
+Jackson,"Summit Township, Precinct 8",Attorney General,,Dana Messel,DEM,567
+Jackson,"Tompkins Township, Precinct 1",Attorney General,,Dana Messel,DEM,393
+Jackson,"Waterloo Township, Precinct 1",Attorney General,,Dana Messel,DEM,617
+Jackson,"City of Jackson, Ward 1, Precinct 1",Attorney General,,Matthew DePermo,REP,151
+Jackson,"City of Jackson, Ward 1, Precinct 2",Attorney General,,Matthew DePermo,REP,62
+Jackson,"City of Jackson, Ward 2, Precinct 3",Attorney General,,Matthew DePermo,REP,60
+Jackson,"City of Jackson, Ward 2, Precinct 4",Attorney General,,Matthew DePermo,REP,146
+Jackson,"City of Jackson, Ward 2, Precinct 5",Attorney General,,Matthew DePermo,REP,153
+Jackson,"City of Jackson, Ward 3, Precinct 6",Attorney General,,Matthew DePermo,REP,276
+Jackson,"City of Jackson, Ward 3, Precinct 7",Attorney General,,Matthew DePermo,REP,349
+Jackson,"City of Jackson, Ward 4, Precinct 8",Attorney General,,Matthew DePermo,REP,356
+Jackson,"City of Jackson, Ward 4, Precinct 9",Attorney General,,Matthew DePermo,REP,275
+Jackson,"City of Jackson, Ward 5, Precinct 10",Attorney General,,Matthew DePermo,REP,179
+Jackson,"City of Jackson, Ward 5, Precinct 11",Attorney General,,Matthew DePermo,REP,206
+Jackson,"City of Jackson, Ward 6, Precinct 12",Attorney General,,Matthew DePermo,REP,414
+Jackson,"City of Jackson, Ward 6, Precinct 13",Attorney General,,Matthew DePermo,REP,221
+Jackson,"City of Jackson, Ward 6, Precinct 14",Attorney General,,Matthew DePermo,REP,339
+Jackson,"Blackman Charter Township, Precinct 1",Attorney General,,Matthew DePermo,REP,441
+Jackson,"Blackman Charter Township, Precinct 2",Attorney General,,Matthew DePermo,REP,679
+Jackson,"Blackman Charter Township, Precinct 3",Attorney General,,Matthew DePermo,REP,570
+Jackson,"Blackman Charter Township, Precinct 4",Attorney General,,Matthew DePermo,REP,390
+Jackson,"Blackman Charter Township, Precinct 5",Attorney General,,Matthew DePermo,REP,494
+Jackson,"Blackman Charter Township, Precinct 6",Attorney General,,Matthew DePermo,REP,764
+Jackson,"Columbia Township, Precinct 1",Attorney General,,Matthew DePermo,REP,725
+Jackson,"Columbia Township, Precinct 2",Attorney General,,Matthew DePermo,REP,639
+Jackson,"Columbia Township, Precinct 3",Attorney General,,Matthew DePermo,REP,991
+Jackson,"Concord Township, Precinct 1",Attorney General,,Matthew DePermo,REP,861
+Jackson,"Grass Lake Charter Township, Precinct 1",Attorney General,,Matthew DePermo,REP,829
+Jackson,"Grass Lake Charter Township, Precinct 2",Attorney General,,Matthew DePermo,REP,764
+Jackson,"Grass Lake Charter Township, Precinct 3",Attorney General,,Matthew DePermo,REP,274
+Jackson,"Hanover Township, Precinct 1",Attorney General,,Matthew DePermo,REP,581
+Jackson,"Hanover Township, Precinct 2",Attorney General,,Matthew DePermo,REP,629
+Jackson,"Henrietta Township, Precinct 1",Attorney General,,Matthew DePermo,REP,674
+Jackson,"Henrietta Township, Precinct 2",Attorney General,,Matthew DePermo,REP,707
+Jackson,"Leoni Township, Precinct 1",Attorney General,,Matthew DePermo,REP,821
+Jackson,"Leoni Township, Precinct 2",Attorney General,,Matthew DePermo,REP,766
+Jackson,"Leoni Township, Precinct 3",Attorney General,,Matthew DePermo,REP,683
+Jackson,"Leoni Township, Precinct 4",Attorney General,,Matthew DePermo,REP,869
+Jackson,"Liberty Township, Precinct 1",Attorney General,,Matthew DePermo,REP,613
+Jackson,"Liberty Township, Precinct 2",Attorney General,,Matthew DePermo,REP,438
+Jackson,"Napoleon Township, Precinct 1",Attorney General,,Matthew DePermo,REP,610
+Jackson,"Napoleon Township, Precinct 2",Attorney General,,Matthew DePermo,REP,558
+Jackson,"Napoleon Township, Precinct 3",Attorney General,,Matthew DePermo,REP,683
+Jackson,"Norvell Township, Precinct 1",Attorney General,,Matthew DePermo,REP,394
+Jackson,"Norvell Township, Precinct 2",Attorney General,,Matthew DePermo,REP,512
+Jackson,"Parma Township, Precinct 1",Attorney General,,Matthew DePermo,REP,627
+Jackson,"Pulaski Township, Precinct 1",Attorney General,,Matthew DePermo,REP,564
+Jackson,"Rives Township, Precinct 1",Attorney General,,Matthew DePermo,REP,708
+Jackson,"Rives Township, Precinct 2",Attorney General,,Matthew DePermo,REP,586
+Jackson,"Sandstone Charter Township, Precinct 1",Attorney General,,Matthew DePermo,REP,530
+Jackson,"Sandstone Charter Township, Precinct 2",Attorney General,,Matthew DePermo,REP,392
+Jackson,"Sandstone Charter Township, Precinct 3",Attorney General,,Matthew DePermo,REP,307
+Jackson,"Spring Arbor Township, Precinct 1",Attorney General,,Matthew DePermo,REP,554
+Jackson,"Spring Arbor Township, Precinct 2",Attorney General,,Matthew DePermo,REP,886
+Jackson,"Spring Arbor Township, Precinct 3",Attorney General,,Matthew DePermo,REP,781
+Jackson,"Springport Township, Precinct 1",Attorney General,,Matthew DePermo,REP,547
+Jackson,"Summit Township, Precinct 1",Attorney General,,Matthew DePermo,REP,478
+Jackson,"Summit Township, Precinct 2",Attorney General,,Matthew DePermo,REP,892
+Jackson,"Summit Township, Precinct 3",Attorney General,,Matthew DePermo,REP,658
+Jackson,"Summit Township, Precinct 4",Attorney General,,Matthew DePermo,REP,799
+Jackson,"Summit Township, Precinct 5",Attorney General,,Matthew DePermo,REP,812
+Jackson,"Summit Township, Precinct 6",Attorney General,,Matthew DePermo,REP,493
+Jackson,"Summit Township, Precinct 7",Attorney General,,Matthew DePermo,REP,804
+Jackson,"Summit Township, Precinct 8",Attorney General,,Matthew DePermo,REP,544
+Jackson,"Tompkins Township, Precinct 1",Attorney General,,Matthew DePermo,REP,784
+Jackson,"Waterloo Township, Precinct 1",Attorney General,,Matthew DePermo,REP,815
+Jackson,"City of Jackson, Ward 1, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"City of Jackson, Ward 1, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"City of Jackson, Ward 2, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,3
+Jackson,"City of Jackson, Ward 2, Precinct 4",Attorney General,,"Joseph W. McHugh, Jr.",LIB,12
+Jackson,"City of Jackson, Ward 2, Precinct 5",Attorney General,,"Joseph W. McHugh, Jr.",LIB,5
+Jackson,"City of Jackson, Ward 3, Precinct 6",Attorney General,,"Joseph W. McHugh, Jr.",LIB,10
+Jackson,"City of Jackson, Ward 3, Precinct 7",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"City of Jackson, Ward 4, Precinct 8",Attorney General,,"Joseph W. McHugh, Jr.",LIB,19
+Jackson,"City of Jackson, Ward 4, Precinct 9",Attorney General,,"Joseph W. McHugh, Jr.",LIB,7
+Jackson,"City of Jackson, Ward 5, Precinct 10",Attorney General,,"Joseph W. McHugh, Jr.",LIB,14
+Jackson,"City of Jackson, Ward 5, Precinct 11",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13
+Jackson,"City of Jackson, Ward 6, Precinct 12",Attorney General,,"Joseph W. McHugh, Jr.",LIB,19
+Jackson,"City of Jackson, Ward 6, Precinct 13",Attorney General,,"Joseph W. McHugh, Jr.",LIB,11
+Jackson,"City of Jackson, Ward 6, Precinct 14",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"Blackman Charter Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"Blackman Charter Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,25
+Jackson,"Blackman Charter Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"Blackman Charter Township, Precinct 4",Attorney General,,"Joseph W. McHugh, Jr.",LIB,21
+Jackson,"Blackman Charter Township, Precinct 5",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13
+Jackson,"Blackman Charter Township, Precinct 6",Attorney General,,"Joseph W. McHugh, Jr.",LIB,20
+Jackson,"Columbia Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,10
+Jackson,"Columbia Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,16
+Jackson,"Columbia Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,20
+Jackson,"Concord Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,29
+Jackson,"Grass Lake Charter Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"Grass Lake Charter Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,24
+Jackson,"Grass Lake Charter Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13
+Jackson,"Hanover Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"Hanover Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,15
+Jackson,"Henrietta Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,26
+Jackson,"Henrietta Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13
+Jackson,"Leoni Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,16
+Jackson,"Leoni Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,26
+Jackson,"Leoni Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,29
+Jackson,"Leoni Township, Precinct 4",Attorney General,,"Joseph W. McHugh, Jr.",LIB,28
+Jackson,"Liberty Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,20
+Jackson,"Liberty Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"Napoleon Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,21
+Jackson,"Napoleon Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,15
+Jackson,"Napoleon Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,17
+Jackson,"Norvell Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,16
+Jackson,"Norvell Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13
+Jackson,"Parma Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,18
+Jackson,"Pulaski Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"Rives Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,17
+Jackson,"Rives Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,9
+Jackson,"Sandstone Charter Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,15
+Jackson,"Sandstone Charter Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,8
+Jackson,"Sandstone Charter Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,4
+Jackson,"Spring Arbor Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,20
+Jackson,"Spring Arbor Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,25
+Jackson,"Spring Arbor Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,25
+Jackson,"Springport Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,22
+Jackson,"Summit Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,19
+Jackson,"Summit Township, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,33
+Jackson,"Summit Township, Precinct 3",Attorney General,,"Joseph W. McHugh, Jr.",LIB,17
+Jackson,"Summit Township, Precinct 4",Attorney General,,"Joseph W. McHugh, Jr.",LIB,19
+Jackson,"Summit Township, Precinct 5",Attorney General,,"Joseph W. McHugh, Jr.",LIB,17
+Jackson,"Summit Township, Precinct 6",Attorney General,,"Joseph W. McHugh, Jr.",LIB,11
+Jackson,"Summit Township, Precinct 7",Attorney General,,"Joseph W. McHugh, Jr.",LIB,27
+Jackson,"Summit Township, Precinct 8",Attorney General,,"Joseph W. McHugh, Jr.",LIB,17
+Jackson,"Tompkins Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,19
+Jackson,"Waterloo Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,25
+Jackson,"City of Jackson, Ward 1, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,13
+Jackson,"City of Jackson, Ward 1, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,3
+Jackson,"City of Jackson, Ward 2, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,1
+Jackson,"City of Jackson, Ward 2, Precinct 4",Attorney General,,Gerald T. Van Sickle,UST,12
+Jackson,"City of Jackson, Ward 2, Precinct 5",Attorney General,,Gerald T. Van Sickle,UST,10
+Jackson,"City of Jackson, Ward 3, Precinct 6",Attorney General,,Gerald T. Van Sickle,UST,10
+Jackson,"City of Jackson, Ward 3, Precinct 7",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"City of Jackson, Ward 4, Precinct 8",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"City of Jackson, Ward 4, Precinct 9",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"City of Jackson, Ward 5, Precinct 10",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"City of Jackson, Ward 5, Precinct 11",Attorney General,,Gerald T. Van Sickle,UST,10
+Jackson,"City of Jackson, Ward 6, Precinct 12",Attorney General,,Gerald T. Van Sickle,UST,3
+Jackson,"City of Jackson, Ward 6, Precinct 13",Attorney General,,Gerald T. Van Sickle,UST,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",Attorney General,,Gerald T. Van Sickle,UST,6
+Jackson,"Blackman Charter Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,13
+Jackson,"Blackman Charter Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,10
+Jackson,"Blackman Charter Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"Blackman Charter Township, Precinct 4",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"Blackman Charter Township, Precinct 5",Attorney General,,Gerald T. Van Sickle,UST,13
+Jackson,"Blackman Charter Township, Precinct 6",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"Columbia Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,14
+Jackson,"Columbia Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"Columbia Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,17
+Jackson,"Concord Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,8
+Jackson,"Grass Lake Charter Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Grass Lake Charter Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Grass Lake Charter Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,4
+Jackson,"Hanover Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"Hanover Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"Henrietta Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,7
+Jackson,"Henrietta Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,8
+Jackson,"Leoni Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,12
+Jackson,"Leoni Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,18
+Jackson,"Leoni Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,20
+Jackson,"Leoni Township, Precinct 4",Attorney General,,Gerald T. Van Sickle,UST,12
+Jackson,"Liberty Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Liberty Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"Napoleon Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,13
+Jackson,"Napoleon Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,8
+Jackson,"Napoleon Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Norvell Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,7
+Jackson,"Norvell Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,8
+Jackson,"Parma Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,12
+Jackson,"Pulaski Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Rives Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Rives Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,16
+Jackson,"Sandstone Charter Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Sandstone Charter Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,10
+Jackson,"Sandstone Charter Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,5
+Jackson,"Spring Arbor Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,14
+Jackson,"Spring Arbor Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,6
+Jackson,"Spring Arbor Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,7
+Jackson,"Springport Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,14
+Jackson,"Summit Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Summit Township, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,16
+Jackson,"Summit Township, Precinct 3",Attorney General,,Gerald T. Van Sickle,UST,13
+Jackson,"Summit Township, Precinct 4",Attorney General,,Gerald T. Van Sickle,UST,6
+Jackson,"Summit Township, Precinct 5",Attorney General,,Gerald T. Van Sickle,UST,6
+Jackson,"Summit Township, Precinct 6",Attorney General,,Gerald T. Van Sickle,UST,3
+Jackson,"Summit Township, Precinct 7",Attorney General,,Gerald T. Van Sickle,UST,9
+Jackson,"Summit Township, Precinct 8",Attorney General,,Gerald T. Van Sickle,UST,17
+Jackson,"Tompkins Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,17
+Jackson,"Waterloo Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,11
+Jackson,"City of Jackson, Ward 1, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"City of Jackson, Ward 1, Precinct 2",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 2, Precinct 3",Attorney General,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",Attorney General,,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 5",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 3, Precinct 6",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 3, Precinct 7",Attorney General,,,Write-ins,3
+Jackson,"City of Jackson, Ward 4, Precinct 8",Attorney General,,,Write-ins,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 5, Precinct 10",Attorney General,,,Write-ins,3
+Jackson,"City of Jackson, Ward 5, Precinct 11",Attorney General,,,Write-ins,3
+Jackson,"City of Jackson, Ward 6, Precinct 12",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",Attorney General,,,Write-ins,3
+Jackson,"City of Jackson, Ward 6, Precinct 14",Attorney General,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 1",Attorney General,,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 2",Attorney General,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 3",Attorney General,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 4",Attorney General,,,Write-ins,5
+Jackson,"Blackman Charter Township, Precinct 5",Attorney General,,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 6",Attorney General,,,Write-ins,2
+Jackson,"Columbia Township, Precinct 1",Attorney General,,,Write-ins,0
+Jackson,"Columbia Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Columbia Township, Precinct 3",Attorney General,,,Write-ins,0
+Jackson,"Concord Township, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 2",Attorney General,,,Write-ins,1
+Jackson,"Grass Lake Charter Township, Precinct 3",Attorney General,,,Write-ins,0
+Jackson,"Hanover Township, Precinct 1",Attorney General,,,Write-ins,4
+Jackson,"Hanover Township, Precinct 2",Attorney General,,,Write-ins,2
+Jackson,"Henrietta Township, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"Henrietta Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Leoni Township, Precinct 1",Attorney General,,,Write-ins,3
+Jackson,"Leoni Township, Precinct 2",Attorney General,,,Write-ins,2
+Jackson,"Leoni Township, Precinct 3",Attorney General,,,Write-ins,2
+Jackson,"Leoni Township, Precinct 4",Attorney General,,,Write-ins,2
+Jackson,"Liberty Township, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"Liberty Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Napoleon Township, Precinct 1",Attorney General,,,Write-ins,2
+Jackson,"Napoleon Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Napoleon Township, Precinct 3",Attorney General,,,Write-ins,1
+Jackson,"Norvell Township, Precinct 1",Attorney General,,,Write-ins,0
+Jackson,"Norvell Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Parma Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"Pulaski Township, Precinct 1",Attorney General,,,Write-ins,0
+Jackson,"Rives Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"Rives Township, Precinct 2",Attorney General,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 1",Attorney General,,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 2",Attorney General,,,Write-ins,2
+Jackson,"Sandstone Charter Township, Precinct 3",Attorney General,,,Write-ins,2
+Jackson,"Spring Arbor Township, Precinct 1",Attorney General,,,Write-ins,0
+Jackson,"Spring Arbor Township, Precinct 2",Attorney General,,,Write-ins,3
+Jackson,"Spring Arbor Township, Precinct 3",Attorney General,,,Write-ins,1
+Jackson,"Springport Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"Summit Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"Summit Township, Precinct 2",Attorney General,,,Write-ins,3
+Jackson,"Summit Township, Precinct 3",Attorney General,,,Write-ins,0
+Jackson,"Summit Township, Precinct 4",Attorney General,,,Write-ins,0
+Jackson,"Summit Township, Precinct 5",Attorney General,,,Write-ins,2
+Jackson,"Summit Township, Precinct 6",Attorney General,,,Write-ins,1
+Jackson,"Summit Township, Precinct 7",Attorney General,,,Write-ins,4
+Jackson,"Summit Township, Precinct 8",Attorney General,,,Write-ins,3
+Jackson,"Tompkins Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"Waterloo Township, Precinct 1",Attorney General,,,Write-ins,1
+Jackson,"City of Jackson, Ward 1, Precinct 1",U.S. House,5,Bart Goldberg,DEM,401
+Jackson,"City of Jackson, Ward 1, Precinct 2",U.S. House,5,Bart Goldberg,DEM,345
+Jackson,"City of Jackson, Ward 2, Precinct 3",U.S. House,5,Bart Goldberg,DEM,129
+Jackson,"City of Jackson, Ward 2, Precinct 4",U.S. House,5,Bart Goldberg,DEM,202
+Jackson,"City of Jackson, Ward 2, Precinct 5",U.S. House,5,Bart Goldberg,DEM,217
+Jackson,"City of Jackson, Ward 3, Precinct 6",U.S. House,5,Bart Goldberg,DEM,318
+Jackson,"City of Jackson, Ward 3, Precinct 7",U.S. House,5,Bart Goldberg,DEM,410
+Jackson,"City of Jackson, Ward 4, Precinct 8",U.S. House,5,Bart Goldberg,DEM,389
+Jackson,"City of Jackson, Ward 4, Precinct 9",U.S. House,5,Bart Goldberg,DEM,312
+Jackson,"City of Jackson, Ward 5, Precinct 10",U.S. House,5,Bart Goldberg,DEM,338
+Jackson,"City of Jackson, Ward 5, Precinct 11",U.S. House,5,Bart Goldberg,DEM,373
+Jackson,"City of Jackson, Ward 6, Precinct 12",U.S. House,5,Bart Goldberg,DEM,525
+Jackson,"City of Jackson, Ward 6, Precinct 13",U.S. House,5,Bart Goldberg,DEM,281
+Jackson,"City of Jackson, Ward 6, Precinct 14",U.S. House,5,Bart Goldberg,DEM,472
+Jackson,"Blackman Charter Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,395
+Jackson,"Blackman Charter Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,524
+Jackson,"Blackman Charter Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,445
+Jackson,"Blackman Charter Township, Precinct 4",U.S. House,5,Bart Goldberg,DEM,426
+Jackson,"Blackman Charter Township, Precinct 5",U.S. House,5,Bart Goldberg,DEM,415
+Jackson,"Blackman Charter Township, Precinct 6",U.S. House,5,Bart Goldberg,DEM,535
+Jackson,"Columbia Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,473
+Jackson,"Columbia Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,359
+Jackson,"Columbia Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,562
+Jackson,"Concord Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,340
+Jackson,"Grass Lake Charter Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,493
+Jackson,"Grass Lake Charter Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,492
+Jackson,"Grass Lake Charter Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,241
+Jackson,"Hanover Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,232
+Jackson,"Hanover Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,244
+Jackson,"Henrietta Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,412
+Jackson,"Henrietta Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,352
+Jackson,"Leoni Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,500
+Jackson,"Leoni Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,458
+Jackson,"Leoni Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,547
+Jackson,"Leoni Township, Precinct 4",U.S. House,5,Bart Goldberg,DEM,544
+Jackson,"Liberty Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,304
+Jackson,"Liberty Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,200
+Jackson,"Napoleon Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,350
+Jackson,"Napoleon Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,352
+Jackson,"Napoleon Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,391
+Jackson,"Norvell Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,273
+Jackson,"Norvell Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,283
+Jackson,"Parma Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,359
+Jackson,"Pulaski Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,179
+Jackson,"Rives Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,379
+Jackson,"Rives Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,277
+Jackson,"Sandstone Charter Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,231
+Jackson,"Sandstone Charter Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,148
+Jackson,"Sandstone Charter Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,144
+Jackson,"Spring Arbor Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,252
+Jackson,"Spring Arbor Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,441
+Jackson,"Spring Arbor Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,364
+Jackson,"Springport Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,207
+Jackson,"Summit Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,463
+Jackson,"Summit Township, Precinct 2",U.S. House,5,Bart Goldberg,DEM,638
+Jackson,"Summit Township, Precinct 3",U.S. House,5,Bart Goldberg,DEM,622
+Jackson,"Summit Township, Precinct 4",U.S. House,5,Bart Goldberg,DEM,570
+Jackson,"Summit Township, Precinct 5",U.S. House,5,Bart Goldberg,DEM,524
+Jackson,"Summit Township, Precinct 6",U.S. House,5,Bart Goldberg,DEM,357
+Jackson,"Summit Township, Precinct 7",U.S. House,5,Bart Goldberg,DEM,554
+Jackson,"Summit Township, Precinct 8",U.S. House,5,Bart Goldberg,DEM,500
+Jackson,"Tompkins Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,318
+Jackson,"Waterloo Township, Precinct 1",U.S. House,5,Bart Goldberg,DEM,552
+Jackson,"City of Jackson, Ward 1, Precinct 1",U.S. House,5,Tim Walberg,REP,174
+Jackson,"City of Jackson, Ward 1, Precinct 2",U.S. House,5,Tim Walberg,REP,73
+Jackson,"City of Jackson, Ward 2, Precinct 3",U.S. House,5,Tim Walberg,REP,68
+Jackson,"City of Jackson, Ward 2, Precinct 4",U.S. House,5,Tim Walberg,REP,164
+Jackson,"City of Jackson, Ward 2, Precinct 5",U.S. House,5,Tim Walberg,REP,166
+Jackson,"City of Jackson, Ward 3, Precinct 6",U.S. House,5,Tim Walberg,REP,317
+Jackson,"City of Jackson, Ward 3, Precinct 7",U.S. House,5,Tim Walberg,REP,375
+Jackson,"City of Jackson, Ward 4, Precinct 8",U.S. House,5,Tim Walberg,REP,395
+Jackson,"City of Jackson, Ward 4, Precinct 9",U.S. House,5,Tim Walberg,REP,296
+Jackson,"City of Jackson, Ward 5, Precinct 10",U.S. House,5,Tim Walberg,REP,189
+Jackson,"City of Jackson, Ward 5, Precinct 11",U.S. House,5,Tim Walberg,REP,243
+Jackson,"City of Jackson, Ward 6, Precinct 12",U.S. House,5,Tim Walberg,REP,466
+Jackson,"City of Jackson, Ward 6, Precinct 13",U.S. House,5,Tim Walberg,REP,247
+Jackson,"City of Jackson, Ward 6, Precinct 14",U.S. House,5,Tim Walberg,REP,370
+Jackson,"Blackman Charter Township, Precinct 1",U.S. House,5,Tim Walberg,REP,505
+Jackson,"Blackman Charter Township, Precinct 2",U.S. House,5,Tim Walberg,REP,755
+Jackson,"Blackman Charter Township, Precinct 3",U.S. House,5,Tim Walberg,REP,631
+Jackson,"Blackman Charter Township, Precinct 4",U.S. House,5,Tim Walberg,REP,445
+Jackson,"Blackman Charter Township, Precinct 5",U.S. House,5,Tim Walberg,REP,551
+Jackson,"Blackman Charter Township, Precinct 6",U.S. House,5,Tim Walberg,REP,842
+Jackson,"Columbia Township, Precinct 1",U.S. House,5,Tim Walberg,REP,791
+Jackson,"Columbia Township, Precinct 2",U.S. House,5,Tim Walberg,REP,691
+Jackson,"Columbia Township, Precinct 3",U.S. House,5,Tim Walberg,REP,1085
+Jackson,"Concord Township, Precinct 1",U.S. House,5,Tim Walberg,REP,929
+Jackson,"Grass Lake Charter Township, Precinct 1",U.S. House,5,Tim Walberg,REP,892
+Jackson,"Grass Lake Charter Township, Precinct 2",U.S. House,5,Tim Walberg,REP,848
+Jackson,"Grass Lake Charter Township, Precinct 3",U.S. House,5,Tim Walberg,REP,306
+Jackson,"Hanover Township, Precinct 1",U.S. House,5,Tim Walberg,REP,642
+Jackson,"Hanover Township, Precinct 2",U.S. House,5,Tim Walberg,REP,688
+Jackson,"Henrietta Township, Precinct 1",U.S. House,5,Tim Walberg,REP,734
+Jackson,"Henrietta Township, Precinct 2",U.S. House,5,Tim Walberg,REP,739
+Jackson,"Leoni Township, Precinct 1",U.S. House,5,Tim Walberg,REP,887
+Jackson,"Leoni Township, Precinct 2",U.S. House,5,Tim Walberg,REP,855
+Jackson,"Leoni Township, Precinct 3",U.S. House,5,Tim Walberg,REP,745
+Jackson,"Leoni Township, Precinct 4",U.S. House,5,Tim Walberg,REP,945
+Jackson,"Liberty Township, Precinct 1",U.S. House,5,Tim Walberg,REP,664
+Jackson,"Liberty Township, Precinct 2",U.S. House,5,Tim Walberg,REP,466
+Jackson,"Napoleon Township, Precinct 1",U.S. House,5,Tim Walberg,REP,676
+Jackson,"Napoleon Township, Precinct 2",U.S. House,5,Tim Walberg,REP,610
+Jackson,"Napoleon Township, Precinct 3",U.S. House,5,Tim Walberg,REP,739
+Jackson,"Norvell Township, Precinct 1",U.S. House,5,Tim Walberg,REP,422
+Jackson,"Norvell Township, Precinct 2",U.S. House,5,Tim Walberg,REP,564
+Jackson,"Parma Township, Precinct 1",U.S. House,5,Tim Walberg,REP,691
+Jackson,"Pulaski Township, Precinct 1",U.S. House,5,Tim Walberg,REP,608
+Jackson,"Rives Township, Precinct 1",U.S. House,5,Tim Walberg,REP,756
+Jackson,"Rives Township, Precinct 2",U.S. House,5,Tim Walberg,REP,645
+Jackson,"Sandstone Charter Township, Precinct 1",U.S. House,5,Tim Walberg,REP,582
+Jackson,"Sandstone Charter Township, Precinct 2",U.S. House,5,Tim Walberg,REP,431
+Jackson,"Sandstone Charter Township, Precinct 3",U.S. House,5,Tim Walberg,REP,342
+Jackson,"Spring Arbor Township, Precinct 1",U.S. House,5,Tim Walberg,REP,597
+Jackson,"Spring Arbor Township, Precinct 2",U.S. House,5,Tim Walberg,REP,971
+Jackson,"Spring Arbor Township, Precinct 3",U.S. House,5,Tim Walberg,REP,841
+Jackson,"Springport Township, Precinct 1",U.S. House,5,Tim Walberg,REP,590
+Jackson,"Summit Township, Precinct 1",U.S. House,5,Tim Walberg,REP,539
+Jackson,"Summit Township, Precinct 2",U.S. House,5,Tim Walberg,REP,1018
+Jackson,"Summit Township, Precinct 3",U.S. House,5,Tim Walberg,REP,746
+Jackson,"Summit Township, Precinct 4",U.S. House,5,Tim Walberg,REP,875
+Jackson,"Summit Township, Precinct 5",U.S. House,5,Tim Walberg,REP,883
+Jackson,"Summit Township, Precinct 6",U.S. House,5,Tim Walberg,REP,543
+Jackson,"Summit Township, Precinct 7",U.S. House,5,Tim Walberg,REP,910
+Jackson,"Summit Township, Precinct 8",U.S. House,5,Tim Walberg,REP,599
+Jackson,"Tompkins Township, Precinct 1",U.S. House,5,Tim Walberg,REP,852
+Jackson,"Waterloo Township, Precinct 1",U.S. House,5,Tim Walberg,REP,885
+Jackson,"City of Jackson, Ward 1, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,11
+Jackson,"City of Jackson, Ward 1, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,15
+Jackson,"City of Jackson, Ward 2, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,5
+Jackson,"City of Jackson, Ward 2, Precinct 4",U.S. House,5,Norman M. Peterson,LIB,12
+Jackson,"City of Jackson, Ward 2, Precinct 5",U.S. House,5,Norman M. Peterson,LIB,9
+Jackson,"City of Jackson, Ward 3, Precinct 6",U.S. House,5,Norman M. Peterson,LIB,9
+Jackson,"City of Jackson, Ward 3, Precinct 7",U.S. House,5,Norman M. Peterson,LIB,26
+Jackson,"City of Jackson, Ward 4, Precinct 8",U.S. House,5,Norman M. Peterson,LIB,19
+Jackson,"City of Jackson, Ward 4, Precinct 9",U.S. House,5,Norman M. Peterson,LIB,12
+Jackson,"City of Jackson, Ward 5, Precinct 10",U.S. House,5,Norman M. Peterson,LIB,13
+Jackson,"City of Jackson, Ward 5, Precinct 11",U.S. House,5,Norman M. Peterson,LIB,10
+Jackson,"City of Jackson, Ward 6, Precinct 12",U.S. House,5,Norman M. Peterson,LIB,19
+Jackson,"City of Jackson, Ward 6, Precinct 13",U.S. House,5,Norman M. Peterson,LIB,10
+Jackson,"City of Jackson, Ward 6, Precinct 14",U.S. House,5,Norman M. Peterson,LIB,17
+Jackson,"Blackman Charter Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,21
+Jackson,"Blackman Charter Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,21
+Jackson,"Blackman Charter Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,22
+Jackson,"Blackman Charter Township, Precinct 4",U.S. House,5,Norman M. Peterson,LIB,21
+Jackson,"Blackman Charter Township, Precinct 5",U.S. House,5,Norman M. Peterson,LIB,14
+Jackson,"Blackman Charter Township, Precinct 6",U.S. House,5,Norman M. Peterson,LIB,15
+Jackson,"Columbia Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,18
+Jackson,"Columbia Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,20
+Jackson,"Columbia Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,24
+Jackson,"Concord Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,29
+Jackson,"Grass Lake Charter Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,15
+Jackson,"Grass Lake Charter Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,25
+Jackson,"Grass Lake Charter Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,11
+Jackson,"Hanover Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,17
+Jackson,"Hanover Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,16
+Jackson,"Henrietta Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,25
+Jackson,"Henrietta Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,20
+Jackson,"Leoni Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,21
+Jackson,"Leoni Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,25
+Jackson,"Leoni Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,33
+Jackson,"Leoni Township, Precinct 4",U.S. House,5,Norman M. Peterson,LIB,31
+Jackson,"Liberty Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,21
+Jackson,"Liberty Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,13
+Jackson,"Napoleon Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,23
+Jackson,"Napoleon Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,12
+Jackson,"Napoleon Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,20
+Jackson,"Norvell Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,16
+Jackson,"Norvell Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,9
+Jackson,"Parma Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,22
+Jackson,"Pulaski Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,10
+Jackson,"Rives Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,11
+Jackson,"Rives Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,16
+Jackson,"Sandstone Charter Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,14
+Jackson,"Sandstone Charter Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,18
+Jackson,"Sandstone Charter Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,7
+Jackson,"Spring Arbor Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,22
+Jackson,"Spring Arbor Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,28
+Jackson,"Spring Arbor Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,22
+Jackson,"Springport Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,22
+Jackson,"Summit Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,14
+Jackson,"Summit Township, Precinct 2",U.S. House,5,Norman M. Peterson,LIB,26
+Jackson,"Summit Township, Precinct 3",U.S. House,5,Norman M. Peterson,LIB,14
+Jackson,"Summit Township, Precinct 4",U.S. House,5,Norman M. Peterson,LIB,20
+Jackson,"Summit Township, Precinct 5",U.S. House,5,Norman M. Peterson,LIB,17
+Jackson,"Summit Township, Precinct 6",U.S. House,5,Norman M. Peterson,LIB,8
+Jackson,"Summit Township, Precinct 7",U.S. House,5,Norman M. Peterson,LIB,28
+Jackson,"Summit Township, Precinct 8",U.S. House,5,Norman M. Peterson,LIB,32
+Jackson,"Tompkins Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,23
+Jackson,"Waterloo Township, Precinct 1",U.S. House,5,Norman M. Peterson,LIB,23
+Jackson,"City of Jackson, Ward 1, Precinct 1",U.S. House,5,Ezra Scott,UST,11
+Jackson,"City of Jackson, Ward 1, Precinct 2",U.S. House,5,Ezra Scott,UST,8
+Jackson,"City of Jackson, Ward 2, Precinct 3",U.S. House,5,Ezra Scott,UST,1
+Jackson,"City of Jackson, Ward 2, Precinct 4",U.S. House,5,Ezra Scott,UST,9
+Jackson,"City of Jackson, Ward 2, Precinct 5",U.S. House,5,Ezra Scott,UST,5
+Jackson,"City of Jackson, Ward 3, Precinct 6",U.S. House,5,Ezra Scott,UST,8
+Jackson,"City of Jackson, Ward 3, Precinct 7",U.S. House,5,Ezra Scott,UST,8
+Jackson,"City of Jackson, Ward 4, Precinct 8",U.S. House,5,Ezra Scott,UST,8
+Jackson,"City of Jackson, Ward 4, Precinct 9",U.S. House,5,Ezra Scott,UST,11
+Jackson,"City of Jackson, Ward 5, Precinct 10",U.S. House,5,Ezra Scott,UST,8
+Jackson,"City of Jackson, Ward 5, Precinct 11",U.S. House,5,Ezra Scott,UST,10
+Jackson,"City of Jackson, Ward 6, Precinct 12",U.S. House,5,Ezra Scott,UST,7
+Jackson,"City of Jackson, Ward 6, Precinct 13",U.S. House,5,Ezra Scott,UST,4
+Jackson,"City of Jackson, Ward 6, Precinct 14",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Blackman Charter Township, Precinct 1",U.S. House,5,Ezra Scott,UST,14
+Jackson,"Blackman Charter Township, Precinct 2",U.S. House,5,Ezra Scott,UST,10
+Jackson,"Blackman Charter Township, Precinct 3",U.S. House,5,Ezra Scott,UST,10
+Jackson,"Blackman Charter Township, Precinct 4",U.S. House,5,Ezra Scott,UST,20
+Jackson,"Blackman Charter Township, Precinct 5",U.S. House,5,Ezra Scott,UST,16
+Jackson,"Blackman Charter Township, Precinct 6",U.S. House,5,Ezra Scott,UST,3
+Jackson,"Columbia Township, Precinct 1",U.S. House,5,Ezra Scott,UST,10
+Jackson,"Columbia Township, Precinct 2",U.S. House,5,Ezra Scott,UST,7
+Jackson,"Columbia Township, Precinct 3",U.S. House,5,Ezra Scott,UST,10
+Jackson,"Concord Township, Precinct 1",U.S. House,5,Ezra Scott,UST,11
+Jackson,"Grass Lake Charter Township, Precinct 1",U.S. House,5,Ezra Scott,UST,11
+Jackson,"Grass Lake Charter Township, Precinct 2",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Grass Lake Charter Township, Precinct 3",U.S. House,5,Ezra Scott,UST,5
+Jackson,"Hanover Township, Precinct 1",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Hanover Township, Precinct 2",U.S. House,5,Ezra Scott,UST,12
+Jackson,"Henrietta Township, Precinct 1",U.S. House,5,Ezra Scott,UST,11
+Jackson,"Henrietta Township, Precinct 2",U.S. House,5,Ezra Scott,UST,21
+Jackson,"Leoni Township, Precinct 1",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Leoni Township, Precinct 2",U.S. House,5,Ezra Scott,UST,18
+Jackson,"Leoni Township, Precinct 3",U.S. House,5,Ezra Scott,UST,13
+Jackson,"Leoni Township, Precinct 4",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Liberty Township, Precinct 1",U.S. House,5,Ezra Scott,UST,3
+Jackson,"Liberty Township, Precinct 2",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Napoleon Township, Precinct 1",U.S. House,5,Ezra Scott,UST,10
+Jackson,"Napoleon Township, Precinct 2",U.S. House,5,Ezra Scott,UST,13
+Jackson,"Napoleon Township, Precinct 3",U.S. House,5,Ezra Scott,UST,13
+Jackson,"Norvell Township, Precinct 1",U.S. House,5,Ezra Scott,UST,6
+Jackson,"Norvell Township, Precinct 2",U.S. House,5,Ezra Scott,UST,6
+Jackson,"Parma Township, Precinct 1",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Pulaski Township, Precinct 1",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Rives Township, Precinct 1",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Rives Township, Precinct 2",U.S. House,5,Ezra Scott,UST,9
+Jackson,"Sandstone Charter Township, Precinct 1",U.S. House,5,Ezra Scott,UST,7
+Jackson,"Sandstone Charter Township, Precinct 2",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Sandstone Charter Township, Precinct 3",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Spring Arbor Township, Precinct 1",U.S. House,5,Ezra Scott,UST,11
+Jackson,"Spring Arbor Township, Precinct 2",U.S. House,5,Ezra Scott,UST,7
+Jackson,"Spring Arbor Township, Precinct 3",U.S. House,5,Ezra Scott,UST,14
+Jackson,"Springport Township, Precinct 1",U.S. House,5,Ezra Scott,UST,8
+Jackson,"Summit Township, Precinct 1",U.S. House,5,Ezra Scott,UST,14
+Jackson,"Summit Township, Precinct 2",U.S. House,5,Ezra Scott,UST,9
+Jackson,"Summit Township, Precinct 3",U.S. House,5,Ezra Scott,UST,12
+Jackson,"Summit Township, Precinct 4",U.S. House,5,Ezra Scott,UST,4
+Jackson,"Summit Township, Precinct 5",U.S. House,5,Ezra Scott,UST,5
+Jackson,"Summit Township, Precinct 6",U.S. House,5,Ezra Scott,UST,7
+Jackson,"Summit Township, Precinct 7",U.S. House,5,Ezra Scott,UST,12
+Jackson,"Summit Township, Precinct 8",U.S. House,5,Ezra Scott,UST,15
+Jackson,"Tompkins Township, Precinct 1",U.S. House,5,Ezra Scott,UST,18
+Jackson,"Waterloo Township, Precinct 1",U.S. House,5,Ezra Scott,UST,13
+Jackson,"City of Jackson, Ward 1, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"City of Jackson, Ward 1, Precinct 2",U.S. House,5,,Write-ins,5
+Jackson,"City of Jackson, Ward 2, Precinct 3",U.S. House,5,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",U.S. House,5,,Write-ins,1
+Jackson,"City of Jackson, Ward 2, Precinct 5",U.S. House,5,,Write-ins,3
+Jackson,"City of Jackson, Ward 3, Precinct 6",U.S. House,5,,Write-ins,2
+Jackson,"City of Jackson, Ward 3, Precinct 7",U.S. House,5,,Write-ins,2
+Jackson,"City of Jackson, Ward 4, Precinct 8",U.S. House,5,,Write-ins,0
+Jackson,"City of Jackson, Ward 4, Precinct 9",U.S. House,5,,Write-ins,2
+Jackson,"City of Jackson, Ward 5, Precinct 10",U.S. House,5,,Write-ins,1
+Jackson,"City of Jackson, Ward 5, Precinct 11",U.S. House,5,,Write-ins,1
+Jackson,"City of Jackson, Ward 6, Precinct 12",U.S. House,5,,Write-ins,1
+Jackson,"City of Jackson, Ward 6, Precinct 13",U.S. House,5,,Write-ins,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",U.S. House,5,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 1",U.S. House,5,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 2",U.S. House,5,,Write-ins,1
+Jackson,"Blackman Charter Township, Precinct 3",U.S. House,5,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 4",U.S. House,5,,Write-ins,3
+Jackson,"Blackman Charter Township, Precinct 5",U.S. House,5,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 6",U.S. House,5,,Write-ins,2
+Jackson,"Columbia Township, Precinct 1",U.S. House,5,,Write-ins,2
+Jackson,"Columbia Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Columbia Township, Precinct 3",U.S. House,5,,Write-ins,2
+Jackson,"Concord Township, Precinct 1",U.S. House,5,,Write-ins,3
+Jackson,"Grass Lake Charter Township, Precinct 1",U.S. House,5,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Grass Lake Charter Township, Precinct 3",U.S. House,5,,Write-ins,0
+Jackson,"Hanover Township, Precinct 1",U.S. House,5,,Write-ins,2
+Jackson,"Hanover Township, Precinct 2",U.S. House,5,,Write-ins,5
+Jackson,"Henrietta Township, Precinct 1",U.S. House,5,,Write-ins,3
+Jackson,"Henrietta Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Leoni Township, Precinct 1",U.S. House,5,,Write-ins,3
+Jackson,"Leoni Township, Precinct 2",U.S. House,5,,Write-ins,6
+Jackson,"Leoni Township, Precinct 3",U.S. House,5,,Write-ins,5
+Jackson,"Leoni Township, Precinct 4",U.S. House,5,,Write-ins,2
+Jackson,"Liberty Township, Precinct 1",U.S. House,5,,Write-ins,0
+Jackson,"Liberty Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Napoleon Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Napoleon Township, Precinct 2",U.S. House,5,,Write-ins,1
+Jackson,"Napoleon Township, Precinct 3",U.S. House,5,,Write-ins,2
+Jackson,"Norvell Township, Precinct 1",U.S. House,5,,Write-ins,0
+Jackson,"Norvell Township, Precinct 2",U.S. House,5,,Write-ins,1
+Jackson,"Parma Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Pulaski Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Rives Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Rives Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 1",U.S. House,5,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 2",U.S. House,5,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 3",U.S. House,5,,Write-ins,1
+Jackson,"Spring Arbor Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Spring Arbor Township, Precinct 2",U.S. House,5,,Write-ins,3
+Jackson,"Spring Arbor Township, Precinct 3",U.S. House,5,,Write-ins,1
+Jackson,"Springport Township, Precinct 1",U.S. House,5,,Write-ins,1
+Jackson,"Summit Township, Precinct 1",U.S. House,5,,Write-ins,2
+Jackson,"Summit Township, Precinct 2",U.S. House,5,,Write-ins,2
+Jackson,"Summit Township, Precinct 3",U.S. House,5,,Write-ins,0
+Jackson,"Summit Township, Precinct 4",U.S. House,5,,Write-ins,0
+Jackson,"Summit Township, Precinct 5",U.S. House,5,,Write-ins,1
+Jackson,"Summit Township, Precinct 6",U.S. House,5,,Write-ins,1
+Jackson,"Summit Township, Precinct 7",U.S. House,5,,Write-ins,4
+Jackson,"Summit Township, Precinct 8",U.S. House,5,,Write-ins,2
+Jackson,"Tompkins Township, Precinct 1",U.S. House,5,,Write-ins,2
+Jackson,"Waterloo Township, Precinct 1",U.S. House,5,,Write-ins,0
+Jackson,"City of Jackson, Ward 1, Precinct 1",State Senate,14,Sue Shink,DEM,430
+Jackson,"City of Jackson, Ward 1, Precinct 2",State Senate,14,Sue Shink,DEM,370
+Jackson,"City of Jackson, Ward 2, Precinct 3",State Senate,14,Sue Shink,DEM,140
+Jackson,"City of Jackson, Ward 2, Precinct 4",State Senate,14,Sue Shink,DEM,212
+Jackson,"City of Jackson, Ward 2, Precinct 5",State Senate,14,Sue Shink,DEM,228
+Jackson,"City of Jackson, Ward 3, Precinct 6",State Senate,14,Sue Shink,DEM,344
+Jackson,"City of Jackson, Ward 3, Precinct 7",State Senate,14,Sue Shink,DEM,421
+Jackson,"City of Jackson, Ward 4, Precinct 8",State Senate,14,Sue Shink,DEM,415
+Jackson,"City of Jackson, Ward 4, Precinct 9",State Senate,14,Sue Shink,DEM,333
+Jackson,"City of Jackson, Ward 5, Precinct 10",State Senate,14,Sue Shink,DEM,350
+Jackson,"City of Jackson, Ward 5, Precinct 11",State Senate,14,Sue Shink,DEM,388
+Jackson,"City of Jackson, Ward 6, Precinct 12",State Senate,14,Sue Shink,DEM,547
+Jackson,"City of Jackson, Ward 6, Precinct 13",State Senate,14,Sue Shink,DEM,296
+Jackson,"City of Jackson, Ward 6, Precinct 14",State Senate,14,Sue Shink,DEM,485
+Jackson,"Blackman Charter Township, Precinct 1",State Senate,14,Sue Shink,DEM,443
+Jackson,"Blackman Charter Township, Precinct 2",State Senate,14,Sue Shink,DEM,560
+Jackson,"Blackman Charter Township, Precinct 3",State Senate,14,Sue Shink,DEM,472
+Jackson,"Blackman Charter Township, Precinct 4",State Senate,14,Sue Shink,DEM,485
+Jackson,"Blackman Charter Township, Precinct 5",State Senate,14,Sue Shink,DEM,449
+Jackson,"Blackman Charter Township, Precinct 6",State Senate,14,Sue Shink,DEM,555
+Jackson,"Columbia Township, Precinct 1",State Senate,14,Sue Shink,DEM,510
+Jackson,"Columbia Township, Precinct 2",State Senate,14,Sue Shink,DEM,382
+Jackson,"Columbia Township, Precinct 3",State Senate,14,Sue Shink,DEM,583
+Jackson,"Grass Lake Charter Township, Precinct 1",State Senate,14,Sue Shink,DEM,519
+Jackson,"Grass Lake Charter Township, Precinct 2",State Senate,14,Sue Shink,DEM,529
+Jackson,"Grass Lake Charter Township, Precinct 3",State Senate,14,Sue Shink,DEM,266
+Jackson,"Hanover Township, Precinct 1",State Senate,14,Sue Shink,DEM,259
+Jackson,"Hanover Township, Precinct 2",State Senate,14,Sue Shink,DEM,274
+Jackson,"Henrietta Township, Precinct 1",State Senate,14,Sue Shink,DEM,446
+Jackson,"Henrietta Township, Precinct 2",State Senate,14,Sue Shink,DEM,376
+Jackson,"Leoni Township, Precinct 1",State Senate,14,Sue Shink,DEM,547
+Jackson,"Leoni Township, Precinct 2",State Senate,14,Sue Shink,DEM,501
+Jackson,"Leoni Township, Precinct 3",State Senate,14,Sue Shink,DEM,598
+Jackson,"Leoni Township, Precinct 4",State Senate,14,Sue Shink,DEM,566
+Jackson,"Liberty Township, Precinct 1",State Senate,14,Sue Shink,DEM,330
+Jackson,"Liberty Township, Precinct 2",State Senate,14,Sue Shink,DEM,206
+Jackson,"Napoleon Township, Precinct 1",State Senate,14,Sue Shink,DEM,371
+Jackson,"Napoleon Township, Precinct 2",State Senate,14,Sue Shink,DEM,374
+Jackson,"Napoleon Township, Precinct 3",State Senate,14,Sue Shink,DEM,407
+Jackson,"Norvell Township, Precinct 1",State Senate,14,Sue Shink,DEM,280
+Jackson,"Norvell Township, Precinct 2",State Senate,14,Sue Shink,DEM,301
+Jackson,"Rives Township, Precinct 1",State Senate,14,Sue Shink,DEM,399
+Jackson,"Rives Township, Precinct 2",State Senate,14,Sue Shink,DEM,309
+Jackson,"Sandstone Charter Township, Precinct 1",State Senate,14,Sue Shink,DEM,243
+Jackson,"Sandstone Charter Township, Precinct 2",State Senate,14,Sue Shink,DEM,175
+Jackson,"Sandstone Charter Township, Precinct 3",State Senate,14,Sue Shink,DEM,156
+Jackson,"Spring Arbor Township, Precinct 1",State Senate,14,Sue Shink,DEM,271
+Jackson,"Spring Arbor Township, Precinct 2",State Senate,14,Sue Shink,DEM,470
+Jackson,"Spring Arbor Township, Precinct 3",State Senate,14,Sue Shink,DEM,383
+Jackson,"Summit Township, Precinct 1",State Senate,14,Sue Shink,DEM,495
+Jackson,"Summit Township, Precinct 2",State Senate,14,Sue Shink,DEM,678
+Jackson,"Summit Township, Precinct 3",State Senate,14,Sue Shink,DEM,653
+Jackson,"Summit Township, Precinct 4",State Senate,14,Sue Shink,DEM,592
+Jackson,"Summit Township, Precinct 5",State Senate,14,Sue Shink,DEM,541
+Jackson,"Summit Township, Precinct 6",State Senate,14,Sue Shink,DEM,385
+Jackson,"Summit Township, Precinct 7",State Senate,14,Sue Shink,DEM,610
+Jackson,"Summit Township, Precinct 8",State Senate,14,Sue Shink,DEM,546
+Jackson,"Tompkins Township, Precinct 1",State Senate,14,Sue Shink,DEM,357
+Jackson,"Waterloo Township, Precinct 1",State Senate,14,Sue Shink,DEM,578
+Jackson,"City of Jackson, Ward 1, Precinct 1",State Senate,14,Tim Golding,REP,162
+Jackson,"City of Jackson, Ward 1, Precinct 2",State Senate,14,Tim Golding,REP,60
+Jackson,"City of Jackson, Ward 2, Precinct 3",State Senate,14,Tim Golding,REP,64
+Jackson,"City of Jackson, Ward 2, Precinct 4",State Senate,14,Tim Golding,REP,165
+Jackson,"City of Jackson, Ward 2, Precinct 5",State Senate,14,Tim Golding,REP,161
+Jackson,"City of Jackson, Ward 3, Precinct 6",State Senate,14,Tim Golding,REP,299
+Jackson,"City of Jackson, Ward 3, Precinct 7",State Senate,14,Tim Golding,REP,378
+Jackson,"City of Jackson, Ward 4, Precinct 8",State Senate,14,Tim Golding,REP,389
+Jackson,"City of Jackson, Ward 4, Precinct 9",State Senate,14,Tim Golding,REP,287
+Jackson,"City of Jackson, Ward 5, Precinct 10",State Senate,14,Tim Golding,REP,186
+Jackson,"City of Jackson, Ward 5, Precinct 11",State Senate,14,Tim Golding,REP,236
+Jackson,"City of Jackson, Ward 6, Precinct 12",State Senate,14,Tim Golding,REP,459
+Jackson,"City of Jackson, Ward 6, Precinct 13",State Senate,14,Tim Golding,REP,240
+Jackson,"City of Jackson, Ward 6, Precinct 14",State Senate,14,Tim Golding,REP,366
+Jackson,"Blackman Charter Township, Precinct 1",State Senate,14,Tim Golding,REP,478
+Jackson,"Blackman Charter Township, Precinct 2",State Senate,14,Tim Golding,REP,724
+Jackson,"Blackman Charter Township, Precinct 3",State Senate,14,Tim Golding,REP,613
+Jackson,"Blackman Charter Township, Precinct 4",State Senate,14,Tim Golding,REP,413
+Jackson,"Blackman Charter Township, Precinct 5",State Senate,14,Tim Golding,REP,534
+Jackson,"Blackman Charter Township, Precinct 6",State Senate,14,Tim Golding,REP,823
+Jackson,"Columbia Township, Precinct 1",State Senate,14,Tim Golding,REP,756
+Jackson,"Columbia Township, Precinct 2",State Senate,14,Tim Golding,REP,672
+Jackson,"Columbia Township, Precinct 3",State Senate,14,Tim Golding,REP,1057
+Jackson,"Grass Lake Charter Township, Precinct 1",State Senate,14,Tim Golding,REP,878
+Jackson,"Grass Lake Charter Township, Precinct 2",State Senate,14,Tim Golding,REP,822
+Jackson,"Grass Lake Charter Township, Precinct 3",State Senate,14,Tim Golding,REP,294
+Jackson,"Hanover Township, Precinct 1",State Senate,14,Tim Golding,REP,616
+Jackson,"Hanover Township, Precinct 2",State Senate,14,Tim Golding,REP,665
+Jackson,"Henrietta Township, Precinct 1",State Senate,14,Tim Golding,REP,712
+Jackson,"Henrietta Township, Precinct 2",State Senate,14,Tim Golding,REP,738
+Jackson,"Leoni Township, Precinct 1",State Senate,14,Tim Golding,REP,868
+Jackson,"Leoni Township, Precinct 2",State Senate,14,Tim Golding,REP,823
+Jackson,"Leoni Township, Precinct 3",State Senate,14,Tim Golding,REP,715
+Jackson,"Leoni Township, Precinct 4",State Senate,14,Tim Golding,REP,936
+Jackson,"Liberty Township, Precinct 1",State Senate,14,Tim Golding,REP,647
+Jackson,"Liberty Township, Precinct 2",State Senate,14,Tim Golding,REP,456
+Jackson,"Napoleon Township, Precinct 1",State Senate,14,Tim Golding,REP,672
+Jackson,"Napoleon Township, Precinct 2",State Senate,14,Tim Golding,REP,600
+Jackson,"Napoleon Township, Precinct 3",State Senate,14,Tim Golding,REP,735
+Jackson,"Norvell Township, Precinct 1",State Senate,14,Tim Golding,REP,428
+Jackson,"Norvell Township, Precinct 2",State Senate,14,Tim Golding,REP,552
+Jackson,"Rives Township, Precinct 1",State Senate,14,Tim Golding,REP,740
+Jackson,"Rives Township, Precinct 2",State Senate,14,Tim Golding,REP,624
+Jackson,"Sandstone Charter Township, Precinct 1",State Senate,14,Tim Golding,REP,576
+Jackson,"Sandstone Charter Township, Precinct 2",State Senate,14,Tim Golding,REP,409
+Jackson,"Sandstone Charter Township, Precinct 3",State Senate,14,Tim Golding,REP,332
+Jackson,"Spring Arbor Township, Precinct 1",State Senate,14,Tim Golding,REP,595
+Jackson,"Spring Arbor Township, Precinct 2",State Senate,14,Tim Golding,REP,955
+Jackson,"Spring Arbor Township, Precinct 3",State Senate,14,Tim Golding,REP,840
+Jackson,"Summit Township, Precinct 1",State Senate,14,Tim Golding,REP,512
+Jackson,"Summit Township, Precinct 2",State Senate,14,Tim Golding,REP,970
+Jackson,"Summit Township, Precinct 3",State Senate,14,Tim Golding,REP,707
+Jackson,"Summit Township, Precinct 4",State Senate,14,Tim Golding,REP,845
+Jackson,"Summit Township, Precinct 5",State Senate,14,Tim Golding,REP,864
+Jackson,"Summit Township, Precinct 6",State Senate,14,Tim Golding,REP,515
+Jackson,"Summit Township, Precinct 7",State Senate,14,Tim Golding,REP,869
+Jackson,"Summit Township, Precinct 8",State Senate,14,Tim Golding,REP,590
+Jackson,"Tompkins Township, Precinct 1",State Senate,14,Tim Golding,REP,829
+Jackson,"Waterloo Township, Precinct 1",State Senate,14,Tim Golding,REP,876
+Jackson,"City of Jackson, Ward 1, Precinct 1",State Senate,14,,Write-ins,4
+Jackson,"City of Jackson, Ward 1, Precinct 2",State Senate,14,,Write-ins,6
+Jackson,"City of Jackson, Ward 2, Precinct 3",State Senate,14,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",State Senate,14,,Write-ins,5
+Jackson,"City of Jackson, Ward 2, Precinct 5",State Senate,14,,Write-ins,4
+Jackson,"City of Jackson, Ward 3, Precinct 6",State Senate,14,,Write-ins,3
+Jackson,"City of Jackson, Ward 3, Precinct 7",State Senate,14,,Write-ins,4
+Jackson,"City of Jackson, Ward 4, Precinct 8",State Senate,14,,Write-ins,2
+Jackson,"City of Jackson, Ward 4, Precinct 9",State Senate,14,,Write-ins,2
+Jackson,"City of Jackson, Ward 5, Precinct 10",State Senate,14,,Write-ins,7
+Jackson,"City of Jackson, Ward 5, Precinct 11",State Senate,14,,Write-ins,4
+Jackson,"City of Jackson, Ward 6, Precinct 12",State Senate,14,,Write-ins,2
+Jackson,"City of Jackson, Ward 6, Precinct 13",State Senate,14,,Write-ins,2
+Jackson,"City of Jackson, Ward 6, Precinct 14",State Senate,14,,Write-ins,2
+Jackson,"Blackman Charter Township, Precinct 1",State Senate,14,,Write-ins,4
+Jackson,"Blackman Charter Township, Precinct 2",State Senate,14,,Write-ins,4
+Jackson,"Blackman Charter Township, Precinct 3",State Senate,14,,Write-ins,7
+Jackson,"Blackman Charter Township, Precinct 4",State Senate,14,,Write-ins,8
+Jackson,"Blackman Charter Township, Precinct 5",State Senate,14,,Write-ins,9
+Jackson,"Blackman Charter Township, Precinct 6",State Senate,14,,Write-ins,3
+Jackson,"Columbia Township, Precinct 1",State Senate,14,,Write-ins,5
+Jackson,"Columbia Township, Precinct 2",State Senate,14,,Write-ins,1
+Jackson,"Columbia Township, Precinct 3",State Senate,14,,Write-ins,5
+Jackson,"Grass Lake Charter Township, Precinct 1",State Senate,14,,Write-ins,1
+Jackson,"Grass Lake Charter Township, Precinct 2",State Senate,14,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 3",State Senate,14,,Write-ins,2
+Jackson,"Hanover Township, Precinct 1",State Senate,14,,Write-ins,5
+Jackson,"Hanover Township, Precinct 2",State Senate,14,,Write-ins,6
+Jackson,"Henrietta Township, Precinct 1",State Senate,14,,Write-ins,5
+Jackson,"Henrietta Township, Precinct 2",State Senate,14,,Write-ins,3
+Jackson,"Leoni Township, Precinct 1",State Senate,14,,Write-ins,3
+Jackson,"Leoni Township, Precinct 2",State Senate,14,,Write-ins,13
+Jackson,"Leoni Township, Precinct 3",State Senate,14,,Write-ins,4
+Jackson,"Leoni Township, Precinct 4",State Senate,14,,Write-ins,8
+Jackson,"Liberty Township, Precinct 1",State Senate,14,,Write-ins,3
+Jackson,"Liberty Township, Precinct 2",State Senate,14,,Write-ins,1
+Jackson,"Napoleon Township, Precinct 1",State Senate,14,,Write-ins,5
+Jackson,"Napoleon Township, Precinct 2",State Senate,14,,Write-ins,2
+Jackson,"Napoleon Township, Precinct 3",State Senate,14,,Write-ins,5
+Jackson,"Norvell Township, Precinct 1",State Senate,14,,Write-ins,2
+Jackson,"Norvell Township, Precinct 2",State Senate,14,,Write-ins,1
+Jackson,"Rives Township, Precinct 1",State Senate,14,,Write-ins,7
+Jackson,"Rives Township, Precinct 2",State Senate,14,,Write-ins,2
+Jackson,"Sandstone Charter Township, Precinct 1",State Senate,14,,Write-ins,0
+Jackson,"Sandstone Charter Township, Precinct 2",State Senate,14,,Write-ins,1
+Jackson,"Sandstone Charter Township, Precinct 3",State Senate,14,,Write-ins,5
+Jackson,"Spring Arbor Township, Precinct 1",State Senate,14,,Write-ins,1
+Jackson,"Spring Arbor Township, Precinct 2",State Senate,14,,Write-ins,4
+Jackson,"Spring Arbor Township, Precinct 3",State Senate,14,,Write-ins,6
+Jackson,"Summit Township, Precinct 1",State Senate,14,,Write-ins,4
+Jackson,"Summit Township, Precinct 2",State Senate,14,,Write-ins,14
+Jackson,"Summit Township, Precinct 3",State Senate,14,,Write-ins,2
+Jackson,"Summit Township, Precinct 4",State Senate,14,,Write-ins,1
+Jackson,"Summit Township, Precinct 5",State Senate,14,,Write-ins,0
+Jackson,"Summit Township, Precinct 6",State Senate,14,,Write-ins,3
+Jackson,"Summit Township, Precinct 7",State Senate,14,,Write-ins,7
+Jackson,"Summit Township, Precinct 8",State Senate,14,,Write-ins,2
+Jackson,"Tompkins Township, Precinct 1",State Senate,14,,Write-ins,3
+Jackson,"Waterloo Township, Precinct 1",State Senate,14,,Write-ins,3
+Jackson,"Concord Township, Precinct 1",State Senate,17,Scott Rex Starr,DEM,354
+Jackson,"Parma Township, Precinct 1",State Senate,17,Scott Rex Starr,DEM,374
+Jackson,"Pulaski Township, Precinct 1",State Senate,17,Scott Rex Starr,DEM,189
+Jackson,"Springport Township, Precinct 1",State Senate,17,Scott Rex Starr,DEM,218
+Jackson,"Concord Township, Precinct 1",State Senate,17,Jonathan Lindsey,REP,908
+Jackson,"Parma Township, Precinct 1",State Senate,17,Jonathan Lindsey,REP,665
+Jackson,"Pulaski Township, Precinct 1",State Senate,17,Jonathan Lindsey,REP,602
+Jackson,"Springport Township, Precinct 1",State Senate,17,Jonathan Lindsey,REP,583
+Jackson,"Concord Township, Precinct 1",State Senate,17,,Write-ins,6
+Jackson,"Parma Township, Precinct 1",State Senate,17,,Write-ins,5
+Jackson,"Pulaski Township, Precinct 1",State Senate,17,,Write-ins,8
+Jackson,"Springport Township, Precinct 1",State Senate,17,,Write-ins,4
+Jackson,"Concord Township, Precinct 1",State House,45,Ron Hawkins,DEM,341
+Jackson,"Hanover Township, Precinct 1",State House,45,Ron Hawkins,DEM,247
+Jackson,"Hanover Township, Precinct 2",State House,45,Ron Hawkins,DEM,261
+Jackson,"Henrietta Township, Precinct 1",State House,45,Ron Hawkins,DEM,403
+Jackson,"Henrietta Township, Precinct 2",State House,45,Ron Hawkins,DEM,351
+Jackson,"Liberty Township, Precinct 1",State House,45,Ron Hawkins,DEM,300
+Jackson,"Liberty Township, Precinct 2",State House,45,Ron Hawkins,DEM,198
+Jackson,"Parma Township, Precinct 1",State House,45,Ron Hawkins,DEM,348
+Jackson,"Pulaski Township, Precinct 1",State House,45,Ron Hawkins,DEM,189
+Jackson,"Rives Township, Precinct 1",State House,45,Ron Hawkins,DEM,355
+Jackson,"Rives Township, Precinct 2",State House,45,Ron Hawkins,DEM,277
+Jackson,"Sandstone Charter Township, Precinct 1",State House,45,Ron Hawkins,DEM,235
+Jackson,"Sandstone Charter Township, Precinct 2",State House,45,Ron Hawkins,DEM,147
+Jackson,"Sandstone Charter Township, Precinct 3",State House,45,Ron Hawkins,DEM,148
+Jackson,"Spring Arbor Township, Precinct 1",State House,45,Ron Hawkins,DEM,261
+Jackson,"Spring Arbor Township, Precinct 2",State House,45,Ron Hawkins,DEM,444
+Jackson,"Spring Arbor Township, Precinct 3",State House,45,Ron Hawkins,DEM,352
+Jackson,"Springport Township, Precinct 1",State House,45,Ron Hawkins,DEM,176
+Jackson,"Tompkins Township, Precinct 1",State House,45,Ron Hawkins,DEM,302
+Jackson,"Concord Township, Precinct 1",State House,45,Sarah Lightner,REP,942
+Jackson,"Hanover Township, Precinct 1",State House,45,Sarah Lightner,REP,626
+Jackson,"Hanover Township, Precinct 2",State House,45,Sarah Lightner,REP,675
+Jackson,"Henrietta Township, Precinct 1",State House,45,Sarah Lightner,REP,758
+Jackson,"Henrietta Township, Precinct 2",State House,45,Sarah Lightner,REP,757
+Jackson,"Liberty Township, Precinct 1",State House,45,Sarah Lightner,REP,667
+Jackson,"Liberty Township, Precinct 2",State House,45,Sarah Lightner,REP,461
+Jackson,"Parma Township, Precinct 1",State House,45,Sarah Lightner,REP,722
+Jackson,"Pulaski Township, Precinct 1",State House,45,Sarah Lightner,REP,603
+Jackson,"Rives Township, Precinct 1",State House,45,Sarah Lightner,REP,792
+Jackson,"Rives Township, Precinct 2",State House,45,Sarah Lightner,REP,656
+Jackson,"Sandstone Charter Township, Precinct 1",State House,45,Sarah Lightner,REP,576
+Jackson,"Sandstone Charter Township, Precinct 2",State House,45,Sarah Lightner,REP,442
+Jackson,"Sandstone Charter Township, Precinct 3",State House,45,Sarah Lightner,REP,337
+Jackson,"Spring Arbor Township, Precinct 1",State House,45,Sarah Lightner,REP,590
+Jackson,"Spring Arbor Township, Precinct 2",State House,45,Sarah Lightner,REP,962
+Jackson,"Spring Arbor Township, Precinct 3",State House,45,Sarah Lightner,REP,854
+Jackson,"Springport Township, Precinct 1",State House,45,Sarah Lightner,REP,650
+Jackson,"Tompkins Township, Precinct 1",State House,45,Sarah Lightner,REP,891
+Jackson,"Concord Township, Precinct 1",State House,45,,Write-ins,2
+Jackson,"Hanover Township, Precinct 1",State House,45,,Write-ins,3
+Jackson,"Hanover Township, Precinct 2",State House,45,,Write-ins,7
+Jackson,"Henrietta Township, Precinct 1",State House,45,,Write-ins,4
+Jackson,"Henrietta Township, Precinct 2",State House,45,,Write-ins,3
+Jackson,"Liberty Township, Precinct 1",State House,45,,Write-ins,4
+Jackson,"Liberty Township, Precinct 2",State House,45,,Write-ins,2
+Jackson,"Parma Township, Precinct 1",State House,45,,Write-ins,2
+Jackson,"Pulaski Township, Precinct 1",State House,45,,Write-ins,4
+Jackson,"Rives Township, Precinct 1",State House,45,,Write-ins,4
+Jackson,"Rives Township, Precinct 2",State House,45,,Write-ins,3
+Jackson,"Sandstone Charter Township, Precinct 1",State House,45,,Write-ins,3
+Jackson,"Sandstone Charter Township, Precinct 2",State House,45,,Write-ins,1
+Jackson,"Sandstone Charter Township, Precinct 3",State House,45,,Write-ins,4
+Jackson,"Spring Arbor Township, Precinct 1",State House,45,,Write-ins,2
+Jackson,"Spring Arbor Township, Precinct 2",State House,45,,Write-ins,5
+Jackson,"Spring Arbor Township, Precinct 3",State House,45,,Write-ins,10
+Jackson,"Springport Township, Precinct 1",State House,45,,Write-ins,3
+Jackson,"Tompkins Township, Precinct 1",State House,45,,Write-ins,7
+Jackson,"City of Jackson, Ward 1, Precinct 1",State House,46,Maurice Imhoff,DEM,404
+Jackson,"City of Jackson, Ward 1, Precinct 2",State House,46,Maurice Imhoff,DEM,362
+Jackson,"City of Jackson, Ward 2, Precinct 3",State House,46,Maurice Imhoff,DEM,127
+Jackson,"City of Jackson, Ward 2, Precinct 4",State House,46,Maurice Imhoff,DEM,204
+Jackson,"City of Jackson, Ward 2, Precinct 5",State House,46,Maurice Imhoff,DEM,217
+Jackson,"City of Jackson, Ward 3, Precinct 6",State House,46,Maurice Imhoff,DEM,314
+Jackson,"City of Jackson, Ward 3, Precinct 7",State House,46,Maurice Imhoff,DEM,398
+Jackson,"City of Jackson, Ward 4, Precinct 8",State House,46,Maurice Imhoff,DEM,373
+Jackson,"City of Jackson, Ward 4, Precinct 9",State House,46,Maurice Imhoff,DEM,291
+Jackson,"City of Jackson, Ward 5, Precinct 10",State House,46,Maurice Imhoff,DEM,321
+Jackson,"City of Jackson, Ward 5, Precinct 11",State House,46,Maurice Imhoff,DEM,354
+Jackson,"City of Jackson, Ward 6, Precinct 12",State House,46,Maurice Imhoff,DEM,469
+Jackson,"City of Jackson, Ward 6, Precinct 13",State House,46,Maurice Imhoff,DEM,261
+Jackson,"City of Jackson, Ward 6, Precinct 14",State House,46,Maurice Imhoff,DEM,431
+Jackson,"Blackman Charter Township, Precinct 1",State House,46,Maurice Imhoff,DEM,383
+Jackson,"Blackman Charter Township, Precinct 2",State House,46,Maurice Imhoff,DEM,471
+Jackson,"Blackman Charter Township, Precinct 3",State House,46,Maurice Imhoff,DEM,419
+Jackson,"Blackman Charter Township, Precinct 4",State House,46,Maurice Imhoff,DEM,416
+Jackson,"Blackman Charter Township, Precinct 5",State House,46,Maurice Imhoff,DEM,402
+Jackson,"Blackman Charter Township, Precinct 6",State House,46,Maurice Imhoff,DEM,473
+Jackson,"Grass Lake Charter Township, Precinct 2",State House,46,Maurice Imhoff,DEM,478
+Jackson,"Leoni Township, Precinct 1",State House,46,Maurice Imhoff,DEM,461
+Jackson,"Leoni Township, Precinct 2",State House,46,Maurice Imhoff,DEM,444
+Jackson,"Leoni Township, Precinct 3",State House,46,Maurice Imhoff,DEM,496
+Jackson,"Leoni Township, Precinct 4",State House,46,Maurice Imhoff,DEM,508
+Jackson,"Summit Township, Precinct 1",State House,46,Maurice Imhoff,DEM,434
+Jackson,"Summit Township, Precinct 2",State House,46,Maurice Imhoff,DEM,528
+Jackson,"Summit Township, Precinct 3",State House,46,Maurice Imhoff,DEM,564
+Jackson,"Summit Township, Precinct 8",State House,46,Maurice Imhoff,DEM,33
+Jackson,"City of Jackson, Ward 1, Precinct 1",State House,46,Kathy Schmaltz,REP,189
+Jackson,"City of Jackson, Ward 1, Precinct 2",State House,46,Kathy Schmaltz,REP,71
+Jackson,"City of Jackson, Ward 2, Precinct 3",State House,46,Kathy Schmaltz,REP,70
+Jackson,"City of Jackson, Ward 2, Precinct 4",State House,46,Kathy Schmaltz,REP,174
+Jackson,"City of Jackson, Ward 2, Precinct 5",State House,46,Kathy Schmaltz,REP,172
+Jackson,"City of Jackson, Ward 3, Precinct 6",State House,46,Kathy Schmaltz,REP,328
+Jackson,"City of Jackson, Ward 3, Precinct 7",State House,46,Kathy Schmaltz,REP,410
+Jackson,"City of Jackson, Ward 4, Precinct 8",State House,46,Kathy Schmaltz,REP,424
+Jackson,"City of Jackson, Ward 4, Precinct 9",State House,46,Kathy Schmaltz,REP,318
+Jackson,"City of Jackson, Ward 5, Precinct 10",State House,46,Kathy Schmaltz,REP,215
+Jackson,"City of Jackson, Ward 5, Precinct 11",State House,46,Kathy Schmaltz,REP,258
+Jackson,"City of Jackson, Ward 6, Precinct 12",State House,46,Kathy Schmaltz,REP,512
+Jackson,"City of Jackson, Ward 6, Precinct 13",State House,46,Kathy Schmaltz,REP,266
+Jackson,"City of Jackson, Ward 6, Precinct 14",State House,46,Kathy Schmaltz,REP,379
+Jackson,"Blackman Charter Township, Precinct 1",State House,46,Kathy Schmaltz,REP,538
+Jackson,"Blackman Charter Township, Precinct 2",State House,46,Kathy Schmaltz,REP,797
+Jackson,"Blackman Charter Township, Precinct 3",State House,46,Kathy Schmaltz,REP,653
+Jackson,"Blackman Charter Township, Precinct 4",State House,46,Kathy Schmaltz,REP,475
+Jackson,"Blackman Charter Township, Precinct 5",State House,46,Kathy Schmaltz,REP,568
+Jackson,"Blackman Charter Township, Precinct 6",State House,46,Kathy Schmaltz,REP,871
+Jackson,"Grass Lake Charter Township, Precinct 2",State House,46,Kathy Schmaltz,REP,858
+Jackson,"Leoni Township, Precinct 1",State House,46,Kathy Schmaltz,REP,938
+Jackson,"Leoni Township, Precinct 2",State House,46,Kathy Schmaltz,REP,877
+Jackson,"Leoni Township, Precinct 3",State House,46,Kathy Schmaltz,REP,810
+Jackson,"Leoni Township, Precinct 4",State House,46,Kathy Schmaltz,REP,981
+Jackson,"Summit Township, Precinct 1",State House,46,Kathy Schmaltz,REP,577
+Jackson,"Summit Township, Precinct 2",State House,46,Kathy Schmaltz,REP,1096
+Jackson,"Summit Township, Precinct 3",State House,46,Kathy Schmaltz,REP,795
+Jackson,"Summit Township, Precinct 8",State House,46,Kathy Schmaltz,REP,55
+Jackson,"City of Jackson, Ward 1, Precinct 1",State House,46,,Write-ins,2
+Jackson,"City of Jackson, Ward 1, Precinct 2",State House,46,,Write-ins,9
+Jackson,"City of Jackson, Ward 2, Precinct 3",State House,46,,Write-ins,0
+Jackson,"City of Jackson, Ward 2, Precinct 4",State House,46,,Write-ins,4
+Jackson,"City of Jackson, Ward 2, Precinct 5",State House,46,,Write-ins,5
+Jackson,"City of Jackson, Ward 3, Precinct 6",State House,46,,Write-ins,4
+Jackson,"City of Jackson, Ward 3, Precinct 7",State House,46,,Write-ins,2
+Jackson,"City of Jackson, Ward 4, Precinct 8",State House,46,,Write-ins,3
+Jackson,"City of Jackson, Ward 4, Precinct 9",State House,46,,Write-ins,8
+Jackson,"City of Jackson, Ward 5, Precinct 10",State House,46,,Write-ins,11
+Jackson,"City of Jackson, Ward 5, Precinct 11",State House,46,,Write-ins,9
+Jackson,"City of Jackson, Ward 6, Precinct 12",State House,46,,Write-ins,10
+Jackson,"City of Jackson, Ward 6, Precinct 13",State House,46,,Write-ins,6
+Jackson,"City of Jackson, Ward 6, Precinct 14",State House,46,,Write-ins,8
+Jackson,"Blackman Charter Township, Precinct 1",State House,46,,Write-ins,8
+Jackson,"Blackman Charter Township, Precinct 2",State House,46,,Write-ins,12
+Jackson,"Blackman Charter Township, Precinct 3",State House,46,,Write-ins,9
+Jackson,"Blackman Charter Township, Precinct 4",State House,46,,Write-ins,8
+Jackson,"Blackman Charter Township, Precinct 5",State House,46,,Write-ins,10
+Jackson,"Blackman Charter Township, Precinct 6",State House,46,,Write-ins,12
+Jackson,"Grass Lake Charter Township, Precinct 2",State House,46,,Write-ins,6
+Jackson,"Leoni Township, Precinct 1",State House,46,,Write-ins,5
+Jackson,"Leoni Township, Precinct 2",State House,46,,Write-ins,10
+Jackson,"Leoni Township, Precinct 3",State House,46,,Write-ins,5
+Jackson,"Leoni Township, Precinct 4",State House,46,,Write-ins,9
+Jackson,"Summit Township, Precinct 1",State House,46,,Write-ins,8
+Jackson,"Summit Township, Precinct 2",State House,46,,Write-ins,12
+Jackson,"Summit Township, Precinct 3",State House,46,,Write-ins,9
+Jackson,"Summit Township, Precinct 8",State House,46,,Write-ins,1
+Jackson,"Columbia Township, Precinct 1",State House,47,Carrie Rheingans,DEM,493
+Jackson,"Columbia Township, Precinct 2",State House,47,Carrie Rheingans,DEM,372
+Jackson,"Columbia Township, Precinct 3",State House,47,Carrie Rheingans,DEM,570
+Jackson,"Grass Lake Charter Township, Precinct 1",State House,47,Carrie Rheingans,DEM,510
+Jackson,"Grass Lake Charter Township, Precinct 3",State House,47,Carrie Rheingans,DEM,232
+Jackson,"Napoleon Township, Precinct 1",State House,47,Carrie Rheingans,DEM,357
+Jackson,"Napoleon Township, Precinct 2",State House,47,Carrie Rheingans,DEM,359
+Jackson,"Napoleon Township, Precinct 3",State House,47,Carrie Rheingans,DEM,395
+Jackson,"Norvell Township, Precinct 1",State House,47,Carrie Rheingans,DEM,273
+Jackson,"Norvell Township, Precinct 2",State House,47,Carrie Rheingans,DEM,299
+Jackson,"Summit Township, Precinct 4",State House,47,Carrie Rheingans,DEM,575
+Jackson,"Summit Township, Precinct 5",State House,47,Carrie Rheingans,DEM,527
+Jackson,"Summit Township, Precinct 6",State House,47,Carrie Rheingans,DEM,361
+Jackson,"Summit Township, Precinct 7",State House,47,Carrie Rheingans,DEM,606
+Jackson,"Summit Township, Precinct 8",State House,47,Carrie Rheingans,DEM,487
+Jackson,"Columbia Township, Precinct 1",State House,47,Tina Bednarski-Lynch,REP,773
+Jackson,"Columbia Township, Precinct 2",State House,47,Tina Bednarski-Lynch,REP,663
+Jackson,"Columbia Township, Precinct 3",State House,47,Tina Bednarski-Lynch,REP,1045
+Jackson,"Grass Lake Charter Township, Precinct 1",State House,47,Tina Bednarski-Lynch,REP,890
+Jackson,"Grass Lake Charter Township, Precinct 3",State House,47,Tina Bednarski-Lynch,REP,322
+Jackson,"Napoleon Township, Precinct 1",State House,47,Tina Bednarski-Lynch,REP,662
+Jackson,"Napoleon Township, Precinct 2",State House,47,Tina Bednarski-Lynch,REP,597
+Jackson,"Napoleon Township, Precinct 3",State House,47,Tina Bednarski-Lynch,REP,728
+Jackson,"Norvell Township, Precinct 1",State House,47,Tina Bednarski-Lynch,REP,430
+Jackson,"Norvell Township, Precinct 2",State House,47,Tina Bednarski-Lynch,REP,539
+Jackson,"Summit Township, Precinct 4",State House,47,Tina Bednarski-Lynch,REP,846
+Jackson,"Summit Township, Precinct 5",State House,47,Tina Bednarski-Lynch,REP,856
+Jackson,"Summit Township, Precinct 6",State House,47,Tina Bednarski-Lynch,REP,522
+Jackson,"Summit Township, Precinct 7",State House,47,Tina Bednarski-Lynch,REP,853
+Jackson,"Summit Township, Precinct 8",State House,47,Tina Bednarski-Lynch,REP,546
+Jackson,"Columbia Township, Precinct 1",State House,47,,Write-ins,6
+Jackson,"Columbia Township, Precinct 2",State House,47,,Write-ins,3
+Jackson,"Columbia Township, Precinct 3",State House,47,,Write-ins,7
+Jackson,"Grass Lake Charter Township, Precinct 1",State House,47,,Write-ins,2
+Jackson,"Grass Lake Charter Township, Precinct 3",State House,47,,Write-ins,4
+Jackson,"Napoleon Township, Precinct 1",State House,47,,Write-ins,5
+Jackson,"Napoleon Township, Precinct 2",State House,47,,Write-ins,2
+Jackson,"Napoleon Township, Precinct 3",State House,47,,Write-ins,7
+Jackson,"Norvell Township, Precinct 1",State House,47,,Write-ins,2
+Jackson,"Norvell Township, Precinct 2",State House,47,,Write-ins,4
+Jackson,"Summit Township, Precinct 4",State House,47,,Write-ins,6
+Jackson,"Summit Township, Precinct 5",State House,47,,Write-ins,6
+Jackson,"Summit Township, Precinct 6",State House,47,,Write-ins,3
+Jackson,"Summit Township, Precinct 7",State House,47,,Write-ins,12
+Jackson,"Summit Township, Precinct 8",State House,47,,Write-ins,8
+Jackson,"Waterloo Township, Precinct 1",State House,48,Jennifer Conlin,DEM,568
+Jackson,"Waterloo Township, Precinct 1",State House,48,Jason Woodford,REP,866
+Jackson,"Waterloo Township, Precinct 1",State House,48,Eric Borregard,GRN,20
+Jackson,"Waterloo Township, Precinct 1",State House,48,,Write-ins,2

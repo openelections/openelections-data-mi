@@ -1,0 +1,524 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Manistee,"City of Manistee, Precinct 1",Registered Voters,,,,2419,,
+Manistee,"City of Manistee, Precinct 2",Registered Voters,,,,2756,,
+Manistee,"Arcadia Township, Precinct 1",Registered Voters,,,,647,,
+Manistee,"Bear Lake Township, Precinct 1",Registered Voters,,,,1570,,
+Manistee,"Brown Township, Precinct 1",Registered Voters,,,,652,,
+Manistee,"Cleon Township, Precinct 1",Registered Voters,,,,893,,
+Manistee,"Dickson Township, Precinct 1",Registered Voters,,,,828,,
+Manistee,"Charter Township of Filer, Precinct 1",Registered Voters,,,,2188,,
+Manistee,"Manistee Township, Precinct 1",Registered Voters,,,,2788,,
+Manistee,"Maple Grove Township, Precinct 1",Registered Voters,,,,1164,,
+Manistee,"Marilla Township, Precinct 1",Registered Voters,,,,330,,
+Manistee,"Norman Township, Precinct 1",Registered Voters,,,,1562,,
+Manistee,"Onekama Township, Precinct 1",Registered Voters,,,,1423,,
+Manistee,"Pleasanton Township, Precinct 1",Registered Voters,,,,802,,
+Manistee,"Springdale Township, Precinct 1",Registered Voters,,,,805,,
+Manistee,"Stronach Township, Precinct 1",Registered Voters,,,,806,,
+Manistee,"Grant Township, Precinct 1 (Mason County)",Registered Voters,,,,368,,
+Manistee,"Meade Township, Precinct 1 (Mason County)",Registered Voters,,,,49,,
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Registered Voters,,,,632,,
+Manistee,"City of Manistee, Precinct 1",Ballots Cast,,,,1523,658,865
+Manistee,"City of Manistee, Precinct 2",Ballots Cast,,,,1362,732,630
+Manistee,"Arcadia Township, Precinct 1",Ballots Cast,,,,477,477,0
+Manistee,"Bear Lake Township, Precinct 1",Ballots Cast,,,,939,939,0
+Manistee,"Brown Township, Precinct 1",Ballots Cast,,,,414,414,0
+Manistee,"Cleon Township, Precinct 1",Ballots Cast,,,,479,479,0
+Manistee,"Dickson Township, Precinct 1",Ballots Cast,,,,508,508,0
+Manistee,"Charter Township of Filer, Precinct 1",Ballots Cast,,,,1372,752,620
+Manistee,"Manistee Township, Precinct 1",Ballots Cast,,,,1615,764,851
+Manistee,"Maple Grove Township, Precinct 1",Ballots Cast,,,,631,631,0
+Manistee,"Marilla Township, Precinct 1",Ballots Cast,,,,195,195,0
+Manistee,"Norman Township, Precinct 1",Ballots Cast,,,,837,837,0
+Manistee,"Onekama Township, Precinct 1",Ballots Cast,,,,992,509,483
+Manistee,"Pleasanton Township, Precinct 1",Ballots Cast,,,,475,475,0
+Manistee,"Springdale Township, Precinct 1",Ballots Cast,,,,458,458,0
+Manistee,"Stronach Township, Precinct 1",Ballots Cast,,,,453,453,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Ballots Cast,,,,307,307,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Ballots Cast,,,,66,66,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Ballots Cast,,,,177,177,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,DEM,,437,131,306
+Manistee,"City of Manistee, Precinct 2",Straight Party,,DEM,,378,182,196
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,DEM,,96,96,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,DEM,,158,158,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,DEM,,69,69,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,DEM,,76,76,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,DEM,,110,110,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,DEM,,291,102,189
+Manistee,"Manistee Township, Precinct 1",Straight Party,,DEM,,369,108,261
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,DEM,,150,150,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,DEM,,36,36,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,DEM,,130,130,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,DEM,,206,80,126
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,DEM,,93,93,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,DEM,,84,84,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,DEM,,86,86,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,DEM,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,DEM,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,DEM,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,REP,,361,190,171
+Manistee,"City of Manistee, Precinct 2",Straight Party,,REP,,333,215,118
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,REP,,112,112,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,REP,,338,338,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,REP,,169,169,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,REP,,199,199,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,REP,,203,203,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,REP,,375,262,113
+Manistee,"Manistee Township, Precinct 1",Straight Party,,REP,,454,272,182
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,REP,,244,244,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,REP,,89,89,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,REP,,320,320,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,REP,,260,170,90
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,REP,,166,166,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,REP,,185,185,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,REP,,165,165,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,REP,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,REP,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,REP,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,LIB,,1,1,0
+Manistee,"City of Manistee, Precinct 2",Straight Party,,LIB,,4,4,0
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,LIB,,3,3,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,LIB,,4,4,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,LIB,,1,1,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,LIB,,2,2,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,LIB,,1,1,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,LIB,,4,3,1
+Manistee,"Manistee Township, Precinct 1",Straight Party,,LIB,,4,4,0
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,LIB,,3,3,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,LIB,,0,0,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,LIB,,7,7,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,LIB,,2,2,0
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,LIB,,4,4,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,LIB,,2,2,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,LIB,,1,1,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,LIB,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,LIB,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,LIB,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"City of Manistee, Precinct 2",Straight Party,,UST,,9,6,3
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,UST,,1,1,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,UST,,1,1,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,UST,,1,1,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Manistee Township, Precinct 1",Straight Party,,UST,,3,2,1
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,UST,,4,4,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,UST,,3,3,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,UST,,1,1,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,UST,,1,1,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,UST,,0,0,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,UST,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,UST,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,UST,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,WCP,,7,5,2
+Manistee,"City of Manistee, Precinct 2",Straight Party,,WCP,,12,7,5
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,WCP,,8,8,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,WCP,,2,2,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,WCP,,3,1,2
+Manistee,"Manistee Township, Precinct 1",Straight Party,,WCP,,8,7,1
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,WCP,,3,3,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,WCP,,1,1,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,WCP,,2,2,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,WCP,,1,1,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,WCP,,3,3,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,WCP,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,WCP,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,WCP,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,GRN,,6,4,2
+Manistee,"City of Manistee, Precinct 2",Straight Party,,GRN,,1,1,0
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Manistee Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,GRN,,2,2,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,GRN,,1,1,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,GRN,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,GRN,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,GRN,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Straight Party,,NLP,,1,1,0
+Manistee,"City of Manistee, Precinct 2",Straight Party,,NLP,,3,2,1
+Manistee,"Arcadia Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Straight Party,,NLP,,2,2,0
+Manistee,"Brown Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Cleon Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Manistee,"Dickson Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Charter Township of Filer, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Manistee Township, Precinct 1",Straight Party,,NLP,,3,2,1
+Manistee,"Maple Grove Township, Precinct 1",Straight Party,,NLP,,2,2,0
+Manistee,"Marilla Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Norman Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Onekama Township, Precinct 1",Straight Party,,NLP,,1,1,0
+Manistee,"Pleasanton Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Springdale Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Stronach Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Manistee,"Grant Township, Precinct 1 (Mason County)",Straight Party,,NLP,,0,0,0
+Manistee,"Meade Township, Precinct 1 (Mason County)",Straight Party,,NLP,,0,0,0
+Manistee,"Elk Township, Precinct 1 (Lake Township)",Straight Party,,NLP,,0,0,0
+Manistee,"City of Manistee, Precinct 1",Governor,,DEM,Gretchen Whitmer,870,312,558
+Manistee,"City of Manistee, Precinct 2",Governor,,DEM,Gretchen Whitmer,782,366,416
+Manistee,"Arcadia Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,259,259,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,368,368,0
+Manistee,"Brown Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,157,157,0
+Manistee,"Cleon Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,159,159,0
+Manistee,"Dickson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,200,200,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,DEM,Gretchen Whitmer,692,270,422
+Manistee,"Manistee Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,814,276,538
+Manistee,"Maple Grove Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,265,265,0
+Manistee,"Marilla Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68,68,0
+Manistee,"Norman Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,315,315,0
+Manistee,"Onekama Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,501,201,300
+Manistee,"Pleasanton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,183,183,0
+Manistee,"Springdale Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,185,185,0
+Manistee,"Stronach Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,208,208,0
+Manistee,"City of Manistee, Precinct 1",Governor,,REP,Tudor M. Dixon,618,328,290
+Manistee,"City of Manistee, Precinct 2",Governor,,REP,Tudor M. Dixon,527,338,189
+Manistee,"Arcadia Township, Precinct 1",Governor,,REP,Tudor M. Dixon,210,210,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,REP,Tudor M. Dixon,545,545,0
+Manistee,"Brown Township, Precinct 1",Governor,,REP,Tudor M. Dixon,246,246,0
+Manistee,"Cleon Township, Precinct 1",Governor,,REP,Tudor M. Dixon,305,305,0
+Manistee,"Dickson Township, Precinct 1",Governor,,REP,Tudor M. Dixon,302,302,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,REP,Tudor M. Dixon,652,462,190
+Manistee,"Manistee Township, Precinct 1",Governor,,REP,Tudor M. Dixon,765,470,295
+Manistee,"Maple Grove Township, Precinct 1",Governor,,REP,Tudor M. Dixon,335,335,0
+Manistee,"Marilla Township, Precinct 1",Governor,,REP,Tudor M. Dixon,122,122,0
+Manistee,"Norman Township, Precinct 1",Governor,,REP,Tudor M. Dixon,497,497,0
+Manistee,"Onekama Township, Precinct 1",Governor,,REP,Tudor M. Dixon,470,296,174
+Manistee,"Pleasanton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,280,280,0
+Manistee,"Springdale Township, Precinct 1",Governor,,REP,Tudor M. Dixon,260,260,0
+Manistee,"Stronach Township, Precinct 1",Governor,,REP,Tudor M. Dixon,230,230,0
+Manistee,"City of Manistee, Precinct 1",Governor,,LIB,Mary Buzuma,12,10,2
+Manistee,"City of Manistee, Precinct 2",Governor,,LIB,Mary Buzuma,13,10,3
+Manistee,"Arcadia Township, Precinct 1",Governor,,LIB,Mary Buzuma,3,3,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,LIB,Mary Buzuma,12,12,0
+Manistee,"Brown Township, Precinct 1",Governor,,LIB,Mary Buzuma,3,3,0
+Manistee,"Cleon Township, Precinct 1",Governor,,LIB,Mary Buzuma,6,6,0
+Manistee,"Dickson Township, Precinct 1",Governor,,LIB,Mary Buzuma,0,0,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,LIB,Mary Buzuma,16,12,4
+Manistee,"Manistee Township, Precinct 1",Governor,,LIB,Mary Buzuma,16,9,7
+Manistee,"Maple Grove Township, Precinct 1",Governor,,LIB,Mary Buzuma,7,7,0
+Manistee,"Marilla Township, Precinct 1",Governor,,LIB,Mary Buzuma,2,2,0
+Manistee,"Norman Township, Precinct 1",Governor,,LIB,Mary Buzuma,10,10,0
+Manistee,"Onekama Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,5,4
+Manistee,"Pleasanton Township, Precinct 1",Governor,,LIB,Mary Buzuma,5,5,0
+Manistee,"Springdale Township, Precinct 1",Governor,,LIB,Mary Buzuma,5,5,0
+Manistee,"Stronach Township, Precinct 1",Governor,,LIB,Mary Buzuma,4,4,0
+Manistee,"City of Manistee, Precinct 1",Governor,,UST,Donna Brandenburg,3,0,3
+Manistee,"City of Manistee, Precinct 2",Governor,,UST,Donna Brandenburg,16,9,7
+Manistee,"Arcadia Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,UST,Donna Brandenburg,5,5,0
+Manistee,"Brown Township, Precinct 1",Governor,,UST,Donna Brandenburg,1,1,0
+Manistee,"Cleon Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Manistee,"Dickson Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,UST,Donna Brandenburg,5,4,1
+Manistee,"Manistee Township, Precinct 1",Governor,,UST,Donna Brandenburg,4,2,2
+Manistee,"Maple Grove Township, Precinct 1",Governor,,UST,Donna Brandenburg,12,12,0
+Manistee,"Marilla Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,2,0
+Manistee,"Norman Township, Precinct 1",Governor,,UST,Donna Brandenburg,11,11,0
+Manistee,"Onekama Township, Precinct 1",Governor,,UST,Donna Brandenburg,3,1,2
+Manistee,"Pleasanton Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Manistee,"Springdale Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,2,0
+Manistee,"Stronach Township, Precinct 1",Governor,,UST,Donna Brandenburg,4,4,0
+Manistee,"City of Manistee, Precinct 1",Governor,,GRN,Kevin Hogan,7,5,2
+Manistee,"City of Manistee, Precinct 2",Governor,,GRN,Kevin Hogan,6,3,3
+Manistee,"Arcadia Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,3,0
+Manistee,"Brown Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,1,0
+Manistee,"Cleon Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Manistee,"Dickson Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,1,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,GRN,Kevin Hogan,2,0,2
+Manistee,"Manistee Township, Precinct 1",Governor,,GRN,Kevin Hogan,7,3,4
+Manistee,"Maple Grove Township, Precinct 1",Governor,,GRN,Kevin Hogan,6,6,0
+Manistee,"Marilla Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Manistee,"Norman Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Manistee,"Onekama Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,2,1
+Manistee,"Pleasanton Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Manistee,"Springdale Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Manistee,"Stronach Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,2,0
+Manistee,"City of Manistee, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Manistee,"City of Manistee, Precinct 2",Governor,,NLP,Daryl M. Simpson,4,2,2
+Manistee,"Arcadia Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Brown Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Cleon Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,3,3,0
+Manistee,"Dickson Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Charter Township of Filer, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Manistee,"Manistee Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,4,3,1
+Manistee,"Maple Grove Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,2,0
+Manistee,"Marilla Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Manistee,"Norman Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Onekama Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Pleasanton Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Manistee,"Springdale Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"Stronach Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,1,0
+Manistee,"City of Manistee, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,848,295,553
+Manistee,"City of Manistee, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,745,342,403
+Manistee,"Arcadia Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,265,265,0
+Manistee,"Bear Lake Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,352,352,0
+Manistee,"Brown Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,154,154,0
+Manistee,"Cleon Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,158,158,0
+Manistee,"Dickson Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,191,191,0
+Manistee,"Charter Township of Filer, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,672,268,404
+Manistee,"Manistee Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,799,260,539
+Manistee,"Maple Grove Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,268,268,0
+Manistee,"Marilla Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,64,64,0
+Manistee,"Norman Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,302,302,0
+Manistee,"Onekama Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,506,202,304
+Manistee,"Pleasanton Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,179,179,0
+Manistee,"Springdale Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,184,184,0
+Manistee,"Stronach Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,200,200,0
+Manistee,"City of Manistee, Precinct 1",Secretary of State,,REP,Kristina Karamo,617,329,288
+Manistee,"City of Manistee, Precinct 2",Secretary of State,,REP,Kristina Karamo,552,353,199
+Manistee,"Arcadia Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,199,199,0
+Manistee,"Bear Lake Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,549,549,0
+Manistee,"Brown Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,242,242,0
+Manistee,"Cleon Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,305,305,0
+Manistee,"Dickson Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,306,306,0
+Manistee,"Charter Township of Filer, Precinct 1",Secretary of State,,REP,Kristina Karamo,656,452,204
+Manistee,"Manistee Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,769,473,296
+Manistee,"Maple Grove Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,343,343,0
+Manistee,"Marilla Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,123,123,0
+Manistee,"Norman Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,493,493,0
+Manistee,"Onekama Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,461,293,168
+Manistee,"Pleasanton Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,279,279,0
+Manistee,"Springdale Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,259,259,0
+Manistee,"Stronach Township, Precinct 1",Secretary of State,,REP,Kristina Karamo,235,235,0
+Manistee,"City of Manistee, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,16,12,4
+Manistee,"City of Manistee, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,21,14,7
+Manistee,"Arcadia Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,5,5,0
+Manistee,"Bear Lake Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,12,12,0
+Manistee,"Brown Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7,7,0
+Manistee,"Cleon Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6,6,0
+Manistee,"Dickson Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,4,4,0
+Manistee,"Charter Township of Filer, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,15,12,3
+Manistee,"Manistee Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14,12,2
+Manistee,"Maple Grove Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6,6,0
+Manistee,"Marilla Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,0,0,0
+Manistee,"Norman Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,12,12,0
+Manistee,"Onekama Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9,7,2
+Manistee,"Pleasanton Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,11,11,0
+Manistee,"Springdale Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7,7,0
+Manistee,"Stronach Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,6,6,0
+Manistee,"City of Manistee, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,5,4,1
+Manistee,"City of Manistee, Precinct 2",Secretary of State,,UST,Christina C. Schwartz,16,7,9
+Manistee,"Arcadia Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,1,1,0
+Manistee,"Bear Lake Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,9,9,0
+Manistee,"Brown Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,3,3,0
+Manistee,"Cleon Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,2,2,0
+Manistee,"Dickson Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,4,4,0
+Manistee,"Charter Township of Filer, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,2,2,0
+Manistee,"Manistee Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,6,4,2
+Manistee,"Maple Grove Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,9,9,0
+Manistee,"Marilla Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,4,4,0
+Manistee,"Norman Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,14,14,0
+Manistee,"Onekama Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,2,1,1
+Manistee,"Pleasanton Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,0,0,0
+Manistee,"Springdale Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,0,0,0
+Manistee,"Stronach Township, Precinct 1",Secretary of State,,UST,Christina C. Schwartz,6,6,0
+Manistee,"City of Manistee, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",9,4,5
+Manistee,"City of Manistee, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,5,2
+Manistee,"Arcadia Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",0,0,0
+Manistee,"Bear Lake Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,7,0
+Manistee,"Brown Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,1,0
+Manistee,"Cleon Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Manistee,"Dickson Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Manistee,"Charter Township of Filer, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,3,2
+Manistee,"Manistee Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",7,4,3
+Manistee,"Maple Grove Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,3,0
+Manistee,"Marilla Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Manistee,"Norman Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,1,0
+Manistee,"Onekama Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,3,1
+Manistee,"Pleasanton Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Manistee,"Springdale Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,0
+Manistee,"Stronach Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",1,1,0
+Manistee,"City of Manistee, Precinct 1",Attorney General,,DEM,Dana Nessel,814,282,532
+Manistee,"City of Manistee, Precinct 2",Attorney General,,DEM,Dana Nessel,730,335,395
+Manistee,"Arcadia Township, Precinct 1",Attorney General,,DEM,Dana Nessel,256,256,0
+Manistee,"Bear Lake Township, Precinct 1",Attorney General,,DEM,Dana Nessel,350,350,0
+Manistee,"Brown Township, Precinct 1",Attorney General,,DEM,Dana Nessel,153,153,0
+Manistee,"Cleon Township, Precinct 1",Attorney General,,DEM,Dana Nessel,148,148,0
+Manistee,"Dickson Township, Precinct 1",Attorney General,,DEM,Dana Nessel,187,187,0
+Manistee,"Charter Township of Filer, Precinct 1",Attorney General,,DEM,Dana Nessel,654,257,397
+Manistee,"Manistee Township, Precinct 1",Attorney General,,DEM,Dana Nessel,770,249,521
+Manistee,"Maple Grove Township, Precinct 1",Attorney General,,DEM,Dana Nessel,252,252,0
+Manistee,"Marilla Township, Precinct 1",Attorney General,,DEM,Dana Nessel,65,65,0
+Manistee,"Norman Township, Precinct 1",Attorney General,,DEM,Dana Nessel,290,290,0
+Manistee,"Onekama Township, Precinct 1",Attorney General,,DEM,Dana Nessel,474,188,286
+Manistee,"Pleasanton Township, Precinct 1",Attorney General,,DEM,Dana Nessel,182,182,0
+Manistee,"Springdale Township, Precinct 1",Attorney General,,DEM,Dana Nessel,169,169,0
+Manistee,"Stronach Township, Precinct 1",Attorney General,,DEM,Dana Nessel,189,189,0
+Manistee,"City of Manistee, Precinct 1",Attorney General,,REP,Matthew DePerno,623,329,294
+Manistee,"City of Manistee, Precinct 2",Attorney General,,REP,Matthew DePerno,555,356,199
+Manistee,"Arcadia Township, Precinct 1",Attorney General,,REP,Matthew DePerno,202,202,0
+Manistee,"Bear Lake Township, Precinct 1",Attorney General,,REP,Matthew DePerno,548,548,0
+Manistee,"Brown Township, Precinct 1",Attorney General,,REP,Matthew DePerno,246,246,0
+Manistee,"Cleon Township, Precinct 1",Attorney General,,REP,Matthew DePerno,306,306,0
+Manistee,"Dickson Township, Precinct 1",Attorney General,,REP,Matthew DePerno,309,309,0
+Manistee,"Charter Township of Filer, Precinct 1",Attorney General,,REP,Matthew DePerno,648,450,198
+Manistee,"Manistee Township, Precinct 1",Attorney General,,REP,Matthew DePerno,770,469,301
+Manistee,"Maple Grove Township, Precinct 1",Attorney General,,REP,Matthew DePerno,349,349,0
+Manistee,"Marilla Township, Precinct 1",Attorney General,,REP,Matthew DePerno,123,123,0
+Manistee,"Norman Township, Precinct 1",Attorney General,,REP,Matthew DePerno,494,494,0
+Manistee,"Onekama Township, Precinct 1",Attorney General,,REP,Matthew DePerno,479,304,175
+Manistee,"Pleasanton Township, Precinct 1",Attorney General,,REP,Matthew DePerno,282,282,0
+Manistee,"Springdale Township, Precinct 1",Attorney General,,REP,Matthew DePerno,266,266,0
+Manistee,"Stronach Township, Precinct 1",Attorney General,,REP,Matthew DePerno,236,236,0
+Manistee,"City of Manistee, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",21,16,5
+Manistee,"City of Manistee, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",25,14,11
+Manistee,"Arcadia Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",5,5,0
+Manistee,"Bear Lake Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,15,0
+Manistee,"Brown Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",3,3,0
+Manistee,"Cleon Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",10,10,0
+Manistee,"Dickson Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",1,1,0
+Manistee,"Charter Township of Filer, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,16,8
+Manistee,"Manistee Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",32,19,13
+Manistee,"Maple Grove Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,13,0
+Manistee,"Marilla Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",1,1,0
+Manistee,"Norman Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",17,17,0
+Manistee,"Onekama Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16,8,8
+Manistee,"Pleasanton Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",6,6,0
+Manistee,"Springdale Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8,8,0
+Manistee,"Stronach Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",8,8,0
+Manistee,"City of Manistee, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,17,7,10
+Manistee,"City of Manistee, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,25,15,10
+Manistee,"Arcadia Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3,3,0
+Manistee,"Bear Lake Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,12,12,0
+Manistee,"Brown Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4,4,0
+Manistee,"Cleon Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,6,0
+Manistee,"Dickson Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7,7,0
+Manistee,"Charter Township of Filer, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,5,1
+Manistee,"Manistee Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,18,14,4
+Manistee,"Maple Grove Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11,11,0
+Manistee,"Marilla Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2,2,0
+Manistee,"Norman Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,23,23,0
+Manistee,"Onekama Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4,2,2
+Manistee,"Pleasanton Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,1,1,0
+Manistee,"Springdale Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,4,4,0
+Manistee,"Stronach Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,11,11,0
+Manistee,"City of Manistee, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,751,261,490
+Manistee,"City of Manistee, Precinct 2",U.S. House,2,DEM,Jerry Hilliard,686,319,367
+Manistee,"Arcadia Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,227,227,0
+Manistee,"Bear Lake Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,298,298,0
+Manistee,"Brown Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,128,128,0
+Manistee,"Cleon Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,132,132,0
+Manistee,"Dickson Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,165,165,0
+Manistee,"Charter Township of Filer, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,593,226,367
+Manistee,"Manistee Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,686,220,466
+Manistee,"Maple Grove Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,229,229,0
+Manistee,"Marilla Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,52,52,0
+Manistee,"Norman Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,245,245,0
+Manistee,"Onekama Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,432,160,272
+Manistee,"Pleasanton Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,156,156,0
+Manistee,"Springdale Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,152,152,0
+Manistee,"Stronach Township, Precinct 1",U.S. House,2,DEM,Jerry Hilliard,180,180,0
+Manistee,"City of Manistee, Precinct 1",U.S. House,2,REP,John Moolenaar,678,358,320
+Manistee,"City of Manistee, Precinct 2",U.S. House,2,REP,John Moolenaar,596,370,226
+Manistee,"Arcadia Township, Precinct 1",U.S. House,2,REP,John Moolenaar,226,226,0
+Manistee,"Bear Lake Township, Precinct 1",U.S. House,2,REP,John Moolenaar,596,596,0
+Manistee,"Brown Township, Precinct 1",U.S. House,2,REP,John Moolenaar,261,261,0
+Manistee,"Cleon Township, Precinct 1",U.S. House,2,REP,John Moolenaar,322,322,0
+Manistee,"Dickson Township, Precinct 1",U.S. House,2,REP,John Moolenaar,326,326,0
+Manistee,"Charter Township of Filer, Precinct 1",U.S. House,2,REP,John Moolenaar,707,485,222
+Manistee,"Manistee Township, Precinct 1",U.S. House,2,REP,John Moolenaar,853,500,353
+Manistee,"Maple Grove Township, Precinct 1",U.S. House,2,REP,John Moolenaar,371,371,0
+Manistee,"Marilla Township, Precinct 1",U.S. House,2,REP,John Moolenaar,137,137,0
+Manistee,"Norman Township, Precinct 1",U.S. House,2,REP,John Moolenaar,545,545,0
+Manistee,"Onekama Township, Precinct 1",U.S. House,2,REP,John Moolenaar,511,323,188
+Manistee,"Pleasanton Township, Precinct 1",U.S. House,2,REP,John Moolenaar,303,303,0
+Manistee,"Springdale Township, Precinct 1",U.S. House,2,REP,John Moolenaar,287,287,0
+Manistee,"Stronach Township, Precinct 1",U.S. House,2,REP,John Moolenaar,251,251,0
+Manistee,"City of Manistee, Precinct 1",U.S. House,2,LIB,Nathan Hewer,20,11,9
+Manistee,"City of Manistee, Precinct 2",U.S. House,2,LIB,Nathan Hewer,28,21,7
+Manistee,"Arcadia Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,9,9,0
+Manistee,"Bear Lake Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,19,19,0
+Manistee,"Brown Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,11,11,0
+Manistee,"Cleon Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,13,13,0
+Manistee,"Dickson Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,8,8,0
+Manistee,"Charter Township of Filer, Precinct 1",U.S. House,2,LIB,Nathan Hewer,21,15,6
+Manistee,"Manistee Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,30,21,9
+Manistee,"Maple Grove Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,14,14,0
+Manistee,"Marilla Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,3,3,0
+Manistee,"Norman Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,18,18,0
+Manistee,"Onekama Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,11,7,4
+Manistee,"Pleasanton Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,4,4,0
+Manistee,"Springdale Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,8,8,0
+Manistee,"Stronach Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,4,4,0
+Manistee,"City of Manistee, Precinct 1",State Senate,32,DEM,Terry Sabo,779,277,502
+Manistee,"City of Manistee, Precinct 2",State Senate,32,DEM,Terry Sabo,705,334,371
+Manistee,"Arcadia Township, Precinct 1",State Senate,32,DEM,Terry Sabo,231,231,0
+Manistee,"Bear Lake Township, Precinct 1",State Senate,32,DEM,Terry Sabo,311,311,0
+Manistee,"Brown Township, Precinct 1",State Senate,32,DEM,Terry Sabo,137,137,0
+Manistee,"Charter Township of Filer, Precinct 1",State Senate,32,DEM,Terry Sabo,595,222,373
+Manistee,"Manistee Township, Precinct 1",State Senate,32,DEM,Terry Sabo,702,231,471
+Manistee,"Onekama Township, Precinct 1",State Senate,32,DEM,Terry Sabo,436,163,273
+Manistee,"Pleasanton Township, Precinct 1",State Senate,32,DEM,Terry Sabo,165,165,0
+Manistee,"Springdale Township, Precinct 1",State Senate,32,DEM,Terry Sabo,161,161,0
+Manistee,"Stronach Township, Precinct 1",State Senate,32,DEM,Terry Sabo,182,182,0
+Manistee,"City of Manistee, Precinct 1",State Senate,32,REP,Jon Bumstead,699,364,335
+Manistee,"City of Manistee, Precinct 2",State Senate,32,REP,Jon Bumstead,620,383,237
+Manistee,"Arcadia Township, Precinct 1",State Senate,32,REP,Jon Bumstead,234,234,0
+Manistee,"Bear Lake Township, Precinct 1",State Senate,32,REP,Jon Bumstead,609,609,0
+Manistee,"Brown Township, Precinct 1",State Senate,32,REP,Jon Bumstead,263,263,0
+Manistee,"Charter Township of Filer, Precinct 1",State Senate,32,REP,Jon Bumstead,737,507,230
+Manistee,"Manistee Township, Precinct 1",State Senate,32,REP,Jon Bumstead,871,513,358
+Manistee,"Onekama Township, Precinct 1",State Senate,32,REP,Jon Bumstead,530,333,197
+Manistee,"Pleasanton Township, Precinct 1",State Senate,32,REP,Jon Bumstead,299,299,0
+Manistee,"Springdale Township, Precinct 1",State Senate,32,REP,Jon Bumstead,284,284,0
+Manistee,"Stronach Township, Precinct 1",State Senate,32,REP,Jon Bumstead,258,258,0
+Manistee,"Cleon Township, Precinct 1",State Senate,36,DEM,Joel Sheltrown,126,126,0
+Manistee,"Dickson Township, Precinct 1",State Senate,36,DEM,Joel Sheltrown,171,171,0
+Manistee,"Maple Grove Township, Precinct 1",State Senate,36,DEM,Joel Sheltrown,230,230,0
+Manistee,"Marilla Township, Precinct 1",State Senate,36,DEM,Joel Sheltrown,53,53,0
+Manistee,"Norman Township, Precinct 1",State Senate,36,DEM,Joel Sheltrown,251,251,0
+Manistee,"Cleon Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,332,332,0
+Manistee,"Dickson Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,323,323,0
+Manistee,"Maple Grove Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,384,384,0
+Manistee,"Marilla Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,139,139,0
+Manistee,"Norman Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,552,552,0
+Manistee,"City of Manistee, Precinct 1",State House,102,DEM,Brian Hosticka,732,255,477
+Manistee,"City of Manistee, Precinct 2",State House,102,DEM,Brian Hosticka,662,312,350
+Manistee,"Brown Township, Precinct 1",State House,102,DEM,Brian Hosticka,132,132,0
+Manistee,"Charter Township of Filer, Precinct 1",State House,102,DEM,Brian Hosticka,548,209,339
+Manistee,"Manistee Township, Precinct 1",State House,102,DEM,Brian Hosticka,648,208,440
+Manistee,"Stronach Township, Precinct 1",State House,102,DEM,Brian Hosticka,162,162,0
+Manistee,"City of Manistee, Precinct 1",State House,102,REP,Curt VanderWall,748,382,366
+Manistee,"City of Manistee, Precinct 2",State House,102,REP,Curt VanderWall,666,403,263
+Manistee,"Brown Township, Precinct 1",State House,102,REP,Curt VanderWall,267,267,0
+Manistee,"Charter Township of Filer, Precinct 1",State House,102,REP,Curt VanderWall,794,526,268
+Manistee,"Manistee Township, Precinct 1",State House,102,REP,Curt VanderWall,925,529,396
+Manistee,"Stronach Township, Precinct 1",State House,102,REP,Curt VanderWall,278,278,0
+Manistee,"Arcadia Township, Precinct 1",State House,104,DEM,Cathy Albro,228,228,0
+Manistee,"Bear Lake Township, Precinct 1",State House,104,DEM,Cathy Albro,300,300,0
+Manistee,"Cleon Township, Precinct 1",State House,104,DEM,Cathy Albro,130,130,0
+Manistee,"Dickson Township, Precinct 1",State House,104,DEM,Cathy Albro,173,173,0
+Manistee,"Maple Grove Township, Precinct 1",State House,104,DEM,Cathy Albro,241,241,0
+Manistee,"Marilla Township, Precinct 1",State House,104,DEM,Cathy Albro,55,55,0
+Manistee,"Norman Township, Precinct 1",State House,104,DEM,Cathy Albro,262,262,0
+Manistee,"Onekama Township, Precinct 1",State House,104,DEM,Cathy Albro,434,161,273
+Manistee,"Pleasanton Township, Precinct 1",State House,104,DEM,Cathy Albro,161,161,0
+Manistee,"Springdale Township, Precinct 1",State House,104,DEM,Cathy Albro,151,151,0
+Manistee,"Arcadia Township, Precinct 1",State House,104,REP,John Roth,237,237,0
+Manistee,"Bear Lake Township, Precinct 1",State House,104,REP,John Roth,616,616,0
+Manistee,"Cleon Township, Precinct 1",State House,104,REP,John Roth,333,333,0
+Manistee,"Dickson Township, Precinct 1",State House,104,REP,John Roth,325,325,0
+Manistee,"Maple Grove Township, Precinct 1",State House,104,REP,John Roth,377,377,0
+Manistee,"Marilla Township, Precinct 1",State House,104,REP,John Roth,139,139,0
+Manistee,"Norman Township, Precinct 1",State House,104,REP,John Roth,544,544,0
+Manistee,"Onekama Township, Precinct 1",State House,104,REP,John Roth,529,333,196
+Manistee,"Pleasanton Township, Precinct 1",State House,104,REP,John Roth,300,300,0
+Manistee,"Springdale Township, Precinct 1",State House,104,REP,John Roth,288,288,0

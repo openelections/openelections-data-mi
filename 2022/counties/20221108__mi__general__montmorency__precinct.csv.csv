@@ -1,0 +1,350 @@
+county,precinct,office,district,candidate,party,election_day,absentee,votes
+Montmorency,"Albert Township, Precinct 1",Registered Voters,,,,,,2446
+Montmorency,"Avery Township, Precinct 1",Registered Voters,,,,,,596
+Montmorency,"Briley Township, Precinct 1",Registered Voters,,,,,,1858
+Montmorency,"Hillman Township, Precinct 1",Registered Voters,,,,,,1824
+Montmorency,"Loud Township, Precinct 1",Registered Voters,,,,,,276
+Montmorency,"Montmorency Township, Precinct 1",Registered Voters,,,,,,577
+Montmorency,"Montmorency Township, Precinct 2",Registered Voters,,,,,,475
+Montmorency,"Rust Township, Precinct 1",Registered Voters,,,,,,464
+Montmorency,"Vienna Township, Precinct 1",Registered Voters,,,,,,531
+Montmorency,"Albert Township, Precinct 1",Ballots Cast,,,,730,640,1370
+Montmorency,"Avery Township, Precinct 1",Ballots Cast,,,,343,0,343
+Montmorency,"Briley Township, Precinct 1",Ballots Cast,,,,933,0,933
+Montmorency,"Hillman Township, Precinct 1",Ballots Cast,,,,1004,0,1004
+Montmorency,"Loud Township, Precinct 1",Ballots Cast,,,,169,0,169
+Montmorency,"Montmorency Township, Precinct 1",Ballots Cast,,,,401,0,401
+Montmorency,"Montmorency Township, Precinct 2",Ballots Cast,,,,342,0,342
+Montmorency,"Rust Township, Precinct 1",Ballots Cast,,,,279,0,279
+Montmorency,"Vienna Township, Precinct 1",Ballots Cast,,,,324,0,324
+Montmorency,"Greenwood Township, Precinct 1 (Oscoda County)",Ballots Cast,,,,990,0,990
+Montmorency,"Charlton Township, Precinct 1 (Otsego County)",Ballots Cast,,,,839,0,839
+Montmorency,"Chester Township, Precinct 1 (Otsego County)",Ballots Cast,,,,308,0,308
+Montmorency,"Dover Township, Precinct 1 (Otsego County)",Ballots Cast,,,,440,0,440
+Montmorency,"Bismarck Township, Precinct 1 (Presque Isle County)",Ballots Cast,,,,2,0,2
+Montmorency,"Green Township, Precinct 1 (Alpena County)",Ballots Cast,,,,140,0,140
+Montmorency,"Wellington Township, Precinct 1 (Alpena County)",Ballots Cast,,,,51,0,51
+Montmorency,"Albert Township, Precinct 1",Straight Party,,DEM,Democratic,93,147,240
+Montmorency,"Avery Township, Precinct 1",Straight Party,,DEM,Democratic,55,0,55
+Montmorency,"Briley Township, Precinct 1",Straight Party,,DEM,Democratic,113,0,113
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,DEM,Democratic,133,0,133
+Montmorency,"Loud Township, Precinct 1",Straight Party,,DEM,Democratic,30,0,30
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,DEM,Democratic,55,0,55
+Montmorency,"Albert Township, Precinct 1",Straight Party,,REP,Republican,346,206,552
+Montmorency,"Avery Township, Precinct 1",Straight Party,,REP,Republican,152,0,152
+Montmorency,"Briley Township, Precinct 1",Straight Party,,REP,Republican,390,0,390
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,REP,Republican,390,0,390
+Montmorency,"Loud Township, Precinct 1",Straight Party,,REP,Republican,77,0,77
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,REP,Republican,142,0,142
+Montmorency,"Albert Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1
+Montmorency,"Briley Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
+Montmorency,"Loud Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1
+Montmorency,"Albert Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,1
+Montmorency,"Briley Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3,0,3
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,1
+Montmorency,"Loud Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Montmorency,"Albert Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,2
+Montmorency,"Avery Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
+Montmorency,"Briley Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,3
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,WCP,Working Class,6,0,6
+Montmorency,"Loud Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,2
+Montmorency,"Albert Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,GRN,Green,1,0,1
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,GRN,Green,3,0,3
+Montmorency,"Loud Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,GRN,Green,1,0,1
+Montmorency,"Albert Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,DEM,Democratic,62,0,62
+Montmorency,"Rust Township, Precinct 1",Straight Party,,DEM,Democratic,34,0,34
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,DEM,Democratic,47,0,47
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,REP,Republican,142,0,142
+Montmorency,"Rust Township, Precinct 1",Straight Party,,REP,Republican,139,0,139
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,REP,Republican,134,0,134
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,LIB,Libertarian,1,0,1
+Montmorency,"Rust Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1,0,1
+Montmorency,"Rust Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,WCP,Working Class,0,0,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1
+Montmorency,"Albert Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,194,319,513
+Montmorency,"Avery Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,95,0,95
+Montmorency,"Briley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,287,0,287
+Montmorency,"Hillman Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,327,0,327
+Montmorency,"Loud Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,51,0,51
+Montmorency,"Montmorency Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,130,0,130
+Montmorency,"Albert Township, Precinct 1",Governor,,REP,Tudor M. Dixon,513,295,808
+Montmorency,"Avery Township, Precinct 1",Governor,,REP,Tudor M. Dixon,235,0,235
+Montmorency,"Briley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,607,0,607
+Montmorency,"Hillman Township, Precinct 1",Governor,,REP,Tudor M. Dixon,638,0,638
+Montmorency,"Loud Township, Precinct 1",Governor,,REP,Tudor M. Dixon,114,0,114
+Montmorency,"Montmorency Township, Precinct 1",Governor,,REP,Tudor M. Dixon,268,0,268
+Montmorency,"Albert Township, Precinct 1",Governor,,LIB,Mary Buzuma,8,3,11
+Montmorency,"Avery Township, Precinct 1",Governor,,LIB,Mary Buzuma,3,0,3
+Montmorency,"Briley Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,0,9
+Montmorency,"Hillman Township, Precinct 1",Governor,,LIB,Mary Buzuma,7,0,7
+Montmorency,"Loud Township, Precinct 1",Governor,,LIB,Mary Buzuma,2,0,2
+Montmorency,"Montmorency Township, Precinct 1",Governor,,LIB,Mary Buzuma,2,0,2
+Montmorency,"Albert Township, Precinct 1",Governor,,UST,Donna Brandenburg,6,10,16
+Montmorency,"Avery Township, Precinct 1",Governor,,UST,Donna Brandenburg,3,0,3
+Montmorency,"Briley Township, Precinct 1",Governor,,UST,Donna Brandenburg,10,0,10
+Montmorency,"Hillman Township, Precinct 1",Governor,,UST,Donna Brandenburg,18,0,18
+Montmorency,"Loud Township, Precinct 1",Governor,,UST,Donna Brandenburg,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Governor,,UST,Donna Brandenburg,1,0,1
+Montmorency,"Albert Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,3,5
+Montmorency,"Avery Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,0,1
+Montmorency,"Briley Township, Precinct 1",Governor,,GRN,Kevin Hogan,5,0,5
+Montmorency,"Hillman Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,0,4
+Montmorency,"Loud Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,0,3
+Montmorency,"Albert Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,0,2
+Montmorency,"Avery Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,0,2
+Montmorency,"Briley Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Montmorency,"Hillman Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Montmorency,"Loud Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Montmorency,"Albert Township, Precinct 1",Governor,,,Write-ins,1,2,3
+Montmorency,"Avery Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Montmorency,"Briley Township, Precinct 1",Governor,,,Write-ins,4,0,4
+Montmorency,"Hillman Township, Precinct 1",Governor,,,Write-ins,3,0,3
+Montmorency,"Loud Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Governor,,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,123,0,123
+Montmorency,"Rust Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,68,0,68
+Montmorency,"Vienna Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,107,0,107
+Montmorency,"Montmorency Township, Precinct 2",Governor,,REP,Tudor M. Dixon,216,0,216
+Montmorency,"Rust Township, Precinct 1",Governor,,REP,Tudor M. Dixon,202,0,202
+Montmorency,"Vienna Township, Precinct 1",Governor,,REP,Tudor M. Dixon,213,0,213
+Montmorency,"Montmorency Township, Precinct 2",Governor,,LIB,Mary Buzuma,3,0,3
+Montmorency,"Rust Township, Precinct 1",Governor,,LIB,Mary Buzuma,1,0,1
+Montmorency,"Vienna Township, Precinct 1",Governor,,LIB,Mary Buzuma,2,0,2
+Montmorency,"Montmorency Township, Precinct 2",Governor,,UST,Donna Brandenburg,0,0,0
+Montmorency,"Rust Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,0,2
+Montmorency,"Vienna Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Governor,,GRN,Kevin Hogan,0,0,0
+Montmorency,"Rust Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,0,0,0
+Montmorency,"Rust Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,2,0,2
+Montmorency,"Vienna Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Governor,,,Write-ins,0,0,0
+Montmorency,"Rust Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Governor,,,Write-ins,0,0,0
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,184,319,503
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,88,0,88
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,285,0,285
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,318,0,318
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,50,0,50
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,134,0,134
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,515,299,814
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,241,0,241
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,605,0,605
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,645,0,645
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,110,0,110
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,260,0,260
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7,4,11
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,3,0,3
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14,0,14
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,19,0,19
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,2,0,2
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,4,0,4
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8,5,13
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2,0,2
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,12,0,12
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8,0,8
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4,0,4
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2,0,2
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5,2,7
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1,0,1
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3,0,3
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3,0,3
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3,0,3
+Montmorency,"Albert Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Montmorency,"Avery Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Montmorency,"Briley Township, Precinct 1",Secretary of State,,,Write-ins,3,0,3
+Montmorency,"Hillman Township, Precinct 1",Secretary of State,,,Write-ins,1,0,1
+Montmorency,"Loud Township, Precinct 1",Secretary of State,,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Secretary of State,,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,119,0,119
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,82,0,82
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,107,0,107
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,218,0,218
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,187,0,187
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,210,0,210
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,4,0,4
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,2,0,2
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,3,0,3
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,0,0,0
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,1,0,1
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Secretary of State,,,Write-ins,0,0,0
+Montmorency,"Rust Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Montmorency,"Vienna Township, Precinct 1",Secretary of State,,,Write-ins,0,0,0
+Montmorency,"Albert Township, Precinct 1",Attorney General,,DEM,Dana Nessel,175,299,474
+Montmorency,"Avery Township, Precinct 1",Attorney General,,DEM,Dana Nessel,79,0,79
+Montmorency,"Briley Township, Precinct 1",Attorney General,,DEM,Dana Nessel,263,0,263
+Montmorency,"Hillman Township, Precinct 1",Attorney General,,DEM,Dana Nessel,300,0,300
+Montmorency,"Loud Township, Precinct 1",Attorney General,,DEM,Dana Nessel,51,0,51
+Montmorency,"Montmorency Township, Precinct 1",Attorney General,,DEM,Dana Nessel,117,0,117
+Montmorency,"Albert Township, Precinct 1",Attorney General,,REP,Matthew DePerno,520,317,837
+Montmorency,"Avery Township, Precinct 1",Attorney General,,REP,Matthew DePerno,247,0,247
+Montmorency,"Briley Township, Precinct 1",Attorney General,,REP,Matthew DePerno,620,0,620
+Montmorency,"Hillman Township, Precinct 1",Attorney General,,REP,Matthew DePerno,657,0,657
+Montmorency,"Loud Township, Precinct 1",Attorney General,,REP,Matthew DePerno,109,0,109
+Montmorency,"Montmorency Township, Precinct 1",Attorney General,,REP,Matthew DePerno,266,0,266
+Montmorency,"Albert Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,16,3,19
+Montmorency,"Avery Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6,0,6
+Montmorency,"Briley Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,19,0,19
+Montmorency,"Hillman Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,17,0,17
+Montmorency,"Loud Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4,0,4
+Montmorency,"Montmorency Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,10,0,10
+Montmorency,"Albert Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,6,12
+Montmorency,"Avery Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3,0,3
+Montmorency,"Briley Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,13,0,13
+Montmorency,"Hillman Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,14,0,14
+Montmorency,"Loud Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,0,6
+Montmorency,"Albert Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Montmorency,"Avery Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Montmorency,"Briley Township, Precinct 1",Attorney General,,,Write-ins,3,0,3
+Montmorency,"Hillman Township, Precinct 1",Attorney General,,,Write-ins,1,0,1
+Montmorency,"Loud Township, Precinct 1",Attorney General,,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 1",Attorney General,,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",Attorney General,,DEM,Dana Nessel,114,0,114
+Montmorency,"Rust Township, Precinct 1",Attorney General,,DEM,Dana Nessel,64,0,64
+Montmorency,"Vienna Township, Precinct 1",Attorney General,,DEM,Dana Nessel,98,0,98
+Montmorency,"Montmorency Township, Precinct 2",Attorney General,,REP,Matthew DePerno,225,0,225
+Montmorency,"Rust Township, Precinct 1",Attorney General,,REP,Matthew DePerno,200,0,200
+Montmorency,"Vienna Township, Precinct 1",Attorney General,,REP,Matthew DePerno,215,0,215
+Montmorency,"Montmorency Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,2,0,2
+Montmorency,"Rust Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3,0,3
+Montmorency,"Vienna Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3,0,3
+Montmorency,"Montmorency Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,1,0,1
+Montmorency,"Rust Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,1,0,1
+Montmorency,"Vienna Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,0,0,0
+Montmorency,"Montmorency Township, Precinct 2",Attorney General,,,Write-ins,0,0,0
+Montmorency,"Rust Township, Precinct 1",Attorney General,,,Write-ins,1,0,1
+Montmorency,"Vienna Township, Precinct 1",Attorney General,,,Write-ins,0,0,0
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,133,252,385
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,72,0,72
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,199,0,199
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,250,0,250
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,41,0,41
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,92,0,92
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,REP,Jack Bergman,567,360,927
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,REP,Jack Bergman,256,0,256
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,682,0,682
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,REP,Jack Bergman,710,0,710
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Jack Bergman,119,0,119
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,REP,Jack Bergman,292,0,292
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,3,10
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,0,5
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11,0,11
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10,0,10
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,2
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,0,7
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,8,21
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,0,3
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,18,0,18
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,0,13
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5,0,5
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,,Write-ins,3,0,3
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,,Write-ins,2,0,2
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,,Write-ins,1,0,1
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,98,0,98
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,53,0,53
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,83,0,83
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,REP,Jack Bergman,238,0,238
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Jack Bergman,205,0,205
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Jack Bergman,230,0,230
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,3,0,3
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,1,0,1
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4,0,4
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,0,3
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,,Write-ins,0,0,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,,Write-ins,1,0,1
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0
+Montmorency,"Albert Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,148,266,414
+Montmorency,"Avery Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,76,0,76
+Montmorency,"Briley Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,234,0,234
+Montmorency,"Hillman Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,266,0,266
+Montmorency,"Loud Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,48,0,48
+Montmorency,"Montmorency Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,103,0,103
+Montmorency,"Albert Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,549,340,889
+Montmorency,"Avery Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,246,0,246
+Montmorency,"Briley Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,648,0,648
+Montmorency,"Hillman Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,701,0,701
+Montmorency,"Loud Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,109,0,109
+Montmorency,"Montmorency Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,283,0,283
+Montmorency,"Albert Township, Precinct 1",State Senate,36,,Write-ins,2,1,3
+Montmorency,"Avery Township, Precinct 1",State Senate,36,,Write-ins,2,0,2
+Montmorency,"Briley Township, Precinct 1",State Senate,36,,Write-ins,8,0,8
+Montmorency,"Hillman Township, Precinct 1",State Senate,36,,Write-ins,5,0,5
+Montmorency,"Loud Township, Precinct 1",State Senate,36,,Write-ins,2,0,2
+Montmorency,"Montmorency Township, Precinct 1",State Senate,36,,Write-ins,2,0,2
+Montmorency,"Montmorency Township, Precinct 2",State Senate,36,DEM,Joel A. Sheltrown,96,0,96
+Montmorency,"Rust Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,58,0,58
+Montmorency,"Vienna Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,85,0,85
+Montmorency,"Montmorency Township, Precinct 2",State Senate,36,REP,Michele Hoitenga,233,0,233
+Montmorency,"Rust Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,200,0,200
+Montmorency,"Vienna Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,226,0,226
+Montmorency,"Montmorency Township, Precinct 2",State Senate,36,,Write-ins,3,0,3
+Montmorency,"Rust Township, Precinct 1",State Senate,36,,Write-ins,1,0,1
+Montmorency,"Vienna Township, Precinct 1",State Senate,36,,Write-ins,1,0,1
+Montmorency,"Albert Township, Precinct 1",State House,106,DEM,Marie M. Fielder,149,277,426
+Montmorency,"Avery Township, Precinct 1",State House,106,DEM,Marie M. Fielder,78,0,78
+Montmorency,"Briley Township, Precinct 1",State House,106,DEM,Marie M. Fielder,250,0,250
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Marie M. Fielder,292,0,292
+Montmorency,"Loud Township, Precinct 1",State House,106,DEM,Marie M. Fielder,47,0,47
+Montmorency,"Montmorency Township, Precinct 1",State House,106,DEM,Marie M. Fielder,110,0,110
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Cam Cavitt,559,336,895
+Montmorency,"Avery Township, Precinct 1",State House,106,REP,Cam Cavitt,251,0,251
+Montmorency,"Briley Township, Precinct 1",State House,106,REP,Cam Cavitt,652,0,652
+Montmorency,"Hillman Township, Precinct 1",State House,106,REP,Cam Cavitt,674,0,674
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Cam Cavitt,116,0,116
+Montmorency,"Montmorency Township, Precinct 1",State House,106,REP,Cam Cavitt,279,0,279
+Montmorency,"Albert Township, Precinct 1",State House,106,,Write-ins,3,2,5
+Montmorency,"Avery Township, Precinct 1",State House,106,,Write-ins,1,0,1
+Montmorency,"Briley Township, Precinct 1",State House,106,,Write-ins,4,0,4
+Montmorency,"Hillman Township, Precinct 1",State House,106,,Write-ins,9,0,9
+Montmorency,"Loud Township, Precinct 1",State House,106,,Write-ins,0,0,0
+Montmorency,"Montmorency Township, Precinct 1",State House,106,,Write-ins,2,0,2
+Montmorency,"Montmorency Township, Precinct 2",State House,106,DEM,Marie M. Fielder,106,0,106
+Montmorency,"Rust Township, Precinct 1",State House,106,DEM,Marie M. Fielder,64,0,64
+Montmorency,"Vienna Township, Precinct 1",State House,106,DEM,Marie M. Fielder,91,0,91
+Montmorency,"Montmorency Township, Precinct 2",State House,106,REP,Cam Cavitt,227,0,227
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Cam Cavitt,202,0,202
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Cam Cavitt,222,0,222
+Montmorency,"Montmorency Township, Precinct 2",State House,106,,Write-ins,1,0,1
+Montmorency,"Rust Township, Precinct 1",State House,106,,Write-ins,1,0,1
+Montmorency,"Vienna Township, Precinct 1",State House,106,,Write-ins,2,0,2

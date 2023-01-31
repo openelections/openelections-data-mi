@@ -1,0 +1,453 @@
+county,precinct,office,district,party,candidate,election_day,absentee,votes
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Registered Voters,,,,,,1457
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Registered Voters,,,,,,1163
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Registered Voters,,,,,,938
+Otsego,"Bagley Township, Precinct 1",Registered Voters,,,,,,2601
+Otsego,"Bagley Township, Precinct 2",Registered Voters,,,,,,2768
+Otsego,"Charlton Township, Precinct 1",Registered Voters,,,,,,1429
+Otsego,"Chester Township, Precinct 1",Registered Voters,,,,,,1320
+Otsego,"Corwith Township, Precinct 1",Registered Voters,,,,,,1679
+Otsego,"Dover Township, Precinct 1",Registered Voters,,,,,,561
+Otsego,"Elmira Township, Precinct 1",Registered Voters,,,,,,1521
+Otsego,"Hayes Township, Precinct 1",Registered Voters,,,,,,2594
+Otsego,"Livingston Township, Precinct 1",Registered Voters,,,,,,2364
+Otsego,"Otsego Township, Precinct 1",Registered Voters,,,,,,2999
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Registered Voters,,,,,,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Registered Voters,,,,,,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Registered Voters,,,,,,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Registered Voters,,,,,,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Ballots Cast,,,,457,0,457
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Ballots Cast,,,,562,0,562
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Ballots Cast,,,,488,0,488
+Otsego,"Bagley Township, Precinct 1",Ballots Cast,,,,918,566,1484
+Otsego,"Bagley Township, Precinct 2",Ballots Cast,,,,840,476,1316
+Otsego,"Charlton Township, Precinct 1",Ballots Cast,,,,839,0,839
+Otsego,"Chester Township, Precinct 1",Ballots Cast,,,,709,0,709
+Otsego,"Corwith Township, Precinct 1",Ballots Cast,,,,868,0,868
+Otsego,"Dover Township, Precinct 1",Ballots Cast,,,,379,0,379
+Otsego,"Elmira Township, Precinct 1",Ballots Cast,,,,983,0,983
+Otsego,"Hayes Township, Precinct 1",Ballots Cast,,,,922,453,1375
+Otsego,"Livingston Township, Precinct 1",Ballots Cast,,,,1388,0,1388
+Otsego,"Otsego Township, Precinct 1",Ballots Cast,,,,931,826,1757
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Ballots Cast,,,,139,0,139
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Ballots Cast,,,,41,0,41
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Ballots Cast,,,,104,0,104
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Ballots Cast,,,,16,0,16
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,DEM,,116,0,116
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,DEM,,128,0,128
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,DEM,,73,0,73
+Otsego,"Bagley Township, Precinct 1",Straight Party,,DEM,,95,123,218
+Otsego,"Bagley Township, Precinct 2",Straight Party,,DEM,,125,110,235
+Otsego,"Charlton Township, Precinct 1",Straight Party,,DEM,,141,0,141
+Otsego,"Chester Township, Precinct 1",Straight Party,,DEM,,95,0,95
+Otsego,"Corwith Township, Precinct 1",Straight Party,,DEM,,152,0,152
+Otsego,"Dover Township, Precinct 1",Straight Party,,DEM,,35,0,35
+Otsego,"Elmira Township, Precinct 1",Straight Party,,DEM,,141,0,141
+Otsego,"Hayes Township, Precinct 1",Straight Party,,DEM,,102,129,231
+Otsego,"Livingston Township, Precinct 1",Straight Party,,DEM,,199,0,199
+Otsego,"Otsego Township, Precinct 1",Straight Party,,DEM,,107,202,309
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,DEM,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,DEM,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,DEM,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,DEM,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,REP,,159,0,159
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,REP,,184,0,184
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,REP,,184,0,184
+Otsego,"Bagley Township, Precinct 1",Straight Party,,REP,,378,164,542
+Otsego,"Bagley Township, Precinct 2",Straight Party,,REP,,344,131,475
+Otsego,"Charlton Township, Precinct 1",Straight Party,,REP,,313,0,313
+Otsego,"Chester Township, Precinct 1",Straight Party,,REP,,277,0,277
+Otsego,"Corwith Township, Precinct 1",Straight Party,,REP,,314,0,314
+Otsego,"Dover Township, Precinct 1",Straight Party,,REP,,142,0,142
+Otsego,"Elmira Township, Precinct 1",Straight Party,,REP,,377,0,377
+Otsego,"Hayes Township, Precinct 1",Straight Party,,REP,,379,112,491
+Otsego,"Livingston Township, Precinct 1",Straight Party,,REP,,465,0,465
+Otsego,"Otsego Township, Precinct 1",Straight Party,,REP,,356,231,587
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,REP,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,REP,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,REP,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,REP,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,LIB,,7,0,7
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,LIB,,4,0,4
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,LIB,,5,0,5
+Otsego,"Bagley Township, Precinct 1",Straight Party,,LIB,,3,1,4
+Otsego,"Bagley Township, Precinct 2",Straight Party,,LIB,,7,3,10
+Otsego,"Charlton Township, Precinct 1",Straight Party,,LIB,,1,0,1
+Otsego,"Chester Township, Precinct 1",Straight Party,,LIB,,4,0,4
+Otsego,"Corwith Township, Precinct 1",Straight Party,,LIB,,5,0,5
+Otsego,"Dover Township, Precinct 1",Straight Party,,LIB,,0,0,0
+Otsego,"Elmira Township, Precinct 1",Straight Party,,LIB,,5,0,5
+Otsego,"Hayes Township, Precinct 1",Straight Party,,LIB,,0,1,1
+Otsego,"Livingston Township, Precinct 1",Straight Party,,LIB,,5,0,5
+Otsego,"Otsego Township, Precinct 1",Straight Party,,LIB,,6,2,8
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,LIB,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,LIB,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,LIB,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,LIB,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,UST,,3,0,3
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,UST,,1,0,1
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,UST,,0,0,0
+Otsego,"Bagley Township, Precinct 1",Straight Party,,UST,,1,0,1
+Otsego,"Bagley Township, Precinct 2",Straight Party,,UST,,2,1,3
+Otsego,"Charlton Township, Precinct 1",Straight Party,,UST,,2,0,2
+Otsego,"Chester Township, Precinct 1",Straight Party,,UST,,1,0,1
+Otsego,"Corwith Township, Precinct 1",Straight Party,,UST,,3,0,3
+Otsego,"Dover Township, Precinct 1",Straight Party,,UST,,0,0,0
+Otsego,"Elmira Township, Precinct 1",Straight Party,,UST,,0,0,0
+Otsego,"Hayes Township, Precinct 1",Straight Party,,UST,,0,1,1
+Otsego,"Livingston Township, Precinct 1",Straight Party,,UST,,1,0,1
+Otsego,"Otsego Township, Precinct 1",Straight Party,,UST,,2,0,2
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,UST,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,UST,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,UST,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,UST,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,WCP,,3,0,3
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,WCP,,0,0,0
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,WCP,,2,0,2
+Otsego,"Bagley Township, Precinct 1",Straight Party,,WCP,,1,0,1
+Otsego,"Bagley Township, Precinct 2",Straight Party,,WCP,,4,1,5
+Otsego,"Charlton Township, Precinct 1",Straight Party,,WCP,,0,0,0
+Otsego,"Chester Township, Precinct 1",Straight Party,,WCP,,2,0,2
+Otsego,"Corwith Township, Precinct 1",Straight Party,,WCP,,6,0,6
+Otsego,"Dover Township, Precinct 1",Straight Party,,WCP,,2,0,2
+Otsego,"Elmira Township, Precinct 1",Straight Party,,WCP,,4,0,4
+Otsego,"Hayes Township, Precinct 1",Straight Party,,WCP,,5,0,5
+Otsego,"Livingston Township, Precinct 1",Straight Party,,WCP,,5,0,5
+Otsego,"Otsego Township, Precinct 1",Straight Party,,WCP,,5,0,5
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,WCP,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,WCP,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,WCP,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,WCP,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,GRN,,2,0,2
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,GRN,,0,0,0
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,GRN,,0,0,0
+Otsego,"Bagley Township, Precinct 1",Straight Party,,GRN,,3,0,3
+Otsego,"Bagley Township, Precinct 2",Straight Party,,GRN,,0,1,1
+Otsego,"Charlton Township, Precinct 1",Straight Party,,GRN,,1,0,1
+Otsego,"Chester Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Otsego,"Corwith Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Otsego,"Dover Township, Precinct 1",Straight Party,,GRN,,1,0,1
+Otsego,"Elmira Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Otsego,"Hayes Township, Precinct 1",Straight Party,,GRN,,3,0,3
+Otsego,"Livingston Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Otsego,"Otsego Township, Precinct 1",Straight Party,,GRN,,0,0,0
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,GRN,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,GRN,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,GRN,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,GRN,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Straight Party,,NLP,,0,0,0
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Straight Party,,NLP,,0,0,0
+Otsego,"Bagley Township, Precinct 1",Straight Party,,NLP,,1,0,1
+Otsego,"Bagley Township, Precinct 2",Straight Party,,NLP,,1,0,1
+Otsego,"Charlton Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"Chester Township, Precinct 1",Straight Party,,NLP,,1,0,1
+Otsego,"Corwith Township, Precinct 1",Straight Party,,NLP,,1,0,1
+Otsego,"Dover Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"Elmira Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"Hayes Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"Livingston Township, Precinct 1",Straight Party,,NLP,,0,0,0
+Otsego,"Otsego Township, Precinct 1",Straight Party,,NLP,,1,0,1
+Otsego,"Warner Township, Precinct 1 (Antrim County)",Straight Party,,NLP,,0,0,0
+Otsego,"Chandler Township, Precinct 1 (Charlevoix County)",Straight Party,,NLP,,0,0,0
+Otsego,"Hudson Township, Precinct 1 (Charlevoix County)",Straight Party,,NLP,,0,0,0
+Otsego,"Wilmot Township, Precinct 1 (Cheboygan County)",Straight Party,,NLP,,0,0,0
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,DEM,Gretchen Whitmer,222,0,222
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,DEM,Gretchen Whitmer,255,0,255
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,DEM,Gretchen Whitmer,177,0,177
+Otsego,"Bagley Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,280,272,552
+Otsego,"Bagley Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,247,262,509
+Otsego,"Charlton Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,311,0,311
+Otsego,"Chester Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,237,0,237
+Otsego,"Corwith Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,321,0,321
+Otsego,"Dover Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,110,0,110
+Otsego,"Elmira Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,353,0,353
+Otsego,"Hayes Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,224,258,482
+Otsego,"Livingston Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,529,0,529
+Otsego,"Otsego Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,307,453,760
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,REP,Tudor M. Dixon,215,0,215
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,REP,Tudor M. Dixon,293,0,293
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,REP,Tudor M. Dixon,294,0,294
+Otsego,"Bagley Township, Precinct 1",Governor,,REP,Tudor M. Dixon,612,274,886
+Otsego,"Bagley Township, Precinct 2",Governor,,REP,Tudor M. Dixon,562,203,765
+Otsego,"Charlton Township, Precinct 1",Governor,,REP,Tudor M. Dixon,507,0,507
+Otsego,"Chester Township, Precinct 1",Governor,,REP,Tudor M. Dixon,458,0,458
+Otsego,"Corwith Township, Precinct 1",Governor,,REP,Tudor M. Dixon,510,0,510
+Otsego,"Dover Township, Precinct 1",Governor,,REP,Tudor M. Dixon,263,0,263
+Otsego,"Elmira Township, Precinct 1",Governor,,REP,Tudor M. Dixon,599,0,599
+Otsego,"Hayes Township, Precinct 1",Governor,,REP,Tudor M. Dixon,668,181,849
+Otsego,"Livingston Township, Precinct 1",Governor,,REP,Tudor M. Dixon,822,0,822
+Otsego,"Otsego Township, Precinct 1",Governor,,REP,Tudor M. Dixon,600,361,961
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,LIB,Mary Buzuma,9,0,9
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,LIB,Mary Buzuma,5,0,5
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,LIB,Mary Buzuma,6,0,6
+Otsego,"Bagley Township, Precinct 1",Governor,,LIB,Mary Buzuma,7,7,14
+Otsego,"Bagley Township, Precinct 2",Governor,,LIB,Mary Buzuma,16,2,18
+Otsego,"Charlton Township, Precinct 1",Governor,,LIB,Mary Buzuma,6,0,6
+Otsego,"Chester Township, Precinct 1",Governor,,LIB,Mary Buzuma,6,0,6
+Otsego,"Corwith Township, Precinct 1",Governor,,LIB,Mary Buzuma,9,0,9
+Otsego,"Dover Township, Precinct 1",Governor,,LIB,Mary Buzuma,3,0,3
+Otsego,"Elmira Township, Precinct 1",Governor,,LIB,Mary Buzuma,12,0,12
+Otsego,"Hayes Township, Precinct 1",Governor,,LIB,Mary Buzuma,14,4,18
+Otsego,"Livingston Township, Precinct 1",Governor,,LIB,Mary Buzuma,11,0,11
+Otsego,"Otsego Township, Precinct 1",Governor,,LIB,Mary Buzuma,14,5,19
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,UST,Donna Brandenburg,3,0,3
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,UST,Donna Brandenburg,5,0,5
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,UST,Donna Brandenburg,2,0,2
+Otsego,"Bagley Township, Precinct 1",Governor,,UST,Donna Brandenburg,7,5,12
+Otsego,"Bagley Township, Precinct 2",Governor,,UST,Donna Brandenburg,10,1,11
+Otsego,"Charlton Township, Precinct 1",Governor,,UST,Donna Brandenburg,6,0,6
+Otsego,"Chester Township, Precinct 1",Governor,,UST,Donna Brandenburg,3,0,3
+Otsego,"Corwith Township, Precinct 1",Governor,,UST,Donna Brandenburg,9,0,9
+Otsego,"Dover Township, Precinct 1",Governor,,UST,Donna Brandenburg,0,0,0
+Otsego,"Elmira Township, Precinct 1",Governor,,UST,Donna Brandenburg,5,0,5
+Otsego,"Hayes Township, Precinct 1",Governor,,UST,Donna Brandenburg,5,2,7
+Otsego,"Livingston Township, Precinct 1",Governor,,UST,Donna Brandenburg,8,0,8
+Otsego,"Otsego Township, Precinct 1",Governor,,UST,Donna Brandenburg,2,0,2
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,GRN,Kevin Hogan,3,0,3
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,GRN,Kevin Hogan,1,0,1
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,GRN,Kevin Hogan,0,0,0
+Otsego,"Bagley Township, Precinct 1",Governor,,GRN,Kevin Hogan,2,1,3
+Otsego,"Bagley Township, Precinct 2",Governor,,GRN,Kevin Hogan,1,0,1
+Otsego,"Charlton Township, Precinct 1",Governor,,GRN,Kevin Hogan,3,0,3
+Otsego,"Chester Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,0,1
+Otsego,"Corwith Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,0,4
+Otsego,"Dover Township, Precinct 1",Governor,,GRN,Kevin Hogan,0,0,0
+Otsego,"Elmira Township, Precinct 1",Governor,,GRN,Kevin Hogan,5,0,5
+Otsego,"Hayes Township, Precinct 1",Governor,,GRN,Kevin Hogan,5,1,6
+Otsego,"Livingston Township, Precinct 1",Governor,,GRN,Kevin Hogan,4,0,4
+Otsego,"Otsego Township, Precinct 1",Governor,,GRN,Kevin Hogan,1,1,2
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Governor,,NLP,Daryl M. Simpson,4,0,4
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Governor,,NLP,Daryl M. Simpson,2,0,2
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Governor,,NLP,Daryl M. Simpson,0,0,0
+Otsego,"Bagley Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,3,0,3
+Otsego,"Bagley Township, Precinct 2",Governor,,NLP,Daryl M. Simpson,4,0,4
+Otsego,"Charlton Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Otsego,"Chester Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Otsego,"Corwith Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,5,0,5
+Otsego,"Dover Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Otsego,"Elmira Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Otsego,"Hayes Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Otsego,"Livingston Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,0,0,0
+Otsego,"Otsego Township, Precinct 1",Governor,,NLP,Daryl M. Simpson,1,0,1
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,224,0,224
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,246,0,246
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Secretary of State,,DEM,Jocelyn Benson,183,0,183
+Otsego,"Bagley Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,280,266,546
+Otsego,"Bagley Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,240,251,491
+Otsego,"Charlton Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,290,0,290
+Otsego,"Chester Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,234,0,234
+Otsego,"Corwith Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,321,0,321
+Otsego,"Dover Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,114,0,114
+Otsego,"Elmira Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,356,0,356
+Otsego,"Hayes Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,219,255,474
+Otsego,"Livingston Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,514,0,514
+Otsego,"Otsego Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,295,447,742
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,211,0,211
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,286,0,286
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Secretary of State,,REP,Kristina Elaine Karamo,289,0,289
+Otsego,"Bagley Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,597,282,879
+Otsego,"Bagley Township, Precinct 2",Secretary of State,,REP,Kristina Elaine Karamo,566,216,782
+Otsego,"Charlton Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,522,0,522
+Otsego,"Chester Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,440,0,440
+Otsego,"Corwith Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,507,0,507
+Otsego,"Dover Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,249,0,249
+Otsego,"Elmira Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,592,0,592
+Otsego,"Hayes Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,660,185,845
+Otsego,"Livingston Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,815,0,815
+Otsego,"Otsego Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,597,360,957
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9,0,9
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,9,0,9
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Secretary of State,,LIB,Gregory Scott Stempfle,3,0,3
+Otsego,"Bagley Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7,8,15
+Otsego,"Bagley Township, Precinct 2",Secretary of State,,LIB,Gregory Scott Stempfle,18,4,22
+Otsego,"Charlton Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8,0,8
+Otsego,"Chester Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,10,0,10
+Otsego,"Corwith Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,12,0,12
+Otsego,"Dover Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,7,0,7
+Otsego,"Elmira Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,9,0,9
+Otsego,"Hayes Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,14,2,16
+Otsego,"Livingston Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,8,0,8
+Otsego,"Otsego Township, Precinct 1",Secretary of State,,LIB,Gregory Scott Stempfle,18,6,24
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6,0,6
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6,0,6
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Secretary of State,,UST,Christine C. Schwartz,3,0,3
+Otsego,"Bagley Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,13,1,14
+Otsego,"Bagley Township, Precinct 2",Secretary of State,,UST,Christine C. Schwartz,6,2,8
+Otsego,"Charlton Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5,0,5
+Otsego,"Chester Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,3,0,3
+Otsego,"Corwith Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,13,0,13
+Otsego,"Dover Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0,0,0
+Otsego,"Elmira Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,6,0,6
+Otsego,"Hayes Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,5,2,7
+Otsego,"Livingston Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,12,0,12
+Otsego,"Otsego Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,8,2,10
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Otsego,"Bagley Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,0,4
+Otsego,"Bagley Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,2,4
+Otsego,"Charlton Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",4,0,4
+Otsego,"Chester Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",3,0,3
+Otsego,"Corwith Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,0,6
+Otsego,"Dover Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,0,2
+Otsego,"Elmira Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",6,0,6
+Otsego,"Hayes Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",10,0,10
+Otsego,"Livingston Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",5,0,5
+Otsego,"Otsego Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson, Jr.",2,3,5
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Attorney General,,DEM,Dana Nessel,209,0,209
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Attorney General,,DEM,Dana Nessel,239,0,239
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Attorney General,,DEM,Dana Nessel,171,0,171
+Otsego,"Bagley Township, Precinct 1",Attorney General,,DEM,Dana Nessel,257,255,512
+Otsego,"Bagley Township, Precinct 2",Attorney General,,DEM,Dana Nessel,239,238,477
+Otsego,"Charlton Township, Precinct 1",Attorney General,,DEM,Dana Nessel,286,0,286
+Otsego,"Chester Township, Precinct 1",Attorney General,,DEM,Dana Nessel,223,0,223
+Otsego,"Corwith Township, Precinct 1",Attorney General,,DEM,Dana Nessel,300,0,300
+Otsego,"Dover Township, Precinct 1",Attorney General,,DEM,Dana Nessel,100,0,100
+Otsego,"Elmira Township, Precinct 1",Attorney General,,DEM,Dana Nessel,342,0,342
+Otsego,"Hayes Township, Precinct 1",Attorney General,,DEM,Dana Nessel,217,248,465
+Otsego,"Livingston Township, Precinct 1",Attorney General,,DEM,Dana Nessel,480,0,480
+Otsego,"Otsego Township, Precinct 1",Attorney General,,DEM,Dana Nessel,284,424,708
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Attorney General,,REP,Matthew DePerno,215,0,215
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Attorney General,,REP,Matthew DePerno,289,0,289
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Attorney General,,REP,Matthew DePerno,290,0,290
+Otsego,"Bagley Township, Precinct 1",Attorney General,,REP,Matthew DePerno,612,291,903
+Otsego,"Bagley Township, Precinct 2",Attorney General,,REP,Matthew DePerno,563,225,788
+Otsego,"Charlton Township, Precinct 1",Attorney General,,REP,Matthew DePerno,523,0,523
+Otsego,"Chester Township, Precinct 1",Attorney General,,REP,Matthew DePerno,451,0,451
+Otsego,"Corwith Township, Precinct 1",Attorney General,,REP,Matthew DePerno,520,0,520
+Otsego,"Dover Township, Precinct 1",Attorney General,,REP,Matthew DePerno,260,0,260
+Otsego,"Elmira Township, Precinct 1",Attorney General,,REP,Matthew DePerno,601,0,601
+Otsego,"Hayes Township, Precinct 1",Attorney General,,REP,Matthew DePerno,654,185,839
+Otsego,"Livingston Township, Precinct 1",Attorney General,,REP,Matthew DePerno,835,0,835
+Otsego,"Otsego Township, Precinct 1",Attorney General,,REP,Matthew DePerno,594,374,968
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",19,0,19
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",12,0,12
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh, Jr.",9,0,9
+Otsego,"Bagley Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",20,7,27
+Otsego,"Bagley Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh, Jr.",19,6,25
+Otsego,"Charlton Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",9,0,9
+Otsego,"Chester Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",16,0,16
+Otsego,"Corwith Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",15,0,15
+Otsego,"Dover Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",7,0,7
+Otsego,"Elmira Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",11,0,11
+Otsego,"Hayes Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",24,5,29
+Otsego,"Livingston Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",13,0,13
+Otsego,"Otsego Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh, Jr.",23,9,32
+Otsego,"City of Gaylord, Ward 1, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,6,0,6
+Otsego,"City of Gaylord, Ward 2, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,8,0,8
+Otsego,"City of Gaylord, Ward 3, Precinct 3",Attorney General,,UST,Gerald T. Van Sickle,2,0,2
+Otsego,"Bagley Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10,2,12
+Otsego,"Bagley Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,7,2,9
+Otsego,"Charlton Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3,0,3
+Otsego,"Chester Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2,0,2
+Otsego,"Corwith Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,17,0,17
+Otsego,"Dover Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,0,0,0
+Otsego,"Elmira Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,8,0,8
+Otsego,"Hayes Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,7,5,12
+Otsego,"Livingston Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,22,0,22
+Otsego,"Otsego Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,12,2,14
+Otsego,"City of Gaylord, Ward 1, Precinct 1",U.S. House,1,DEM,Bob Lorinser,173,0,173
+Otsego,"City of Gaylord, Ward 2, Precinct 2",U.S. House,1,DEM,Bob Lorinser,198,0,198
+Otsego,"City of Gaylord, Ward 3, Precinct 3",U.S. House,1,DEM,Bob Lorinser,137,0,137
+Otsego,"Bagley Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,207,231,438
+Otsego,"Bagley Township, Precinct 2",U.S. House,1,DEM,Bob Lorinser,199,209,408
+Otsego,"Charlton Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,226,0,226
+Otsego,"Chester Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,175,0,175
+Otsego,"Corwith Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,254,0,254
+Otsego,"Dover Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,79,0,79
+Otsego,"Elmira Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,277,0,277
+Otsego,"Hayes Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,156,214,370
+Otsego,"Livingston Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,414,0,414
+Otsego,"Otsego Township, Precinct 1",U.S. House,1,DEM,Bob Lorinser,220,383,603
+Otsego,"City of Gaylord, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,248,0,248
+Otsego,"City of Gaylord, Ward 2, Precinct 2",U.S. House,1,REP,Jack Bergman,333,0,333
+Otsego,"City of Gaylord, Ward 3, Precinct 3",U.S. House,1,REP,Jack Bergman,324,0,324
+Otsego,"Bagley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,668,313,981
+Otsego,"Bagley Township, Precinct 2",U.S. House,1,REP,Jack Bergman,597,251,848
+Otsego,"Charlton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,583,0,583
+Otsego,"Chester Township, Precinct 1",U.S. House,1,REP,Jack Bergman,500,0,500
+Otsego,"Corwith Township, Precinct 1",U.S. House,1,REP,Jack Bergman,552,0,552
+Otsego,"Dover Township, Precinct 1",U.S. House,1,REP,Jack Bergman,279,0,279
+Otsego,"Elmira Township, Precinct 1",U.S. House,1,REP,Jack Bergman,662,0,662
+Otsego,"Hayes Township, Precinct 1",U.S. House,1,REP,Jack Bergman,722,211,933
+Otsego,"Livingston Township, Precinct 1",U.S. House,1,REP,Jack Bergman,904,0,904
+Otsego,"Otsego Township, Precinct 1",U.S. House,1,REP,Jack Bergman,665,427,1092
+Otsego,"City of Gaylord, Ward 1, Precinct 1",U.S. House,1,LIB,Andrew Gale,16,0,16
+Otsego,"City of Gaylord, Ward 2, Precinct 2",U.S. House,1,LIB,Andrew Gale,7,0,7
+Otsego,"City of Gaylord, Ward 3, Precinct 3",U.S. House,1,LIB,Andrew Gale,8,0,8
+Otsego,"Bagley Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,7,14
+Otsego,"Bagley Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,15,5,20
+Otsego,"Charlton Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,0,5
+Otsego,"Chester Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10,0,10
+Otsego,"Corwith Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,15,0,15
+Otsego,"Dover Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,2
+Otsego,"Elmira Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,12,0,12
+Otsego,"Hayes Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,9,5,14
+Otsego,"Livingston Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,17,0,17
+Otsego,"Otsego Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,13,3,16
+Otsego,"City of Gaylord, Ward 1, Precinct 1",U.S. House,1,WCP,Liz Hakola,10,0,10
+Otsego,"City of Gaylord, Ward 2, Precinct 2",U.S. House,1,WCP,Liz Hakola,11,0,11
+Otsego,"City of Gaylord, Ward 3, Precinct 3",U.S. House,1,WCP,Liz Hakola,9,0,9
+Otsego,"Bagley Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,15,6,21
+Otsego,"Bagley Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,17,4,21
+Otsego,"Charlton Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9,0,9
+Otsego,"Chester Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
+Otsego,"Corwith Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,28,0,28
+Otsego,"Dover Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
+Otsego,"Elmira Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,15,0,15
+Otsego,"Hayes Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10,8,18
+Otsego,"Livingston Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,19,0,19
+Otsego,"Otsego Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,19,2,21
+Otsego,"City of Gaylord, Ward 1, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,202,0,202
+Otsego,"City of Gaylord, Ward 2, Precinct 2",State Senate,36,DEM,Joel A. Sheltrown,220,0,220
+Otsego,"City of Gaylord, Ward 3, Precinct 3",State Senate,36,DEM,Joel A. Sheltrown,153,0,153
+Otsego,"Bagley Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,227,238,465
+Otsego,"Bagley Township, Precinct 2",State Senate,36,DEM,Joel A. Sheltrown,216,219,435
+Otsego,"Charlton Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,244,0,244
+Otsego,"Chester Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,186,0,186
+Otsego,"Corwith Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,275,0,275
+Otsego,"Dover Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,88,0,88
+Otsego,"Elmira Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,304,0,304
+Otsego,"Hayes Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,173,227,400
+Otsego,"Livingston Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,442,0,442
+Otsego,"Otsego Township, Precinct 1",State Senate,36,DEM,Joel A. Sheltrown,247,398,645
+Otsego,"City of Gaylord, Ward 1, Precinct 1",State Senate,36,REP,Michele Hoitenga,239,0,239
+Otsego,"City of Gaylord, Ward 2, Precinct 2",State Senate,36,REP,Michele Hoitenga,322,0,322
+Otsego,"City of Gaylord, Ward 3, Precinct 3",State Senate,36,REP,Michele Hoitenga,310,0,310
+Otsego,"Bagley Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,658,306,964
+Otsego,"Bagley Township, Precinct 2",State Senate,36,REP,Michele Hoitenga,601,238,839
+Otsego,"Charlton Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,563,0,563
+Otsego,"Chester Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,482,0,482
+Otsego,"Corwith Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,549,0,549
+Otsego,"Dover Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,271,0,271
+Otsego,"Elmira Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,649,0,649
+Otsego,"Hayes Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,705,204,909
+Otsego,"Livingston Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,891,0,891
+Otsego,"Otsego Township, Precinct 1",State Senate,36,REP,Michele Hoitenga,657,402,1059
+Otsego,"City of Gaylord, Ward 1, Precinct 1",State House,105,DEM,Adam J. Wojdan,187,0,187
+Otsego,"City of Gaylord, Ward 2, Precinct 2",State House,105,DEM,Adam J. Wojdan,209,0,209
+Otsego,"City of Gaylord, Ward 3, Precinct 3",State House,105,DEM,Adam J. Wojdan,143,0,143
+Otsego,"Bagley Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,226,228,454
+Otsego,"Bagley Township, Precinct 2",State House,105,DEM,Adam J. Wojdan,210,226,436
+Otsego,"Charlton Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,243,0,243
+Otsego,"Chester Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,176,0,176
+Otsego,"Corwith Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,275,0,275
+Otsego,"Dover Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,84,0,84
+Otsego,"Elmira Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,291,0,291
+Otsego,"Hayes Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,175,222,397
+Otsego,"Livingston Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,418,0,418
+Otsego,"Otsego Township, Precinct 1",State House,105,DEM,Adam J. Wojdan,234,378,612
+Otsego,"City of Gaylord, Ward 1, Precinct 1",State House,105,REP,Ken Borton,249,0,249
+Otsego,"City of Gaylord, Ward 2, Precinct 2",State House,105,REP,Ken Borton,336,0,336
+Otsego,"City of Gaylord, Ward 3, Precinct 3",State House,105,REP,Ken Borton,323,0,323
+Otsego,"Bagley Township, Precinct 1",State House,105,REP,Ken Borton,665,316,981
+Otsego,"Bagley Township, Precinct 2",State House,105,REP,Ken Borton,602,236,838
+Otsego,"Charlton Township, Precinct 1",State House,105,REP,Ken Borton,570,0,570
+Otsego,"Chester Township, Precinct 1",State House,105,REP,Ken Borton,492,0,492
+Otsego,"Corwith Township, Precinct 1",State House,105,REP,Ken Borton,554,0,554
+Otsego,"Dover Township, Precinct 1",State House,105,REP,Ken Borton,273,0,273
+Otsego,"Elmira Township, Precinct 1",State House,105,REP,Ken Borton,663,0,663
+Otsego,"Hayes Township, Precinct 1",State House,105,REP,Ken Borton,708,216,924
+Otsego,"Livingston Township, Precinct 1",State House,105,REP,Ken Borton,919,0,919
+Otsego,"Otsego Township, Precinct 1",State House,105,REP,Ken Borton,663,429,1092

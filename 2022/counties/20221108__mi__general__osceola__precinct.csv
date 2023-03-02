@@ -449,60 +449,60 @@ Osceola,"Sherman Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,7
 Osceola,"Sylvan Township, Precinct 1",U.S. House,2,LIB,Nathan Hewer,9
 Osceola,"City of Evart, Precinct 1",U.S. House,2,LIB,Nathan Hewer,19
 Osceola,"City of Reed City, Precinct 1",U.S. House,2,LIB,Nathan Hewer,28
-Osceola,"Burdell Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,152
-Osceola,"Cedar Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,69
-Osceola,"Evart Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,182
-Osceola,"Hartwick Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,65
-Osceola,"Hersey Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,242
-Osceola,"Highland Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,102
-Osceola,"Leroy Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,136
-Osceola,"Lincoln Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,149
-Osceola,"Marion Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,161
-Osceola,"Middle Branch Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,90
-Osceola,"Orient Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,94
-Osceola,"Osceola Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,93
-Osceola,"Richmond Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,230
-Osceola,"Rose Lake Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,172
-Osceola,"Sherman Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,106
-Osceola,"Sylvan Township, Precinct 1",State Senate ,34,DEM,Christine Gerace,96
-Osceola,"City of Evart, Precinct 1",State Senate ,34,DEM,Christine Gerace,152
-Osceola,"City of Reed City, Precinct 1",State Senate ,34,DEM,Christine Gerace,284
-Osceola,"Burdell Township, Precinct 1",State Senate ,34,REP,Roger Hauck,476
-Osceola,"Cedar Township, Precinct 1",State Senate ,34,REP,Roger Hauck,203
-Osceola,"Evart Township, Precinct 1",State Senate ,34,REP,Roger Hauck,436
-Osceola,"Hartwick Township, Precinct 1",State Senate ,34,REP,Roger Hauck,194
-Osceola,"Hersey Township, Precinct 1",State Senate ,34,REP,Roger Hauck,625
-Osceola,"Highland Township, Precinct 1",State Senate ,34,REP,Roger Hauck,396
-Osceola,"Leroy Township, Precinct 1",State Senate ,34,REP,Roger Hauck,411
-Osceola,"Lincoln Township, Precinct 1",State Senate ,34,REP,Roger Hauck,520
-Osceola,"Marion Township, Precinct 1",State Senate ,34,REP,Roger Hauck,475
-Osceola,"Middle Branch Township, Precinct 1",State Senate ,34,REP,Roger Hauck,288
-Osceola,"Orient Township, Precinct 1",State Senate ,34,REP,Roger Hauck,276
-Osceola,"Osceola Township, Precinct 1",State Senate ,34,REP,Roger Hauck,363
-Osceola,"Richmond Township, Precinct 1",State Senate ,34,REP,Roger Hauck,611
-Osceola,"Rose Lake Township, Precinct 1",State Senate ,34,REP,Roger Hauck,500
-Osceola,"Sherman Township, Precinct 1",State Senate ,34,REP,Roger Hauck,397
-Osceola,"Sylvan Township, Precinct 1",State Senate ,34,REP,Roger Hauck,305
-Osceola,"City of Evart, Precinct 1",State Senate ,34,REP,Roger Hauck,346
-Osceola,"City of Reed City, Precinct 1",State Senate ,34,REP,Roger Hauck,516
-Osceola,"Burdell Township, Precinct 1",State Senate ,34,UST,Becky McDonald,14
-Osceola,"Cedar Township, Precinct 1",State Senate ,34,UST,Becky McDonald,3
-Osceola,"Evart Township, Precinct 1",State Senate ,34,UST,Becky McDonald,15
-Osceola,"Hartwick Township, Precinct 1",State Senate ,34,UST,Becky McDonald,7
-Osceola,"Hersey Township, Precinct 1",State Senate ,34,UST,Becky McDonald,26
-Osceola,"Highland Township, Precinct 1",State Senate ,34,UST,Becky McDonald,6
-Osceola,"Leroy Township, Precinct 1",State Senate ,34,UST,Becky McDonald,13
-Osceola,"Lincoln Township, Precinct 1",State Senate ,34,UST,Becky McDonald,18
-Osceola,"Marion Township, Precinct 1",State Senate ,34,UST,Becky McDonald,31
-Osceola,"Middle Branch Township, Precinct 1",State Senate ,34,UST,Becky McDonald,9
-Osceola,"Orient Township, Precinct 1",State Senate ,34,UST,Becky McDonald,5
-Osceola,"Osceola Township, Precinct 1",State Senate ,34,UST,Becky McDonald,7
-Osceola,"Richmond Township, Precinct 1",State Senate ,34,UST,Becky McDonald,15
-Osceola,"Rose Lake Township, Precinct 1",State Senate ,34,UST,Becky McDonald,15
-Osceola,"Sherman Township, Precinct 1",State Senate ,34,UST,Becky McDonald,6
-Osceola,"Sylvan Township, Precinct 1",State Senate ,34,UST,Becky McDonald,9
-Osceola,"City of Evart, Precinct 1",State Senate ,34,UST,Becky McDonald,17
-Osceola,"City of Reed City, Precinct 1",State Senate ,34,UST,Becky McDonald,21
+Osceola,"Burdell Township, Precinct 1",State Senate,34,DEM,Christine Gerace,152
+Osceola,"Cedar Township, Precinct 1",State Senate,34,DEM,Christine Gerace,69
+Osceola,"Evart Township, Precinct 1",State Senate,34,DEM,Christine Gerace,182
+Osceola,"Hartwick Township, Precinct 1",State Senate,34,DEM,Christine Gerace,65
+Osceola,"Hersey Township, Precinct 1",State Senate,34,DEM,Christine Gerace,242
+Osceola,"Highland Township, Precinct 1",State Senate,34,DEM,Christine Gerace,102
+Osceola,"Leroy Township, Precinct 1",State Senate,34,DEM,Christine Gerace,136
+Osceola,"Lincoln Township, Precinct 1",State Senate,34,DEM,Christine Gerace,149
+Osceola,"Marion Township, Precinct 1",State Senate,34,DEM,Christine Gerace,161
+Osceola,"Middle Branch Township, Precinct 1",State Senate,34,DEM,Christine Gerace,90
+Osceola,"Orient Township, Precinct 1",State Senate,34,DEM,Christine Gerace,94
+Osceola,"Osceola Township, Precinct 1",State Senate,34,DEM,Christine Gerace,93
+Osceola,"Richmond Township, Precinct 1",State Senate,34,DEM,Christine Gerace,230
+Osceola,"Rose Lake Township, Precinct 1",State Senate,34,DEM,Christine Gerace,172
+Osceola,"Sherman Township, Precinct 1",State Senate,34,DEM,Christine Gerace,106
+Osceola,"Sylvan Township, Precinct 1",State Senate,34,DEM,Christine Gerace,96
+Osceola,"City of Evart, Precinct 1",State Senate,34,DEM,Christine Gerace,152
+Osceola,"City of Reed City, Precinct 1",State Senate,34,DEM,Christine Gerace,284
+Osceola,"Burdell Township, Precinct 1",State Senate,34,REP,Roger Hauck,476
+Osceola,"Cedar Township, Precinct 1",State Senate,34,REP,Roger Hauck,203
+Osceola,"Evart Township, Precinct 1",State Senate,34,REP,Roger Hauck,436
+Osceola,"Hartwick Township, Precinct 1",State Senate,34,REP,Roger Hauck,194
+Osceola,"Hersey Township, Precinct 1",State Senate,34,REP,Roger Hauck,625
+Osceola,"Highland Township, Precinct 1",State Senate,34,REP,Roger Hauck,396
+Osceola,"Leroy Township, Precinct 1",State Senate,34,REP,Roger Hauck,411
+Osceola,"Lincoln Township, Precinct 1",State Senate,34,REP,Roger Hauck,520
+Osceola,"Marion Township, Precinct 1",State Senate,34,REP,Roger Hauck,475
+Osceola,"Middle Branch Township, Precinct 1",State Senate,34,REP,Roger Hauck,288
+Osceola,"Orient Township, Precinct 1",State Senate,34,REP,Roger Hauck,276
+Osceola,"Osceola Township, Precinct 1",State Senate,34,REP,Roger Hauck,363
+Osceola,"Richmond Township, Precinct 1",State Senate,34,REP,Roger Hauck,611
+Osceola,"Rose Lake Township, Precinct 1",State Senate,34,REP,Roger Hauck,500
+Osceola,"Sherman Township, Precinct 1",State Senate,34,REP,Roger Hauck,397
+Osceola,"Sylvan Township, Precinct 1",State Senate,34,REP,Roger Hauck,305
+Osceola,"City of Evart, Precinct 1",State Senate,34,REP,Roger Hauck,346
+Osceola,"City of Reed City, Precinct 1",State Senate,34,REP,Roger Hauck,516
+Osceola,"Burdell Township, Precinct 1",State Senate,34,UST,Becky McDonald,14
+Osceola,"Cedar Township, Precinct 1",State Senate,34,UST,Becky McDonald,3
+Osceola,"Evart Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Osceola,"Hartwick Township, Precinct 1",State Senate,34,UST,Becky McDonald,7
+Osceola,"Hersey Township, Precinct 1",State Senate,34,UST,Becky McDonald,26
+Osceola,"Highland Township, Precinct 1",State Senate,34,UST,Becky McDonald,6
+Osceola,"Leroy Township, Precinct 1",State Senate,34,UST,Becky McDonald,13
+Osceola,"Lincoln Township, Precinct 1",State Senate,34,UST,Becky McDonald,18
+Osceola,"Marion Township, Precinct 1",State Senate,34,UST,Becky McDonald,31
+Osceola,"Middle Branch Township, Precinct 1",State Senate,34,UST,Becky McDonald,9
+Osceola,"Orient Township, Precinct 1",State Senate,34,UST,Becky McDonald,5
+Osceola,"Osceola Township, Precinct 1",State Senate,34,UST,Becky McDonald,7
+Osceola,"Richmond Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Osceola,"Rose Lake Township, Precinct 1",State Senate,34,UST,Becky McDonald,15
+Osceola,"Sherman Township, Precinct 1",State Senate,34,UST,Becky McDonald,6
+Osceola,"Sylvan Township, Precinct 1",State Senate,34,UST,Becky McDonald,9
+Osceola,"City of Evart, Precinct 1",State Senate,34,UST,Becky McDonald,17
+Osceola,"City of Reed City, Precinct 1",State Senate,34,UST,Becky McDonald,21
 Osceola,"Burdell Township, Precinct 1",State House,100,DEM,Nate Bailey,151
 Osceola,"Cedar Township, Precinct 1",State House,100,DEM,Nate Bailey,68
 Osceola,"Evart Township, Precinct 1",State House,100,DEM,Nate Bailey,191

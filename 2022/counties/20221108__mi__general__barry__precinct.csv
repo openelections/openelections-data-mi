@@ -1,4 +1,4 @@
-County,Precinct,office,district,candidate,party,election_day,absentee,votes
+county,precinct,office,district,candidate,party,election_day,absentee,votes
 Barry,"City of Hastings, Precinct 1H",Straight Party,,,DEM ,88,136,224
 Barry,"City of Hastings, Precinct 2H",Straight Party,,,DEM ,101,71,172
 Barry,"City of Hastings, Precinct 3H",Straight Party,,,DEM ,64,78,142

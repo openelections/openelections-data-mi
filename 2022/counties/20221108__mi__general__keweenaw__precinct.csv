@@ -101,24 +101,24 @@ Keweenaw,GRANT,U.S. House,1,WCP,Louis Palus,1
 Keweenaw,HOUGHTON,U.S. House,1,WCP,Louis Palus,0
 Keweenaw,SHERMAN,U.S. House,1,WCP,Louis Palus,1
 Keweenaw,TOTALS,U.S. House,1,WCP,Louis Palus,17
-Keweenaw,ALLOUEZ,State Senate,,DEM,John Braamse,258
-Keweenaw,EAGLE HARBOR,State Senate,,DEM,John Braamse,106
-Keweenaw,GRANT,State Senate,,DEM,John Braamse,105
-Keweenaw,HOUGHTON,State Senate,,DEM,John Braamse,23
-Keweenaw,SHERMAN,State Senate,,DEM,John Braamse,35
-Keweenaw,TOTALS,State Senate,,DEM,John Braamse,527
-Keweenaw,ALLOUEZ,State Senate,,REP,Edward McBroom,554
-Keweenaw,EAGLE HARBOR,State Senate,,REP,Edward McBroom,111
-Keweenaw,GRANT,State Senate,,REP,Edward McBroom,98
-Keweenaw,HOUGHTON,State Senate,,REP,Edward McBroom,39
-Keweenaw,SHERMAN,State Senate,,REP,Edward McBroom,24
-Keweenaw,TOTALS,State Senate,,REP,Edward McBroom,826
-Keweenaw,ALLOUEZ,State Senate,,GRN,Wade Paul Roberts,10
-Keweenaw,EAGLE HARBOR,State Senate,,GRN,Wade Paul Roberts,2
-Keweenaw,GRANT,State Senate,,GRN,Wade Paul Roberts,2
-Keweenaw,HOUGHTON,State Senate,,GRN,Wade Paul Roberts,1
-Keweenaw,SHERMAN,State Senate,,GRN,Wade Paul Roberts,2
-Keweenaw,TOTALS,State Senate,,GRN,Wade Paul Roberts,17
+Keweenaw,ALLOUEZ,State Senate,38,DEM,John Braamse,258
+Keweenaw,EAGLE HARBOR,State Senate,38,DEM,John Braamse,106
+Keweenaw,GRANT,State Senate,38,DEM,John Braamse,105
+Keweenaw,HOUGHTON,State Senate,38,DEM,John Braamse,23
+Keweenaw,SHERMAN,State Senate,38,DEM,John Braamse,35
+Keweenaw,TOTALS,State Senate,38,DEM,John Braamse,527
+Keweenaw,ALLOUEZ,State Senate,38,REP,Edward McBroom,554
+Keweenaw,EAGLE HARBOR,State Senate,38,REP,Edward McBroom,111
+Keweenaw,GRANT,State Senate,38,REP,Edward McBroom,98
+Keweenaw,HOUGHTON,State Senate,38,REP,Edward McBroom,39
+Keweenaw,SHERMAN,State Senate,38,REP,Edward McBroom,24
+Keweenaw,TOTALS,State Senate,38,REP,Edward McBroom,826
+Keweenaw,ALLOUEZ,State Senate,38,GRN,Wade Paul Roberts,10
+Keweenaw,EAGLE HARBOR,State Senate,38,GRN,Wade Paul Roberts,2
+Keweenaw,GRANT,State Senate,38,GRN,Wade Paul Roberts,2
+Keweenaw,HOUGHTON,State Senate,38,GRN,Wade Paul Roberts,1
+Keweenaw,SHERMAN,State Senate,38,GRN,Wade Paul Roberts,2
+Keweenaw,TOTALS,State Senate,38,GRN,Wade Paul Roberts,17
 Keweenaw,ALLOUEZ,State House,110,DEM,Casey VerBerkmoes,282
 Keweenaw,EAGLE HARBOR,State House,110,DEM,Casey VerBerkmoes,108
 Keweenaw,GRANT,State House,110,DEM,Casey VerBerkmoes,117

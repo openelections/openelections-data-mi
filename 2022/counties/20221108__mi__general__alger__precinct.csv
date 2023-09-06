@@ -189,16 +189,16 @@ Alger,"Munising Township, Precinct 1",Secretary of State,,UST,Christine C. Schwa
 Alger,"Onota Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2
 Alger,"Rock River Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,3
 Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Secretary of State,,UST,Christine C. Schwartz,0
-Alger,"City of Munising, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Alger,"AuTrain Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Alger,"Burt Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",1
-Alger,"Grand Island Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Alger,"Limestone Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",1
-Alger,"Mathias Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",2
-Alger,"Munising Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Alger,"Onota Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Alger,"Rock River Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
+Alger,"City of Munising, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alger,"AuTrain Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alger,"Burt Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Alger,"Grand Island Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alger,"Limestone Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Alger,"Mathias Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Alger,"Munising Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Alger,"Onota Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Alger,"Rock River Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
 Alger,"City of Munising, Precinct 1",Attorney General,,DEM,Dana Nessel,486
 Alger,"AuTrain Township, Precinct 1",Attorney General,,DEM,Dana Nessel,234
 Alger,"Burt Township, Precinct 1",Attorney General,,DEM,Dana Nessel,128
@@ -219,16 +219,16 @@ Alger,"Munising Township, Precinct 1",Attorney General,,REP,Matthew DePerno,640
 Alger,"Onota Township, Precinct 1",Attorney General,,REP,Matthew DePerno,136
 Alger,"Rock River Township, Precinct 1",Attorney General,,REP,Matthew DePerno,310
 Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Attorney General,,REP,Matthew DePerno,0
-Alger,"City of Munising, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",3
-Alger,"AuTrain Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",2
-Alger,"Burt Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",6
-Alger,"Grand Island Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",0
-Alger,"Limestone Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",7
-Alger,"Mathias Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",3
-Alger,"Munising Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",14
-Alger,"Onota Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",4
-Alger,"Rock River Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",12
-Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Attorney General,,LIB,"Joseph W. McHugh Jr.",0
+Alger,"City of Munising, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Alger,"AuTrain Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,2
+Alger,"Burt Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,6
+Alger,"Grand Island Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,0
+Alger,"Limestone Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,7
+Alger,"Mathias Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,3
+Alger,"Munising Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,14
+Alger,"Onota Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4
+Alger,"Rock River Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,12
+Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",Attorney General,,LIB,Joseph W. McHugh Jr.,0
 Alger,"City of Munising, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,10
 Alger,"AuTrain Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
 Alger,"Burt Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2
@@ -329,3 +329,21 @@ Alger,"Munising Township, Precinct 1",State House,109,REP,Melody Wagner,670
 Alger,"Onota Township, Precinct 1",State House,109,REP,Melody Wagner,144
 Alger,"Rock River Township, Precinct 1",State House,109,REP,Melody Wagner,337
 Alger,"Hiawatha Township, Precinct 1 (Schoolcraft County)",State House,109,REP,Melody Wagner,0
+Alger,"City of Munising, Precinct 1",Proposal 22-3,,,Yes,535
+Alger,"AuTrain Township, Precinct 1",Proposal 22-3,,,Yes,285
+Alger,"Burt Township, Precinct 1",Proposal 22-3,,,Yes,165
+Alger,"Grand Island Township, Precinct 1",Proposal 22-3,,,Yes,16
+Alger,"Limestone Township, Precinct 1",Proposal 22-3,,,Yes,108
+Alger,"Mathias Township, Precinct 1",Proposal 22-3,,,Yes,125
+Alger,"Munising Township, Precinct 1",Proposal 22-3,,,Yes,451
+Alger,"Onota Township, Precinct 1",Proposal 22-3,,,Yes,146
+Alger,"Rock River Township, Precinct 1",Proposal 22-3,,,Yes,334
+Alger,"City of Munising, Precinct 1",Proposal 22-3,,,No,341
+Alger,"AuTrain Township, Precinct 1",Proposal 22-3,,,No,337
+Alger,"Burt Township, Precinct 1",Proposal 22-3,,,No,150
+Alger,"Grand Island Township, Precinct 1",Proposal 22-3,,,No,8
+Alger,"Limestone Township, Precinct 1",Proposal 22-3,,,No,106
+Alger,"Mathias Township, Precinct 1",Proposal 22-3,,,No,121
+Alger,"Munising Township, Precinct 1",Proposal 22-3,,,No,574
+Alger,"Onota Township, Precinct 1",Proposal 22-3,,,No,128
+Alger,"Rock River Township, Precinct 1",Proposal 22-3,,,No,300

@@ -187,14 +187,14 @@ Baraga,"Baraga Township, Precinct 4",Secretary of State,,UST,Christine C. Schwar
 Baraga,"Covington Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0,0,0
 Baraga,"L'Anse Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,10,4,14
 Baraga,"Spurr Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,0,0,0
-Baraga,"Arvon Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",1,0,1
-Baraga,"Baraga Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4,0,4
-Baraga,"Baraga Township, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson Jr.",2,0,2
-Baraga,"Baraga Township, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0,0,0
-Baraga,"Baraga Township, Precinct 4",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0,0,0
-Baraga,"Covington Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0,0,0
-Baraga,"L'Anse Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3,1,4
-Baraga,"Spurr Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0,0,0
+Baraga,"Arvon Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1,0,1
+Baraga,"Baraga Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4,0,4
+Baraga,"Baraga Township, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,2,0,2
+Baraga,"Baraga Township, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Baraga,"Baraga Township, Precinct 4",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Baraga,"Covington Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
+Baraga,"L'Anse Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3,1,4
+Baraga,"Spurr Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0,0,0
 Baraga,"Arvon Township, Precinct 1",Attorney General,,DEM,Dana Nessel,89,0,89
 Baraga,"Baraga Township, Precinct 1",Attorney General,,DEM,Dana Nessel,208,0,208
 Baraga,"Baraga Township, Precinct 2",Attorney General,,DEM,Dana Nessel,78,0,78
@@ -211,14 +211,14 @@ Baraga,"Baraga Township, Precinct 4",Attorney General,,REP,Matthew DePerno,138,0
 Baraga,"Covington Township, Precinct 1",Attorney General,,REP,Matthew DePerno,134,0,134
 Baraga,"L'Anse Township, Precinct 1",Attorney General,,REP,Matthew DePerno,656,330,986
 Baraga,"Spurr Township, Precinct 1",Attorney General,,REP,Matthew DePerno,82,0,82
-Baraga,"Arvon Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",5,0,5
-Baraga,"Baraga Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",11,0,11
-Baraga,"Baraga Township, Precinct 2",Attorney General,,LIB,"Joseph W. McHugh Jr.",4,0,4
-Baraga,"Baraga Township, Precinct 3",Attorney General,,LIB,"Joseph W. McHugh Jr.",7,0,7
-Baraga,"Baraga Township, Precinct 4",Attorney General,,LIB,"Joseph W. McHugh Jr.",4,0,4
-Baraga,"Covington Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",4,0,4
-Baraga,"L'Anse Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",18,3,21
-Baraga,"Spurr Township, Precinct 1",Attorney General,,LIB,"Joseph W. McHugh Jr.",0,0,0
+Baraga,"Arvon Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,5,0,5
+Baraga,"Baraga Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,11,0,11
+Baraga,"Baraga Township, Precinct 2",Attorney General,,LIB,Joseph W. McHugh Jr.,4,0,4
+Baraga,"Baraga Township, Precinct 3",Attorney General,,LIB,Joseph W. McHugh Jr.,7,0,7
+Baraga,"Baraga Township, Precinct 4",Attorney General,,LIB,Joseph W. McHugh Jr.,4,0,4
+Baraga,"Covington Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,4,0,4
+Baraga,"L'Anse Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,18,3,21
+Baraga,"Spurr Township, Precinct 1",Attorney General,,LIB,Joseph W. McHugh Jr.,0,0,0
 Baraga,"Arvon Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,2,0,2
 Baraga,"Baraga Township, Precinct 1",Attorney General,,UST,Gerald T. Van Sickle,3,0,3
 Baraga,"Baraga Township, Precinct 2",Attorney General,,UST,Gerald T. Van Sickle,1,0,1
@@ -299,3 +299,19 @@ Baraga,"Baraga Township, Precinct 4",State House,109,REP,Melody Wagner,140,0,140
 Baraga,"Covington Township, Precinct 1",State House,109,REP,Melody Wagner,140,0,140
 Baraga,"L'Anse Township, Precinct 1",State House,109,REP,Melody Wagner,669,325,994
 Baraga,"Spurr Township, Precinct 1",State House,109,REP,Melody Wagner,84,0,84
+Baraga,"Arvon Township, Precinct 1",Proposal 22-3,,,Yes,126,0,126
+Baraga,"Baraga Township, Precinct 1",Proposal 22-3,,,Yes,236,0,236
+Baraga,"Baraga Township, Precinct 2",Proposal 22-3,,,Yes,84,0,84
+Baraga,"Baraga Township, Precinct 3",Proposal 22-3,,,Yes,63,0,63
+Baraga,"Baraga Township, Precinct 4",Proposal 22-3,,,Yes,83,0,83
+Baraga,"Covington Township, Precinct 1",Proposal 22-3,,,Yes,103,0,103
+Baraga,"L'Anse Township, Precinct 1",Proposal 22-3,,,Yes,311,368,679
+Baraga,"Spurr Township, Precinct 1",Proposal 22-3,,,Yes,95,0,95
+Baraga,"Arvon Township, Precinct 1",Proposal 22-3,,,No,192,0,192
+Baraga,"Baraga Township, Precinct 1",Proposal 22-3,,,No,255,0,255
+Baraga,"Baraga Township, Precinct 2",Proposal 22-3,,,No,142,0,142
+Baraga,"Baraga Township, Precinct 3",Proposal 22-3,,,No,102,0,102
+Baraga,"Baraga Township, Precinct 4",Proposal 22-3,,,No,132,0,132
+Baraga,"Covington Township, Precinct 1",Proposal 22-3,,,No,113,0,113
+Baraga,"L'Anse Township, Precinct 1",Proposal 22-3,,,No,593,300,893
+Baraga,"Spurr Township, Precinct 1",Proposal 22-3,,,No,86,0,86

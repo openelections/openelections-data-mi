@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes
-Leelanau,"Bingham Township, Precinct 1",Registered Voters,,,,"2,494"
-Leelanau,"Centerville Township, Precinct 1",Registered Voters,,,,"1,220"
-Leelanau,"Cleveland Township, Precinct 1",Registered Voters,,,,"1,074"
-Leelanau,"Elmwood Township, Precinct 1",Registered Voters,,,,"2,712"
-Leelanau,"Elmwood Township, Precinct 2",Registered Voters,,,,"1,675"
-Leelanau,"Empire Township, Precinct 1",Registered Voters,,,,"1,254"
+Leelanau,"Bingham Township, Precinct 1",Registered Voters,,,,2494
+Leelanau,"Centerville Township, Precinct 1",Registered Voters,,,,1220
+Leelanau,"Cleveland Township, Precinct 1",Registered Voters,,,,1074
+Leelanau,"Elmwood Township, Precinct 1",Registered Voters,,,,2712
+Leelanau,"Elmwood Township, Precinct 2",Registered Voters,,,,1675
+Leelanau,"Empire Township, Precinct 1",Registered Voters,,,,1254
 Leelanau,"Glen Arbor Township, Precinct 1",Registered Voters,,,,942
-Leelanau,"Kasson Township, Precinct 1",Registered Voters,,,,"1,455"
-Leelanau,"Leelanau Township, Precinct 1",Registered Voters,,,,"2,276"
-Leelanau,"Leland Township, Precinct 1",Registered Voters,,,,"2,083"
-Leelanau,"Solon Township, Precinct 1",Registered Voters,,,,"1,458"
-Leelanau,"Suttons Bay Township, Precinct 1",Registered Voters,,,,"2,730"
+Leelanau,"Kasson Township, Precinct 1",Registered Voters,,,,1455
+Leelanau,"Leelanau Township, Precinct 1",Registered Voters,,,,2276
+Leelanau,"Leland Township, Precinct 1",Registered Voters,,,,2083
+Leelanau,"Solon Township, Precinct 1",Registered Voters,,,,1458
+Leelanau,"Suttons Bay Township, Precinct 1",Registered Voters,,,,2730
 Leelanau,"City of Traverse City, Precinct 4",Registered Voters,,,,306
 Leelanau,"Platte Township, Precinct 1 (Benzie County)",Registered Voters,,,,6
 Leelanau,"Bingham Township, Precinct 1",Straight Party,,DEM,,395
@@ -114,15 +114,15 @@ Leelanau,"Platte Township, Precinct 1 (Benzie County)",Straight Party,,NLP,,0
 Leelanau,"Bingham Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,895
 Leelanau,"Centerville Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,429
 Leelanau,"Cleveland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,436
-Leelanau,"Elmwood Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,"1,114"
+Leelanau,"Elmwood Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,1114
 Leelanau,"Elmwood Township, Precinct 2",Governor,,DEM,Gretchen Whitmer,639
 Leelanau,"Empire Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,627
 Leelanau,"Glen Arbor Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,422
 Leelanau,"Kasson Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,501
-Leelanau,"Leelanau Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,"1,046"
+Leelanau,"Leelanau Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,1046
 Leelanau,"Leland Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,831
 Leelanau,"Solon Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,467
-Leelanau,"Suttons Bay Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,"1,014"
+Leelanau,"Suttons Bay Township, Precinct 1",Governor,,DEM,Gretchen Whitmer,1014
 Leelanau,"City of Traverse City, Precinct 4",Governor,,DEM,Gretchen Whitmer,119
 Leelanau,"Bingham Township, Precinct 1",Governor,,REP,Tudor M. Dixon,889
 Leelanau,"Centerville Township, Precinct 1",Governor,,REP,Tudor M. Dixon,409
@@ -192,15 +192,15 @@ Leelanau,"City of Traverse City, Precinct 4",Governor,,NLP,Daryl M. Simpson,0
 Leelanau,"Bingham Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,889
 Leelanau,"Centerville Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,432
 Leelanau,"Cleveland Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,438
-Leelanau,"Elmwood Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,"1,108"
+Leelanau,"Elmwood Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,1108
 Leelanau,"Elmwood Township, Precinct 2",Secretary of State,,DEM,Jocelyn Benson,641
 Leelanau,"Empire Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,627
 Leelanau,"Glen Arbor Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,418
 Leelanau,"Kasson Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,512
-Leelanau,"Leelanau Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,"1,040"
+Leelanau,"Leelanau Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,1040
 Leelanau,"Leland Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,825
 Leelanau,"Solon Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,481
-Leelanau,"Suttons Bay Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,"1,004"
+Leelanau,"Suttons Bay Township, Precinct 1",Secretary of State,,DEM,Jocelyn Benson,1004
 Leelanau,"City of Traverse City, Precinct 4",Secretary of State,,DEM,Jocelyn Benson,119
 Leelanau,"Bingham Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,886
 Leelanau,"Centerville Township, Precinct 1",Secretary of State,,REP,Kristina Elaine Karamo,393
@@ -270,12 +270,12 @@ Leelanau,"City of Traverse City, Precinct 4",Secretary of State,,,Unresolved wri
 Leelanau,"Bingham Township, Precinct 1",Attorney General,,DEM,Dana Nessel,851
 Leelanau,"Centerville Township, Precinct 1",Attorney General,,DEM,Dana Nessel,410
 Leelanau,"Cleveland Township, Precinct 1",Attorney General,,DEM,Dana Nessel,438
-Leelanau,"Elmwood Township, Precinct 1",Attorney General,,DEM,Dana Nessel,"1,073"
+Leelanau,"Elmwood Township, Precinct 1",Attorney General,,DEM,Dana Nessel,1073
 Leelanau,"Elmwood Township, Precinct 2",Attorney General,,DEM,Dana Nessel,618
 Leelanau,"Empire Township, Precinct 1",Attorney General,,DEM,Dana Nessel,621
 Leelanau,"Glen Arbor Township, Precinct 1",Attorney General,,DEM,Dana Nessel,403
 Leelanau,"Kasson Township, Precinct 1",Attorney General,,DEM,Dana Nessel,495
-Leelanau,"Leelanau Township, Precinct 1",Attorney General,,DEM,Dana Nessel,"1,005"
+Leelanau,"Leelanau Township, Precinct 1",Attorney General,,DEM,Dana Nessel,1005
 Leelanau,"Leland Township, Precinct 1",Attorney General,,DEM,Dana Nessel,800
 Leelanau,"Solon Township, Precinct 1",Attorney General,,DEM,Dana Nessel,449
 Leelanau,"Suttons Bay Township, Precinct 1",Attorney General,,DEM,Dana Nessel,989
@@ -400,7 +400,7 @@ Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,,Unresolved write-in,0
 Leelanau,"Bingham Township, Precinct 1",State Senate,37,DEM,Barbara Conley,792
 Leelanau,"Centerville Township, Precinct 1",State Senate,37,DEM,Barbara Conley,392
 Leelanau,"Cleveland Township, Precinct 1",State Senate,37,DEM,Barbara Conley,403
-Leelanau,"Elmwood Township, Precinct 1",State Senate,37,DEM,Barbara Conley,"1,013"
+Leelanau,"Elmwood Township, Precinct 1",State Senate,37,DEM,Barbara Conley,1013
 Leelanau,"Elmwood Township, Precinct 2",State Senate,37,DEM,Barbara Conley,555
 Leelanau,"Empire Township, Precinct 1",State Senate,37,DEM,Barbara Conley,585
 Leelanau,"Glen Arbor Township, Precinct 1",State Senate,37,DEM,Barbara Conley,379
@@ -452,7 +452,7 @@ Leelanau,"City of Traverse City, Precinct 4",State Senate,37,,Unresolved write-i
 Leelanau,"Bingham Township, Precinct 1",State House,103,DEM,Betsy Coffia,775
 Leelanau,"Centerville Township, Precinct 1",State House,103,DEM,Betsy Coffia,379
 Leelanau,"Cleveland Township, Precinct 1",State House,103,DEM,Betsy Coffia,384
-Leelanau,"Elmwood Township, Precinct 1",State House,103,DEM,Betsy Coffia,"1,009"
+Leelanau,"Elmwood Township, Precinct 1",State House,103,DEM,Betsy Coffia,1009
 Leelanau,"Elmwood Township, Precinct 2",State House,103,DEM,Betsy Coffia,541
 Leelanau,"Empire Township, Precinct 1",State House,103,DEM,Betsy Coffia,582
 Leelanau,"Glen Arbor Township, Precinct 1",State House,103,DEM,Betsy Coffia,378
@@ -501,3 +501,29 @@ Leelanau,"Leland Township, Precinct 1",State House,103,,Unresolved write-in,1
 Leelanau,"Solon Township, Precinct 1",State House,103,,Unresolved write-in,0
 Leelanau,"Suttons Bay Township, Precinct 1",State House,103,,Unresolved write-in,0
 Leelanau,"City of Traverse City, Precinct 4",State House,103,,Unresolved write-in,0
+Leelanau,"Bingham Township, Precinct 1",Proposal 22-3,,,Yes,929
+Leelanau,"Centerville Township, Precinct 1",Proposal 22-3,,,Yes,442
+Leelanau,"Cleveland Township, Precinct 1",Proposal 22-3,,,Yes,436
+Leelanau,"Elmwood Township, Precinct 1",Proposal 22-3,,,Yes,1166
+Leelanau,"Elmwood Township, Precinct 2",Proposal 22-3,,,Yes,661
+Leelanau,"Empire Township, Precinct 1",Proposal 22-3,,,Yes,618
+Leelanau,"Glen Arbor Township, Precinct 1",Proposal 22-3,,,Yes,443
+Leelanau,"Kasson Township, Precinct 1",Proposal 22-3,,,Yes,555
+Leelanau,"Leelanau Township, Precinct 1",Proposal 22-3,,,Yes,1076
+Leelanau,"Leland Township, Precinct 1",Proposal 22-3,,,Yes,844
+Leelanau,"Solon Township, Precinct 1",Proposal 22-3,,,Yes,484
+Leelanau,"Suttons Bay Township, Precinct 1",Proposal 22-3,,,Yes,1003
+Leelanau,"City of Traverse City, Precinct 4",Proposal 22-3,,,Yes,134
+Leelanau,"Bingham Township, Precinct 1",Proposal 22-3,,,No,854
+Leelanau,"Centerville Township, Precinct 1",Proposal 22-3,,,No,395
+Leelanau,"Cleveland Township, Precinct 1",Proposal 22-3,,,No,308
+Leelanau,"Elmwood Township, Precinct 1",Proposal 22-3,,,No,808
+Leelanau,"Elmwood Township, Precinct 2",Proposal 22-3,,,No,536
+Leelanau,"Empire Township, Precinct 1",Proposal 22-3,,,No,318
+Leelanau,"Glen Arbor Township, Precinct 1",Proposal 22-3,,,No,259
+Leelanau,"Kasson Township, Precinct 1",Proposal 22-3,,,No,443
+Leelanau,"Leelanau Township, Precinct 1",Proposal 22-3,,,No,533
+Leelanau,"Leland Township, Precinct 1",Proposal 22-3,,,No,659
+Leelanau,"Solon Township, Precinct 1",Proposal 22-3,,,No,504
+Leelanau,"Suttons Bay Township, Precinct 1",Proposal 22-3,,,No,713
+Leelanau,"City of Traverse City, Precinct 4",Proposal 22-3,,,No,87

@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,election day,avcb,votes
+candidate,office,district,party,county,precinct,election_day,avcb,votes
 Registered Voters,,,,Kalkaska,"Bear Lake Township, Precinct 1",,,732
 Ballots Cast,,,,Kalkaska,"Bear Lake Township, Precinct 1",509,0,509
 ,Straight Party,,DEM,Kalkaska,"Bear Lake Township, Precinct 1",82,0,82

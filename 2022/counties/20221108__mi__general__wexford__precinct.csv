@@ -499,26 +499,26 @@ Wexford,"Slagle Township, Precinct 1",Secretary of State,,UST,Christine C. Schwa
 Wexford,"South Branch Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2
 Wexford,"Springville Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,4
 Wexford,"Wexford Township, Precinct 1",Secretary of State,,UST,Christine C. Schwartz,2
-Wexford,"City of Cadillac, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"City of Cadillac, Precinct 2",Secretary of State,,GRN,"Larry James Hutchinson Jr.",8
-Wexford,"City of Cadillac, Precinct 3",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"City of Manton, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Wexford,"Antioch Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"Boon Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Wexford,"Cedar Creek Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",5
-Wexford,"Cherry Grove Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"Clam Lake Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Wexford,"Colfax Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",0
-Wexford,"Greenwood Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",1
-Wexford,"Hanover Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"Haring Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",6
-Wexford,"Henderson Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",2
-Wexford,"Liberty Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Wexford,"Selma Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",4
-Wexford,"Slagle Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",1
-Wexford,"South Branch Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",2
-Wexford,"Springville Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
-Wexford,"Wexford Township, Precinct 1",Secretary of State,,GRN,"Larry James Hutchinson Jr.",3
+Wexford,"City of Cadillac, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"City of Cadillac, Precinct 2",Secretary of State,,GRN,Larry James Hutchinson Jr.,8
+Wexford,"City of Cadillac, Precinct 3",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"City of Manton, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Wexford,"Antioch Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"Boon Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Wexford,"Cedar Creek Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,5
+Wexford,"Cherry Grove Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"Clam Lake Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Wexford,"Colfax Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,0
+Wexford,"Greenwood Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Wexford,"Hanover Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"Haring Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,6
+Wexford,"Henderson Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Wexford,"Liberty Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Wexford,"Selma Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,4
+Wexford,"Slagle Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,1
+Wexford,"South Branch Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,2
+Wexford,"Springville Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
+Wexford,"Wexford Township, Precinct 1",Secretary of State,,GRN,Larry James Hutchinson Jr.,3
 Wexford,"City of Cadillac, Precinct 1",Attorney General,,DEM,Dana Nessel,545
 Wexford,"City of Cadillac, Precinct 2",Attorney General,,DEM,Dana Nessel,572
 Wexford,"City of Cadillac, Precinct 3",Attorney General,,DEM,Dana Nessel,639
@@ -746,3 +746,43 @@ Wexford,"Greenwood Township, Precinct 1",State House,104,REP,John R. Roth,204
 Wexford,"Hanover Township, Precinct 1",State House,104,REP,John R. Roth,488
 Wexford,"Liberty Township, Precinct 1",State House,104,REP,John R. Roth,334
 Wexford,"Wexford Township, Precinct 1",State House,104,REP,John R. Roth,381
+Wexford,"City of Cadillac, Precinct 1",Proposal 22-3,,,Yes,641
+Wexford,"City of Cadillac, Precinct 2",Proposal 22-3,,,Yes,627
+Wexford,"City of Cadillac, Precinct 3",Proposal 22-3,,,Yes,707
+Wexford,"City of Manton, Precinct 1",Proposal 22-3,,,Yes,143
+Wexford,"Antioch Township, Precinct 1",Proposal 22-3,,,Yes,162
+Wexford,"Boon Township, Precinct 1",Proposal 22-3,,,Yes,128
+Wexford,"Cedar Creek Township, Precinct 1",Proposal 22-3,,,Yes,251
+Wexford,"Cherry Grove Township, Precinct 1",Proposal 22-3,,,Yes,619
+Wexford,"Clam Lake Township, Precinct 1",Proposal 22-3,,,Yes,514
+Wexford,"Colfax Township, Precinct 1",Proposal 22-3,,,Yes,154
+Wexford,"Greenwood Township, Precinct 1",Proposal 22-3,,,Yes,104
+Wexford,"Hanover Township, Precinct 1",Proposal 22-3,,,Yes,279
+Wexford,"Haring Township, Precinct 1",Proposal 22-3,,,Yes,591
+Wexford,"Henderson Township, Precinct 1",Proposal 22-3,,,Yes,45
+Wexford,"Liberty Township, Precinct 1",Proposal 22-3,,,Yes,139
+Wexford,"Selma Township, Precinct 1",Proposal 22-3,,,Yes,456
+Wexford,"Slagle Township, Precinct 1",Proposal 22-3,,,Yes,94
+Wexford,"South Branch Township, Precinct 1",Proposal 22-3,,,Yes,97
+Wexford,"Springville Township, Precinct 1",Proposal 22-3,,,Yes,280
+Wexford,"Wexford Township, Precinct 1",Proposal 22-3,,,Yes,196
+Wexford,"City of Cadillac, Precinct 1",Proposal 22-3,,,No,633
+Wexford,"City of Cadillac, Precinct 2",Proposal 22-3,,,No,596
+Wexford,"City of Cadillac, Precinct 3",Proposal 22-3,,,No,697
+Wexford,"City of Manton, Precinct 1",Proposal 22-3,,,No,255
+Wexford,"Antioch Township, Precinct 1",Proposal 22-3,,,No,241
+Wexford,"Boon Township, Precinct 1",Proposal 22-3,,,No,201
+Wexford,"Cedar Creek Township, Precinct 1",Proposal 22-3,,,No,486
+Wexford,"Cherry Grove Township, Precinct 1",Proposal 22-3,,,No,826
+Wexford,"Clam Lake Township, Precinct 1",Proposal 22-3,,,No,815
+Wexford,"Colfax Township, Precinct 1",Proposal 22-3,,,No,279
+Wexford,"Greenwood Township, Precinct 1",Proposal 22-3,,,No,181
+Wexford,"Hanover Township, Precinct 1",Proposal 22-3,,,No,438
+Wexford,"Haring Township, Precinct 1",Proposal 22-3,,,No,1046
+Wexford,"Henderson Township, Precinct 1",Proposal 22-3,,,No,68
+Wexford,"Liberty Township, Precinct 1",Proposal 22-3,,,No,277
+Wexford,"Selma Township, Precinct 1",Proposal 22-3,,,No,604
+Wexford,"Slagle Township, Precinct 1",Proposal 22-3,,,No,149
+Wexford,"South Branch Township, Precinct 1",Proposal 22-3,,,No,110
+Wexford,"Springville Township, Precinct 1",Proposal 22-3,,,No,421
+Wexford,"Wexford Township, Precinct 1",Proposal 22-3,,,No,333

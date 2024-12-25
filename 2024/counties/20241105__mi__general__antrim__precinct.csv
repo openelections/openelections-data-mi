@@ -1,0 +1,926 @@
+county,precinct,office,district,party,candidate,votes
+Antrim,"Banks Township, Precinct 1",Registered Voters,,,,"1,806"
+Antrim,"Central Lake Township, Precinct 1",Registered Voters,,,,"2,120"
+Antrim,"Chestonia Township, Precinct 1",Registered Voters,,,,519
+Antrim,"Custer Township, Precinct 1",Registered Voters,,,,"1,220"
+Antrim,"Echo Township, Precinct 1",Registered Voters,,,,879
+Antrim,"Elk Rapids Township, Precinct 1",Registered Voters,,,,"2,488"
+Antrim,"Forest Home Township, Precinct 1",Registered Voters,,,,"1,781"
+Antrim,"Helena Township, Precinct 1",Registered Voters,,,,987
+Antrim,"Jordan Township, Precinct 1",Registered Voters,,,,863
+Antrim,"Kearney Township, Precinct 1",Registered Voters,,,,"1,721"
+Antrim,"Mancelona Township, Precinct 1",Registered Voters,,,,"3,552"
+Antrim,"Mancelona Township, Precinct 2",Registered Voters,,,,696
+Antrim,"Milton Township, Precinct 1",Registered Voters,,,,"2,444"
+Antrim,"Star Township, Precinct 1",Registered Voters,,,,"1,039"
+Antrim,"Torch Lake Township, Precinct 1",Registered Voters,,,,"1,289"
+Antrim,"Warner Township, Precinct 1",Registered Voters,,,,334
+Antrim,"Banks Township, Precinct 1",Ballots Cast,,,,"1,179"
+Antrim,"Central Lake Township, Precinct 1",Ballots Cast,,,,"1,504"
+Antrim,"Chestonia Township, Precinct 1",Ballots Cast,,,,359
+Antrim,"Custer Township, Precinct 1",Ballots Cast,,,,858
+Antrim,"Echo Township, Precinct 1",Ballots Cast,,,,628
+Antrim,"Elk Rapids Township, Precinct 1",Ballots Cast,,,,"2,078"
+Antrim,"Forest Home Township, Precinct 1",Ballots Cast,,,,"1,441"
+Antrim,"Helena Township, Precinct 1",Ballots Cast,,,,778
+Antrim,"Jordan Township, Precinct 1",Ballots Cast,,,,629
+Antrim,"Kearney Township, Precinct 1",Ballots Cast,,,,"1,271"
+Antrim,"Mancelona Township, Precinct 1",Ballots Cast,,,,"1,906"
+Antrim,"Mancelona Township, Precinct 2",Ballots Cast,,,,487
+Antrim,"Milton Township, Precinct 1",Ballots Cast,,,,"1,939"
+Antrim,"Star Township, Precinct 1",Ballots Cast,,,,681
+Antrim,"Torch Lake Township, Precinct 1",Ballots Cast,,,,"1,044"
+Antrim,"Warner Township, Precinct 1",Ballots Cast,,,,245
+Antrim,"Banks Township, Precinct 1",Straight Party,,DEM,Democratic,107
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,DEM,Democratic,150
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,DEM,Democratic,47
+Antrim,"Custer Township, Precinct 1",Straight Party,,DEM,Democratic,93
+Antrim,"Echo Township, Precinct 1",Straight Party,,DEM,Democratic,75
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,DEM,Democratic,330
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,DEM,Democratic,161
+Antrim,"Helena Township, Precinct 1",Straight Party,,DEM,Democratic,88
+Antrim,"Jordan Township, Precinct 1",Straight Party,,DEM,Democratic,82
+Antrim,"Kearney Township, Precinct 1",Straight Party,,DEM,Democratic,145
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,DEM,Democratic,199
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,DEM,Democratic,78
+Antrim,"Milton Township, Precinct 1",Straight Party,,DEM,Democratic,297
+Antrim,"Star Township, Precinct 1",Straight Party,,DEM,Democratic,76
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,DEM,Democratic,127
+Antrim,"Warner Township, Precinct 1",Straight Party,,DEM,Democratic,22
+Antrim,"Banks Township, Precinct 1",Straight Party,,REP,Republican,422
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,REP,Republican,457
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,REP,Republican,136
+Antrim,"Custer Township, Precinct 1",Straight Party,,REP,Republican,318
+Antrim,"Echo Township, Precinct 1",Straight Party,,REP,Republican,230
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,REP,Republican,553
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,REP,Republican,372
+Antrim,"Helena Township, Precinct 1",Straight Party,,REP,Republican,237
+Antrim,"Jordan Township, Precinct 1",Straight Party,,REP,Republican,239
+Antrim,"Kearney Township, Precinct 1",Straight Party,,REP,Republican,389
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,REP,Republican,881
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,REP,Republican,200
+Antrim,"Milton Township, Precinct 1",Straight Party,,REP,Republican,601
+Antrim,"Star Township, Precinct 1",Straight Party,,REP,Republican,282
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,REP,Republican,286
+Antrim,"Warner Township, Precinct 1",Straight Party,,REP,Republican,95
+Antrim,"Banks Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Antrim,"Custer Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Antrim,"Echo Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Antrim,"Helena Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Antrim,"Jordan Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Antrim,"Kearney Township, Precinct 1",Straight Party,,LIB,Libertarian,4
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,LIB,Libertarian,1
+Antrim,"Milton Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Antrim,"Star Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Antrim,"Warner Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Antrim,"Banks Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Custer Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Antrim,"Echo Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Antrim,"Helena Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Jordan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Antrim,"Kearney Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Milton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
+Antrim,"Star Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Antrim,"Warner Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Antrim,"Banks Township, Precinct 1",Straight Party,,GRN,Green,1
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,GRN,Green,2
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,GRN,Green,2
+Antrim,"Custer Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Echo Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,GRN,Green,2
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,GRN,Green,1
+Antrim,"Helena Township, Precinct 1",Straight Party,,GRN,Green,1
+Antrim,"Jordan Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Kearney Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,GRN,Green,2
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,GRN,Green,0
+Antrim,"Milton Township, Precinct 1",Straight Party,,GRN,Green,3
+Antrim,"Star Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,GRN,Green,1
+Antrim,"Warner Township, Precinct 1",Straight Party,,GRN,Green,0
+Antrim,"Banks Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Custer Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Echo Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Helena Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Antrim,"Jordan Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Antrim,"Kearney Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,WCP,Working Class,19
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,WCP,Working Class,2
+Antrim,"Milton Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Antrim,"Star Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Antrim,"Warner Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Antrim,"Banks Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Central Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Antrim,"Chestonia Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Antrim,"Custer Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Echo Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Elk Rapids Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Antrim,"Forest Home Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Helena Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Jordan Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Kearney Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Mancelona Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Antrim,"Mancelona Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Antrim,"Milton Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Star Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Torch Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Warner Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Antrim,"Banks Township, Precinct 1",President,,DEM,Kamala D. Harris,356
+Antrim,"Central Lake Township, Precinct 1",President,,DEM,Kamala D. Harris,545
+Antrim,"Chestonia Township, Precinct 1",President,,DEM,Kamala D. Harris,124
+Antrim,"Custer Township, Precinct 1",President,,DEM,Kamala D. Harris,272
+Antrim,"Echo Township, Precinct 1",President,,DEM,Kamala D. Harris,200
+Antrim,"Elk Rapids Township, Precinct 1",President,,DEM,Kamala D. Harris,"1,022"
+Antrim,"Forest Home Township, Precinct 1",President,,DEM,Kamala D. Harris,644
+Antrim,"Helena Township, Precinct 1",President,,DEM,Kamala D. Harris,318
+Antrim,"Jordan Township, Precinct 1",President,,DEM,Kamala D. Harris,215
+Antrim,"Kearney Township, Precinct 1",President,,DEM,Kamala D. Harris,492
+Antrim,"Mancelona Township, Precinct 1",President,,DEM,Kamala D. Harris,451
+Antrim,"Mancelona Township, Precinct 2",President,,DEM,Kamala D. Harris,152
+Antrim,"Milton Township, Precinct 1",President,,DEM,Kamala D. Harris,820
+Antrim,"Star Township, Precinct 1",President,,DEM,Kamala D. Harris,170
+Antrim,"Torch Lake Township, Precinct 1",President,,DEM,Kamala D. Harris,488
+Antrim,"Warner Township, Precinct 1",President,,DEM,Kamala D. Harris,61
+Antrim,"Banks Township, Precinct 1",President,,REP,Donald J. Trump,796
+Antrim,"Central Lake Township, Precinct 1",President,,REP,Donald J. Trump,928
+Antrim,"Chestonia Township, Precinct 1",President,,REP,Donald J. Trump,224
+Antrim,"Custer Township, Precinct 1",President,,REP,Donald J. Trump,572
+Antrim,"Echo Township, Precinct 1",President,,REP,Donald J. Trump,412
+Antrim,"Elk Rapids Township, Precinct 1",President,,REP,Donald J. Trump,"1,004"
+Antrim,"Forest Home Township, Precinct 1",President,,REP,Donald J. Trump,762
+Antrim,"Helena Township, Precinct 1",President,,REP,Donald J. Trump,449
+Antrim,"Jordan Township, Precinct 1",President,,REP,Donald J. Trump,405
+Antrim,"Kearney Township, Precinct 1",President,,REP,Donald J. Trump,757
+Antrim,"Mancelona Township, Precinct 1",President,,REP,Donald J. Trump,"1,418"
+Antrim,"Mancelona Township, Precinct 2",President,,REP,Donald J. Trump,326
+Antrim,"Milton Township, Precinct 1",President,,REP,Donald J. Trump,"1,085"
+Antrim,"Star Township, Precinct 1",President,,REP,Donald J. Trump,499
+Antrim,"Torch Lake Township, Precinct 1",President,,REP,Donald J. Trump,524
+Antrim,"Warner Township, Precinct 1",President,,REP,Donald J. Trump,180
+Antrim,"Banks Township, Precinct 1",President,,LIB,Chase Oliver,3
+Antrim,"Central Lake Township, Precinct 1",President,,LIB,Chase Oliver,5
+Antrim,"Chestonia Township, Precinct 1",President,,LIB,Chase Oliver,1
+Antrim,"Custer Township, Precinct 1",President,,LIB,Chase Oliver,3
+Antrim,"Echo Township, Precinct 1",President,,LIB,Chase Oliver,5
+Antrim,"Elk Rapids Township, Precinct 1",President,,LIB,Chase Oliver,14
+Antrim,"Forest Home Township, Precinct 1",President,,LIB,Chase Oliver,5
+Antrim,"Helena Township, Precinct 1",President,,LIB,Chase Oliver,2
+Antrim,"Jordan Township, Precinct 1",President,,LIB,Chase Oliver,2
+Antrim,"Kearney Township, Precinct 1",President,,LIB,Chase Oliver,5
+Antrim,"Mancelona Township, Precinct 1",President,,LIB,Chase Oliver,10
+Antrim,"Mancelona Township, Precinct 2",President,,LIB,Chase Oliver,3
+Antrim,"Milton Township, Precinct 1",President,,LIB,Chase Oliver,6
+Antrim,"Star Township, Precinct 1",President,,LIB,Chase Oliver,1
+Antrim,"Torch Lake Township, Precinct 1",President,,LIB,Chase Oliver,5
+Antrim,"Warner Township, Precinct 1",President,,LIB,Chase Oliver,0
+Antrim,"Banks Township, Precinct 1",President,,UST,Randall Terry,2
+Antrim,"Central Lake Township, Precinct 1",President,,UST,Randall Terry,0
+Antrim,"Chestonia Township, Precinct 1",President,,UST,Randall Terry,2
+Antrim,"Custer Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Echo Township, Precinct 1",President,,UST,Randall Terry,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,UST,Randall Terry,0
+Antrim,"Forest Home Township, Precinct 1",President,,UST,Randall Terry,3
+Antrim,"Helena Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Jordan Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Kearney Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Mancelona Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Mancelona Township, Precinct 2",President,,UST,Randall Terry,0
+Antrim,"Milton Township, Precinct 1",President,,UST,Randall Terry,3
+Antrim,"Star Township, Precinct 1",President,,UST,Randall Terry,0
+Antrim,"Torch Lake Township, Precinct 1",President,,UST,Randall Terry,1
+Antrim,"Warner Township, Precinct 1",President,,UST,Randall Terry,0
+Antrim,"Banks Township, Precinct 1",President,,GRN,Jill Stein,2
+Antrim,"Central Lake Township, Precinct 1",President,,GRN,Jill Stein,3
+Antrim,"Chestonia Township, Precinct 1",President,,GRN,Jill Stein,1
+Antrim,"Custer Township, Precinct 1",President,,GRN,Jill Stein,1
+Antrim,"Echo Township, Precinct 1",President,,GRN,Jill Stein,1
+Antrim,"Elk Rapids Township, Precinct 1",President,,GRN,Jill Stein,5
+Antrim,"Forest Home Township, Precinct 1",President,,GRN,Jill Stein,4
+Antrim,"Helena Township, Precinct 1",President,,GRN,Jill Stein,0
+Antrim,"Jordan Township, Precinct 1",President,,GRN,Jill Stein,1
+Antrim,"Kearney Township, Precinct 1",President,,GRN,Jill Stein,2
+Antrim,"Mancelona Township, Precinct 1",President,,GRN,Jill Stein,3
+Antrim,"Mancelona Township, Precinct 2",President,,GRN,Jill Stein,0
+Antrim,"Milton Township, Precinct 1",President,,GRN,Jill Stein,4
+Antrim,"Star Township, Precinct 1",President,,GRN,Jill Stein,0
+Antrim,"Torch Lake Township, Precinct 1",President,,GRN,Jill Stein,2
+Antrim,"Warner Township, Precinct 1",President,,GRN,Jill Stein,0
+Antrim,"Banks Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Antrim,"Central Lake Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",8
+Antrim,"Chestonia Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Antrim,"Custer Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Antrim,"Echo Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",6
+Antrim,"Elk Rapids Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Antrim,"Forest Home Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",9
+Antrim,"Helena Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Antrim,"Jordan Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Antrim,"Kearney Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",6
+Antrim,"Mancelona Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",10
+Antrim,"Mancelona Township, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",1
+Antrim,"Milton Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Antrim,"Star Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Antrim,"Torch Lake Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",5
+Antrim,"Warner Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Antrim,"Banks Township, Precinct 1",President,,,Joseph Kishore,2
+Antrim,"Central Lake Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Chestonia Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Custer Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Echo Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Forest Home Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Helena Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Jordan Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Kearney Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Mancelona Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Mancelona Township, Precinct 2",President,,,Joseph Kishore,1
+Antrim,"Milton Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Star Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Joseph Kishore,1
+Antrim,"Warner Township, Precinct 1",President,,,Joseph Kishore,0
+Antrim,"Banks Township, Precinct 1",President,,,Cornel West,2
+Antrim,"Central Lake Township, Precinct 1",President,,,Cornel West,1
+Antrim,"Chestonia Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Custer Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Echo Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Cornel West,1
+Antrim,"Forest Home Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Helena Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Jordan Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Kearney Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Mancelona Township, Precinct 1",President,,,Cornel West,1
+Antrim,"Mancelona Township, Precinct 2",President,,,Cornel West,0
+Antrim,"Milton Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Star Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Cornel West,1
+Antrim,"Warner Township, Precinct 1",President,,,Cornel West,0
+Antrim,"Banks Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Central Lake Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Chestonia Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Custer Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Echo Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Forest Home Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Helena Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Jordan Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Kearney Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Mancelona Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Mancelona Township, Precinct 2",President,,,Jay J. Bowman,0
+Antrim,"Milton Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Star Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Warner Township, Precinct 1",President,,,Jay J. Bowman,0
+Antrim,"Banks Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Central Lake Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Chestonia Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Custer Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Echo Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Forest Home Township, Precinct 1",President,,,Claudia De la Cruz,1
+Antrim,"Helena Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Jordan Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Kearney Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Mancelona Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Mancelona Township, Precinct 2",President,,,Claudia De la Cruz,0
+Antrim,"Milton Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Star Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Warner Township, Precinct 1",President,,,Claudia De la Cruz,0
+Antrim,"Banks Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Central Lake Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Chestonia Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Custer Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Echo Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Forest Home Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Helena Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Jordan Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Kearney Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Mancelona Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Mancelona Township, Precinct 2",President,,,Cherunda Lynn Fox,0
+Antrim,"Milton Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Star Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Warner Township, Precinct 1",President,,,Cherunda Lynn Fox,0
+Antrim,"Banks Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Central Lake Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Chestonia Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Custer Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Echo Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Forest Home Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Helena Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Jordan Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Kearney Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Mancelona Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Mancelona Township, Precinct 2",President,,,Peter Sonski,0
+Antrim,"Milton Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Star Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Warner Township, Precinct 1",President,,,Peter Sonski,0
+Antrim,"Banks Township, Precinct 1",President,,,Write-ins,0
+Antrim,"Central Lake Township, Precinct 1",President,,,Write-ins,3
+Antrim,"Chestonia Township, Precinct 1",President,,,Write-ins,1
+Antrim,"Custer Township, Precinct 1",President,,,Write-ins,0
+Antrim,"Echo Township, Precinct 1",President,,,Write-ins,2
+Antrim,"Elk Rapids Township, Precinct 1",President,,,Write-ins,2
+Antrim,"Forest Home Township, Precinct 1",President,,,Write-ins,3
+Antrim,"Helena Township, Precinct 1",President,,,Write-ins,1
+Antrim,"Jordan Township, Precinct 1",President,,,Write-ins,0
+Antrim,"Kearney Township, Precinct 1",President,,,Write-ins,1
+Antrim,"Mancelona Township, Precinct 1",President,,,Write-ins,3
+Antrim,"Mancelona Township, Precinct 2",President,,,Write-ins,2
+Antrim,"Milton Township, Precinct 1",President,,,Write-ins,5
+Antrim,"Star Township, Precinct 1",President,,,Write-ins,0
+Antrim,"Torch Lake Township, Precinct 1",President,,,Write-ins,6
+Antrim,"Warner Township, Precinct 1",President,,,Write-ins,0
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,351
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,521
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,125
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,265
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,200
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,989
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,624
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,304
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,222
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,471
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,460
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,153
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,784
+Antrim,"Star Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,174
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,478
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,57
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,786
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,900
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,216
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,553
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,405
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,013"
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,768
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,450
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,378
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,734
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,352"
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,317
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,087"
+Antrim,"Star Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,468
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,536
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,173
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,19
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,15
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,13
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,22
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,23
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,22
+Antrim,"Star Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,UST,Dave Stein,13
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,UST,Dave Stein,9
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,UST,Dave Stein,9
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,UST,Dave Stein,17
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,UST,Dave Stein,4
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Antrim,"Star Township, Precinct 1",U.S. Senate,,UST,Dave Stein,11
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,8
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,16
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,8
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,1
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,11
+Antrim,"Star Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,11
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,0
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,7
+Antrim,"Star Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,,James Chapman,0
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Star Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,,James Chapman,0
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Star Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Star Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0
+Antrim,"Banks Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Central Lake Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Chestonia Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Antrim,"Custer Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Antrim,"Echo Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Elk Rapids Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Antrim,"Forest Home Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Antrim,"Helena Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Jordan Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Kearney Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Antrim,"Mancelona Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Antrim,"Mancelona Township, Precinct 2",U.S. Senate,,,Write-ins,2
+Antrim,"Milton Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Antrim,"Star Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Torch Lake Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Warner Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Antrim,"Banks Township, Precinct 1",U.S. House,1,DEM,Callie Barr,338
+Antrim,"Central Lake Township, Precinct 1",U.S. House,1,DEM,Callie Barr,506
+Antrim,"Chestonia Township, Precinct 1",U.S. House,1,DEM,Callie Barr,124
+Antrim,"Custer Township, Precinct 1",U.S. House,1,DEM,Callie Barr,258
+Antrim,"Echo Township, Precinct 1",U.S. House,1,DEM,Callie Barr,196
+Antrim,"Elk Rapids Township, Precinct 1",U.S. House,1,DEM,Callie Barr,963
+Antrim,"Forest Home Township, Precinct 1",U.S. House,1,DEM,Callie Barr,602
+Antrim,"Helena Township, Precinct 1",U.S. House,1,DEM,Callie Barr,295
+Antrim,"Jordan Township, Precinct 1",U.S. House,1,DEM,Callie Barr,214
+Antrim,"Kearney Township, Precinct 1",U.S. House,1,DEM,Callie Barr,460
+Antrim,"Mancelona Township, Precinct 1",U.S. House,1,DEM,Callie Barr,436
+Antrim,"Mancelona Township, Precinct 2",U.S. House,1,DEM,Callie Barr,151
+Antrim,"Milton Township, Precinct 1",U.S. House,1,DEM,Callie Barr,762
+Antrim,"Star Township, Precinct 1",U.S. House,1,DEM,Callie Barr,169
+Antrim,"Torch Lake Township, Precinct 1",U.S. House,1,DEM,Callie Barr,463
+Antrim,"Warner Township, Precinct 1",U.S. House,1,DEM,Callie Barr,60
+Antrim,"Banks Township, Precinct 1",U.S. House,1,REP,Jack Bergman,786
+Antrim,"Central Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,917
+Antrim,"Chestonia Township, Precinct 1",U.S. House,1,REP,Jack Bergman,212
+Antrim,"Custer Township, Precinct 1",U.S. House,1,REP,Jack Bergman,562
+Antrim,"Echo Township, Precinct 1",U.S. House,1,REP,Jack Bergman,408
+Antrim,"Elk Rapids Township, Precinct 1",U.S. House,1,REP,Jack Bergman,"1,036"
+Antrim,"Forest Home Township, Precinct 1",U.S. House,1,REP,Jack Bergman,778
+Antrim,"Helena Township, Precinct 1",U.S. House,1,REP,Jack Bergman,447
+Antrim,"Jordan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,387
+Antrim,"Kearney Township, Precinct 1",U.S. House,1,REP,Jack Bergman,759
+Antrim,"Mancelona Township, Precinct 1",U.S. House,1,REP,Jack Bergman,"1,332"
+Antrim,"Mancelona Township, Precinct 2",U.S. House,1,REP,Jack Bergman,320
+Antrim,"Milton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,"1,098"
+Antrim,"Star Township, Precinct 1",U.S. House,1,REP,Jack Bergman,473
+Antrim,"Torch Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,547
+Antrim,"Warner Township, Precinct 1",U.S. House,1,REP,Jack Bergman,173
+Antrim,"Banks Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,14
+Antrim,"Central Lake Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,20
+Antrim,"Chestonia Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,8
+Antrim,"Custer Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10
+Antrim,"Echo Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2
+Antrim,"Elk Rapids Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,18
+Antrim,"Forest Home Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,19
+Antrim,"Helena Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11
+Antrim,"Jordan Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Antrim,"Kearney Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,14
+Antrim,"Mancelona Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,30
+Antrim,"Mancelona Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,4
+Antrim,"Milton Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,21
+Antrim,"Star Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Antrim,"Torch Lake Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,9
+Antrim,"Warner Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,1
+Antrim,"Banks Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,20
+Antrim,"Central Lake Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,22
+Antrim,"Chestonia Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7
+Antrim,"Custer Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,12
+Antrim,"Echo Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9
+Antrim,"Elk Rapids Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,23
+Antrim,"Forest Home Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,20
+Antrim,"Helena Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13
+Antrim,"Jordan Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,12
+Antrim,"Kearney Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
+Antrim,"Mancelona Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,65
+Antrim,"Mancelona Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,2
+Antrim,"Milton Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,25
+Antrim,"Star Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,15
+Antrim,"Torch Lake Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Antrim,"Warner Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5
+Antrim,"Banks Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Central Lake Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Chestonia Township, Precinct 1",U.S. House,1,,Write-ins,4
+Antrim,"Custer Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Echo Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Elk Rapids Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Forest Home Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Helena Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Jordan Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Kearney Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Mancelona Township, Precinct 1",U.S. House,1,,Write-ins,5
+Antrim,"Mancelona Township, Precinct 2",U.S. House,1,,Write-ins,2
+Antrim,"Milton Township, Precinct 1",U.S. House,1,,Write-ins,1
+Antrim,"Star Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Torch Lake Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Warner Township, Precinct 1",U.S. House,1,,Write-ins,0
+Antrim,"Banks Township, Precinct 1",State House,104,DEM,Larry Knight,255
+Antrim,"Central Lake Township, Precinct 1",State House,104,DEM,Larry Knight,362
+Antrim,"Chestonia Township, Precinct 1",State House,104,DEM,Larry Knight,101
+Antrim,"Custer Township, Precinct 1",State House,104,DEM,Larry Knight,197
+Antrim,"Echo Township, Precinct 1",State House,104,DEM,Larry Knight,159
+Antrim,"Elk Rapids Township, Precinct 1",State House,104,DEM,Larry Knight,703
+Antrim,"Forest Home Township, Precinct 1",State House,104,DEM,Larry Knight,401
+Antrim,"Helena Township, Precinct 1",State House,104,DEM,Larry Knight,217
+Antrim,"Jordan Township, Precinct 1",State House,104,DEM,Larry Knight,173
+Antrim,"Kearney Township, Precinct 1",State House,104,DEM,Larry Knight,321
+Antrim,"Milton Township, Precinct 1",State House,104,DEM,Larry Knight,557
+Antrim,"Torch Lake Township, Precinct 1",State House,104,DEM,Larry Knight,309
+Antrim,"Warner Township, Precinct 1",State House,104,DEM,Larry Knight,1
+Antrim,"Banks Township, Precinct 1",State House,104,REP,John R. Roth,815
+Antrim,"Central Lake Township, Precinct 1",State House,104,REP,John R. Roth,908
+Antrim,"Chestonia Township, Precinct 1",State House,104,REP,John R. Roth,211
+Antrim,"Custer Township, Precinct 1",State House,104,REP,John R. Roth,566
+Antrim,"Echo Township, Precinct 1",State House,104,REP,John R. Roth,397
+Antrim,"Elk Rapids Township, Precinct 1",State House,104,REP,John R. Roth,"1,068"
+Antrim,"Forest Home Township, Precinct 1",State House,104,REP,John R. Roth,777
+Antrim,"Helena Township, Precinct 1",State House,104,REP,John R. Roth,458
+Antrim,"Jordan Township, Precinct 1",State House,104,REP,John R. Roth,390
+Antrim,"Kearney Township, Precinct 1",State House,104,REP,John R. Roth,736
+Antrim,"Milton Township, Precinct 1",State House,104,REP,John R. Roth,"1,139"
+Antrim,"Torch Lake Township, Precinct 1",State House,104,REP,John R. Roth,550
+Antrim,"Warner Township, Precinct 1",State House,104,REP,John R. Roth,10
+Antrim,"Banks Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,14
+Antrim,"Central Lake Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,21
+Antrim,"Chestonia Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,6
+Antrim,"Custer Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,14
+Antrim,"Echo Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,13
+Antrim,"Elk Rapids Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,25
+Antrim,"Forest Home Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,22
+Antrim,"Helena Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,9
+Antrim,"Jordan Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,15
+Antrim,"Kearney Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,21
+Antrim,"Milton Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,23
+Antrim,"Torch Lake Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,16
+Antrim,"Warner Township, Precinct 1",State House,104,LIB,Tyler Glenn Lautner,0
+Antrim,"Banks Township, Precinct 1",State House,104,,Cathy Albro,62
+Antrim,"Central Lake Township, Precinct 1",State House,104,,Cathy Albro,137
+Antrim,"Chestonia Township, Precinct 1",State House,104,,Cathy Albro,23
+Antrim,"Custer Township, Precinct 1",State House,104,,Cathy Albro,54
+Antrim,"Echo Township, Precinct 1",State House,104,,Cathy Albro,36
+Antrim,"Elk Rapids Township, Precinct 1",State House,104,,Cathy Albro,201
+Antrim,"Forest Home Township, Precinct 1",State House,104,,Cathy Albro,189
+Antrim,"Helena Township, Precinct 1",State House,104,,Cathy Albro,66
+Antrim,"Jordan Township, Precinct 1",State House,104,,Cathy Albro,28
+Antrim,"Kearney Township, Precinct 1",State House,104,,Cathy Albro,153
+Antrim,"Milton Township, Precinct 1",State House,104,,Cathy Albro,157
+Antrim,"Torch Lake Township, Precinct 1",State House,104,,Cathy Albro,121
+Antrim,"Warner Township, Precinct 1",State House,104,,Cathy Albro,0
+Antrim,"Banks Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Central Lake Township, Precinct 1",State House,104,,Write-ins,2
+Antrim,"Chestonia Township, Precinct 1",State House,104,,Write-ins,4
+Antrim,"Custer Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Echo Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Elk Rapids Township, Precinct 1",State House,104,,Write-ins,3
+Antrim,"Forest Home Township, Precinct 1",State House,104,,Write-ins,1
+Antrim,"Helena Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Jordan Township, Precinct 1",State House,104,,Write-ins,1
+Antrim,"Kearney Township, Precinct 1",State House,104,,Write-ins,2
+Antrim,"Milton Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Torch Lake Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Warner Township, Precinct 1",State House,104,,Write-ins,0
+Antrim,"Mancelona Township, Precinct 1",State House,105,DEM,James Wojey,424
+Antrim,"Mancelona Township, Precinct 2",State House,105,DEM,James Wojey,138
+Antrim,"Star Township, Precinct 1",State House,105,DEM,James Wojey,158
+Antrim,"Warner Township, Precinct 1",State House,105,DEM,James Wojey,56
+Antrim,"Mancelona Township, Precinct 1",State House,105,REP,Ken Borton,"1,401"
+Antrim,"Mancelona Township, Precinct 2",State House,105,REP,Ken Borton,337
+Antrim,"Star Township, Precinct 1",State House,105,REP,Ken Borton,497
+Antrim,"Warner Township, Precinct 1",State House,105,REP,Ken Borton,160
+Antrim,"Mancelona Township, Precinct 1",State House,105,,Write-ins,15
+Antrim,"Mancelona Township, Precinct 2",State House,105,,Write-ins,3
+Antrim,"Star Township, Precinct 1",State House,105,,Write-ins,1
+Antrim,"Warner Township, Precinct 1",State House,105,,Write-ins,1
+Antrim,"Banks Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,879
+Antrim,"Central Lake Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,"1,040"
+Antrim,"Chestonia Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,243
+Antrim,"Custer Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,686
+Antrim,"Echo Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,463
+Antrim,"Elk Rapids Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,"1,340"
+Antrim,"Forest Home Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,994
+Antrim,"Helena Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,566
+Antrim,"Jordan Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,465
+Antrim,"Kearney Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,944
+Antrim,"Mancelona Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,"1,536"
+Antrim,"Mancelona Township, Precinct 2",County Prosecuting Attorney,,REP,James L. Rossiter,347
+Antrim,"Milton Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,"1,310"
+Antrim,"Star Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,515
+Antrim,"Torch Lake Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,657
+Antrim,"Warner Township, Precinct 1",County Prosecuting Attorney,,REP,James L. Rossiter,180
+Antrim,"Banks Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,15
+Antrim,"Central Lake Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,13
+Antrim,"Chestonia Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,10
+Antrim,"Custer Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7
+Antrim,"Echo Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,5
+Antrim,"Elk Rapids Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,26
+Antrim,"Forest Home Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,17
+Antrim,"Helena Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8
+Antrim,"Jordan Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,12
+Antrim,"Kearney Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,14
+Antrim,"Mancelona Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,44
+Antrim,"Mancelona Township, Precinct 2",County Prosecuting Attorney,,,Write-ins,10
+Antrim,"Milton Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,20
+Antrim,"Star Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,5
+Antrim,"Torch Lake Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8
+Antrim,"Warner Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8
+Antrim,"Banks Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,850
+Antrim,"Central Lake Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,"1,089"
+Antrim,"Chestonia Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,267
+Antrim,"Custer Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,713
+Antrim,"Echo Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,466
+Antrim,"Elk Rapids Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,"1,536"
+Antrim,"Forest Home Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,"1,085"
+Antrim,"Helena Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,610
+Antrim,"Jordan Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,468
+Antrim,"Kearney Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,994
+Antrim,"Mancelona Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,"1,559"
+Antrim,"Mancelona Township, Precinct 2",County Sheriff,,REP,Kevin S. Hoch,355
+Antrim,"Milton Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,"1,425"
+Antrim,"Star Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,523
+Antrim,"Torch Lake Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,746
+Antrim,"Warner Township, Precinct 1",County Sheriff,,REP,Kevin S. Hoch,182
+Antrim,"Banks Township, Precinct 1",County Sheriff,,,Write-ins,62
+Antrim,"Central Lake Township, Precinct 1",County Sheriff,,,Write-ins,35
+Antrim,"Chestonia Township, Precinct 1",County Sheriff,,,Write-ins,7
+Antrim,"Custer Township, Precinct 1",County Sheriff,,,Write-ins,8
+Antrim,"Echo Township, Precinct 1",County Sheriff,,,Write-ins,16
+Antrim,"Elk Rapids Township, Precinct 1",County Sheriff,,,Write-ins,23
+Antrim,"Forest Home Township, Precinct 1",County Sheriff,,,Write-ins,26
+Antrim,"Helena Township, Precinct 1",County Sheriff,,,Write-ins,11
+Antrim,"Jordan Township, Precinct 1",County Sheriff,,,Write-ins,13
+Antrim,"Kearney Township, Precinct 1",County Sheriff,,,Write-ins,20
+Antrim,"Mancelona Township, Precinct 1",County Sheriff,,,Write-ins,55
+Antrim,"Mancelona Township, Precinct 2",County Sheriff,,,Write-ins,9
+Antrim,"Milton Township, Precinct 1",County Sheriff,,,Write-ins,16
+Antrim,"Star Township, Precinct 1",County Sheriff,,,Write-ins,9
+Antrim,"Torch Lake Township, Precinct 1",County Sheriff,,,Write-ins,16
+Antrim,"Warner Township, Precinct 1",County Sheriff,,,Write-ins,9
+Antrim,"Banks Township, Precinct 1",County Clerk,,REP,Victoria Bishop,724
+Antrim,"Central Lake Township, Precinct 1",County Clerk,,REP,Victoria Bishop,769
+Antrim,"Chestonia Township, Precinct 1",County Clerk,,REP,Victoria Bishop,194
+Antrim,"Custer Township, Precinct 1",County Clerk,,REP,Victoria Bishop,484
+Antrim,"Echo Township, Precinct 1",County Clerk,,REP,Victoria Bishop,373
+Antrim,"Elk Rapids Township, Precinct 1",County Clerk,,REP,Victoria Bishop,962
+Antrim,"Forest Home Township, Precinct 1",County Clerk,,REP,Victoria Bishop,547
+Antrim,"Helena Township, Precinct 1",County Clerk,,REP,Victoria Bishop,397
+Antrim,"Jordan Township, Precinct 1",County Clerk,,REP,Victoria Bishop,408
+Antrim,"Kearney Township, Precinct 1",County Clerk,,REP,Victoria Bishop,510
+Antrim,"Mancelona Township, Precinct 1",County Clerk,,REP,Victoria Bishop,"1,258"
+Antrim,"Mancelona Township, Precinct 2",County Clerk,,REP,Victoria Bishop,318
+Antrim,"Milton Township, Precinct 1",County Clerk,,REP,Victoria Bishop,979
+Antrim,"Star Township, Precinct 1",County Clerk,,REP,Victoria Bishop,467
+Antrim,"Torch Lake Township, Precinct 1",County Clerk,,REP,Victoria Bishop,487
+Antrim,"Warner Township, Precinct 1",County Clerk,,REP,Victoria Bishop,174
+Antrim,"Banks Township, Precinct 1",County Clerk,,,Sheryl Guy,285
+Antrim,"Central Lake Township, Precinct 1",County Clerk,,,Sheryl Guy,521
+Antrim,"Chestonia Township, Precinct 1",County Clerk,,,Sheryl Guy,101
+Antrim,"Custer Township, Precinct 1",County Clerk,,,Sheryl Guy,275
+Antrim,"Echo Township, Precinct 1",County Clerk,,,Sheryl Guy,159
+Antrim,"Elk Rapids Township, Precinct 1",County Clerk,,,Sheryl Guy,794
+Antrim,"Forest Home Township, Precinct 1",County Clerk,,,Sheryl Guy,750
+Antrim,"Helena Township, Precinct 1",County Clerk,,,Sheryl Guy,308
+Antrim,"Jordan Township, Precinct 1",County Clerk,,,Sheryl Guy,117
+Antrim,"Kearney Township, Precinct 1",County Clerk,,,Sheryl Guy,637
+Antrim,"Mancelona Township, Precinct 1",County Clerk,,,Sheryl Guy,389
+Antrim,"Mancelona Township, Precinct 2",County Clerk,,,Sheryl Guy,51
+Antrim,"Milton Township, Precinct 1",County Clerk,,,Sheryl Guy,660
+Antrim,"Star Township, Precinct 1",County Clerk,,,Sheryl Guy,90
+Antrim,"Torch Lake Township, Precinct 1",County Clerk,,,Sheryl Guy,383
+Antrim,"Warner Township, Precinct 1",County Clerk,,,Sheryl Guy,22
+Antrim,"Banks Township, Precinct 1",County Clerk,,,Write-ins,3
+Antrim,"Central Lake Township, Precinct 1",County Clerk,,,Write-ins,9
+Antrim,"Chestonia Township, Precinct 1",County Clerk,,,Write-ins,10
+Antrim,"Custer Township, Precinct 1",County Clerk,,,Write-ins,0
+Antrim,"Echo Township, Precinct 1",County Clerk,,,Write-ins,1
+Antrim,"Elk Rapids Township, Precinct 1",County Clerk,,,Write-ins,11
+Antrim,"Forest Home Township, Precinct 1",County Clerk,,,Write-ins,8
+Antrim,"Helena Township, Precinct 1",County Clerk,,,Write-ins,4
+Antrim,"Jordan Township, Precinct 1",County Clerk,,,Write-ins,0
+Antrim,"Kearney Township, Precinct 1",County Clerk,,,Write-ins,1
+Antrim,"Mancelona Township, Precinct 1",County Clerk,,,Write-ins,30
+Antrim,"Mancelona Township, Precinct 2",County Clerk,,,Write-ins,8
+Antrim,"Milton Township, Precinct 1",County Clerk,,,Write-ins,5
+Antrim,"Star Township, Precinct 1",County Clerk,,,Write-ins,3
+Antrim,"Torch Lake Township, Precinct 1",County Clerk,,,Write-ins,12
+Antrim,"Warner Township, Precinct 1",County Clerk,,,Write-ins,8
+Antrim,"Banks Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,859
+Antrim,"Central Lake Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,"1,049"
+Antrim,"Chestonia Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,250
+Antrim,"Custer Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,691
+Antrim,"Echo Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,463
+Antrim,"Elk Rapids Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,"1,318"
+Antrim,"Forest Home Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,"1,017"
+Antrim,"Helena Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,573
+Antrim,"Jordan Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,470
+Antrim,"Kearney Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,956
+Antrim,"Mancelona Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,"1,545"
+Antrim,"Mancelona Township, Precinct 2",County Treasurer,,REP,Sherry A. Comben,351
+Antrim,"Milton Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,"1,304"
+Antrim,"Star Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,520
+Antrim,"Torch Lake Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,651
+Antrim,"Warner Township, Precinct 1",County Treasurer,,REP,Sherry A. Comben,181
+Antrim,"Banks Township, Precinct 1",County Treasurer,,,Write-ins,15
+Antrim,"Central Lake Township, Precinct 1",County Treasurer,,,Write-ins,18
+Antrim,"Chestonia Township, Precinct 1",County Treasurer,,,Write-ins,10
+Antrim,"Custer Township, Precinct 1",County Treasurer,,,Write-ins,4
+Antrim,"Echo Township, Precinct 1",County Treasurer,,,Write-ins,2
+Antrim,"Elk Rapids Township, Precinct 1",County Treasurer,,,Write-ins,27
+Antrim,"Forest Home Township, Precinct 1",County Treasurer,,,Write-ins,15
+Antrim,"Helena Township, Precinct 1",County Treasurer,,,Write-ins,15
+Antrim,"Jordan Township, Precinct 1",County Treasurer,,,Write-ins,10
+Antrim,"Kearney Township, Precinct 1",County Treasurer,,,Write-ins,25
+Antrim,"Mancelona Township, Precinct 1",County Treasurer,,,Write-ins,37
+Antrim,"Mancelona Township, Precinct 2",County Treasurer,,,Write-ins,7
+Antrim,"Milton Township, Precinct 1",County Treasurer,,,Write-ins,20
+Antrim,"Star Township, Precinct 1",County Treasurer,,,Write-ins,7
+Antrim,"Torch Lake Township, Precinct 1",County Treasurer,,,Write-ins,8
+Antrim,"Warner Township, Precinct 1",County Treasurer,,,Write-ins,8
+Antrim,"Banks Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,894
+Antrim,"Central Lake Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,"1,087"
+Antrim,"Chestonia Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,256
+Antrim,"Custer Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,705
+Antrim,"Echo Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,464
+Antrim,"Elk Rapids Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,"1,364"
+Antrim,"Forest Home Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,"1,053"
+Antrim,"Helena Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,597
+Antrim,"Jordan Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,468
+Antrim,"Kearney Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,991
+Antrim,"Mancelona Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,"1,546"
+Antrim,"Mancelona Township, Precinct 2",County Register of Deeds,,REP,Patty Niepoth,351
+Antrim,"Milton Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,"1,331"
+Antrim,"Star Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,534
+Antrim,"Torch Lake Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,684
+Antrim,"Warner Township, Precinct 1",County Register of Deeds,,REP,Patty Niepoth,181
+Antrim,"Banks Township, Precinct 1",County Register of Deeds,,,Write-ins,8
+Antrim,"Central Lake Township, Precinct 1",County Register of Deeds,,,Write-ins,5
+Antrim,"Chestonia Township, Precinct 1",County Register of Deeds,,,Write-ins,6
+Antrim,"Custer Township, Precinct 1",County Register of Deeds,,,Write-ins,4
+Antrim,"Echo Township, Precinct 1",County Register of Deeds,,,Write-ins,4
+Antrim,"Elk Rapids Township, Precinct 1",County Register of Deeds,,,Write-ins,17
+Antrim,"Forest Home Township, Precinct 1",County Register of Deeds,,,Write-ins,15
+Antrim,"Helena Township, Precinct 1",County Register of Deeds,,,Write-ins,4
+Antrim,"Jordan Township, Precinct 1",County Register of Deeds,,,Write-ins,8
+Antrim,"Kearney Township, Precinct 1",County Register of Deeds,,,Write-ins,12
+Antrim,"Mancelona Township, Precinct 1",County Register of Deeds,,,Write-ins,34
+Antrim,"Mancelona Township, Precinct 2",County Register of Deeds,,,Write-ins,7
+Antrim,"Milton Township, Precinct 1",County Register of Deeds,,,Write-ins,10
+Antrim,"Star Township, Precinct 1",County Register of Deeds,,,Write-ins,5
+Antrim,"Torch Lake Township, Precinct 1",County Register of Deeds,,,Write-ins,3
+Antrim,"Warner Township, Precinct 1",County Register of Deeds,,,Write-ins,7
+Antrim,"Banks Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,287
+Antrim,"Central Lake Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,364
+Antrim,"Chestonia Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,82
+Antrim,"Custer Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,220
+Antrim,"Echo Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,143
+Antrim,"Elk Rapids Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,454
+Antrim,"Forest Home Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,256
+Antrim,"Helena Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,156
+Antrim,"Jordan Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,176
+Antrim,"Kearney Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,265
+Antrim,"Mancelona Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,484
+Antrim,"Mancelona Township, Precinct 2",County Drain Commissioner,,LIB,Matthew Lundy,116
+Antrim,"Milton Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,422
+Antrim,"Star Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,115
+Antrim,"Torch Lake Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,237
+Antrim,"Warner Township, Precinct 1",County Drain Commissioner,,LIB,Matthew Lundy,32
+Antrim,"Banks Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,344
+Antrim,"Central Lake Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,470
+Antrim,"Chestonia Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,119
+Antrim,"Custer Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,305
+Antrim,"Echo Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,196
+Antrim,"Elk Rapids Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,707
+Antrim,"Forest Home Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,576
+Antrim,"Helena Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,298
+Antrim,"Jordan Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,206
+Antrim,"Kearney Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,518
+Antrim,"Mancelona Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,696
+Antrim,"Mancelona Township, Precinct 2",County Drain Commissioner,,,Leslie Meyers,143
+Antrim,"Milton Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,574
+Antrim,"Star Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,158
+Antrim,"Torch Lake Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,284
+Antrim,"Warner Township, Precinct 1",County Drain Commissioner,,,Leslie Meyers,66
+Antrim,"Banks Township, Precinct 1",County Drain Commissioner,,,Write-ins,13
+Antrim,"Central Lake Township, Precinct 1",County Drain Commissioner,,,Write-ins,21
+Antrim,"Chestonia Township, Precinct 1",County Drain Commissioner,,,Write-ins,12
+Antrim,"Custer Township, Precinct 1",County Drain Commissioner,,,Write-ins,7
+Antrim,"Echo Township, Precinct 1",County Drain Commissioner,,,Write-ins,8
+Antrim,"Elk Rapids Township, Precinct 1",County Drain Commissioner,,,Write-ins,11
+Antrim,"Forest Home Township, Precinct 1",County Drain Commissioner,,,Write-ins,4
+Antrim,"Helena Township, Precinct 1",County Drain Commissioner,,,Write-ins,11
+Antrim,"Jordan Township, Precinct 1",County Drain Commissioner,,,Write-ins,11
+Antrim,"Kearney Township, Precinct 1",County Drain Commissioner,,,Write-ins,10
+Antrim,"Mancelona Township, Precinct 1",County Drain Commissioner,,,Write-ins,57
+Antrim,"Mancelona Township, Precinct 2",County Drain Commissioner,,,Write-ins,12
+Antrim,"Milton Township, Precinct 1",County Drain Commissioner,,,Write-ins,18
+Antrim,"Star Township, Precinct 1",County Drain Commissioner,,,Write-ins,5
+Antrim,"Torch Lake Township, Precinct 1",County Drain Commissioner,,,Write-ins,8
+Antrim,"Warner Township, Precinct 1",County Drain Commissioner,,,Write-ins,4
+Antrim,"Banks Township, Precinct 1",County Surveyor,,REP,Scott Papineau,876
+Antrim,"Central Lake Township, Precinct 1",County Surveyor,,REP,Scott Papineau,"1,099"
+Antrim,"Chestonia Township, Precinct 1",County Surveyor,,REP,Scott Papineau,248
+Antrim,"Custer Township, Precinct 1",County Surveyor,,REP,Scott Papineau,682
+Antrim,"Echo Township, Precinct 1",County Surveyor,,REP,Scott Papineau,472
+Antrim,"Elk Rapids Township, Precinct 1",County Surveyor,,REP,Scott Papineau,"1,298"
+Antrim,"Forest Home Township, Precinct 1",County Surveyor,,REP,Scott Papineau,994
+Antrim,"Helena Township, Precinct 1",County Surveyor,,REP,Scott Papineau,570
+Antrim,"Jordan Township, Precinct 1",County Surveyor,,REP,Scott Papineau,466
+Antrim,"Kearney Township, Precinct 1",County Surveyor,,REP,Scott Papineau,949
+Antrim,"Mancelona Township, Precinct 1",County Surveyor,,REP,Scott Papineau,"1,532"
+Antrim,"Mancelona Township, Precinct 2",County Surveyor,,REP,Scott Papineau,353
+Antrim,"Milton Township, Precinct 1",County Surveyor,,REP,Scott Papineau,"1,293"
+Antrim,"Star Township, Precinct 1",County Surveyor,,REP,Scott Papineau,519
+Antrim,"Torch Lake Township, Precinct 1",County Surveyor,,REP,Scott Papineau,658
+Antrim,"Warner Township, Precinct 1",County Surveyor,,REP,Scott Papineau,178
+Antrim,"Banks Township, Precinct 1",County Surveyor,,,Write-ins,10
+Antrim,"Central Lake Township, Precinct 1",County Surveyor,,,Write-ins,2
+Antrim,"Chestonia Township, Precinct 1",County Surveyor,,,Write-ins,5
+Antrim,"Custer Township, Precinct 1",County Surveyor,,,Write-ins,4
+Antrim,"Echo Township, Precinct 1",County Surveyor,,,Write-ins,1
+Antrim,"Elk Rapids Township, Precinct 1",County Surveyor,,,Write-ins,13
+Antrim,"Forest Home Township, Precinct 1",County Surveyor,,,Write-ins,7
+Antrim,"Helena Township, Precinct 1",County Surveyor,,,Write-ins,4
+Antrim,"Jordan Township, Precinct 1",County Surveyor,,,Write-ins,7
+Antrim,"Kearney Township, Precinct 1",County Surveyor,,,Write-ins,8
+Antrim,"Mancelona Township, Precinct 1",County Surveyor,,,Write-ins,32
+Antrim,"Mancelona Township, Precinct 2",County Surveyor,,,Write-ins,5
+Antrim,"Milton Township, Precinct 1",County Surveyor,,,Write-ins,12
+Antrim,"Star Township, Precinct 1",County Surveyor,,,Write-ins,5
+Antrim,"Torch Lake Township, Precinct 1",County Surveyor,,,Write-ins,5
+Antrim,"Warner Township, Precinct 1",County Surveyor,,,Write-ins,7

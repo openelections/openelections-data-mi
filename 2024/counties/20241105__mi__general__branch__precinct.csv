@@ -1,0 +1,715 @@
+county,precinct,office,district,party,candidate,votes
+Branch,City of Bronson,Straight Ticket,,DEM,Democratic,145
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,DEM,Democratic,190
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,DEM,Democratic,273
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,DEM,Democratic,270
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,DEM,Democratic,182
+Branch,Algansee Township,Straight Ticket,,DEM,Democratic,92
+Branch,Batavia Township,Straight Ticket,,DEM,Democratic,102
+Branch,Bethel Township,Straight Ticket,,DEM,Democratic,67
+Branch,Bronson Township,Straight Ticket,,DEM,Democratic,74
+Branch,Butler Township,Straight Ticket,,DEM,Democratic,71
+Branch,California Township,Straight Ticket,,DEM,Democratic,27
+Branch,Coldwater Township,Straight Ticket,,DEM,Democratic,253
+Branch,Gilead Township,Straight Ticket,,DEM,Democratic,40
+Branch,Girard Township,Straight Ticket,,DEM,Democratic,144
+Branch,Kinderhook Township,Straight Ticket,,DEM,Democratic,119
+Branch,Matteson Township,Straight Ticket,,DEM,Democratic,100
+Branch,Noble Township,Straight Ticket,,DEM,Democratic,29
+Branch,Ovid Township,Straight Ticket,,DEM,Democratic,194
+Branch,Quincy Township,Straight Ticket,,DEM,Democratic,262
+Branch,Sherwood Township,Straight Ticket,,DEM,Democratic,139
+Branch,Union Township,Straight Ticket,,DEM,Democratic,214
+Branch,City of Bronson,Straight Ticket,,REP,Republican,353
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,REP,Republican,381
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,REP,Republican,508
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,REP,Republican,548
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,REP,Republican,388
+Branch,Algansee Township,Straight Ticket,,REP,Republican,459
+Branch,Batavia Township,Straight Ticket,,REP,Republican,328
+Branch,Bethel Township,Straight Ticket,,REP,Republican,317
+Branch,Bronson Township,Straight Ticket,,REP,Republican,356
+Branch,Butler Township,Straight Ticket,,REP,Republican,295
+Branch,California Township,Straight Ticket,,REP,Republican,160
+Branch,Coldwater Township,Straight Ticket,,REP,Republican,961
+Branch,Gilead Township,Straight Ticket,,REP,Republican,168
+Branch,Girard Township,Straight Ticket,,REP,Republican,493
+Branch,Kinderhook Township,Straight Ticket,,REP,Republican,436
+Branch,Matteson Township,Straight Ticket,,REP,Republican,297
+Branch,Noble Township,Straight Ticket,,REP,Republican,143
+Branch,Ovid Township,Straight Ticket,,REP,Republican,748
+Branch,Quincy Township,Straight Ticket,,REP,Republican,923
+Branch,Sherwood Township,Straight Ticket,,REP,Republican,486
+Branch,Union Township,Straight Ticket,,REP,Republican,671
+Branch,City of Bronson,Straight Ticket,,LIB,Libertarian,2
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,LIB,Libertarian,5
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,LIB,Libertarian,5
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,LIB,Libertarian,1
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,LIB,Libertarian,3
+Branch,Algansee Township,Straight Ticket,,LIB,Libertarian,1
+Branch,Batavia Township,Straight Ticket,,LIB,Libertarian,3
+Branch,Bethel Township,Straight Ticket,,LIB,Libertarian,0
+Branch,Bronson Township,Straight Ticket,,LIB,Libertarian,2
+Branch,Butler Township,Straight Ticket,,LIB,Libertarian,0
+Branch,California Township,Straight Ticket,,LIB,Libertarian,0
+Branch,Coldwater Township,Straight Ticket,,LIB,Libertarian,3
+Branch,Gilead Township,Straight Ticket,,LIB,Libertarian,1
+Branch,Girard Township,Straight Ticket,,LIB,Libertarian,3
+Branch,Kinderhook Township,Straight Ticket,,LIB,Libertarian,1
+Branch,Matteson Township,Straight Ticket,,LIB,Libertarian,0
+Branch,Noble Township,Straight Ticket,,LIB,Libertarian,0
+Branch,Ovid Township,Straight Ticket,,LIB,Libertarian,3
+Branch,Quincy Township,Straight Ticket,,LIB,Libertarian,9
+Branch,Sherwood Township,Straight Ticket,,LIB,Libertarian,1
+Branch,Union Township,Straight Ticket,,LIB,Libertarian,3
+Branch,City of Bronson,Straight Ticket,,UST,U.S. Taxpayers,2
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,UST,U.S. Taxpayers,3
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,UST,U.S. Taxpayers,3
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,UST,U.S. Taxpayers,1
+Branch,Algansee Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Batavia Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Bethel Township,Straight Ticket,,UST,U.S. Taxpayers,1
+Branch,Bronson Township,Straight Ticket,,UST,U.S. Taxpayers,1
+Branch,Butler Township,Straight Ticket,,UST,U.S. Taxpayers,2
+Branch,California Township,Straight Ticket,,UST,U.S. Taxpayers,3
+Branch,Coldwater Township,Straight Ticket,,UST,U.S. Taxpayers,3
+Branch,Gilead Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Girard Township,Straight Ticket,,UST,U.S. Taxpayers,3
+Branch,Kinderhook Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Matteson Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Noble Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Ovid Township,Straight Ticket,,UST,U.S. Taxpayers,0
+Branch,Quincy Township,Straight Ticket,,UST,U.S. Taxpayers,1
+Branch,Sherwood Township,Straight Ticket,,UST,U.S. Taxpayers,2
+Branch,Union Township,Straight Ticket,,UST,U.S. Taxpayers,1
+Branch,City of Bronson,Straight Ticket,,GRN,Green,1
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,GRN,Green,5
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,GRN,Green,1
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,GRN,Green,4
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,GRN,Green,11
+Branch,Algansee Township,Straight Ticket,,GRN,Green,0
+Branch,Batavia Township,Straight Ticket,,GRN,Green,0
+Branch,Bethel Township,Straight Ticket,,GRN,Green,0
+Branch,Bronson Township,Straight Ticket,,GRN,Green,0
+Branch,Butler Township,Straight Ticket,,GRN,Green,0
+Branch,California Township,Straight Ticket,,GRN,Green,0
+Branch,Coldwater Township,Straight Ticket,,GRN,Green,0
+Branch,Gilead Township,Straight Ticket,,GRN,Green,0
+Branch,Girard Township,Straight Ticket,,GRN,Green,1
+Branch,Kinderhook Township,Straight Ticket,,GRN,Green,1
+Branch,Matteson Township,Straight Ticket,,GRN,Green,0
+Branch,Noble Township,Straight Ticket,,GRN,Green,1
+Branch,Ovid Township,Straight Ticket,,GRN,Green,2
+Branch,Quincy Township,Straight Ticket,,GRN,Green,1
+Branch,Sherwood Township,Straight Ticket,,GRN,Green,0
+Branch,Union Township,Straight Ticket,,GRN,Green,2
+Branch,City of Bronson,Straight Ticket,,WCP,Working Class,9
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,WCP,Working Class,4
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,WCP,Working Class,8
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,WCP,Working Class,10
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,WCP,Working Class,8
+Branch,Algansee Township,Straight Ticket,,WCP,Working Class,1
+Branch,Batavia Township,Straight Ticket,,WCP,Working Class,5
+Branch,Bethel Township,Straight Ticket,,WCP,Working Class,6
+Branch,Bronson Township,Straight Ticket,,WCP,Working Class,5
+Branch,Butler Township,Straight Ticket,,WCP,Working Class,4
+Branch,California Township,Straight Ticket,,WCP,Working Class,1
+Branch,Coldwater Township,Straight Ticket,,WCP,Working Class,5
+Branch,Gilead Township,Straight Ticket,,WCP,Working Class,2
+Branch,Girard Township,Straight Ticket,,WCP,Working Class,1
+Branch,Kinderhook Township,Straight Ticket,,WCP,Working Class,1
+Branch,Matteson Township,Straight Ticket,,WCP,Working Class,2
+Branch,Noble Township,Straight Ticket,,WCP,Working Class,0
+Branch,Ovid Township,Straight Ticket,,WCP,Working Class,6
+Branch,Quincy Township,Straight Ticket,,WCP,Working Class,5
+Branch,Sherwood Township,Straight Ticket,,WCP,Working Class,3
+Branch,Union Township,Straight Ticket,,WCP,Working Class,8
+Branch,City of Bronson,Straight Ticket,,NLP,Natural Law,1
+Branch,"City of Coldwater, Pct 1",Straight Ticket,,NLP,Natural Law,0
+Branch,"City of Coldwater, Pct 2",Straight Ticket,,NLP,Natural Law,1
+Branch,"City of Coldwater, Pct 3",Straight Ticket,,NLP,Natural Law,2
+Branch,"City of Coldwater, Pct 4",Straight Ticket,,NLP,Natural Law,2
+Branch,Algansee Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Batavia Township,Straight Ticket,,NLP,Natural Law,2
+Branch,Bethel Township,Straight Ticket,,NLP,Natural Law,1
+Branch,Bronson Township,Straight Ticket,,NLP,Natural Law,1
+Branch,Butler Township,Straight Ticket,,NLP,Natural Law,0
+Branch,California Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Coldwater Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Gilead Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Girard Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Kinderhook Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Matteson Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Noble Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Ovid Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Quincy Township,Straight Ticket,,NLP,Natural Law,0
+Branch,Sherwood Township,Straight Ticket,,NLP,Natural Law,2
+Branch,Union Township,Straight Ticket,,NLP,Natural Law,0
+Branch,City of Bronson,President,,DEM,Kamala D. Harris,261
+Branch,"City of Coldwater, Pct 1",President,,DEM,Kamala D. Harris,298
+Branch,"City of Coldwater, Pct 2",President,,DEM,Kamala D. Harris,492
+Branch,"City of Coldwater, Pct 3",President,,DEM,Kamala D. Harris,575
+Branch,"City of Coldwater, Pct 4",President,,DEM,Kamala D. Harris,339
+Branch,Algansee Township,President,,DEM,Kamala D. Harris,225
+Branch,Batavia Township,President,,DEM,Kamala D. Harris,171
+Branch,Bethel Township,President,,DEM,Kamala D. Harris,138
+Branch,Bronson Township,President,,DEM,Kamala D. Harris,146
+Branch,Butler Township,President,,DEM,Kamala D. Harris,143
+Branch,California Township,President,,DEM,Kamala D. Harris,51
+Branch,Coldwater Township,President,,DEM,Kamala D. Harris,520
+Branch,Gilead Township,President,,DEM,Kamala D. Harris,87
+Branch,Girard Township,President,,DEM,Kamala D. Harris,289
+Branch,Kinderhook Township,President,,DEM,Kamala D. Harris,257
+Branch,Matteson Township,President,,DEM,Kamala D. Harris,217
+Branch,Noble Township,President,,DEM,Kamala D. Harris,58
+Branch,Ovid Township,President,,DEM,Kamala D. Harris,429
+Branch,Quincy Township,President,,DEM,Kamala D. Harris,547
+Branch,Sherwood Township,President,,DEM,Kamala D. Harris,254
+Branch,Union Township,President,,DEM,Kamala D. Harris,414
+Branch,City of Bronson,President,,REP,Donald J. Trump,574
+Branch,"City of Coldwater, Pct 1",President,,REP,Donald J. Trump,570
+Branch,"City of Coldwater, Pct 2",President,,REP,Donald J. Trump,799
+Branch,"City of Coldwater, Pct 3",President,,REP,Donald J. Trump,897
+Branch,"City of Coldwater, Pct 4",President,,REP,Donald J. Trump,613
+Branch,Algansee Township,President,,REP,Donald J. Trump,778
+Branch,Batavia Township,President,,REP,Donald J. Trump,502
+Branch,Bethel Township,President,,REP,Donald J. Trump,522
+Branch,Bronson Township,President,,REP,Donald J. Trump,585
+Branch,Butler Township,President,,REP,Donald J. Trump,492
+Branch,California Township,President,,REP,Donald J. Trump,221
+Branch,Coldwater Township,President,,REP,Donald J. Trump,1480
+Branch,Gilead Township,President,,REP,Donald J. Trump,261
+Branch,Girard Township,President,,REP,Donald J. Trump,780
+Branch,Kinderhook Township,President,,REP,Donald J. Trump,689
+Branch,Matteson Township,President,,REP,Donald J. Trump,473
+Branch,Noble Township,President,,REP,Donald J. Trump,199
+Branch,Ovid Township,President,,REP,Donald J. Trump,1160
+Branch,Quincy Township,President,,REP,Donald J. Trump,1442
+Branch,Sherwood Township,President,,REP,Donald J. Trump,773
+Branch,Union Township,President,,REP,Donald J. Trump,1038
+Branch,City of Bronson,President,,LIB,Chase Oliver,5
+Branch,"City of Coldwater, Pct 1",President,,LIB,Chase Oliver,7
+Branch,"City of Coldwater, Pct 2",President,,LIB,Chase Oliver,7
+Branch,"City of Coldwater, Pct 3",President,,LIB,Chase Oliver,3
+Branch,"City of Coldwater, Pct 4",President,,LIB,Chase Oliver,3
+Branch,Algansee Township,President,,LIB,Chase Oliver,1
+Branch,Batavia Township,President,,LIB,Chase Oliver,4
+Branch,Bethel Township,President,,LIB,Chase Oliver,1
+Branch,Bronson Township,President,,LIB,Chase Oliver,2
+Branch,Butler Township,President,,LIB,Chase Oliver,5
+Branch,California Township,President,,LIB,Chase Oliver,0
+Branch,Coldwater Township,President,,LIB,Chase Oliver,9
+Branch,Gilead Township,President,,LIB,Chase Oliver,0
+Branch,Girard Township,President,,LIB,Chase Oliver,4
+Branch,Kinderhook Township,President,,LIB,Chase Oliver,1
+Branch,Matteson Township,President,,LIB,Chase Oliver,3
+Branch,Noble Township,President,,LIB,Chase Oliver,1
+Branch,Ovid Township,President,,LIB,Chase Oliver,3
+Branch,Quincy Township,President,,LIB,Chase Oliver,10
+Branch,Sherwood Township,President,,LIB,Chase Oliver,3
+Branch,Union Township,President,,LIB,Chase Oliver,5
+Branch,City of Bronson,President,,UST,Randall Terry,0
+Branch,"City of Coldwater, Pct 1",President,,UST,Randall Terry,1
+Branch,"City of Coldwater, Pct 2",President,,UST,Randall Terry,2
+Branch,"City of Coldwater, Pct 3",President,,UST,Randall Terry,7
+Branch,"City of Coldwater, Pct 4",President,,UST,Randall Terry,0
+Branch,Algansee Township,President,,UST,Randall Terry,3
+Branch,Batavia Township,President,,UST,Randall Terry,4
+Branch,Bethel Township,President,,UST,Randall Terry,2
+Branch,Bronson Township,President,,UST,Randall Terry,0
+Branch,Butler Township,President,,UST,Randall Terry,1
+Branch,California Township,President,,UST,Randall Terry,1
+Branch,Coldwater Township,President,,UST,Randall Terry,3
+Branch,Gilead Township,President,,UST,Randall Terry,0
+Branch,Girard Township,President,,UST,Randall Terry,4
+Branch,Kinderhook Township,President,,UST,Randall Terry,0
+Branch,Matteson Township,President,,UST,Randall Terry,0
+Branch,Noble Township,President,,UST,Randall Terry,2
+Branch,Ovid Township,President,,UST,Randall Terry,1
+Branch,Quincy Township,President,,UST,Randall Terry,2
+Branch,Sherwood Township,President,,UST,Randall Terry,2
+Branch,Union Township,President,,UST,Randall Terry,4
+Branch,City of Bronson,President,,GRN,Jill Stein,2
+Branch,"City of Coldwater, Pct 1",President,,GRN,Jill Stein,19
+Branch,"City of Coldwater, Pct 2",President,,GRN,Jill Stein,3
+Branch,"City of Coldwater, Pct 3",President,,GRN,Jill Stein,8
+Branch,"City of Coldwater, Pct 4",President,,GRN,Jill Stein,20
+Branch,Algansee Township,President,,GRN,Jill Stein,2
+Branch,Batavia Township,President,,GRN,Jill Stein,1
+Branch,Bethel Township,President,,GRN,Jill Stein,1
+Branch,Bronson Township,President,,GRN,Jill Stein,1
+Branch,Butler Township,President,,GRN,Jill Stein,0
+Branch,California Township,President,,GRN,Jill Stein,0
+Branch,Coldwater Township,President,,GRN,Jill Stein,1
+Branch,Gilead Township,President,,GRN,Jill Stein,1
+Branch,Girard Township,President,,GRN,Jill Stein,5
+Branch,Kinderhook Township,President,,GRN,Jill Stein,3
+Branch,Matteson Township,President,,GRN,Jill Stein,0
+Branch,Noble Township,President,,GRN,Jill Stein,1
+Branch,Ovid Township,President,,GRN,Jill Stein,0
+Branch,Quincy Township,President,,GRN,Jill Stein,3
+Branch,Sherwood Township,President,,GRN,Jill Stein,1
+Branch,Union Township,President,,GRN,Jill Stein,5
+Branch,City of Bronson,President,,,Robert F. Kennedy Jr.,6
+Branch,"City of Coldwater, Pct 1",President,,,Robert F. Kennedy Jr.,4
+Branch,"City of Coldwater, Pct 2",President,,,Robert F. Kennedy Jr.,7
+Branch,"City of Coldwater, Pct 3",President,,,Robert F. Kennedy Jr.,13
+Branch,"City of Coldwater, Pct 4",President,,,Robert F. Kennedy Jr.,8
+Branch,Algansee Township,President,,,Robert F. Kennedy Jr.,1
+Branch,Batavia Township,President,,,Robert F. Kennedy Jr.,7
+Branch,Bethel Township,President,,,Robert F. Kennedy Jr.,3
+Branch,Bronson Township,President,,,Robert F. Kennedy Jr.,4
+Branch,Butler Township,President,,,Robert F. Kennedy Jr.,5
+Branch,California Township,President,,,Robert F. Kennedy Jr.,1
+Branch,Coldwater Township,President,,,Robert F. Kennedy Jr.,4
+Branch,Gilead Township,President,,,Robert F. Kennedy Jr.,2
+Branch,Girard Township,President,,,Robert F. Kennedy Jr.,6
+Branch,Kinderhook Township,President,,,Robert F. Kennedy Jr.,5
+Branch,Matteson Township,President,,,Robert F. Kennedy Jr.,3
+Branch,Noble Township,President,,,Robert F. Kennedy Jr.,1
+Branch,Ovid Township,President,,,Robert F. Kennedy Jr.,3
+Branch,Quincy Township,President,,,Robert F. Kennedy Jr.,11
+Branch,Sherwood Township,President,,,Robert F. Kennedy Jr.,5
+Branch,Union Township,President,,,Robert F. Kennedy Jr.,14
+Branch,City of Bronson,President,,,Joseph  Kishore,0
+Branch,"City of Coldwater, Pct 1",President,,,Joseph  Kishore,1
+Branch,"City of Coldwater, Pct 2",President,,,Joseph  Kishore,0
+Branch,"City of Coldwater, Pct 3",President,,,Joseph  Kishore,1
+Branch,"City of Coldwater, Pct 4",President,,,Joseph  Kishore,0
+Branch,Algansee Township,President,,,Joseph  Kishore,0
+Branch,Batavia Township,President,,,Joseph  Kishore,2
+Branch,Bethel Township,President,,,Joseph  Kishore,0
+Branch,Bronson Township,President,,,Joseph  Kishore,0
+Branch,Butler Township,President,,,Joseph  Kishore,1
+Branch,California Township,President,,,Joseph  Kishore,0
+Branch,Coldwater Township,President,,,Joseph  Kishore,0
+Branch,Gilead Township,President,,,Joseph  Kishore,0
+Branch,Girard Township,President,,,Joseph  Kishore,1
+Branch,Kinderhook Township,President,,,Joseph  Kishore,0
+Branch,Matteson Township,President,,,Joseph  Kishore,0
+Branch,Noble Township,President,,,Joseph  Kishore,0
+Branch,Ovid Township,President,,,Joseph  Kishore,2
+Branch,Quincy Township,President,,,Joseph  Kishore,2
+Branch,Sherwood Township,President,,,Joseph  Kishore,1
+Branch,Union Township,President,,,Joseph  Kishore,0
+Branch,City of Bronson,President,,,Cornel  West,3
+Branch,"City of Coldwater, Pct 1",President,,,Cornel  West,1
+Branch,"City of Coldwater, Pct 2",President,,,Cornel  West,0
+Branch,"City of Coldwater, Pct 3",President,,,Cornel  West,2
+Branch,"City of Coldwater, Pct 4",President,,,Cornel  West,1
+Branch,Algansee Township,President,,,Cornel  West,0
+Branch,Batavia Township,President,,,Cornel  West,0
+Branch,Bethel Township,President,,,Cornel  West,1
+Branch,Bronson Township,President,,,Cornel  West,0
+Branch,Butler Township,President,,,Cornel  West,0
+Branch,California Township,President,,,Cornel  West,0
+Branch,Coldwater Township,President,,,Cornel  West,0
+Branch,Gilead Township,President,,,Cornel  West,0
+Branch,Girard Township,President,,,Cornel  West,0
+Branch,Kinderhook Township,President,,,Cornel  West,2
+Branch,Matteson Township,President,,,Cornel  West,0
+Branch,Noble Township,President,,,Cornel  West,0
+Branch,Ovid Township,President,,,Cornel  West,0
+Branch,Quincy Township,President,,,Cornel  West,0
+Branch,Sherwood Township,President,,,Cornel  West,2
+Branch,Union Township,President,,,Cornel  West,0
+Branch,City of Bronson,President,,,Peter  Sonski,0
+Branch,"City of Coldwater, Pct 1",President,,,Peter  Sonski,0
+Branch,"City of Coldwater, Pct 2",President,,,Peter  Sonski,0
+Branch,"City of Coldwater, Pct 3",President,,,Peter  Sonski,0
+Branch,"City of Coldwater, Pct 4",President,,,Peter  Sonski,0
+Branch,Algansee Township,President,,,Peter  Sonski,0
+Branch,Batavia Township,President,,,Peter  Sonski,0
+Branch,Bethel Township,President,,,Peter  Sonski,0
+Branch,Bronson Township,President,,,Peter  Sonski,0
+Branch,Butler Township,President,,,Peter  Sonski,0
+Branch,California Township,President,,,Peter  Sonski,0
+Branch,Coldwater Township,President,,,Peter  Sonski,0
+Branch,Gilead Township,President,,,Peter  Sonski,0
+Branch,Girard Township,President,,,Peter  Sonski,0
+Branch,Kinderhook Township,President,,,Peter  Sonski,0
+Branch,Matteson Township,President,,,Peter  Sonski,0
+Branch,Noble Township,President,,,Peter  Sonski,0
+Branch,Ovid Township,President,,,Peter  Sonski,0
+Branch,Quincy Township,President,,,Peter  Sonski,0
+Branch,Sherwood Township,President,,,Peter  Sonski,0
+Branch,Union Township,President,,,Peter  Sonski,1
+Branch,City of Bronson,U.S. Senate,,DEM,Elissa Slotkin,255
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,DEM,Elissa Slotkin,310
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,DEM,Elissa Slotkin,498
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,DEM,Elissa Slotkin,560
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,DEM,Elissa Slotkin,331
+Branch,Algansee Township,U.S. Senate,,DEM,Elissa Slotkin,220
+Branch,Batavia Township,U.S. Senate,,DEM,Elissa Slotkin,165
+Branch,Bethel Township,U.S. Senate,,DEM,Elissa Slotkin,146
+Branch,Bronson Township,U.S. Senate,,DEM,Elissa Slotkin,157
+Branch,Butler Township,U.S. Senate,,DEM,Elissa Slotkin,151
+Branch,California Township,U.S. Senate,,DEM,Elissa Slotkin,50
+Branch,Coldwater Township,U.S. Senate,,DEM,Elissa Slotkin,511
+Branch,Gilead Township,U.S. Senate,,DEM,Elissa Slotkin,84
+Branch,Girard Township,U.S. Senate,,DEM,Elissa Slotkin,297
+Branch,Kinderhook Township,U.S. Senate,,DEM,Elissa Slotkin,255
+Branch,Matteson Township,U.S. Senate,,DEM,Elissa Slotkin,208
+Branch,Noble Township,U.S. Senate,,DEM,Elissa Slotkin,56
+Branch,Ovid Township,U.S. Senate,,DEM,Elissa Slotkin,433
+Branch,Quincy Township,U.S. Senate,,DEM,Elissa Slotkin,568
+Branch,Sherwood Township,U.S. Senate,,DEM,Elissa Slotkin,265
+Branch,Union Township,U.S. Senate,,DEM,Elissa Slotkin,403
+Branch,City of Bronson,U.S. Senate,,REP,Mike Rogers,535
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,REP,Mike Rogers,526
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,REP,Mike Rogers,743
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,REP,Mike Rogers,872
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,REP,Mike Rogers,575
+Branch,Algansee Township,U.S. Senate,,REP,Mike Rogers,756
+Branch,Batavia Township,U.S. Senate,,REP,Mike Rogers,495
+Branch,Bethel Township,U.S. Senate,,REP,Mike Rogers,497
+Branch,Bronson Township,U.S. Senate,,REP,Mike Rogers,555
+Branch,Butler Township,U.S. Senate,,REP,Mike Rogers,475
+Branch,California Township,U.S. Senate,,REP,Mike Rogers,208
+Branch,Coldwater Township,U.S. Senate,,REP,Mike Rogers,1425
+Branch,Gilead Township,U.S. Senate,,REP,Mike Rogers,249
+Branch,Girard Township,U.S. Senate,,REP,Mike Rogers,751
+Branch,Kinderhook Township,U.S. Senate,,REP,Mike Rogers,663
+Branch,Matteson Township,U.S. Senate,,REP,Mike Rogers,461
+Branch,Noble Township,U.S. Senate,,REP,Mike Rogers,200
+Branch,Ovid Township,U.S. Senate,,REP,Mike Rogers,1129
+Branch,Quincy Township,U.S. Senate,,REP,Mike Rogers,1360
+Branch,Sherwood Township,U.S. Senate,,REP,Mike Rogers,716
+Branch,Union Township,U.S. Senate,,REP,Mike Rogers,990
+Branch,City of Bronson,U.S. Senate,,LIB,Joseph Solis-Mullen,17
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,18
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,15
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,LIB,Joseph Solis-Mullen,20
+Branch,Algansee Township,U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Branch,Batavia Township,U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Branch,Bethel Township,U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Branch,Bronson Township,U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Branch,Butler Township,U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Branch,California Township,U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Branch,Coldwater Township,U.S. Senate,,LIB,Joseph Solis-Mullen,23
+Branch,Gilead Township,U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Branch,Girard Township,U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Branch,Kinderhook Township,U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Branch,Matteson Township,U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Branch,Noble Township,U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Branch,Ovid Township,U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Branch,Quincy Township,U.S. Senate,,LIB,Joseph Solis-Mullen,26
+Branch,Sherwood Township,U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Branch,Union Township,U.S. Senate,,LIB,Joseph Solis-Mullen,21
+Branch,City of Bronson,U.S. Senate,,UST,Dave Stein,9
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,UST,Dave Stein,14
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,UST,Dave Stein,13
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,UST,Dave Stein,17
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,UST,Dave Stein,14
+Branch,Algansee Township,U.S. Senate,,UST,Dave Stein,12
+Branch,Batavia Township,U.S. Senate,,UST,Dave Stein,7
+Branch,Bethel Township,U.S. Senate,,UST,Dave Stein,10
+Branch,Bronson Township,U.S. Senate,,UST,Dave Stein,8
+Branch,Butler Township,U.S. Senate,,UST,Dave Stein,6
+Branch,California Township,U.S. Senate,,UST,Dave Stein,6
+Branch,Coldwater Township,U.S. Senate,,UST,Dave Stein,27
+Branch,Gilead Township,U.S. Senate,,UST,Dave Stein,2
+Branch,Girard Township,U.S. Senate,,UST,Dave Stein,8
+Branch,Kinderhook Township,U.S. Senate,,UST,Dave Stein,6
+Branch,Matteson Township,U.S. Senate,,UST,Dave Stein,6
+Branch,Noble Township,U.S. Senate,,UST,Dave Stein,0
+Branch,Ovid Township,U.S. Senate,,UST,Dave Stein,14
+Branch,Quincy Township,U.S. Senate,,UST,Dave Stein,21
+Branch,Sherwood Township,U.S. Senate,,UST,Dave Stein,8
+Branch,Union Township,U.S. Senate,,UST,Dave Stein,21
+Branch,City of Bronson,U.S. Senate,,GRN,Douglas P. Marsh,8
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,GRN,Douglas P. Marsh,14
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,GRN,Douglas P. Marsh,5
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,GRN,Douglas P. Marsh,14
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,GRN,Douglas P. Marsh,17
+Branch,Algansee Township,U.S. Senate,,GRN,Douglas P. Marsh,7
+Branch,Batavia Township,U.S. Senate,,GRN,Douglas P. Marsh,2
+Branch,Bethel Township,U.S. Senate,,GRN,Douglas P. Marsh,3
+Branch,Bronson Township,U.S. Senate,,GRN,Douglas P. Marsh,4
+Branch,Butler Township,U.S. Senate,,GRN,Douglas P. Marsh,4
+Branch,California Township,U.S. Senate,,GRN,Douglas P. Marsh,3
+Branch,Coldwater Township,U.S. Senate,,GRN,Douglas P. Marsh,6
+Branch,Gilead Township,U.S. Senate,,GRN,Douglas P. Marsh,0
+Branch,Girard Township,U.S. Senate,,GRN,Douglas P. Marsh,6
+Branch,Kinderhook Township,U.S. Senate,,GRN,Douglas P. Marsh,6
+Branch,Matteson Township,U.S. Senate,,GRN,Douglas P. Marsh,3
+Branch,Noble Township,U.S. Senate,,GRN,Douglas P. Marsh,1
+Branch,Ovid Township,U.S. Senate,,GRN,Douglas P. Marsh,3
+Branch,Quincy Township,U.S. Senate,,GRN,Douglas P. Marsh,9
+Branch,Sherwood Township,U.S. Senate,,GRN,Douglas P. Marsh,6
+Branch,Union Township,U.S. Senate,,GRN,Douglas P. Marsh,9
+Branch,City of Bronson,U.S. Senate,,NLP,Doug Dern,10
+Branch,"City of Coldwater, Pct 1",U.S. Senate,,NLP,Doug Dern,8
+Branch,"City of Coldwater, Pct 2",U.S. Senate,,NLP,Doug Dern,10
+Branch,"City of Coldwater, Pct 3",U.S. Senate,,NLP,Doug Dern,8
+Branch,"City of Coldwater, Pct 4",U.S. Senate,,NLP,Doug Dern,7
+Branch,Algansee Township,U.S. Senate,,NLP,Doug Dern,2
+Branch,Batavia Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,Bethel Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,Bronson Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,Butler Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,California Township,U.S. Senate,,NLP,Doug Dern,2
+Branch,Coldwater Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,Gilead Township,U.S. Senate,,NLP,Doug Dern,2
+Branch,Girard Township,U.S. Senate,,NLP,Doug Dern,2
+Branch,Kinderhook Township,U.S. Senate,,NLP,Doug Dern,2
+Branch,Matteson Township,U.S. Senate,,NLP,Doug Dern,1
+Branch,Noble Township,U.S. Senate,,NLP,Doug Dern,1
+Branch,Ovid Township,U.S. Senate,,NLP,Doug Dern,3
+Branch,Quincy Township,U.S. Senate,,NLP,Doug Dern,12
+Branch,Sherwood Township,U.S. Senate,,NLP,Doug Dern,8
+Branch,Union Township,U.S. Senate,,NLP,Doug Dern,10
+Branch,City of Bronson,U.S. House,5,DEM,Libbi Urban,226
+Branch,"City of Coldwater, Pct 1",U.S. House,5,DEM,Libbi Urban,280
+Branch,"City of Coldwater, Pct 2",U.S. House,5,DEM,Libbi Urban,426
+Branch,"City of Coldwater, Pct 3",U.S. House,5,DEM,Libbi Urban,500
+Branch,"City of Coldwater, Pct 4",U.S. House,5,DEM,Libbi Urban,301
+Branch,"Algansee Township, Pre",U.S. House,5,DEM,Libbi Urban,192
+Branch,Batavia Township,U.S. House,5,DEM,Libbi Urban,144
+Branch,Bethel Township,U.S. House,5,DEM,Libbi Urban,126
+Branch,Bronson Township,U.S. House,5,DEM,Libbi Urban,126
+Branch,Butler Township,U.S. House,5,DEM,Libbi Urban,123
+Branch,California Township,U.S. House,5,DEM,Libbi Urban,43
+Branch,Coldwater Township,U.S. House,5,DEM,Libbi Urban,422
+Branch,Gilead Township,U.S. House,5,DEM,Libbi Urban,70
+Branch,Girard Township,U.S. House,5,DEM,Libbi Urban,248
+Branch,Kinderhook Township,U.S. House,5,DEM,Libbi Urban,215
+Branch,Matteson Township,U.S. House,5,DEM,Libbi Urban,195
+Branch,Noble Township,U.S. House,5,DEM,Libbi Urban,50
+Branch,Ovid Township,U.S. House,5,DEM,Libbi Urban,373
+Branch,Quincy Township,U.S. House,5,DEM,Libbi Urban,466
+Branch,Sherwood Township,U.S. House,5,DEM,Libbi Urban,217
+Branch,Union Township,U.S. House,5,DEM,Libbi Urban,360
+Branch,City of Bronson,U.S. House,5,REP,Tim Walberg,584
+Branch,"City of Coldwater, Pct 1",U.S. House,5,REP,Tim Walberg,570
+Branch,"City of Coldwater, Pct 2",U.S. House,5,REP,Tim Walberg,834
+Branch,"City of Coldwater, Pct 3",U.S. House,5,REP,Tim Walberg,963
+Branch,"City of Coldwater, Pct 4",U.S. House,5,REP,Tim Walberg,622
+Branch,"Algansee Township, Pre",U.S. House,5,REP,Tim Walberg,790
+Branch,Batavia Township,U.S. House,5,REP,Tim Walberg,525
+Branch,Bethel Township,U.S. House,5,REP,Tim Walberg,525
+Branch,Bronson Township,U.S. House,5,REP,Tim Walberg,591
+Branch,Butler Township,U.S. House,5,REP,Tim Walberg,504
+Branch,California Township,U.S. House,5,REP,Tim Walberg,224
+Branch,Coldwater Township,U.S. House,5,REP,Tim Walberg,1534
+Branch,Gilead Township,U.S. House,5,REP,Tim Walberg,270
+Branch,Girard Township,U.S. House,5,REP,Tim Walberg,808
+Branch,Kinderhook Township,U.S. House,5,REP,Tim Walberg,707
+Branch,Matteson Township,U.S. House,5,REP,Tim Walberg,481
+Branch,Noble Township,U.S. House,5,REP,Tim Walberg,206
+Branch,Ovid Township,U.S. House,5,REP,Tim Walberg,1206
+Branch,Quincy Township,U.S. House,5,REP,Tim Walberg,1480
+Branch,Sherwood Township,U.S. House,5,REP,Tim Walberg,775
+Branch,Union Township,U.S. House,5,REP,Tim Walberg,1067
+Branch,City of Bronson,U.S. House,5,GRN,James Bronke,20
+Branch,"City of Coldwater, Pct 1",U.S. House,5,GRN,James Bronke,25
+Branch,"City of Coldwater, Pct 2",U.S. House,5,GRN,James Bronke,18
+Branch,"City of Coldwater, Pct 3",U.S. House,5,GRN,James Bronke,16
+Branch,"City of Coldwater, Pct 4",U.S. House,5,GRN,James Bronke,33
+Branch,"Algansee Township, Pre",U.S. House,5,GRN,James Bronke,14
+Branch,Batavia Township,U.S. House,5,GRN,James Bronke,7
+Branch,Bethel Township,U.S. House,5,GRN,James Bronke,10
+Branch,Bronson Township,U.S. House,5,GRN,James Bronke,10
+Branch,Butler Township,U.S. House,5,GRN,James Bronke,14
+Branch,California Township,U.S. House,5,GRN,James Bronke,3
+Branch,Coldwater Township,U.S. House,5,GRN,James Bronke,27
+Branch,Gilead Township,U.S. House,5,GRN,James Bronke,1
+Branch,Girard Township,U.S. House,5,GRN,James Bronke,11
+Branch,Kinderhook Township,U.S. House,5,GRN,James Bronke,12
+Branch,Matteson Township,U.S. House,5,GRN,James Bronke,5
+Branch,Noble Township,U.S. House,5,GRN,James Bronke,2
+Branch,Ovid Township,U.S. House,5,GRN,James Bronke,15
+Branch,Quincy Township,U.S. House,5,GRN,James Bronke,30
+Branch,Sherwood Township,U.S. House,5,GRN,James Bronke,13
+Branch,Union Township,U.S. House,5,GRN,James Bronke,24
+Branch,City of Bronson,State House,35,DEM,Don Hicks,324
+Branch,"City of Coldwater, Pct 1",State House,35,DEM,Don Hicks,327
+Branch,"City of Coldwater, Pct 2",State House,35,DEM,Don Hicks,503
+Branch,"City of Coldwater, Pct 3",State House,35,DEM,Don Hicks,593
+Branch,"City of Coldwater, Pct 4",State House,35,DEM,Don Hicks,337
+Branch,Algansee Township,State House,35,DEM,Don Hicks,222
+Branch,Batavia Township,State House,35,DEM,Don Hicks,187
+Branch,Bethel Township,State House,35,DEM,Don Hicks,183
+Branch,Bronson Township,State House,35,DEM,Don Hicks,212
+Branch,Butler Township,State House,35,DEM,Don Hicks,140
+Branch,California Township,State House,35,DEM,Don Hicks,52
+Branch,Coldwater Township,State House,35,DEM,Don Hicks,536
+Branch,Gilead Township,State House,35,DEM,Don Hicks,106
+Branch,Girard Township,State House,35,DEM,Don Hicks,287
+Branch,Kinderhook Township,State House,35,DEM,Don Hicks,240
+Branch,Matteson Township,State House,35,DEM,Don Hicks,234
+Branch,Noble Township,State House,35,DEM,Don Hicks,67
+Branch,Ovid Township,State House,35,DEM,Don Hicks,411
+Branch,Quincy Township,State House,35,DEM,Don Hicks,523
+Branch,Sherwood Township,State House,35,DEM,Don Hicks,257
+Branch,Union Township,State House,35,DEM,Don Hicks,404
+Branch,City of Bronson,State House,35,REP,Jennifer Wortz,499
+Branch,"City of Coldwater, Pct 1",State House,35,REP,Jennifer Wortz,532
+Branch,"City of Coldwater, Pct 2",State House,35,REP,Jennifer Wortz,766
+Branch,"City of Coldwater, Pct 3",State House,35,REP,Jennifer Wortz,878
+Branch,"City of Coldwater, Pct 4",State House,35,REP,Jennifer Wortz,607
+Branch,Algansee Township,State House,35,REP,Jennifer Wortz,770
+Branch,Batavia Township,State House,35,REP,Jennifer Wortz,484
+Branch,Bethel Township,State House,35,REP,Jennifer Wortz,478
+Branch,Bronson Township,State House,35,REP,Jennifer Wortz,508
+Branch,Butler Township,State House,35,REP,Jennifer Wortz,494
+Branch,California Township,State House,35,REP,Jennifer Wortz,218
+Branch,Coldwater Township,State House,35,REP,Jennifer Wortz,1435
+Branch,Gilead Township,State House,35,REP,Jennifer Wortz,235
+Branch,Girard Township,State House,35,REP,Jennifer Wortz,782
+Branch,Kinderhook Township,State House,35,REP,Jennifer Wortz,692
+Branch,Matteson Township,State House,35,REP,Jennifer Wortz,447
+Branch,Noble Township,State House,35,REP,Jennifer Wortz,190
+Branch,Ovid Township,State House,35,REP,Jennifer Wortz,1174
+Branch,Quincy Township,State House,35,REP,Jennifer Wortz,1436
+Branch,Sherwood Township,State House,35,REP,Jennifer Wortz,737
+Branch,Union Township,State House,35,REP,Jennifer Wortz,1024
+Branch,City of Bronson,County Prosecuting Attorney,,REP,Zachary W. Stempien,659
+Branch,"City of Coldwater, Pct 1",County Prosecuting Attorney,,REP,Zachary W. Stempien,669
+Branch,"City of Coldwater, Pct 2",County Prosecuting Attorney,,REP,Zachary W. Stempien,965
+Branch,"City of Coldwater, Pct 3",County Prosecuting Attorney,,REP,Zachary W. Stempien,1165
+Branch,"City of Coldwater, Pct 4",County Prosecuting Attorney,,REP,Zachary W. Stempien,739
+Branch,Algansee Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,837
+Branch,Batavia Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,562
+Branch,Bethel Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,548
+Branch,Bronson Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,633
+Branch,Butler Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,540
+Branch,California Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,242
+Branch,Coldwater Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,1667
+Branch,Gilead Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,288
+Branch,Girard Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,891
+Branch,Kinderhook Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,752
+Branch,Matteson Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,543
+Branch,Noble Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,228
+Branch,Ovid Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,1313
+Branch,Quincy Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,1642
+Branch,Sherwood Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,812
+Branch,Union Township,County Prosecuting Attorney,,REP,Zachary W. Stempien,1161
+Branch,City of Bronson,County Sheriff,,REP,Fred Blankenship,659
+Branch,"City of Coldwater, Pct 1",County Sheriff,,REP,Fred Blankenship,662
+Branch,"City of Coldwater, Pct 2",County Sheriff,,REP,Fred Blankenship,979
+Branch,"City of Coldwater, Pct 3",County Sheriff,,REP,Fred Blankenship,1147
+Branch,"City of Coldwater, Pct 4",County Sheriff,,REP,Fred Blankenship,748
+Branch,Algansee Township,County Sheriff,,REP,Fred Blankenship,827
+Branch,Batavia Township,County Sheriff,,REP,Fred Blankenship,570
+Branch,Bethel Township,County Sheriff,,REP,Fred Blankenship,547
+Branch,Bronson Township,County Sheriff,,REP,Fred Blankenship,634
+Branch,Butler Township,County Sheriff,,REP,Fred Blankenship,545
+Branch,California Township,County Sheriff,,REP,Fred Blankenship,238
+Branch,Coldwater Township,County Sheriff,,REP,Fred Blankenship,1663
+Branch,Gilead Township,County Sheriff,,REP,Fred Blankenship,291
+Branch,Girard Township,County Sheriff,,REP,Fred Blankenship,898
+Branch,Kinderhook Township,County Sheriff,,REP,Fred Blankenship,751
+Branch,Matteson Township,County Sheriff,,REP,Fred Blankenship,551
+Branch,Noble Township,County Sheriff,,REP,Fred Blankenship,231
+Branch,Ovid Township,County Sheriff,,REP,Fred Blankenship,1325
+Branch,Quincy Township,County Sheriff,,REP,Fred Blankenship,1647
+Branch,Sherwood Township,County Sheriff,,REP,Fred Blankenship,814
+Branch,Union Township,County Sheriff,,REP,Fred Blankenship,1168
+Branch,City of Bronson,County Clerk,,REP,Terry Ann Kubasiak,672
+Branch,"City of Coldwater, Pct 1",County Clerk,,REP,Terry Ann Kubasiak,665
+Branch,"City of Coldwater, Pct 2",County Clerk,,REP,Terry Ann Kubasiak,982
+Branch,"City of Coldwater, Pct 3",County Clerk,,REP,Terry Ann Kubasiak,1160
+Branch,"City of Coldwater, Pct 4",County Clerk,,REP,Terry Ann Kubasiak,734
+Branch,Algansee Township,County Clerk,,REP,Terry Ann Kubasiak,841
+Branch,Batavia Township,County Clerk,,REP,Terry Ann Kubasiak,575
+Branch,Bethel Township,County Clerk,,REP,Terry Ann Kubasiak,563
+Branch,Bronson Township,County Clerk,,REP,Terry Ann Kubasiak,643
+Branch,Butler Township,County Clerk,,REP,Terry Ann Kubasiak,537
+Branch,California Township,County Clerk,,REP,Terry Ann Kubasiak,241
+Branch,Coldwater Township,County Clerk,,REP,Terry Ann Kubasiak,1674
+Branch,Gilead Township,County Clerk,,REP,Terry Ann Kubasiak,298
+Branch,Girard Township,County Clerk,,REP,Terry Ann Kubasiak,899
+Branch,Kinderhook Township,County Clerk,,REP,Terry Ann Kubasiak,748
+Branch,Matteson Township,County Clerk,,REP,Terry Ann Kubasiak,561
+Branch,Noble Township,County Clerk,,REP,Terry Ann Kubasiak,226
+Branch,Ovid Township,County Clerk,,REP,Terry Ann Kubasiak,1330
+Branch,Quincy Township,County Clerk,,REP,Terry Ann Kubasiak,1650
+Branch,Sherwood Township,County Clerk,,REP,Terry Ann Kubasiak,813
+Branch,Union Township,County Clerk,,REP,Terry Ann Kubasiak,1174
+Branch,City of Bronson,County Treasurer,,REP,Steven A. Rutz,668
+Branch,"City of Coldwater, Pct 1",County Treasurer,,REP,Steven A. Rutz,663
+Branch,"City of Coldwater, Pct 2",County Treasurer,,REP,Steven A. Rutz,968
+Branch,"City of Coldwater, Pct 3",County Treasurer,,REP,Steven A. Rutz,1143
+Branch,"City of Coldwater, Pct 4",County Treasurer,,REP,Steven A. Rutz,734
+Branch,Algansee Township,County Treasurer,,REP,Steven A. Rutz,814
+Branch,Batavia Township,County Treasurer,,REP,Steven A. Rutz,554
+Branch,Bethel Township,County Treasurer,,REP,Steven A. Rutz,553
+Branch,Bronson Township,County Treasurer,,REP,Steven A. Rutz,626
+Branch,Butler Township,County Treasurer,,REP,Steven A. Rutz,534
+Branch,California Township,County Treasurer,,REP,Steven A. Rutz,235
+Branch,Coldwater Township,County Treasurer,,REP,Steven A. Rutz,1650
+Branch,Gilead Township,County Treasurer,,REP,Steven A. Rutz,289
+Branch,Girard Township,County Treasurer,,REP,Steven A. Rutz,896
+Branch,Kinderhook Township,County Treasurer,,REP,Steven A. Rutz,716
+Branch,Matteson Township,County Treasurer,,REP,Steven A. Rutz,532
+Branch,Noble Township,County Treasurer,,REP,Steven A. Rutz,226
+Branch,Ovid Township,County Treasurer,,REP,Steven A. Rutz,1297
+Branch,Quincy Township,County Treasurer,,REP,Steven A. Rutz,1622
+Branch,Sherwood Township,County Treasurer,,REP,Steven A. Rutz,799
+Branch,Union Township,County Treasurer,,REP,Steven A. Rutz,1150
+Branch,City of Bronson,County Register of Deeds,,REP,Nyci DeLoach,666
+Branch,"City of Coldwater, Pct 1",County Register of Deeds,,REP,Nyci DeLoach,648
+Branch,"City of Coldwater, Pct 2",County Register of Deeds,,REP,Nyci DeLoach,960
+Branch,"City of Coldwater, Pct 3",County Register of Deeds,,REP,Nyci DeLoach,1139
+Branch,"City of Coldwater, Pct 4",County Register of Deeds,,REP,Nyci DeLoach,722
+Branch,Algansee Township,County Register of Deeds,,REP,Nyci DeLoach,817
+Branch,Batavia Township,County Register of Deeds,,REP,Nyci DeLoach,552
+Branch,Bethel Township,County Register of Deeds,,REP,Nyci DeLoach,553
+Branch,Bronson Township,County Register of Deeds,,REP,Nyci DeLoach,621
+Branch,Butler Township,County Register of Deeds,,REP,Nyci DeLoach,536
+Branch,California Township,County Register of Deeds,,REP,Nyci DeLoach,234
+Branch,Coldwater Township,County Register of Deeds,,REP,Nyci DeLoach,1639
+Branch,Gilead Township,County Register of Deeds,,REP,Nyci DeLoach,286
+Branch,Girard Township,County Register of Deeds,,REP,Nyci DeLoach,887
+Branch,Kinderhook Township,County Register of Deeds,,REP,Nyci DeLoach,716
+Branch,Matteson Township,County Register of Deeds,,REP,Nyci DeLoach,533
+Branch,Noble Township,County Register of Deeds,,REP,Nyci DeLoach,226
+Branch,Ovid Township,County Register of Deeds,,REP,Nyci DeLoach,1308
+Branch,Quincy Township,County Register of Deeds,,REP,Nyci DeLoach,1618
+Branch,Sherwood Township,County Register of Deeds,,REP,Nyci DeLoach,795
+Branch,Union Township,County Register of Deeds,,REP,Nyci DeLoach,1145
+Branch,City of Bronson,County Drain Commissioner,,REP,Michael W. Hard,664
+Branch,"City of Coldwater, Pct 1",County Drain Commissioner,,REP,Michael W. Hard,652
+Branch,"City of Coldwater, Pct 2",County Drain Commissioner,,REP,Michael W. Hard,965
+Branch,"City of Coldwater, Pct 3",County Drain Commissioner,,REP,Michael W. Hard,1152
+Branch,"City of Coldwater, Pct 4",County Drain Commissioner,,REP,Michael W. Hard,726
+Branch,Algansee Township,County Drain Commissioner,,REP,Michael W. Hard,834
+Branch,Batavia Township,County Drain Commissioner,,REP,Michael W. Hard,554
+Branch,Bethel Township,County Drain Commissioner,,REP,Michael W. Hard,557
+Branch,Bronson Township,County Drain Commissioner,,REP,Michael W. Hard,627
+Branch,Butler Township,County Drain Commissioner,,REP,Michael W. Hard,546
+Branch,California Township,County Drain Commissioner,,REP,Michael W. Hard,233
+Branch,Coldwater Township,County Drain Commissioner,,REP,Michael W. Hard,1642
+Branch,Gilead Township,County Drain Commissioner,,REP,Michael W. Hard,289
+Branch,Girard Township,County Drain Commissioner,,REP,Michael W. Hard,897
+Branch,Kinderhook Township,County Drain Commissioner,,REP,Michael W. Hard,722
+Branch,Matteson Township,County Drain Commissioner,,REP,Michael W. Hard,542
+Branch,Noble Township,County Drain Commissioner,,REP,Michael W. Hard,231
+Branch,Ovid Township,County Drain Commissioner,,REP,Michael W. Hard,1311
+Branch,Quincy Township,County Drain Commissioner,,REP,Michael W. Hard,1639
+Branch,Sherwood Township,County Drain Commissioner,,REP,Michael W. Hard,799
+Branch,Union Township,County Drain Commissioner,,REP,Michael W. Hard,1156
+Branch,City of Bronson,County Surveyor,,REP,Edward W. Reed,662
+Branch,"City of Coldwater, Pct 1",County Surveyor,,REP,Edward W. Reed,655
+Branch,"City of Coldwater, Pct 2",County Surveyor,,REP,Edward W. Reed,954
+Branch,"City of Coldwater, Pct 3",County Surveyor,,REP,Edward W. Reed,1150
+Branch,"City of Coldwater, Pct 4",County Surveyor,,REP,Edward W. Reed,726
+Branch,Algansee Township,County Surveyor,,REP,Edward W. Reed,819
+Branch,Batavia Township,County Surveyor,,REP,Edward W. Reed,547
+Branch,Bethel Township,County Surveyor,,REP,Edward W. Reed,551
+Branch,Bronson Township,County Surveyor,,REP,Edward W. Reed,619
+Branch,Butler Township,County Surveyor,,REP,Edward W. Reed,536
+Branch,California Township,County Surveyor,,REP,Edward W. Reed,233
+Branch,Coldwater Township,County Surveyor,,REP,Edward W. Reed,1624
+Branch,Gilead Township,County Surveyor,,REP,Edward W. Reed,287
+Branch,Girard Township,County Surveyor,,REP,Edward W. Reed,884
+Branch,Kinderhook Township,County Surveyor,,REP,Edward W. Reed,722
+Branch,Matteson Township,County Surveyor,,REP,Edward W. Reed,531
+Branch,Noble Township,County Surveyor,,REP,Edward W. Reed,229
+Branch,Ovid Township,County Surveyor,,REP,Edward W. Reed,1298
+Branch,Quincy Township,County Surveyor,,REP,Edward W. Reed,1617
+Branch,Sherwood Township,County Surveyor,,REP,Edward W. Reed,792
+Branch,Union Township,County Surveyor,,REP,Edward W. Reed,1146

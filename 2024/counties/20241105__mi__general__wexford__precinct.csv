@@ -1,0 +1,986 @@
+county,precinct,office,district,party,candidate,votes
+Wexford,"City of Cadillac, Precinct 1",Registered Voters,,,,"3,035"
+Wexford,"City of Cadillac, Precinct 2",Registered Voters,,,,"2,903"
+Wexford,"City of Cadillac, Precinct 3",Registered Voters,,,,"2,770"
+Wexford,"City of Manton, Precinct 1",Registered Voters,,,,"1,038"
+Wexford,"Antioch Township, Precinct 1",Registered Voters,,,,769
+Wexford,"Boon Township, Precinct 1",Registered Voters,,,,686
+Wexford,"Cedar Creek Township, Precinct 1",Registered Voters,,,,"1,499"
+Wexford,"Cherry Grove Township, Precinct 1",Registered Voters,,,,"2,221"
+Wexford,"Clam Lake Township, Precinct 1",Registered Voters,,,,"2,227"
+Wexford,"Colfax Township, Precinct 1",Registered Voters,,,,789
+Wexford,"Greenwood Township, Precinct 1",Registered Voters,,,,543
+Wexford,"Hanover Township, Precinct 1",Registered Voters,,,,"1,540"
+Wexford,"Haring Township, Precinct 1",Registered Voters,,,,"2,995"
+Wexford,"Henderson Township, Precinct 1",Registered Voters,,,,182
+Wexford,"Liberty Township, Precinct 1",Registered Voters,,,,766
+Wexford,"Selma Township, Precinct 1",Registered Voters,,,,"2,028"
+Wexford,"Slagle Township, Precinct 1",Registered Voters,,,,515
+Wexford,"South Branch Township, Precinct 1",Registered Voters,,,,346
+Wexford,"Springville Township, Precinct 1",Registered Voters,,,,"1,653"
+Wexford,"Wexford Township, Precinct 1",Registered Voters,,,,909
+Wexford,"City of Cadillac, Precinct 1",Ballots Cast,,,,"1,809"
+Wexford,"City of Cadillac, Precinct 2",Ballots Cast,,,,"1,694"
+Wexford,"City of Cadillac, Precinct 3",Ballots Cast,,,,"1,804"
+Wexford,"City of Manton, Precinct 1",Ballots Cast,,,,612
+Wexford,"Antioch Township, Precinct 1",Ballots Cast,,,,517
+Wexford,"Boon Township, Precinct 1",Ballots Cast,,,,403
+Wexford,"Cedar Creek Township, Precinct 1",Ballots Cast,,,,995
+Wexford,"Cherry Grove Township, Precinct 1",Ballots Cast,,,,"1,734"
+Wexford,"Clam Lake Township, Precinct 1",Ballots Cast,,,,"1,643"
+Wexford,"Colfax Township, Precinct 1",Ballots Cast,,,,556
+Wexford,"Greenwood Township, Precinct 1",Ballots Cast,,,,381
+Wexford,"Hanover Township, Precinct 1",Ballots Cast,,,,"1,041"
+Wexford,"Haring Township, Precinct 1",Ballots Cast,,,,"2,054"
+Wexford,"Henderson Township, Precinct 1",Ballots Cast,,,,137
+Wexford,"Liberty Township, Precinct 1",Ballots Cast,,,,545
+Wexford,"Selma Township, Precinct 1",Ballots Cast,,,,"1,345"
+Wexford,"Slagle Township, Precinct 1",Ballots Cast,,,,330
+Wexford,"South Branch Township, Precinct 1",Ballots Cast,,,,260
+Wexford,"Springville Township, Precinct 1",Ballots Cast,,,,994
+Wexford,"Wexford Township, Precinct 1",Ballots Cast,,,,730
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,DEM,Democratic,332
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,DEM,Democratic,354
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,DEM,Democratic,352
+Wexford,"City of Manton, Precinct 1",Straight Party,,DEM,Democratic,85
+Wexford,"Antioch Township, Precinct 1",Straight Party,,DEM,Democratic,73
+Wexford,"Boon Township, Precinct 1",Straight Party,,DEM,Democratic,61
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,DEM,Democratic,107
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,DEM,Democratic,203
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,DEM,Democratic,174
+Wexford,"Colfax Township, Precinct 1",Straight Party,,DEM,Democratic,67
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,DEM,Democratic,41
+Wexford,"Hanover Township, Precinct 1",Straight Party,,DEM,Democratic,153
+Wexford,"Haring Township, Precinct 1",Straight Party,,DEM,Democratic,244
+Wexford,"Henderson Township, Precinct 1",Straight Party,,DEM,Democratic,22
+Wexford,"Liberty Township, Precinct 1",Straight Party,,DEM,Democratic,33
+Wexford,"Selma Township, Precinct 1",Straight Party,,DEM,Democratic,198
+Wexford,"Slagle Township, Precinct 1",Straight Party,,DEM,Democratic,52
+Wexford,"South Branch Township, Precinct 1",Straight Party,,DEM,Democratic,46
+Wexford,"Springville Township, Precinct 1",Straight Party,,DEM,Democratic,135
+Wexford,"Wexford Township, Precinct 1",Straight Party,,DEM,Democratic,79
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,REP,Republican,705
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,REP,Republican,595
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,REP,Republican,626
+Wexford,"City of Manton, Precinct 1",Straight Party,,REP,Republican,279
+Wexford,"Antioch Township, Precinct 1",Straight Party,,REP,Republican,226
+Wexford,"Boon Township, Precinct 1",Straight Party,,REP,Republican,152
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,REP,Republican,452
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,REP,Republican,620
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,REP,Republican,659
+Wexford,"Colfax Township, Precinct 1",Straight Party,,REP,Republican,257
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,REP,Republican,170
+Wexford,"Hanover Township, Precinct 1",Straight Party,,REP,Republican,474
+Wexford,"Haring Township, Precinct 1",Straight Party,,REP,Republican,822
+Wexford,"Henderson Township, Precinct 1",Straight Party,,REP,Republican,50
+Wexford,"Liberty Township, Precinct 1",Straight Party,,REP,Republican,259
+Wexford,"Selma Township, Precinct 1",Straight Party,,REP,Republican,530
+Wexford,"Slagle Township, Precinct 1",Straight Party,,REP,Republican,144
+Wexford,"South Branch Township, Precinct 1",Straight Party,,REP,Republican,91
+Wexford,"Springville Township, Precinct 1",Straight Party,,REP,Republican,445
+Wexford,"Wexford Township, Precinct 1",Straight Party,,REP,Republican,360
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,LIB,Libertarian,13
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,LIB,Libertarian,6
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,LIB,Libertarian,8
+Wexford,"City of Manton, Precinct 1",Straight Party,,LIB,Libertarian,4
+Wexford,"Antioch Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Boon Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Colfax Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Wexford,"Hanover Township, Precinct 1",Straight Party,,LIB,Libertarian,5
+Wexford,"Haring Township, Precinct 1",Straight Party,,LIB,Libertarian,8
+Wexford,"Henderson Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Wexford,"Selma Township, Precinct 1",Straight Party,,LIB,Libertarian,5
+Wexford,"Slagle Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Wexford,"Springville Township, Precinct 1",Straight Party,,LIB,Libertarian,8
+Wexford,"Wexford Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,UST,U.S. Taxpayers,4
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,UST,U.S. Taxpayers,3
+Wexford,"City of Manton, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Boon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Colfax Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Haring Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Henderson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Selma Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Wexford,"Slagle Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Springville Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"Wexford Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,GRN,Green,8
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,GRN,Green,3
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,GRN,Green,4
+Wexford,"City of Manton, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Antioch Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Boon Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Colfax Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Haring Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Henderson Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"Selma Township, Precinct 1",Straight Party,,GRN,Green,2
+Wexford,"Slagle Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,GRN,Green,1
+Wexford,"Springville Township, Precinct 1",Straight Party,,GRN,Green,4
+Wexford,"Wexford Township, Precinct 1",Straight Party,,GRN,Green,0
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,WCP,Working Class,16
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,WCP,Working Class,10
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,WCP,Working Class,8
+Wexford,"City of Manton, Precinct 1",Straight Party,,WCP,Working Class,7
+Wexford,"Antioch Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Wexford,"Boon Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,WCP,Working Class,6
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,WCP,Working Class,8
+Wexford,"Colfax Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"Hanover Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Wexford,"Haring Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Wexford,"Henderson Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"Liberty Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Wexford,"Selma Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Wexford,"Slagle Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Wexford,"Springville Township, Precinct 1",Straight Party,,WCP,Working Class,10
+Wexford,"Wexford Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Wexford,"City of Cadillac, Precinct 1",Straight Party,,NLP,Natural Law,3
+Wexford,"City of Cadillac, Precinct 2",Straight Party,,NLP,Natural Law,0
+Wexford,"City of Cadillac, Precinct 3",Straight Party,,NLP,Natural Law,5
+Wexford,"City of Manton, Precinct 1",Straight Party,,NLP,Natural Law,3
+Wexford,"Antioch Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Boon Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Cedar Creek Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Cherry Grove Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Wexford,"Clam Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Colfax Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Greenwood Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Hanover Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Haring Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Henderson Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Liberty Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Selma Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"Slagle Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"South Branch Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Wexford,"Springville Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Wexford,"Wexford Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Wexford,"City of Cadillac, Precinct 1",President,,DEM,Kamala D. Harris,693
+Wexford,"City of Cadillac, Precinct 2",President,,DEM,Kamala D. Harris,709
+Wexford,"City of Cadillac, Precinct 3",President,,DEM,Kamala D. Harris,760
+Wexford,"City of Manton, Precinct 1",President,,DEM,Kamala D. Harris,165
+Wexford,"Antioch Township, Precinct 1",President,,DEM,Kamala D. Harris,152
+Wexford,"Boon Township, Precinct 1",President,,DEM,Kamala D. Harris,133
+Wexford,"Cedar Creek Township, Precinct 1",President,,DEM,Kamala D. Harris,256
+Wexford,"Cherry Grove Township, Precinct 1",President,,DEM,Kamala D. Harris,572
+Wexford,"Clam Lake Township, Precinct 1",President,,DEM,Kamala D. Harris,510
+Wexford,"Colfax Township, Precinct 1",President,,DEM,Kamala D. Harris,151
+Wexford,"Greenwood Township, Precinct 1",President,,DEM,Kamala D. Harris,94
+Wexford,"Hanover Township, Precinct 1",President,,DEM,Kamala D. Harris,282
+Wexford,"Haring Township, Precinct 1",President,,DEM,Kamala D. Harris,585
+Wexford,"Henderson Township, Precinct 1",President,,DEM,Kamala D. Harris,32
+Wexford,"Liberty Township, Precinct 1",President,,DEM,Kamala D. Harris,103
+Wexford,"Selma Township, Precinct 1",President,,DEM,Kamala D. Harris,423
+Wexford,"Slagle Township, Precinct 1",President,,DEM,Kamala D. Harris,96
+Wexford,"South Branch Township, Precinct 1",President,,DEM,Kamala D. Harris,94
+Wexford,"Springville Township, Precinct 1",President,,DEM,Kamala D. Harris,252
+Wexford,"Wexford Township, Precinct 1",President,,DEM,Kamala D. Harris,162
+Wexford,"City of Cadillac, Precinct 1",President,,REP,Donald J. Trump,"1,071"
+Wexford,"City of Cadillac, Precinct 2",President,,REP,Donald J. Trump,959
+Wexford,"City of Cadillac, Precinct 3",President,,REP,Donald J. Trump,995
+Wexford,"City of Manton, Precinct 1",President,,REP,Donald J. Trump,437
+Wexford,"Antioch Township, Precinct 1",President,,REP,Donald J. Trump,355
+Wexford,"Boon Township, Precinct 1",President,,REP,Donald J. Trump,256
+Wexford,"Cedar Creek Township, Precinct 1",President,,REP,Donald J. Trump,720
+Wexford,"Cherry Grove Township, Precinct 1",President,,REP,Donald J. Trump,"1,124"
+Wexford,"Clam Lake Township, Precinct 1",President,,REP,Donald J. Trump,"1,104"
+Wexford,"Colfax Township, Precinct 1",President,,REP,Donald J. Trump,402
+Wexford,"Greenwood Township, Precinct 1",President,,REP,Donald J. Trump,280
+Wexford,"Hanover Township, Precinct 1",President,,REP,Donald J. Trump,744
+Wexford,"Haring Township, Precinct 1",President,,REP,Donald J. Trump,"1,436"
+Wexford,"Henderson Township, Precinct 1",President,,REP,Donald J. Trump,99
+Wexford,"Liberty Township, Precinct 1",President,,REP,Donald J. Trump,431
+Wexford,"Selma Township, Precinct 1",President,,REP,Donald J. Trump,893
+Wexford,"Slagle Township, Precinct 1",President,,REP,Donald J. Trump,225
+Wexford,"South Branch Township, Precinct 1",President,,REP,Donald J. Trump,164
+Wexford,"Springville Township, Precinct 1",President,,REP,Donald J. Trump,724
+Wexford,"Wexford Township, Precinct 1",President,,REP,Donald J. Trump,549
+Wexford,"City of Cadillac, Precinct 1",President,,LIB,Chase Oliver,11
+Wexford,"City of Cadillac, Precinct 2",President,,LIB,Chase Oliver,8
+Wexford,"City of Cadillac, Precinct 3",President,,LIB,Chase Oliver,14
+Wexford,"City of Manton, Precinct 1",President,,LIB,Chase Oliver,4
+Wexford,"Antioch Township, Precinct 1",President,,LIB,Chase Oliver,3
+Wexford,"Boon Township, Precinct 1",President,,LIB,Chase Oliver,5
+Wexford,"Cedar Creek Township, Precinct 1",President,,LIB,Chase Oliver,4
+Wexford,"Cherry Grove Township, Precinct 1",President,,LIB,Chase Oliver,7
+Wexford,"Clam Lake Township, Precinct 1",President,,LIB,Chase Oliver,7
+Wexford,"Colfax Township, Precinct 1",President,,LIB,Chase Oliver,1
+Wexford,"Greenwood Township, Precinct 1",President,,LIB,Chase Oliver,1
+Wexford,"Hanover Township, Precinct 1",President,,LIB,Chase Oliver,5
+Wexford,"Haring Township, Precinct 1",President,,LIB,Chase Oliver,8
+Wexford,"Henderson Township, Precinct 1",President,,LIB,Chase Oliver,2
+Wexford,"Liberty Township, Precinct 1",President,,LIB,Chase Oliver,1
+Wexford,"Selma Township, Precinct 1",President,,LIB,Chase Oliver,4
+Wexford,"Slagle Township, Precinct 1",President,,LIB,Chase Oliver,3
+Wexford,"South Branch Township, Precinct 1",President,,LIB,Chase Oliver,0
+Wexford,"Springville Township, Precinct 1",President,,LIB,Chase Oliver,8
+Wexford,"Wexford Township, Precinct 1",President,,LIB,Chase Oliver,6
+Wexford,"City of Cadillac, Precinct 1",President,,UST,Randall Terry,4
+Wexford,"City of Cadillac, Precinct 2",President,,UST,Randall Terry,2
+Wexford,"City of Cadillac, Precinct 3",President,,UST,Randall Terry,5
+Wexford,"City of Manton, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Antioch Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"Boon Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"Cedar Creek Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Cherry Grove Township, Precinct 1",President,,UST,Randall Terry,2
+Wexford,"Clam Lake Township, Precinct 1",President,,UST,Randall Terry,2
+Wexford,"Colfax Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"Greenwood Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Hanover Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Haring Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Henderson Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Liberty Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"Selma Township, Precinct 1",President,,UST,Randall Terry,2
+Wexford,"Slagle Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"South Branch Township, Precinct 1",President,,UST,Randall Terry,0
+Wexford,"Springville Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"Wexford Township, Precinct 1",President,,UST,Randall Terry,1
+Wexford,"City of Cadillac, Precinct 1",President,,GRN,Jill Stein,5
+Wexford,"City of Cadillac, Precinct 2",President,,GRN,Jill Stein,4
+Wexford,"City of Cadillac, Precinct 3",President,,GRN,Jill Stein,4
+Wexford,"City of Manton, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"Antioch Township, Precinct 1",President,,GRN,Jill Stein,3
+Wexford,"Boon Township, Precinct 1",President,,GRN,Jill Stein,2
+Wexford,"Cedar Creek Township, Precinct 1",President,,GRN,Jill Stein,3
+Wexford,"Cherry Grove Township, Precinct 1",President,,GRN,Jill Stein,5
+Wexford,"Clam Lake Township, Precinct 1",President,,GRN,Jill Stein,2
+Wexford,"Colfax Township, Precinct 1",President,,GRN,Jill Stein,0
+Wexford,"Greenwood Township, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"Hanover Township, Precinct 1",President,,GRN,Jill Stein,2
+Wexford,"Haring Township, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"Henderson Township, Precinct 1",President,,GRN,Jill Stein,0
+Wexford,"Liberty Township, Precinct 1",President,,GRN,Jill Stein,0
+Wexford,"Selma Township, Precinct 1",President,,GRN,Jill Stein,2
+Wexford,"Slagle Township, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"South Branch Township, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"Springville Township, Precinct 1",President,,GRN,Jill Stein,1
+Wexford,"Wexford Township, Precinct 1",President,,GRN,Jill Stein,0
+Wexford,"City of Cadillac, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",8
+Wexford,"City of Cadillac, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",6
+Wexford,"City of Cadillac, Precinct 3",President,,NLP,"Robert F. Kennedy, Jr.",11
+Wexford,"City of Manton, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Wexford,"Antioch Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Wexford,"Boon Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
+Wexford,"Cedar Creek Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",5
+Wexford,"Cherry Grove Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",13
+Wexford,"Clam Lake Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",8
+Wexford,"Colfax Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
+Wexford,"Greenwood Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Wexford,"Hanover Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Wexford,"Haring Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",10
+Wexford,"Henderson Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Wexford,"Liberty Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Wexford,"Selma Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",13
+Wexford,"Slagle Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Wexford,"South Branch Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Wexford,"Springville Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Wexford,"Wexford Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Wexford,"City of Cadillac, Precinct 1",President,,,Joseph Kishore,1
+Wexford,"City of Cadillac, Precinct 2",President,,,Joseph Kishore,0
+Wexford,"City of Cadillac, Precinct 3",President,,,Joseph Kishore,0
+Wexford,"City of Manton, Precinct 1",President,,,Joseph Kishore,1
+Wexford,"Antioch Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Boon Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Cedar Creek Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Cherry Grove Township, Precinct 1",President,,,Joseph Kishore,1
+Wexford,"Clam Lake Township, Precinct 1",President,,,Joseph Kishore,1
+Wexford,"Colfax Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Greenwood Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Hanover Township, Precinct 1",President,,,Joseph Kishore,1
+Wexford,"Haring Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Henderson Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Liberty Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Selma Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Slagle Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"South Branch Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Springville Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"Wexford Township, Precinct 1",President,,,Joseph Kishore,0
+Wexford,"City of Cadillac, Precinct 1",President,,,Cornel West,0
+Wexford,"City of Cadillac, Precinct 2",President,,,Cornel West,0
+Wexford,"City of Cadillac, Precinct 3",President,,,Cornel West,3
+Wexford,"City of Manton, Precinct 1",President,,,Cornel West,0
+Wexford,"Antioch Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Boon Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Cedar Creek Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Cherry Grove Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Clam Lake Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Colfax Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Greenwood Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Hanover Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Haring Township, Precinct 1",President,,,Cornel West,2
+Wexford,"Henderson Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Liberty Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Selma Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Slagle Township, Precinct 1",President,,,Cornel West,0
+Wexford,"South Branch Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Springville Township, Precinct 1",President,,,Cornel West,0
+Wexford,"Wexford Township, Precinct 1",President,,,Cornel West,1
+Wexford,"City of Cadillac, Precinct 1",President,,,Write-ins,5
+Wexford,"City of Cadillac, Precinct 2",President,,,Write-ins,3
+Wexford,"City of Cadillac, Precinct 3",President,,,Write-ins,2
+Wexford,"City of Manton, Precinct 1",President,,,Write-ins,0
+Wexford,"Antioch Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Boon Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Cedar Creek Township, Precinct 1",President,,,Write-ins,3
+Wexford,"Cherry Grove Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Clam Lake Township, Precinct 1",President,,,Write-ins,1
+Wexford,"Colfax Township, Precinct 1",President,,,Write-ins,1
+Wexford,"Greenwood Township, Precinct 1",President,,,Write-ins,1
+Wexford,"Hanover Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Haring Township, Precinct 1",President,,,Write-ins,1
+Wexford,"Henderson Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",President,,,Write-ins,2
+Wexford,"Selma Township, Precinct 1",President,,,Write-ins,3
+Wexford,"Slagle Township, Precinct 1",President,,,Write-ins,1
+Wexford,"South Branch Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Springville Township, Precinct 1",President,,,Write-ins,0
+Wexford,"Wexford Township, Precinct 1",President,,,Write-ins,0
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,676
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,691
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,736
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,167
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,155
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,131
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,243
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,564
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,497
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,146
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,100
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,280
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,548
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,32
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,107
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,411
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,93
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,90
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,244
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,152
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,013"
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,REP,Mike Rogers,898
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,REP,Mike Rogers,958
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,REP,Mike Rogers,401
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,344
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,246
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,699
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,104"
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,095"
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,387
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,261
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,707
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,"1,396"
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,97
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,410
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,864
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,221
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,157
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,678
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,521
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,33
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,32
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,28
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,19
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,17
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,16
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,29
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,24
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,20
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,21
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,UST,Dave Stein,30
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,UST,Dave Stein,22
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,UST,Dave Stein,25
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,UST,Dave Stein,7
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,UST,Dave Stein,9
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,UST,Dave Stein,9
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,UST,Dave Stein,27
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,UST,Dave Stein,12
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,16
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,7
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,GRN,Douglas P. Marsh,15
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,8
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,8
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,14
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,NLP,Doug Dern,8
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,NLP,Doug Dern,7
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,NLP,Doug Dern,7
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,NLP,Doug Dern,8
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,7
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,10
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Wexford,"City of Cadillac, Precinct 1",U.S. Senate,,,Write-ins,6
+Wexford,"City of Cadillac, Precinct 2",U.S. Senate,,,Write-ins,5
+Wexford,"City of Cadillac, Precinct 3",U.S. Senate,,,Write-ins,6
+Wexford,"City of Manton, Precinct 1",U.S. Senate,,,Write-ins,1
+Wexford,"Antioch Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Wexford,"Boon Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Wexford,"Cedar Creek Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Wexford,"Cherry Grove Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Wexford,"Clam Lake Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Colfax Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Greenwood Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Hanover Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Haring Township, Precinct 1",U.S. Senate,,,Write-ins,3
+Wexford,"Henderson Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Selma Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Wexford,"Slagle Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"South Branch Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Wexford,"Springville Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Wexford,"Wexford Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Wexford,"Greenwood Township, Precinct 1",U.S. House,1,DEM,Callie Barr,106
+Wexford,"Hanover Township, Precinct 1",U.S. House,1,DEM,Callie Barr,286
+Wexford,"Liberty Township, Precinct 1",U.S. House,1,DEM,Callie Barr,101
+Wexford,"Wexford Township, Precinct 1",U.S. House,1,DEM,Callie Barr,121
+Wexford,"Greenwood Township, Precinct 1",U.S. House,1,REP,Jack Bergman,261
+Wexford,"Hanover Township, Precinct 1",U.S. House,1,REP,Jack Bergman,696
+Wexford,"Liberty Township, Precinct 1",U.S. House,1,REP,Jack Bergman,413
+Wexford,"Wexford Township, Precinct 1",U.S. House,1,REP,Jack Bergman,388
+Wexford,"Greenwood Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
+Wexford,"Hanover Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,15
+Wexford,"Liberty Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Wexford,"Wexford Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11
+Wexford,"Greenwood Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Wexford,"Hanover Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,17
+Wexford,"Liberty Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
+Wexford,"Wexford Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
+Wexford,"Greenwood Township, Precinct 1",U.S. House,1,,Write-ins,0
+Wexford,"Hanover Township, Precinct 1",U.S. House,1,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",U.S. House,1,,Write-ins,0
+Wexford,"Wexford Township, Precinct 1",U.S. House,1,,Write-ins,0
+Wexford,"City of Cadillac, Precinct 1",U.S. House,2,DEM,Michael Lynch,606
+Wexford,"City of Cadillac, Precinct 2",U.S. House,2,DEM,Michael Lynch,628
+Wexford,"City of Cadillac, Precinct 3",U.S. House,2,DEM,Michael Lynch,667
+Wexford,"City of Manton, Precinct 1",U.S. House,2,DEM,Michael Lynch,152
+Wexford,"Antioch Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,146
+Wexford,"Boon Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,112
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,233
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,494
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,436
+Wexford,"Colfax Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,129
+Wexford,"Haring Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,508
+Wexford,"Henderson Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,30
+Wexford,"Selma Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,361
+Wexford,"Slagle Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,91
+Wexford,"South Branch Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,84
+Wexford,"Springville Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,231
+Wexford,"Wexford Township, Precinct 1",U.S. House,2,DEM,Michael Lynch,33
+Wexford,"City of Cadillac, Precinct 1",U.S. House,2,REP,John R. Moolenaar,"1,069"
+Wexford,"City of Cadillac, Precinct 2",U.S. House,2,REP,John R. Moolenaar,955
+Wexford,"City of Cadillac, Precinct 3",U.S. House,2,REP,John R. Moolenaar,"1,020"
+Wexford,"City of Manton, Precinct 1",U.S. House,2,REP,John R. Moolenaar,410
+Wexford,"Antioch Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,351
+Wexford,"Boon Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,266
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,704
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,"1,171"
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,"1,142"
+Wexford,"Colfax Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,401
+Wexford,"Haring Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,"1,431"
+Wexford,"Henderson Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,100
+Wexford,"Selma Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,903
+Wexford,"Slagle Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,218
+Wexford,"South Branch Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,162
+Wexford,"Springville Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,686
+Wexford,"Wexford Township, Precinct 1",U.S. House,2,REP,John R. Moolenaar,133
+Wexford,"City of Cadillac, Precinct 1",U.S. House,2,LIB,Ben DeJong,36
+Wexford,"City of Cadillac, Precinct 2",U.S. House,2,LIB,Ben DeJong,38
+Wexford,"City of Cadillac, Precinct 3",U.S. House,2,LIB,Ben DeJong,36
+Wexford,"City of Manton, Precinct 1",U.S. House,2,LIB,Ben DeJong,16
+Wexford,"Antioch Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,5
+Wexford,"Boon Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,8
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,15
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,19
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,18
+Wexford,"Colfax Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,6
+Wexford,"Haring Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,29
+Wexford,"Henderson Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,2
+Wexford,"Selma Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,28
+Wexford,"Slagle Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,8
+Wexford,"South Branch Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,3
+Wexford,"Springville Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,22
+Wexford,"Wexford Township, Precinct 1",U.S. House,2,LIB,Ben DeJong,7
+Wexford,"City of Cadillac, Precinct 1",U.S. House,2,UST,Scott Adams,48
+Wexford,"City of Cadillac, Precinct 2",U.S. House,2,UST,Scott Adams,31
+Wexford,"City of Cadillac, Precinct 3",U.S. House,2,UST,Scott Adams,25
+Wexford,"City of Manton, Precinct 1",U.S. House,2,UST,Scott Adams,14
+Wexford,"Antioch Township, Precinct 1",U.S. House,2,UST,Scott Adams,6
+Wexford,"Boon Township, Precinct 1",U.S. House,2,UST,Scott Adams,8
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,2,UST,Scott Adams,19
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,2,UST,Scott Adams,9
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,2,UST,Scott Adams,16
+Wexford,"Colfax Township, Precinct 1",U.S. House,2,UST,Scott Adams,6
+Wexford,"Haring Township, Precinct 1",U.S. House,2,UST,Scott Adams,28
+Wexford,"Henderson Township, Precinct 1",U.S. House,2,UST,Scott Adams,2
+Wexford,"Selma Township, Precinct 1",U.S. House,2,UST,Scott Adams,20
+Wexford,"Slagle Township, Precinct 1",U.S. House,2,UST,Scott Adams,3
+Wexford,"South Branch Township, Precinct 1",U.S. House,2,UST,Scott Adams,6
+Wexford,"Springville Township, Precinct 1",U.S. House,2,UST,Scott Adams,19
+Wexford,"Wexford Township, Precinct 1",U.S. House,2,UST,Scott Adams,2
+Wexford,"City of Cadillac, Precinct 1",U.S. House,2,,Write-ins,7
+Wexford,"City of Cadillac, Precinct 2",U.S. House,2,,Write-ins,5
+Wexford,"City of Cadillac, Precinct 3",U.S. House,2,,Write-ins,8
+Wexford,"City of Manton, Precinct 1",U.S. House,2,,Write-ins,5
+Wexford,"Antioch Township, Precinct 1",U.S. House,2,,Write-ins,2
+Wexford,"Boon Township, Precinct 1",U.S. House,2,,Write-ins,0
+Wexford,"Cedar Creek Township, Precinct 1",U.S. House,2,,Write-ins,4
+Wexford,"Cherry Grove Township, Precinct 1",U.S. House,2,,Write-ins,3
+Wexford,"Clam Lake Township, Precinct 1",U.S. House,2,,Write-ins,1
+Wexford,"Colfax Township, Precinct 1",U.S. House,2,,Write-ins,0
+Wexford,"Haring Township, Precinct 1",U.S. House,2,,Write-ins,2
+Wexford,"Henderson Township, Precinct 1",U.S. House,2,,Write-ins,0
+Wexford,"Selma Township, Precinct 1",U.S. House,2,,Write-ins,2
+Wexford,"Slagle Township, Precinct 1",U.S. House,2,,Write-ins,0
+Wexford,"South Branch Township, Precinct 1",U.S. House,2,,Write-ins,1
+Wexford,"Springville Township, Precinct 1",U.S. House,2,,Write-ins,2
+Wexford,"Wexford Township, Precinct 1",U.S. House,2,,Write-ins,0
+Wexford,"City of Cadillac, Precinct 1",State House,101,DEM,Christopher R. Crain,665
+Wexford,"City of Cadillac, Precinct 2",State House,101,DEM,Christopher R. Crain,672
+Wexford,"City of Cadillac, Precinct 3",State House,101,DEM,Christopher R. Crain,708
+Wexford,"City of Manton, Precinct 1",State House,101,DEM,Christopher R. Crain,166
+Wexford,"Antioch Township, Precinct 1",State House,101,DEM,Christopher R. Crain,145
+Wexford,"Boon Township, Precinct 1",State House,101,DEM,Christopher R. Crain,120
+Wexford,"Cedar Creek Township, Precinct 1",State House,101,DEM,Christopher R. Crain,247
+Wexford,"Cherry Grove Township, Precinct 1",State House,101,DEM,Christopher R. Crain,526
+Wexford,"Clam Lake Township, Precinct 1",State House,101,DEM,Christopher R. Crain,461
+Wexford,"Colfax Township, Precinct 1",State House,101,DEM,Christopher R. Crain,138
+Wexford,"Haring Township, Precinct 1",State House,101,DEM,Christopher R. Crain,540
+Wexford,"Henderson Township, Precinct 1",State House,101,DEM,Christopher R. Crain,31
+Wexford,"Selma Township, Precinct 1",State House,101,DEM,Christopher R. Crain,401
+Wexford,"Slagle Township, Precinct 1",State House,101,DEM,Christopher R. Crain,96
+Wexford,"South Branch Township, Precinct 1",State House,101,DEM,Christopher R. Crain,86
+Wexford,"Springville Township, Precinct 1",State House,101,DEM,Christopher R. Crain,240
+Wexford,"City of Cadillac, Precinct 1",State House,101,REP,Joseph D. Fox,"1,072"
+Wexford,"City of Cadillac, Precinct 2",State House,101,REP,Joseph D. Fox,958
+Wexford,"City of Cadillac, Precinct 3",State House,101,REP,Joseph D. Fox,"1,027"
+Wexford,"City of Manton, Precinct 1",State House,101,REP,Joseph D. Fox,420
+Wexford,"Antioch Township, Precinct 1",State House,101,REP,Joseph D. Fox,358
+Wexford,"Boon Township, Precinct 1",State House,101,REP,Joseph D. Fox,271
+Wexford,"Cedar Creek Township, Precinct 1",State House,101,REP,Joseph D. Fox,715
+Wexford,"Cherry Grove Township, Precinct 1",State House,101,REP,Joseph D. Fox,"1,137"
+Wexford,"Clam Lake Township, Precinct 1",State House,101,REP,Joseph D. Fox,"1,135"
+Wexford,"Colfax Township, Precinct 1",State House,101,REP,Joseph D. Fox,400
+Wexford,"Haring Township, Precinct 1",State House,101,REP,Joseph D. Fox,"1,437"
+Wexford,"Henderson Township, Precinct 1",State House,101,REP,Joseph D. Fox,99
+Wexford,"Selma Township, Precinct 1",State House,101,REP,Joseph D. Fox,900
+Wexford,"Slagle Township, Precinct 1",State House,101,REP,Joseph D. Fox,226
+Wexford,"South Branch Township, Precinct 1",State House,101,REP,Joseph D. Fox,162
+Wexford,"Springville Township, Precinct 1",State House,101,REP,Joseph D. Fox,710
+Wexford,"Greenwood Township, Precinct 1",State House,104,DEM,Larry Knight,88
+Wexford,"Hanover Township, Precinct 1",State House,104,DEM,Larry Knight,240
+Wexford,"Liberty Township, Precinct 1",State House,104,DEM,Larry Knight,89
+Wexford,"Wexford Township, Precinct 1",State House,104,DEM,Larry Knight,137
+Wexford,"Greenwood Township, Precinct 1",State House,104,REP,John R. Roth,265
+Wexford,"Hanover Township, Precinct 1",State House,104,REP,John R. Roth,692
+Wexford,"Liberty Township, Precinct 1",State House,104,REP,John R. Roth,418
+Wexford,"Wexford Township, Precinct 1",State House,104,REP,John R. Roth,529
+Wexford,"City of Cadillac, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,389"
+Wexford,"City of Cadillac, Precinct 2",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,277"
+Wexford,"City of Cadillac, Precinct 3",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,377"
+Wexford,"City of Manton, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,481
+Wexford,"Antioch Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,404
+Wexford,"Boon Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,317
+Wexford,"Cedar Creek Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,798
+Wexford,"Cherry Grove Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,375"
+Wexford,"Clam Lake Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,340"
+Wexford,"Colfax Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,445
+Wexford,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,306
+Wexford,"Hanover Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,789
+Wexford,"Haring Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,651"
+Wexford,"Henderson Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,105
+Wexford,"Liberty Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,461
+Wexford,"Selma Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,"1,076"
+Wexford,"Slagle Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,253
+Wexford,"South Branch Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,197
+Wexford,"Springville Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,777
+Wexford,"Wexford Township, Precinct 1",County Prosecuting Attorney,,REP,Corey J. Wiggins,599
+Wexford,"City of Cadillac, Precinct 1",County Prosecuting Attorney,,,Write-ins,45
+Wexford,"City of Cadillac, Precinct 2",County Prosecuting Attorney,,,Write-ins,39
+Wexford,"City of Cadillac, Precinct 3",County Prosecuting Attorney,,,Write-ins,47
+Wexford,"City of Manton, Precinct 1",County Prosecuting Attorney,,,Write-ins,19
+Wexford,"Antioch Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,6
+Wexford,"Boon Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8
+Wexford,"Cedar Creek Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,26
+Wexford,"Cherry Grove Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,26
+Wexford,"Clam Lake Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,25
+Wexford,"Colfax Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,5
+Wexford,"Greenwood Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,4
+Wexford,"Hanover Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,11
+Wexford,"Haring Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,27
+Wexford,"Henderson Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,4
+Wexford,"Selma Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,24
+Wexford,"Slagle Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7
+Wexford,"South Branch Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,5
+Wexford,"Springville Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,22
+Wexford,"Wexford Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7
+Wexford,"City of Cadillac, Precinct 1",Sheriff,,REP,Trent J. Taylor,"1,285"
+Wexford,"City of Cadillac, Precinct 2",Sheriff,,REP,Trent J. Taylor,"1,120"
+Wexford,"City of Cadillac, Precinct 3",Sheriff,,REP,Trent J. Taylor,"1,263"
+Wexford,"City of Manton, Precinct 1",Sheriff,,REP,Trent J. Taylor,433
+Wexford,"Antioch Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,389
+Wexford,"Boon Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,305
+Wexford,"Cedar Creek Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,768
+Wexford,"Cherry Grove Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,"1,341"
+Wexford,"Clam Lake Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,"1,302"
+Wexford,"Colfax Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,430
+Wexford,"Greenwood Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,281
+Wexford,"Hanover Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,730
+Wexford,"Haring Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,"1,525"
+Wexford,"Henderson Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,103
+Wexford,"Liberty Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,435
+Wexford,"Selma Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,"1,025"
+Wexford,"Slagle Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,250
+Wexford,"South Branch Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,191
+Wexford,"Springville Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,716
+Wexford,"Wexford Township, Precinct 1",Sheriff,,REP,Trent J. Taylor,557
+Wexford,"City of Cadillac, Precinct 1",Sheriff,,LIB,Jacob Bassett,288
+Wexford,"City of Cadillac, Precinct 2",Sheriff,,LIB,Jacob Bassett,338
+Wexford,"City of Cadillac, Precinct 3",Sheriff,,LIB,Jacob Bassett,265
+Wexford,"City of Manton, Precinct 1",Sheriff,,LIB,Jacob Bassett,98
+Wexford,"Antioch Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,55
+Wexford,"Boon Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,51
+Wexford,"Cedar Creek Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,118
+Wexford,"Cherry Grove Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,187
+Wexford,"Clam Lake Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,187
+Wexford,"Colfax Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,54
+Wexford,"Greenwood Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,61
+Wexford,"Hanover Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,139
+Wexford,"Haring Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,295
+Wexford,"Henderson Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,16
+Wexford,"Liberty Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,63
+Wexford,"Selma Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,178
+Wexford,"Slagle Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,29
+Wexford,"South Branch Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,35
+Wexford,"Springville Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,146
+Wexford,"Wexford Township, Precinct 1",Sheriff,,LIB,Jacob Bassett,89
+Wexford,"City of Cadillac, Precinct 1",Sheriff,,,Write-ins,18
+Wexford,"City of Cadillac, Precinct 2",Sheriff,,,Write-ins,11
+Wexford,"City of Cadillac, Precinct 3",Sheriff,,,Write-ins,21
+Wexford,"City of Manton, Precinct 1",Sheriff,,,Write-ins,7
+Wexford,"Antioch Township, Precinct 1",Sheriff,,,Write-ins,2
+Wexford,"Boon Township, Precinct 1",Sheriff,,,Write-ins,3
+Wexford,"Cedar Creek Township, Precinct 1",Sheriff,,,Write-ins,8
+Wexford,"Cherry Grove Township, Precinct 1",Sheriff,,,Write-ins,10
+Wexford,"Clam Lake Township, Precinct 1",Sheriff,,,Write-ins,10
+Wexford,"Colfax Township, Precinct 1",Sheriff,,,Write-ins,4
+Wexford,"Greenwood Township, Precinct 1",Sheriff,,,Write-ins,2
+Wexford,"Hanover Township, Precinct 1",Sheriff,,,Write-ins,4
+Wexford,"Haring Township, Precinct 1",Sheriff,,,Write-ins,15
+Wexford,"Henderson Township, Precinct 1",Sheriff,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",Sheriff,,,Write-ins,1
+Wexford,"Selma Township, Precinct 1",Sheriff,,,Write-ins,9
+Wexford,"Slagle Township, Precinct 1",Sheriff,,,Write-ins,2
+Wexford,"South Branch Township, Precinct 1",Sheriff,,,Write-ins,1
+Wexford,"Springville Township, Precinct 1",Sheriff,,,Write-ins,8
+Wexford,"Wexford Township, Precinct 1",Sheriff,,,Write-ins,3
+Wexford,"City of Cadillac, Precinct 1",County Clerk,,REP,Alaina M. Nyman,"1,401"
+Wexford,"City of Cadillac, Precinct 2",County Clerk,,REP,Alaina M. Nyman,"1,290"
+Wexford,"City of Cadillac, Precinct 3",County Clerk,,REP,Alaina M. Nyman,"1,377"
+Wexford,"City of Manton, Precinct 1",County Clerk,,REP,Alaina M. Nyman,492
+Wexford,"Antioch Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,401
+Wexford,"Boon Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,312
+Wexford,"Cedar Creek Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,807
+Wexford,"Cherry Grove Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,"1,379"
+Wexford,"Clam Lake Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,"1,338"
+Wexford,"Colfax Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,446
+Wexford,"Greenwood Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,309
+Wexford,"Hanover Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,796
+Wexford,"Haring Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,"1,645"
+Wexford,"Henderson Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,107
+Wexford,"Liberty Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,463
+Wexford,"Selma Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,"1,089"
+Wexford,"Slagle Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,258
+Wexford,"South Branch Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,199
+Wexford,"Springville Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,803
+Wexford,"Wexford Township, Precinct 1",County Clerk,,REP,Alaina M. Nyman,601
+Wexford,"City of Cadillac, Precinct 1",County Clerk,,,Write-ins,33
+Wexford,"City of Cadillac, Precinct 2",County Clerk,,,Write-ins,31
+Wexford,"City of Cadillac, Precinct 3",County Clerk,,,Write-ins,47
+Wexford,"City of Manton, Precinct 1",County Clerk,,,Write-ins,13
+Wexford,"Antioch Township, Precinct 1",County Clerk,,,Write-ins,9
+Wexford,"Boon Township, Precinct 1",County Clerk,,,Write-ins,7
+Wexford,"Cedar Creek Township, Precinct 1",County Clerk,,,Write-ins,23
+Wexford,"Cherry Grove Township, Precinct 1",County Clerk,,,Write-ins,14
+Wexford,"Clam Lake Township, Precinct 1",County Clerk,,,Write-ins,22
+Wexford,"Colfax Township, Precinct 1",County Clerk,,,Write-ins,7
+Wexford,"Greenwood Township, Precinct 1",County Clerk,,,Write-ins,6
+Wexford,"Hanover Township, Precinct 1",County Clerk,,,Write-ins,8
+Wexford,"Haring Township, Precinct 1",County Clerk,,,Write-ins,25
+Wexford,"Henderson Township, Precinct 1",County Clerk,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Clerk,,,Write-ins,4
+Wexford,"Selma Township, Precinct 1",County Clerk,,,Write-ins,18
+Wexford,"Slagle Township, Precinct 1",County Clerk,,,Write-ins,4
+Wexford,"South Branch Township, Precinct 1",County Clerk,,,Write-ins,5
+Wexford,"Springville Township, Precinct 1",County Clerk,,,Write-ins,13
+Wexford,"Wexford Township, Precinct 1",County Clerk,,,Write-ins,6
+Wexford,"City of Cadillac, Precinct 1",County Treasurer,,REP,Kristi Nottingham,"1,183"
+Wexford,"City of Cadillac, Precinct 2",County Treasurer,,REP,Kristi Nottingham,"1,054"
+Wexford,"City of Cadillac, Precinct 3",County Treasurer,,REP,Kristi Nottingham,"1,166"
+Wexford,"City of Manton, Precinct 1",County Treasurer,,REP,Kristi Nottingham,426
+Wexford,"Antioch Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,364
+Wexford,"Boon Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,273
+Wexford,"Cedar Creek Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,717
+Wexford,"Cherry Grove Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,"1,236"
+Wexford,"Clam Lake Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,"1,203"
+Wexford,"Colfax Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,408
+Wexford,"Greenwood Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,274
+Wexford,"Hanover Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,713
+Wexford,"Haring Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,"1,501"
+Wexford,"Henderson Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,102
+Wexford,"Liberty Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,415
+Wexford,"Selma Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,978
+Wexford,"Slagle Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,233
+Wexford,"South Branch Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,184
+Wexford,"Springville Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,708
+Wexford,"Wexford Township, Precinct 1",County Treasurer,,REP,Kristi Nottingham,545
+Wexford,"City of Cadillac, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,331
+Wexford,"City of Cadillac, Precinct 2",County Treasurer,,LIB,Katelynn Ingraham,375
+Wexford,"City of Cadillac, Precinct 3",County Treasurer,,LIB,Katelynn Ingraham,333
+Wexford,"City of Manton, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,92
+Wexford,"Antioch Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,68
+Wexford,"Boon Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,70
+Wexford,"Cedar Creek Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,135
+Wexford,"Cherry Grove Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,223
+Wexford,"Clam Lake Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,230
+Wexford,"Colfax Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,64
+Wexford,"Greenwood Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,66
+Wexford,"Hanover Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,144
+Wexford,"Haring Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,273
+Wexford,"Henderson Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,16
+Wexford,"Liberty Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,64
+Wexford,"Selma Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,191
+Wexford,"Slagle Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,53
+Wexford,"South Branch Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,30
+Wexford,"Springville Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,140
+Wexford,"Wexford Township, Precinct 1",County Treasurer,,LIB,Katelynn Ingraham,86
+Wexford,"City of Cadillac, Precinct 1",County Treasurer,,,Write-ins,18
+Wexford,"City of Cadillac, Precinct 2",County Treasurer,,,Write-ins,19
+Wexford,"City of Cadillac, Precinct 3",County Treasurer,,,Write-ins,16
+Wexford,"City of Manton, Precinct 1",County Treasurer,,,Write-ins,6
+Wexford,"Antioch Township, Precinct 1",County Treasurer,,,Write-ins,2
+Wexford,"Boon Township, Precinct 1",County Treasurer,,,Write-ins,3
+Wexford,"Cedar Creek Township, Precinct 1",County Treasurer,,,Write-ins,11
+Wexford,"Cherry Grove Township, Precinct 1",County Treasurer,,,Write-ins,14
+Wexford,"Clam Lake Township, Precinct 1",County Treasurer,,,Write-ins,9
+Wexford,"Colfax Township, Precinct 1",County Treasurer,,,Write-ins,3
+Wexford,"Greenwood Township, Precinct 1",County Treasurer,,,Write-ins,4
+Wexford,"Hanover Township, Precinct 1",County Treasurer,,,Write-ins,6
+Wexford,"Haring Township, Precinct 1",County Treasurer,,,Write-ins,14
+Wexford,"Henderson Township, Precinct 1",County Treasurer,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Treasurer,,,Write-ins,2
+Wexford,"Selma Township, Precinct 1",County Treasurer,,,Write-ins,2
+Wexford,"Slagle Township, Precinct 1",County Treasurer,,,Write-ins,2
+Wexford,"South Branch Township, Precinct 1",County Treasurer,,,Write-ins,1
+Wexford,"Springville Township, Precinct 1",County Treasurer,,,Write-ins,7
+Wexford,"Wexford Township, Precinct 1",County Treasurer,,,Write-ins,2
+Wexford,"City of Cadillac, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,"1,233"
+Wexford,"City of Cadillac, Precinct 2",County Register of Deeds,,REP,Roxanne L. Snyder,"1,063"
+Wexford,"City of Cadillac, Precinct 3",County Register of Deeds,,REP,Roxanne L. Snyder,"1,207"
+Wexford,"City of Manton, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,427
+Wexford,"Antioch Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,367
+Wexford,"Boon Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,281
+Wexford,"Cedar Creek Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,727
+Wexford,"Cherry Grove Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,"1,279"
+Wexford,"Clam Lake Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,"1,248"
+Wexford,"Colfax Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,417
+Wexford,"Greenwood Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,286
+Wexford,"Hanover Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,719
+Wexford,"Haring Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,"1,544"
+Wexford,"Henderson Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,98
+Wexford,"Liberty Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,424
+Wexford,"Selma Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,980
+Wexford,"Slagle Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,241
+Wexford,"South Branch Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,187
+Wexford,"Springville Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,711
+Wexford,"Wexford Township, Precinct 1",County Register of Deeds,,REP,Roxanne L. Snyder,536
+Wexford,"City of Cadillac, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,270
+Wexford,"City of Cadillac, Precinct 2",County Register of Deeds,,LIB,Christina Ann Byron,350
+Wexford,"City of Cadillac, Precinct 3",County Register of Deeds,,LIB,Christina Ann Byron,283
+Wexford,"City of Manton, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,81
+Wexford,"Antioch Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,62
+Wexford,"Boon Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,59
+Wexford,"Cedar Creek Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,120
+Wexford,"Cherry Grove Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,182
+Wexford,"Clam Lake Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,176
+Wexford,"Colfax Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,50
+Wexford,"Greenwood Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,55
+Wexford,"Hanover Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,146
+Wexford,"Haring Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,215
+Wexford,"Henderson Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,14
+Wexford,"Liberty Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,55
+Wexford,"Selma Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,178
+Wexford,"Slagle Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,40
+Wexford,"South Branch Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,26
+Wexford,"Springville Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,129
+Wexford,"Wexford Township, Precinct 1",County Register of Deeds,,LIB,Christina Ann Byron,90
+Wexford,"City of Cadillac, Precinct 1",County Register of Deeds,,,Write-ins,15
+Wexford,"City of Cadillac, Precinct 2",County Register of Deeds,,,Write-ins,18
+Wexford,"City of Cadillac, Precinct 3",County Register of Deeds,,,Write-ins,19
+Wexford,"City of Manton, Precinct 1",County Register of Deeds,,,Write-ins,7
+Wexford,"Antioch Township, Precinct 1",County Register of Deeds,,,Write-ins,2
+Wexford,"Boon Township, Precinct 1",County Register of Deeds,,,Write-ins,2
+Wexford,"Cedar Creek Township, Precinct 1",County Register of Deeds,,,Write-ins,10
+Wexford,"Cherry Grove Township, Precinct 1",County Register of Deeds,,,Write-ins,13
+Wexford,"Clam Lake Township, Precinct 1",County Register of Deeds,,,Write-ins,13
+Wexford,"Colfax Township, Precinct 1",County Register of Deeds,,,Write-ins,3
+Wexford,"Greenwood Township, Precinct 1",County Register of Deeds,,,Write-ins,2
+Wexford,"Hanover Township, Precinct 1",County Register of Deeds,,,Write-ins,6
+Wexford,"Haring Township, Precinct 1",County Register of Deeds,,,Write-ins,14
+Wexford,"Henderson Township, Precinct 1",County Register of Deeds,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Register of Deeds,,,Write-ins,1
+Wexford,"Selma Township, Precinct 1",County Register of Deeds,,,Write-ins,6
+Wexford,"Slagle Township, Precinct 1",County Register of Deeds,,,Write-ins,3
+Wexford,"South Branch Township, Precinct 1",County Register of Deeds,,,Write-ins,1
+Wexford,"Springville Township, Precinct 1",County Register of Deeds,,,Write-ins,7
+Wexford,"Wexford Township, Precinct 1",County Register of Deeds,,,Write-ins,3
+Wexford,"City of Cadillac, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,"1,387"
+Wexford,"City of Cadillac, Precinct 2",County Drain Commissioner,,REP,Michael Solomon,"1,267"
+Wexford,"City of Cadillac, Precinct 3",County Drain Commissioner,,REP,Michael Solomon,"1,362"
+Wexford,"City of Manton, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,481
+Wexford,"Antioch Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,395
+Wexford,"Boon Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,313
+Wexford,"Cedar Creek Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,784
+Wexford,"Cherry Grove Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,"1,356"
+Wexford,"Clam Lake Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,"1,334"
+Wexford,"Colfax Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,441
+Wexford,"Greenwood Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,303
+Wexford,"Hanover Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,784
+Wexford,"Haring Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,"1,644"
+Wexford,"Henderson Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,108
+Wexford,"Liberty Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,449
+Wexford,"Selma Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,"1,060"
+Wexford,"Slagle Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,257
+Wexford,"South Branch Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,198
+Wexford,"Springville Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,786
+Wexford,"Wexford Township, Precinct 1",County Drain Commissioner,,REP,Michael Solomon,580
+Wexford,"City of Cadillac, Precinct 1",County Drain Commissioner,,,Write-ins,35
+Wexford,"City of Cadillac, Precinct 2",County Drain Commissioner,,,Write-ins,45
+Wexford,"City of Cadillac, Precinct 3",County Drain Commissioner,,,Write-ins,44
+Wexford,"City of Manton, Precinct 1",County Drain Commissioner,,,Write-ins,12
+Wexford,"Antioch Township, Precinct 1",County Drain Commissioner,,,Write-ins,7
+Wexford,"Boon Township, Precinct 1",County Drain Commissioner,,,Write-ins,4
+Wexford,"Cedar Creek Township, Precinct 1",County Drain Commissioner,,,Write-ins,25
+Wexford,"Cherry Grove Township, Precinct 1",County Drain Commissioner,,,Write-ins,25
+Wexford,"Clam Lake Township, Precinct 1",County Drain Commissioner,,,Write-ins,19
+Wexford,"Colfax Township, Precinct 1",County Drain Commissioner,,,Write-ins,4
+Wexford,"Greenwood Township, Precinct 1",County Drain Commissioner,,,Write-ins,5
+Wexford,"Hanover Township, Precinct 1",County Drain Commissioner,,,Write-ins,11
+Wexford,"Haring Township, Precinct 1",County Drain Commissioner,,,Write-ins,26
+Wexford,"Henderson Township, Precinct 1",County Drain Commissioner,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Drain Commissioner,,,Write-ins,6
+Wexford,"Selma Township, Precinct 1",County Drain Commissioner,,,Write-ins,22
+Wexford,"Slagle Township, Precinct 1",County Drain Commissioner,,,Write-ins,6
+Wexford,"South Branch Township, Precinct 1",County Drain Commissioner,,,Write-ins,3
+Wexford,"Springville Township, Precinct 1",County Drain Commissioner,,,Write-ins,16
+Wexford,"Wexford Township, Precinct 1",County Drain Commissioner,,,Write-ins,7
+Wexford,"City of Cadillac, Precinct 1",County Surveyor,,REP,Craig J. Pullen,"1,393"
+Wexford,"City of Cadillac, Precinct 2",County Surveyor,,REP,Craig J. Pullen,"1,280"
+Wexford,"City of Cadillac, Precinct 3",County Surveyor,,REP,Craig J. Pullen,"1,359"
+Wexford,"City of Manton, Precinct 1",County Surveyor,,REP,Craig J. Pullen,479
+Wexford,"Antioch Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,396
+Wexford,"Boon Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,308
+Wexford,"Cedar Creek Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,782
+Wexford,"Cherry Grove Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,"1,375"
+Wexford,"Clam Lake Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,"1,335"
+Wexford,"Colfax Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,438
+Wexford,"Greenwood Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,302
+Wexford,"Hanover Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,782
+Wexford,"Haring Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,"1,642"
+Wexford,"Henderson Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,108
+Wexford,"Liberty Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,455
+Wexford,"Selma Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,"1,070"
+Wexford,"Slagle Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,257
+Wexford,"South Branch Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,199
+Wexford,"Springville Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,781
+Wexford,"Wexford Township, Precinct 1",County Surveyor,,REP,Craig J. Pullen,583
+Wexford,"City of Cadillac, Precinct 1",County Surveyor,,,Write-ins,32
+Wexford,"City of Cadillac, Precinct 2",County Surveyor,,,Write-ins,40
+Wexford,"City of Cadillac, Precinct 3",County Surveyor,,,Write-ins,48
+Wexford,"City of Manton, Precinct 1",County Surveyor,,,Write-ins,11
+Wexford,"Antioch Township, Precinct 1",County Surveyor,,,Write-ins,6
+Wexford,"Boon Township, Precinct 1",County Surveyor,,,Write-ins,5
+Wexford,"Cedar Creek Township, Precinct 1",County Surveyor,,,Write-ins,21
+Wexford,"Cherry Grove Township, Precinct 1",County Surveyor,,,Write-ins,18
+Wexford,"Clam Lake Township, Precinct 1",County Surveyor,,,Write-ins,17
+Wexford,"Colfax Township, Precinct 1",County Surveyor,,,Write-ins,5
+Wexford,"Greenwood Township, Precinct 1",County Surveyor,,,Write-ins,6
+Wexford,"Hanover Township, Precinct 1",County Surveyor,,,Write-ins,10
+Wexford,"Haring Township, Precinct 1",County Surveyor,,,Write-ins,24
+Wexford,"Henderson Township, Precinct 1",County Surveyor,,,Write-ins,0
+Wexford,"Liberty Township, Precinct 1",County Surveyor,,,Write-ins,5
+Wexford,"Selma Township, Precinct 1",County Surveyor,,,Write-ins,20
+Wexford,"Slagle Township, Precinct 1",County Surveyor,,,Write-ins,5
+Wexford,"South Branch Township, Precinct 1",County Surveyor,,,Write-ins,3
+Wexford,"Springville Township, Precinct 1",County Surveyor,,,Write-ins,17
+Wexford,"Wexford Township, Precinct 1",County Surveyor,,,Write-ins,6

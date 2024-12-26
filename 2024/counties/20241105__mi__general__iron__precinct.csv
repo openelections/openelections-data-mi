@@ -1,0 +1,553 @@
+county,precinct,office,district,party,candidate,votes
+Iron,"City of Caspian, Precinct 1",Registered Voters,,,,757
+Iron,"City of Crystal Falls, Precinct 1",Registered Voters,,,,1416
+Iron,"City of Gaastra, Precinct 1",Registered Voters,,,,280
+Iron,"City of Iron River, Precinct 1",Registered Voters,,,,1329
+Iron,"City of Iron River, Precinct 2",Registered Voters,,,,1255
+Iron,"Bates Township, Precinct 1",Registered Voters,,,,970
+Iron,"Crystal Falls Township, Precinct 1",Registered Voters,,,,1499
+Iron,"Hematite Township, Precinct 1",Registered Voters,,,,274
+Iron,"Iron River Township, Precinct 1",Registered Voters,,,,1116
+Iron,"Mansfield Township, Precinct 1",Registered Voters,,,,275
+Iron,"Mastodon Township, Precinct 1",Registered Voters,,,,630
+Iron,"Stambaugh Township, Precinct 1",Registered Voters,,,,1258
+Iron,"City of Caspian, Precinct 1",Ballots Cast,,,,425
+Iron,"City of Crystal Falls, Precinct 1",Ballots Cast,,,,847
+Iron,"City of Gaastra, Precinct 1",Ballots Cast,,,,189
+Iron,"City of Iron River, Precinct 1",Ballots Cast,,,,782
+Iron,"City of Iron River, Precinct 2",Ballots Cast,,,,672
+Iron,"Bates Township, Precinct 1",Ballots Cast,,,,691
+Iron,"Crystal Falls Township, Precinct 1",Ballots Cast,,,,1071
+Iron,"Hematite Township, Precinct 1",Ballots Cast,,,,178
+Iron,"Iron River Township, Precinct 1",Ballots Cast,,,,734
+Iron,"Mansfield Township, Precinct 1",Ballots Cast,,,,195
+Iron,"Mastodon Township, Precinct 1",Ballots Cast,,,,490
+Iron,"Stambaugh Township, Precinct 1",Ballots Cast,,,,812
+Iron,"City of Caspian, Precinct 1",Straight Party,,DEM,Democratic,95
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,DEM,Democratic,139
+Iron,"City of Gaastra, Precinct 1",Straight Party,,DEM,Democratic,24
+Iron,"City of Iron River, Precinct 1",Straight Party,,DEM,Democratic,150
+Iron,"City of Iron River, Precinct 2",Straight Party,,DEM,Democratic,121
+Iron,"Bates Township, Precinct 1",Straight Party,,DEM,Democratic,94
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,DEM,Democratic,160
+Iron,"Hematite Township, Precinct 1",Straight Party,,DEM,Democratic,17
+Iron,"Iron River Township, Precinct 1",Straight Party,,DEM,Democratic,99
+Iron,"Mansfield Township, Precinct 1",Straight Party,,DEM,Democratic,23
+Iron,"Mastodon Township, Precinct 1",Straight Party,,DEM,Democratic,74
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,DEM,Democratic,127
+Iron,"City of Caspian, Precinct 1",Straight Party,,REP,Republican,146
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,REP,Republican,213
+Iron,"City of Gaastra, Precinct 1",Straight Party,,REP,Republican,69
+Iron,"City of Iron River, Precinct 1",Straight Party,,REP,Republican,290
+Iron,"City of Iron River, Precinct 2",Straight Party,,REP,Republican,241
+Iron,"Bates Township, Precinct 1",Straight Party,,REP,Republican,239
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,REP,Republican,244
+Iron,"Hematite Township, Precinct 1",Straight Party,,REP,Republican,53
+Iron,"Iron River Township, Precinct 1",Straight Party,,REP,Republican,260
+Iron,"Mansfield Township, Precinct 1",Straight Party,,REP,Republican,54
+Iron,"Mastodon Township, Precinct 1",Straight Party,,REP,Republican,154
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,REP,Republican,262
+Iron,"City of Caspian, Precinct 1",Straight Party,,LIB,Libertarian,2
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"City of Gaastra, Precinct 1",Straight Party,,LIB,Libertarian,0
+Iron,"City of Iron River, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"City of Iron River, Precinct 2",Straight Party,,LIB,Libertarian,0
+Iron,"Bates Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"Hematite Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Iron,"Iron River Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Iron,"Mansfield Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Iron,"Mastodon Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Iron,"City of Caspian, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Iron,"City of Gaastra, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Iron,"City of Iron River, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Iron,"City of Iron River, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Bates Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Hematite Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Iron River Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Mansfield Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Iron,"Mastodon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Iron,"City of Caspian, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,GRN,Green,2
+Iron,"City of Gaastra, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"City of Iron River, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"City of Iron River, Precinct 2",Straight Party,,GRN,Green,0
+Iron,"Bates Township, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,GRN,Green,1
+Iron,"Hematite Township, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"Iron River Township, Precinct 1",Straight Party,,GRN,Green,1
+Iron,"Mansfield Township, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"Mastodon Township, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,GRN,Green,0
+Iron,"City of Caspian, Precinct 1",Straight Party,,WCP,Working Class,2
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,WCP,Working Class,4
+Iron,"City of Gaastra, Precinct 1",Straight Party,,WCP,Working Class,1
+Iron,"City of Iron River, Precinct 1",Straight Party,,WCP,Working Class,8
+Iron,"City of Iron River, Precinct 2",Straight Party,,WCP,Working Class,5
+Iron,"Bates Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Iron,"Hematite Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Iron,"Iron River Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Iron,"Mansfield Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Iron,"Mastodon Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Iron,"City of Caspian, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"City of Crystal Falls, Precinct 1",Straight Party,,NLP,Natural Law,3
+Iron,"City of Gaastra, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"City of Iron River, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"City of Iron River, Precinct 2",Straight Party,,NLP,Natural Law,1
+Iron,"Bates Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Iron,"Crystal Falls Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Iron,"Hematite Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"Iron River Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Iron,"Mansfield Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"Mastodon Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Iron,"Stambaugh Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Iron,"City of Caspian, Precinct 1",President,,DEM,Kamala D. Harris,167
+Iron,"City of Crystal Falls, Precinct 1",President,,DEM,Kamala D. Harris,339
+Iron,"City of Gaastra, Precinct 1",President,,DEM,Kamala D. Harris,50
+Iron,"City of Iron River, Precinct 1",President,,DEM,Kamala D. Harris,259
+Iron,"City of Iron River, Precinct 2",President,,DEM,Kamala D. Harris,237
+Iron,"Bates Township, Precinct 1",President,,DEM,Kamala D. Harris,212
+Iron,"Crystal Falls Township, Precinct 1",President,,DEM,Kamala D. Harris,427
+Iron,"Hematite Township, Precinct 1",President,,DEM,Kamala D. Harris,63
+Iron,"Iron River Township, Precinct 1",President,,DEM,Kamala D. Harris,195
+Iron,"Mansfield Township, Precinct 1",President,,DEM,Kamala D. Harris,51
+Iron,"Mastodon Township, Precinct 1",President,,DEM,Kamala D. Harris,168
+Iron,"Stambaugh Township, Precinct 1",President,,DEM,Kamala D. Harris,273
+Iron,"City of Caspian, Precinct 1",President,,REP,Donald J. Trump,254
+Iron,"City of Crystal Falls, Precinct 1",President,,REP,Donald J. Trump,487
+Iron,"City of Gaastra, Precinct 1",President,,REP,Donald J. Trump,133
+Iron,"City of Iron River, Precinct 1",President,,REP,Donald J. Trump,503
+Iron,"City of Iron River, Precinct 2",President,,REP,Donald J. Trump,420
+Iron,"Bates Township, Precinct 1",President,,REP,Donald J. Trump,466
+Iron,"Crystal Falls Township, Precinct 1",President,,REP,Donald J. Trump,620
+Iron,"Hematite Township, Precinct 1",President,,REP,Donald J. Trump,113
+Iron,"Iron River Township, Precinct 1",President,,REP,Donald J. Trump,527
+Iron,"Mansfield Township, Precinct 1",President,,REP,Donald J. Trump,140
+Iron,"Mastodon Township, Precinct 1",President,,REP,Donald J. Trump,312
+Iron,"Stambaugh Township, Precinct 1",President,,REP,Donald J. Trump,526
+Iron,"City of Caspian, Precinct 1",President,,LIB,Chase Oliver,2
+Iron,"City of Crystal Falls, Precinct 1",President,,LIB,Chase Oliver,4
+Iron,"City of Gaastra, Precinct 1",President,,LIB,Chase Oliver,0
+Iron,"City of Iron River, Precinct 1",President,,LIB,Chase Oliver,4
+Iron,"City of Iron River, Precinct 2",President,,LIB,Chase Oliver,1
+Iron,"Bates Township, Precinct 1",President,,LIB,Chase Oliver,4
+Iron,"Crystal Falls Township, Precinct 1",President,,LIB,Chase Oliver,2
+Iron,"Hematite Township, Precinct 1",President,,LIB,Chase Oliver,0
+Iron,"Iron River Township, Precinct 1",President,,LIB,Chase Oliver,1
+Iron,"Mansfield Township, Precinct 1",President,,LIB,Chase Oliver,0
+Iron,"Mastodon Township, Precinct 1",President,,LIB,Chase Oliver,3
+Iron,"Stambaugh Township, Precinct 1",President,,LIB,Chase Oliver,2
+Iron,"City of Caspian, Precinct 1",President,,UST,Randall Terry,0
+Iron,"City of Crystal Falls, Precinct 1",President,,UST,Randall Terry,0
+Iron,"City of Gaastra, Precinct 1",President,,UST,Randall Terry,0
+Iron,"City of Iron River, Precinct 1",President,,UST,Randall Terry,2
+Iron,"City of Iron River, Precinct 2",President,,UST,Randall Terry,0
+Iron,"Bates Township, Precinct 1",President,,UST,Randall Terry,0
+Iron,"Crystal Falls Township, Precinct 1",President,,UST,Randall Terry,1
+Iron,"Hematite Township, Precinct 1",President,,UST,Randall Terry,0
+Iron,"Iron River Township, Precinct 1",President,,UST,Randall Terry,1
+Iron,"Mansfield Township, Precinct 1",President,,UST,Randall Terry,1
+Iron,"Mastodon Township, Precinct 1",President,,UST,Randall Terry,2
+Iron,"Stambaugh Township, Precinct 1",President,,UST,Randall Terry,0
+Iron,"City of Caspian, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"City of Crystal Falls, Precinct 1",President,,GRN,Jill Stein,1
+Iron,"City of Gaastra, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"City of Iron River, Precinct 1",President,,GRN,Jill Stein,1
+Iron,"City of Iron River, Precinct 2",President,,GRN,Jill Stein,1
+Iron,"Bates Township, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"Crystal Falls Township, Precinct 1",President,,GRN,Jill Stein,1
+Iron,"Hematite Township, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"Iron River Township, Precinct 1",President,,GRN,Jill Stein,2
+Iron,"Mansfield Township, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"Mastodon Township, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"Stambaugh Township, Precinct 1",President,,GRN,Jill Stein,0
+Iron,"City of Caspian, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Iron,"City of Crystal Falls, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
+Iron,"City of Gaastra, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Iron,"City of Iron River, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Iron,"City of Iron River, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",7
+Iron,"Bates Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
+Iron,"Crystal Falls Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Iron,"Hematite Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
+Iron,"Iron River Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Iron,"Mansfield Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Iron,"Mastodon Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Iron,"Stambaugh Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",6
+Iron,"City of Caspian, Precinct 1",President,,,Joseph Kishore,0
+Iron,"City of Crystal Falls, Precinct 1",President,,,Joseph Kishore,1
+Iron,"City of Gaastra, Precinct 1",President,,,Joseph Kishore,0
+Iron,"City of Iron River, Precinct 1",President,,,Joseph Kishore,0
+Iron,"City of Iron River, Precinct 2",President,,,Joseph Kishore,0
+Iron,"Bates Township, Precinct 1",President,,,Joseph Kishore,0
+Iron,"Crystal Falls Township, Precinct 1",President,,,Joseph Kishore,0
+Iron,"Hematite Township, Precinct 1",President,,,Joseph Kishore,0
+Iron,"Iron River Township, Precinct 1",President,,,Joseph Kishore,1
+Iron,"Mansfield Township, Precinct 1",President,,,Joseph Kishore,1
+Iron,"Mastodon Township, Precinct 1",President,,,Joseph Kishore,0
+Iron,"Stambaugh Township, Precinct 1",President,,,Joseph Kishore,0
+Iron,"City of Caspian, Precinct 1",President,,,Cornel West,0
+Iron,"City of Crystal Falls, Precinct 1",President,,,Cornel West,0
+Iron,"City of Gaastra, Precinct 1",President,,,Cornel West,1
+Iron,"City of Iron River, Precinct 1",President,,,Cornel West,1
+Iron,"City of Iron River, Precinct 2",President,,,Cornel West,0
+Iron,"Bates Township, Precinct 1",President,,,Cornel West,0
+Iron,"Crystal Falls Township, Precinct 1",President,,,Cornel West,0
+Iron,"Hematite Township, Precinct 1",President,,,Cornel West,0
+Iron,"Iron River Township, Precinct 1",President,,,Cornel West,0
+Iron,"Mansfield Township, Precinct 1",President,,,Cornel West,0
+Iron,"Mastodon Township, Precinct 1",President,,,Cornel West,0
+Iron,"Stambaugh Township, Precinct 1",President,,,Cornel West,0
+Iron,"City of Caspian, Precinct 1",President,,,Write-ins,1
+Iron,"City of Crystal Falls, Precinct 1",President,,,Write-ins,1
+Iron,"City of Gaastra, Precinct 1",President,,,Write-ins,0
+Iron,"City of Iron River, Precinct 1",President,,,Write-ins,1
+Iron,"City of Iron River, Precinct 2",President,,,Write-ins,0
+Iron,"Bates Township, Precinct 1",President,,,Write-ins,1
+Iron,"Crystal Falls Township, Precinct 1",President,,,Write-ins,0
+Iron,"Hematite Township, Precinct 1",President,,,Write-ins,0
+Iron,"Iron River Township, Precinct 1",President,,,Write-ins,1
+Iron,"Mansfield Township, Precinct 1",President,,,Write-ins,0
+Iron,"Mastodon Township, Precinct 1",President,,,Write-ins,0
+Iron,"Stambaugh Township, Precinct 1",President,,,Write-ins,1
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,165
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,333
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,54
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,245
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,224
+Iron,"Bates Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,215
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,409
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,62
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,191
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,57
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,173
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,276
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,REP,Mike Rogers,238
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,REP,Mike Rogers,456
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,REP,Mike Rogers,117
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,REP,Mike Rogers,495
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,REP,Mike Rogers,407
+Iron,"Bates Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,450
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,596
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,110
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,509
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,135
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,301
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,514
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,13
+Iron,"Bates Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,UST,Dave Stein,10
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,UST,Dave Stein,3
+Iron,"Bates Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,4
+Iron,"Bates Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,NLP,Doug Dern,5
+Iron,"Bates Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,6
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Iron,"City of Caspian, Precinct 1",U.S. Senate,,,Write-ins,1
+Iron,"City of Crystal Falls, Precinct 1",U.S. Senate,,,Write-ins,2
+Iron,"City of Gaastra, Precinct 1",U.S. Senate,,,Write-ins,1
+Iron,"City of Iron River, Precinct 1",U.S. Senate,,,Write-ins,1
+Iron,"City of Iron River, Precinct 2",U.S. Senate,,,Write-ins,2
+Iron,"Bates Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"Crystal Falls Township, Precinct 1",U.S. Senate,,,Write-ins,3
+Iron,"Hematite Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"Iron River Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"Mansfield Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"Mastodon Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"Stambaugh Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Iron,"City of Caspian, Precinct 1",U.S. House,1,DEM,Callie Barr,171
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,DEM,Callie Barr,338
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,DEM,Callie Barr,58
+Iron,"City of Iron River, Precinct 1",U.S. House,1,DEM,Callie Barr,255
+Iron,"City of Iron River, Precinct 2",U.S. House,1,DEM,Callie Barr,228
+Iron,"Bates Township, Precinct 1",U.S. House,1,DEM,Callie Barr,221
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,DEM,Callie Barr,419
+Iron,"Hematite Township, Precinct 1",U.S. House,1,DEM,Callie Barr,66
+Iron,"Iron River Township, Precinct 1",U.S. House,1,DEM,Callie Barr,203
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,DEM,Callie Barr,53
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,DEM,Callie Barr,170
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,DEM,Callie Barr,287
+Iron,"City of Caspian, Precinct 1",U.S. House,1,REP,Jack Bergman,234
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,REP,Jack Bergman,454
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,REP,Jack Bergman,119
+Iron,"City of Iron River, Precinct 1",U.S. House,1,REP,Jack Bergman,486
+Iron,"City of Iron River, Precinct 2",U.S. House,1,REP,Jack Bergman,408
+Iron,"Bates Township, Precinct 1",U.S. House,1,REP,Jack Bergman,448
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,REP,Jack Bergman,591
+Iron,"Hematite Township, Precinct 1",U.S. House,1,REP,Jack Bergman,104
+Iron,"Iron River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,491
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,REP,Jack Bergman,135
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,295
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,REP,Jack Bergman,500
+Iron,"City of Caspian, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,LIB,Andrew Gale,10
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Iron,"City of Iron River, Precinct 1",U.S. House,1,LIB,Andrew Gale,7
+Iron,"City of Iron River, Precinct 2",U.S. House,1,LIB,Andrew Gale,9
+Iron,"Bates Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
+Iron,"Hematite Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,1
+Iron,"Iron River Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,9
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
+Iron,"City of Caspian, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,WCP,Liz Hakola,16
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,WCP,Liz Hakola,3
+Iron,"City of Iron River, Precinct 1",U.S. House,1,WCP,Liz Hakola,15
+Iron,"City of Iron River, Precinct 2",U.S. House,1,WCP,Liz Hakola,14
+Iron,"Bates Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,16
+Iron,"Hematite Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Iron,"Iron River Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
+Iron,"City of Caspian, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"City of Crystal Falls, Precinct 1",U.S. House,1,,Write-ins,2
+Iron,"City of Gaastra, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"City of Iron River, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"City of Iron River, Precinct 2",U.S. House,1,,Write-ins,2
+Iron,"Bates Township, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"Crystal Falls Township, Precinct 1",U.S. House,1,,Write-ins,4
+Iron,"Hematite Township, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"Iron River Township, Precinct 1",U.S. House,1,,Write-ins,1
+Iron,"Mansfield Township, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"Mastodon Township, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"Stambaugh Township, Precinct 1",U.S. House,1,,Write-ins,0
+Iron,"City of Caspian, Precinct 1",State House,110,DEM,Kim S. Corcoran,155
+Iron,"City of Crystal Falls, Precinct 1",State House,110,DEM,Kim S. Corcoran,327
+Iron,"City of Gaastra, Precinct 1",State House,110,DEM,Kim S. Corcoran,43
+Iron,"City of Iron River, Precinct 1",State House,110,DEM,Kim S. Corcoran,255
+Iron,"City of Iron River, Precinct 2",State House,110,DEM,Kim S. Corcoran,223
+Iron,"Bates Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,196
+Iron,"Crystal Falls Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,392
+Iron,"Hematite Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,60
+Iron,"Iron River Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,184
+Iron,"Mansfield Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,52
+Iron,"Mastodon Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,159
+Iron,"Stambaugh Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,257
+Iron,"City of Caspian, Precinct 1",State House,110,REP,Gregory J. Markkanen,257
+Iron,"City of Crystal Falls, Precinct 1",State House,110,REP,Gregory J. Markkanen,480
+Iron,"City of Gaastra, Precinct 1",State House,110,REP,Gregory J. Markkanen,132
+Iron,"City of Iron River, Precinct 1",State House,110,REP,Gregory J. Markkanen,493
+Iron,"City of Iron River, Precinct 2",State House,110,REP,Gregory J. Markkanen,422
+Iron,"Bates Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,465
+Iron,"Crystal Falls Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,620
+Iron,"Hematite Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,110
+Iron,"Iron River Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,526
+Iron,"Mansfield Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,138
+Iron,"Mastodon Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,311
+Iron,"Stambaugh Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,528
+Iron,"City of Caspian, Precinct 1",State House,110,,Write-ins,5
+Iron,"City of Crystal Falls, Precinct 1",State House,110,,Write-ins,6
+Iron,"City of Gaastra, Precinct 1",State House,110,,Write-ins,4
+Iron,"City of Iron River, Precinct 1",State House,110,,Write-ins,3
+Iron,"City of Iron River, Precinct 2",State House,110,,Write-ins,5
+Iron,"Bates Township, Precinct 1",State House,110,,Write-ins,7
+Iron,"Crystal Falls Township, Precinct 1",State House,110,,Write-ins,10
+Iron,"Hematite Township, Precinct 1",State House,110,,Write-ins,4
+Iron,"Iron River Township, Precinct 1",State House,110,,Write-ins,2
+Iron,"Mansfield Township, Precinct 1",State House,110,,Write-ins,1
+Iron,"Mastodon Township, Precinct 1",State House,110,,Write-ins,4
+Iron,"Stambaugh Township, Precinct 1",State House,110,,Write-ins,2
+Iron,"City of Caspian, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,297
+Iron,"City of Crystal Falls, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,600
+Iron,"City of Gaastra, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,151
+Iron,"City of Iron River, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,564
+Iron,"City of Iron River, Precinct 2",County Prosecuting Attorney,,REP,Chad A. DeRouin,492
+Iron,"Bates Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,532
+Iron,"Crystal Falls Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,746
+Iron,"Hematite Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,127
+Iron,"Iron River Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,539
+Iron,"Mansfield Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,141
+Iron,"Mastodon Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,354
+Iron,"Stambaugh Township, Precinct 1",County Prosecuting Attorney,,REP,Chad A. DeRouin,584
+Iron,"City of Caspian, Precinct 1",County Prosecuting Attorney,,,Write-ins,12
+Iron,"City of Crystal Falls, Precinct 1",County Prosecuting Attorney,,,Write-ins,25
+Iron,"City of Gaastra, Precinct 1",County Prosecuting Attorney,,,Write-ins,4
+Iron,"City of Iron River, Precinct 1",County Prosecuting Attorney,,,Write-ins,22
+Iron,"City of Iron River, Precinct 2",County Prosecuting Attorney,,,Write-ins,19
+Iron,"Bates Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8
+Iron,"Crystal Falls Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,20
+Iron,"Hematite Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,1
+Iron,"Iron River Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,13
+Iron,"Mansfield Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,2
+Iron,"Mastodon Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,12
+Iron,"Stambaugh Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,6
+Iron,"City of Caspian, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,288
+Iron,"City of Crystal Falls, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,646
+Iron,"City of Gaastra, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,131
+Iron,"City of Iron River, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,496
+Iron,"City of Iron River, Precinct 2",County Sheriff,,DEM,Ryan D. Boehmke,440
+Iron,"Bates Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,440
+Iron,"Crystal Falls Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,759
+Iron,"Hematite Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,120
+Iron,"Iron River Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,409
+Iron,"Mansfield Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,114
+Iron,"Mastodon Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,313
+Iron,"Stambaugh Township, Precinct 1",County Sheriff,,DEM,Ryan D. Boehmke,485
+Iron,"City of Caspian, Precinct 1",County Sheriff,,,Write-ins,14
+Iron,"City of Crystal Falls, Precinct 1",County Sheriff,,,Write-ins,29
+Iron,"City of Gaastra, Precinct 1",County Sheriff,,,Write-ins,8
+Iron,"City of Iron River, Precinct 1",County Sheriff,,,Write-ins,38
+Iron,"City of Iron River, Precinct 2",County Sheriff,,,Write-ins,42
+Iron,"Bates Township, Precinct 1",County Sheriff,,,Write-ins,20
+Iron,"Crystal Falls Township, Precinct 1",County Sheriff,,,Write-ins,39
+Iron,"Hematite Township, Precinct 1",County Sheriff,,,Write-ins,11
+Iron,"Iron River Township, Precinct 1",County Sheriff,,,Write-ins,23
+Iron,"Mansfield Township, Precinct 1",County Sheriff,,,Write-ins,11
+Iron,"Mastodon Township, Precinct 1",County Sheriff,,,Write-ins,24
+Iron,"Stambaugh Township, Precinct 1",County Sheriff,,,Write-ins,23
+Iron,"City of Caspian, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,293
+Iron,"City of Crystal Falls, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,591
+Iron,"City of Gaastra, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,126
+Iron,"City of Iron River, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,507
+Iron,"City of Iron River, Precinct 2",County Clerk/Register of Deeds,,DEM,Amy L. Donati,441
+Iron,"Bates Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,423
+Iron,"Crystal Falls Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,700
+Iron,"Hematite Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,121
+Iron,"Iron River Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,407
+Iron,"Mansfield Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,103
+Iron,"Mastodon Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,288
+Iron,"Stambaugh Township, Precinct 1",County Clerk/Register of Deeds,,DEM,Amy L. Donati,487
+Iron,"City of Caspian, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,11
+Iron,"City of Crystal Falls, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,30
+Iron,"City of Gaastra, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,8
+Iron,"City of Iron River, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,35
+Iron,"City of Iron River, Precinct 2",County Clerk/Register of Deeds,,,Write-ins,33
+Iron,"Bates Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,20
+Iron,"Crystal Falls Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,32
+Iron,"Hematite Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,10
+Iron,"Iron River Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,20
+Iron,"Mansfield Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,8
+Iron,"Mastodon Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,22
+Iron,"Stambaugh Township, Precinct 1",County Clerk/Register of Deeds,,,Write-ins,19
+Iron,"City of Caspian, Precinct 1",County Treasurer,,DEM,Melanie Camps,287
+Iron,"City of Crystal Falls, Precinct 1",County Treasurer,,DEM,Melanie Camps,579
+Iron,"City of Gaastra, Precinct 1",County Treasurer,,DEM,Melanie Camps,124
+Iron,"City of Iron River, Precinct 1",County Treasurer,,DEM,Melanie Camps,488
+Iron,"City of Iron River, Precinct 2",County Treasurer,,DEM,Melanie Camps,435
+Iron,"Bates Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,422
+Iron,"Crystal Falls Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,699
+Iron,"Hematite Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,117
+Iron,"Iron River Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,402
+Iron,"Mansfield Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,101
+Iron,"Mastodon Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,285
+Iron,"Stambaugh Township, Precinct 1",County Treasurer,,DEM,Melanie Camps,488
+Iron,"City of Caspian, Precinct 1",County Treasurer,,,Write-ins,16
+Iron,"City of Crystal Falls, Precinct 1",County Treasurer,,,Write-ins,26
+Iron,"City of Gaastra, Precinct 1",County Treasurer,,,Write-ins,10
+Iron,"City of Iron River, Precinct 1",County Treasurer,,,Write-ins,37
+Iron,"City of Iron River, Precinct 2",County Treasurer,,,Write-ins,36
+Iron,"Bates Township, Precinct 1",County Treasurer,,,Write-ins,20
+Iron,"Crystal Falls Township, Precinct 1",County Treasurer,,,Write-ins,35
+Iron,"Hematite Township, Precinct 1",County Treasurer,,,Write-ins,10
+Iron,"Iron River Township, Precinct 1",County Treasurer,,,Write-ins,31
+Iron,"Mansfield Township, Precinct 1",County Treasurer,,,Write-ins,9
+Iron,"Mastodon Township, Precinct 1",County Treasurer,,,Write-ins,22
+Iron,"Stambaugh Township, Precinct 1",County Treasurer,,,Write-ins,18
+Iron,"City of Caspian, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,292
+Iron,"City of Crystal Falls, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,570
+Iron,"City of Gaastra, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,122
+Iron,"City of Iron River, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,482
+Iron,"City of Iron River, Precinct 2",County Mine Inspector,,DEM,Thomas C. Karvala,442
+Iron,"Bates Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,414
+Iron,"Crystal Falls Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,678
+Iron,"Hematite Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,114
+Iron,"Iron River Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,380
+Iron,"Mansfield Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,99
+Iron,"Mastodon Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,275
+Iron,"Stambaugh Township, Precinct 1",County Mine Inspector,,DEM,Thomas C. Karvala,474
+Iron,"City of Caspian, Precinct 1",County Mine Inspector,,,Write-ins,13
+Iron,"City of Crystal Falls, Precinct 1",County Mine Inspector,,,Write-ins,26
+Iron,"City of Gaastra, Precinct 1",County Mine Inspector,,,Write-ins,9
+Iron,"City of Iron River, Precinct 1",County Mine Inspector,,,Write-ins,31
+Iron,"City of Iron River, Precinct 2",County Mine Inspector,,,Write-ins,34
+Iron,"Bates Township, Precinct 1",County Mine Inspector,,,Write-ins,23
+Iron,"Crystal Falls Township, Precinct 1",County Mine Inspector,,,Write-ins,32
+Iron,"Hematite Township, Precinct 1",County Mine Inspector,,,Write-ins,9
+Iron,"Iron River Township, Precinct 1",County Mine Inspector,,,Write-ins,23
+Iron,"Mansfield Township, Precinct 1",County Mine Inspector,,,Write-ins,9
+Iron,"Mastodon Township, Precinct 1",County Mine Inspector,,,Write-ins,22
+Iron,"Stambaugh Township, Precinct 1",County Mine Inspector,,,Write-ins,19
+Iron,"City of Caspian, Precinct 1",County Road Commissioner,,REP,Ron Frailing,308
+Iron,"City of Crystal Falls, Precinct 1",County Road Commissioner,,REP,Ron Frailing,562
+Iron,"City of Gaastra, Precinct 1",County Road Commissioner,,REP,Ron Frailing,154
+Iron,"City of Iron River, Precinct 1",County Road Commissioner,,REP,Ron Frailing,574
+Iron,"City of Iron River, Precinct 2",County Road Commissioner,,REP,Ron Frailing,499
+Iron,"Bates Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,533
+Iron,"Crystal Falls Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,676
+Iron,"Hematite Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,122
+Iron,"Iron River Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,544
+Iron,"Mansfield Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,131
+Iron,"Mastodon Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,325
+Iron,"Stambaugh Township, Precinct 1",County Road Commissioner,,REP,Ron Frailing,588
+Iron,"City of Caspian, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,261
+Iron,"City of Crystal Falls, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,502
+Iron,"City of Gaastra, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,133
+Iron,"City of Iron River, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,491
+Iron,"City of Iron River, Precinct 2",County Road Commissioner,,REP,Dan R. Germic,428
+Iron,"Bates Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,455
+Iron,"Crystal Falls Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,682
+Iron,"Hematite Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,119
+Iron,"Iron River Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,478
+Iron,"Mansfield Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,125
+Iron,"Mastodon Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,309
+Iron,"Stambaugh Township, Precinct 1",County Road Commissioner,,REP,Dan R. Germic,524
+Iron,"City of Caspian, Precinct 1",County Road Commissioner,,,Write-ins,15
+Iron,"City of Crystal Falls, Precinct 1",County Road Commissioner,,,Write-ins,23
+Iron,"City of Gaastra, Precinct 1",County Road Commissioner,,,Write-ins,3
+Iron,"City of Iron River, Precinct 1",County Road Commissioner,,,Write-ins,11
+Iron,"City of Iron River, Precinct 2",County Road Commissioner,,,Write-ins,14
+Iron,"Bates Township, Precinct 1",County Road Commissioner,,,Write-ins,13
+Iron,"Crystal Falls Township, Precinct 1",County Road Commissioner,,,Write-ins,19
+Iron,"Hematite Township, Precinct 1",County Road Commissioner,,,Write-ins,1
+Iron,"Iron River Township, Precinct 1",County Road Commissioner,,,Write-ins,9
+Iron,"Mansfield Township, Precinct 1",County Road Commissioner,,,Write-ins,2
+Iron,"Mastodon Township, Precinct 1",County Road Commissioner,,,Write-ins,11
+Iron,"Stambaugh Township, Precinct 1",County Road Commissioner,,,Write-ins,3

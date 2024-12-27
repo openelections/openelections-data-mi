@@ -1,0 +1,981 @@
+county,precinct,office,district,party,candidate,votes
+Charlevoix,"Bay Township, Precinct 1",Registered Voters,,,,1071
+Charlevoix,"Boyne Valley Township, Precinct 2",Registered Voters,,,,1242
+Charlevoix,"Chandler Township, Precinct 3",Registered Voters,,,,257
+Charlevoix,"Charlevoix Township, Precinct 4",Registered Voters,,,,1624
+Charlevoix,"Evangeline Township, Precinct 5",Registered Voters,,,,703
+Charlevoix,"Eveline Township, Precinct 6",Registered Voters,,,,1525
+Charlevoix,"Hayes Township, Precinct 7",Registered Voters,,,,1918
+Charlevoix,"Hudson Township, Precinct 8",Registered Voters,,,,658
+Charlevoix,"Marion Township, Precinct 9",Registered Voters,,,,1679
+Charlevoix,"Melrose Township, Precinct 10",Registered Voters,,,,1326
+Charlevoix,"Norwood Township, Precinct 11",Registered Voters,,,,716
+Charlevoix,"Peaine Township, Precinct 12",Registered Voters,,,,361
+Charlevoix,"St. James Township, Precinct 13",Registered Voters,,,,343
+Charlevoix,"South Arm Township, Precinct 14",Registered Voters,,,,1714
+Charlevoix,"Wilson Township, Precinct 15",Registered Voters,,,,1669
+Charlevoix,"City of Boyne City, Precinct 16",Registered Voters,,,,3424
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Registered Voters,,,,772
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Registered Voters,,,,783
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Registered Voters,,,,758
+Charlevoix,"City of East Jordan, Precinct 21",Registered Voters,,,,1854
+Charlevoix,"Bay Township, Precinct 1",Ballots Cast,,,,881
+Charlevoix,"Boyne Valley Township, Precinct 2",Ballots Cast,,,,862
+Charlevoix,"Chandler Township, Precinct 3",Ballots Cast,,,,200
+Charlevoix,"Charlevoix Township, Precinct 4",Ballots Cast,,,,1189
+Charlevoix,"Evangeline Township, Precinct 5",Ballots Cast,,,,551
+Charlevoix,"Eveline Township, Precinct 6",Ballots Cast,,,,1191
+Charlevoix,"Hayes Township, Precinct 7",Ballots Cast,,,,1456
+Charlevoix,"Hudson Township, Precinct 8",Ballots Cast,,,,439
+Charlevoix,"Marion Township, Precinct 9",Ballots Cast,,,,1219
+Charlevoix,"Melrose Township, Precinct 10",Ballots Cast,,,,948
+Charlevoix,"Norwood Township, Precinct 11",Ballots Cast,,,,560
+Charlevoix,"Peaine Township, Precinct 12",Ballots Cast,,,,278
+Charlevoix,"St. James Township, Precinct 13",Ballots Cast,,,,242
+Charlevoix,"South Arm Township, Precinct 14",Ballots Cast,,,,1244
+Charlevoix,"Wilson Township, Precinct 15",Ballots Cast,,,,1279
+Charlevoix,"City of Boyne City, Precinct 16",Ballots Cast,,,,2411
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Ballots Cast,,,,588
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Ballots Cast,,,,529
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Ballots Cast,,,,527
+Charlevoix,"City of East Jordan, Precinct 21",Ballots Cast,,,,1170
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,DEM,Democratic,146
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,DEM,Democratic,140
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,DEM,Democratic,32
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,DEM,Democratic,273
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,DEM,Democratic,96
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,DEM,Democratic,205
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,DEM,Democratic,198
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,DEM,Democratic,60
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,DEM,Democratic,170
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,DEM,Democratic,171
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,DEM,Democratic,96
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,DEM,Democratic,57
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,DEM,Democratic,56
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,DEM,Democratic,203
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,DEM,Democratic,213
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,DEM,Democratic,584
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,DEM,Democratic,147
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,DEM,Democratic,129
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,DEM,Democratic,120
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,DEM,Democratic,208
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,REP,Republican,291
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,REP,Republican,297
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,REP,Republican,89
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,REP,Republican,320
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,REP,Republican,189
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,REP,Republican,436
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,REP,Republican,346
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,REP,Republican,153
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,REP,Republican,375
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,REP,Republican,342
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,REP,Republican,172
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,REP,Republican,55
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,REP,Republican,50
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,REP,Republican,507
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,REP,Republican,493
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,REP,Republican,794
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,REP,Republican,164
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,REP,Republican,155
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,REP,Republican,155
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,REP,Republican,490
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,LIB,Libertarian,0
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,LIB,Libertarian,1
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,LIB,Libertarian,1
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,LIB,Libertarian,0
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,LIB,Libertarian,0
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,LIB,Libertarian,4
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,LIB,Libertarian,2
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,LIB,Libertarian,4
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,LIB,Libertarian,2
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,LIB,Libertarian,0
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,LIB,Libertarian,2
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,LIB,Libertarian,0
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,LIB,Libertarian,2
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,LIB,Libertarian,1
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,LIB,Libertarian,8
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,LIB,Libertarian,1
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,LIB,Libertarian,3
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,LIB,Libertarian,0
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,LIB,Libertarian,2
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,UST,U.S. Taxpayers,2
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,UST,U.S. Taxpayers,3
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,UST,U.S. Taxpayers,2
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,UST,U.S. Taxpayers,1
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,UST,U.S. Taxpayers,1
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,UST,U.S. Taxpayers,3
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,UST,U.S. Taxpayers,0
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,UST,U.S. Taxpayers,4
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,GRN,Green,0
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,GRN,Green,2
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,GRN,Green,0
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,GRN,Green,0
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,GRN,Green,1
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,GRN,Green,1
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,GRN,Green,2
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,GRN,Green,0
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,GRN,Green,1
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,GRN,Green,2
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,GRN,Green,0
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,GRN,Green,0
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,GRN,Green,0
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,GRN,Green,2
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,GRN,Green,1
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,GRN,Green,0
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,GRN,Green,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,GRN,Green,1
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,GRN,Green,0
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,GRN,Green,2
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,WCP,Working Class,3
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,WCP,Working Class,0
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,WCP,Working Class,3
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,WCP,Working Class,0
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,WCP,Working Class,1
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,WCP,Working Class,7
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,WCP,Working Class,1
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,WCP,Working Class,3
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,WCP,Working Class,2
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,WCP,Working Class,2
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,WCP,Working Class,0
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,WCP,Working Class,2
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,WCP,Working Class,6
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,WCP,Working Class,2
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,WCP,Working Class,5
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,WCP,Working Class,2
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,WCP,Working Class,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,WCP,Working Class,0
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,WCP,Working Class,4
+Charlevoix,"Bay Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Charlevoix,"Boyne Valley Township, Precinct 2",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Chandler Township, Precinct 3",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Charlevoix Township, Precinct 4",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Evangeline Township, Precinct 5",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Eveline Township, Precinct 6",Straight Party,,NLP,Natural Law,3
+Charlevoix,"Hayes Township, Precinct 7",Straight Party,,NLP,Natural Law,1
+Charlevoix,"Hudson Township, Precinct 8",Straight Party,,NLP,Natural Law,1
+Charlevoix,"Marion Township, Precinct 9",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Melrose Township, Precinct 10",Straight Party,,NLP,Natural Law,1
+Charlevoix,"Norwood Township, Precinct 11",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Peaine Township, Precinct 12",Straight Party,,NLP,Natural Law,0
+Charlevoix,"St. James Township, Precinct 13",Straight Party,,NLP,Natural Law,0
+Charlevoix,"South Arm Township, Precinct 14",Straight Party,,NLP,Natural Law,5
+Charlevoix,"Wilson Township, Precinct 15",Straight Party,,NLP,Natural Law,3
+Charlevoix,"City of Boyne City, Precinct 16",Straight Party,,NLP,Natural Law,4
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",Straight Party,,NLP,Natural Law,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",Straight Party,,NLP,Natural Law,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",Straight Party,,NLP,Natural Law,0
+Charlevoix,"City of East Jordan, Precinct 21",Straight Party,,NLP,Natural Law,0
+Charlevoix,"Bay Township, Precinct 1",President,,DEM,Kamala D. Harris,365
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,DEM,Kamala D. Harris,310
+Charlevoix,"Chandler Township, Precinct 3",President,,DEM,Kamala D. Harris,62
+Charlevoix,"Charlevoix Township, Precinct 4",President,,DEM,Kamala D. Harris,597
+Charlevoix,"Evangeline Township, Precinct 5",President,,DEM,Kamala D. Harris,212
+Charlevoix,"Eveline Township, Precinct 6",President,,DEM,Kamala D. Harris,434
+Charlevoix,"Hayes Township, Precinct 7",President,,DEM,Kamala D. Harris,628
+Charlevoix,"Hudson Township, Precinct 8",President,,DEM,Kamala D. Harris,130
+Charlevoix,"Marion Township, Precinct 9",President,,DEM,Kamala D. Harris,463
+Charlevoix,"Melrose Township, Precinct 10",President,,DEM,Kamala D. Harris,366
+Charlevoix,"Norwood Township, Precinct 11",President,,DEM,Kamala D. Harris,229
+Charlevoix,"Peaine Township, Precinct 12",President,,DEM,Kamala D. Harris,136
+Charlevoix,"St. James Township, Precinct 13",President,,DEM,Kamala D. Harris,150
+Charlevoix,"South Arm Township, Precinct 14",President,,DEM,Kamala D. Harris,412
+Charlevoix,"Wilson Township, Precinct 15",President,,DEM,Kamala D. Harris,437
+Charlevoix,"City of Boyne City, Precinct 16",President,,DEM,Kamala D. Harris,1068
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,DEM,Kamala D. Harris,331
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,DEM,Kamala D. Harris,247
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,DEM,Kamala D. Harris,236
+Charlevoix,"City of East Jordan, Precinct 21",President,,DEM,Kamala D. Harris,384
+Charlevoix,"Bay Township, Precinct 1",President,,REP,Donald J. Trump,498
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,REP,Donald J. Trump,528
+Charlevoix,"Chandler Township, Precinct 3",President,,REP,Donald J. Trump,133
+Charlevoix,"Charlevoix Township, Precinct 4",President,,REP,Donald J. Trump,574
+Charlevoix,"Evangeline Township, Precinct 5",President,,REP,Donald J. Trump,329
+Charlevoix,"Eveline Township, Precinct 6",President,,REP,Donald J. Trump,731
+Charlevoix,"Hayes Township, Precinct 7",President,,REP,Donald J. Trump,796
+Charlevoix,"Hudson Township, Precinct 8",President,,REP,Donald J. Trump,303
+Charlevoix,"Marion Township, Precinct 9",President,,REP,Donald J. Trump,723
+Charlevoix,"Melrose Township, Precinct 10",President,,REP,Donald J. Trump,561
+Charlevoix,"Norwood Township, Precinct 11",President,,REP,Donald J. Trump,317
+Charlevoix,"Peaine Township, Precinct 12",President,,REP,Donald J. Trump,129
+Charlevoix,"St. James Township, Precinct 13",President,,REP,Donald J. Trump,88
+Charlevoix,"South Arm Township, Precinct 14",President,,REP,Donald J. Trump,812
+Charlevoix,"Wilson Township, Precinct 15",President,,REP,Donald J. Trump,815
+Charlevoix,"City of Boyne City, Precinct 16",President,,REP,Donald J. Trump,1288
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,REP,Donald J. Trump,246
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,REP,Donald J. Trump,271
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,REP,Donald J. Trump,282
+Charlevoix,"City of East Jordan, Precinct 21",President,,REP,Donald J. Trump,759
+Charlevoix,"Bay Township, Precinct 1",President,,LIB,Chase Oliver,2
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,LIB,Chase Oliver,2
+Charlevoix,"Chandler Township, Precinct 3",President,,LIB,Chase Oliver,1
+Charlevoix,"Charlevoix Township, Precinct 4",President,,LIB,Chase Oliver,3
+Charlevoix,"Evangeline Township, Precinct 5",President,,LIB,Chase Oliver,2
+Charlevoix,"Eveline Township, Precinct 6",President,,LIB,Chase Oliver,7
+Charlevoix,"Hayes Township, Precinct 7",President,,LIB,Chase Oliver,5
+Charlevoix,"Hudson Township, Precinct 8",President,,LIB,Chase Oliver,2
+Charlevoix,"Marion Township, Precinct 9",President,,LIB,Chase Oliver,9
+Charlevoix,"Melrose Township, Precinct 10",President,,LIB,Chase Oliver,8
+Charlevoix,"Norwood Township, Precinct 11",President,,LIB,Chase Oliver,4
+Charlevoix,"Peaine Township, Precinct 12",President,,LIB,Chase Oliver,3
+Charlevoix,"St. James Township, Precinct 13",President,,LIB,Chase Oliver,0
+Charlevoix,"South Arm Township, Precinct 14",President,,LIB,Chase Oliver,3
+Charlevoix,"Wilson Township, Precinct 15",President,,LIB,Chase Oliver,1
+Charlevoix,"City of Boyne City, Precinct 16",President,,LIB,Chase Oliver,11
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,LIB,Chase Oliver,2
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,LIB,Chase Oliver,3
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,LIB,Chase Oliver,3
+Charlevoix,"City of East Jordan, Precinct 21",President,,LIB,Chase Oliver,4
+Charlevoix,"Bay Township, Precinct 1",President,,UST,Randall Terry,1
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,UST,Randall Terry,1
+Charlevoix,"Chandler Township, Precinct 3",President,,UST,Randall Terry,0
+Charlevoix,"Charlevoix Township, Precinct 4",President,,UST,Randall Terry,1
+Charlevoix,"Evangeline Township, Precinct 5",President,,UST,Randall Terry,2
+Charlevoix,"Eveline Township, Precinct 6",President,,UST,Randall Terry,1
+Charlevoix,"Hayes Township, Precinct 7",President,,UST,Randall Terry,0
+Charlevoix,"Hudson Township, Precinct 8",President,,UST,Randall Terry,0
+Charlevoix,"Marion Township, Precinct 9",President,,UST,Randall Terry,0
+Charlevoix,"Melrose Township, Precinct 10",President,,UST,Randall Terry,0
+Charlevoix,"Norwood Township, Precinct 11",President,,UST,Randall Terry,1
+Charlevoix,"Peaine Township, Precinct 12",President,,UST,Randall Terry,0
+Charlevoix,"St. James Township, Precinct 13",President,,UST,Randall Terry,0
+Charlevoix,"South Arm Township, Precinct 14",President,,UST,Randall Terry,1
+Charlevoix,"Wilson Township, Precinct 15",President,,UST,Randall Terry,5
+Charlevoix,"City of Boyne City, Precinct 16",President,,UST,Randall Terry,1
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,UST,Randall Terry,1
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,UST,Randall Terry,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,UST,Randall Terry,1
+Charlevoix,"City of East Jordan, Precinct 21",President,,UST,Randall Terry,2
+Charlevoix,"Bay Township, Precinct 1",President,,GRN,Jill Stein,3
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,GRN,Jill Stein,7
+Charlevoix,"Chandler Township, Precinct 3",President,,GRN,Jill Stein,0
+Charlevoix,"Charlevoix Township, Precinct 4",President,,GRN,Jill Stein,3
+Charlevoix,"Evangeline Township, Precinct 5",President,,GRN,Jill Stein,1
+Charlevoix,"Eveline Township, Precinct 6",President,,GRN,Jill Stein,2
+Charlevoix,"Hayes Township, Precinct 7",President,,GRN,Jill Stein,9
+Charlevoix,"Hudson Township, Precinct 8",President,,GRN,Jill Stein,1
+Charlevoix,"Marion Township, Precinct 9",President,,GRN,Jill Stein,4
+Charlevoix,"Melrose Township, Precinct 10",President,,GRN,Jill Stein,1
+Charlevoix,"Norwood Township, Precinct 11",President,,GRN,Jill Stein,2
+Charlevoix,"Peaine Township, Precinct 12",President,,GRN,Jill Stein,3
+Charlevoix,"St. James Township, Precinct 13",President,,GRN,Jill Stein,1
+Charlevoix,"South Arm Township, Precinct 14",President,,GRN,Jill Stein,4
+Charlevoix,"Wilson Township, Precinct 15",President,,GRN,Jill Stein,3
+Charlevoix,"City of Boyne City, Precinct 16",President,,GRN,Jill Stein,3
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,GRN,Jill Stein,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,GRN,Jill Stein,1
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,GRN,Jill Stein,1
+Charlevoix,"City of East Jordan, Precinct 21",President,,GRN,Jill Stein,4
+Charlevoix,"Bay Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",8
+Charlevoix,"Chandler Township, Precinct 3",President,,NLP,"Robert F. Kennedy, Jr.",1
+Charlevoix,"Charlevoix Township, Precinct 4",President,,NLP,"Robert F. Kennedy, Jr.",8
+Charlevoix,"Evangeline Township, Precinct 5",President,,NLP,"Robert F. Kennedy, Jr.",1
+Charlevoix,"Eveline Township, Precinct 6",President,,NLP,"Robert F. Kennedy, Jr.",8
+Charlevoix,"Hayes Township, Precinct 7",President,,NLP,"Robert F. Kennedy, Jr.",8
+Charlevoix,"Hudson Township, Precinct 8",President,,NLP,"Robert F. Kennedy, Jr.",1
+Charlevoix,"Marion Township, Precinct 9",President,,NLP,"Robert F. Kennedy, Jr.",8
+Charlevoix,"Melrose Township, Precinct 10",President,,NLP,"Robert F. Kennedy, Jr.",3
+Charlevoix,"Norwood Township, Precinct 11",President,,NLP,"Robert F. Kennedy, Jr.",6
+Charlevoix,"Peaine Township, Precinct 12",President,,NLP,"Robert F. Kennedy, Jr.",5
+Charlevoix,"St. James Township, Precinct 13",President,,NLP,"Robert F. Kennedy, Jr.",2
+Charlevoix,"South Arm Township, Precinct 14",President,,NLP,"Robert F. Kennedy, Jr.",5
+Charlevoix,"Wilson Township, Precinct 15",President,,NLP,"Robert F. Kennedy, Jr.",6
+Charlevoix,"City of Boyne City, Precinct 16",President,,NLP,"Robert F. Kennedy, Jr.",23
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,NLP,"Robert F. Kennedy, Jr.",1
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,NLP,"Robert F. Kennedy, Jr.",2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,NLP,"Robert F. Kennedy, Jr.",1
+Charlevoix,"City of East Jordan, Precinct 21",President,,NLP,"Robert F. Kennedy, Jr.",10
+Charlevoix,"Bay Township, Precinct 1",President,,,Joseph Kishore,1
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,,Joseph Kishore,0
+Charlevoix,"Chandler Township, Precinct 3",President,,,Joseph Kishore,0
+Charlevoix,"Charlevoix Township, Precinct 4",President,,,Joseph Kishore,0
+Charlevoix,"Evangeline Township, Precinct 5",President,,,Joseph Kishore,0
+Charlevoix,"Eveline Township, Precinct 6",President,,,Joseph Kishore,0
+Charlevoix,"Hayes Township, Precinct 7",President,,,Joseph Kishore,0
+Charlevoix,"Hudson Township, Precinct 8",President,,,Joseph Kishore,0
+Charlevoix,"Marion Township, Precinct 9",President,,,Joseph Kishore,0
+Charlevoix,"Melrose Township, Precinct 10",President,,,Joseph Kishore,0
+Charlevoix,"Norwood Township, Precinct 11",President,,,Joseph Kishore,0
+Charlevoix,"Peaine Township, Precinct 12",President,,,Joseph Kishore,0
+Charlevoix,"St. James Township, Precinct 13",President,,,Joseph Kishore,0
+Charlevoix,"South Arm Township, Precinct 14",President,,,Joseph Kishore,0
+Charlevoix,"Wilson Township, Precinct 15",President,,,Joseph Kishore,0
+Charlevoix,"City of Boyne City, Precinct 16",President,,,Joseph Kishore,2
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,,Joseph Kishore,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,,Joseph Kishore,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,,Joseph Kishore,0
+Charlevoix,"City of East Jordan, Precinct 21",President,,,Joseph Kishore,1
+Charlevoix,"Bay Township, Precinct 1",President,,,Cornel West,1
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,,Cornel West,1
+Charlevoix,"Chandler Township, Precinct 3",President,,,Cornel West,1
+Charlevoix,"Charlevoix Township, Precinct 4",President,,,Cornel West,0
+Charlevoix,"Evangeline Township, Precinct 5",President,,,Cornel West,0
+Charlevoix,"Eveline Township, Precinct 6",President,,,Cornel West,0
+Charlevoix,"Hayes Township, Precinct 7",President,,,Cornel West,1
+Charlevoix,"Hudson Township, Precinct 8",President,,,Cornel West,0
+Charlevoix,"Marion Township, Precinct 9",President,,,Cornel West,0
+Charlevoix,"Melrose Township, Precinct 10",President,,,Cornel West,0
+Charlevoix,"Norwood Township, Precinct 11",President,,,Cornel West,0
+Charlevoix,"Peaine Township, Precinct 12",President,,,Cornel West,0
+Charlevoix,"St. James Township, Precinct 13",President,,,Cornel West,0
+Charlevoix,"South Arm Township, Precinct 14",President,,,Cornel West,0
+Charlevoix,"Wilson Township, Precinct 15",President,,,Cornel West,3
+Charlevoix,"City of Boyne City, Precinct 16",President,,,Cornel West,1
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,,Cornel West,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,,Cornel West,2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,,Cornel West,1
+Charlevoix,"City of East Jordan, Precinct 21",President,,,Cornel West,0
+Charlevoix,"Bay Township, Precinct 1",President,,,Peter Sonski,0
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,,Peter Sonski,0
+Charlevoix,"Chandler Township, Precinct 3",President,,,Peter Sonski,0
+Charlevoix,"Charlevoix Township, Precinct 4",President,,,Peter Sonski,0
+Charlevoix,"Evangeline Township, Precinct 5",President,,,Peter Sonski,0
+Charlevoix,"Eveline Township, Precinct 6",President,,,Peter Sonski,0
+Charlevoix,"Hayes Township, Precinct 7",President,,,Peter Sonski,0
+Charlevoix,"Hudson Township, Precinct 8",President,,,Peter Sonski,0
+Charlevoix,"Marion Township, Precinct 9",President,,,Peter Sonski,0
+Charlevoix,"Melrose Township, Precinct 10",President,,,Peter Sonski,0
+Charlevoix,"Norwood Township, Precinct 11",President,,,Peter Sonski,0
+Charlevoix,"Peaine Township, Precinct 12",President,,,Peter Sonski,0
+Charlevoix,"St. James Township, Precinct 13",President,,,Peter Sonski,0
+Charlevoix,"South Arm Township, Precinct 14",President,,,Peter Sonski,0
+Charlevoix,"Wilson Township, Precinct 15",President,,,Peter Sonski,1
+Charlevoix,"City of Boyne City, Precinct 16",President,,,Peter Sonski,1
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,,Peter Sonski,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,,Peter Sonski,0
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,,Peter Sonski,0
+Charlevoix,"City of East Jordan, Precinct 21",President,,,Peter Sonski,0
+Charlevoix,"Bay Township, Precinct 1",President,,,Write-ins,1
+Charlevoix,"Boyne Valley Township, Precinct 2",President,,,Write-ins,1
+Charlevoix,"Chandler Township, Precinct 3",President,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",President,,,Write-ins,0
+Charlevoix,"Evangeline Township, Precinct 5",President,,,Write-ins,0
+Charlevoix,"Eveline Township, Precinct 6",President,,,Write-ins,2
+Charlevoix,"Hayes Township, Precinct 7",President,,,Write-ins,0
+Charlevoix,"Hudson Township, Precinct 8",President,,,Write-ins,0
+Charlevoix,"Marion Township, Precinct 9",President,,,Write-ins,2
+Charlevoix,"Melrose Township, Precinct 10",President,,,Write-ins,1
+Charlevoix,"Norwood Township, Precinct 11",President,,,Write-ins,0
+Charlevoix,"Peaine Township, Precinct 12",President,,,Write-ins,0
+Charlevoix,"St. James Township, Precinct 13",President,,,Write-ins,1
+Charlevoix,"South Arm Township, Precinct 14",President,,,Write-ins,1
+Charlevoix,"Wilson Township, Precinct 15",President,,,Write-ins,1
+Charlevoix,"City of Boyne City, Precinct 16",President,,,Write-ins,5
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",President,,,Write-ins,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",President,,,Write-ins,2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",President,,,Write-ins,0
+Charlevoix,"City of East Jordan, Precinct 21",President,,,Write-ins,1
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,351
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,306
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,62
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,DEM,Elissa Slotkin,573
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,DEM,Elissa Slotkin,201
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,DEM,Elissa Slotkin,415
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,DEM,Elissa Slotkin,608
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,DEM,Elissa Slotkin,121
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,DEM,Elissa Slotkin,451
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,DEM,Elissa Slotkin,351
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,DEM,Elissa Slotkin,224
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,DEM,Elissa Slotkin,136
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,DEM,Elissa Slotkin,144
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,DEM,Elissa Slotkin,400
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,DEM,Elissa Slotkin,434
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,DEM,Elissa Slotkin,1044
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,DEM,Elissa Slotkin,312
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,DEM,Elissa Slotkin,239
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,DEM,Elissa Slotkin,227
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,DEM,Elissa Slotkin,380
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,503
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,496
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,REP,Mike Rogers,128
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,REP,Mike Rogers,568
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,REP,Mike Rogers,330
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,REP,Mike Rogers,737
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,REP,Mike Rogers,769
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,REP,Mike Rogers,283
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,REP,Mike Rogers,700
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,REP,Mike Rogers,538
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,REP,Mike Rogers,316
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,REP,Mike Rogers,121
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,REP,Mike Rogers,84
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,REP,Mike Rogers,800
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,REP,Mike Rogers,784
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,REP,Mike Rogers,1253
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,REP,Mike Rogers,255
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,REP,Mike Rogers,259
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,REP,Mike Rogers,278
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,REP,Mike Rogers,728
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,12
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,LIB,Joseph Solis-Mullen,10
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,LIB,Joseph Solis-Mullen,19
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,LIB,Joseph Solis-Mullen,12
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,LIB,Joseph Solis-Mullen,21
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,LIB,Joseph Solis-Mullen,12
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,LIB,Joseph Solis-Mullen,38
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,LIB,Joseph Solis-Mullen,19
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,UST,Dave Stein,6
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,UST,Dave Stein,3
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,UST,Dave Stein,7
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,UST,Dave Stein,2
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,UST,Dave Stein,4
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,UST,Dave Stein,7
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,UST,Dave Stein,6
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,UST,Dave Stein,8
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,UST,Dave Stein,4
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,UST,Dave Stein,1
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,UST,Dave Stein,1
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,UST,Dave Stein,1
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,UST,Dave Stein,5
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,UST,Dave Stein,8
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,UST,Dave Stein,18
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,UST,Dave Stein,1
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,UST,Dave Stein,6
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,UST,Dave Stein,3
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,UST,Dave Stein,8
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,6
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,GRN,Douglas P. Marsh,1
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,GRN,Douglas P. Marsh,10
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,GRN,Douglas P. Marsh,5
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,GRN,Douglas P. Marsh,4
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,GRN,Douglas P. Marsh,15
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,GRN,Douglas P. Marsh,1
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,GRN,Douglas P. Marsh,10
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,GRN,Douglas P. Marsh,5
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,GRN,Douglas P. Marsh,2
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,GRN,Douglas P. Marsh,4
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,GRN,Douglas P. Marsh,2
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,GRN,Douglas P. Marsh,5
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,GRN,Douglas P. Marsh,7
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,GRN,Douglas P. Marsh,12
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,GRN,Douglas P. Marsh,7
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,GRN,Douglas P. Marsh,4
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,GRN,Douglas P. Marsh,3
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,GRN,Douglas P. Marsh,10
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,8
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,NLP,Doug Dern,0
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,NLP,Doug Dern,5
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,NLP,Doug Dern,0
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,NLP,Doug Dern,5
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,NLP,Doug Dern,3
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,NLP,Doug Dern,3
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,NLP,Doug Dern,3
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,NLP,Doug Dern,1
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,NLP,Doug Dern,2
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,NLP,Doug Dern,2
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,NLP,Doug Dern,1
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,NLP,Doug Dern,1
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,NLP,Doug Dern,5
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,NLP,Doug Dern,8
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,NLP,Doug Dern,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,NLP,Doug Dern,1
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,NLP,Doug Dern,1
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,NLP,Doug Dern,2
+Charlevoix,"Bay Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. Senate,,,Write-ins,0
+Charlevoix,"Chandler Township, Precinct 3",U.S. Senate,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. Senate,,,Write-ins,1
+Charlevoix,"Evangeline Township, Precinct 5",U.S. Senate,,,Write-ins,1
+Charlevoix,"Eveline Township, Precinct 6",U.S. Senate,,,Write-ins,0
+Charlevoix,"Hayes Township, Precinct 7",U.S. Senate,,,Write-ins,2
+Charlevoix,"Hudson Township, Precinct 8",U.S. Senate,,,Write-ins,1
+Charlevoix,"Marion Township, Precinct 9",U.S. Senate,,,Write-ins,1
+Charlevoix,"Melrose Township, Precinct 10",U.S. Senate,,,Write-ins,1
+Charlevoix,"Norwood Township, Precinct 11",U.S. Senate,,,Write-ins,0
+Charlevoix,"Peaine Township, Precinct 12",U.S. Senate,,,Write-ins,0
+Charlevoix,"St. James Township, Precinct 13",U.S. Senate,,,Write-ins,1
+Charlevoix,"South Arm Township, Precinct 14",U.S. Senate,,,Write-ins,2
+Charlevoix,"Wilson Township, Precinct 15",U.S. Senate,,,Write-ins,1
+Charlevoix,"City of Boyne City, Precinct 16",U.S. Senate,,,Write-ins,3
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. Senate,,,Write-ins,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. Senate,,,Write-ins,2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. Senate,,,Write-ins,0
+Charlevoix,"City of East Jordan, Precinct 21",U.S. Senate,,,Write-ins,3
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,DEM,Callie Barr,340
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,DEM,Callie Barr,299
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,DEM,Callie Barr,63
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,DEM,Callie Barr,574
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,DEM,Callie Barr,192
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,DEM,Callie Barr,412
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,DEM,Callie Barr,586
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,DEM,Callie Barr,127
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,DEM,Callie Barr,444
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,DEM,Callie Barr,351
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,DEM,Callie Barr,218
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,DEM,Callie Barr,142
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,DEM,Callie Barr,137
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,DEM,Callie Barr,375
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,DEM,Callie Barr,430
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,DEM,Callie Barr,1036
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,DEM,Callie Barr,308
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,DEM,Callie Barr,237
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,DEM,Callie Barr,221
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,DEM,Callie Barr,387
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,REP,Jack Bergman,509
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,REP,Jack Bergman,500
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,REP,Jack Bergman,128
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,REP,Jack Bergman,582
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,REP,Jack Bergman,338
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,REP,Jack Bergman,742
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,REP,Jack Bergman,793
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,REP,Jack Bergman,285
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,REP,Jack Bergman,710
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,REP,Jack Bergman,546
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,REP,Jack Bergman,323
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,REP,Jack Bergman,116
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,REP,Jack Bergman,94
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,REP,Jack Bergman,816
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,REP,Jack Bergman,796
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,REP,Jack Bergman,1273
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,REP,Jack Bergman,252
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,REP,Jack Bergman,265
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,REP,Jack Bergman,284
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,REP,Jack Bergman,716
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,8
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,11
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,LIB,Andrew Gale,2
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,LIB,Andrew Gale,6
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,LIB,Andrew Gale,3
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,LIB,Andrew Gale,5
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,LIB,Andrew Gale,20
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,LIB,Andrew Gale,6
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,LIB,Andrew Gale,14
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,LIB,Andrew Gale,9
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,LIB,Andrew Gale,7
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,LIB,Andrew Gale,8
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,LIB,Andrew Gale,3
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,LIB,Andrew Gale,15
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,LIB,Andrew Gale,8
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,LIB,Andrew Gale,27
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,LIB,Andrew Gale,6
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,LIB,Andrew Gale,7
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,LIB,Andrew Gale,3
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,LIB,Andrew Gale,15
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,24
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,WCP,Liz Hakola,3
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,WCP,Liz Hakola,14
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,WCP,Liz Hakola,7
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,WCP,Liz Hakola,11
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,WCP,Liz Hakola,21
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,WCP,Liz Hakola,4
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,WCP,Liz Hakola,15
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,WCP,Liz Hakola,15
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,WCP,Liz Hakola,5
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,WCP,Liz Hakola,3
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,WCP,Liz Hakola,2
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,WCP,Liz Hakola,13
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,WCP,Liz Hakola,24
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,WCP,Liz Hakola,39
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,WCP,Liz Hakola,6
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,WCP,Liz Hakola,7
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,WCP,Liz Hakola,11
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,WCP,Liz Hakola,26
+Charlevoix,"Bay Township, Precinct 1",U.S. House,1,,Write-ins,2
+Charlevoix,"Boyne Valley Township, Precinct 2",U.S. House,1,,Write-ins,1
+Charlevoix,"Chandler Township, Precinct 3",U.S. House,1,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",U.S. House,1,,Write-ins,0
+Charlevoix,"Evangeline Township, Precinct 5",U.S. House,1,,Write-ins,2
+Charlevoix,"Eveline Township, Precinct 6",U.S. House,1,,Write-ins,0
+Charlevoix,"Hayes Township, Precinct 7",U.S. House,1,,Write-ins,0
+Charlevoix,"Hudson Township, Precinct 8",U.S. House,1,,Write-ins,1
+Charlevoix,"Marion Township, Precinct 9",U.S. House,1,,Write-ins,1
+Charlevoix,"Melrose Township, Precinct 10",U.S. House,1,,Write-ins,2
+Charlevoix,"Norwood Township, Precinct 11",U.S. House,1,,Write-ins,0
+Charlevoix,"Peaine Township, Precinct 12",U.S. House,1,,Write-ins,0
+Charlevoix,"St. James Township, Precinct 13",U.S. House,1,,Write-ins,0
+Charlevoix,"South Arm Township, Precinct 14",U.S. House,1,,Write-ins,2
+Charlevoix,"Wilson Township, Precinct 15",U.S. House,1,,Write-ins,0
+Charlevoix,"City of Boyne City, Precinct 16",U.S. House,1,,Write-ins,3
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",U.S. House,1,,Write-ins,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",U.S. House,1,,Write-ins,2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",U.S. House,1,,Write-ins,0
+Charlevoix,"City of East Jordan, Precinct 21",U.S. House,1,,Write-ins,2
+Charlevoix,"Bay Township, Precinct 1",State House,107,DEM,Jodi Decker,334
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,DEM,Jodi Decker,287
+Charlevoix,"Chandler Township, Precinct 3",State House,107,DEM,Jodi Decker,59
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,DEM,Jodi Decker,542
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,DEM,Jodi Decker,187
+Charlevoix,"Eveline Township, Precinct 6",State House,107,DEM,Jodi Decker,378
+Charlevoix,"Hayes Township, Precinct 7",State House,107,DEM,Jodi Decker,551
+Charlevoix,"Hudson Township, Precinct 8",State House,107,DEM,Jodi Decker,119
+Charlevoix,"Marion Township, Precinct 9",State House,107,DEM,Jodi Decker,394
+Charlevoix,"Melrose Township, Precinct 10",State House,107,DEM,Jodi Decker,326
+Charlevoix,"Norwood Township, Precinct 11",State House,107,DEM,Jodi Decker,216
+Charlevoix,"Peaine Township, Precinct 12",State House,107,DEM,Jodi Decker,140
+Charlevoix,"St. James Township, Precinct 13",State House,107,DEM,Jodi Decker,134
+Charlevoix,"South Arm Township, Precinct 14",State House,107,DEM,Jodi Decker,361
+Charlevoix,"Wilson Township, Precinct 15",State House,107,DEM,Jodi Decker,411
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,DEM,Jodi Decker,996
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,DEM,Jodi Decker,283
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,DEM,Jodi Decker,229
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,DEM,Jodi Decker,221
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,DEM,Jodi Decker,374
+Charlevoix,"Bay Township, Precinct 1",State House,107,REP,Parker Fairbairn,519
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,REP,Parker Fairbairn,530
+Charlevoix,"Chandler Township, Precinct 3",State House,107,REP,Parker Fairbairn,133
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,REP,Parker Fairbairn,624
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,REP,Parker Fairbairn,347
+Charlevoix,"Eveline Township, Precinct 6",State House,107,REP,Parker Fairbairn,784
+Charlevoix,"Hayes Township, Precinct 7",State House,107,REP,Parker Fairbairn,839
+Charlevoix,"Hudson Township, Precinct 8",State House,107,REP,Parker Fairbairn,295
+Charlevoix,"Marion Township, Precinct 9",State House,107,REP,Parker Fairbairn,778
+Charlevoix,"Melrose Township, Precinct 10",State House,107,REP,Parker Fairbairn,577
+Charlevoix,"Norwood Township, Precinct 11",State House,107,REP,Parker Fairbairn,330
+Charlevoix,"Peaine Township, Precinct 12",State House,107,REP,Parker Fairbairn,124
+Charlevoix,"St. James Township, Precinct 13",State House,107,REP,Parker Fairbairn,98
+Charlevoix,"South Arm Township, Precinct 14",State House,107,REP,Parker Fairbairn,843
+Charlevoix,"Wilson Township, Precinct 15",State House,107,REP,Parker Fairbairn,827
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,REP,Parker Fairbairn,1345
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,REP,Parker Fairbairn,278
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,REP,Parker Fairbairn,284
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,REP,Parker Fairbairn,295
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,REP,Parker Fairbairn,755
+Charlevoix,"Bay Township, Precinct 1",State House,107,,Write-ins,5
+Charlevoix,"Boyne Valley Township, Precinct 2",State House,107,,Write-ins,1
+Charlevoix,"Chandler Township, Precinct 3",State House,107,,Write-ins,1
+Charlevoix,"Charlevoix Township, Precinct 4",State House,107,,Write-ins,0
+Charlevoix,"Evangeline Township, Precinct 5",State House,107,,Write-ins,2
+Charlevoix,"Eveline Township, Precinct 6",State House,107,,Write-ins,2
+Charlevoix,"Hayes Township, Precinct 7",State House,107,,Write-ins,8
+Charlevoix,"Hudson Township, Precinct 8",State House,107,,Write-ins,2
+Charlevoix,"Marion Township, Precinct 9",State House,107,,Write-ins,4
+Charlevoix,"Melrose Township, Precinct 10",State House,107,,Write-ins,8
+Charlevoix,"Norwood Township, Precinct 11",State House,107,,Write-ins,3
+Charlevoix,"Peaine Township, Precinct 12",State House,107,,Write-ins,1
+Charlevoix,"St. James Township, Precinct 13",State House,107,,Write-ins,0
+Charlevoix,"South Arm Township, Precinct 14",State House,107,,Write-ins,4
+Charlevoix,"Wilson Township, Precinct 15",State House,107,,Write-ins,7
+Charlevoix,"City of Boyne City, Precinct 16",State House,107,,Write-ins,10
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",State House,107,,Write-ins,1
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",State House,107,,Write-ins,2
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",State House,107,,Write-ins,1
+Charlevoix,"City of East Jordan, Precinct 21",State House,107,,Write-ins,8
+Charlevoix,"Bay Township, Precinct 1",County Prosecuting Attorney,,REP,Christopher Tholen,625
+Charlevoix,"Boyne Valley Township, Precinct 2",County Prosecuting Attorney,,REP,Christopher Tholen,612
+Charlevoix,"Chandler Township, Precinct 3",County Prosecuting Attorney,,REP,Christopher Tholen,147
+Charlevoix,"Charlevoix Township, Precinct 4",County Prosecuting Attorney,,REP,Christopher Tholen,798
+Charlevoix,"Evangeline Township, Precinct 5",County Prosecuting Attorney,,REP,Christopher Tholen,386
+Charlevoix,"Eveline Township, Precinct 6",County Prosecuting Attorney,,REP,Christopher Tholen,843
+Charlevoix,"Hayes Township, Precinct 7",County Prosecuting Attorney,,REP,Christopher Tholen,1020
+Charlevoix,"Hudson Township, Precinct 8",County Prosecuting Attorney,,REP,Christopher Tholen,319
+Charlevoix,"Marion Township, Precinct 9",County Prosecuting Attorney,,REP,Christopher Tholen,874
+Charlevoix,"Melrose Township, Precinct 10",County Prosecuting Attorney,,REP,Christopher Tholen,680
+Charlevoix,"Norwood Township, Precinct 11",County Prosecuting Attorney,,REP,Christopher Tholen,397
+Charlevoix,"Peaine Township, Precinct 12",County Prosecuting Attorney,,REP,Christopher Tholen,155
+Charlevoix,"St. James Township, Precinct 13",County Prosecuting Attorney,,REP,Christopher Tholen,131
+Charlevoix,"South Arm Township, Precinct 14",County Prosecuting Attorney,,REP,Christopher Tholen,924
+Charlevoix,"Wilson Township, Precinct 15",County Prosecuting Attorney,,REP,Christopher Tholen,950
+Charlevoix,"City of Boyne City, Precinct 16",County Prosecuting Attorney,,REP,Christopher Tholen,1620
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Prosecuting Attorney,,REP,Christopher Tholen,365
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Prosecuting Attorney,,REP,Christopher Tholen,346
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Prosecuting Attorney,,REP,Christopher Tholen,358
+Charlevoix,"City of East Jordan, Precinct 21",County Prosecuting Attorney,,REP,Christopher Tholen,861
+Charlevoix,"Bay Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,14
+Charlevoix,"Boyne Valley Township, Precinct 2",County Prosecuting Attorney,,,Write-ins,13
+Charlevoix,"Chandler Township, Precinct 3",County Prosecuting Attorney,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Prosecuting Attorney,,,Write-ins,18
+Charlevoix,"Evangeline Township, Precinct 5",County Prosecuting Attorney,,,Write-ins,6
+Charlevoix,"Eveline Township, Precinct 6",County Prosecuting Attorney,,,Write-ins,21
+Charlevoix,"Hayes Township, Precinct 7",County Prosecuting Attorney,,,Write-ins,20
+Charlevoix,"Hudson Township, Precinct 8",County Prosecuting Attorney,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Prosecuting Attorney,,,Write-ins,11
+Charlevoix,"Melrose Township, Precinct 10",County Prosecuting Attorney,,,Write-ins,13
+Charlevoix,"Norwood Township, Precinct 11",County Prosecuting Attorney,,,Write-ins,4
+Charlevoix,"Peaine Township, Precinct 12",County Prosecuting Attorney,,,Write-ins,6
+Charlevoix,"St. James Township, Precinct 13",County Prosecuting Attorney,,,Write-ins,9
+Charlevoix,"South Arm Township, Precinct 14",County Prosecuting Attorney,,,Write-ins,13
+Charlevoix,"Wilson Township, Precinct 15",County Prosecuting Attorney,,,Write-ins,18
+Charlevoix,"City of Boyne City, Precinct 16",County Prosecuting Attorney,,,Write-ins,41
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Prosecuting Attorney,,,Write-ins,5
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Prosecuting Attorney,,,Write-ins,12
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Prosecuting Attorney,,,Write-ins,9
+Charlevoix,"City of East Jordan, Precinct 21",County Prosecuting Attorney,,,Write-ins,10
+Charlevoix,"Bay Township, Precinct 1",County Sheriff,,REP,Charles Vondra,638
+Charlevoix,"Boyne Valley Township, Precinct 2",County Sheriff,,REP,Charles Vondra,641
+Charlevoix,"Chandler Township, Precinct 3",County Sheriff,,REP,Charles Vondra,149
+Charlevoix,"Charlevoix Township, Precinct 4",County Sheriff,,REP,Charles Vondra,815
+Charlevoix,"Evangeline Township, Precinct 5",County Sheriff,,REP,Charles Vondra,400
+Charlevoix,"Eveline Township, Precinct 6",County Sheriff,,REP,Charles Vondra,850
+Charlevoix,"Hayes Township, Precinct 7",County Sheriff,,REP,Charles Vondra,1068
+Charlevoix,"Hudson Township, Precinct 8",County Sheriff,,REP,Charles Vondra,328
+Charlevoix,"Marion Township, Precinct 9",County Sheriff,,REP,Charles Vondra,901
+Charlevoix,"Melrose Township, Precinct 10",County Sheriff,,REP,Charles Vondra,701
+Charlevoix,"Norwood Township, Precinct 11",County Sheriff,,REP,Charles Vondra,408
+Charlevoix,"Peaine Township, Precinct 12",County Sheriff,,REP,Charles Vondra,156
+Charlevoix,"St. James Township, Precinct 13",County Sheriff,,REP,Charles Vondra,130
+Charlevoix,"South Arm Township, Precinct 14",County Sheriff,,REP,Charles Vondra,944
+Charlevoix,"Wilson Township, Precinct 15",County Sheriff,,REP,Charles Vondra,985
+Charlevoix,"City of Boyne City, Precinct 16",County Sheriff,,REP,Charles Vondra,1676
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Sheriff,,REP,Charles Vondra,373
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Sheriff,,REP,Charles Vondra,357
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Sheriff,,REP,Charles Vondra,367
+Charlevoix,"City of East Jordan, Precinct 21",County Sheriff,,REP,Charles Vondra,890
+Charlevoix,"Bay Township, Precinct 1",County Sheriff,,,Write-ins,16
+Charlevoix,"Boyne Valley Township, Precinct 2",County Sheriff,,,Write-ins,14
+Charlevoix,"Chandler Township, Precinct 3",County Sheriff,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Sheriff,,,Write-ins,22
+Charlevoix,"Evangeline Township, Precinct 5",County Sheriff,,,Write-ins,9
+Charlevoix,"Eveline Township, Precinct 6",County Sheriff,,,Write-ins,23
+Charlevoix,"Hayes Township, Precinct 7",County Sheriff,,,Write-ins,19
+Charlevoix,"Hudson Township, Precinct 8",County Sheriff,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Sheriff,,,Write-ins,13
+Charlevoix,"Melrose Township, Precinct 10",County Sheriff,,,Write-ins,13
+Charlevoix,"Norwood Township, Precinct 11",County Sheriff,,,Write-ins,2
+Charlevoix,"Peaine Township, Precinct 12",County Sheriff,,,Write-ins,6
+Charlevoix,"St. James Township, Precinct 13",County Sheriff,,,Write-ins,9
+Charlevoix,"South Arm Township, Precinct 14",County Sheriff,,,Write-ins,15
+Charlevoix,"Wilson Township, Precinct 15",County Sheriff,,,Write-ins,22
+Charlevoix,"City of Boyne City, Precinct 16",County Sheriff,,,Write-ins,49
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Sheriff,,,Write-ins,5
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Sheriff,,,Write-ins,13
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Sheriff,,,Write-ins,10
+Charlevoix,"City of East Jordan, Precinct 21",County Sheriff,,,Write-ins,11
+Charlevoix,"Bay Township, Precinct 1",County Clerk,,REP,Julia A. Drost,633
+Charlevoix,"Boyne Valley Township, Precinct 2",County Clerk,,REP,Julia A. Drost,627
+Charlevoix,"Chandler Township, Precinct 3",County Clerk,,REP,Julia A. Drost,155
+Charlevoix,"Charlevoix Township, Precinct 4",County Clerk,,REP,Julia A. Drost,817
+Charlevoix,"Evangeline Township, Precinct 5",County Clerk,,REP,Julia A. Drost,391
+Charlevoix,"Eveline Township, Precinct 6",County Clerk,,REP,Julia A. Drost,853
+Charlevoix,"Hayes Township, Precinct 7",County Clerk,,REP,Julia A. Drost,1066
+Charlevoix,"Hudson Township, Precinct 8",County Clerk,,REP,Julia A. Drost,330
+Charlevoix,"Marion Township, Precinct 9",County Clerk,,REP,Julia A. Drost,912
+Charlevoix,"Melrose Township, Precinct 10",County Clerk,,REP,Julia A. Drost,692
+Charlevoix,"Norwood Township, Precinct 11",County Clerk,,REP,Julia A. Drost,413
+Charlevoix,"Peaine Township, Precinct 12",County Clerk,,REP,Julia A. Drost,163
+Charlevoix,"St. James Township, Precinct 13",County Clerk,,REP,Julia A. Drost,147
+Charlevoix,"South Arm Township, Precinct 14",County Clerk,,REP,Julia A. Drost,939
+Charlevoix,"Wilson Township, Precinct 15",County Clerk,,REP,Julia A. Drost,966
+Charlevoix,"City of Boyne City, Precinct 16",County Clerk,,REP,Julia A. Drost,1645
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Clerk,,REP,Julia A. Drost,381
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Clerk,,REP,Julia A. Drost,369
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Clerk,,REP,Julia A. Drost,376
+Charlevoix,"City of East Jordan, Precinct 21",County Clerk,,REP,Julia A. Drost,881
+Charlevoix,"Bay Township, Precinct 1",County Clerk,,,Write-ins,13
+Charlevoix,"Boyne Valley Township, Precinct 2",County Clerk,,,Write-ins,7
+Charlevoix,"Chandler Township, Precinct 3",County Clerk,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Clerk,,,Write-ins,16
+Charlevoix,"Evangeline Township, Precinct 5",County Clerk,,,Write-ins,7
+Charlevoix,"Eveline Township, Precinct 6",County Clerk,,,Write-ins,20
+Charlevoix,"Hayes Township, Precinct 7",County Clerk,,,Write-ins,17
+Charlevoix,"Hudson Township, Precinct 8",County Clerk,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Clerk,,,Write-ins,7
+Charlevoix,"Melrose Township, Precinct 10",County Clerk,,,Write-ins,13
+Charlevoix,"Norwood Township, Precinct 11",County Clerk,,,Write-ins,3
+Charlevoix,"Peaine Township, Precinct 12",County Clerk,,,Write-ins,4
+Charlevoix,"St. James Township, Precinct 13",County Clerk,,,Write-ins,4
+Charlevoix,"South Arm Township, Precinct 14",County Clerk,,,Write-ins,11
+Charlevoix,"Wilson Township, Precinct 15",County Clerk,,,Write-ins,17
+Charlevoix,"City of Boyne City, Precinct 16",County Clerk,,,Write-ins,36
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Clerk,,,Write-ins,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Clerk,,,Write-ins,6
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Clerk,,,Write-ins,6
+Charlevoix,"City of East Jordan, Precinct 21",County Clerk,,,Write-ins,9
+Charlevoix,"Bay Township, Precinct 1",County Treasurer,,DEM,Betty J. Simon,317
+Charlevoix,"Boyne Valley Township, Precinct 2",County Treasurer,,DEM,Betty J. Simon,324
+Charlevoix,"Chandler Township, Precinct 3",County Treasurer,,DEM,Betty J. Simon,60
+Charlevoix,"Charlevoix Township, Precinct 4",County Treasurer,,DEM,Betty J. Simon,519
+Charlevoix,"Evangeline Township, Precinct 5",County Treasurer,,DEM,Betty J. Simon,186
+Charlevoix,"Eveline Township, Precinct 6",County Treasurer,,DEM,Betty J. Simon,377
+Charlevoix,"Hayes Township, Precinct 7",County Treasurer,,DEM,Betty J. Simon,500
+Charlevoix,"Hudson Township, Precinct 8",County Treasurer,,DEM,Betty J. Simon,134
+Charlevoix,"Marion Township, Precinct 9",County Treasurer,,DEM,Betty J. Simon,358
+Charlevoix,"Melrose Township, Precinct 10",County Treasurer,,DEM,Betty J. Simon,330
+Charlevoix,"Norwood Township, Precinct 11",County Treasurer,,DEM,Betty J. Simon,202
+Charlevoix,"Peaine Township, Precinct 12",County Treasurer,,DEM,Betty J. Simon,133
+Charlevoix,"St. James Township, Precinct 13",County Treasurer,,DEM,Betty J. Simon,128
+Charlevoix,"South Arm Township, Precinct 14",County Treasurer,,DEM,Betty J. Simon,354
+Charlevoix,"Wilson Township, Precinct 15",County Treasurer,,DEM,Betty J. Simon,420
+Charlevoix,"City of Boyne City, Precinct 16",County Treasurer,,DEM,Betty J. Simon,979
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Treasurer,,DEM,Betty J. Simon,276
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Treasurer,,DEM,Betty J. Simon,212
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Treasurer,,DEM,Betty J. Simon,196
+Charlevoix,"City of East Jordan, Precinct 21",County Treasurer,,DEM,Betty J. Simon,384
+Charlevoix,"Bay Township, Precinct 1",County Treasurer,,REP,Julie Wheat,519
+Charlevoix,"Boyne Valley Township, Precinct 2",County Treasurer,,REP,Julie Wheat,483
+Charlevoix,"Chandler Township, Precinct 3",County Treasurer,,REP,Julie Wheat,132
+Charlevoix,"Charlevoix Township, Precinct 4",County Treasurer,,REP,Julie Wheat,621
+Charlevoix,"Evangeline Township, Precinct 5",County Treasurer,,REP,Julie Wheat,337
+Charlevoix,"Eveline Township, Precinct 6",County Treasurer,,REP,Julie Wheat,759
+Charlevoix,"Hayes Township, Precinct 7",County Treasurer,,REP,Julie Wheat,837
+Charlevoix,"Hudson Township, Precinct 8",County Treasurer,,REP,Julie Wheat,274
+Charlevoix,"Marion Township, Precinct 9",County Treasurer,,REP,Julie Wheat,798
+Charlevoix,"Melrose Township, Precinct 10",County Treasurer,,REP,Julie Wheat,550
+Charlevoix,"Norwood Township, Precinct 11",County Treasurer,,REP,Julie Wheat,335
+Charlevoix,"Peaine Township, Precinct 12",County Treasurer,,REP,Julie Wheat,121
+Charlevoix,"St. James Township, Precinct 13",County Treasurer,,REP,Julie Wheat,93
+Charlevoix,"South Arm Township, Precinct 14",County Treasurer,,REP,Julie Wheat,819
+Charlevoix,"Wilson Township, Precinct 15",County Treasurer,,REP,Julie Wheat,805
+Charlevoix,"City of Boyne City, Precinct 16",County Treasurer,,REP,Julie Wheat,1317
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Treasurer,,REP,Julie Wheat,279
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Treasurer,,REP,Julie Wheat,286
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Treasurer,,REP,Julie Wheat,318
+Charlevoix,"City of East Jordan, Precinct 21",County Treasurer,,REP,Julie Wheat,722
+Charlevoix,"Bay Township, Precinct 1",County Treasurer,,,Write-ins,4
+Charlevoix,"Boyne Valley Township, Precinct 2",County Treasurer,,,Write-ins,3
+Charlevoix,"Chandler Township, Precinct 3",County Treasurer,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Treasurer,,,Write-ins,2
+Charlevoix,"Evangeline Township, Precinct 5",County Treasurer,,,Write-ins,0
+Charlevoix,"Eveline Township, Precinct 6",County Treasurer,,,Write-ins,2
+Charlevoix,"Hayes Township, Precinct 7",County Treasurer,,,Write-ins,16
+Charlevoix,"Hudson Township, Precinct 8",County Treasurer,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Treasurer,,,Write-ins,4
+Charlevoix,"Melrose Township, Precinct 10",County Treasurer,,,Write-ins,6
+Charlevoix,"Norwood Township, Precinct 11",County Treasurer,,,Write-ins,0
+Charlevoix,"Peaine Township, Precinct 12",County Treasurer,,,Write-ins,1
+Charlevoix,"St. James Township, Precinct 13",County Treasurer,,,Write-ins,0
+Charlevoix,"South Arm Township, Precinct 14",County Treasurer,,,Write-ins,6
+Charlevoix,"Wilson Township, Precinct 15",County Treasurer,,,Write-ins,3
+Charlevoix,"City of Boyne City, Precinct 16",County Treasurer,,,Write-ins,6
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Treasurer,,,Write-ins,0
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Treasurer,,,Write-ins,5
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Treasurer,,,Write-ins,1
+Charlevoix,"City of East Jordan, Precinct 21",County Treasurer,,,Write-ins,9
+Charlevoix,"Bay Township, Precinct 1",County Register of Deeds,,REP,Jessica Porter,624
+Charlevoix,"Boyne Valley Township, Precinct 2",County Register of Deeds,,REP,Jessica Porter,594
+Charlevoix,"Chandler Township, Precinct 3",County Register of Deeds,,REP,Jessica Porter,150
+Charlevoix,"Charlevoix Township, Precinct 4",County Register of Deeds,,REP,Jessica Porter,775
+Charlevoix,"Evangeline Township, Precinct 5",County Register of Deeds,,REP,Jessica Porter,389
+Charlevoix,"Eveline Township, Precinct 6",County Register of Deeds,,REP,Jessica Porter,827
+Charlevoix,"Hayes Township, Precinct 7",County Register of Deeds,,REP,Jessica Porter,1011
+Charlevoix,"Hudson Township, Precinct 8",County Register of Deeds,,REP,Jessica Porter,316
+Charlevoix,"Marion Township, Precinct 9",County Register of Deeds,,REP,Jessica Porter,877
+Charlevoix,"Melrose Township, Precinct 10",County Register of Deeds,,REP,Jessica Porter,680
+Charlevoix,"Norwood Township, Precinct 11",County Register of Deeds,,REP,Jessica Porter,382
+Charlevoix,"Peaine Township, Precinct 12",County Register of Deeds,,REP,Jessica Porter,154
+Charlevoix,"St. James Township, Precinct 13",County Register of Deeds,,REP,Jessica Porter,139
+Charlevoix,"South Arm Township, Precinct 14",County Register of Deeds,,REP,Jessica Porter,941
+Charlevoix,"Wilson Township, Precinct 15",County Register of Deeds,,REP,Jessica Porter,959
+Charlevoix,"City of Boyne City, Precinct 16",County Register of Deeds,,REP,Jessica Porter,1633
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Register of Deeds,,REP,Jessica Porter,362
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Register of Deeds,,REP,Jessica Porter,340
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Register of Deeds,,REP,Jessica Porter,356
+Charlevoix,"City of East Jordan, Precinct 21",County Register of Deeds,,REP,Jessica Porter,885
+Charlevoix,"Bay Township, Precinct 1",County Register of Deeds,,,Write-ins,13
+Charlevoix,"Boyne Valley Township, Precinct 2",County Register of Deeds,,,Write-ins,13
+Charlevoix,"Chandler Township, Precinct 3",County Register of Deeds,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Register of Deeds,,,Write-ins,20
+Charlevoix,"Evangeline Township, Precinct 5",County Register of Deeds,,,Write-ins,7
+Charlevoix,"Eveline Township, Precinct 6",County Register of Deeds,,,Write-ins,18
+Charlevoix,"Hayes Township, Precinct 7",County Register of Deeds,,,Write-ins,26
+Charlevoix,"Hudson Township, Precinct 8",County Register of Deeds,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Register of Deeds,,,Write-ins,7
+Charlevoix,"Melrose Township, Precinct 10",County Register of Deeds,,,Write-ins,13
+Charlevoix,"Norwood Township, Precinct 11",County Register of Deeds,,,Write-ins,4
+Charlevoix,"Peaine Township, Precinct 12",County Register of Deeds,,,Write-ins,4
+Charlevoix,"St. James Township, Precinct 13",County Register of Deeds,,,Write-ins,4
+Charlevoix,"South Arm Township, Precinct 14",County Register of Deeds,,,Write-ins,9
+Charlevoix,"Wilson Township, Precinct 15",County Register of Deeds,,,Write-ins,17
+Charlevoix,"City of Boyne City, Precinct 16",County Register of Deeds,,,Write-ins,27
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Register of Deeds,,,Write-ins,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Register of Deeds,,,Write-ins,10
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Register of Deeds,,,Write-ins,10
+Charlevoix,"City of East Jordan, Precinct 21",County Register of Deeds,,,Write-ins,14
+Charlevoix,"Bay Township, Precinct 1",County Drain Commissioner,,REP,Russell Smith,621
+Charlevoix,"Boyne Valley Township, Precinct 2",County Drain Commissioner,,REP,Russell Smith,587
+Charlevoix,"Chandler Township, Precinct 3",County Drain Commissioner,,REP,Russell Smith,147
+Charlevoix,"Charlevoix Township, Precinct 4",County Drain Commissioner,,REP,Russell Smith,762
+Charlevoix,"Evangeline Township, Precinct 5",County Drain Commissioner,,REP,Russell Smith,379
+Charlevoix,"Eveline Township, Precinct 6",County Drain Commissioner,,REP,Russell Smith,823
+Charlevoix,"Hayes Township, Precinct 7",County Drain Commissioner,,REP,Russell Smith,1017
+Charlevoix,"Hudson Township, Precinct 8",County Drain Commissioner,,REP,Russell Smith,309
+Charlevoix,"Marion Township, Precinct 9",County Drain Commissioner,,REP,Russell Smith,858
+Charlevoix,"Melrose Township, Precinct 10",County Drain Commissioner,,REP,Russell Smith,676
+Charlevoix,"Norwood Township, Precinct 11",County Drain Commissioner,,REP,Russell Smith,384
+Charlevoix,"Peaine Township, Precinct 12",County Drain Commissioner,,REP,Russell Smith,154
+Charlevoix,"St. James Township, Precinct 13",County Drain Commissioner,,REP,Russell Smith,131
+Charlevoix,"South Arm Township, Precinct 14",County Drain Commissioner,,REP,Russell Smith,911
+Charlevoix,"Wilson Township, Precinct 15",County Drain Commissioner,,REP,Russell Smith,957
+Charlevoix,"City of Boyne City, Precinct 16",County Drain Commissioner,,REP,Russell Smith,1608
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Drain Commissioner,,REP,Russell Smith,360
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Drain Commissioner,,REP,Russell Smith,332
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Drain Commissioner,,REP,Russell Smith,359
+Charlevoix,"City of East Jordan, Precinct 21",County Drain Commissioner,,REP,Russell Smith,855
+Charlevoix,"Bay Township, Precinct 1",County Drain Commissioner,,,Write-ins,15
+Charlevoix,"Boyne Valley Township, Precinct 2",County Drain Commissioner,,,Write-ins,12
+Charlevoix,"Chandler Township, Precinct 3",County Drain Commissioner,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Drain Commissioner,,,Write-ins,14
+Charlevoix,"Evangeline Township, Precinct 5",County Drain Commissioner,,,Write-ins,7
+Charlevoix,"Eveline Township, Precinct 6",County Drain Commissioner,,,Write-ins,18
+Charlevoix,"Hayes Township, Precinct 7",County Drain Commissioner,,,Write-ins,13
+Charlevoix,"Hudson Township, Precinct 8",County Drain Commissioner,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Drain Commissioner,,,Write-ins,8
+Charlevoix,"Melrose Township, Precinct 10",County Drain Commissioner,,,Write-ins,12
+Charlevoix,"Norwood Township, Precinct 11",County Drain Commissioner,,,Write-ins,1
+Charlevoix,"Peaine Township, Precinct 12",County Drain Commissioner,,,Write-ins,5
+Charlevoix,"St. James Township, Precinct 13",County Drain Commissioner,,,Write-ins,6
+Charlevoix,"South Arm Township, Precinct 14",County Drain Commissioner,,,Write-ins,11
+Charlevoix,"Wilson Township, Precinct 15",County Drain Commissioner,,,Write-ins,15
+Charlevoix,"City of Boyne City, Precinct 16",County Drain Commissioner,,,Write-ins,28
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Drain Commissioner,,,Write-ins,5
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Drain Commissioner,,,Write-ins,7
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Drain Commissioner,,,Write-ins,7
+Charlevoix,"City of East Jordan, Precinct 21",County Drain Commissioner,,,Write-ins,13
+Charlevoix,"Bay Township, Precinct 1",County Surveyor,,REP,Lawrence R. Feindt,620
+Charlevoix,"Boyne Valley Township, Precinct 2",County Surveyor,,REP,Lawrence R. Feindt,580
+Charlevoix,"Chandler Township, Precinct 3",County Surveyor,,REP,Lawrence R. Feindt,149
+Charlevoix,"Charlevoix Township, Precinct 4",County Surveyor,,REP,Lawrence R. Feindt,776
+Charlevoix,"Evangeline Township, Precinct 5",County Surveyor,,REP,Lawrence R. Feindt,382
+Charlevoix,"Eveline Township, Precinct 6",County Surveyor,,REP,Lawrence R. Feindt,828
+Charlevoix,"Hayes Township, Precinct 7",County Surveyor,,REP,Lawrence R. Feindt,1018
+Charlevoix,"Hudson Township, Precinct 8",County Surveyor,,REP,Lawrence R. Feindt,306
+Charlevoix,"Marion Township, Precinct 9",County Surveyor,,REP,Lawrence R. Feindt,870
+Charlevoix,"Melrose Township, Precinct 10",County Surveyor,,REP,Lawrence R. Feindt,671
+Charlevoix,"Norwood Township, Precinct 11",County Surveyor,,REP,Lawrence R. Feindt,387
+Charlevoix,"Peaine Township, Precinct 12",County Surveyor,,REP,Lawrence R. Feindt,155
+Charlevoix,"St. James Township, Precinct 13",County Surveyor,,REP,Lawrence R. Feindt,129
+Charlevoix,"South Arm Township, Precinct 14",County Surveyor,,REP,Lawrence R. Feindt,908
+Charlevoix,"Wilson Township, Precinct 15",County Surveyor,,REP,Lawrence R. Feindt,950
+Charlevoix,"City of Boyne City, Precinct 16",County Surveyor,,REP,Lawrence R. Feindt,1595
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Surveyor,,REP,Lawrence R. Feindt,360
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Surveyor,,REP,Lawrence R. Feindt,337
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Surveyor,,REP,Lawrence R. Feindt,366
+Charlevoix,"City of East Jordan, Precinct 21",County Surveyor,,REP,Lawrence R. Feindt,853
+Charlevoix,"Bay Township, Precinct 1",County Surveyor,,,Write-ins,14
+Charlevoix,"Boyne Valley Township, Precinct 2",County Surveyor,,,Write-ins,16
+Charlevoix,"Chandler Township, Precinct 3",County Surveyor,,,Write-ins,0
+Charlevoix,"Charlevoix Township, Precinct 4",County Surveyor,,,Write-ins,15
+Charlevoix,"Evangeline Township, Precinct 5",County Surveyor,,,Write-ins,7
+Charlevoix,"Eveline Township, Precinct 6",County Surveyor,,,Write-ins,18
+Charlevoix,"Hayes Township, Precinct 7",County Surveyor,,,Write-ins,17
+Charlevoix,"Hudson Township, Precinct 8",County Surveyor,,,Write-ins,3
+Charlevoix,"Marion Township, Precinct 9",County Surveyor,,,Write-ins,6
+Charlevoix,"Melrose Township, Precinct 10",County Surveyor,,,Write-ins,13
+Charlevoix,"Norwood Township, Precinct 11",County Surveyor,,,Write-ins,1
+Charlevoix,"Peaine Township, Precinct 12",County Surveyor,,,Write-ins,5
+Charlevoix,"St. James Township, Precinct 13",County Surveyor,,,Write-ins,5
+Charlevoix,"South Arm Township, Precinct 14",County Surveyor,,,Write-ins,15
+Charlevoix,"Wilson Township, Precinct 15",County Surveyor,,,Write-ins,16
+Charlevoix,"City of Boyne City, Precinct 16",County Surveyor,,,Write-ins,34
+Charlevoix,"City of Charlevoix, Ward 1, Precinct 18",County Surveyor,,,Write-ins,4
+Charlevoix,"City of Charlevoix, Ward 2, Precinct 19",County Surveyor,,,Write-ins,6
+Charlevoix,"City of Charlevoix, Ward 3, Precinct 20",County Surveyor,,,Write-ins,8
+Charlevoix,"City of East Jordan, Precinct 21",County Surveyor,,,Write-ins,14

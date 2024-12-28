@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes
+﻿county,precinct,office,district,candidate,party,votes
 Ogemaw,"City of Rose City, Ward 1, Precinct 1",Registered Voters,,,,419
 Ogemaw,"City of West Branch, Ward 1, Precinct 1",Registered Voters,,,,1768
 Ogemaw,"Churchill Township, Precinct 1",Registered Voters,,,,1447
@@ -33,768 +33,908 @@ Ogemaw,"Ogemaw Township, Precinct 1",Ballots Cast,,,,793
 Ogemaw,"Richland Township, Precinct 1",Ballots Cast,,,,465
 Ogemaw,"Rose Township, Precinct 1",Ballots Cast,,,,829
 Ogemaw,"West Branch Township, Precinct 1",Ballots Cast,,,,1599
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,DEM,Democratic,37
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,DEM,Democratic,199
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,DEM,Democratic,150
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,DEM,Democratic,51
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,DEM,Democratic,106
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,DEM,Democratic,93
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,DEM,Democratic,30
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,DEM,Democratic,183
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,DEM,Democratic,52
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,DEM,Democratic,33
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,DEM,Democratic,38
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,DEM,Democratic,138
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,DEM,Democratic,200
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,DEM,Democratic,91
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,DEM,Democratic,72
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,DEM,Democratic,112
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,DEM,Democratic,171
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,REP,Republican,90
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,REP,Republican,370
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,REP,Republican,402
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,REP,Republican,163
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,REP,Republican,334
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,REP,Republican,212
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,REP,Republican,124
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,REP,Republican,328
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,REP,Republican,238
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,REP,Republican,166
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,REP,Republican,138
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,REP,Republican,381
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,REP,Republican,507
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,REP,Republican,291
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,REP,Republican,163
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,REP,Republican,331
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,REP,Republican,589
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,LIB,Libertarian,5
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,LIB,Libertarian,2
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,LIB,Libertarian,2
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,LIB,Libertarian,1
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,LIB,Libertarian,2
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,LIB,Libertarian,0
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,LIB,Libertarian,1
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,LIB,Libertarian,2
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,LIB,Libertarian,2
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,LIB,Libertarian,1
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,LIB,Libertarian,2
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,LIB,Libertarian,5
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,5
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,GRN,Green,3
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,GRN,Green,0
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,GRN,Green,1
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,GRN,Green,0
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,GRN,Green,3
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,WCP,Working Class,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,WCP,Working Class,9
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,WCP,Working Class,7
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,WCP,Working Class,2
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,WCP,Working Class,8
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,WCP,Working Class,3
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,WCP,Working Class,2
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,WCP,Working Class,3
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,WCP,Working Class,3
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,WCP,Working Class,3
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,WCP,Working Class,3
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,WCP,Working Class,4
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,WCP,Working Class,19
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,WCP,Working Class,2
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,WCP,Working Class,1
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,WCP,Working Class,5
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,WCP,Working Class,7
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,NLP,Natural Law,2
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Churchill Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Cumming Township, Precinct 1",Straight Party,,NLP,Natural Law,2
-Ogemaw,"Edwards Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Foster Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Goodar Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Hill Township, Precinct 1",Straight Party,,NLP,Natural Law,1
-Ogemaw,"Horton Township, Precinct 1",Straight Party,,NLP,Natural Law,1
-Ogemaw,"Klacking Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Logan Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Mills Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Mills Township, Precinct 2",Straight Party,,NLP,Natural Law,4
-Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,NLP,Natural Law,1
-Ogemaw,"Richland Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"Rose Township, Precinct 1",Straight Party,,NLP,Natural Law,0
-Ogemaw,"West Branch Township, Precinct 1",Straight Party,,NLP,Natural Law,1
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,DEM,Kamala D. Harris,63
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,DEM,Kamala D. Harris,401
-Ogemaw,"Churchill Township, Precinct 1",President,,DEM,Kamala D. Harris,304
-Ogemaw,"Cumming Township, Precinct 1",President,,DEM,Kamala D. Harris,137
-Ogemaw,"Edwards Township, Precinct 1",President,,DEM,Kamala D. Harris,251
-Ogemaw,"Foster Township, Precinct 1",President,,DEM,Kamala D. Harris,166
-Ogemaw,"Goodar Township, Precinct 1",President,,DEM,Kamala D. Harris,59
-Ogemaw,"Hill Township, Precinct 1",President,,DEM,Kamala D. Harris,330
-Ogemaw,"Horton Township, Precinct 1",President,,DEM,Kamala D. Harris,112
-Ogemaw,"Klacking Township, Precinct 1",President,,DEM,Kamala D. Harris,97
-Ogemaw,"Logan Township, Precinct 1",President,,DEM,Kamala D. Harris,104
-Ogemaw,"Mills Township, Precinct 1",President,,DEM,Kamala D. Harris,245
-Ogemaw,"Mills Township, Precinct 2",President,,DEM,Kamala D. Harris,331
-Ogemaw,"Ogemaw Township, Precinct 1",President,,DEM,Kamala D. Harris,220
-Ogemaw,"Richland Township, Precinct 1",President,,DEM,Kamala D. Harris,136
-Ogemaw,"Rose Township, Precinct 1",President,,DEM,Kamala D. Harris,235
-Ogemaw,"West Branch Township, Precinct 1",President,,DEM,Kamala D. Harris,387
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,REP,Donald J. Trump,165
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,REP,Donald J. Trump,677
-Ogemaw,"Churchill Township, Precinct 1",President,,REP,Donald J. Trump,753
-Ogemaw,"Cumming Township, Precinct 1",President,,REP,Donald J. Trump,346
-Ogemaw,"Edwards Township, Precinct 1",President,,REP,Donald J. Trump,639
-Ogemaw,"Foster Township, Precinct 1",President,,REP,Donald J. Trump,408
-Ogemaw,"Goodar Township, Precinct 1",President,,REP,Donald J. Trump,192
-Ogemaw,"Hill Township, Precinct 1",President,,REP,Donald J. Trump,612
-Ogemaw,"Horton Township, Precinct 1",President,,REP,Donald J. Trump,427
-Ogemaw,"Klacking Township, Precinct 1",President,,REP,Donald J. Trump,301
-Ogemaw,"Logan Township, Precinct 1",President,,REP,Donald J. Trump,271
-Ogemaw,"Mills Township, Precinct 1",President,,REP,Donald J. Trump,645
-Ogemaw,"Mills Township, Precinct 2",President,,REP,Donald J. Trump,812
-Ogemaw,"Ogemaw Township, Precinct 1",President,,REP,Donald J. Trump,551
-Ogemaw,"Richland Township, Precinct 1",President,,REP,Donald J. Trump,321
-Ogemaw,"Rose Township, Precinct 1",President,,REP,Donald J. Trump,580
-Ogemaw,"West Branch Township, Precinct 1",President,,REP,Donald J. Trump,1179
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,LIB,Chase Oliver,2
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,LIB,Chase Oliver,8
-Ogemaw,"Churchill Township, Precinct 1",President,,LIB,Chase Oliver,4
-Ogemaw,"Cumming Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"Edwards Township, Precinct 1",President,,LIB,Chase Oliver,2
-Ogemaw,"Foster Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"Goodar Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"Hill Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"Horton Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"Klacking Township, Precinct 1",President,,LIB,Chase Oliver,0
-Ogemaw,"Logan Township, Precinct 1",President,,LIB,Chase Oliver,5
-Ogemaw,"Mills Township, Precinct 1",President,,LIB,Chase Oliver,3
-Ogemaw,"Mills Township, Precinct 2",President,,LIB,Chase Oliver,3
-Ogemaw,"Ogemaw Township, Precinct 1",President,,LIB,Chase Oliver,5
-Ogemaw,"Richland Township, Precinct 1",President,,LIB,Chase Oliver,3
-Ogemaw,"Rose Township, Precinct 1",President,,LIB,Chase Oliver,1
-Ogemaw,"West Branch Township, Precinct 1",President,,LIB,Chase Oliver,3
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Churchill Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Cumming Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Edwards Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Foster Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Goodar Township, Precinct 1",President,,UST,Randall Terry,2
-Ogemaw,"Hill Township, Precinct 1",President,,UST,Randall Terry,4
-Ogemaw,"Horton Township, Precinct 1",President,,UST,Randall Terry,2
-Ogemaw,"Klacking Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Logan Township, Precinct 1",President,,UST,Randall Terry,1
-Ogemaw,"Mills Township, Precinct 1",President,,UST,Randall Terry,1
-Ogemaw,"Mills Township, Precinct 2",President,,UST,Randall Terry,2
-Ogemaw,"Ogemaw Township, Precinct 1",President,,UST,Randall Terry,2
-Ogemaw,"Richland Township, Precinct 1",President,,UST,Randall Terry,0
-Ogemaw,"Rose Township, Precinct 1",President,,UST,Randall Terry,3
-Ogemaw,"West Branch Township, Precinct 1",President,,UST,Randall Terry,5
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,GRN,Jill Stein,4
-Ogemaw,"Churchill Township, Precinct 1",President,,GRN,Jill Stein,1
-Ogemaw,"Cumming Township, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"Edwards Township, Precinct 1",President,,GRN,Jill Stein,2
-Ogemaw,"Foster Township, Precinct 1",President,,GRN,Jill Stein,3
-Ogemaw,"Goodar Township, Precinct 1",President,,GRN,Jill Stein,2
-Ogemaw,"Hill Township, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"Horton Township, Precinct 1",President,,GRN,Jill Stein,1
-Ogemaw,"Klacking Township, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"Logan Township, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"Mills Township, Precinct 1",President,,GRN,Jill Stein,2
-Ogemaw,"Mills Township, Precinct 2",President,,GRN,Jill Stein,0
-Ogemaw,"Ogemaw Township, Precinct 1",President,,GRN,Jill Stein,3
-Ogemaw,"Richland Township, Precinct 1",President,,GRN,Jill Stein,0
-Ogemaw,"Rose Township, Precinct 1",President,,GRN,Jill Stein,5
-Ogemaw,"West Branch Township, Precinct 1",President,,GRN,Jill Stein,5
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
-Ogemaw,"Churchill Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",6
-Ogemaw,"Cumming Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
-Ogemaw,"Edwards Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
-Ogemaw,"Foster Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
-Ogemaw,"Goodar Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
-Ogemaw,"Hill Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
-Ogemaw,"Horton Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
-Ogemaw,"Klacking Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
-Ogemaw,"Logan Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
-Ogemaw,"Mills Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
-Ogemaw,"Mills Township, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",5
-Ogemaw,"Ogemaw Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",5
-Ogemaw,"Richland Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
-Ogemaw,"Rose Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
-Ogemaw,"West Branch Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",9
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"Churchill Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Cumming Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Edwards Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Foster Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Goodar Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Hill Township, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"Horton Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Klacking Township, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"Logan Township, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"Mills Township, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"Mills Township, Precinct 2",President,,,Joseph Kishore,2
-Ogemaw,"Ogemaw Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Richland Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"Rose Township, Precinct 1",President,,,Joseph Kishore,0
-Ogemaw,"West Branch Township, Precinct 1",President,,,Joseph Kishore,1
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,,Cornel West,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,,Cornel West,1
-Ogemaw,"Churchill Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Cumming Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Edwards Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Foster Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Goodar Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Hill Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Horton Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Klacking Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Logan Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Mills Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Mills Township, Precinct 2",President,,,Cornel West,0
-Ogemaw,"Ogemaw Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Richland Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"Rose Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"West Branch Township, Precinct 1",President,,,Cornel West,0
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,,Write-ins,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,,Write-ins,3
-Ogemaw,"Churchill Township, Precinct 1",President,,,Write-ins,3
-Ogemaw,"Cumming Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"Edwards Township, Precinct 1",President,,,Write-ins,3
-Ogemaw,"Foster Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"Goodar Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"Hill Township, Precinct 1",President,,,Write-ins,1
-Ogemaw,"Horton Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"Klacking Township, Precinct 1",President,,,Write-ins,1
-Ogemaw,"Logan Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"Mills Township, Precinct 1",President,,,Write-ins,2
-Ogemaw,"Mills Township, Precinct 2",President,,,Write-ins,2
-Ogemaw,"Ogemaw Township, Precinct 1",President,,,Write-ins,2
-Ogemaw,"Richland Township, Precinct 1",President,,,Write-ins,1
-Ogemaw,"Rose Township, Precinct 1",President,,,Write-ins,0
-Ogemaw,"West Branch Township, Precinct 1",President,,,Write-ins,4
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,64
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,398
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,303
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,143
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,258
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,170
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,61
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,346
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,117
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,104
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,112
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,251
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,332
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,223
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,144
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,246
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,412
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,REP,Mike Rogers,154
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,REP,Mike Rogers,622
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,715
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,321
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,605
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,375
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,184
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,565
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,401
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,281
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,253
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,623
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,754
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,530
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,292
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,543
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,1094
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,7
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,UST,Dave Stein,3
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,UST,Dave Stein,14
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,UST,Dave Stein,14
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,UST,Dave Stein,16
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,14
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,5
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,9
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,10
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,,Write-ins,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,,Write-ins,2
-Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,,Write-ins,5
-Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,,Write-ins,1
-Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,,Write-ins,1
-Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,,Write-ins,3
-Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,,Write-ins,1
-Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,,Write-ins,1
-Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,,Write-ins,2
-Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,,Write-ins,2
-Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,,Write-ins,0
-Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,,Write-ins,3
-Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,,Write-ins,4
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,,Write-ins,0
-Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,,Write-ins,0
-Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,,Write-ins,1
-Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,,Write-ins,3
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,DEM,Callie Barr,60
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,DEM,Callie Barr,357
-Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,DEM,Callie Barr,275
-Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,DEM,Callie Barr,128
-Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,DEM,Callie Barr,226
-Ogemaw,"Foster Township, Precinct 1",U.S. House,1,DEM,Callie Barr,163
-Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,DEM,Callie Barr,56
-Ogemaw,"Hill Township, Precinct 1",U.S. House,1,DEM,Callie Barr,301
-Ogemaw,"Horton Township, Precinct 1",U.S. House,1,DEM,Callie Barr,112
-Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,DEM,Callie Barr,85
-Ogemaw,"Logan Township, Precinct 1",U.S. House,1,DEM,Callie Barr,93
-Ogemaw,"Mills Township, Precinct 1",U.S. House,1,DEM,Callie Barr,234
-Ogemaw,"Mills Township, Precinct 2",U.S. House,1,DEM,Callie Barr,299
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,DEM,Callie Barr,202
-Ogemaw,"Richland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,134
-Ogemaw,"Rose Township, Precinct 1",U.S. House,1,DEM,Callie Barr,203
-Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,DEM,Callie Barr,353
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,153
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,628
-Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,REP,Jack Bergman,714
-Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,REP,Jack Bergman,321
-Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,REP,Jack Bergman,602
-Ogemaw,"Foster Township, Precinct 1",U.S. House,1,REP,Jack Bergman,383
-Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,REP,Jack Bergman,184
-Ogemaw,"Hill Township, Precinct 1",U.S. House,1,REP,Jack Bergman,575
-Ogemaw,"Horton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,397
-Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,REP,Jack Bergman,291
-Ogemaw,"Logan Township, Precinct 1",U.S. House,1,REP,Jack Bergman,263
-Ogemaw,"Mills Township, Precinct 1",U.S. House,1,REP,Jack Bergman,617
-Ogemaw,"Mills Township, Precinct 2",U.S. House,1,REP,Jack Bergman,746
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,REP,Jack Bergman,515
-Ogemaw,"Richland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,291
-Ogemaw,"Rose Township, Precinct 1",U.S. House,1,REP,Jack Bergman,547
-Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,1082
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,LIB,Andrew Gale,4
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,LIB,Andrew Gale,16
-Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,12
-Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
-Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,14
-Ogemaw,"Foster Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
-Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
-Ogemaw,"Hill Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,14
-Ogemaw,"Horton Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
-Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
-Ogemaw,"Logan Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7
-Ogemaw,"Mills Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
-Ogemaw,"Mills Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,13
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5
-Ogemaw,"Richland Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2
-Ogemaw,"Rose Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11
-Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,19
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,WCP,Liz Hakola,5
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,WCP,Liz Hakola,41
-Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,21
-Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8
-Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,15
-Ogemaw,"Foster Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
-Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
-Ogemaw,"Hill Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,22
-Ogemaw,"Horton Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
-Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13
-Ogemaw,"Logan Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8
-Ogemaw,"Mills Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,15
-Ogemaw,"Mills Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,52
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,20
-Ogemaw,"Richland Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,16
-Ogemaw,"Rose Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,21
-Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,40
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,,Write-ins,0
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,,Write-ins,2
-Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,,Write-ins,4
-Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,,Write-ins,1
-Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,,Write-ins,2
-Ogemaw,"Foster Township, Precinct 1",U.S. House,1,,Write-ins,3
-Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,,Write-ins,0
-Ogemaw,"Hill Township, Precinct 1",U.S. House,1,,Write-ins,1
-Ogemaw,"Horton Township, Precinct 1",U.S. House,1,,Write-ins,3
-Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,,Write-ins,1
-Ogemaw,"Logan Township, Precinct 1",U.S. House,1,,Write-ins,0
-Ogemaw,"Mills Township, Precinct 1",U.S. House,1,,Write-ins,3
-Ogemaw,"Mills Township, Precinct 2",U.S. House,1,,Write-ins,2
-Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,,Write-ins,0
-Ogemaw,"Richland Township, Precinct 1",U.S. House,1,,Write-ins,1
-Ogemaw,"Rose Township, Precinct 1",U.S. House,1,,Write-ins,1
-Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,,Write-ins,5
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,DEM,Jon LeRoux,58
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,DEM,Jon LeRoux,381
-Ogemaw,"Churchill Township, Precinct 1",State House,99,DEM,Jon LeRoux,270
-Ogemaw,"Cumming Township, Precinct 1",State House,99,DEM,Jon LeRoux,121
-Ogemaw,"Edwards Township, Precinct 1",State House,99,DEM,Jon LeRoux,231
-Ogemaw,"Foster Township, Precinct 1",State House,99,DEM,Jon LeRoux,159
-Ogemaw,"Goodar Township, Precinct 1",State House,99,DEM,Jon LeRoux,59
-Ogemaw,"Hill Township, Precinct 1",State House,99,DEM,Jon LeRoux,307
-Ogemaw,"Horton Township, Precinct 1",State House,99,DEM,Jon LeRoux,108
-Ogemaw,"Klacking Township, Precinct 1",State House,99,DEM,Jon LeRoux,84
-Ogemaw,"Logan Township, Precinct 1",State House,99,DEM,Jon LeRoux,90
-Ogemaw,"Mills Township, Precinct 1",State House,99,DEM,Jon LeRoux,239
-Ogemaw,"Mills Township, Precinct 2",State House,99,DEM,Jon LeRoux,302
-Ogemaw,"Ogemaw Township, Precinct 1",State House,99,DEM,Jon LeRoux,181
-Ogemaw,"Richland Township, Precinct 1",State House,99,DEM,Jon LeRoux,122
-Ogemaw,"Rose Township, Precinct 1",State House,99,DEM,Jon LeRoux,212
-Ogemaw,"West Branch Township, Precinct 1",State House,99,DEM,Jon LeRoux,343
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,REP,Mike Hoadley,159
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,REP,Mike Hoadley,662
-Ogemaw,"Churchill Township, Precinct 1",State House,99,REP,Mike Hoadley,733
-Ogemaw,"Cumming Township, Precinct 1",State House,99,REP,Mike Hoadley,331
-Ogemaw,"Edwards Township, Precinct 1",State House,99,REP,Mike Hoadley,623
-Ogemaw,"Foster Township, Precinct 1",State House,99,REP,Mike Hoadley,393
-Ogemaw,"Goodar Township, Precinct 1",State House,99,REP,Mike Hoadley,195
-Ogemaw,"Hill Township, Precinct 1",State House,99,REP,Mike Hoadley,591
-Ogemaw,"Horton Township, Precinct 1",State House,99,REP,Mike Hoadley,404
-Ogemaw,"Klacking Township, Precinct 1",State House,99,REP,Mike Hoadley,302
-Ogemaw,"Logan Township, Precinct 1",State House,99,REP,Mike Hoadley,275
-Ogemaw,"Mills Township, Precinct 1",State House,99,REP,Mike Hoadley,630
-Ogemaw,"Mills Township, Precinct 2",State House,99,REP,Mike Hoadley,785
-Ogemaw,"Ogemaw Township, Precinct 1",State House,99,REP,Mike Hoadley,546
-Ogemaw,"Richland Township, Precinct 1",State House,99,REP,Mike Hoadley,314
-Ogemaw,"Rose Township, Precinct 1",State House,99,REP,Mike Hoadley,559
-Ogemaw,"West Branch Township, Precinct 1",State House,99,REP,Mike Hoadley,1123
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,,Write-ins,1
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,,Write-ins,3
-Ogemaw,"Churchill Township, Precinct 1",State House,99,,Write-ins,5
-Ogemaw,"Cumming Township, Precinct 1",State House,99,,Write-ins,5
-Ogemaw,"Edwards Township, Precinct 1",State House,99,,Write-ins,3
-Ogemaw,"Foster Township, Precinct 1",State House,99,,Write-ins,4
-Ogemaw,"Goodar Township, Precinct 1",State House,99,,Write-ins,0
-Ogemaw,"Hill Township, Precinct 1",State House,99,,Write-ins,2
-Ogemaw,"Horton Township, Precinct 1",State House,99,,Write-ins,5
-Ogemaw,"Klacking Township, Precinct 1",State House,99,,Write-ins,0
-Ogemaw,"Logan Township, Precinct 1",State House,99,,Write-ins,4
-Ogemaw,"Mills Township, Precinct 1",State House,99,,Write-ins,2
-Ogemaw,"Mills Township, Precinct 2",State House,99,,Write-ins,11
-Ogemaw,"Ogemaw Township, Precinct 1",State House,99,,Write-ins,3
-Ogemaw,"Richland Township, Precinct 1",State House,99,,Write-ins,3
-Ogemaw,"Rose Township, Precinct 1",State House,99,,Write-ins,4
-Ogemaw,"West Branch Township, Precinct 1",State House,99,,Write-ins,13
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,114
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,613
-Ogemaw,"Churchill Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,534
-Ogemaw,"Cumming Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,240
-Ogemaw,"Edwards Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,430
-Ogemaw,"Foster Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,274
-Ogemaw,"Goodar Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,99
-Ogemaw,"Hill Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,491
-Ogemaw,"Horton Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,241
-Ogemaw,"Klacking Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,178
-Ogemaw,"Logan Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,176
-Ogemaw,"Mills Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,422
-Ogemaw,"Mills Township, Precinct 2",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,582
-Ogemaw,"Ogemaw Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,370
-Ogemaw,"Richland Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,245
-Ogemaw,"Rose Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,383
-Ogemaw,"West Branch Township, Precinct 1",County Prosecuting Attorney,,DEM,LaDonna A. Schultz,760
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Prosecuting Attorney,,,Write-ins,10
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Prosecuting Attorney,,,Write-ins,47
-Ogemaw,"Churchill Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,40
-Ogemaw,"Cumming Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,33
-Ogemaw,"Edwards Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,46
-Ogemaw,"Foster Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,29
-Ogemaw,"Goodar Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,17
-Ogemaw,"Hill Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,36
-Ogemaw,"Horton Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,41
-Ogemaw,"Klacking Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,19
-Ogemaw,"Logan Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,31
-Ogemaw,"Mills Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,51
-Ogemaw,"Mills Township, Precinct 2",County Prosecuting Attorney,,,Write-ins,123
-Ogemaw,"Ogemaw Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,35
-Ogemaw,"Richland Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,24
-Ogemaw,"Rose Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,39
-Ogemaw,"West Branch Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,100
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,172
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,782
-Ogemaw,"Churchill Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,829
-Ogemaw,"Cumming Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,377
-Ogemaw,"Edwards Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,652
-Ogemaw,"Foster Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,418
-Ogemaw,"Goodar Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,204
-Ogemaw,"Hill Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,671
-Ogemaw,"Horton Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,434
-Ogemaw,"Klacking Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,313
-Ogemaw,"Logan Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,301
-Ogemaw,"Mills Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,689
-Ogemaw,"Mills Township, Precinct 2",County Sheriff,,REP,Brian D. Gilbert,899
-Ogemaw,"Ogemaw Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,567
-Ogemaw,"Richland Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,345
-Ogemaw,"Rose Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,625
-Ogemaw,"West Branch Township, Precinct 1",County Sheriff,,REP,Brian D. Gilbert,1186
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Sheriff,,,Write-ins,4
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Sheriff,,,Write-ins,32
-Ogemaw,"Churchill Township, Precinct 1",County Sheriff,,,Write-ins,13
-Ogemaw,"Cumming Township, Precinct 1",County Sheriff,,,Write-ins,10
-Ogemaw,"Edwards Township, Precinct 1",County Sheriff,,,Write-ins,11
-Ogemaw,"Foster Township, Precinct 1",County Sheriff,,,Write-ins,14
-Ogemaw,"Goodar Township, Precinct 1",County Sheriff,,,Write-ins,8
-Ogemaw,"Hill Township, Precinct 1",County Sheriff,,,Write-ins,21
-Ogemaw,"Horton Township, Precinct 1",County Sheriff,,,Write-ins,10
-Ogemaw,"Klacking Township, Precinct 1",County Sheriff,,,Write-ins,11
-Ogemaw,"Logan Township, Precinct 1",County Sheriff,,,Write-ins,7
-Ogemaw,"Mills Township, Precinct 1",County Sheriff,,,Write-ins,13
-Ogemaw,"Mills Township, Precinct 2",County Sheriff,,,Write-ins,33
-Ogemaw,"Ogemaw Township, Precinct 1",County Sheriff,,,Write-ins,14
-Ogemaw,"Richland Township, Precinct 1",County Sheriff,,,Write-ins,10
-Ogemaw,"Rose Township, Precinct 1",County Sheriff,,,Write-ins,13
-Ogemaw,"West Branch Township, Precinct 1",County Sheriff,,,Write-ins,37
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Clerk,,REP,Breck L. Gildner,170
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Clerk,,REP,Breck L. Gildner,783
-Ogemaw,"Churchill Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,816
-Ogemaw,"Cumming Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,371
-Ogemaw,"Edwards Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,685
-Ogemaw,"Foster Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,428
-Ogemaw,"Goodar Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,205
-Ogemaw,"Hill Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,661
-Ogemaw,"Horton Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,436
-Ogemaw,"Klacking Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,328
-Ogemaw,"Logan Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,297
-Ogemaw,"Mills Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,681
-Ogemaw,"Mills Township, Precinct 2",County Clerk,,REP,Breck L. Gildner,876
-Ogemaw,"Ogemaw Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,590
-Ogemaw,"Richland Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,332
-Ogemaw,"Rose Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,616
-Ogemaw,"West Branch Township, Precinct 1",County Clerk,,REP,Breck L. Gildner,1221
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Clerk,,,Write-ins,4
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Clerk,,,Write-ins,22
-Ogemaw,"Churchill Township, Precinct 1",County Clerk,,,Write-ins,10
-Ogemaw,"Cumming Township, Precinct 1",County Clerk,,,Write-ins,7
-Ogemaw,"Edwards Township, Precinct 1",County Clerk,,,Write-ins,6
-Ogemaw,"Foster Township, Precinct 1",County Clerk,,,Write-ins,7
-Ogemaw,"Goodar Township, Precinct 1",County Clerk,,,Write-ins,5
-Ogemaw,"Hill Township, Precinct 1",County Clerk,,,Write-ins,20
-Ogemaw,"Horton Township, Precinct 1",County Clerk,,,Write-ins,10
-Ogemaw,"Klacking Township, Precinct 1",County Clerk,,,Write-ins,7
-Ogemaw,"Logan Township, Precinct 1",County Clerk,,,Write-ins,8
-Ogemaw,"Mills Township, Precinct 1",County Clerk,,,Write-ins,9
-Ogemaw,"Mills Township, Precinct 2",County Clerk,,,Write-ins,33
-Ogemaw,"Ogemaw Township, Precinct 1",County Clerk,,,Write-ins,8
-Ogemaw,"Richland Township, Precinct 1",County Clerk,,,Write-ins,8
-Ogemaw,"Rose Township, Precinct 1",County Clerk,,,Write-ins,8
-Ogemaw,"West Branch Township, Precinct 1",County Clerk,,,Write-ins,25
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Treasurer,,REP,Caren Piglowski,163
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Treasurer,,REP,Caren Piglowski,784
-Ogemaw,"Churchill Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,799
-Ogemaw,"Cumming Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,359
-Ogemaw,"Edwards Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,682
-Ogemaw,"Foster Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,420
-Ogemaw,"Goodar Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,206
-Ogemaw,"Hill Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,651
-Ogemaw,"Horton Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,436
-Ogemaw,"Klacking Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,321
-Ogemaw,"Logan Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,294
-Ogemaw,"Mills Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,668
-Ogemaw,"Mills Township, Precinct 2",County Treasurer,,REP,Caren Piglowski,874
-Ogemaw,"Ogemaw Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,572
-Ogemaw,"Richland Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,330
-Ogemaw,"Rose Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,612
-Ogemaw,"West Branch Township, Precinct 1",County Treasurer,,REP,Caren Piglowski,1220
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Treasurer,,,Write-ins,4
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Treasurer,,,Write-ins,19
-Ogemaw,"Churchill Township, Precinct 1",County Treasurer,,,Write-ins,10
-Ogemaw,"Cumming Township, Precinct 1",County Treasurer,,,Write-ins,19
-Ogemaw,"Edwards Township, Precinct 1",County Treasurer,,,Write-ins,3
-Ogemaw,"Foster Township, Precinct 1",County Treasurer,,,Write-ins,11
-Ogemaw,"Goodar Township, Precinct 1",County Treasurer,,,Write-ins,5
-Ogemaw,"Hill Township, Precinct 1",County Treasurer,,,Write-ins,18
-Ogemaw,"Horton Township, Precinct 1",County Treasurer,,,Write-ins,5
-Ogemaw,"Klacking Township, Precinct 1",County Treasurer,,,Write-ins,5
-Ogemaw,"Logan Township, Precinct 1",County Treasurer,,,Write-ins,8
-Ogemaw,"Mills Township, Precinct 1",County Treasurer,,,Write-ins,7
-Ogemaw,"Mills Township, Precinct 2",County Treasurer,,,Write-ins,31
-Ogemaw,"Ogemaw Township, Precinct 1",County Treasurer,,,Write-ins,11
-Ogemaw,"Richland Township, Precinct 1",County Treasurer,,,Write-ins,8
-Ogemaw,"Rose Township, Precinct 1",County Treasurer,,,Write-ins,9
-Ogemaw,"West Branch Township, Precinct 1",County Treasurer,,,Write-ins,21
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Register of Deeds,,REP,Denise Simmons,166
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Register of Deeds,,REP,Denise Simmons,775
-Ogemaw,"Churchill Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,804
-Ogemaw,"Cumming Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,363
-Ogemaw,"Edwards Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,686
-Ogemaw,"Foster Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,427
-Ogemaw,"Goodar Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,204
-Ogemaw,"Hill Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,660
-Ogemaw,"Horton Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,432
-Ogemaw,"Klacking Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,327
-Ogemaw,"Logan Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,306
-Ogemaw,"Mills Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,668
-Ogemaw,"Mills Township, Precinct 2",County Register of Deeds,,REP,Denise Simmons,886
-Ogemaw,"Ogemaw Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,573
-Ogemaw,"Richland Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,335
-Ogemaw,"Rose Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,614
-Ogemaw,"West Branch Township, Precinct 1",County Register of Deeds,,REP,Denise Simmons,1214
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Register of Deeds,,,Write-ins,5
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Register of Deeds,,,Write-ins,17
-Ogemaw,"Churchill Township, Precinct 1",County Register of Deeds,,,Write-ins,11
-Ogemaw,"Cumming Township, Precinct 1",County Register of Deeds,,,Write-ins,13
-Ogemaw,"Edwards Township, Precinct 1",County Register of Deeds,,,Write-ins,2
-Ogemaw,"Foster Township, Precinct 1",County Register of Deeds,,,Write-ins,9
-Ogemaw,"Goodar Township, Precinct 1",County Register of Deeds,,,Write-ins,5
-Ogemaw,"Hill Township, Precinct 1",County Register of Deeds,,,Write-ins,17
-Ogemaw,"Horton Township, Precinct 1",County Register of Deeds,,,Write-ins,8
-Ogemaw,"Klacking Township, Precinct 1",County Register of Deeds,,,Write-ins,6
-Ogemaw,"Logan Township, Precinct 1",County Register of Deeds,,,Write-ins,4
-Ogemaw,"Mills Township, Precinct 1",County Register of Deeds,,,Write-ins,6
-Ogemaw,"Mills Township, Precinct 2",County Register of Deeds,,,Write-ins,24
-Ogemaw,"Ogemaw Township, Precinct 1",County Register of Deeds,,,Write-ins,11
-Ogemaw,"Richland Township, Precinct 1",County Register of Deeds,,,Write-ins,8
-Ogemaw,"Rose Township, Precinct 1",County Register of Deeds,,,Write-ins,7
-Ogemaw,"West Branch Township, Precinct 1",County Register of Deeds,,,Write-ins,22
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,168
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,778
-Ogemaw,"Churchill Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,823
-Ogemaw,"Cumming Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,382
-Ogemaw,"Edwards Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,683
-Ogemaw,"Foster Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,417
-Ogemaw,"Goodar Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,205
-Ogemaw,"Hill Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,663
-Ogemaw,"Horton Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,433
-Ogemaw,"Klacking Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,323
-Ogemaw,"Logan Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,303
-Ogemaw,"Mills Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,667
-Ogemaw,"Mills Township, Precinct 2",County Road Commissioner,,REP,Klint J. Marshall,873
-Ogemaw,"Ogemaw Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,578
-Ogemaw,"Richland Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,336
-Ogemaw,"Rose Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,617
-Ogemaw,"West Branch Township, Precinct 1",County Road Commissioner,,REP,Klint J. Marshall,1229
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Road Commissioner,,,Write-ins,5
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Road Commissioner,,,Write-ins,15
-Ogemaw,"Churchill Township, Precinct 1",County Road Commissioner,,,Write-ins,10
-Ogemaw,"Cumming Township, Precinct 1",County Road Commissioner,,,Write-ins,8
-Ogemaw,"Edwards Township, Precinct 1",County Road Commissioner,,,Write-ins,3
-Ogemaw,"Foster Township, Precinct 1",County Road Commissioner,,,Write-ins,8
-Ogemaw,"Goodar Township, Precinct 1",County Road Commissioner,,,Write-ins,5
-Ogemaw,"Hill Township, Precinct 1",County Road Commissioner,,,Write-ins,19
-Ogemaw,"Horton Township, Precinct 1",County Road Commissioner,,,Write-ins,6
-Ogemaw,"Klacking Township, Precinct 1",County Road Commissioner,,,Write-ins,6
-Ogemaw,"Logan Township, Precinct 1",County Road Commissioner,,,Write-ins,8
-Ogemaw,"Mills Township, Precinct 1",County Road Commissioner,,,Write-ins,9
-Ogemaw,"Mills Township, Precinct 2",County Road Commissioner,,,Write-ins,29
-Ogemaw,"Ogemaw Township, Precinct 1",County Road Commissioner,,,Write-ins,11
-Ogemaw,"Richland Township, Precinct 1",County Road Commissioner,,,Write-ins,8
-Ogemaw,"Rose Township, Precinct 1",County Road Commissioner,,,Write-ins,8
-Ogemaw,"West Branch Township, Precinct 1",County Road Commissioner,,,Write-ins,20
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,112
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,612
-Ogemaw,"Churchill Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,532
-Ogemaw,"Cumming Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,234
-Ogemaw,"Edwards Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,456
-Ogemaw,"Foster Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,288
-Ogemaw,"Goodar Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,100
-Ogemaw,"Hill Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,478
-Ogemaw,"Horton Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,248
-Ogemaw,"Klacking Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,179
-Ogemaw,"Logan Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,183
-Ogemaw,"Mills Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,428
-Ogemaw,"Mills Township, Precinct 2",County Drain Commissioner,,DEM,Michael DeMatio,567
-Ogemaw,"Ogemaw Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,370
-Ogemaw,"Richland Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,237
-Ogemaw,"Rose Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,382
-Ogemaw,"West Branch Township, Precinct 1",County Drain Commissioner,,DEM,Michael DeMatio,775
-Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Drain Commissioner,,,Write-ins,8
-Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Drain Commissioner,,,Write-ins,36
-Ogemaw,"Churchill Township, Precinct 1",County Drain Commissioner,,,Write-ins,39
-Ogemaw,"Cumming Township, Precinct 1",County Drain Commissioner,,,Write-ins,37
-Ogemaw,"Edwards Township, Precinct 1",County Drain Commissioner,,,Write-ins,37
-Ogemaw,"Foster Township, Precinct 1",County Drain Commissioner,,,Write-ins,18
-Ogemaw,"Goodar Township, Precinct 1",County Drain Commissioner,,,Write-ins,14
-Ogemaw,"Hill Township, Precinct 1",County Drain Commissioner,,,Write-ins,37
-Ogemaw,"Horton Township, Precinct 1",County Drain Commissioner,,,Write-ins,40
-Ogemaw,"Klacking Township, Precinct 1",County Drain Commissioner,,,Write-ins,15
-Ogemaw,"Logan Township, Precinct 1",County Drain Commissioner,,,Write-ins,28
-Ogemaw,"Mills Township, Precinct 1",County Drain Commissioner,,,Write-ins,46
-Ogemaw,"Mills Township, Precinct 2",County Drain Commissioner,,,Write-ins,118
-Ogemaw,"Ogemaw Township, Precinct 1",County Drain Commissioner,,,Write-ins,35
-Ogemaw,"Richland Township, Precinct 1",County Drain Commissioner,,,Write-ins,23
-Ogemaw,"Rose Township, Precinct 1",County Drain Commissioner,,,Write-ins,30
-Ogemaw,"West Branch Township, Precinct 1",County Drain Commissioner,,,Write-ins,83
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Democratic,DEM,37
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Democratic,DEM,199
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Democratic,DEM,150
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Democratic,DEM,51
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Democratic,DEM,106
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Democratic,DEM,93
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Democratic,DEM,30
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Democratic,DEM,183
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Democratic,DEM,52
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Democratic,DEM,33
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Democratic,DEM,38
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Democratic,DEM,138
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Democratic,DEM,200
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Democratic,DEM,91
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Democratic,DEM,72
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Democratic,DEM,112
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Democratic,DEM,171
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Republican,REP,90
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Republican,REP,370
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Republican,REP,402
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Republican,REP,163
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Republican,REP,334
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Republican,REP,212
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Republican,REP,124
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Republican,REP,328
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Republican,REP,238
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Republican,REP,166
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Republican,REP,138
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Republican,REP,381
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Republican,REP,507
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Republican,REP,291
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Republican,REP,163
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Republican,REP,331
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Republican,REP,589
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Libertarian,LIB,5
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Libertarian,LIB,0
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Libertarian,LIB,2
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Libertarian,LIB,1
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Libertarian,LIB,2
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Libertarian,LIB,5
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,U.S. Taxpayers,UST,5
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Green,GRN,3
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Green,GRN,0
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Green,GRN,1
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Green,GRN,0
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Green,GRN,3
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Working Class,WCP,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Working Class,WCP,9
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Working Class,WCP,7
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Working Class,WCP,8
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Working Class,WCP,3
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Working Class,WCP,3
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Working Class,WCP,3
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Working Class,WCP,3
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Working Class,WCP,3
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Working Class,WCP,4
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Working Class,WCP,19
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Working Class,WCP,2
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Working Class,WCP,1
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Working Class,WCP,5
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Working Class,WCP,7
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",Straight Party,,Natural Law,NLP,2
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Churchill Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Cumming Township, Precinct 1",Straight Party,,Natural Law,NLP,2
+Ogemaw,"Edwards Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Foster Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Goodar Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Hill Township, Precinct 1",Straight Party,,Natural Law,NLP,1
+Ogemaw,"Horton Township, Precinct 1",Straight Party,,Natural Law,NLP,1
+Ogemaw,"Klacking Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Logan Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Mills Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Mills Township, Precinct 2",Straight Party,,Natural Law,NLP,4
+Ogemaw,"Ogemaw Township, Precinct 1",Straight Party,,Natural Law,NLP,1
+Ogemaw,"Richland Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"Rose Township, Precinct 1",Straight Party,,Natural Law,NLP,0
+Ogemaw,"West Branch Township, Precinct 1",Straight Party,,Natural Law,NLP,1
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Kamala D. Harris,DEM,63
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Kamala D. Harris,DEM,401
+Ogemaw,"Churchill Township, Precinct 1",President,,Kamala D. Harris,DEM,304
+Ogemaw,"Cumming Township, Precinct 1",President,,Kamala D. Harris,DEM,137
+Ogemaw,"Edwards Township, Precinct 1",President,,Kamala D. Harris,DEM,251
+Ogemaw,"Foster Township, Precinct 1",President,,Kamala D. Harris,DEM,166
+Ogemaw,"Goodar Township, Precinct 1",President,,Kamala D. Harris,DEM,59
+Ogemaw,"Hill Township, Precinct 1",President,,Kamala D. Harris,DEM,330
+Ogemaw,"Horton Township, Precinct 1",President,,Kamala D. Harris,DEM,112
+Ogemaw,"Klacking Township, Precinct 1",President,,Kamala D. Harris,DEM,97
+Ogemaw,"Logan Township, Precinct 1",President,,Kamala D. Harris,DEM,104
+Ogemaw,"Mills Township, Precinct 1",President,,Kamala D. Harris,DEM,245
+Ogemaw,"Mills Township, Precinct 2",President,,Kamala D. Harris,DEM,331
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Kamala D. Harris,DEM,220
+Ogemaw,"Richland Township, Precinct 1",President,,Kamala D. Harris,DEM,136
+Ogemaw,"Rose Township, Precinct 1",President,,Kamala D. Harris,DEM,235
+Ogemaw,"West Branch Township, Precinct 1",President,,Kamala D. Harris,DEM,387
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Donald J. Trump,REP,165
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Donald J. Trump,REP,677
+Ogemaw,"Churchill Township, Precinct 1",President,,Donald J. Trump,REP,753
+Ogemaw,"Cumming Township, Precinct 1",President,,Donald J. Trump,REP,346
+Ogemaw,"Edwards Township, Precinct 1",President,,Donald J. Trump,REP,639
+Ogemaw,"Foster Township, Precinct 1",President,,Donald J. Trump,REP,408
+Ogemaw,"Goodar Township, Precinct 1",President,,Donald J. Trump,REP,192
+Ogemaw,"Hill Township, Precinct 1",President,,Donald J. Trump,REP,612
+Ogemaw,"Horton Township, Precinct 1",President,,Donald J. Trump,REP,427
+Ogemaw,"Klacking Township, Precinct 1",President,,Donald J. Trump,REP,301
+Ogemaw,"Logan Township, Precinct 1",President,,Donald J. Trump,REP,271
+Ogemaw,"Mills Township, Precinct 1",President,,Donald J. Trump,REP,645
+Ogemaw,"Mills Township, Precinct 2",President,,Donald J. Trump,REP,812
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Donald J. Trump,REP,551
+Ogemaw,"Richland Township, Precinct 1",President,,Donald J. Trump,REP,321
+Ogemaw,"Rose Township, Precinct 1",President,,Donald J. Trump,REP,580
+Ogemaw,"West Branch Township, Precinct 1",President,,Donald J. Trump,REP,1179
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Chase Oliver,LIB,2
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Chase Oliver,LIB,8
+Ogemaw,"Churchill Township, Precinct 1",President,,Chase Oliver,LIB,4
+Ogemaw,"Cumming Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"Edwards Township, Precinct 1",President,,Chase Oliver,LIB,2
+Ogemaw,"Foster Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"Goodar Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"Hill Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"Horton Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"Klacking Township, Precinct 1",President,,Chase Oliver,LIB,0
+Ogemaw,"Logan Township, Precinct 1",President,,Chase Oliver,LIB,5
+Ogemaw,"Mills Township, Precinct 1",President,,Chase Oliver,LIB,3
+Ogemaw,"Mills Township, Precinct 2",President,,Chase Oliver,LIB,3
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Chase Oliver,LIB,5
+Ogemaw,"Richland Township, Precinct 1",President,,Chase Oliver,LIB,3
+Ogemaw,"Rose Township, Precinct 1",President,,Chase Oliver,LIB,1
+Ogemaw,"West Branch Township, Precinct 1",President,,Chase Oliver,LIB,3
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Churchill Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Foster Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Randall Terry,UST,2
+Ogemaw,"Hill Township, Precinct 1",President,,Randall Terry,UST,4
+Ogemaw,"Horton Township, Precinct 1",President,,Randall Terry,UST,2
+Ogemaw,"Klacking Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Logan Township, Precinct 1",President,,Randall Terry,UST,1
+Ogemaw,"Mills Township, Precinct 1",President,,Randall Terry,UST,1
+Ogemaw,"Mills Township, Precinct 2",President,,Randall Terry,UST,2
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Randall Terry,UST,2
+Ogemaw,"Richland Township, Precinct 1",President,,Randall Terry,UST,0
+Ogemaw,"Rose Township, Precinct 1",President,,Randall Terry,UST,3
+Ogemaw,"West Branch Township, Precinct 1",President,,Randall Terry,UST,5
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Jill Stein,GRN,4
+Ogemaw,"Churchill Township, Precinct 1",President,,Jill Stein,GRN,1
+Ogemaw,"Cumming Township, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Jill Stein,GRN,2
+Ogemaw,"Foster Township, Precinct 1",President,,Jill Stein,GRN,3
+Ogemaw,"Goodar Township, Precinct 1",President,,Jill Stein,GRN,2
+Ogemaw,"Hill Township, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"Horton Township, Precinct 1",President,,Jill Stein,GRN,1
+Ogemaw,"Klacking Township, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"Logan Township, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"Mills Township, Precinct 1",President,,Jill Stein,GRN,2
+Ogemaw,"Mills Township, Precinct 2",President,,Jill Stein,GRN,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Jill Stein,GRN,3
+Ogemaw,"Richland Township, Precinct 1",President,,Jill Stein,GRN,0
+Ogemaw,"Rose Township, Precinct 1",President,,Jill Stein,GRN,5
+Ogemaw,"West Branch Township, Precinct 1",President,,Jill Stein,GRN,5
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Robert F. Kennedy,NLP,2
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Robert F. Kennedy,NLP,7
+Ogemaw,"Churchill Township, Precinct 1",President,,Robert F. Kennedy,NLP,6
+Ogemaw,"Cumming Township, Precinct 1",President,,Robert F. Kennedy,NLP,2
+Ogemaw,"Edwards Township, Precinct 1",President,,Robert F. Kennedy,NLP,2
+Ogemaw,"Foster Township, Precinct 1",President,,Robert F. Kennedy,NLP,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Robert F. Kennedy,NLP,0
+Ogemaw,"Hill Township, Precinct 1",President,,Robert F. Kennedy,NLP,2
+Ogemaw,"Horton Township, Precinct 1",President,,Robert F. Kennedy,NLP,4
+Ogemaw,"Klacking Township, Precinct 1",President,,Robert F. Kennedy,NLP,3
+Ogemaw,"Logan Township, Precinct 1",President,,Robert F. Kennedy,NLP,0
+Ogemaw,"Mills Township, Precinct 1",President,,Robert F. Kennedy,NLP,7
+Ogemaw,"Mills Township, Precinct 2",President,,Robert F. Kennedy,NLP,5
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Robert F. Kennedy,NLP,5
+Ogemaw,"Richland Township, Precinct 1",President,,Robert F. Kennedy,NLP,2
+Ogemaw,"Rose Township, Precinct 1",President,,Robert F. Kennedy,NLP,4
+Ogemaw,"West Branch Township, Precinct 1",President,,Robert F. Kennedy,NLP,9
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"Churchill Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"Horton Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"Logan Township, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"Mills Township, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"Mills Township, Precinct 2",President,,Joseph Kishore,,2
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Joseph Kishore,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Joseph Kishore,,1
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Cornel West,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Cornel West,,1
+Ogemaw,"Churchill Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Horton Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Logan Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Mills Township, Precinct 2",President,,Cornel West,,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Cornel West,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Churchill Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Horton Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Logan Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Mills Township, Precinct 2",President,,Jay J. Brown,,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Jay J. Brown,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Churchill Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Horton Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Logan Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Mills Township, Precinct 2",President,,Claudia De la Cruz,,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Claudia De la Cruz,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Churchill Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Horton Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Logan Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Mills Township, Precinct 2",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Cherunda Lynn Fox,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Churchill Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Cumming Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Foster Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Horton Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Logan Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Mills Township, Precinct 2",President,,Peter Sonski,,0
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Richland Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"Rose Township, Precinct 1",President,,Peter Sonski,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Peter Sonski,,2
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",President,,Write-ins,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",President,,Write-ins,,3
+Ogemaw,"Churchill Township, Precinct 1",President,,Write-ins,,3
+Ogemaw,"Cumming Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"Edwards Township, Precinct 1",President,,Write-ins,,3
+Ogemaw,"Foster Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"Goodar Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"Hill Township, Precinct 1",President,,Write-ins,,1
+Ogemaw,"Horton Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"Klacking Township, Precinct 1",President,,Write-ins,,1
+Ogemaw,"Logan Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"Mills Township, Precinct 1",President,,Write-ins,,2
+Ogemaw,"Mills Township, Precinct 2",President,,Write-ins,,2
+Ogemaw,"Ogemaw Township, Precinct 1",President,,Write-ins,,2
+Ogemaw,"Richland Township, Precinct 1",President,,Write-ins,,1
+Ogemaw,"Rose Township, Precinct 1",President,,Write-ins,,0
+Ogemaw,"West Branch Township, Precinct 1",President,,Write-ins,,2
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,64
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,398
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,303
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,143
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,258
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,170
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,61
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,346
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,117
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,104
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,112
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,251
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Elissa Slotkin,DEM,332
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,223
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,144
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,246
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,412
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Mike Rogers,REP,154
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Mike Rogers,REP,622
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,715
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,321
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,605
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,375
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,184
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,565
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,401
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,281
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,253
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,623
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Mike Rogers,REP,754
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,530
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,292
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,543
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,1094
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,12
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,7
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,2
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,7
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,1
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Joseph Solis-Mullen,LIB,7
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,8
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,4
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,11
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Dave Stein,UST,3
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Dave Stein,UST,14
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Dave Stein,UST,10
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Dave Stein,UST,2
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Dave Stein,UST,10
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Dave Stein,UST,4
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Dave Stein,UST,2
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Dave Stein,UST,7
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Dave Stein,UST,4
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Dave Stein,UST,5
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Dave Stein,UST,4
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Dave Stein,UST,10
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Dave Stein,UST,14
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Dave Stein,UST,5
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Dave Stein,UST,2
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Dave Stein,UST,5
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Dave Stein,UST,16
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,14
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,0
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,6
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,3
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,1
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,1
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Douglas P. Marsh,GRN,5
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,4
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,1
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,5
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,9
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,0
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,0
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Doug Dern,NLP,10
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,1
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Write-ins,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Write-ins,,2
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Write-ins,,5
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Write-ins,,3
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Write-ins,,2
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Write-ins,,2
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Write-ins,,3
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Write-ins,,4
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Write-ins,,0
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Write-ins,,1
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Write-ins,,3
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Marcus A. Irvine,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Churchill Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Cumming Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Edwards Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Foster Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Goodar Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Hill Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Horton Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Klacking Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Logan Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Mills Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Mills Township, Precinct 2",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Richland Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"Rose Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"West Branch Township, Precinct 1",U.S. Senate,,Valerie Lee Willis,,0
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,Callie Barr,DEM,60
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,Callie Barr,DEM,357
+Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,Callie Barr,DEM,275
+Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,Callie Barr,DEM,128
+Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,Callie Barr,DEM,226
+Ogemaw,"Foster Township, Precinct 1",U.S. House,1,Callie Barr,DEM,163
+Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,Callie Barr,DEM,56
+Ogemaw,"Hill Township, Precinct 1",U.S. House,1,Callie Barr,DEM,301
+Ogemaw,"Horton Township, Precinct 1",U.S. House,1,Callie Barr,DEM,112
+Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,Callie Barr,DEM,85
+Ogemaw,"Logan Township, Precinct 1",U.S. House,1,Callie Barr,DEM,93
+Ogemaw,"Mills Township, Precinct 1",U.S. House,1,Callie Barr,DEM,234
+Ogemaw,"Mills Township, Precinct 2",U.S. House,1,Callie Barr,DEM,299
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,Callie Barr,DEM,202
+Ogemaw,"Richland Township, Precinct 1",U.S. House,1,Callie Barr,DEM,134
+Ogemaw,"Rose Township, Precinct 1",U.S. House,1,Callie Barr,DEM,203
+Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,Callie Barr,DEM,353
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,Jack Bergman,REP,153
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,Jack Bergman,REP,628
+Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,Jack Bergman,REP,714
+Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,Jack Bergman,REP,321
+Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,Jack Bergman,REP,602
+Ogemaw,"Foster Township, Precinct 1",U.S. House,1,Jack Bergman,REP,383
+Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,Jack Bergman,REP,184
+Ogemaw,"Hill Township, Precinct 1",U.S. House,1,Jack Bergman,REP,575
+Ogemaw,"Horton Township, Precinct 1",U.S. House,1,Jack Bergman,REP,397
+Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,Jack Bergman,REP,291
+Ogemaw,"Logan Township, Precinct 1",U.S. House,1,Jack Bergman,REP,263
+Ogemaw,"Mills Township, Precinct 1",U.S. House,1,Jack Bergman,REP,617
+Ogemaw,"Mills Township, Precinct 2",U.S. House,1,Jack Bergman,REP,746
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,Jack Bergman,REP,515
+Ogemaw,"Richland Township, Precinct 1",U.S. House,1,Jack Bergman,REP,291
+Ogemaw,"Rose Township, Precinct 1",U.S. House,1,Jack Bergman,REP,547
+Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,Jack Bergman,REP,1082
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,Andrew Gale,LIB,4
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,Andrew Gale,LIB,16
+Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,12
+Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,6
+Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,14
+Ogemaw,"Foster Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,5
+Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,3
+Ogemaw,"Hill Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,14
+Ogemaw,"Horton Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,3
+Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,6
+Ogemaw,"Logan Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,7
+Ogemaw,"Mills Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,5
+Ogemaw,"Mills Township, Precinct 2",U.S. House,1,Andrew Gale,LIB,13
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,5
+Ogemaw,"Richland Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,2
+Ogemaw,"Rose Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,11
+Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,Andrew Gale,LIB,19
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,Liz Hakola,WCP,5
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,Liz Hakola,WCP,41
+Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,21
+Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,8
+Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,15
+Ogemaw,"Foster Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,10
+Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,11
+Ogemaw,"Hill Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,22
+Ogemaw,"Horton Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,10
+Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,13
+Ogemaw,"Logan Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,8
+Ogemaw,"Mills Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,15
+Ogemaw,"Mills Township, Precinct 2",U.S. House,1,Liz Hakola,WCP,52
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,20
+Ogemaw,"Richland Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,16
+Ogemaw,"Rose Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,21
+Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,Liz Hakola,WCP,40
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",U.S. House,1,Write-ins,,0
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",U.S. House,1,Write-ins,,2
+Ogemaw,"Churchill Township, Precinct 1",U.S. House,1,Write-ins,,4
+Ogemaw,"Cumming Township, Precinct 1",U.S. House,1,Write-ins,,1
+Ogemaw,"Edwards Township, Precinct 1",U.S. House,1,Write-ins,,2
+Ogemaw,"Foster Township, Precinct 1",U.S. House,1,Write-ins,,3
+Ogemaw,"Goodar Township, Precinct 1",U.S. House,1,Write-ins,,0
+Ogemaw,"Hill Township, Precinct 1",U.S. House,1,Write-ins,,1
+Ogemaw,"Horton Township, Precinct 1",U.S. House,1,Write-ins,,3
+Ogemaw,"Klacking Township, Precinct 1",U.S. House,1,Write-ins,,1
+Ogemaw,"Logan Township, Precinct 1",U.S. House,1,Write-ins,,0
+Ogemaw,"Mills Township, Precinct 1",U.S. House,1,Write-ins,,3
+Ogemaw,"Mills Township, Precinct 2",U.S. House,1,Write-ins,,2
+Ogemaw,"Ogemaw Township, Precinct 1",U.S. House,1,Write-ins,,0
+Ogemaw,"Richland Township, Precinct 1",U.S. House,1,Write-ins,,1
+Ogemaw,"Rose Township, Precinct 1",U.S. House,1,Write-ins,,1
+Ogemaw,"West Branch Township, Precinct 1",U.S. House,1,Write-ins,,5
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,Jon LeRoux,DEM,58
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,Jon LeRoux,DEM,381
+Ogemaw,"Churchill Township, Precinct 1",State House,99,Jon LeRoux,DEM,270
+Ogemaw,"Cumming Township, Precinct 1",State House,99,Jon LeRoux,DEM,121
+Ogemaw,"Edwards Township, Precinct 1",State House,99,Jon LeRoux,DEM,231
+Ogemaw,"Foster Township, Precinct 1",State House,99,Jon LeRoux,DEM,159
+Ogemaw,"Goodar Township, Precinct 1",State House,99,Jon LeRoux,DEM,59
+Ogemaw,"Hill Township, Precinct 1",State House,99,Jon LeRoux,DEM,307
+Ogemaw,"Horton Township, Precinct 1",State House,99,Jon LeRoux,DEM,108
+Ogemaw,"Klacking Township, Precinct 1",State House,99,Jon LeRoux,DEM,84
+Ogemaw,"Logan Township, Precinct 1",State House,99,Jon LeRoux,DEM,90
+Ogemaw,"Mills Township, Precinct 1",State House,99,Jon LeRoux,DEM,239
+Ogemaw,"Mills Township, Precinct 2",State House,99,Jon LeRoux,DEM,302
+Ogemaw,"Ogemaw Township, Precinct 1",State House,99,Jon LeRoux,DEM,181
+Ogemaw,"Richland Township, Precinct 1",State House,99,Jon LeRoux,DEM,122
+Ogemaw,"Rose Township, Precinct 1",State House,99,Jon LeRoux,DEM,212
+Ogemaw,"West Branch Township, Precinct 1",State House,99,Jon LeRoux,DEM,343
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,Mike Hoadley,REP,159
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,Mike Hoadley,REP,662
+Ogemaw,"Churchill Township, Precinct 1",State House,99,Mike Hoadley,REP,733
+Ogemaw,"Cumming Township, Precinct 1",State House,99,Mike Hoadley,REP,331
+Ogemaw,"Edwards Township, Precinct 1",State House,99,Mike Hoadley,REP,623
+Ogemaw,"Foster Township, Precinct 1",State House,99,Mike Hoadley,REP,393
+Ogemaw,"Goodar Township, Precinct 1",State House,99,Mike Hoadley,REP,195
+Ogemaw,"Hill Township, Precinct 1",State House,99,Mike Hoadley,REP,591
+Ogemaw,"Horton Township, Precinct 1",State House,99,Mike Hoadley,REP,404
+Ogemaw,"Klacking Township, Precinct 1",State House,99,Mike Hoadley,REP,302
+Ogemaw,"Logan Township, Precinct 1",State House,99,Mike Hoadley,REP,275
+Ogemaw,"Mills Township, Precinct 1",State House,99,Mike Hoadley,REP,630
+Ogemaw,"Mills Township, Precinct 2",State House,99,Mike Hoadley,REP,785
+Ogemaw,"Ogemaw Township, Precinct 1",State House,99,Mike Hoadley,REP,546
+Ogemaw,"Richland Township, Precinct 1",State House,99,Mike Hoadley,REP,314
+Ogemaw,"Rose Township, Precinct 1",State House,99,Mike Hoadley,REP,559
+Ogemaw,"West Branch Township, Precinct 1",State House,99,Mike Hoadley,REP,1123
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",State House,99,Write-ins,,1
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",State House,99,Write-ins,,3
+Ogemaw,"Churchill Township, Precinct 1",State House,99,Write-ins,,5
+Ogemaw,"Cumming Township, Precinct 1",State House,99,Write-ins,,5
+Ogemaw,"Edwards Township, Precinct 1",State House,99,Write-ins,,3
+Ogemaw,"Foster Township, Precinct 1",State House,99,Write-ins,,4
+Ogemaw,"Goodar Township, Precinct 1",State House,99,Write-ins,,0
+Ogemaw,"Hill Township, Precinct 1",State House,99,Write-ins,,2
+Ogemaw,"Horton Township, Precinct 1",State House,99,Write-ins,,5
+Ogemaw,"Klacking Township, Precinct 1",State House,99,Write-ins,,0
+Ogemaw,"Logan Township, Precinct 1",State House,99,Write-ins,,4
+Ogemaw,"Mills Township, Precinct 1",State House,99,Write-ins,,2
+Ogemaw,"Mills Township, Precinct 2",State House,99,Write-ins,,11
+Ogemaw,"Ogemaw Township, Precinct 1",State House,99,Write-ins,,3
+Ogemaw,"Richland Township, Precinct 1",State House,99,Write-ins,,3
+Ogemaw,"Rose Township, Precinct 1",State House,99,Write-ins,,4
+Ogemaw,"West Branch Township, Precinct 1",State House,99,Write-ins,,13
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,114
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,613
+Ogemaw,"Churchill Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,534
+Ogemaw,"Cumming Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,240
+Ogemaw,"Edwards Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,430
+Ogemaw,"Foster Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,274
+Ogemaw,"Goodar Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,99
+Ogemaw,"Hill Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,491
+Ogemaw,"Horton Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,241
+Ogemaw,"Klacking Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,178
+Ogemaw,"Logan Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,176
+Ogemaw,"Mills Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,422
+Ogemaw,"Mills Township, Precinct 2",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,582
+Ogemaw,"Ogemaw Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,370
+Ogemaw,"Richland Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,245
+Ogemaw,"Rose Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,383
+Ogemaw,"West Branch Township, Precinct 1",County Prosecuting Attorney,,LaDonna A. Schultz,DEM,760
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Prosecuting Attorney,,Write-ins,,10
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Prosecuting Attorney,,Write-ins,,47
+Ogemaw,"Churchill Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,40
+Ogemaw,"Cumming Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,33
+Ogemaw,"Edwards Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,46
+Ogemaw,"Foster Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,29
+Ogemaw,"Goodar Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,17
+Ogemaw,"Hill Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,36
+Ogemaw,"Horton Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,41
+Ogemaw,"Klacking Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,19
+Ogemaw,"Logan Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,31
+Ogemaw,"Mills Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,51
+Ogemaw,"Mills Township, Precinct 2",County Prosecuting Attorney,,Write-ins,,123
+Ogemaw,"Ogemaw Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,35
+Ogemaw,"Richland Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,24
+Ogemaw,"Rose Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,39
+Ogemaw,"West Branch Township, Precinct 1",County Prosecuting Attorney,,Write-ins,,100
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,172
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,782
+Ogemaw,"Churchill Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,829
+Ogemaw,"Cumming Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,377
+Ogemaw,"Edwards Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,652
+Ogemaw,"Foster Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,418
+Ogemaw,"Goodar Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,204
+Ogemaw,"Hill Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,671
+Ogemaw,"Horton Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,434
+Ogemaw,"Klacking Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,313
+Ogemaw,"Logan Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,301
+Ogemaw,"Mills Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,689
+Ogemaw,"Mills Township, Precinct 2",County Sheriff,,Brian D. Gilbert,REP,899
+Ogemaw,"Ogemaw Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,567
+Ogemaw,"Richland Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,345
+Ogemaw,"Rose Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,625
+Ogemaw,"West Branch Township, Precinct 1",County Sheriff,,Brian D. Gilbert,REP,1186
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Sheriff,,Write-ins,,4
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Sheriff,,Write-ins,,32
+Ogemaw,"Churchill Township, Precinct 1",County Sheriff,,Write-ins,,13
+Ogemaw,"Cumming Township, Precinct 1",County Sheriff,,Write-ins,,10
+Ogemaw,"Edwards Township, Precinct 1",County Sheriff,,Write-ins,,11
+Ogemaw,"Foster Township, Precinct 1",County Sheriff,,Write-ins,,14
+Ogemaw,"Goodar Township, Precinct 1",County Sheriff,,Write-ins,,8
+Ogemaw,"Hill Township, Precinct 1",County Sheriff,,Write-ins,,21
+Ogemaw,"Horton Township, Precinct 1",County Sheriff,,Write-ins,,10
+Ogemaw,"Klacking Township, Precinct 1",County Sheriff,,Write-ins,,11
+Ogemaw,"Logan Township, Precinct 1",County Sheriff,,Write-ins,,7
+Ogemaw,"Mills Township, Precinct 1",County Sheriff,,Write-ins,,13
+Ogemaw,"Mills Township, Precinct 2",County Sheriff,,Write-ins,,33
+Ogemaw,"Ogemaw Township, Precinct 1",County Sheriff,,Write-ins,,14
+Ogemaw,"Richland Township, Precinct 1",County Sheriff,,Write-ins,,10
+Ogemaw,"Rose Township, Precinct 1",County Sheriff,,Write-ins,,13
+Ogemaw,"West Branch Township, Precinct 1",County Sheriff,,Write-ins,,37
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Clerk,,Breck L. Gildner,REP,170
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Clerk,,Breck L. Gildner,REP,783
+Ogemaw,"Churchill Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,816
+Ogemaw,"Cumming Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,371
+Ogemaw,"Edwards Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,685
+Ogemaw,"Foster Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,428
+Ogemaw,"Goodar Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,205
+Ogemaw,"Hill Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,661
+Ogemaw,"Horton Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,436
+Ogemaw,"Klacking Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,328
+Ogemaw,"Logan Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,297
+Ogemaw,"Mills Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,681
+Ogemaw,"Mills Township, Precinct 2",County Clerk,,Breck L. Gildner,REP,876
+Ogemaw,"Ogemaw Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,590
+Ogemaw,"Richland Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,332
+Ogemaw,"Rose Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,616
+Ogemaw,"West Branch Township, Precinct 1",County Clerk,,Breck L. Gildner,REP,1221
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Clerk,,Write-ins,,4
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Clerk,,Write-ins,,22
+Ogemaw,"Churchill Township, Precinct 1",County Clerk,,Write-ins,,10
+Ogemaw,"Cumming Township, Precinct 1",County Clerk,,Write-ins,,7
+Ogemaw,"Edwards Township, Precinct 1",County Clerk,,Write-ins,,6
+Ogemaw,"Foster Township, Precinct 1",County Clerk,,Write-ins,,7
+Ogemaw,"Goodar Township, Precinct 1",County Clerk,,Write-ins,,5
+Ogemaw,"Hill Township, Precinct 1",County Clerk,,Write-ins,,20
+Ogemaw,"Horton Township, Precinct 1",County Clerk,,Write-ins,,10
+Ogemaw,"Klacking Township, Precinct 1",County Clerk,,Write-ins,,7
+Ogemaw,"Logan Township, Precinct 1",County Clerk,,Write-ins,,8
+Ogemaw,"Mills Township, Precinct 1",County Clerk,,Write-ins,,9
+Ogemaw,"Mills Township, Precinct 2",County Clerk,,Write-ins,,33
+Ogemaw,"Ogemaw Township, Precinct 1",County Clerk,,Write-ins,,8
+Ogemaw,"Richland Township, Precinct 1",County Clerk,,Write-ins,,8
+Ogemaw,"Rose Township, Precinct 1",County Clerk,,Write-ins,,8
+Ogemaw,"West Branch Township, Precinct 1",County Clerk,,Write-ins,,25
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Treasurer,,Caren Piglowski,REP,163
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Treasurer,,Caren Piglowski,REP,784
+Ogemaw,"Churchill Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,799
+Ogemaw,"Cumming Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,359
+Ogemaw,"Edwards Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,682
+Ogemaw,"Foster Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,420
+Ogemaw,"Goodar Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,206
+Ogemaw,"Hill Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,651
+Ogemaw,"Horton Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,436
+Ogemaw,"Klacking Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,321
+Ogemaw,"Logan Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,294
+Ogemaw,"Mills Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,668
+Ogemaw,"Mills Township, Precinct 2",County Treasurer,,Caren Piglowski,REP,874
+Ogemaw,"Ogemaw Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,572
+Ogemaw,"Richland Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,330
+Ogemaw,"Rose Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,612
+Ogemaw,"West Branch Township, Precinct 1",County Treasurer,,Caren Piglowski,REP,1220
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Treasurer,,Write-ins,,4
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Treasurer,,Write-ins,,19
+Ogemaw,"Churchill Township, Precinct 1",County Treasurer,,Write-ins,,10
+Ogemaw,"Cumming Township, Precinct 1",County Treasurer,,Write-ins,,19
+Ogemaw,"Edwards Township, Precinct 1",County Treasurer,,Write-ins,,3
+Ogemaw,"Foster Township, Precinct 1",County Treasurer,,Write-ins,,11
+Ogemaw,"Goodar Township, Precinct 1",County Treasurer,,Write-ins,,5
+Ogemaw,"Hill Township, Precinct 1",County Treasurer,,Write-ins,,18
+Ogemaw,"Horton Township, Precinct 1",County Treasurer,,Write-ins,,5
+Ogemaw,"Klacking Township, Precinct 1",County Treasurer,,Write-ins,,5
+Ogemaw,"Logan Township, Precinct 1",County Treasurer,,Write-ins,,8
+Ogemaw,"Mills Township, Precinct 1",County Treasurer,,Write-ins,,7
+Ogemaw,"Mills Township, Precinct 2",County Treasurer,,Write-ins,,31
+Ogemaw,"Ogemaw Township, Precinct 1",County Treasurer,,Write-ins,,11
+Ogemaw,"Richland Township, Precinct 1",County Treasurer,,Write-ins,,8
+Ogemaw,"Rose Township, Precinct 1",County Treasurer,,Write-ins,,9
+Ogemaw,"West Branch Township, Precinct 1",County Treasurer,,Write-ins,,21
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Register of Deeds,,Denise Simmons,REP,166
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Register of Deeds,,Denise Simmons,REP,775
+Ogemaw,"Churchill Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,804
+Ogemaw,"Cumming Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,363
+Ogemaw,"Edwards Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,686
+Ogemaw,"Foster Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,427
+Ogemaw,"Goodar Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,204
+Ogemaw,"Hill Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,660
+Ogemaw,"Horton Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,432
+Ogemaw,"Klacking Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,327
+Ogemaw,"Logan Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,306
+Ogemaw,"Mills Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,668
+Ogemaw,"Mills Township, Precinct 2",County Register of Deeds,,Denise Simmons,REP,886
+Ogemaw,"Ogemaw Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,573
+Ogemaw,"Richland Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,335
+Ogemaw,"Rose Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,614
+Ogemaw,"West Branch Township, Precinct 1",County Register of Deeds,,Denise Simmons,REP,1214
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Register of Deeds,,Write-ins,,5
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Register of Deeds,,Write-ins,,17
+Ogemaw,"Churchill Township, Precinct 1",County Register of Deeds,,Write-ins,,11
+Ogemaw,"Cumming Township, Precinct 1",County Register of Deeds,,Write-ins,,13
+Ogemaw,"Edwards Township, Precinct 1",County Register of Deeds,,Write-ins,,2
+Ogemaw,"Foster Township, Precinct 1",County Register of Deeds,,Write-ins,,9
+Ogemaw,"Goodar Township, Precinct 1",County Register of Deeds,,Write-ins,,5
+Ogemaw,"Hill Township, Precinct 1",County Register of Deeds,,Write-ins,,17
+Ogemaw,"Horton Township, Precinct 1",County Register of Deeds,,Write-ins,,8
+Ogemaw,"Klacking Township, Precinct 1",County Register of Deeds,,Write-ins,,6
+Ogemaw,"Logan Township, Precinct 1",County Register of Deeds,,Write-ins,,4
+Ogemaw,"Mills Township, Precinct 1",County Register of Deeds,,Write-ins,,6
+Ogemaw,"Mills Township, Precinct 2",County Register of Deeds,,Write-ins,,24
+Ogemaw,"Ogemaw Township, Precinct 1",County Register of Deeds,,Write-ins,,11
+Ogemaw,"Richland Township, Precinct 1",County Register of Deeds,,Write-ins,,8
+Ogemaw,"Rose Township, Precinct 1",County Register of Deeds,,Write-ins,,7
+Ogemaw,"West Branch Township, Precinct 1",County Register of Deeds,,Write-ins,,22
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,168
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,778
+Ogemaw,"Churchill Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,823
+Ogemaw,"Cumming Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,382
+Ogemaw,"Edwards Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,683
+Ogemaw,"Foster Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,417
+Ogemaw,"Goodar Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,205
+Ogemaw,"Hill Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,663
+Ogemaw,"Horton Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,433
+Ogemaw,"Klacking Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,323
+Ogemaw,"Logan Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,303
+Ogemaw,"Mills Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,667
+Ogemaw,"Mills Township, Precinct 2",County Road Commissioner,,Klint J. Marshall,REP,873
+Ogemaw,"Ogemaw Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,578
+Ogemaw,"Richland Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,336
+Ogemaw,"Rose Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,617
+Ogemaw,"West Branch Township, Precinct 1",County Road Commissioner,,Klint J. Marshall,REP,1229
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Road Commissioner,,Write-ins,,5
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Road Commissioner,,Write-ins,,15
+Ogemaw,"Churchill Township, Precinct 1",County Road Commissioner,,Write-ins,,10
+Ogemaw,"Cumming Township, Precinct 1",County Road Commissioner,,Write-ins,,8
+Ogemaw,"Edwards Township, Precinct 1",County Road Commissioner,,Write-ins,,3
+Ogemaw,"Foster Township, Precinct 1",County Road Commissioner,,Write-ins,,8
+Ogemaw,"Goodar Township, Precinct 1",County Road Commissioner,,Write-ins,,5
+Ogemaw,"Hill Township, Precinct 1",County Road Commissioner,,Write-ins,,19
+Ogemaw,"Horton Township, Precinct 1",County Road Commissioner,,Write-ins,,6
+Ogemaw,"Klacking Township, Precinct 1",County Road Commissioner,,Write-ins,,6
+Ogemaw,"Logan Township, Precinct 1",County Road Commissioner,,Write-ins,,8
+Ogemaw,"Mills Township, Precinct 1",County Road Commissioner,,Write-ins,,9
+Ogemaw,"Mills Township, Precinct 2",County Road Commissioner,,Write-ins,,29
+Ogemaw,"Ogemaw Township, Precinct 1",County Road Commissioner,,Write-ins,,11
+Ogemaw,"Richland Township, Precinct 1",County Road Commissioner,,Write-ins,,8
+Ogemaw,"Rose Township, Precinct 1",County Road Commissioner,,Write-ins,,8
+Ogemaw,"West Branch Township, Precinct 1",County Road Commissioner,,Write-ins,,20
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,112
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,612
+Ogemaw,"Churchill Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,532
+Ogemaw,"Cumming Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,234
+Ogemaw,"Edwards Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,456
+Ogemaw,"Foster Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,288
+Ogemaw,"Goodar Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,100
+Ogemaw,"Hill Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,478
+Ogemaw,"Horton Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,248
+Ogemaw,"Klacking Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,179
+Ogemaw,"Logan Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,183
+Ogemaw,"Mills Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,428
+Ogemaw,"Mills Township, Precinct 2",County Drain Commissioner,,Michael DeMatio,DEM,567
+Ogemaw,"Ogemaw Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,370
+Ogemaw,"Richland Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,237
+Ogemaw,"Rose Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,382
+Ogemaw,"West Branch Township, Precinct 1",County Drain Commissioner,,Michael DeMatio,DEM,775
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Drain Commissioner,,Write-ins,,8
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Drain Commissioner,,Write-ins,,36
+Ogemaw,"Churchill Township, Precinct 1",County Drain Commissioner,,Write-ins,,39
+Ogemaw,"Cumming Township, Precinct 1",County Drain Commissioner,,Write-ins,,37
+Ogemaw,"Edwards Township, Precinct 1",County Drain Commissioner,,Write-ins,,37
+Ogemaw,"Foster Township, Precinct 1",County Drain Commissioner,,Write-ins,,18
+Ogemaw,"Goodar Township, Precinct 1",County Drain Commissioner,,Write-ins,,14
+Ogemaw,"Hill Township, Precinct 1",County Drain Commissioner,,Write-ins,,37
+Ogemaw,"Horton Township, Precinct 1",County Drain Commissioner,,Write-ins,,40
+Ogemaw,"Klacking Township, Precinct 1",County Drain Commissioner,,Write-ins,,15
+Ogemaw,"Logan Township, Precinct 1",County Drain Commissioner,,Write-ins,,28
+Ogemaw,"Mills Township, Precinct 1",County Drain Commissioner,,Write-ins,,46
+Ogemaw,"Mills Township, Precinct 2",County Drain Commissioner,,Write-ins,,118
+Ogemaw,"Ogemaw Township, Precinct 1",County Drain Commissioner,,Write-ins,,35
+Ogemaw,"Richland Township, Precinct 1",County Drain Commissioner,,Write-ins,,23
+Ogemaw,"Rose Township, Precinct 1",County Drain Commissioner,,Write-ins,,30
+Ogemaw,"West Branch Township, Precinct 1",County Drain Commissioner,,Write-ins,,83
+Ogemaw,"Churchill Township, Precinct 1",County Commissioner,1,Jenny David,REP,778
+Ogemaw,"Hill Township, Precinct 1",County Commissioner,1,Jenny David,REP,649
+Ogemaw,"Logan Township, Precinct 1",County Commissioner,1,Jenny David,REP,289
+Ogemaw,"Richland Township, Precinct 1",County Commissioner,1,Jenny David,REP,324
+Ogemaw,"Churchill Township, Precinct 1",County Commissioner,1,Write-ins,,15
+Ogemaw,"Hill Township, Precinct 1",County Commissioner,1,Write-ins,,20
+Ogemaw,"Logan Township, Precinct 1",County Commissioner,1,Write-ins,,9
+Ogemaw,"Richland Township, Precinct 1",County Commissioner,1,Write-ins,,12
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Commissioner,2,Roger Mayhew,REP,170
+Ogemaw,"Cumming Township, Precinct 1",County Commissioner,2,Roger Mayhew,REP,378
+Ogemaw,"Goodar Township, Precinct 1",County Commissioner,2,Roger Mayhew,REP,200
+Ogemaw,"Klacking Township, Precinct 1",County Commissioner,2,Roger Mayhew,REP,319
+Ogemaw,"Rose Township, Precinct 1",County Commissioner,2,Roger Mayhew,REP,615
+Ogemaw,"West Branch Township, Precinct 1",County Commissioner,2,Roger Mayhew,REP,271
+Ogemaw,"City of Rose City, Ward 1, Precinct 1",County Commissioner,2,Write-ins,,4
+Ogemaw,"Cumming Township, Precinct 1",County Commissioner,2,Write-ins,,7
+Ogemaw,"Goodar Township, Precinct 1",County Commissioner,2,Write-ins,,6
+Ogemaw,"Klacking Township, Precinct 1",County Commissioner,2,Write-ins,,5
+Ogemaw,"Rose Township, Precinct 1",County Commissioner,2,Write-ins,,6
+Ogemaw,"West Branch Township, Precinct 1",County Commissioner,2,Write-ins,,4
+Ogemaw,"Mills Township, Precinct 1",County Commissioner,3,Charles F. Wiltse,REP,593
+Ogemaw,"Mills Township, Precinct 2",County Commissioner,3,Charles F. Wiltse,REP,723
+Ogemaw,"Mills Township, Precinct 1",County Commissioner,3,David A. Ryan,,143
+Ogemaw,"Mills Township, Precinct 2",County Commissioner,3,David A. Ryan,,257
+Ogemaw,"Mills Township, Precinct 1",County Commissioner,3,Write-ins,,4
+Ogemaw,"Mills Township, Precinct 2",County Commissioner,3,Write-ins,,15
+Ogemaw,"Edwards Township, Precinct 1",County Commissioner,4,Mark D. Surbrook,REP,659
+Ogemaw,"Horton Township, Precinct 1",County Commissioner,4,Mark D. Surbrook,REP,431
+Ogemaw,"West Branch Township, Precinct 1",County Commissioner,4,Mark D. Surbrook,REP,925
+Ogemaw,"Edwards Township, Precinct 1",County Commissioner,4,Write-ins,,4
+Ogemaw,"Horton Township, Precinct 1",County Commissioner,4,Write-ins,,4
+Ogemaw,"West Branch Township, Precinct 1",County Commissioner,4,Write-ins,,20
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Commissioner,5,Craig Scott,REP,750
+Ogemaw,"Foster Township, Precinct 1",County Commissioner,5,Craig Scott,REP,411
+Ogemaw,"Ogemaw Township, Precinct 1",County Commissioner,5,Craig Scott,REP,556
+Ogemaw,"City of West Branch, Ward 1, Precinct 1",County Commissioner,5,Write-ins,,18
+Ogemaw,"Foster Township, Precinct 1",County Commissioner,5,Write-ins,,9
+Ogemaw,"Ogemaw Township, Precinct 1",County Commissioner,5,Write-ins,,15

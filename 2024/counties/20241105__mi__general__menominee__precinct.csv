@@ -1,0 +1,932 @@
+county,precinct,office,district,party,candidate,votes
+Menominee,"Cedarville Township, Precinct 1",Registered Voters,,,,267
+Menominee,"Daggett Township, Precinct 1",Registered Voters,,,,594
+Menominee,"Faithorn Township, Precinct 1",Registered Voters,,,,229
+Menominee,"Gourley Township, Precinct 1",Registered Voters,,,,408
+Menominee,"Harris Township, Precinct 1",Registered Voters,,,,1725
+Menominee,"Holmes Township, Precinct 1",Registered Voters,,,,323
+Menominee,"Ingallston Township, Precinct 1",Registered Voters,,,,948
+Menominee,"Lake Township, Precinct 1",Registered Voters,,,,503
+Menominee,"Mellen Township, Precinct 1",Registered Voters,,,,1008
+Menominee,"Menominee Township, Precinct 1",Registered Voters,,,,3383
+Menominee,"Meyer Township, Precinct 1",Registered Voters,,,,852
+Menominee,"Nadeau Township, Precinct 1",Registered Voters,,,,1052
+Menominee,"Spalding Township, Precinct 1",Registered Voters,,,,1358
+Menominee,"Stephenson Township, Precinct 1",Registered Voters,,,,549
+Menominee,"City of Menominee, Precinct 1",Registered Voters,,,,1771
+Menominee,"City of Menominee, Precinct 2",Registered Voters,,,,1760
+Menominee,"City of Menominee, Precinct 3",Registered Voters,,,,1901
+Menominee,"City of Menominee, Precinct 4",Registered Voters,,,,1904
+Menominee,"City of Stephenson, Precinct 1",Registered Voters,,,,703
+Menominee,"Cedarville Township, Precinct 1",Ballots Cast,,,,199
+Menominee,"Daggett Township, Precinct 1",Ballots Cast,,,,385
+Menominee,"Faithorn Township, Precinct 1",Ballots Cast,,,,181
+Menominee,"Gourley Township, Precinct 1",Ballots Cast,,,,299
+Menominee,"Harris Township, Precinct 1",Ballots Cast,,,,1018
+Menominee,"Holmes Township, Precinct 1",Ballots Cast,,,,248
+Menominee,"Ingallston Township, Precinct 1",Ballots Cast,,,,650
+Menominee,"Lake Township, Precinct 1",Ballots Cast,,,,333
+Menominee,"Mellen Township, Precinct 1",Ballots Cast,,,,624
+Menominee,"Menominee Township, Precinct 1",Ballots Cast,,,,2195
+Menominee,"Meyer Township, Precinct 1",Ballots Cast,,,,591
+Menominee,"Nadeau Township, Precinct 1",Ballots Cast,,,,672
+Menominee,"Spalding Township, Precinct 1",Ballots Cast,,,,861
+Menominee,"Stephenson Township, Precinct 1",Ballots Cast,,,,385
+Menominee,"City of Menominee, Precinct 1",Ballots Cast,,,,815
+Menominee,"City of Menominee, Precinct 2",Ballots Cast,,,,1049
+Menominee,"City of Menominee, Precinct 3",Ballots Cast,,,,1110
+Menominee,"City of Menominee, Precinct 4",Ballots Cast,,,,1092
+Menominee,"City of Stephenson, Precinct 1",Ballots Cast,,,,453
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,DEM,Democratic,32
+Menominee,"Daggett Township, Precinct 1",Straight Party,,DEM,Democratic,50
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,DEM,Democratic,25
+Menominee,"Gourley Township, Precinct 1",Straight Party,,DEM,Democratic,25
+Menominee,"Harris Township, Precinct 1",Straight Party,,DEM,Democratic,192
+Menominee,"Holmes Township, Precinct 1",Straight Party,,DEM,Democratic,29
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,DEM,Democratic,84
+Menominee,"Lake Township, Precinct 1",Straight Party,,DEM,Democratic,43
+Menominee,"Mellen Township, Precinct 1",Straight Party,,DEM,Democratic,69
+Menominee,"Menominee Township, Precinct 1",Straight Party,,DEM,Democratic,375
+Menominee,"Meyer Township, Precinct 1",Straight Party,,DEM,Democratic,55
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,DEM,Democratic,70
+Menominee,"Spalding Township, Precinct 1",Straight Party,,DEM,Democratic,98
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,DEM,Democratic,48
+Menominee,"City of Menominee, Precinct 1",Straight Party,,DEM,Democratic,205
+Menominee,"City of Menominee, Precinct 2",Straight Party,,DEM,Democratic,287
+Menominee,"City of Menominee, Precinct 3",Straight Party,,DEM,Democratic,244
+Menominee,"City of Menominee, Precinct 4",Straight Party,,DEM,Democratic,245
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,DEM,Democratic,61
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,REP,Republican,65
+Menominee,"Daggett Township, Precinct 1",Straight Party,,REP,Republican,142
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,REP,Republican,69
+Menominee,"Gourley Township, Precinct 1",Straight Party,,REP,Republican,108
+Menominee,"Harris Township, Precinct 1",Straight Party,,REP,Republican,349
+Menominee,"Holmes Township, Precinct 1",Straight Party,,REP,Republican,122
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,REP,Republican,245
+Menominee,"Lake Township, Precinct 1",Straight Party,,REP,Republican,130
+Menominee,"Mellen Township, Precinct 1",Straight Party,,REP,Republican,264
+Menominee,"Menominee Township, Precinct 1",Straight Party,,REP,Republican,754
+Menominee,"Meyer Township, Precinct 1",Straight Party,,REP,Republican,181
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,REP,Republican,262
+Menominee,"Spalding Township, Precinct 1",Straight Party,,REP,Republican,319
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,REP,Republican,150
+Menominee,"City of Menominee, Precinct 1",Straight Party,,REP,Republican,272
+Menominee,"City of Menominee, Precinct 2",Straight Party,,REP,Republican,330
+Menominee,"City of Menominee, Precinct 3",Straight Party,,REP,Republican,339
+Menominee,"City of Menominee, Precinct 4",Straight Party,,REP,Republican,361
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,REP,Republican,175
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,LIB,Libertarian,2
+Menominee,"Daggett Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Menominee,"Gourley Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Menominee,"Harris Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Holmes Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Lake Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Menominee,"Mellen Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Menominee Township, Precinct 1",Straight Party,,LIB,Libertarian,3
+Menominee,"Meyer Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Spalding Township, Precinct 1",Straight Party,,LIB,Libertarian,6
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,LIB,Libertarian,0
+Menominee,"City of Menominee, Precinct 1",Straight Party,,LIB,Libertarian,6
+Menominee,"City of Menominee, Precinct 2",Straight Party,,LIB,Libertarian,7
+Menominee,"City of Menominee, Precinct 3",Straight Party,,LIB,Libertarian,4
+Menominee,"City of Menominee, Precinct 4",Straight Party,,LIB,Libertarian,5
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,LIB,Libertarian,1
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Menominee,"Daggett Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Gourley Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Harris Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Holmes Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Lake Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Mellen Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Menominee,"Menominee Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Menominee,"Meyer Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2
+Menominee,"Spalding Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0
+Menominee,"City of Menominee, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Menominee,"City of Menominee, Precinct 2",Straight Party,,UST,U.S. Taxpayers,2
+Menominee,"City of Menominee, Precinct 3",Straight Party,,UST,U.S. Taxpayers,3
+Menominee,"City of Menominee, Precinct 4",Straight Party,,UST,U.S. Taxpayers,2
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Daggett Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Gourley Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Harris Township, Precinct 1",Straight Party,,GRN,Green,1
+Menominee,"Holmes Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Lake Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Mellen Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Menominee Township, Precinct 1",Straight Party,,GRN,Green,1
+Menominee,"Meyer Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,GRN,Green,3
+Menominee,"Spalding Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"City of Menominee, Precinct 1",Straight Party,,GRN,Green,2
+Menominee,"City of Menominee, Precinct 2",Straight Party,,GRN,Green,2
+Menominee,"City of Menominee, Precinct 3",Straight Party,,GRN,Green,4
+Menominee,"City of Menominee, Precinct 4",Straight Party,,GRN,Green,1
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,GRN,Green,0
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Menominee,"Daggett Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,WCP,Working Class,1
+Menominee,"Gourley Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Menominee,"Harris Township, Precinct 1",Straight Party,,WCP,Working Class,7
+Menominee,"Holmes Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,WCP,Working Class,0
+Menominee,"Lake Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Menominee,"Mellen Township, Precinct 1",Straight Party,,WCP,Working Class,3
+Menominee,"Menominee Township, Precinct 1",Straight Party,,WCP,Working Class,5
+Menominee,"Meyer Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,WCP,Working Class,4
+Menominee,"Spalding Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,WCP,Working Class,2
+Menominee,"City of Menominee, Precinct 1",Straight Party,,WCP,Working Class,6
+Menominee,"City of Menominee, Precinct 2",Straight Party,,WCP,Working Class,7
+Menominee,"City of Menominee, Precinct 3",Straight Party,,WCP,Working Class,6
+Menominee,"City of Menominee, Precinct 4",Straight Party,,WCP,Working Class,5
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,WCP,Working Class,3
+Menominee,"Cedarville Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Daggett Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Menominee,"Faithorn Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Gourley Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Harris Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Menominee,"Holmes Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Ingallston Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Lake Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Mellen Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Menominee Township, Precinct 1",Straight Party,,NLP,Natural Law,2
+Menominee,"Meyer Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Nadeau Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Menominee,"Spalding Township, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Stephenson Township, Precinct 1",Straight Party,,NLP,Natural Law,1
+Menominee,"City of Menominee, Precinct 1",Straight Party,,NLP,Natural Law,2
+Menominee,"City of Menominee, Precinct 2",Straight Party,,NLP,Natural Law,0
+Menominee,"City of Menominee, Precinct 3",Straight Party,,NLP,Natural Law,1
+Menominee,"City of Menominee, Precinct 4",Straight Party,,NLP,Natural Law,0
+Menominee,"City of Stephenson, Precinct 1",Straight Party,,NLP,Natural Law,0
+Menominee,"Cedarville Township, Precinct 1",President,,DEM,Kamala D. Harris,60
+Menominee,"Daggett Township, Precinct 1",President,,DEM,Kamala D. Harris,101
+Menominee,"Faithorn Township, Precinct 1",President,,DEM,Kamala D. Harris,50
+Menominee,"Gourley Township, Precinct 1",President,,DEM,Kamala D. Harris,45
+Menominee,"Harris Township, Precinct 1",President,,DEM,Kamala D. Harris,313
+Menominee,"Holmes Township, Precinct 1",President,,DEM,Kamala D. Harris,54
+Menominee,"Ingallston Township, Precinct 1",President,,DEM,Kamala D. Harris,195
+Menominee,"Lake Township, Precinct 1",President,,DEM,Kamala D. Harris,88
+Menominee,"Mellen Township, Precinct 1",President,,DEM,Kamala D. Harris,149
+Menominee,"Menominee Township, Precinct 1",President,,DEM,Kamala D. Harris,736
+Menominee,"Meyer Township, Precinct 1",President,,DEM,Kamala D. Harris,153
+Menominee,"Nadeau Township, Precinct 1",President,,DEM,Kamala D. Harris,168
+Menominee,"Spalding Township, Precinct 1",President,,DEM,Kamala D. Harris,208
+Menominee,"Stephenson Township, Precinct 1",President,,DEM,Kamala D. Harris,96
+Menominee,"City of Menominee, Precinct 1",President,,DEM,Kamala D. Harris,362
+Menominee,"City of Menominee, Precinct 2",President,,DEM,Kamala D. Harris,483
+Menominee,"City of Menominee, Precinct 3",President,,DEM,Kamala D. Harris,444
+Menominee,"City of Menominee, Precinct 4",President,,DEM,Kamala D. Harris,431
+Menominee,"City of Stephenson, Precinct 1",President,,DEM,Kamala D. Harris,120
+Menominee,"Cedarville Township, Precinct 1",President,,REP,Donald J. Trump,137
+Menominee,"Daggett Township, Precinct 1",President,,REP,Donald J. Trump,278
+Menominee,"Faithorn Township, Precinct 1",President,,REP,Donald J. Trump,128
+Menominee,"Gourley Township, Precinct 1",President,,REP,Donald J. Trump,249
+Menominee,"Harris Township, Precinct 1",President,,REP,Donald J. Trump,687
+Menominee,"Holmes Township, Precinct 1",President,,REP,Donald J. Trump,190
+Menominee,"Ingallston Township, Precinct 1",President,,REP,Donald J. Trump,444
+Menominee,"Lake Township, Precinct 1",President,,REP,Donald J. Trump,240
+Menominee,"Mellen Township, Precinct 1",President,,REP,Donald J. Trump,462
+Menominee,"Menominee Township, Precinct 1",President,,REP,Donald J. Trump,1417
+Menominee,"Meyer Township, Precinct 1",President,,REP,Donald J. Trump,425
+Menominee,"Nadeau Township, Precinct 1",President,,REP,Donald J. Trump,494
+Menominee,"Spalding Township, Precinct 1",President,,REP,Donald J. Trump,630
+Menominee,"Stephenson Township, Precinct 1",President,,REP,Donald J. Trump,285
+Menominee,"City of Menominee, Precinct 1",President,,REP,Donald J. Trump,427
+Menominee,"City of Menominee, Precinct 2",President,,REP,Donald J. Trump,545
+Menominee,"City of Menominee, Precinct 3",President,,REP,Donald J. Trump,649
+Menominee,"City of Menominee, Precinct 4",President,,REP,Donald J. Trump,641
+Menominee,"City of Stephenson, Precinct 1",President,,REP,Donald J. Trump,319
+Menominee,"Cedarville Township, Precinct 1",President,,LIB,Chase Oliver,2
+Menominee,"Daggett Township, Precinct 1",President,,LIB,Chase Oliver,2
+Menominee,"Faithorn Township, Precinct 1",President,,LIB,Chase Oliver,0
+Menominee,"Gourley Township, Precinct 1",President,,LIB,Chase Oliver,0
+Menominee,"Harris Township, Precinct 1",President,,LIB,Chase Oliver,1
+Menominee,"Holmes Township, Precinct 1",President,,LIB,Chase Oliver,0
+Menominee,"Ingallston Township, Precinct 1",President,,LIB,Chase Oliver,2
+Menominee,"Lake Township, Precinct 1",President,,LIB,Chase Oliver,0
+Menominee,"Mellen Township, Precinct 1",President,,LIB,Chase Oliver,2
+Menominee,"Menominee Township, Precinct 1",President,,LIB,Chase Oliver,3
+Menominee,"Meyer Township, Precinct 1",President,,LIB,Chase Oliver,2
+Menominee,"Nadeau Township, Precinct 1",President,,LIB,Chase Oliver,3
+Menominee,"Spalding Township, Precinct 1",President,,LIB,Chase Oliver,3
+Menominee,"Stephenson Township, Precinct 1",President,,LIB,Chase Oliver,0
+Menominee,"City of Menominee, Precinct 1",President,,LIB,Chase Oliver,9
+Menominee,"City of Menominee, Precinct 2",President,,LIB,Chase Oliver,3
+Menominee,"City of Menominee, Precinct 3",President,,LIB,Chase Oliver,5
+Menominee,"City of Menominee, Precinct 4",President,,LIB,Chase Oliver,3
+Menominee,"City of Stephenson, Precinct 1",President,,LIB,Chase Oliver,5
+Menominee,"Cedarville Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Daggett Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Faithorn Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Gourley Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Harris Township, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"Holmes Township, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"Ingallston Township, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"Lake Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Mellen Township, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"Menominee Township, Precinct 1",President,,UST,Randall Terry,3
+Menominee,"Meyer Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Nadeau Township, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"Spalding Township, Precinct 1",President,,UST,Randall Terry,2
+Menominee,"Stephenson Township, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"City of Menominee, Precinct 1",President,,UST,Randall Terry,1
+Menominee,"City of Menominee, Precinct 2",President,,UST,Randall Terry,2
+Menominee,"City of Menominee, Precinct 3",President,,UST,Randall Terry,1
+Menominee,"City of Menominee, Precinct 4",President,,UST,Randall Terry,0
+Menominee,"City of Stephenson, Precinct 1",President,,UST,Randall Terry,0
+Menominee,"Cedarville Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Daggett Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Faithorn Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Gourley Township, Precinct 1",President,,GRN,Jill Stein,1
+Menominee,"Harris Township, Precinct 1",President,,GRN,Jill Stein,1
+Menominee,"Holmes Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Ingallston Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Lake Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Mellen Township, Precinct 1",President,,GRN,Jill Stein,1
+Menominee,"Menominee Township, Precinct 1",President,,GRN,Jill Stein,8
+Menominee,"Meyer Township, Precinct 1",President,,GRN,Jill Stein,1
+Menominee,"Nadeau Township, Precinct 1",President,,GRN,Jill Stein,1
+Menominee,"Spalding Township, Precinct 1",President,,GRN,Jill Stein,3
+Menominee,"Stephenson Township, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"City of Menominee, Precinct 1",President,,GRN,Jill Stein,3
+Menominee,"City of Menominee, Precinct 2",President,,GRN,Jill Stein,2
+Menominee,"City of Menominee, Precinct 3",President,,GRN,Jill Stein,2
+Menominee,"City of Menominee, Precinct 4",President,,GRN,Jill Stein,1
+Menominee,"City of Stephenson, Precinct 1",President,,GRN,Jill Stein,0
+Menominee,"Cedarville Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
+Menominee,"Daggett Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
+Menominee,"Faithorn Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",0
+Menominee,"Gourley Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Menominee,"Harris Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",4
+Menominee,"Holmes Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Menominee,"Ingallston Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Menominee,"Lake Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Menominee,"Mellen Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Menominee,"Menominee Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",15
+Menominee,"Meyer Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",7
+Menominee,"Nadeau Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Menominee,"Spalding Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",3
+Menominee,"Stephenson Township, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",1
+Menominee,"City of Menominee, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",6
+Menominee,"City of Menominee, Precinct 2",President,,NLP,"Robert F. Kennedy, Jr.",5
+Menominee,"City of Menominee, Precinct 3",President,,NLP,"Robert F. Kennedy, Jr.",3
+Menominee,"City of Menominee, Precinct 4",President,,NLP,"Robert F. Kennedy, Jr.",5
+Menominee,"City of Stephenson, Precinct 1",President,,NLP,"Robert F. Kennedy, Jr.",2
+Menominee,"Cedarville Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Daggett Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Faithorn Township, Precinct 1",President,,,Joseph Kishore,1
+Menominee,"Gourley Township, Precinct 1",President,,,Joseph Kishore,1
+Menominee,"Harris Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Holmes Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Ingallston Township, Precinct 1",President,,,Joseph Kishore,1
+Menominee,"Lake Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Mellen Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Menominee Township, Precinct 1",President,,,Joseph Kishore,1
+Menominee,"Meyer Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Nadeau Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Spalding Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Stephenson Township, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"City of Menominee, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"City of Menominee, Precinct 2",President,,,Joseph Kishore,0
+Menominee,"City of Menominee, Precinct 3",President,,,Joseph Kishore,0
+Menominee,"City of Menominee, Precinct 4",President,,,Joseph Kishore,1
+Menominee,"City of Stephenson, Precinct 1",President,,,Joseph Kishore,0
+Menominee,"Cedarville Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Daggett Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Faithorn Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Gourley Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Harris Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Holmes Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Ingallston Township, Precinct 1",President,,,Cornel West,1
+Menominee,"Lake Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Mellen Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Menominee Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Meyer Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Nadeau Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Spalding Township, Precinct 1",President,,,Cornel West,0
+Menominee,"Stephenson Township, Precinct 1",President,,,Cornel West,0
+Menominee,"City of Menominee, Precinct 1",President,,,Cornel West,2
+Menominee,"City of Menominee, Precinct 2",President,,,Cornel West,0
+Menominee,"City of Menominee, Precinct 3",President,,,Cornel West,0
+Menominee,"City of Menominee, Precinct 4",President,,,Cornel West,0
+Menominee,"City of Stephenson, Precinct 1",President,,,Cornel West,0
+Menominee,"Cedarville Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Daggett Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Faithorn Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Gourley Township, Precinct 1",President,,,Write-ins,1
+Menominee,"Harris Township, Precinct 1",President,,,Write-ins,4
+Menominee,"Holmes Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Ingallston Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Lake Township, Precinct 1",President,,,Write-ins,2
+Menominee,"Mellen Township, Precinct 1",President,,,Write-ins,3
+Menominee,"Menominee Township, Precinct 1",President,,,Write-ins,2
+Menominee,"Meyer Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Nadeau Township, Precinct 1",President,,,Write-ins,0
+Menominee,"Spalding Township, Precinct 1",President,,,Write-ins,1
+Menominee,"Stephenson Township, Precinct 1",President,,,Write-ins,1
+Menominee,"City of Menominee, Precinct 1",President,,,Write-ins,3
+Menominee,"City of Menominee, Precinct 2",President,,,Write-ins,4
+Menominee,"City of Menominee, Precinct 3",President,,,Write-ins,2
+Menominee,"City of Menominee, Precinct 4",President,,,Write-ins,3
+Menominee,"City of Stephenson, Precinct 1",President,,,Write-ins,1
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,60
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,100
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,46
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,45
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,295
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,55
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,180
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,79
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,139
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,704
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,147
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,148
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,204
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,87
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,354
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,468
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,416
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,DEM,Elissa Slotkin,406
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,108
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,130
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,259
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,125
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,231
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,667
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,178
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,441
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,232
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,451
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,1382
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,407
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,474
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,603
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,277
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,REP,Mike Rogers,405
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,REP,Mike Rogers,529
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,REP,Mike Rogers,626
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,REP,Mike Rogers,607
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,REP,Mike Rogers,308
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,18
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,6
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,10
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,LIB,Joseph Solis-Mullen,9
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,UST,Dave Stein,16
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,UST,Dave Stein,11
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,UST,Dave Stein,13
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,UST,Dave Stein,11
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,UST,Dave Stein,12
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,UST,Dave Stein,10
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,UST,Dave Stein,8
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,8
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,7
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,GRN,Douglas P. Marsh,6
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,GRN,Douglas P. Marsh,8
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,6
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,NLP,Doug Dern,6
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,NLP,Doug Dern,1
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,NLP,Doug Dern,7
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,NLP,Doug Dern,4
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,NLP,Doug Dern,0
+Menominee,"Cedarville Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Daggett Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Menominee,"Faithorn Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Gourley Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Menominee,"Harris Township, Precinct 1",U.S. Senate,,,Write-ins,3
+Menominee,"Holmes Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Ingallston Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Lake Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Menominee,"Mellen Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Menominee,"Menominee Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Menominee,"Meyer Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Nadeau Township, Precinct 1",U.S. Senate,,,Write-ins,1
+Menominee,"Spalding Township, Precinct 1",U.S. Senate,,,Write-ins,0
+Menominee,"Stephenson Township, Precinct 1",U.S. Senate,,,Write-ins,2
+Menominee,"City of Menominee, Precinct 1",U.S. Senate,,,Write-ins,2
+Menominee,"City of Menominee, Precinct 2",U.S. Senate,,,Write-ins,0
+Menominee,"City of Menominee, Precinct 3",U.S. Senate,,,Write-ins,2
+Menominee,"City of Menominee, Precinct 4",U.S. Senate,,,Write-ins,3
+Menominee,"City of Stephenson, Precinct 1",U.S. Senate,,,Write-ins,2
+Menominee,"Cedarville Township, Precinct 1",U.S. House,1,DEM,Callie Barr,58
+Menominee,"Daggett Township, Precinct 1",U.S. House,1,DEM,Callie Barr,94
+Menominee,"Faithorn Township, Precinct 1",U.S. House,1,DEM,Callie Barr,45
+Menominee,"Gourley Township, Precinct 1",U.S. House,1,DEM,Callie Barr,46
+Menominee,"Harris Township, Precinct 1",U.S. House,1,DEM,Callie Barr,298
+Menominee,"Holmes Township, Precinct 1",U.S. House,1,DEM,Callie Barr,50
+Menominee,"Ingallston Township, Precinct 1",U.S. House,1,DEM,Callie Barr,173
+Menominee,"Lake Township, Precinct 1",U.S. House,1,DEM,Callie Barr,72
+Menominee,"Mellen Township, Precinct 1",U.S. House,1,DEM,Callie Barr,126
+Menominee,"Menominee Township, Precinct 1",U.S. House,1,DEM,Callie Barr,664
+Menominee,"Meyer Township, Precinct 1",U.S. House,1,DEM,Callie Barr,147
+Menominee,"Nadeau Township, Precinct 1",U.S. House,1,DEM,Callie Barr,146
+Menominee,"Spalding Township, Precinct 1",U.S. House,1,DEM,Callie Barr,213
+Menominee,"Stephenson Township, Precinct 1",U.S. House,1,DEM,Callie Barr,88
+Menominee,"City of Menominee, Precinct 1",U.S. House,1,DEM,Callie Barr,345
+Menominee,"City of Menominee, Precinct 2",U.S. House,1,DEM,Callie Barr,454
+Menominee,"City of Menominee, Precinct 3",U.S. House,1,DEM,Callie Barr,387
+Menominee,"City of Menominee, Precinct 4",U.S. House,1,DEM,Callie Barr,397
+Menominee,"City of Stephenson, Precinct 1",U.S. House,1,DEM,Callie Barr,103
+Menominee,"Cedarville Township, Precinct 1",U.S. House,1,REP,Jack Bergman,130
+Menominee,"Daggett Township, Precinct 1",U.S. House,1,REP,Jack Bergman,261
+Menominee,"Faithorn Township, Precinct 1",U.S. House,1,REP,Jack Bergman,129
+Menominee,"Gourley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,233
+Menominee,"Harris Township, Precinct 1",U.S. House,1,REP,Jack Bergman,665
+Menominee,"Holmes Township, Precinct 1",U.S. House,1,REP,Jack Bergman,182
+Menominee,"Ingallston Township, Precinct 1",U.S. House,1,REP,Jack Bergman,445
+Menominee,"Lake Township, Precinct 1",U.S. House,1,REP,Jack Bergman,233
+Menominee,"Mellen Township, Precinct 1",U.S. House,1,REP,Jack Bergman,458
+Menominee,"Menominee Township, Precinct 1",U.S. House,1,REP,Jack Bergman,1406
+Menominee,"Meyer Township, Precinct 1",U.S. House,1,REP,Jack Bergman,404
+Menominee,"Nadeau Township, Precinct 1",U.S. House,1,REP,Jack Bergman,471
+Menominee,"Spalding Township, Precinct 1",U.S. House,1,REP,Jack Bergman,594
+Menominee,"Stephenson Township, Precinct 1",U.S. House,1,REP,Jack Bergman,274
+Menominee,"City of Menominee, Precinct 1",U.S. House,1,REP,Jack Bergman,407
+Menominee,"City of Menominee, Precinct 2",U.S. House,1,REP,Jack Bergman,533
+Menominee,"City of Menominee, Precinct 3",U.S. House,1,REP,Jack Bergman,634
+Menominee,"City of Menominee, Precinct 4",U.S. House,1,REP,Jack Bergman,605
+Menominee,"City of Stephenson, Precinct 1",U.S. House,1,REP,Jack Bergman,306
+Menominee,"Cedarville Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2
+Menominee,"Daggett Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Menominee,"Faithorn Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0
+Menominee,"Gourley Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Menominee,"Harris Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Menominee,"Holmes Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Menominee,"Ingallston Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,1
+Menominee,"Lake Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Menominee,"Mellen Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7
+Menominee,"Menominee Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,17
+Menominee,"Meyer Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3
+Menominee,"Nadeau Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,9
+Menominee,"Spalding Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11
+Menominee,"Stephenson Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4
+Menominee,"City of Menominee, Precinct 1",U.S. House,1,LIB,Andrew Gale,20
+Menominee,"City of Menominee, Precinct 2",U.S. House,1,LIB,Andrew Gale,13
+Menominee,"City of Menominee, Precinct 3",U.S. House,1,LIB,Andrew Gale,19
+Menominee,"City of Menominee, Precinct 4",U.S. House,1,LIB,Andrew Gale,13
+Menominee,"City of Stephenson, Precinct 1",U.S. House,1,LIB,Andrew Gale,6
+Menominee,"Cedarville Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,0
+Menominee,"Daggett Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11
+Menominee,"Faithorn Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1
+Menominee,"Gourley Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5
+Menominee,"Harris Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,23
+Menominee,"Holmes Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Menominee,"Ingallston Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9
+Menominee,"Lake Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
+Menominee,"Mellen Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8
+Menominee,"Menominee Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,34
+Menominee,"Meyer Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
+Menominee,"Nadeau Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,12
+Menominee,"Spalding Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10
+Menominee,"Stephenson Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4
+Menominee,"City of Menominee, Precinct 1",U.S. House,1,WCP,Liz Hakola,27
+Menominee,"City of Menominee, Precinct 2",U.S. House,1,WCP,Liz Hakola,21
+Menominee,"City of Menominee, Precinct 3",U.S. House,1,WCP,Liz Hakola,33
+Menominee,"City of Menominee, Precinct 4",U.S. House,1,WCP,Liz Hakola,31
+Menominee,"City of Stephenson, Precinct 1",U.S. House,1,WCP,Liz Hakola,9
+Menominee,"Cedarville Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Daggett Township, Precinct 1",U.S. House,1,,Write-ins,1
+Menominee,"Faithorn Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Gourley Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Harris Township, Precinct 1",U.S. House,1,,Write-ins,3
+Menominee,"Holmes Township, Precinct 1",U.S. House,1,,Write-ins,1
+Menominee,"Ingallston Township, Precinct 1",U.S. House,1,,Write-ins,1
+Menominee,"Lake Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Mellen Township, Precinct 1",U.S. House,1,,Write-ins,1
+Menominee,"Menominee Township, Precinct 1",U.S. House,1,,Write-ins,2
+Menominee,"Meyer Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Nadeau Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Spalding Township, Precinct 1",U.S. House,1,,Write-ins,0
+Menominee,"Stephenson Township, Precinct 1",U.S. House,1,,Write-ins,2
+Menominee,"City of Menominee, Precinct 1",U.S. House,1,,Write-ins,3
+Menominee,"City of Menominee, Precinct 2",U.S. House,1,,Write-ins,0
+Menominee,"City of Menominee, Precinct 3",U.S. House,1,,Write-ins,2
+Menominee,"City of Menominee, Precinct 4",U.S. House,1,,Write-ins,3
+Menominee,"City of Stephenson, Precinct 1",U.S. House,1,,Write-ins,2
+Menominee,"Cedarville Township, Precinct 1",State House,108,DEM,Christiana Reynolds,54
+Menominee,"Daggett Township, Precinct 1",State House,108,DEM,Christiana Reynolds,79
+Menominee,"Faithorn Township, Precinct 1",State House,108,DEM,Christiana Reynolds,47
+Menominee,"Gourley Township, Precinct 1",State House,108,DEM,Christiana Reynolds,41
+Menominee,"Harris Township, Precinct 1",State House,108,DEM,Christiana Reynolds,284
+Menominee,"Holmes Township, Precinct 1",State House,108,DEM,Christiana Reynolds,52
+Menominee,"Ingallston Township, Precinct 1",State House,108,DEM,Christiana Reynolds,165
+Menominee,"Lake Township, Precinct 1",State House,108,DEM,Christiana Reynolds,68
+Menominee,"Mellen Township, Precinct 1",State House,108,DEM,Christiana Reynolds,124
+Menominee,"Menominee Township, Precinct 1",State House,108,DEM,Christiana Reynolds,664
+Menominee,"Meyer Township, Precinct 1",State House,108,DEM,Christiana Reynolds,141
+Menominee,"Nadeau Township, Precinct 1",State House,108,DEM,Christiana Reynolds,135
+Menominee,"Spalding Township, Precinct 1",State House,108,DEM,Christiana Reynolds,192
+Menominee,"Stephenson Township, Precinct 1",State House,108,DEM,Christiana Reynolds,77
+Menominee,"City of Menominee, Precinct 1",State House,108,DEM,Christiana Reynolds,353
+Menominee,"City of Menominee, Precinct 2",State House,108,DEM,Christiana Reynolds,440
+Menominee,"City of Menominee, Precinct 3",State House,108,DEM,Christiana Reynolds,385
+Menominee,"City of Menominee, Precinct 4",State House,108,DEM,Christiana Reynolds,391
+Menominee,"City of Stephenson, Precinct 1",State House,108,DEM,Christiana Reynolds,95
+Menominee,"Cedarville Township, Precinct 1",State House,108,REP,David Prestin,135
+Menominee,"Daggett Township, Precinct 1",State House,108,REP,David Prestin,284
+Menominee,"Faithorn Township, Precinct 1",State House,108,REP,David Prestin,123
+Menominee,"Gourley Township, Precinct 1",State House,108,REP,David Prestin,239
+Menominee,"Harris Township, Precinct 1",State House,108,REP,David Prestin,678
+Menominee,"Holmes Township, Precinct 1",State House,108,REP,David Prestin,184
+Menominee,"Ingallston Township, Precinct 1",State House,108,REP,David Prestin,463
+Menominee,"Lake Township, Precinct 1",State House,108,REP,David Prestin,244
+Menominee,"Mellen Township, Precinct 1",State House,108,REP,David Prestin,472
+Menominee,"Menominee Township, Precinct 1",State House,108,REP,David Prestin,1422
+Menominee,"Meyer Township, Precinct 1",State House,108,REP,David Prestin,408
+Menominee,"Nadeau Township, Precinct 1",State House,108,REP,David Prestin,479
+Menominee,"Spalding Township, Precinct 1",State House,108,REP,David Prestin,623
+Menominee,"Stephenson Township, Precinct 1",State House,108,REP,David Prestin,289
+Menominee,"City of Menominee, Precinct 1",State House,108,REP,David Prestin,414
+Menominee,"City of Menominee, Precinct 2",State House,108,REP,David Prestin,549
+Menominee,"City of Menominee, Precinct 3",State House,108,REP,David Prestin,655
+Menominee,"City of Menominee, Precinct 4",State House,108,REP,David Prestin,619
+Menominee,"City of Stephenson, Precinct 1",State House,108,REP,David Prestin,326
+Menominee,"Cedarville Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,3
+Menominee,"Daggett Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,11
+Menominee,"Faithorn Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,4
+Menominee,"Gourley Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,5
+Menominee,"Harris Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,21
+Menominee,"Holmes Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,5
+Menominee,"Ingallston Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,7
+Menominee,"Lake Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,4
+Menominee,"Mellen Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,12
+Menominee,"Menominee Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,34
+Menominee,"Meyer Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,8
+Menominee,"Nadeau Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,24
+Menominee,"Spalding Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,11
+Menominee,"Stephenson Township, Precinct 1",State House,108,LIB,Kayla Wikstrom,4
+Menominee,"City of Menominee, Precinct 1",State House,108,LIB,Kayla Wikstrom,27
+Menominee,"City of Menominee, Precinct 2",State House,108,LIB,Kayla Wikstrom,23
+Menominee,"City of Menominee, Precinct 3",State House,108,LIB,Kayla Wikstrom,32
+Menominee,"City of Menominee, Precinct 4",State House,108,LIB,Kayla Wikstrom,32
+Menominee,"City of Stephenson, Precinct 1",State House,108,LIB,Kayla Wikstrom,12
+Menominee,"Cedarville Township, Precinct 1",State House,108,,Write-ins,1
+Menominee,"Daggett Township, Precinct 1",State House,108,,Write-ins,1
+Menominee,"Faithorn Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Gourley Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Harris Township, Precinct 1",State House,108,,Write-ins,3
+Menominee,"Holmes Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Ingallston Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Lake Township, Precinct 1",State House,108,,Write-ins,1
+Menominee,"Mellen Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Menominee Township, Precinct 1",State House,108,,Write-ins,3
+Menominee,"Meyer Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Nadeau Township, Precinct 1",State House,108,,Write-ins,1
+Menominee,"Spalding Township, Precinct 1",State House,108,,Write-ins,0
+Menominee,"Stephenson Township, Precinct 1",State House,108,,Write-ins,2
+Menominee,"City of Menominee, Precinct 1",State House,108,,Write-ins,6
+Menominee,"City of Menominee, Precinct 2",State House,108,,Write-ins,1
+Menominee,"City of Menominee, Precinct 3",State House,108,,Write-ins,4
+Menominee,"City of Menominee, Precinct 4",State House,108,,Write-ins,4
+Menominee,"City of Stephenson, Precinct 1",State House,108,,Write-ins,2
+Menominee,"Cedarville Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,122
+Menominee,"Daggett Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,283
+Menominee,"Faithorn Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,143
+Menominee,"Gourley Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,228
+Menominee,"Harris Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,753
+Menominee,"Holmes Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,199
+Menominee,"Ingallston Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,472
+Menominee,"Lake Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,237
+Menominee,"Mellen Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,466
+Menominee,"Menominee Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,1500
+Menominee,"Meyer Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,414
+Menominee,"Nadeau Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,486
+Menominee,"Spalding Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,641
+Menominee,"Stephenson Township, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,272
+Menominee,"City of Menominee, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,535
+Menominee,"City of Menominee, Precinct 2",Prosecuting Attorney,,REP,Jeffrey T. Rogg,672
+Menominee,"City of Menominee, Precinct 3",Prosecuting Attorney,,REP,Jeffrey T. Rogg,747
+Menominee,"City of Menominee, Precinct 4",Prosecuting Attorney,,REP,Jeffrey T. Rogg,765
+Menominee,"City of Stephenson, Precinct 1",Prosecuting Attorney,,REP,Jeffrey T. Rogg,336
+Menominee,"Cedarville Township, Precinct 1",Prosecuting Attorney,,,Write-ins,8
+Menominee,"Daggett Township, Precinct 1",Prosecuting Attorney,,,Write-ins,14
+Menominee,"Faithorn Township, Precinct 1",Prosecuting Attorney,,,Write-ins,3
+Menominee,"Gourley Township, Precinct 1",Prosecuting Attorney,,,Write-ins,4
+Menominee,"Harris Township, Precinct 1",Prosecuting Attorney,,,Write-ins,35
+Menominee,"Holmes Township, Precinct 1",Prosecuting Attorney,,,Write-ins,3
+Menominee,"Ingallston Township, Precinct 1",Prosecuting Attorney,,,Write-ins,21
+Menominee,"Lake Township, Precinct 1",Prosecuting Attorney,,,Write-ins,9
+Menominee,"Mellen Township, Precinct 1",Prosecuting Attorney,,,Write-ins,14
+Menominee,"Menominee Township, Precinct 1",Prosecuting Attorney,,,Write-ins,64
+Menominee,"Meyer Township, Precinct 1",Prosecuting Attorney,,,Write-ins,11
+Menominee,"Nadeau Township, Precinct 1",Prosecuting Attorney,,,Write-ins,12
+Menominee,"Spalding Township, Precinct 1",Prosecuting Attorney,,,Write-ins,12
+Menominee,"Stephenson Township, Precinct 1",Prosecuting Attorney,,,Write-ins,11
+Menominee,"City of Menominee, Precinct 1",Prosecuting Attorney,,,Write-ins,37
+Menominee,"City of Menominee, Precinct 2",Prosecuting Attorney,,,Write-ins,56
+Menominee,"City of Menominee, Precinct 3",Prosecuting Attorney,,,Write-ins,50
+Menominee,"City of Menominee, Precinct 4",Prosecuting Attorney,,,Write-ins,44
+Menominee,"City of Stephenson, Precinct 1",Prosecuting Attorney,,,Write-ins,10
+Menominee,"Cedarville Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,81
+Menominee,"Daggett Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,139
+Menominee,"Faithorn Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,57
+Menominee,"Gourley Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,105
+Menominee,"Harris Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,417
+Menominee,"Holmes Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,76
+Menominee,"Ingallston Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,227
+Menominee,"Lake Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,106
+Menominee,"Mellen Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,182
+Menominee,"Menominee Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,836
+Menominee,"Meyer Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,195
+Menominee,"Nadeau Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,207
+Menominee,"Spalding Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,313
+Menominee,"Stephenson Township, Precinct 1",Sheriff,,DEM,Michael T. Holmes,109
+Menominee,"City of Menominee, Precinct 1",Sheriff,,DEM,Michael T. Holmes,350
+Menominee,"City of Menominee, Precinct 2",Sheriff,,DEM,Michael T. Holmes,452
+Menominee,"City of Menominee, Precinct 3",Sheriff,,DEM,Michael T. Holmes,466
+Menominee,"City of Menominee, Precinct 4",Sheriff,,DEM,Michael T. Holmes,469
+Menominee,"City of Stephenson, Precinct 1",Sheriff,,DEM,Michael T. Holmes,149
+Menominee,"Cedarville Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,107
+Menominee,"Daggett Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,236
+Menominee,"Faithorn Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,118
+Menominee,"Gourley Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,183
+Menominee,"Harris Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,548
+Menominee,"Holmes Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,168
+Menominee,"Ingallston Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,410
+Menominee,"Lake Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,214
+Menominee,"Mellen Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,428
+Menominee,"Menominee Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,1316
+Menominee,"Meyer Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,378
+Menominee,"Nadeau Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,440
+Menominee,"Spalding Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,510
+Menominee,"Stephenson Township, Precinct 1",Sheriff,,REP,Darrin Kudwa,267
+Menominee,"City of Menominee, Precinct 1",Sheriff,,REP,Darrin Kudwa,436
+Menominee,"City of Menominee, Precinct 2",Sheriff,,REP,Darrin Kudwa,580
+Menominee,"City of Menominee, Precinct 3",Sheriff,,REP,Darrin Kudwa,621
+Menominee,"City of Menominee, Precinct 4",Sheriff,,REP,Darrin Kudwa,602
+Menominee,"City of Stephenson, Precinct 1",Sheriff,,REP,Darrin Kudwa,287
+Menominee,"Cedarville Township, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Daggett Township, Precinct 1",Sheriff,,,Write-ins,2
+Menominee,"Faithorn Township, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Gourley Township, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Harris Township, Precinct 1",Sheriff,,,Write-ins,5
+Menominee,"Holmes Township, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Ingallston Township, Precinct 1",Sheriff,,,Write-ins,5
+Menominee,"Lake Township, Precinct 1",Sheriff,,,Write-ins,4
+Menominee,"Mellen Township, Precinct 1",Sheriff,,,Write-ins,5
+Menominee,"Menominee Township, Precinct 1",Sheriff,,,Write-ins,12
+Menominee,"Meyer Township, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Nadeau Township, Precinct 1",Sheriff,,,Write-ins,4
+Menominee,"Spalding Township, Precinct 1",Sheriff,,,Write-ins,5
+Menominee,"Stephenson Township, Precinct 1",Sheriff,,,Write-ins,2
+Menominee,"City of Menominee, Precinct 1",Sheriff,,,Write-ins,8
+Menominee,"City of Menominee, Precinct 2",Sheriff,,,Write-ins,3
+Menominee,"City of Menominee, Precinct 3",Sheriff,,,Write-ins,8
+Menominee,"City of Menominee, Precinct 4",Sheriff,,,Write-ins,3
+Menominee,"City of Stephenson, Precinct 1",Sheriff,,,Write-ins,0
+Menominee,"Cedarville Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,98
+Menominee,"Daggett Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,235
+Menominee,"Faithorn Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,113
+Menominee,"Gourley Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,163
+Menominee,"Harris Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,657
+Menominee,"Holmes Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,133
+Menominee,"Ingallston Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,382
+Menominee,"Lake Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,178
+Menominee,"Mellen Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,341
+Menominee,"Menominee Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,1239
+Menominee,"Meyer Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,373
+Menominee,"Nadeau Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,348
+Menominee,"Spalding Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,533
+Menominee,"Stephenson Township, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,201
+Menominee,"City of Menominee, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,538
+Menominee,"City of Menominee, Precinct 2",County Clerk and Register of Deeds,,DEM,Marc Kleiman,694
+Menominee,"City of Menominee, Precinct 3",County Clerk and Register of Deeds,,DEM,Marc Kleiman,722
+Menominee,"City of Menominee, Precinct 4",County Clerk and Register of Deeds,,DEM,Marc Kleiman,712
+Menominee,"City of Stephenson, Precinct 1",County Clerk and Register of Deeds,,DEM,Marc Kleiman,257
+Menominee,"Cedarville Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,2
+Menominee,"Daggett Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,16
+Menominee,"Faithorn Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,5
+Menominee,"Gourley Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,5
+Menominee,"Harris Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,27
+Menominee,"Holmes Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,10
+Menominee,"Ingallston Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,21
+Menominee,"Lake Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,9
+Menominee,"Mellen Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,35
+Menominee,"Menominee Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,52
+Menominee,"Meyer Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,18
+Menominee,"Nadeau Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,20
+Menominee,"Spalding Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,18
+Menominee,"Stephenson Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,14
+Menominee,"City of Menominee, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,44
+Menominee,"City of Menominee, Precinct 2",County Clerk and Register of Deeds,,,Write-ins,46
+Menominee,"City of Menominee, Precinct 3",County Clerk and Register of Deeds,,,Write-ins,64
+Menominee,"City of Menominee, Precinct 4",County Clerk and Register of Deeds,,,Write-ins,49
+Menominee,"City of Stephenson, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,15
+Menominee,"Cedarville Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,129
+Menominee,"Daggett Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,317
+Menominee,"Faithorn Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,148
+Menominee,"Gourley Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,237
+Menominee,"Harris Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,750
+Menominee,"Holmes Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,205
+Menominee,"Ingallston Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,508
+Menominee,"Lake Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,272
+Menominee,"Mellen Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,508
+Menominee,"Menominee Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,1621
+Menominee,"Meyer Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,440
+Menominee,"Nadeau Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,516
+Menominee,"Spalding Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,661
+Menominee,"Stephenson Township, Precinct 1",Treasurer,,REP,Barbara A. Parrett,306
+Menominee,"City of Menominee, Precinct 1",Treasurer,,REP,Barbara A. Parrett,558
+Menominee,"City of Menominee, Precinct 2",Treasurer,,REP,Barbara A. Parrett,727
+Menominee,"City of Menominee, Precinct 3",Treasurer,,REP,Barbara A. Parrett,811
+Menominee,"City of Menominee, Precinct 4",Treasurer,,REP,Barbara A. Parrett,803
+Menominee,"City of Stephenson, Precinct 1",Treasurer,,REP,Barbara A. Parrett,369
+Menominee,"Cedarville Township, Precinct 1",Treasurer,,,Write-ins,2
+Menominee,"Daggett Township, Precinct 1",Treasurer,,,Write-ins,5
+Menominee,"Faithorn Township, Precinct 1",Treasurer,,,Write-ins,1
+Menominee,"Gourley Township, Precinct 1",Treasurer,,,Write-ins,2
+Menominee,"Harris Township, Precinct 1",Treasurer,,,Write-ins,28
+Menominee,"Holmes Township, Precinct 1",Treasurer,,,Write-ins,0
+Menominee,"Ingallston Township, Precinct 1",Treasurer,,,Write-ins,9
+Menominee,"Lake Township, Precinct 1",Treasurer,,,Write-ins,0
+Menominee,"Mellen Township, Precinct 1",Treasurer,,,Write-ins,4
+Menominee,"Menominee Township, Precinct 1",Treasurer,,,Write-ins,27
+Menominee,"Meyer Township, Precinct 1",Treasurer,,,Write-ins,4
+Menominee,"Nadeau Township, Precinct 1",Treasurer,,,Write-ins,3
+Menominee,"Spalding Township, Precinct 1",Treasurer,,,Write-ins,6
+Menominee,"Stephenson Township, Precinct 1",Treasurer,,,Write-ins,1
+Menominee,"City of Menominee, Precinct 1",Treasurer,,,Write-ins,27
+Menominee,"City of Menominee, Precinct 2",Treasurer,,,Write-ins,24
+Menominee,"City of Menominee, Precinct 3",Treasurer,,,Write-ins,18
+Menominee,"City of Menominee, Precinct 4",Treasurer,,,Write-ins,24
+Menominee,"City of Stephenson, Precinct 1",Treasurer,,,Write-ins,4
+Menominee,"Cedarville Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,92
+Menominee,"Daggett Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,208
+Menominee,"Faithorn Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,103
+Menominee,"Gourley Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,141
+Menominee,"Harris Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,623
+Menominee,"Holmes Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,127
+Menominee,"Ingallston Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,368
+Menominee,"Lake Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,165
+Menominee,"Mellen Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,313
+Menominee,"Menominee Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,1156
+Menominee,"Meyer Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,311
+Menominee,"Nadeau Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,307
+Menominee,"Spalding Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,477
+Menominee,"Stephenson Township, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,186
+Menominee,"City of Menominee, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,526
+Menominee,"City of Menominee, Precinct 2",County Road Commissioner,,DEM,Kenneth Bower,652
+Menominee,"City of Menominee, Precinct 3",County Road Commissioner,,DEM,Kenneth Bower,682
+Menominee,"City of Menominee, Precinct 4",County Road Commissioner,,DEM,Kenneth Bower,668
+Menominee,"City of Stephenson, Precinct 1",County Road Commissioner,,DEM,Kenneth Bower,235
+Menominee,"Cedarville Township, Precinct 1",County Road Commissioner,,,Write-ins,2
+Menominee,"Daggett Township, Precinct 1",County Road Commissioner,,,Write-ins,17
+Menominee,"Faithorn Township, Precinct 1",County Road Commissioner,,,Write-ins,5
+Menominee,"Gourley Township, Precinct 1",County Road Commissioner,,,Write-ins,6
+Menominee,"Harris Township, Precinct 1",County Road Commissioner,,,Write-ins,26
+Menominee,"Holmes Township, Precinct 1",County Road Commissioner,,,Write-ins,8
+Menominee,"Ingallston Township, Precinct 1",County Road Commissioner,,,Write-ins,23
+Menominee,"Lake Township, Precinct 1",County Road Commissioner,,,Write-ins,8
+Menominee,"Mellen Township, Precinct 1",County Road Commissioner,,,Write-ins,34
+Menominee,"Menominee Township, Precinct 1",County Road Commissioner,,,Write-ins,60
+Menominee,"Meyer Township, Precinct 1",County Road Commissioner,,,Write-ins,20
+Menominee,"Nadeau Township, Precinct 1",County Road Commissioner,,,Write-ins,16
+Menominee,"Spalding Township, Precinct 1",County Road Commissioner,,,Write-ins,17
+Menominee,"Stephenson Township, Precinct 1",County Road Commissioner,,,Write-ins,14
+Menominee,"City of Menominee, Precinct 1",County Road Commissioner,,,Write-ins,48
+Menominee,"City of Menominee, Precinct 2",County Road Commissioner,,,Write-ins,50
+Menominee,"City of Menominee, Precinct 3",County Road Commissioner,,,Write-ins,67
+Menominee,"City of Menominee, Precinct 4",County Road Commissioner,,,Write-ins,53
+Menominee,"City of Stephenson, Precinct 1",County Road Commissioner,,,Write-ins,17
+Menominee,"Cedarville Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,124
+Menominee,"Daggett Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,297
+Menominee,"Faithorn Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,141
+Menominee,"Gourley Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,232
+Menominee,"Harris Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,743
+Menominee,"Holmes Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,203
+Menominee,"Ingallston Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,510
+Menominee,"Lake Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,261
+Menominee,"Mellen Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,495
+Menominee,"Menominee Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,1613
+Menominee,"Meyer Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,418
+Menominee,"Nadeau Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,499
+Menominee,"Spalding Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,656
+Menominee,"Stephenson Township, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,287
+Menominee,"City of Menominee, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,551
+Menominee,"City of Menominee, Precinct 2",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,711
+Menominee,"City of Menominee, Precinct 3",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,799
+Menominee,"City of Menominee, Precinct 4",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,800
+Menominee,"City of Stephenson, Precinct 1",County Road Commissioner - Partial Term,,REP,Leonard Kosewski,347
+Menominee,"Cedarville Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,2
+Menominee,"Daggett Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,7
+Menominee,"Faithorn Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,1
+Menominee,"Gourley Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,2
+Menominee,"Harris Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,28
+Menominee,"Holmes Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,1
+Menominee,"Ingallston Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,8
+Menominee,"Lake Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,0
+Menominee,"Mellen Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,5
+Menominee,"Menominee Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,26
+Menominee,"Meyer Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,5
+Menominee,"Nadeau Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,4
+Menominee,"Spalding Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,7
+Menominee,"Stephenson Township, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,1
+Menominee,"City of Menominee, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,28
+Menominee,"City of Menominee, Precinct 2",County Road Commissioner - Partial Term,,,Write-ins,22
+Menominee,"City of Menominee, Precinct 3",County Road Commissioner - Partial Term,,,Write-ins,23
+Menominee,"City of Menominee, Precinct 4",County Road Commissioner - Partial Term,,,Write-ins,27
+Menominee,"City of Stephenson, Precinct 1",County Road Commissioner - Partial Term,,,Write-ins,3
+Menominee,"Cedarville Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Daggett Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Faithorn Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Gourley Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Harris Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Holmes Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Ingallston Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Lake Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Mellen Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Menominee Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,14
+Menominee,"Meyer Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Nadeau Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,1
+Menominee,"Spalding Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Stephenson Township, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"City of Menominee, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"City of Menominee, Precinct 2",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"City of Menominee, Precinct 3",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"City of Menominee, Precinct 4",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"City of Stephenson, Precinct 1",Drain Commissioner,,,David Alan Anderson,0
+Menominee,"Cedarville Township, Precinct 1",Drain Commissioner,,,Write-ins,5
+Menominee,"Daggett Township, Precinct 1",Drain Commissioner,,,Write-ins,32
+Menominee,"Faithorn Township, Precinct 1",Drain Commissioner,,,Write-ins,16
+Menominee,"Gourley Township, Precinct 1",Drain Commissioner,,,Write-ins,8
+Menominee,"Harris Township, Precinct 1",Drain Commissioner,,,Write-ins,79
+Menominee,"Holmes Township, Precinct 1",Drain Commissioner,,,Write-ins,22
+Menominee,"Ingallston Township, Precinct 1",Drain Commissioner,,,Write-ins,44
+Menominee,"Lake Township, Precinct 1",Drain Commissioner,,,Write-ins,12
+Menominee,"Mellen Township, Precinct 1",Drain Commissioner,,,Write-ins,49
+Menominee,"Menominee Township, Precinct 1",Drain Commissioner,,,Write-ins,112
+Menominee,"Meyer Township, Precinct 1",Drain Commissioner,,,Write-ins,43
+Menominee,"Nadeau Township, Precinct 1",Drain Commissioner,,,Write-ins,30
+Menominee,"Spalding Township, Precinct 1",Drain Commissioner,,,Write-ins,59
+Menominee,"Stephenson Township, Precinct 1",Drain Commissioner,,,Write-ins,24
+Menominee,"City of Menominee, Precinct 1",Drain Commissioner,,,Write-ins,105
+Menominee,"City of Menominee, Precinct 2",Drain Commissioner,,,Write-ins,78
+Menominee,"City of Menominee, Precinct 3",Drain Commissioner,,,Write-ins,110
+Menominee,"City of Menominee, Precinct 4",Drain Commissioner,,,Write-ins,109
+Menominee,"City of Stephenson, Precinct 1",Drain Commissioner,,,Write-ins,30

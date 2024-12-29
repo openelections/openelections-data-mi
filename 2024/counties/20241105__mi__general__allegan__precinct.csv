@@ -1,0 +1,1967 @@
+county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
+Allegan,"City of Allegan, Precinct 1 ALG",Registered Voters,,,,,,,4201
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Registered Voters,,,,,,,1419
+Allegan,"City of Fennville, Precinct 1 FEN",Registered Voters,,,,,,,1144
+Allegan,"City of Otsego, Precinct 1 OTS",Registered Voters,,,,,,,3228
+Allegan,"City of Plainwell, Precinct 1 PLA",Registered Voters,,,,,,,2915
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Registered Voters,,,,,,,849
+Allegan,"City of Wayland, Precinct 1 WAY",Registered Voters,,,,,,,1755
+Allegan,"City of Wayland, Precinct 2 - WAY",Registered Voters,,,,,,,1770
+Allegan,"Allegan Township, Precinct 1",Registered Voters,,,,,,,4021
+Allegan,"Casco Township, Precinct 1",Registered Voters,,,,,,,2698
+Allegan,"Cheshire Township, Precinct 1",Registered Voters,,,,,,,1912
+Allegan,"Clyde Township, Precinct 1 FEN",Registered Voters,,,,,,,1633
+Allegan,"Dorr Township, Precinct 1 HOP",Registered Voters,,,,,,,1727
+Allegan,"Dorn Township, Precinct 2 - WAY",Registered Voters,,,,,,,2548
+Allegan,"Dorn Township, Precinct 3 - WAY",Registered Voters,,,,,,,2028
+Allegan,"Fillmore Township, Precinct 1",Registered Voters,,,,,,,2459
+Allegan,"Ganges Township, Precinct 1",Registered Voters,,,,,,,2432
+Allegan,"Gun Plain Township, Precinct 1",Registered Voters,,,,,,,5134
+Allegan,"Heath Township, Precinct 1 HAM",Registered Voters,,,,,,,2767
+Allegan,"Heath Township, Precinct 2 ALG",Registered Voters,,,,,,,544
+Allegan,"Hopkins Township, Precinct 1",Registered Voters,,,,,,,2161
+Allegan,"Laketown Township, Precinct 1 HOL",Registered Voters,,,,,,,1948
+Allegan,"Laketown Township, Precinct 2 HAM",Registered Voters,,,,,,,2593
+Allegan,"Laketown Township, Precinct 3 SAU",Registered Voters,,,,,,,996
+Allegan,"Lee Township, Precinct 1",Registered Voters,,,,,,,2932
+Allegan,"Leighton Township, Precinct 1 - WAY",Registered Voters,,,,,,,1886
+Allegan,"Leighton Township, Precinct 2",Registered Voters,,,,,,,2117
+Allegan,"Leighton Township, Precinct 3 WAY",Registered Voters,,,,,,,1677
+Allegan,"Manlius Township, Precinct 1",Registered Voters,,,,,,,2818
+Allegan,"Martin Township, Precinct 1",Registered Voters,,,,,,,2257
+Allegan,"Monterey Township, Precinct 1",Registered Voters,,,,,,,2057
+Allegan,"Otsego Township, Precinct 1",Registered Voters,,,,,,,2499
+Allegan,"Otsego Township, Precinct 2",Registered Voters,,,,,,,2575
+Allegan,"Overisel Township, Precinct 1",Registered Voters,,,,,,,2484
+Allegan,"Salem Township, Precinct 1",Registered Voters,,,,,,,2033
+Allegan,"Salem Township, Precinct 2 HOP",Registered Voters,,,,,,,2180
+Allegan,"Saugatuck Township, Precinct 1",Registered Voters,,,,,,,3366
+Allegan,"Trowbridge Township, Precinct 1",Registered Voters,,,,,,,2227
+Allegan,"Valley Township, Precinct 1",Registered Voters,,,,,,,2046
+Allegan,"Watson Township, Precinct 1",Registered Voters,,,,,,,1859
+Allegan,"Wayland Township, Precinct 1",Registered Voters,,,,,,,3024
+Allegan,"Orangeville Township, Precinct 1",Registered Voters,,,,,,,578
+Allegan,"Alamo Township, Precinct 10",Registered Voters,,,,,,,1246
+Allegan,"Alamo Township, Precinct 2",Registered Voters,,,,,,,2129
+Allegan,"Oshtemo Township, Precinct 10",Registered Voters,,,,,,,1441
+Allegan,"Pine Grove Township, Precinct 1B",Registered Voters,,,,,,,231
+Allegan,"Prairieville Township, Precinct 1PL",Registered Voters,,,,,,,5
+Allegan,"Yankee Springs, Precinct 1W",Registered Voters,,,,,,,194
+Allegan,"Yankee Springs, Precinct 2W",Registered Voters,,,,,,,1233
+Allegan,"City of Allegan, Precinct 1 ALG",Ballots Cast,,,,1582,0,822,2404
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Ballots Cast,,,,199,521,342,1062
+Allegan,"City of Fennville, Precinct 1 FEN",Ballots Cast,,,,404,0,203,607
+Allegan,"City of Otsego, Precinct 1 OTS",Ballots Cast,,,,594,837,669,2100
+Allegan,"City of Plainwell, Precinct 1 PLA",Ballots Cast,,,,592,741,669,2002
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Ballots Cast,,,,533,0,146,679
+Allegan,"City of Wayland, Precinct 1 WAY",Ballots Cast,,,,506,316,307,1129
+Allegan,"City of Wayland, Precinct 2 - WAY",Ballots Cast,,,,483,310,444,1237
+Allegan,"Allegan Township, Precinct 1",Ballots Cast,,,,747,920,1148,2815
+Allegan,"Casco Township, Precinct 1",Ballots Cast,,,,466,747,665,1878
+Allegan,"Cheshire Township, Precinct 1",Ballots Cast,,,,419,265,488,1172
+Allegan,"Clyde Township, Precinct 1 FEN",Ballots Cast,,,,468,225,284,977
+Allegan,"Dorr Township, Precinct 1 HOP",Ballots Cast,,,,377,459,579,1415
+Allegan,"Dorn Township, Precinct 2 - WAY",Ballots Cast,,,,584,626,817,2027
+Allegan,"Dorn Township, Precinct 3 - WAY",Ballots Cast,,,,565,411,588,1564
+Allegan,"Fillmore Township, Precinct 1",Ballots Cast,,,,505,618,749,1872
+Allegan,"Ganges Township, Precinct 1",Ballots Cast,,,,644,673,453,1770
+Allegan,"Gun Plain Township, Precinct 1",Ballots Cast,,,,1011,1341,1497,3849
+Allegan,"Heath Township, Precinct 1 HAM",Ballots Cast,,,,491,754,926,2171
+Allegan,"Heath Township, Precinct 2 ALG",Ballots Cast,,,,127,137,152,416
+Allegan,"Hopkins Township, Precinct 1",Ballots Cast,,,,534,414,690,1638
+Allegan,"Laketown Township, Precinct 1 HOL",Ballots Cast,,,,372,618,577,1567
+Allegan,"Laketown Township, Precinct 2 HAM",Ballots Cast,,,,617,784,700,2101
+Allegan,"Laketown Township, Precinct 3 SAU",Ballots Cast,,,,191,290,318,799
+Allegan,"Lee Township, Precinct 1",Ballots Cast,,,,722,276,275,1273
+Allegan,"Leighton Township, Precinct 1 - WAY",Ballots Cast,,,,438,335,518,1291
+Allegan,"Leighton Township, Precinct 2",Ballots Cast,,,,510,555,675,1740
+Allegan,"Leighton Township, Precinct 3 WAY",Ballots Cast,,,,399,444,540,1383
+Allegan,"Manlius Township, Precinct 1",Ballots Cast,,,,687,731,725,2143
+Allegan,"Martin Township, Precinct 1",Ballots Cast,,,,569,419,585,1573
+Allegan,"Monterey Township, Precinct 1",Ballots Cast,,,,672,374,448,1494
+Allegan,"Otsego Township, Precinct 1",Ballots Cast,,,,456,710,686,1852
+Allegan,"Otsego Township, Precinct 2",Ballots Cast,,,,462,610,623,1695
+Allegan,"Overisel Township, Precinct 1",Ballots Cast,,,,807,674,594,2075
+Allegan,"Salem Township, Precinct 1",Ballots Cast,,,,571,440,660,1671
+Allegan,"Salem Township, Precinct 2 HOP",Ballots Cast,,,,519,544,663,1726
+Allegan,"Saugatuck Township, Precinct 1",Ballots Cast,,,,442,1433,827,2702
+Allegan,"Trowbridge Township, Precinct 1",Ballots Cast,,,,833,0,634,1467
+Allegan,"Valley Township, Precinct 1",Ballots Cast,,,,851,0,516,1367
+Allegan,"Watson Township, Precinct 1",Ballots Cast,,,,757,0,515,1272
+Allegan,"Wayland Township, Precinct 1",Ballots Cast,,,,610,691,905,2206
+Allegan,"Orangeville Township, Precinct 1",Ballots Cast,,,,1687,0,0,1687
+Allegan,"Alamo Township, Precinct 10",Ballots Cast,,,,624,0,0,624
+Allegan,"Alamo Township, Precinct 2",Ballots Cast,,,,1208,0,0,1208
+Allegan,"Oshtemo Township, Precinct 10",Ballots Cast,,,,792,0,0,792
+Allegan,"Pine Grove Township, Precinct 1B",Ballots Cast,,,,124,0,0,124
+Allegan,"Prairieville Township, Precinct 1PL",Ballots Cast,,,,0,0,0,0
+Allegan,"Yankee Springs, Precinct 1W",Ballots Cast,,,,161,0,0,161
+Allegan,"Yankee Springs, Precinct 2W",Ballots Cast,,,,1014,0,0,1014
+Allegan,"Byron Township, Precinct 5",Ballots Cast,,,,6,0,0,6
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,DEM,Democratic,381,0,223,604
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,REP,Republican,478,0,269,747
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,LIB,Libertarian,6,0,2,8
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,GRN,Green,5,0,0,5
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,WCP,Working Class,9,0,0,9
+Allegan,"City of Allegan, Precinct 1 - ALG",Straight Party,,NLP,Natural Law,3,0,0,3
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,DEM,Democratic,66,231,125,422
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,REP,Republican,46,71,78,195
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,LIB,Libertarian,0,1,1,2
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,DEM,Democratic,135,0,53,188
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,REP,Republican,113,0,73,186
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,LIB,Libertarian,1,0,1,2
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,UST,U.S. Taxpayers,1,0,1,2
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,WCP,Working Class,5,0,0,5
+Allegan,"City of Fennville, Precinct 1 - FEN",Straight Party,,NLP,Natural Law,0,0,1,1
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,DEM,Democratic,85,280,113,478
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,REP,Republican,232,196,306,734
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,LIB,Libertarian,2,1,2,5
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,WCP,Working Class,1,1,1,3
+Allegan,"City of Otsego, Precinct 1 - OTS",Straight Party,,NLP,Natural Law,2,1,0,3
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,DEM,Democratic,109,290,115,514
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,REP,Republican,231,144,233,608
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,LIB,Libertarian,4,2,1,7
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,UST,U.S. Taxpayers,2,1,0,3
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,GRN,Green,2,1,1,4
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,WCP,Working Class,1,1,4,6
+Allegan,"City of Plainwell, Precinct 1 - PLA",Straight Party,,NLP,Natural Law,0,1,1,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,DEM,Democratic,184,0,39,223
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,REP,Republican,102,0,35,137
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,LIB,Libertarian,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,GRN,Green,0,0,1,1
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,DEM,Democratic,91,96,52,239
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,REP,Republican,205,94,145,444
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,LIB,Libertarian,2,0,1,3
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,GRN,Green,1,1,0,2
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,WCP,Working Class,5,1,0,6
+Allegan,"City of Wayland, Precinct 1 - WAY",Straight Party,,NLP,Natural Law,2,0,0,2
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,DEM,Democratic,77,81,68,226
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,REP,Republican,169,104,200,473
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,LIB,Libertarian,1,1,0,2
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,UST,U.S. Taxpayers,1,2,1,4
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,WCP,Working Class,2,2,0,4
+Allegan,"City of Wayland, Precinct 2 - WAY",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Allegan Township, Precinct 1",Straight Party,,DEM,Democratic,91,259,159,509
+Allegan,"Allegan Township, Precinct 1",Straight Party,,REP,Republican,324,238,473,1035
+Allegan,"Allegan Township, Precinct 1",Straight Party,,LIB,Libertarian,4,1,3,8
+Allegan,"Allegan Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,2,1,5
+Allegan,"Allegan Township, Precinct 1",Straight Party,,GRN,Green,0,1,0,1
+Allegan,"Allegan Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,6,8
+Allegan,"Allegan Township, Precinct 1",Straight Party,,NLP,Natural Law,0,1,1,2
+Allegan,"Casco Township, Precinct 1",Straight Party,,DEM,Democratic,65,219,93,377
+Allegan,"Casco Township, Precinct 1",Straight Party,,REP,Republican,152,176,233,561
+Allegan,"Casco Township, Precinct 1",Straight Party,,LIB,Libertarian,2,1,0,3
+Allegan,"Casco Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,3,0,3
+Allegan,"Casco Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Casco Township, Precinct 1",Straight Party,,WCP,Working Class,2,1,0,3
+Allegan,"Casco Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,DEM,Democratic,51,84,50,185
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,REP,Republican,190,74,237,501
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1,2
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,GRN,Green,1,0,1,2
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,WCP,Working Class,6,0,3,9
+Allegan,"Cheshire Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,2,3
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,DEM,Democratic,99,68,76,243
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,REP,Republican,215,66,105,386
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,LIB,Libertarian,1,0,0,1
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,GRN,Green,1,2,0,3
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,WCP,Working Class,5,3,1,9
+Allegan,"Clyde Township, Precinct 1 - FEN",Straight Party,,NLP,Natural Law,2,0,1,3
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,DEM,Democratic,23,114,30,167
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,REP,Republican,184,180,305,669
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,LIB,Libertarian,2,1,0,3
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,GRN,Green,0,0,1,1
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,WCP,Working Class,0,0,2,2
+Allegan,"Dorr Township, Precinct 1 - HOP",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,DEM,Democratic,48,131,37,216
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,REP,Republican,261,227,438,926
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,LIB,Libertarian,0,0,0,0
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,UST,U.S. Taxpayers,1,2,1,4
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,GRN,Green,0,0,1,1
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,WCP,Working Class,3,2,0,5
+Allegan,"Dorr Township, Precinct 2 - WAY",Straight Party,,NLP,Natural Law,0,1,0,1
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,DEM,Democratic,76,116,49,241
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,REP,Republican,229,142,308,679
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,LIB,Libertarian,3,0,1,4
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,UST,U.S. Taxpayers,0,1,0,1
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,WCP,Working Class,4,1,1,6
+Allegan,"Dorr Township, Precinct 3 - WAY",Straight Party,,NLP,Natural Law,0,0,1,1
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,DEM,Democratic,54,107,73,234
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,REP,Republican,279,314,431,1024
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,LIB,Libertarian,1,2,1,4
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,WCP,Working Class,0,1,1,2
+Allegan,"Fillmore Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",Straight Party,,DEM,Democratic,124,225,93,442
+Allegan,"Ganges Township, Precinct 1",Straight Party,,REP,Republican,246,153,193,592
+Allegan,"Ganges Township, Precinct 1",Straight Party,,LIB,Libertarian,1,1,1,3
+Allegan,"Ganges Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,2,0,2
+Allegan,"Ganges Township, Precinct 1",Straight Party,,GRN,Green,1,2,0,3
+Allegan,"Ganges Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,DEM,Democratic,115,432,272,819
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,REP,Republican,418,344,567,1329
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,LIB,Libertarian,4,2,1,7
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,1,1,2
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,GRN,Green,1,1,1,3
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,WCP,Working Class,5,1,0,6
+Allegan,"Gun Plain Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,DEM,Democratic,39,132,75,246
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,REP,Republican,273,344,503,1120
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,LIB,Libertarian,0,1,3,4
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,UST,U.S. Taxpayers,2,1,0,3
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,GRN,Green,0,1,0,1
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,WCP,Working Class,2,2,1,5
+Allegan,"Heath Township, Precinct 1 - HAM",Straight Party,,NLP,Natural Law,0,3,0,3
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,DEM,Democratic,13,25,10,48
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,REP,Republican,65,42,85,192
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,LIB,Libertarian,0,0,0,0
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,WCP,Working Class,1,1,0,2
+Allegan,"Heath Township, Precinct 2 - ALG",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,DEM,Democratic,43,89,59,191
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,REP,Republican,254,137,360,751
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,LIB,Libertarian,4,3,1,8
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,GRN,Green,1,1,0,2
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,WCP,Working Class,3,1,2,6
+Allegan,"Hopkins Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,DEM,Democratic,63,171,92,326
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,REP,Republican,130,169,223,522
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,LIB,Libertarian,1,0,0,1
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,GRN,Green,1,1,0,2
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,WCP,Working Class,1,0,0,1
+Allegan,"Laketown Township, Precinct 1 - HOL",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,DEM,Democratic,74,159,80,313
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,REP,Republican,254,323,318,895
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,LIB,Libertarian,1,2,0,3
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,GRN,Green,3,0,2,5
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,WCP,Working Class,4,0,1,5
+Allegan,"Laketown Township, Precinct 2 - HAM",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,DEM,Democratic,32,74,47,153
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,REP,Republican,76,79,135,290
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,LIB,Libertarian,4,0,0,4
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"Laketown Township, Precinct 3 - SAU",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Lee Township, Precinct 1",Straight Party,,DEM,Democratic,168,110,48,326
+Allegan,"Lee Township, Precinct 1",Straight Party,,REP,Republican,295,65,139,499
+Allegan,"Lee Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Allegan,"Lee Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,3,0,1,4
+Allegan,"Lee Township, Precinct 1",Straight Party,,GRN,Green,1,0,1,2
+Allegan,"Lee Township, Precinct 1",Straight Party,,WCP,Working Class,10,1,0,11
+Allegan,"Lee Township, Precinct 1",Straight Party,,NLP,Natural Law,3,0,0,3
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,DEM,Democratic,52,68,36,156
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,REP,Republican,204,158,317,679
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,LIB,Libertarian,1,1,3,5
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,UST,U.S. Taxpayers,0,0,1,1
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,WCP,Working Class,4,2,0,6
+Allegan,"Leighton Township, Precinct 1 - WAY",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Leighton Township, Precinct 2",Straight Party,,DEM,Democratic,58,114,59,231
+Allegan,"Leighton Township, Precinct 2",Straight Party,,REP,Republican,205,235,363,803
+Allegan,"Leighton Township, Precinct 2",Straight Party,,LIB,Libertarian,2,1,1,4
+Allegan,"Leighton Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Leighton Township, Precinct 2",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Leighton Township, Precinct 2",Straight Party,,WCP,Working Class,0,0,1,1
+Allegan,"Leighton Township, Precinct 2",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,DEM,Democratic,35,97,43,175
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,REP,Republican,206,186,301,693
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,LIB,Libertarian,0,1,1,2
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,UST,U.S. Taxpayers,0,1,1,2
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,WCP,Working Class,0,1,0,1
+Allegan,"Leighton Township, Precinct 3 - WAY",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Manlius Township, Precinct 1",Straight Party,,DEM,Democratic,63,155,78,296
+Allegan,"Manlius Township, Precinct 1",Straight Party,,REP,Republican,313,266,372,951
+Allegan,"Manlius Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,1,3
+Allegan,"Manlius Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,1,1
+Allegan,"Manlius Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Manlius Township, Precinct 1",Straight Party,,WCP,Working Class,1,1,1,3
+Allegan,"Manlius Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Martin Township, Precinct 1",Straight Party,,DEM,Democratic,61,102,58,221
+Allegan,"Martin Township, Precinct 1",Straight Party,,REP,Republican,282,143,302,727
+Allegan,"Martin Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,1,1
+Allegan,"Martin Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Martin Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Martin Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"Martin Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Monterey Township, Precinct 1",Straight Party,,DEM,Democratic,48,78,48,174
+Allegan,"Monterey Township, Precinct 1",Straight Party,,REP,Republican,339,141,243,723
+Allegan,"Monterey Township, Precinct 1",Straight Party,,LIB,Libertarian,1,1,1,3
+Allegan,"Monterey Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Allegan,"Monterey Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Monterey Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,1,4
+Allegan,"Monterey Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Otsego Township, Precinct 1",Straight Party,,DEM,Democratic,66,223,93,382
+Allegan,"Otsego Township, Precinct 1",Straight Party,,REP,Republican,168,191,293,652
+Allegan,"Otsego Township, Precinct 1",Straight Party,,LIB,Libertarian,1,2,0,3
+Allegan,"Otsego Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,3,1,4
+Allegan,"Otsego Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Otsego Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,1,3
+Allegan,"Otsego Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,1,1
+Allegan,"Otsego Township, Precinct 2",Straight Party,,DEM,Democratic,67,205,76,348
+Allegan,"Otsego Township, Precinct 2",Straight Party,,REP,Republican,193,157,270,620
+Allegan,"Otsego Township, Precinct 2",Straight Party,,LIB,Libertarian,1,1,1,3
+Allegan,"Otsego Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,2,2,1,5
+Allegan,"Otsego Township, Precinct 2",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Otsego Township, Precinct 2",Straight Party,,WCP,Working Class,4,2,1,7
+Allegan,"Otsego Township, Precinct 2",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"Overisel Township, Precinct 1",Straight Party,,DEM,Democratic,47,61,34,142
+Allegan,"Overisel Township, Precinct 1",Straight Party,,REP,Republican,427,381,349,1157
+Allegan,"Overisel Township, Precinct 1",Straight Party,,LIB,Libertarian,4,0,3,7
+Allegan,"Overisel Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Overisel Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Overisel Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"Overisel Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1,2
+Allegan,"Salem Township, Precinct 1",Straight Party,,DEM,Democratic,28,57,33,118
+Allegan,"Salem Township, Precinct 1",Straight Party,,REP,Republican,325,192,425,942
+Allegan,"Salem Township, Precinct 1",Straight Party,,LIB,Libertarian,3,0,1,4
+Allegan,"Salem Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Salem Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Salem Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,0,3
+Allegan,"Salem Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,DEM,Democratic,36,95,49,180
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,REP,Republican,241,217,389,847
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,LIB,Libertarian,4,3,0,7
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"Salem Township, Precinct 2 - HOP",Straight Party,,NLP,Natural Law,1,0,1,2
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,DEM,Democratic,99,549,215,863
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,REP,Republican,151,309,277,737
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2,4
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,1,0,1
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,WCP,Working Class,1,1,0,2
+Allegan,"Saugatuck Township, Precinct 1",Straight Party,,NLP,Natural Law,0,1,0,1
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,DEM,Democratic,162,0,102,264
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,REP,Republican,297,0,300,597
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,2,3
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,GRN,Green,3,0,0,3
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Allegan,"Trowbridge Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Valley Township, Precinct 1",Straight Party,,DEM,Democratic,157,0,55,212
+Allegan,"Valley Township, Precinct 1",Straight Party,,REP,Republican,311,0,240,551
+Allegan,"Valley Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,1,1
+Allegan,"Valley Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Valley Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Allegan,"Valley Township, Precinct 1",Straight Party,,WCP,Working Class,7,0,1,8
+Allegan,"Valley Township, Precinct 1",Straight Party,,NLP,Natural Law,3,0,1,4
+Allegan,"Watson Township, Precinct 1",Straight Party,,DEM,Democratic,114,0,56,170
+Allegan,"Watson Township, Precinct 1",Straight Party,,REP,Republican,295,0,254,549
+Allegan,"Watson Township, Precinct 1",Straight Party,,LIB,Libertarian,6,0,2,8
+Allegan,"Watson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"Watson Township, Precinct 1",Straight Party,,GRN,Green,0,0,1,1
+Allegan,"Watson Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Allegan,"Watson Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"Wayland Township, Precinct 1",Straight Party,,DEM,Democratic,72,165,112,349
+Allegan,"Wayland Township, Precinct 1",Straight Party,,REP,Republican,282,253,430,965
+Allegan,"Wayland Township, Precinct 1",Straight Party,,LIB,Libertarian,3,1,3,7
+Allegan,"Wayland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Allegan,"Wayland Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"Wayland Township, Precinct 1",Straight Party,,WCP,Working Class,4,1,1,6
+Allegan,"Wayland Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1,2
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,DEM,Democratic,96,186,25,307
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,REP,Republican,216,131,61,408
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,LIB,Libertarian,1,2,0,3
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,WCP,Working Class,2,0,0,2
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",Straight Party,,NLP,Natural Law,0,1,0,1
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,DEM,Democratic,234,223,68,525
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,REP,Republican,217,343,112,672
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,LIB,Libertarian,1,4,0,5
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,UST,U.S. Taxpayers,2,1,0,3
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,GRN,Green,0,1,0,1
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,WCP,Working Class,2,6,0,8
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",Straight Party,,NLP,Natural Law,1,2,0,3
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,DEM,Democratic,80,177,46,303
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,REP,Republican,157,187,79,423
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,LIB,Libertarian,3,1,0,4
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,WCP,Working Class,1,2,0,3
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",Straight Party,,NLP,Natural Law,1,0,0,1
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,DEM,Democratic,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,REP,Republican,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,LIB,Libertarian,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,GRN,Green,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,WCP,Working Class,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",Straight Party,,NLP,Natural Law,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,DEM,Kamala D. Harris,748,0,358,1106
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,REP,Donald J. Trump,793,0,447,1240
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,LIB,Chase Oliver,5,0,3,8
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,UST,Randall Terry,2,0,1,3
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,GRN,Jill Stein,9,0,2,11
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,NLP,Robert F. Kennedy Jr.,15,0,5,20
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,NPA,Joseph Kishore,1,0,1,2
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",President,,,Write-ins,2,0,2,4
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,DEM,Kamala D. Harris,110,419,216,745
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,REP,Donald J. Trump,87,96,122,305
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,LIB,Chase Oliver,0,1,0,1
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,UST,Randall Terry,0,1,0,1
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,GRN,Jill Stein,0,0,0,0
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,NLP,Robert F. Kennedy Jr.,0,1,1,2
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,NPA,Joseph Kishore,0,0,1,1
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,NPA,Cornel West,1,0,0,1
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",President,,,Write-ins,0,1,0,1
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,DEM,Kamala D. Harris,213,0,84,297
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,REP,Donald J. Trump,180,0,113,293
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,LIB,Chase Oliver,1,0,1,2
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,UST,Randall Terry,1,0,0,1
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,GRN,Jill Stein,3,0,0,3
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,NLP,Robert F. Kennedy Jr.,4,0,4,8
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,NPA,Cornel West,1,0,0,1
+Allegan,"City of Fennville, Precinct 1 - FEN",President,,,Write-ins,0,0,1,1
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,DEM,Kamala D. Harris,173,511,208,892
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,REP,Donald J. Trump,398,303,453,1154
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,LIB,Chase Oliver,7,6,2,15
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,UST,Randall Terry,1,3,0,4
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,GRN,Jill Stein,2,1,1,4
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,NLP,Robert F. Kennedy Jr.,6,6,4,16
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,NPA,Cornel West,0,1,0,1
+Allegan,"City of Otsego, Precinct 1 - OTS",President,,,Write-ins,2,2,0,4
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,DEM,Kamala D. Harris,200,488,255,943
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,REP,Donald J. Trump,376,221,400,997
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,LIB,Chase Oliver,7,8,2,17
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,UST,Randall Terry,0,0,1,1
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,GRN,Jill Stein,6,2,2,10
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,NLP,Robert F. Kennedy Jr.,3,6,7,16
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Plainwell, Precinct 1 - PLA",President,,,Write-ins,0,3,0,3
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,DEM,Kamala D. Harris,352,0,87,439
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,REP,Donald J. Trump,171,0,54,225
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,LIB,Chase Oliver,2,0,0,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,UST,Randall Terry,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,GRN,Jill Stein,1,0,1,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,NLP,Robert F. Kennedy Jr.,2,0,1,3
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",President,,,Write-ins,1,0,2,3
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,DEM,Kamala D. Harris,164,175,87,426
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,REP,Donald J. Trump,333,130,216,679
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,LIB,Chase Oliver,2,0,1,3
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,UST,Randall Terry,1,0,0,1
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,GRN,Jill Stein,1,3,0,4
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,NLP,Robert F. Kennedy Jr.,3,5,2,10
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Wayland, Precinct 1 - WAY",President,,,Write-ins,0,2,0,2
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,DEM,Kamala D. Harris,167,162,131,460
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,REP,Donald J. Trump,304,140,305,749
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,LIB,Chase Oliver,2,3,2,7
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,UST,Randall Terry,1,2,1,4
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,GRN,Jill Stein,3,1,0,4
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,NLP,Robert F. Kennedy Jr.,3,1,3,7
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Wayland, Precinct 2 - WAY",President,,,Write-ins,2,0,1,3
+Allegan,"Allegan Township, Precinct 1",President,,DEM,Kamala D. Harris,175,549,335,1059
+Allegan,"Allegan Township, Precinct 1",President,,REP,Donald J. Trump,552,347,793,1692
+Allegan,"Allegan Township, Precinct 1",President,,LIB,Chase Oliver,7,5,7,19
+Allegan,"Allegan Township, Precinct 1",President,,UST,Randall Terry,1,0,1,2
+Allegan,"Allegan Township, Precinct 1",President,,GRN,Jill Stein,2,3,2,7
+Allegan,"Allegan Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,6,7,4,17
+Allegan,"Allegan Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,1,1
+Allegan,"Allegan Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Allegan Township, Precinct 1",President,,,Write-ins,2,3,3,8
+Allegan,"Casco Township, Precinct 1",President,,DEM,Kamala D. Harris,170,428,215,813
+Allegan,"Casco Township, Precinct 1",President,,REP,Donald J. Trump,285,304,442,1031
+Allegan,"Casco Township, Precinct 1",President,,LIB,Chase Oliver,2,3,3,8
+Allegan,"Casco Township, Precinct 1",President,,UST,Randall Terry,0,2,1,3
+Allegan,"Casco Township, Precinct 1",President,,GRN,Jill Stein,0,2,0,2
+Allegan,"Casco Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,4,0,8
+Allegan,"Casco Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Casco Township, Precinct 1",President,,NPA,Cornel West,2,0,1,3
+Allegan,"Casco Township, Precinct 1",President,,,Write-ins,0,1,0,1
+Allegan,"Cheshire Township, Precinct 1",President,,DEM,Kamala D. Harris,97,144,114,355
+Allegan,"Cheshire Township, Precinct 1",President,,REP,Donald J. Trump,311,118,367,796
+Allegan,"Cheshire Township, Precinct 1",President,,LIB,Chase Oliver,3,1,2,6
+Allegan,"Cheshire Township, Precinct 1",President,,UST,Randall Terry,0,0,1,1
+Allegan,"Cheshire Township, Precinct 1",President,,GRN,Jill Stein,4,0,1,5
+Allegan,"Cheshire Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,1,1,3
+Allegan,"Cheshire Township, Precinct 1",President,,NPA,Joseph Kishore,0,1,0,1
+Allegan,"Cheshire Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Cheshire Township, Precinct 1",President,,,Write-ins,2,0,0,2
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,DEM,Kamala D. Harris,159,128,123,410
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,REP,Donald J. Trump,302,90,157,549
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,LIB,Chase Oliver,1,1,1,3
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,GRN,Jill Stein,3,2,0,5
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,NLP,Robert F. Kennedy Jr.,3,2,1,6
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Clyde Township, Precinct 1 - FEN",President,,,Write-ins,0,0,0,0
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,DEM,Kamala D. Harris,57,185,77,319
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,REP,Donald J. Trump,311,267,497,1075
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,LIB,Chase Oliver,2,1,2,5
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,UST,Randall Terry,0,0,1,1
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,GRN,Jill Stein,1,2,0,3
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,NLP,Robert F. Kennedy Jr.,2,1,1,4
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Dorr Township, Precinct 1 - HOP",President,,,Write-ins,1,0,0,1
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,DEM,Kamala D. Harris,107,264,100,471
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,REP,Donald J. Trump,459,347,704,1510
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,LIB,Chase Oliver,6,3,4,13
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,UST,Randall Terry,1,1,2,4
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,GRN,Jill Stein,5,1,1,7
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,NLP,Robert F. Kennedy Jr.,3,2,5,10
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,NPA,Cornel West,0,1,0,1
+Allegan,"Dorr Township, Precinct 2 - WAY",President,,,Write-ins,1,3,0,4
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,DEM,Kamala D. Harris,140,190,105,435
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,REP,Donald J. Trump,413,210,479,1102
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,LIB,Chase Oliver,4,6,1,11
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,GRN,Jill Stein,1,2,0,3
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,NLP,Robert F. Kennedy Jr.,4,2,2,8
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Dorr Township, Precinct 3 - WAY",President,,,Write-ins,0,0,0,0
+Allegan,"Fillmore Township, Precinct 1",President,,DEM,Kamala D. Harris,87,197,153,437
+Allegan,"Fillmore Township, Precinct 1",President,,REP,Donald J. Trump,409,404,587,1400
+Allegan,"Fillmore Township, Precinct 1",President,,LIB,Chase Oliver,3,2,3,8
+Allegan,"Fillmore Township, Precinct 1",President,,UST,Randall Terry,0,1,0,1
+Allegan,"Fillmore Township, Precinct 1",President,,GRN,Jill Stein,2,2,0,4
+Allegan,"Fillmore Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,2,0,4
+Allegan,"Fillmore Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Fillmore Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Fillmore Township, Precinct 1",President,,,Write-ins,0,3,2,5
+Allegan,"Ganges Township, Precinct 1",President,,DEM,Kamala D. Harris,246,434,166,846
+Allegan,"Ganges Township, Precinct 1",President,,REP,Donald J. Trump,383,227,284,894
+Allegan,"Ganges Township, Precinct 1",President,,LIB,Chase Oliver,4,1,2,7
+Allegan,"Ganges Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",President,,GRN,Jill Stein,2,1,0,3
+Allegan,"Ganges Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,2,0,5
+Allegan,"Ganges Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",President,,,Write-ins,4,3,1,8
+Allegan,"Gun Plain Township, Precinct 1",President,,DEM,Kamala D. Harris,283,803,524,1610
+Allegan,"Gun Plain Township, Precinct 1",President,,REP,Donald J. Trump,697,500,958,2155
+Allegan,"Gun Plain Township, Precinct 1",President,,LIB,Chase Oliver,13,2,3,18
+Allegan,"Gun Plain Township, Precinct 1",President,,UST,Randall Terry,0,3,2,5
+Allegan,"Gun Plain Township, Precinct 1",President,,GRN,Jill Stein,1,2,1,4
+Allegan,"Gun Plain Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,11,11,3,25
+Allegan,"Gun Plain Township, Precinct 1",President,,NPA,Joseph Kishore,0,2,1,3
+Allegan,"Gun Plain Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Gun Plain Township, Precinct 1",President,,,Write-ins,1,2,1,4
+Allegan,"Heath Township, Precinct 1 - HAM",President,,DEM,Kamala D. Harris,82,253,154,489
+Allegan,"Heath Township, Precinct 1 - HAM",President,,REP,Donald J. Trump,391,484,755,1630
+Allegan,"Heath Township, Precinct 1 - HAM",President,,LIB,Chase Oliver,6,3,6,15
+Allegan,"Heath Township, Precinct 1 - HAM",President,,UST,Randall Terry,3,2,0,5
+Allegan,"Heath Township, Precinct 1 - HAM",President,,GRN,Jill Stein,2,1,2,5
+Allegan,"Heath Township, Precinct 1 - HAM",President,,NLP,Robert F. Kennedy Jr.,2,3,5,10
+Allegan,"Heath Township, Precinct 1 - HAM",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Heath Township, Precinct 1 - HAM",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Heath Township, Precinct 1 - HAM",President,,,Write-ins,2,3,0,5
+Allegan,"Heath Township, Precinct 2 - ALG",President,,DEM,Kamala D. Harris,24,51,22,97
+Allegan,"Heath Township, Precinct 2 - ALG",President,,REP,Donald J. Trump,99,75,130,304
+Allegan,"Heath Township, Precinct 2 - ALG",President,,LIB,Chase Oliver,2,2,0,4
+Allegan,"Heath Township, Precinct 2 - ALG",President,,UST,Randall Terry,1,0,0,1
+Allegan,"Heath Township, Precinct 2 - ALG",President,,GRN,Jill Stein,0,1,0,1
+Allegan,"Heath Township, Precinct 2 - ALG",President,,NLP,Robert F. Kennedy Jr.,1,3,0,4
+Allegan,"Heath Township, Precinct 2 - ALG",President,,NPA,Joseph Kishore,0,1,0,1
+Allegan,"Heath Township, Precinct 2 - ALG",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Heath Township, Precinct 2 - ALG",President,,,Write-ins,0,0,0,0
+Allegan,"Hopkins Township, Precinct 1",President,,DEM,Kamala D. Harris,99,176,125,400
+Allegan,"Hopkins Township, Precinct 1",President,,REP,Donald J. Trump,422,221,561,1204
+Allegan,"Hopkins Township, Precinct 1",President,,LIB,Chase Oliver,1,3,0,4
+Allegan,"Hopkins Township, Precinct 1",President,,UST,Randall Terry,1,1,0,2
+Allegan,"Hopkins Township, Precinct 1",President,,GRN,Jill Stein,2,4,0,6
+Allegan,"Hopkins Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,3,3,10
+Allegan,"Hopkins Township, Precinct 1",President,,NPA,Joseph Kishore,0,1,0,1
+Allegan,"Hopkins Township, Precinct 1",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Hopkins Township, Precinct 1",President,,,Write-ins,1,1,0,2
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,DEM,Kamala D. Harris,155,373,211,739
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,REP,Donald J. Trump,200,231,354,785
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,LIB,Chase Oliver,4,2,4,10
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,UST,Randall Terry,0,0,2,2
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,GRN,Jill Stein,4,1,1,6
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,NLP,Robert F. Kennedy Jr.,2,1,0,3
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,NPA,Cornel West,1,0,1,2
+Allegan,"Laketown Township, Precinct 1 - HOL",President,,,Write-ins,0,7,3,10
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,DEM,Kamala D. Harris,172,314,195,681
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,REP,Donald J. Trump,426,446,497,1369
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,LIB,Chase Oliver,6,6,1,13
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,UST,Randall Terry,0,0,1,1
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,GRN,Jill Stein,4,2,3,9
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,NLP,Robert F. Kennedy Jr.,3,3,0,6
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,NPA,Joseph Kishore,0,1,0,1
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Laketown Township, Precinct 2 - HAM",President,,,Write-ins,1,1,3,5
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,DEM,Kamala D. Harris,73,168,113,354
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,REP,Donald J. Trump,113,115,202,430
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,LIB,Chase Oliver,1,2,1,4
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,GRN,Jill Stein,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,NLP,Robert F. Kennedy Jr.,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Laketown Township, Precinct 3 - SAU",President,,,Write-ins,1,1,0,2
+Allegan,"Lee Township, Precinct 1",President,,DEM,Kamala D. Harris,250,170,71,491
+Allegan,"Lee Township, Precinct 1",President,,REP,Donald J. Trump,450,102,202,754
+Allegan,"Lee Township, Precinct 1",President,,LIB,Chase Oliver,0,0,1,1
+Allegan,"Lee Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Lee Township, Precinct 1",President,,GRN,Jill Stein,1,0,0,1
+Allegan,"Lee Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,7,3,0,10
+Allegan,"Lee Township, Precinct 1",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"Lee Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Lee Township, Precinct 1",President,,,Write-ins,3,0,0,3
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,DEM,Kamala D. Harris,115,120,64,299
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,REP,Donald J. Trump,314,209,445,968
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,LIB,Chase Oliver,2,2,3,7
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,GRN,Jill Stein,2,0,1,3
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,NLP,Robert F. Kennedy Jr.,4,0,0,4
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Leighton Township, Precinct 1 - WAY",President,,,Write-ins,1,1,1,3
+Allegan,"Leighton Township, Precinct 2",President,,DEM,Kamala D. Harris,142,220,122,484
+Allegan,"Leighton Township, Precinct 2",President,,REP,Donald J. Trump,356,319,545,1220
+Allegan,"Leighton Township, Precinct 2",President,,LIB,Chase Oliver,3,5,3,11
+Allegan,"Leighton Township, Precinct 2",President,,UST,Randall Terry,1,0,0,1
+Allegan,"Leighton Township, Precinct 2",President,,GRN,Jill Stein,1,2,1,4
+Allegan,"Leighton Township, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,2,2,1,5
+Allegan,"Leighton Township, Precinct 2",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Leighton Township, Precinct 2",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Leighton Township, Precinct 2",President,,,Write-ins,3,3,1,7
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,DEM,Kamala D. Harris,71,167,94,332
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,REP,Donald J. Trump,319,269,440,1028
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,LIB,Chase Oliver,3,1,1,5
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,UST,Randall Terry,1,1,1,3
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,GRN,Jill Stein,0,0,0,0
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,NLP,Robert F. Kennedy Jr.,1,4,2,7
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Leighton Township, Precinct 3 - WAY",President,,,Write-ins,1,0,1,2
+Allegan,"Manlius Township, Precinct 1",President,,DEM,Kamala D. Harris,157,307,153,617
+Allegan,"Manlius Township, Precinct 1",President,,REP,Donald J. Trump,514,404,561,1479
+Allegan,"Manlius Township, Precinct 1",President,,LIB,Chase Oliver,2,1,4,7
+Allegan,"Manlius Township, Precinct 1",President,,UST,Randall Terry,0,1,3,4
+Allegan,"Manlius Township, Precinct 1",President,,GRN,Jill Stein,2,1,0,3
+Allegan,"Manlius Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,5,6,2,13
+Allegan,"Manlius Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Manlius Township, Precinct 1",President,,NPA,Cornel West,0,2,0,2
+Allegan,"Manlius Township, Precinct 1",President,,,Write-ins,3,1,0,4
+Allegan,"Martin Township, Precinct 1",President,,DEM,Kamala D. Harris,123,185,112,420
+Allegan,"Martin Township, Precinct 1",President,,REP,Donald J. Trump,435,223,461,1119
+Allegan,"Martin Township, Precinct 1",President,,LIB,Chase Oliver,3,2,4,9
+Allegan,"Martin Township, Precinct 1",President,,UST,Randall Terry,0,0,1,1
+Allegan,"Martin Township, Precinct 1",President,,GRN,Jill Stein,0,1,0,1
+Allegan,"Martin Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,3,3,10
+Allegan,"Martin Township, Precinct 1",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"Martin Township, Precinct 1",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Martin Township, Precinct 1",President,,,Write-ins,0,0,2,2
+Allegan,"Monterey Township, Precinct 1",President,,DEM,Kamala D. Harris,108,154,82,344
+Allegan,"Monterey Township, Precinct 1",President,,REP,Donald J. Trump,549,216,363,1128
+Allegan,"Monterey Township, Precinct 1",President,,LIB,Chase Oliver,3,0,0,3
+Allegan,"Monterey Township, Precinct 1",President,,UST,Randall Terry,1,0,1,2
+Allegan,"Monterey Township, Precinct 1",President,,GRN,Jill Stein,0,0,1,1
+Allegan,"Monterey Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,6,1,1,8
+Allegan,"Monterey Township, Precinct 1",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"Monterey Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Monterey Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Allegan,"Otsego Township, Precinct 1",President,,DEM,Kamala D. Harris,147,412,180,739
+Allegan,"Otsego Township, Precinct 1",President,,REP,Donald J. Trump,289,278,494,1061
+Allegan,"Otsego Township, Precinct 1",President,,LIB,Chase Oliver,4,3,1,8
+Allegan,"Otsego Township, Precinct 1",President,,UST,Randall Terry,0,1,3,4
+Allegan,"Otsego Township, Precinct 1",President,,GRN,Jill Stein,4,1,0,5
+Allegan,"Otsego Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,7,6,6,19
+Allegan,"Otsego Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Otsego Township, Precinct 1",President,,NPA,Cornel West,1,1,0,2
+Allegan,"Otsego Township, Precinct 1",President,,,Write-ins,2,1,1,4
+Allegan,"Otsego Township, Precinct 2",President,,DEM,Kamala D. Harris,126,368,171,665
+Allegan,"Otsego Township, Precinct 2",President,,REP,Donald J. Trump,328,232,446,1006
+Allegan,"Otsego Township, Precinct 2",President,,LIB,Chase Oliver,4,3,1,8
+Allegan,"Otsego Township, Precinct 2",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Otsego Township, Precinct 2",President,,GRN,Jill Stein,1,0,0,1
+Allegan,"Otsego Township, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,0,3,4,7
+Allegan,"Otsego Township, Precinct 2",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Otsego Township, Precinct 2",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Otsego Township, Precinct 2",President,,,Write-ins,1,1,0,2
+Allegan,"Overisel Township, Precinct 1",President,,DEM,Kamala D. Harris,119,149,68,336
+Allegan,"Overisel Township, Precinct 1",President,,REP,Donald J. Trump,667,509,513,1689
+Allegan,"Overisel Township, Precinct 1",President,,LIB,Chase Oliver,8,3,6,17
+Allegan,"Overisel Township, Precinct 1",President,,UST,Randall Terry,1,1,0,2
+Allegan,"Overisel Township, Precinct 1",President,,GRN,Jill Stein,0,0,2,2
+Allegan,"Overisel Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,2,1,7
+Allegan,"Overisel Township, Precinct 1",President,,NPA,Joseph Kishore,1,1,0,2
+Allegan,"Overisel Township, Precinct 1",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Overisel Township, Precinct 1",President,,,Write-ins,2,0,1,3
+Allegan,"Salem Township, Precinct 1",President,,DEM,Kamala D. Harris,69,137,63,269
+Allegan,"Salem Township, Precinct 1",President,,REP,Donald J. Trump,486,292,590,1368
+Allegan,"Salem Township, Precinct 1",President,,LIB,Chase Oliver,9,2,2,13
+Allegan,"Salem Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Allegan,"Salem Township, Precinct 1",President,,GRN,Jill Stein,0,1,0,1
+Allegan,"Salem Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,2,4,6
+Allegan,"Salem Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Salem Township, Precinct 1",President,,NPA,Cornel West,2,0,0,2
+Allegan,"Salem Township, Precinct 1",President,,,Write-ins,2,3,1,6
+Allegan,"Salem Township, Precinct 2 - HOP",President,,DEM,Kamala D. Harris,75,197,107,379
+Allegan,"Salem Township, Precinct 2 - HOP",President,,REP,Donald J. Trump,428,325,551,1304
+Allegan,"Salem Township, Precinct 2 - HOP",President,,LIB,Chase Oliver,7,4,3,14
+Allegan,"Salem Township, Precinct 2 - HOP",President,,UST,Randall Terry,3,1,0,4
+Allegan,"Salem Township, Precinct 2 - HOP",President,,GRN,Jill Stein,2,3,0,5
+Allegan,"Salem Township, Precinct 2 - HOP",President,,NLP,Robert F. Kennedy Jr.,3,5,1,9
+Allegan,"Salem Township, Precinct 2 - HOP",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Salem Township, Precinct 2 - HOP",President,,NPA,Cornel West,0,2,0,2
+Allegan,"Salem Township, Precinct 2 - HOP",President,,,Write-ins,1,3,1,5
+Allegan,"Saugatuck Township, Precinct 1",President,,DEM,Kamala D. Harris,190,968,390,1548
+Allegan,"Saugatuck Township, Precinct 1",President,,REP,Donald J. Trump,235,439,430,1104
+Allegan,"Saugatuck Township, Precinct 1",President,,LIB,Chase Oliver,2,9,1,12
+Allegan,"Saugatuck Township, Precinct 1",President,,UST,Randall Terry,1,2,0,3
+Allegan,"Saugatuck Township, Precinct 1",President,,GRN,Jill Stein,1,1,0,2
+Allegan,"Saugatuck Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,6,6,3,15
+Allegan,"Saugatuck Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Saugatuck Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Saugatuck Township, Precinct 1",President,,,Write-ins,4,3,0,7
+Allegan,"Trowbridge Township, Precinct 1",President,,DEM,Kamala D. Harris,321,0,172,493
+Allegan,"Trowbridge Township, Precinct 1",President,,REP,Donald J. Trump,493,0,450,943
+Allegan,"Trowbridge Township, Precinct 1",President,,LIB,Chase Oliver,3,0,3,6
+Allegan,"Trowbridge Township, Precinct 1",President,,UST,Randall Terry,2,0,1,3
+Allegan,"Trowbridge Township, Precinct 1",President,,GRN,Jill Stein,5,0,0,5
+Allegan,"Trowbridge Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,0,5,8
+Allegan,"Trowbridge Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Trowbridge Township, Precinct 1",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Trowbridge Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Allegan,"Valley Township, Precinct 1",President,,DEM,Kamala D. Harris,318,0,109,427
+Allegan,"Valley Township, Precinct 1",President,,REP,Donald J. Trump,506,0,402,908
+Allegan,"Valley Township, Precinct 1",President,,LIB,Chase Oliver,8,0,1,9
+Allegan,"Valley Township, Precinct 1",President,,UST,Randall Terry,3,0,1,4
+Allegan,"Valley Township, Precinct 1",President,,GRN,Jill Stein,2,0,2,4
+Allegan,"Valley Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,0,1,5
+Allegan,"Valley Township, Precinct 1",President,,NPA,Joseph Kishore,2,0,0,2
+Allegan,"Valley Township, Precinct 1",President,,NPA,Cornel West,2,0,0,2
+Allegan,"Valley Township, Precinct 1",President,,,Write-ins,3,0,0,3
+Allegan,"Watson Township, Precinct 1",President,,DEM,Kamala D. Harris,227,0,110,337
+Allegan,"Watson Township, Precinct 1",President,,REP,Donald J. Trump,512,0,400,912
+Allegan,"Watson Township, Precinct 1",President,,LIB,Chase Oliver,2,0,3,5
+Allegan,"Watson Township, Precinct 1",President,,UST,Randall Terry,2,0,1,3
+Allegan,"Watson Township, Precinct 1",President,,GRN,Jill Stein,2,0,0,2
+Allegan,"Watson Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,6,0,1,7
+Allegan,"Watson Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Watson Township, Precinct 1",President,,NPA,Cornel West,1,0,0,1
+Allegan,"Watson Township, Precinct 1",President,,,Write-ins,3,0,0,3
+Allegan,"Wayland Township, Precinct 1",President,,DEM,Kamala D. Harris,131,313,207,651
+Allegan,"Wayland Township, Precinct 1",President,,REP,Donald J. Trump,461,370,682,1513
+Allegan,"Wayland Township, Precinct 1",President,,LIB,Chase Oliver,4,1,4,9
+Allegan,"Wayland Township, Precinct 1",President,,UST,Randall Terry,1,2,1,4
+Allegan,"Wayland Township, Precinct 1",President,,GRN,Jill Stein,1,1,0,2
+Allegan,"Wayland Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,10,1,5,16
+Allegan,"Wayland Township, Precinct 1",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"Wayland Township, Precinct 1",President,,NPA,Cornel West,0,0,0,0
+Allegan,"Wayland Township, Precinct 1",President,,,Write-ins,0,0,2,2
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,DEM,Kamala D. Harris,199,324,49,572
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,REP,Donald J. Trump,321,165,98,584
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,LIB,Chase Oliver,4,1,0,5
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,UST,Randall Terry,4,0,0,4
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,GRN,Jill Stein,1,0,0,1
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,NLP,Robert F. Kennedy Jr.,1,4,0,5
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",President,,,Write-ins,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,DEM,Kamala D. Harris,396,374,103,873
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,REP,Donald J. Trump,506,286,163,958
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,LIB,Chase Oliver,11,1,0,12
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,UST,Randall Terry,1,1,0,2
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,GRN,Jill Stein,5,2,0,7
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,NLP,Robert F. Kennedy Jr.,7,2,2,11
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,NPA,Joseph Kishore,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,NPA,Cornel West,1,1,0,2
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",President,,,Write-ins,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,DEM,Kamala D. Harris,164,307,67,538
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,REP,Donald J. Trump,245,231,116,591
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,LIB,Chase Oliver,2,1,0,3
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,UST,Randall Terry,0,2,0,2
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,GRN,Jill Stein,1,0,0,1
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,NLP,Robert F. Kennedy Jr.,0,4,0,4
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,NPA,Joseph Kishore,1,0,0,1
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,NPA,Cornel West,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",President,,,Write-ins,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,DEM,Elissa Slotkin,713,0,354,1067
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,REP,Mike Rogers,747,0,427,1174
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,LIB,Joseph Solis-Mullen,30,0,16,46
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,UST,Dave Stein,21,0,6,27
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,GRN,Douglas P. Marsh,13,0,4,17
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,NLP,Doug Dern,18,0,5,23
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. Senate,,,Write-in,4,0,1,5
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,DEM,Elissa Slotkin,111,419,213,743
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,REP,Mike Rogers,83,93,122,298
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,LIB,Joseph Solis-Mullen,2,3,3,8
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,UST,Dave Stein,0,0,1,1
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,GRN,Douglas P. Marsh,1,1,0,2
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,NLP,Doug Dern,1,3,0,4
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,DEM,Elissa Slotkin,202,0,82,284
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,REP,Mike Rogers,166,0,110,276
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,LIB,Joseph Solis-Mullen,9,0,4,13
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,UST,Dave Stein,10,0,1,11
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,GRN,Douglas P. Marsh,3,0,1,4
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,NLP,Doug Dern,4,0,1,5
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,DEM,Elissa Slotkin,170,505,211,886
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,REP,Mike Rogers,370,287,419,1076
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,LIB,Joseph Solis-Mullen,20,10,13,43
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,UST,Dave Stein,12,9,7,28
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,GRN,Douglas P. Marsh,2,3,2,7
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,NLP,Doug Dern,3,8,0,11
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. Senate,,,Write-in,0,2,2,4
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,DEM,Elissa Slotkin,195,474,251,920
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,REP,Mike Rogers,357,219,381,957
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,LIB,Joseph Solis-Mullen,10,6,13,29
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,UST,Dave Stein,8,8,8,24
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,GRN,Douglas P. Marsh,10,9,1,20
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,NLP,Doug Dern,5,4,3,12
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. Senate,,,Write-in,0,1,1,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,DEM,Elissa Slotkin,345,0,90,435
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,REP,Mike Rogers,178,0,53,231
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,0,3
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,UST,Dave Stein,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,GRN,Douglas P. Marsh,0,0,1,1
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,NLP,Doug Dern,0,0,1,1
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,DEM,Elissa Slotkin,165,177,86,428
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,REP,Mike Rogers,304,124,209,637
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,8,1,3,12
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,UST,Dave Stein,10,3,3,16
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,2,3,1,6
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,NLP,Doug Dern,5,1,0,6
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. Senate,,,Write-in,1,4,0,5
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,DEM,Elissa Slotkin,174,155,131,460
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,REP,Mike Rogers,277,133,297,707
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,11,2,5,18
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,UST,Dave Stein,6,6,2,14
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,3,1,1,5
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,NLP,Doug Dern,1,0,1,2
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. Senate,,,Write-in,2,1,1,4
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,173,543,335,1051
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,526,347,769,1642
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,19,4,14,37
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10,6,14,30
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,3,0,4
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,1,1,4
+Allegan,"Allegan Township, Precinct 1",U.S. Senate,,,Write-in,2,2,1,5
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,159,423,212,794
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,277,305,430,1012
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11,3,5,19
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3,4,3,10
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,4,3,9
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5,3,2,10
+Allegan,"Casco Township, Precinct 1",U.S. Senate,,,Write-in,1,0,1,2
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,96,142,109,347
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,290,107,354,751
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,2,4,15
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7,4,5,16
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,3,4,10
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,1,2,5
+Allegan,"Cheshire Township, Precinct 1",U.S. Senate,,,Write-in,2,0,1,3
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,DEM,Elissa Slotkin,152,127,116,395
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,REP,Mike Rogers,288,91,159,538
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,LIB,Joseph Solis-Mullen,7,0,1,8
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,UST,Dave Stein,4,1,2,7
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,GRN,Douglas P. Marsh,5,3,2,10
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,NLP,Doug Dern,5,0,1,6
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,DEM,Elissa Slotkin,52,183,80,315
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,REP,Mike Rogers,301,264,482,1047
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,LIB,Joseph Solis-Mullen,10,2,2,14
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,UST,Dave Stein,5,8,6,19
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,GRN,Douglas P. Marsh,2,0,2,4
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,NLP,Doug Dern,0,0,1,1
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,DEM,Elissa Slotkin,104,268,102,474
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,REP,Mike Rogers,448,342,686,1476
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,13,0,9,22
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,UST,Dave Stein,9,4,5,18
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,6,3,2,11
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,NLP,Doug Dern,0,1,3,4
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,DEM,Elissa Slotkin,134,189,108,431
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,REP,Mike Rogers,394,208,458,1060
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,13,2,5,20
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,UST,Dave Stein,9,6,4,19
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,1,1,3,5
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,NLP,Doug Dern,4,1,0,5
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,80,193,142,415
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,401,406,585,1392
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,10,5,6,21
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,4,1,6
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7,1,2,10
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Allegan,"Fillmore Township, Precinct 1",U.S. Senate,,,Write-in,0,1,0,1
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,243,423,170,836
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,375,227,268,870
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,5,4,18
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,0,4,6
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,8,1,12
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,3,0,6
+Allegan,"Ganges Township, Precinct 1",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,256,783,517,1556
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,674,503,930,2107
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,20,6,15,41
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,UST,Dave Stein,14,11,7,32
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,9,8,4,21
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,3,4,9
+Allegan,"Gun Plain Township, Precinct 1",U.S. Senate,,,Write-in,4,0,0,4
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,DEM,Elissa Slotkin,78,261,159,498
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,REP,Mike Rogers,391,468,744,1603
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,LIB,Joseph Solis-Mullen,4,5,7,16
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,UST,Dave Stein,7,3,0,10
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,GRN,Douglas P. Marsh,3,1,5,9
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,NLP,Doug Dern,2,4,1,7
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. Senate,,,Write-in,1,0,1,2
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,DEM,Elissa Slotkin,25,57,20,102
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,REP,Mike Rogers,95,75,131,301
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,0,4
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,UST,Dave Stein,2,1,0,3
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,GRN,Douglas P. Marsh,0,1,0,1
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,NLP,Doug Dern,0,3,0,3
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,85,173,130,388
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,408,214,545,1167
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11,7,6,24
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10,7,2,19
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,2,0,6
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,2,3,8
+Allegan,"Hopkins Township, Precinct 1",U.S. Senate,,,Write-in,1,1,0,2
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,DEM,Elissa Slotkin,144,352,204,700
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,REP,Mike Rogers,207,252,357,816
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,LIB,Joseph Solis-Mullen,7,1,8,16
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,UST,Dave Stein,3,1,0,4
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,GRN,Douglas P. Marsh,4,4,2,10
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,DEM,Elissa Slotkin,161,308,188,657
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,REP,Mike Rogers,436,466,494,1396
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,LIB,Joseph Solis-Mullen,2,6,1,9
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,UST,Dave Stein,1,0,3,4
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3,6
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,NLP,Doug Dern,1,1,0,2
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,DEM,Elissa Slotkin,69,162,109,340
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,REP,Mike Rogers,114,118,199,431
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,LIB,Joseph Solis-Mullen,4,2,5,11
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,UST,Dave Stein,2,1,1,4
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,GRN,Douglas P. Marsh,1,2,2,5
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,253,159,70,482
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,414,195,193,802
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,10,4,2,16
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,UST,Dave Stein,9,8,5,22
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7,1,0,8
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,7,3,1,11
+Allegan,"Lee Township, Precinct 1",U.S. Senate,,,Write-in,3,0,0,3
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,DEM,Elissa Slotkin,112,120,68,300
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,REP,Mike Rogers,293,208,436,937
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,10,2,3,15
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,UST,Dave Stein,6,1,4,11
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,2,1,1,4
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,NLP,Doug Dern,1,0,3,4
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,133,217,128,478
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,356,317,525,1198
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,6,6,8,20
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,UST,Dave Stein,4,1,3,8
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,1,1,2,4
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,1,1,2,4
+Allegan,"Leighton Township, Precinct 2",U.S. Senate,,,Write-in,1,0,1,2
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,DEM,Elissa Slotkin,73,176,87,336
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,REP,Mike Rogers,305,255,441,1001
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,LIB,Joseph Solis-Mullen,9,3,4,16
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,UST,Dave Stein,3,5,2,10
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,NLP,Doug Dern,0,1,0,1
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,148,299,161,608
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,507,404,545,1456
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6,5,8,19
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5,2,3,10
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6,1,1,8
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,3,0,7
+Allegan,"Manlius Township, Precinct 1",U.S. Senate,,,Write-in,1,0,1,2
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,121,184,113,418
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,424,228,451,1103
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,0,6,13
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,2,5,11
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,1,0,2
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,1,3
+Allegan,"Martin Township, Precinct 1",U.S. Senate,,,Write-in,0,1,1,2
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,104,152,79,335
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,528,213,358,1099
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,1,3,13
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,UST,Dave Stein,13,2,2,17
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,2,2,7
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,1,0,3
+Allegan,"Monterey Township, Precinct 1",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,146,409,185,740
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,273,268,471,1012
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8,7,10,25
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,UST,Dave Stein,11,4,5,20
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,7,2,0,9
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,1,3,8
+Allegan,"Otsego Township, Precinct 1",U.S. Senate,,,Write-in,0,2,1,3
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,127,361,172,660
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,309,223,419,951
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,7,5,7,19
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,UST,Dave Stein,4,8,6,18
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,1,3,4,8
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,2,0,1,3
+Allegan,"Otsego Township, Precinct 2",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,111,150,67,328
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,661,506,509,1676
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,11,4,8,23
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,3,4,9
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,0,0,4
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,2,0,3
+Allegan,"Overisel Township, Precinct 1",U.S. Senate,,,Write-in,2,1,0,3
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,65,139,64,268
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,468,282,589,1339
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,1,1,11
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8,5,2,15
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,3,1,8
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,2,4
+Allegan,"Salem Township, Precinct 1",U.S. Senate,,,Write-in,2,1,0,3
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,DEM,Elissa Slotkin,73,205,108,386
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,REP,Mike Rogers,408,312,534,1254
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,LIB,Joseph Solis-Mullen,15,6,7,28
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,UST,Dave Stein,8,9,5,22
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,GRN,Douglas P. Marsh,2,2,0,4
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,NLP,Doug Dern,4,1,0,5
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,181,952,388,1521
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,243,455,424,1122
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5,5,8,18
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,3,1,6
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,4,2,8
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,3,0,5
+Allegan,"Saugatuck Township, Precinct 1",U.S. Senate,,,Write-in,1,0,0,1
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,299,0,178,477
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,477,0,433,910
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,18,0,5,23
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,UST,Dave Stein,14,0,5,19
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,9,0,0,9
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,1,3
+Allegan,"Trowbridge Township, Precinct 1",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,315,0,116,431
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,484,0,383,867
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,15,0,6,21
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,UST,Dave Stein,11,0,5,16
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,0,3
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,1,3
+Allegan,"Valley Township, Precinct 1",U.S. Senate,,,Write-in,3,0,0,3
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,227,0,110,337
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,492,0,388,880
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,10,0,6,16
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6,0,6,12
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,1,4
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,0,0,3
+Allegan,"Watson Township, Precinct 1",U.S. Senate,,,Write-in,1,0,1,2
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,135,312,204,651
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,444,363,673,1480
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8,5,8,21
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8,4,5,17
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,1,4,8
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,3,4
+Allegan,"Wayland Township, Precinct 1",U.S. Senate,,,Write-in,0,0,1,1
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,DEM,Elissa Slotkin,186,308,50,544
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,REP,Mike Rogers,338,181,94,613
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,LIB,Joseph Solis-Mullen,6,2,3,11
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,UST,Dave Stein,5,1,0,6
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,GRN,Douglas P. Marsh,4,2,0,6
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,NLP,Doug Dern,1,3,0,4
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,DEM,Elissa Slotkin,383,364,99,846
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,REP,Mike Rogers,484,303,162,949
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,LIB,Joseph Solis-Mullen,22,2,6,30
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,UST,Dave Stein,13,4,0,17
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,GRN,Douglas P. Marsh,4,2,0,6
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,NLP,Doug Dern,7,3,1,11
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,DEM,Elissa Slotkin,162,296,67,525
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,REP,Mike Rogers,240,236,115,591
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,LIB,Joseph Solis-Mullen,5,4,1,10
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,UST,Dave Stein,3,3,0,6
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,NLP,Doug Dern,2,2,0,4
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. Senate,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. House,4,DEM,Jessica Swartz,673,0,329,1002
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. House,4,REP,Bill Huizenga,805,0,459,1264
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. House,4,UST,Curtis Clark,52,0,20,72
+Allegan,"City of Allegan, Precinct 1 - ALG",U.S. House,4,,Write-in,6,0,0,6
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. House,4,DEM,Jessica Swartz,102,403,205,710
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. House,4,REP,Bill Huizenga,90,111,129,330
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. House,4,UST,Curtis Clark,2,2,2,6
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. House,4,DEM,Jessica Swartz,187,0,76,263
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. House,4,REP,Bill Huizenga,186,0,115,301
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. House,4,UST,Curtis Clark,14,0,7,21
+Allegan,"City of Fennville, Precinct 1 - FEN",U.S. House,4,,Write-in,2,0,0,2
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. House,4,DEM,Jessica Swartz,156,472,184,812
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. House,4,REP,Bill Huizenga,387,332,453,1172
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. House,4,UST,Curtis Clark,29,15,11,55
+Allegan,"City of Otsego, Precinct 1 - OTS",U.S. House,4,,Write-in,1,3,1,5
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. House,4,DEM,Jessica Swartz,191,451,226,868
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. House,4,REP,Bill Huizenga,367,254,416,1037
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. House,4,UST,Curtis Clark,14,10,11,35
+Allegan,"City of Plainwell, Precinct 1 - PLA",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. House,4,DEM,Jessica Swartz,321,0,84,405
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. House,4,REP,Bill Huizenga,199,0,58,257
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. House,4,UST,Curtis Clark,1,0,1,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. House,4,DEM,Jessica Swartz,156,160,80,396
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. House,4,REP,Bill Huizenga,323,146,214,683
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. House,4,UST,Curtis Clark,5,3,6,14
+Allegan,"City of Wayland, Precinct 1 - WAY",U.S. House,4,,Write-in,1,3,0,4
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. House,4,DEM,Jessica Swartz,148,145,128,421
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. House,4,REP,Bill Huizenga,304,145,307,756
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. House,4,UST,Curtis Clark,14,7,4,25
+Allegan,"City of Wayland, Precinct 2 - WAY",U.S. House,4,,Write-in,3,0,0,3
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,158,499,290,947
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,537,395,815,1747
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,UST,Curtis Clark,22,10,22,54
+Allegan,"Allegan Township, Precinct 1",U.S. House,4,,Write-in,2,1,0,3
+Allegan,"Casco Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,153,397,187,737
+Allegan,"Casco Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,286,330,451,1067
+Allegan,"Casco Township, Precinct 1",U.S. House,4,UST,Curtis Clark,14,10,10,34
+Allegan,"Casco Township, Precinct 1",U.S. House,4,,Write-in,1,0,1,2
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,93,136,104,333
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,292,121,367,780
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,UST,Curtis Clark,19,4,4,27
+Allegan,"Cheshire Township, Precinct 1",U.S. House,4,,Write-in,1,0,2,3
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. House,4,DEM,Jessica Swartz,154,110,106,370
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. House,4,REP,Bill Huizenga,298,102,165,565
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. House,4,UST,Curtis Clark,8,4,5,17
+Allegan,"Clyde Township, Precinct 1 - FEN",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. House,4,DEM,Jessica Swartz,48,172,65,285
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. House,4,REP,Bill Huizenga,307,281,494,1082
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. House,4,UST,Curtis Clark,11,2,7,20
+Allegan,"Dorr Township, Precinct 1 - HOP",U.S. House,4,,Write-in,1,0,1,2
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. House,4,DEM,Jessica Swartz,96,236,79,411
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. House,4,REP,Bill Huizenga,472,375,710,1557
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. House,4,UST,Curtis Clark,6,5,12,23
+Allegan,"Dorr Township, Precinct 2 - WAY",U.S. House,4,,Write-in,3,0,0,3
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. House,4,DEM,Jessica Swartz,124,173,94,391
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. House,4,REP,Bill Huizenga,421,228,474,1123
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. House,4,UST,Curtis Clark,6,5,9,20
+Allegan,"Dorr Township, Precinct 3 - WAY",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,74,175,135,384
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,415,435,599,1449
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,UST,Curtis Clark,11,0,4,15
+Allegan,"Fillmore Township, Precinct 1",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,214,404,161,779
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,404,253,278,935
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,UST,Curtis Clark,11,5,6,22
+Allegan,"Ganges Township, Precinct 1",U.S. House,4,,Write-in,2,0,1,3
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,239,725,482,1446
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,692,562,971,2225
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,UST,Curtis Clark,21,12,16,49
+Allegan,"Gun Plain Township, Precinct 1",U.S. House,4,,Write-in,7,0,0,7
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. House,4,DEM,Jessica Swartz,66,224,136,426
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. House,4,REP,Bill Huizenga,401,519,766,1686
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. House,4,UST,Curtis Clark,14,5,11,30
+Allegan,"Heath Township, Precinct 1 - HAM",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. House,4,DEM,Jessica Swartz,25,51,21,97
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. House,4,REP,Bill Huizenga,93,79,127,299
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. House,4,UST,Curtis Clark,4,4,2,10
+Allegan,"Heath Township, Precinct 2 - ALG",U.S. House,4,,Write-in,4,0,0,4
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,78,154,113,345
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,416,237,562,1215
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,UST,Curtis Clark,23,10,5,38
+Allegan,"Hopkins Township, Precinct 1",U.S. House,4,,Write-in,2,0,1,3
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. House,4,DEM,Jessica Swartz,131,329,195,655
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. House,4,REP,Bill Huizenga,225,277,371,873
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. House,4,UST,Curtis Clark,7,3,4,14
+Allegan,"Laketown Township, Precinct 1 - HOL",U.S. House,4,,Write-in,0,0,3,3
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. House,4,DEM,Jessica Swartz,143,283,167,593
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. House,4,REP,Bill Huizenga,452,495,515,1462
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. House,4,UST,Curtis Clark,6,1,3,10
+Allegan,"Laketown Township, Precinct 2 - HAM",U.S. House,4,,Write-in,0,0,2,2
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. House,4,DEM,Jessica Swartz,66,147,111,324
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. House,4,REP,Bill Huizenga,121,133,200,454
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. House,4,UST,Curtis Clark,2,3,4,9
+Allegan,"Laketown Township, Precinct 3 - SAU",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"Lee Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,234,156,67,457
+Allegan,"Lee Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,429,111,200,740
+Allegan,"Lee Township, Precinct 1",U.S. House,4,UST,Curtis Clark,26,5,4,35
+Allegan,"Lee Township, Precinct 1",U.S. House,4,,Write-in,7,0,0,7
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. House,4,DEM,Jessica Swartz,99,101,59,259
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. House,4,REP,Bill Huizenga,316,228,452,996
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. House,4,UST,Curtis Clark,9,2,3,14
+Allegan,"Leighton Township, Precinct 1 - WAY",U.S. House,4,,Write-in,1,0,0,1
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,DEM,Jessica Swartz,121,195,116,432
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,372,346,543,1261
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,UST,Curtis Clark,4,2,9,15
+Allegan,"Leighton Township, Precinct 2",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. House,4,DEM,Jessica Swartz,62,150,84,296
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. House,4,REP,Bill Huizenga,320,279,443,1042
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. House,4,UST,Curtis Clark,5,6,6,17
+Allegan,"Leighton Township, Precinct 3 - WAY",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,124,277,138,539
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,530,434,572,1536
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,UST,Curtis Clark,16,4,6,26
+Allegan,"Manlius Township, Precinct 1",U.S. House,4,,Write-in,2,0,1,3
+Allegan,"Martin Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,107,160,99,366
+Allegan,"Martin Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,433,250,469,1152
+Allegan,"Martin Township, Precinct 1",U.S. House,4,UST,Curtis Clark,13,3,6,22
+Allegan,"Martin Township, Precinct 1",U.S. House,4,,Write-in,1,1,1,3
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,94,134,72,300
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,543,233,367,1143
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,UST,Curtis Clark,20,1,2,23
+Allegan,"Monterey Township, Precinct 1",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,125,372,166,663
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,295,311,496,1102
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,UST,Curtis Clark,21,6,10,37
+Allegan,"Otsego Township, Precinct 1",U.S. House,4,,Write-in,0,1,2,3
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,DEM,Jessica Swartz,119,329,153,601
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,REP,Bill Huizenga,310,256,448,1014
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,UST,Curtis Clark,12,6,9,27
+Allegan,"Otsego Township, Precinct 2",U.S. House,4,,Write-in,1,0,1,2
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,91,120,56,267
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,690,537,521,1748
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,UST,Curtis Clark,9,3,9,21
+Allegan,"Overisel Township, Precinct 1",U.S. House,4,,Write-in,2,2,1,5
+Allegan,"Salem Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,59,121,56,236
+Allegan,"Salem Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,484,311,597,1392
+Allegan,"Salem Township, Precinct 1",U.S. House,4,UST,Curtis Clark,11,4,4,19
+Allegan,"Salem Township, Precinct 1",U.S. House,4,,Write-in,1,0,0,1
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. House,4,DEM,Jessica Swartz,64,181,89,334
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. House,4,REP,Bill Huizenga,424,346,544,1314
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. House,4,UST,Curtis Clark,17,6,17,40
+Allegan,"Salem Township, Precinct 2 - HOP",U.S. House,4,,Write-in,1,0,0,1
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,165,900,358,1423
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,265,507,453,1225
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,UST,Curtis Clark,4,9,6,19
+Allegan,"Saugatuck Township, Precinct 1",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,275,0,156,431
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,509,0,450,959
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,UST,Curtis Clark,30,0,13,43
+Allegan,"Trowbridge Township, Precinct 1",U.S. House,4,,Write-in,0,0,1,1
+Allegan,"Valley Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,284,0,100,384
+Allegan,"Valley Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,517,0,403,920
+Allegan,"Valley Township, Precinct 1",U.S. House,4,UST,Curtis Clark,25,0,5,30
+Allegan,"Valley Township, Precinct 1",U.S. House,4,,Write-in,3,0,0,3
+Allegan,"Watson Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,203,0,98,301
+Allegan,"Watson Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,507,0,405,912
+Allegan,"Watson Township, Precinct 1",U.S. House,4,UST,Curtis Clark,21,0,4,25
+Allegan,"Watson Township, Precinct 1",U.S. House,4,,Write-in,1,0,1,2
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,DEM,Jessica Swartz,134,279,192,605
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,REP,Bill Huizenga,445,395,690,1530
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,UST,Curtis Clark,10,9,7,26
+Allegan,"Wayland Township, Precinct 1",U.S. House,4,,Write-in,0,1,2,3
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. House,4,DEM,Jessica Swartz,451,0,49,500
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. House,4,REP,Bill Huizenga,563,0,96,659
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. House,4,UST,Curtis Clark,11,0,2,13
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. House,4,DEM,Jessica Swartz,683,0,88,771
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. House,4,REP,Bill Huizenga,877,0,174,1051
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. House,4,UST,Curtis Clark,17,0,4,21
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. House,4,DEM,Jessica Swartz,415,0,66,481
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. House,4,REP,Bill Huizenga,522,0,115,637
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. House,4,UST,Curtis Clark,9,0,0,9
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",U.S. House,4,,Write-in,0,0,0,0
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",State House,38,DEM,Joey Andrews,104,415,216,735
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",State House,38,REP,Kevin Whiteford,90,99,119,308
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",State House,38,,Write-in,1,0,1,2
+Allegan,"City of Saugatuck, Precinct 1 - SAU",State House,38,DEM,Joey Andrews,327,0,85,412
+Allegan,"City of Saugatuck, Precinct 1 - SAU",State House,38,REP,Kevin Whiteford,192,0,60,252
+Allegan,"City of Saugatuck, Precinct 1 - SAU",State House,38,,Write-in,0,0,0,0
+Allegan,"Casco Township, Precinct 1",State House,38,DEM,Joey Andrews,162,404,201,767
+Allegan,"Casco Township, Precinct 1",State House,38,REP,Kevin Whiteford,285,320,440,1045
+Allegan,"Casco Township, Precinct 1",State House,38,,Write-in,3,2,3,8
+Allegan,"Ganges Township, Precinct 1",State House,38,DEM,Joey Andrews,236,411,165,812
+Allegan,"Ganges Township, Precinct 1",State House,38,REP,Kevin Whiteford,390,245,277,912
+Allegan,"Ganges Township, Precinct 1",State House,38,,Write-in,2,0,1,3
+Allegan,"Saugatuck Township, Precinct 1",State House,38,DEM,Joey Andrews,177,918,376,1471
+Allegan,"Saugatuck Township, Precinct 1",State House,38,REP,Kevin Whiteford,250,481,435,1166
+Allegan,"Saugatuck Township, Precinct 1",State House,38,,Write-in,2,2,2,6
+Allegan,"Cheshire Township, Precinct 1",State House,39,DEM,Kerry Tapper,91,135,106,332
+Allegan,"Cheshire Township, Precinct 1",State House,39,REP,Pauline Wendzel,302,118,356,776
+Allegan,"Cheshire Township, Precinct 1",State House,39,,Write-in,5,1,5,11
+Allegan,"Lee Township, Precinct 1",State House,39,DEM,Kerry Tapper,255,161,72,488
+Allegan,"Lee Township, Precinct 1",State House,39,REP,Pauline Wendzel,423,105,196,724
+Allegan,"Lee Township, Precinct 1",State House,39,,Write-in,8,0,1,9
+Allegan,"Otsego Township, Precinct 1",State House,39,DEM,Kerry Tapper,137,375,172,684
+Allegan,"Otsego Township, Precinct 1",State House,39,REP,Pauline Wendzel,291,304,483,1078
+Allegan,"Otsego Township, Precinct 1",State House,39,,Write-in,3,1,7,11
+Allegan,"Trowbridge Township, Precinct 1",State House,39,DEM,Kerry Tapper,296,0,156,452
+Allegan,"Trowbridge Township, Precinct 1",State House,39,REP,Pauline Wendzel,503,0,451,954
+Allegan,"Trowbridge Township, Precinct 1",State House,39,,Write-in,4,0,3,7
+Allegan,"City of Otsego, Precinct 1 - OTS",State House,42,DEM,Austin Marsman,167,479,204,850
+Allegan,"City of Otsego, Precinct 1 - OTS",State House,42,REP,Matt Hall,388,330,437,1155
+Allegan,"City of Otsego, Precinct 1 - OTS",State House,42,,Write-in,3,2,4,9
+Allegan,"City of Plainwell, Precinct 1 - PLA",State House,42,DEM,Austin Marsman,197,460,241,898
+Allegan,"City of Plainwell, Precinct 1 - PLA",State House,42,REP,Matt Hall,375,239,406,1020
+Allegan,"City of Plainwell, Precinct 1 - PLA",State House,42,,Write-in,1,1,2,4
+Allegan,"Gun Plain Township, Precinct 1",State House,42,DEM,Austin Marsman,231,745,494,1470
+Allegan,"Gun Plain Township, Precinct 1",State House,42,REP,Matt Hall,710,547,955,2212
+Allegan,"Gun Plain Township, Precinct 1",State House,42,,Write-in,8,2,5,15
+Allegan,"Otsego Township, Precinct 2",State House,42,DEM,Austin Marsman,119,331,158,608
+Allegan,"Otsego Township, Precinct 2",State House,42,REP,Matt Hall,314,251,443,1008
+Allegan,"Otsego Township, Precinct 2",State House,42,,Write-in,5,0,7,12
+Allegan,"City of Allegan, Precinct 1 - ALG",State House,43,DEM,Danene Shumaker,716,0,347,1063
+Allegan,"City of Allegan, Precinct 1 - ALG",State House,43,REP,Rachelle Smit,784,0,456,1240
+Allegan,"City of Allegan, Precinct 1 - ALG",State House,43,,Write-in,10,0,2,12
+Allegan,"City of Fennville, Precinct 1 - FEN",State House,43,DEM,Danene Shumaker,206,0,83,289
+Allegan,"City of Fennville, Precinct 1 - FEN",State House,43,REP,Rachelle Smit,173,0,111,284
+Allegan,"City of Fennville, Precinct 1 - FEN",State House,43,,Write-in,2,0,0,2
+Allegan,"City of Wayland, Precinct 1 - WAY",State House,43,DEM,Danene Shumaker,157,172,80,409
+Allegan,"City of Wayland, Precinct 1 - WAY",State House,43,REP,Rachelle Smit,320,137,214,671
+Allegan,"City of Wayland, Precinct 1 - WAY",State House,43,,Write-in,2,2,4,8
+Allegan,"City of Wayland, Precinct 2 - WAY",State House,43,DEM,Danene Shumaker,164,148,126,438
+Allegan,"City of Wayland, Precinct 2 - WAY",State House,43,REP,Rachelle Smit,296,140,302,738
+Allegan,"City of Wayland, Precinct 2 - WAY",State House,43,,Write-in,5,1,1,7
+Allegan,"Allegan Township, Precinct 1",State House,43,DEM,Danene Shumaker,165,519,309,993
+Allegan,"Allegan Township, Precinct 1",State House,43,REP,Rachelle Smit,535,371,790,1696
+Allegan,"Allegan Township, Precinct 1",State House,43,,Write-in,3,4,9,16
+Allegan,"Clyde Township, Precinct 1 - FEN",State House,43,DEM,Danene Shumaker,162,123,114,399
+Allegan,"Clyde Township, Precinct 1 - FEN",State House,43,REP,Rachelle Smit,292,97,156,545
+Allegan,"Clyde Township, Precinct 1 - FEN",State House,43,,Write-in,1,0,3,4
+Allegan,"Dorr Township, Precinct 1 - HOP",State House,43,DEM,Danene Shumaker,51,177,68,296
+Allegan,"Dorr Township, Precinct 1 - HOP",State House,43,REP,Rachelle Smit,311,264,488,1063
+Allegan,"Dorr Township, Precinct 1 - HOP",State House,43,,Write-in,1,0,2,3
+Allegan,"Dorr Township, Precinct 2 - WAY",State House,43,DEM,Danene Shumaker,102,237,91,430
+Allegan,"Dorr Township, Precinct 2 - WAY",State House,43,REP,Rachelle Smit,463,364,704,1531
+Allegan,"Dorr Township, Precinct 2 - WAY",State House,43,,Write-in,5,0,3,8
+Allegan,"Dorr Township, Precinct 3 - WAY",State House,43,DEM,Danene Shumaker,134,189,98,421
+Allegan,"Dorr Township, Precinct 3 - WAY",State House,43,REP,Rachelle Smit,412,207,468,1087
+Allegan,"Dorr Township, Precinct 3 - WAY",State House,43,,Write-in,1,2,7,10
+Allegan,"Fillmore Township, Precinct 1",State House,43,DEM,Danene Shumaker,81,174,133,388
+Allegan,"Fillmore Township, Precinct 1",State House,43,REP,Rachelle Smit,409,425,589,1423
+Allegan,"Fillmore Township, Precinct 1",State House,43,,Write-in,5,0,0,5
+Allegan,"Heath Township, Precinct 1 - HAM",State House,43,DEM,Danene Shumaker,77,233,135,445
+Allegan,"Heath Township, Precinct 1 - HAM",State House,43,REP,Rachelle Smit,391,496,762,1649
+Allegan,"Heath Township, Precinct 1 - HAM",State House,43,,Write-in,4,3,6,13
+Allegan,"Heath Township, Precinct 2 - ALG",State House,43,DEM,Danene Shumaker,24,51,20,95
+Allegan,"Heath Township, Precinct 2 - ALG",State House,43,REP,Rachelle Smit,97,83,125,305
+Allegan,"Heath Township, Precinct 2 - ALG",State House,43,,Write-in,3,0,0,3
+Allegan,"Hopkins Township, Precinct 1",State House,43,DEM,Danene Shumaker,87,159,118,364
+Allegan,"Hopkins Township, Precinct 1",State House,43,REP,Rachelle Smit,419,232,545,1196
+Allegan,"Hopkins Township, Precinct 1",State House,43,,Write-in,3,0,5,8
+Allegan,"Manlius Township, Precinct 1",State House,43,DEM,Danene Shumaker,140,282,152,574
+Allegan,"Manlius Township, Precinct 1",State House,43,REP,Rachelle Smit,509,417,554,1480
+Allegan,"Manlius Township, Precinct 1",State House,43,,Write-in,7,1,3,11
+Allegan,"Martin Township, Precinct 1",State House,43,DEM,Danene Shumaker,116,170,110,396
+Allegan,"Martin Township, Precinct 1",State House,43,REP,Rachelle Smit,432,239,459,1130
+Allegan,"Martin Township, Precinct 1",State House,43,,Write-in,2,2,2,6
+Allegan,"Monterey Township, Precinct 1",State House,43,DEM,Danene Shumaker,107,139,75,321
+Allegan,"Monterey Township, Precinct 1",State House,43,REP,Rachelle Smit,535,225,363,1123
+Allegan,"Monterey Township, Precinct 1",State House,43,,Write-in,2,0,1,3
+Allegan,"Overisel Township, Precinct 1",State House,43,DEM,Danene Shumaker,108,132,62,302
+Allegan,"Overisel Township, Precinct 1",State House,43,REP,Rachelle Smit,671,521,518,1710
+Allegan,"Overisel Township, Precinct 1",State House,43,,Write-in,8,4,1,13
+Allegan,"Salem Township, Precinct 1",State House,43,DEM,Danene Shumaker,68,122,57,247
+Allegan,"Salem Township, Precinct 1",State House,43,REP,Rachelle Smit,477,308,595,1380
+Allegan,"Salem Township, Precinct 1",State House,43,,Write-in,2,0,1,3
+Allegan,"Salem Township, Precinct 2 - HOP",State House,43,DEM,Danene Shumaker,68,183,99,350
+Allegan,"Salem Township, Precinct 2 - HOP",State House,43,REP,Rachelle Smit,432,341,543,1316
+Allegan,"Salem Township, Precinct 2 - HOP",State House,43,,Write-in,2,2,0,4
+Allegan,"Valley Township, Precinct 1",State House,43,DEM,Danene Shumaker,319,0,105,424
+Allegan,"Valley Township, Precinct 1",State House,43,REP,Rachelle Smit,497,0,395,892
+Allegan,"Valley Township, Precinct 1",State House,43,,Write-in,5,0,2,7
+Allegan,"Watson Township, Precinct 1",State House,43,DEM,Danene Shumaker,219,0,106,325
+Allegan,"Watson Township, Precinct 1",State House,43,REP,Rachelle Smit,499,0,392,891
+Allegan,"Watson Township, Precinct 1",State House,43,,Write-in,4,0,3,7
+Allegan,"Wayland Township, Precinct 1",State House,43,DEM,Danene Shumaker,136,296,197,629
+Allegan,"Wayland Township, Precinct 1",State House,43,REP,Rachelle Smit,440,383,670,1493
+Allegan,"Wayland Township, Precinct 1",State House,43,,Write-in,2,1,3,6
+Allegan,"Leighton Township, Precinct 1 - WAY",State House,79,DEM,Jason Rubin,106,110,58,274
+Allegan,"Leighton Township, Precinct 1 - WAY",State House,79,REP,Angela Rigas,312,216,447,975
+Allegan,"Leighton Township, Precinct 1 - WAY",State House,79,,Write-in,3,2,5,10
+Allegan,"Leighton Township, Precinct 2",State House,79,DEM,Jason Rubin,136,206,115,457
+Allegan,"Leighton Township, Precinct 2",State House,79,REP,Angela Rigas,351,329,540,1220
+Allegan,"Leighton Township, Precinct 2",State House,79,,Write-in,4,0,2,6
+Allegan,"Leighton Township, Precinct 3 - WAY",State House,79,DEM,Jason Rubin,66,161,86,313
+Allegan,"Leighton Township, Precinct 3 - WAY",State House,79,REP,Angela Rigas,315,271,435,1021
+Allegan,"Leighton Township, Precinct 3 - WAY",State House,79,,Write-in,0,0,3,3
+Allegan,"Laketown Township, Precinct 1 - HOL",State House,86,DEM,Abby Klomparens,130,322,196,648
+Allegan,"Laketown Township, Precinct 1 - HOL",State House,86,REP,Nancy DeBoer,233,283,374,890
+Allegan,"Laketown Township, Precinct 1 - HOL",State House,86,,Write-in,0,0,1,1
+Allegan,"Laketown Township, Precinct 2 - HAM",State House,86,DEM,Abby Klomparens,141,263,160,564
+Allegan,"Laketown Township, Precinct 2 - HAM",State House,86,REP,Nancy DeBoer,455,512,521,1488
+Allegan,"Laketown Township, Precinct 2 - HAM",State House,86,,Write-in,3,1,2,6
+Allegan,"Laketown Township, Precinct 3 - SAU",State House,86,DEM,Abby Klomparens,66,148,106,320
+Allegan,"Laketown Township, Precinct 3 - SAU",State House,86,REP,Nancy DeBoer,122,133,206,461
+Allegan,"Laketown Township, Precinct 3 - SAU",State House,86,,Write-in,0,0,1,1
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",State House,86,DEM,Abby Klomparens,175,281,44,500
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",State House,86,REP,Nancy DeBoer,366,211,103,680
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",State House,86,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",State House,86,DEM,Abby Klomparens,342,342,92,776
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",State House,86,REP,Nancy DeBoer,564,335,175,1074
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",State House,86,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",State House,86,DEM,Abby Klomparens,134,276,63,474
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",State House,86,REP,Nancy DeBoer,278,265,119,662
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",State House,86,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Prosecuting Attorney,,REP,Michael Villar,1016,0,488,1504
+Allegan,"City of Allegan, Precinct 1 - ALG",County Prosecuting Attorney,,,Write-in,52,0,13,65
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Prosecuting Attorney,,REP,Michael Villar,98,172,160,430
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Prosecuting Attorney,,,Write-in,2,4,3,9
+Allegan,"City of Fennville, Precinct 1 - FEN",County Prosecuting Attorney,,REP,Michael Villar,229,0,129,358
+Allegan,"City of Fennville, Precinct 1 - FEN",County Prosecuting Attorney,,,Write-in,10,0,1,11
+Allegan,"City of Otsego, Precinct 1 - OTS",County Prosecuting Attorney,,REP,Michael Villar,425,450,478,1353
+Allegan,"City of Otsego, Precinct 1 - OTS",County Prosecuting Attorney,,,Write-in,12,19,13,44
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Prosecuting Attorney,,REP,Michael Villar,424,361,464,1249
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Prosecuting Attorney,,,Write-in,14,19,10,43
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Prosecuting Attorney,,REP,Michael Villar,230,0,72,302
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Prosecuting Attorney,,,Write-in,11,0,3,14
+Allegan,"City of Wayland, Precinct 1 - WAY",County Prosecuting Attorney,,REP,Michael Villar,361,196,235,792
+Allegan,"City of Wayland, Precinct 1 - WAY",County Prosecuting Attorney,,,Write-in,8,12,3,23
+Allegan,"City of Wayland, Precinct 2 - WAY",County Prosecuting Attorney,,REP,Michael Villar,371,177,353,901
+Allegan,"City of Wayland, Precinct 2 - WAY",County Prosecuting Attorney,,,Write-in,8,8,2,18
+Allegan,"Allegan Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,570,498,853,1921
+Allegan,"Allegan Township, Precinct 1",County Prosecuting Attorney,,,Write-in,17,21,15,53
+Allegan,"Casco Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,320,371,464,1155
+Allegan,"Casco Township, Precinct 1",County Prosecuting Attorney,,,Write-in,10,12,5,27
+Allegan,"Cheshire Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,324,151,390,865
+Allegan,"Cheshire Township, Precinct 1",County Prosecuting Attorney,,,Write-in,7,4,7,18
+Allegan,"Clyde Township, Precinct 1 - FEN",County Prosecuting Attorney,,REP,Michael Villar,334,124,185,643
+Allegan,"Clyde Township, Precinct 1 - FEN",County Prosecuting Attorney,,,Write-in,4,4,3,11
+Allegan,"Dorr Township, Precinct 1 - HOP",County Prosecuting Attorney,,REP,Michael Villar,316,298,481,1095
+Allegan,"Dorr Township, Precinct 1 - HOP",County Prosecuting Attorney,,,Write-in,2,0,3,5
+Allegan,"Dorr Township, Precinct 2 - WAY",County Prosecuting Attorney,,REP,Michael Villar,469,402,707,1578
+Allegan,"Dorr Township, Precinct 2 - WAY",County Prosecuting Attorney,,,Write-in,13,10,5,28
+Allegan,"Dorr Township, Precinct 3 - WAY",County Prosecuting Attorney,,REP,Michael Villar,432,239,486,1157
+Allegan,"Dorr Township, Precinct 3 - WAY",County Prosecuting Attorney,,,Write-in,12,7,6,25
+Allegan,"Fillmore Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,431,439,620,1490
+Allegan,"Fillmore Township, Precinct 1",County Prosecuting Attorney,,,Write-in,4,11,6,21
+Allegan,"Ganges Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,420,339,304,1063
+Allegan,"Ganges Township, Precinct 1",County Prosecuting Attorney,,,Write-in,14,9,7,30
+Allegan,"Gun Plain Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,739,678,984,2401
+Allegan,"Gun Plain Township, Precinct 1",County Prosecuting Attorney,,,Write-in,22,19,18,59
+Allegan,"Heath Township, Precinct 1 - HAM",County Prosecuting Attorney,,REP,Michael Villar,424,542,792,1758
+Allegan,"Heath Township, Precinct 1 - HAM",County Prosecuting Attorney,,,Write-in,6,13,12,31
+Allegan,"Heath Township, Precinct 2 - ALG",County Prosecuting Attorney,,REP,Michael Villar,98,105,130,333
+Allegan,"Heath Township, Precinct 2 - ALG",County Prosecuting Attorney,,,Write-in,4,1,0,5
+Allegan,"Hopkins Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,445,277,566,1288
+Allegan,"Hopkins Township, Precinct 1",County Prosecuting Attorney,,,Write-in,4,1,10,15
+Allegan,"Laketown Township, Precinct 1 - HOL",County Prosecuting Attorney,,REP,Michael Villar,244,346,409,999
+Allegan,"Laketown Township, Precinct 1 - HOL",County Prosecuting Attorney,,,Write-in,4,7,12,23
+Allegan,"Laketown Township, Precinct 2 - HAM",County Prosecuting Attorney,,REP,Michael Villar,473,540,531,1544
+Allegan,"Laketown Township, Precinct 2 - HAM",County Prosecuting Attorney,,,Write-in,6,3,5,14
+Allegan,"Laketown Township, Precinct 3 - SAU",County Prosecuting Attorney,,REP,Michael Villar,126,148,225,499
+Allegan,"Laketown Township, Precinct 3 - SAU",County Prosecuting Attorney,,,Write-in,2,3,5,10
+Allegan,"Lee Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,518,151,211,880
+Allegan,"Lee Township, Precinct 1",County Prosecuting Attorney,,,Write-in,29,0,4,33
+Allegan,"Leighton Township, Precinct 1 - WAY",County Prosecuting Attorney,,REP,Michael Villar,350,237,449,1036
+Allegan,"Leighton Township, Precinct 1 - WAY",County Prosecuting Attorney,,,Write-in,5,5,8,18
+Allegan,"Leighton Township, Precinct 2",County Prosecuting Attorney,,REP,Michael Villar,383,379,549,1311
+Allegan,"Leighton Township, Precinct 2",County Prosecuting Attorney,,,Write-in,9,5,7,21
+Allegan,"Leighton Township, Precinct 3 - WAY",County Prosecuting Attorney,,REP,Michael Villar,327,304,453,1084
+Allegan,"Leighton Township, Precinct 3 - WAY",County Prosecuting Attorney,,,Write-in,4,4,9,17
+Allegan,"Manlius Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,547,485,574,1606
+Allegan,"Manlius Township, Precinct 1",County Prosecuting Attorney,,,Write-in,16,15,8,39
+Allegan,"Martin Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,453,261,463,1177
+Allegan,"Martin Township, Precinct 1",County Prosecuting Attorney,,,Write-in,6,7,2,15
+Allegan,"Monterey Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,558,259,372,1189
+Allegan,"Monterey Township, Precinct 1",County Prosecuting Attorney,,,Write-in,8,3,4,15
+Allegan,"Otsego Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,343,399,522,1264
+Allegan,"Otsego Township, Precinct 1",County Prosecuting Attorney,,,Write-in,12,15,7,34
+Allegan,"Otsego Township, Precinct 2",County Prosecuting Attorney,,REP,Michael Villar,347,321,481,1149
+Allegan,"Otsego Township, Precinct 2",County Prosecuting Attorney,,,Write-in,12,12,7,31
+Allegan,"Overisel Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,679,554,519,1752
+Allegan,"Overisel Township, Precinct 1",County Prosecuting Attorney,,,Write-in,8,7,4,19
+Allegan,"Salem Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,494,330,592,1416
+Allegan,"Salem Township, Precinct 1",County Prosecuting Attorney,,,Write-in,6,2,5,13
+Allegan,"Salem Township, Precinct 2 - HOP",County Prosecuting Attorney,,REP,Michael Villar,431,376,557,1364
+Allegan,"Salem Township, Precinct 2 - HOP",County Prosecuting Attorney,,,Write-in,6,5,4,15
+Allegan,"Saugatuck Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,291,639,470,1400
+Allegan,"Saugatuck Township, Precinct 1",County Prosecuting Attorney,,,Write-in,6,23,7,36
+Allegan,"Trowbridge Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,550,0,455,1005
+Allegan,"Trowbridge Township, Precinct 1",County Prosecuting Attorney,,,Write-in,16,0,7,23
+Allegan,"Valley Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,593,0,409,1002
+Allegan,"Valley Township, Precinct 1",County Prosecuting Attorney,,,Write-in,16,0,7,23
+Allegan,"Watson Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,539,0,405,944
+Allegan,"Watson Township, Precinct 1",County Prosecuting Attorney,,,Write-in,11,0,9,20
+Allegan,"Wayland Township, Precinct 1",County Prosecuting Attorney,,REP,Michael Villar,474,449,694,1617
+Allegan,"Wayland Township, Precinct 1",County Prosecuting Attorney,,,Write-in,10,11,9,30
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Prosecuting Attorney,,REP,Michael Villar,666,0,110,776
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Prosecuting Attorney,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Prosecuting Attorney,,REP,Michael Villar,1021,0,195,1216
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Prosecuting Attorney,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Prosecuting Attorney,,REP,Michael Villar,635,0,132,767
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Prosecuting Attorney,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Prosecuting Attorney,,REP,Michael Villar,4,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Prosecuting Attorney,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Sheriff,,REP,Frank Baker,1057,0,513,1570
+Allegan,"City of Allegan, Precinct 1 - ALG",County Sheriff,,,Write-in,55,0,17,72
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Sheriff,,REP,Frank Baker,101,177,165,443
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Sheriff,,,Write-in,3,6,6,15
+Allegan,"City of Fennville, Precinct 1 - FEN",County Sheriff,,REP,Frank Baker,240,0,135,375
+Allegan,"City of Fennville, Precinct 1 - FEN",County Sheriff,,,Write-in,13,0,3,16
+Allegan,"City of Otsego, Precinct 1 - OTS",County Sheriff,,REP,Frank Baker,447,473,498,1418
+Allegan,"City of Otsego, Precinct 1 - OTS",County Sheriff,,,Write-in,9,18,10,37
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Sheriff,,REP,Frank Baker,431,375,486,1292
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Sheriff,,,Write-in,16,18,20,54
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Sheriff,,REP,Frank Baker,248,0,76,324
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Sheriff,,,Write-in,7,0,2,9
+Allegan,"City of Wayland, Precinct 1 - WAY",County Sheriff,,REP,Frank Baker,383,202,247,832
+Allegan,"City of Wayland, Precinct 1 - WAY",County Sheriff,,,Write-in,12,14,2,28
+Allegan,"City of Wayland, Precinct 2 - WAY",County Sheriff,,REP,Frank Baker,382,196,366,944
+Allegan,"City of Wayland, Precinct 2 - WAY",County Sheriff,,,Write-in,8,6,1,15
+Allegan,"Allegan Township, Precinct 1",County Sheriff,,REP,Frank Baker,593,545,886,2024
+Allegan,"Allegan Township, Precinct 1",County Sheriff,,,Write-in,20,27,25,72
+Allegan,"Casco Township, Precinct 1",County Sheriff,,REP,Frank Baker,343,400,482,1225
+Allegan,"Casco Township, Precinct 1",County Sheriff,,,Write-in,13,10,24,47
+Allegan,"Cheshire Township, Precinct 1",County Sheriff,,REP,Frank Baker,325,163,407,895
+Allegan,"Cheshire Township, Precinct 1",County Sheriff,,,Write-in,11,5,12,28
+Allegan,"Clyde Township, Precinct 1 - FEN",County Sheriff,,REP,Frank Baker,341,133,190,664
+Allegan,"Clyde Township, Precinct 1 - FEN",County Sheriff,,,Write-in,13,5,8,26
+Allegan,"Dorr Township, Precinct 1 - HOP",County Sheriff,,REP,Frank Baker,318,309,489,1116
+Allegan,"Dorr Township, Precinct 1 - HOP",County Sheriff,,,Write-in,10,1,15,26
+Allegan,"Dorr Township, Precinct 2 - WAY",County Sheriff,,REP,Frank Baker,495,408,717,1620
+Allegan,"Dorr Township, Precinct 2 - WAY",County Sheriff,,,Write-in,14,9,18,41
+Allegan,"Dorr Township, Precinct 3 - WAY",County Sheriff,,REP,Frank Baker,448,258,487,1193
+Allegan,"Dorr Township, Precinct 3 - WAY",County Sheriff,,,Write-in,17,5,19,41
+Allegan,"Fillmore Township, Precinct 1",County Sheriff,,REP,Frank Baker,431,462,624,1517
+Allegan,"Fillmore Township, Precinct 1",County Sheriff,,,Write-in,14,13,21,48
+Allegan,"Ganges Township, Precinct 1",County Sheriff,,REP,Frank Baker,447,360,317,1124
+Allegan,"Ganges Township, Precinct 1",County Sheriff,,,Write-in,18,9,7,34
+Allegan,"Gun Plain Township, Precinct 1",County Sheriff,,REP,Frank Baker,785,721,1058,2564
+Allegan,"Gun Plain Township, Precinct 1",County Sheriff,,,Write-in,21,17,15,53
+Allegan,"Heath Township, Precinct 1 - HAM",County Sheriff,,REP,Frank Baker,431,564,812,1807
+Allegan,"Heath Township, Precinct 1 - HAM",County Sheriff,,,Write-in,11,15,28,54
+Allegan,"Heath Township, Precinct 2 - ALG",County Sheriff,,REP,Frank Baker,101,106,130,337
+Allegan,"Heath Township, Precinct 2 - ALG",County Sheriff,,,Write-in,7,1,3,11
+Allegan,"Hopkins Township, Precinct 1",County Sheriff,,REP,Frank Baker,460,285,592,1337
+Allegan,"Hopkins Township, Precinct 1",County Sheriff,,,Write-in,11,5,11,27
+Allegan,"Laketown Township, Precinct 1 - HOL",County Sheriff,,REP,Frank Baker,256,364,419,1039
+Allegan,"Laketown Township, Precinct 1 - HOL",County Sheriff,,,Write-in,7,3,20,30
+Allegan,"Laketown Township, Precinct 2 - HAM",County Sheriff,,REP,Frank Baker,492,567,549,1608
+Allegan,"Laketown Township, Precinct 2 - HAM",County Sheriff,,,Write-in,10,9,7,26
+Allegan,"Laketown Township, Precinct 3 - SAU",County Sheriff,,REP,Frank Baker,133,154,236,523
+Allegan,"Laketown Township, Precinct 3 - SAU",County Sheriff,,,Write-in,3,4,4,11
+Allegan,"Lee Township, Precinct 1",County Sheriff,,REP,Frank Baker,548,154,213,915
+Allegan,"Lee Township, Precinct 1",County Sheriff,,,Write-in,34,0,6,40
+Allegan,"Leighton Township, Precinct 1 - WAY",County Sheriff,,REP,Frank Baker,359,240,457,1056
+Allegan,"Leighton Township, Precinct 1 - WAY",County Sheriff,,,Write-in,6,10,14,30
+Allegan,"Leighton Township, Precinct 2",County Sheriff,,REP,Frank Baker,399,383,562,1344
+Allegan,"Leighton Township, Precinct 2",County Sheriff,,,Write-in,12,5,11,28
+Allegan,"Leighton Township, Precinct 3 - WAY",County Sheriff,,REP,Frank Baker,337,308,449,1094
+Allegan,"Leighton Township, Precinct 3 - WAY",County Sheriff,,,Write-in,7,10,22,39
+Allegan,"Manlius Township, Precinct 1",County Sheriff,,REP,Frank Baker,567,513,599,1679
+Allegan,"Manlius Township, Precinct 1",County Sheriff,,,Write-in,20,17,12,49
+Allegan,"Martin Township, Precinct 1",County Sheriff,,REP,Frank Baker,480,278,483,1241
+Allegan,"Martin Township, Precinct 1",County Sheriff,,,Write-in,1,10,7,18
+Allegan,"Monterey Township, Precinct 1",County Sheriff,,REP,Frank Baker,578,261,387,1226
+Allegan,"Monterey Township, Precinct 1",County Sheriff,,,Write-in,19,8,7,34
+Allegan,"Otsego Township, Precinct 1",County Sheriff,,REP,Frank Baker,364,419,541,1324
+Allegan,"Otsego Township, Precinct 1",County Sheriff,,,Write-in,10,14,11,35
+Allegan,"Otsego Township, Precinct 2",County Sheriff,,REP,Frank Baker,364,342,498,1204
+Allegan,"Otsego Township, Precinct 2",County Sheriff,,,Write-in,14,11,14,39
+Allegan,"Overisel Township, Precinct 1",County Sheriff,,REP,Frank Baker,704,566,532,1802
+Allegan,"Overisel Township, Precinct 1",County Sheriff,,,Write-in,16,10,6,32
+Allegan,"Salem Township, Precinct 1",County Sheriff,,REP,Frank Baker,492,343,608,1443
+Allegan,"Salem Township, Precinct 1",County Sheriff,,,Write-in,18,4,5,27
+Allegan,"Salem Township, Precinct 2 - HOP",County Sheriff,,REP,Frank Baker,436,394,577,1407
+Allegan,"Salem Township, Precinct 2 - HOP",County Sheriff,,,Write-in,19,7,10,36
+Allegan,"Saugatuck Township, Precinct 1",County Sheriff,,REP,Frank Baker,314,676,498,1488
+Allegan,"Saugatuck Township, Precinct 1",County Sheriff,,,Write-in,6,22,14,42
+Allegan,"Trowbridge Township, Precinct 1",County Sheriff,,REP,Frank Baker,579,0,479,1058
+Allegan,"Trowbridge Township, Precinct 1",County Sheriff,,,Write-in,20,0,13,33
+Allegan,"Valley Township, Precinct 1",County Sheriff,,REP,Frank Baker,609,0,420,1029
+Allegan,"Valley Township, Precinct 1",County Sheriff,,,Write-in,27,0,17,44
+Allegan,"Watson Township, Precinct 1",County Sheriff,,REP,Frank Baker,558,0,426,984
+Allegan,"Watson Township, Precinct 1",County Sheriff,,,Write-in,20,0,7,27
+Allegan,"Wayland Township, Precinct 1",County Sheriff,,REP,Frank Baker,493,469,735,1697
+Allegan,"Wayland Township, Precinct 1",County Sheriff,,,Write-in,15,13,15,43
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Sheriff,,REP,Frank Baker,671,0,109,780
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Sheriff,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Sheriff,,REP,Frank Baker,1010,0,199,1209
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Sheriff,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Sheriff,,REP,Frank Baker,629,0,129,758
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Sheriff,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Sheriff,,REP,Frank Baker,4,0,0,4
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Sheriff,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Clerk / Register of Deeds,,REP,Bob Genetski,1049,0,513,1562
+Allegan,"City of Allegan, Precinct 1 - ALG",County Clerk / Register of Deeds,,,Write-in,45,0,15,60
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Clerk / Register of Deeds,,REP,Bob Genetski,102,171,166,439
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Clerk / Register of Deeds,,,Write-in,3,7,4,14
+Allegan,"City of Fennville, Precinct 1 - FEN",County Clerk / Register of Deeds,,REP,Bob Genetski,232,0,134,366
+Allegan,"City of Fennville, Precinct 1 - FEN",County Clerk / Register of Deeds,,,Write-in,13,0,4,17
+Allegan,"City of Otsego, Precinct 1 - OTS",County Clerk / Register of Deeds,,REP,Bob Genetski,446,464,489,1399
+Allegan,"City of Otsego, Precinct 1 - OTS",County Clerk / Register of Deeds,,,Write-in,8,18,10,36
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Clerk / Register of Deeds,,REP,Bob Genetski,431,374,484,1289
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Clerk / Register of Deeds,,,Write-in,12,18,11,41
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Clerk / Register of Deeds,,REP,Bob Genetski,260,0,83,343
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Clerk / Register of Deeds,,,Write-in,9,0,3,12
+Allegan,"City of Wayland, Precinct 1 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,377,200,248,825
+Allegan,"City of Wayland, Precinct 1 - WAY",County Clerk / Register of Deeds,,,Write-in,11,13,1,25
+Allegan,"City of Wayland, Precinct 2 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,379,189,350,918
+Allegan,"City of Wayland, Precinct 2 - WAY",County Clerk / Register of Deeds,,,Write-in,7,5,3,15
+Allegan,"Allegan Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,596,528,884,2008
+Allegan,"Allegan Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,10,23,18,51
+Allegan,"Casco Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,340,406,494,1240
+Allegan,"Casco Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,12,7,6,25
+Allegan,"Cheshire Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,332,163,410,905
+Allegan,"Cheshire Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,7,4,11,22
+Allegan,"Clyde Township, Precinct 1 - FEN",County Clerk / Register of Deeds,,REP,Bob Genetski,343,128,192,663
+Allegan,"Clyde Township, Precinct 1 - FEN",County Clerk / Register of Deeds,,,Write-in,8,3,3,14
+Allegan,"Dorr Township, Precinct 1 - HOP",County Clerk / Register of Deeds,,REP,Bob Genetski,327,310,500,1137
+Allegan,"Dorr Township, Precinct 1 - HOP",County Clerk / Register of Deeds,,,Write-in,5,0,4,9
+Allegan,"Dorr Township, Precinct 2 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,490,406,724,1620
+Allegan,"Dorr Township, Precinct 2 - WAY",County Clerk / Register of Deeds,,,Write-in,12,8,7,27
+Allegan,"Dorr Township, Precinct 3 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,451,255,503,1209
+Allegan,"Dorr Township, Precinct 3 - WAY",County Clerk / Register of Deeds,,,Write-in,9,6,6,21
+Allegan,"Fillmore Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,439,463,638,1540
+Allegan,"Fillmore Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,3,6,6,15
+Allegan,"Ganges Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,452,361,325,1138
+Allegan,"Ganges Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,15,9,5,29
+Allegan,"Gun Plain Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,775,716,1048,2539
+Allegan,"Gun Plain Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,19,16,17,52
+Allegan,"Heath Township, Precinct 1 - HAM",County Clerk / Register of Deeds,,REP,Bob Genetski,434,568,816,1818
+Allegan,"Heath Township, Precinct 1 - HAM",County Clerk / Register of Deeds,,,Write-in,3,8,11,22
+Allegan,"Heath Township, Precinct 2 - ALG",County Clerk / Register of Deeds,,REP,Bob Genetski,99,106,130,335
+Allegan,"Heath Township, Precinct 2 - ALG",County Clerk / Register of Deeds,,,Write-in,4,1,1,6
+Allegan,"Hopkins Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,460,291,601,1352
+Allegan,"Hopkins Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,4,1,4,9
+Allegan,"Laketown Township, Precinct 1 - HOL",County Clerk / Register of Deeds,,REP,Bob Genetski,253,356,427,1036
+Allegan,"Laketown Township, Precinct 1 - HOL",County Clerk / Register of Deeds,,,Write-in,4,5,10,19
+Allegan,"Laketown Township, Precinct 2 - HAM",County Clerk / Register of Deeds,,REP,Bob Genetski,490,567,552,1609
+Allegan,"Laketown Township, Precinct 2 - HAM",County Clerk / Register of Deeds,,,Write-in,6,8,3,17
+Allegan,"Laketown Township, Precinct 3 - SAU",County Clerk / Register of Deeds,,REP,Bob Genetski,129,156,234,519
+Allegan,"Laketown Township, Precinct 3 - SAU",County Clerk / Register of Deeds,,,Write-in,3,4,4,11
+Allegan,"Lee Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,548,159,216,923
+Allegan,"Lee Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,28,0,4,32
+Allegan,"Leighton Township, Precinct 1 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,359,244,469,1072
+Allegan,"Leighton Township, Precinct 1 - WAY",County Clerk / Register of Deeds,,,Write-in,4,6,2,12
+Allegan,"Leighton Township, Precinct 2",County Clerk / Register of Deeds,,REP,Bob Genetski,397,382,566,1345
+Allegan,"Leighton Township, Precinct 2",County Clerk / Register of Deeds,,,Write-in,7,3,6,16
+Allegan,"Leighton Township, Precinct 3 - WAY",County Clerk / Register of Deeds,,REP,Bob Genetski,334,309,459,1102
+Allegan,"Leighton Township, Precinct 3 - WAY",County Clerk / Register of Deeds,,,Write-in,6,6,4,16
+Allegan,"Manlius Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,568,512,603,1683
+Allegan,"Manlius Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,12,14,8,34
+Allegan,"Martin Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,475,279,483,1237
+Allegan,"Martin Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,2,9,2,13
+Allegan,"Monterey Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,587,257,389,1233
+Allegan,"Monterey Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,4,5,3,12
+Allegan,"Otsego Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,365,417,540,1322
+Allegan,"Otsego Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,11,14,6,31
+Allegan,"Otsego Township, Precinct 2",County Clerk / Register of Deeds,,REP,Bob Genetski,357,332,495,1184
+Allegan,"Otsego Township, Precinct 2",County Clerk / Register of Deeds,,,Write-in,13,10,10,33
+Allegan,"Overisel Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,704,569,536,1809
+Allegan,"Overisel Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,8,5,2,15
+Allegan,"Salem Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,503,346,612,1461
+Allegan,"Salem Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,6,2,3,11
+Allegan,"Salem Township, Precinct 2 - HOP",County Clerk / Register of Deeds,,REP,Bob Genetski,443,395,584,1422
+Allegan,"Salem Township, Precinct 2 - HOP",County Clerk / Register of Deeds,,,Write-in,10,5,4,19
+Allegan,"Saugatuck Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,311,662,509,1482
+Allegan,"Saugatuck Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,8,23,12,43
+Allegan,"Trowbridge Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,585,0,482,1067
+Allegan,"Trowbridge Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,12,0,7,19
+Allegan,"Valley Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,619,0,428,1047
+Allegan,"Valley Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,11,0,6,17
+Allegan,"Watson Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,564,0,426,990
+Allegan,"Watson Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,8,0,5,13
+Allegan,"Wayland Township, Precinct 1",County Clerk / Register of Deeds,,REP,Bob Genetski,496,471,735,1702
+Allegan,"Wayland Township, Precinct 1",County Clerk / Register of Deeds,,,Write-in,11,10,8,29
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Clerk / Register of Deeds,,REP,Bob Genetski,661,0,108,769
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Clerk / Register of Deeds,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Clerk / Register of Deeds,,REP,Bob Genetski,1001,0,197,1198
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Clerk / Register of Deeds,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Clerk / Register of Deeds,,REP,Bob Genetski,637,0,129,766
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Clerk / Register of Deeds,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Clerk / Register of Deeds,,REP,Bob Genetski,4,0,0,4
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Clerk / Register of Deeds,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Treasurer,,REP,Sally L. Brooks,1063,0,513,1576
+Allegan,"City of Allegan, Precinct 1 - ALG",County Treasurer,,,Write-in,42,0,14,56
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Treasurer,,REP,Sally L. Brooks,103,171,165,439
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Treasurer,,,Write-in,2,5,4,11
+Allegan,"City of Fennville, Precinct 1 - FEN",County Treasurer,,REP,Sally L. Brooks,242,0,133,375
+Allegan,"City of Fennville, Precinct 1 - FEN",County Treasurer,,,Write-in,9,0,3,12
+Allegan,"City of Otsego, Precinct 1 - OTS",County Treasurer,,REP,Sally L. Brooks,446,468,490,1404
+Allegan,"City of Otsego, Precinct 1 - OTS",County Treasurer,,,Write-in,9,16,9,34
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Treasurer,,REP,Sally L. Brooks,431,371,480,1282
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Treasurer,,,Write-in,13,17,9,39
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Treasurer,,REP,Sally L. Brooks,237,0,79,316
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Treasurer,,,Write-in,8,0,2,10
+Allegan,"City of Wayland, Precinct 1 - WAY",County Treasurer,,REP,Sally L. Brooks,381,199,247,827
+Allegan,"City of Wayland, Precinct 1 - WAY",County Treasurer,,,Write-in,10,15,1,26
+Allegan,"City of Wayland, Precinct 2 - WAY",County Treasurer,,REP,Sally L. Brooks,377,187,350,914
+Allegan,"City of Wayland, Precinct 2 - WAY",County Treasurer,,,Write-in,6,6,2,14
+Allegan,"Allegan Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,594,541,889,2024
+Allegan,"Allegan Township, Precinct 1",County Treasurer,,,Write-in,6,23,17,46
+Allegan,"Casco Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,344,407,497,1248
+Allegan,"Casco Township, Precinct 1",County Treasurer,,,Write-in,12,8,7,27
+Allegan,"Cheshire Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,332,165,411,908
+Allegan,"Cheshire Township, Precinct 1",County Treasurer,,,Write-in,7,5,9,21
+Allegan,"Clyde Township, Precinct 1 - FEN",County Treasurer,,REP,Sally L. Brooks,347,130,189,666
+Allegan,"Clyde Township, Precinct 1 - FEN",County Treasurer,,,Write-in,8,4,4,16
+Allegan,"Dorr Township, Precinct 1 - HOP",County Treasurer,,REP,Sally L. Brooks,324,305,495,1124
+Allegan,"Dorr Township, Precinct 1 - HOP",County Treasurer,,,Write-in,4,0,3,7
+Allegan,"Dorr Township, Precinct 2 - WAY",County Treasurer,,REP,Sally L. Brooks,486,410,722,1618
+Allegan,"Dorr Township, Precinct 2 - WAY",County Treasurer,,,Write-in,11,8,7,26
+Allegan,"Dorr Township, Precinct 3 - WAY",County Treasurer,,REP,Sally L. Brooks,447,254,494,1195
+Allegan,"Dorr Township, Precinct 3 - WAY",County Treasurer,,,Write-in,9,6,4,19
+Allegan,"Fillmore Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,437,463,638,1538
+Allegan,"Fillmore Township, Precinct 1",County Treasurer,,,Write-in,3,6,3,12
+Allegan,"Ganges Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,454,365,323,1142
+Allegan,"Ganges Township, Precinct 1",County Treasurer,,,Write-in,14,7,5,26
+Allegan,"Gun Plain Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,777,706,1037,2520
+Allegan,"Gun Plain Township, Precinct 1",County Treasurer,,,Write-in,19,16,18,53
+Allegan,"Heath Township, Precinct 1 - HAM",County Treasurer,,REP,Sally L. Brooks,434,562,818,1814
+Allegan,"Heath Township, Precinct 1 - HAM",County Treasurer,,,Write-in,3,9,11,23
+Allegan,"Heath Township, Precinct 2 - ALG",County Treasurer,,REP,Sally L. Brooks,98,108,132,338
+Allegan,"Heath Township, Precinct 2 - ALG",County Treasurer,,,Write-in,4,1,1,6
+Allegan,"Hopkins Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,458,283,590,1331
+Allegan,"Hopkins Township, Precinct 1",County Treasurer,,,Write-in,5,1,4,10
+Allegan,"Laketown Township, Precinct 1 - HOL",County Treasurer,,REP,Sally L. Brooks,254,362,424,1040
+Allegan,"Laketown Township, Precinct 1 - HOL",County Treasurer,,,Write-in,4,4,8,16
+Allegan,"Laketown Township, Precinct 2 - HAM",County Treasurer,,REP,Sally L. Brooks,489,565,551,1605
+Allegan,"Laketown Township, Precinct 2 - HAM",County Treasurer,,,Write-in,4,3,3,10
+Allegan,"Laketown Township, Precinct 3 - SAU",County Treasurer,,REP,Sally L. Brooks,127,155,232,514
+Allegan,"Laketown Township, Precinct 3 - SAU",County Treasurer,,,Write-in,3,3,3,9
+Allegan,"Lee Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,542,159,215,916
+Allegan,"Lee Township, Precinct 1",County Treasurer,,,Write-in,31,0,3,34
+Allegan,"Leighton Township, Precinct 1 - WAY",County Treasurer,,REP,Sally L. Brooks,363,241,466,1070
+Allegan,"Leighton Township, Precinct 1 - WAY",County Treasurer,,,Write-in,4,7,3,14
+Allegan,"Leighton Township, Precinct 2",County Treasurer,,REP,Sally L. Brooks,397,384,562,1343
+Allegan,"Leighton Township, Precinct 2",County Treasurer,,,Write-in,7,3,7,17
+Allegan,"Leighton Township, Precinct 3 - WAY",County Treasurer,,REP,Sally L. Brooks,334,307,457,1098
+Allegan,"Leighton Township, Precinct 3 - WAY",County Treasurer,,,Write-in,5,6,4,15
+Allegan,"Manlius Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,570,510,601,1681
+Allegan,"Manlius Township, Precinct 1",County Treasurer,,,Write-in,11,13,7,31
+Allegan,"Martin Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,476,275,483,1234
+Allegan,"Martin Township, Precinct 1",County Treasurer,,,Write-in,1,9,2,12
+Allegan,"Monterey Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,581,262,389,1232
+Allegan,"Monterey Township, Precinct 1",County Treasurer,,,Write-in,5,3,3,11
+Allegan,"Otsego Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,363,413,536,1312
+Allegan,"Otsego Township, Precinct 1",County Treasurer,,,Write-in,10,14,7,31
+Allegan,"Otsego Township, Precinct 2",County Treasurer,,REP,Sally L. Brooks,362,337,497,1196
+Allegan,"Otsego Township, Precinct 2",County Treasurer,,,Write-in,12,10,8,30
+Allegan,"Overisel Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,703,566,533,1802
+Allegan,"Overisel Township, Precinct 1",County Treasurer,,,Write-in,9,5,2,16
+Allegan,"Salem Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,502,341,608,1451
+Allegan,"Salem Township, Precinct 1",County Treasurer,,,Write-in,6,3,3,12
+Allegan,"Salem Township, Precinct 2 - HOP",County Treasurer,,REP,Sally L. Brooks,442,390,577,1409
+Allegan,"Salem Township, Precinct 2 - HOP",County Treasurer,,,Write-in,8,5,5,18
+Allegan,"Saugatuck Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,309,658,493,1460
+Allegan,"Saugatuck Township, Precinct 1",County Treasurer,,,Write-in,7,18,9,34
+Allegan,"Trowbridge Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,580,0,485,1065
+Allegan,"Trowbridge Township, Precinct 1",County Treasurer,,,Write-in,12,0,8,20
+Allegan,"Valley Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,614,0,427,1041
+Allegan,"Valley Township, Precinct 1",County Treasurer,,,Write-in,13,0,7,20
+Allegan,"Watson Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,564,0,424,988
+Allegan,"Watson Township, Precinct 1",County Treasurer,,,Write-in,8,0,4,12
+Allegan,"Wayland Township, Precinct 1",County Treasurer,,REP,Sally L. Brooks,497,466,726,1689
+Allegan,"Wayland Township, Precinct 1",County Treasurer,,,Write-in,7,7,9,23
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Treasurer,,REP,Sally L. Brooks,666,0,107,773
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Treasurer,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Treasurer,,REP,Sally L. Brooks,993,0,193,1186
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Treasurer,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Treasurer,,REP,Sally L. Brooks,637,0,128,765
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Treasurer,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Treasurer,,REP,Sally L. Brooks,4,0,0,4
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Treasurer,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Drain Commissioner,,REP,Chris Machiela,1033,0,509,1542
+Allegan,"City of Allegan, Precinct 1 - ALG",County Drain Commissioner,,,Write-in,47,0,14,61
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Drain Commissioner,,REP,Chris Machiela,103,167,160,430
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Drain Commissioner,,,Write-in,2,6,3,11
+Allegan,"City of Fennville, Precinct 1 - FEN",County Drain Commissioner,,REP,Chris Machiela,237,0,133,370
+Allegan,"City of Fennville, Precinct 1 - FEN",County Drain Commissioner,,,Write-in,11,0,4,15
+Allegan,"City of Otsego, Precinct 1 - OTS",County Drain Commissioner,,REP,Chris Machiela,441,452,487,1380
+Allegan,"City of Otsego, Precinct 1 - OTS",County Drain Commissioner,,,Write-in,7,18,9,34
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Drain Commissioner,,REP,Chris Machiela,428,368,479,1275
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Drain Commissioner,,,Write-in,14,17,11,42
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Drain Commissioner,,REP,Chris Machiela,233,0,74,307
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Drain Commissioner,,,Write-in,8,0,2,10
+Allegan,"City of Wayland, Precinct 1 - WAY",County Drain Commissioner,,REP,Chris Machiela,374,199,245,818
+Allegan,"City of Wayland, Precinct 1 - WAY",County Drain Commissioner,,,Write-in,10,13,1,24
+Allegan,"City of Wayland, Precinct 2 - WAY",County Drain Commissioner,,REP,Chris Machiela,372,184,350,906
+Allegan,"City of Wayland, Precinct 2 - WAY",County Drain Commissioner,,,Write-in,8,7,2,17
+Allegan,"Allegan Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,586,513,874,1973
+Allegan,"Allegan Township, Precinct 1",County Drain Commissioner,,,Write-in,13,25,20,58
+Allegan,"Casco Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,337,396,492,1225
+Allegan,"Casco Township, Precinct 1",County Drain Commissioner,,,Write-in,12,7,5,24
+Allegan,"Cheshire Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,327,160,401,888
+Allegan,"Cheshire Township, Precinct 1",County Drain Commissioner,,,Write-in,9,4,10,23
+Allegan,"Clyde Township, Precinct 1 - FEN",County Drain Commissioner,,REP,Chris Machiela,339,127,187,653
+Allegan,"Clyde Township, Precinct 1 - FEN",County Drain Commissioner,,,Write-in,10,5,4,19
+Allegan,"Dorr Township, Precinct 1 - HOP",County Drain Commissioner,,REP,Chris Machiela,319,302,494,1115
+Allegan,"Dorr Township, Precinct 1 - HOP",County Drain Commissioner,,,Write-in,5,1,3,9
+Allegan,"Dorr Township, Precinct 2 - WAY",County Drain Commissioner,,REP,Chris Machiela,486,404,716,1606
+Allegan,"Dorr Township, Precinct 2 - WAY",County Drain Commissioner,,,Write-in,11,7,9,27
+Allegan,"Dorr Township, Precinct 3 - WAY",County Drain Commissioner,,REP,Chris Machiela,445,248,492,1185
+Allegan,"Dorr Township, Precinct 3 - WAY",County Drain Commissioner,,,Write-in,10,6,6,22
+Allegan,"Fillmore Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,435,464,632,1531
+Allegan,"Fillmore Township, Precinct 1",County Drain Commissioner,,,Write-in,4,5,5,14
+Allegan,"Ganges Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,445,355,320,1120
+Allegan,"Ganges Township, Precinct 1",County Drain Commissioner,,,Write-in,17,8,5,30
+Allegan,"Gun Plain Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,772,698,1036,2506
+Allegan,"Gun Plain Township, Precinct 1",County Drain Commissioner,,,Write-in,18,17,17,52
+Allegan,"Heath Township, Precinct 1 - HAM",County Drain Commissioner,,REP,Chris Machiela,434,559,813,1806
+Allegan,"Heath Township, Precinct 1 - HAM",County Drain Commissioner,,,Write-in,3,9,12,24
+Allegan,"Heath Township, Precinct 2 - ALG",County Drain Commissioner,,REP,Chris Machiela,97,107,132,336
+Allegan,"Heath Township, Precinct 2 - ALG",County Drain Commissioner,,,Write-in,4,1,1,6
+Allegan,"Hopkins Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,459,281,588,1328
+Allegan,"Hopkins Township, Precinct 1",County Drain Commissioner,,,Write-in,4,1,4,9
+Allegan,"Laketown Township, Precinct 1 - HOL",County Drain Commissioner,,REP,Chris Machiela,250,360,420,1030
+Allegan,"Laketown Township, Precinct 1 - HOL",County Drain Commissioner,,,Write-in,6,3,9,18
+Allegan,"Laketown Township, Precinct 2 - HAM",County Drain Commissioner,,REP,Chris Machiela,488,565,546,1599
+Allegan,"Laketown Township, Precinct 2 - HAM",County Drain Commissioner,,,Write-in,3,3,4,10
+Allegan,"Laketown Township, Precinct 3 - SAU",County Drain Commissioner,,REP,Chris Machiela,128,158,233,519
+Allegan,"Laketown Township, Precinct 3 - SAU",County Drain Commissioner,,,Write-in,3,3,4,10
+Allegan,"Lee Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,535,153,213,901
+Allegan,"Lee Township, Precinct 1",County Drain Commissioner,,,Write-in,33,0,2,35
+Allegan,"Leighton Township, Precinct 1 - WAY",County Drain Commissioner,,REP,Chris Machiela,360,240,465,1065
+Allegan,"Leighton Township, Precinct 1 - WAY",County Drain Commissioner,,,Write-in,6,6,2,14
+Allegan,"Leighton Township, Precinct 2",County Drain Commissioner,,REP,Chris Machiela,393,382,565,1340
+Allegan,"Leighton Township, Precinct 2",County Drain Commissioner,,,Write-in,9,3,4,16
+Allegan,"Leighton Township, Precinct 3 - WAY",County Drain Commissioner,,REP,Chris Machiela,334,307,456,1097
+Allegan,"Leighton Township, Precinct 3 - WAY",County Drain Commissioner,,,Write-in,5,6,4,15
+Allegan,"Manlius Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,566,510,597,1673
+Allegan,"Manlius Township, Precinct 1",County Drain Commissioner,,,Write-in,12,13,9,34
+Allegan,"Martin Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,472,269,480,1221
+Allegan,"Martin Township, Precinct 1",County Drain Commissioner,,,Write-in,2,9,2,13
+Allegan,"Monterey Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,583,259,389,1231
+Allegan,"Monterey Township, Precinct 1",County Drain Commissioner,,,Write-in,4,3,2,9
+Allegan,"Otsego Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,361,407,525,1293
+Allegan,"Otsego Township, Precinct 1",County Drain Commissioner,,,Write-in,10,15,8,33
+Allegan,"Otsego Township, Precinct 2",County Drain Commissioner,,REP,Chris Machiela,358,326,492,1176
+Allegan,"Otsego Township, Precinct 2",County Drain Commissioner,,,Write-in,13,12,7,32
+Allegan,"Overisel Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,706,567,534,1807
+Allegan,"Overisel Township, Precinct 1",County Drain Commissioner,,,Write-in,6,5,4,15
+Allegan,"Salem Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,499,338,610,1447
+Allegan,"Salem Township, Precinct 1",County Drain Commissioner,,,Write-in,6,2,3,11
+Allegan,"Salem Township, Precinct 2 - HOP",County Drain Commissioner,,REP,Chris Machiela,445,384,576,1405
+Allegan,"Salem Township, Precinct 2 - HOP",County Drain Commissioner,,,Write-in,6,5,5,16
+Allegan,"Saugatuck Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,308,652,488,1448
+Allegan,"Saugatuck Township, Precinct 1",County Drain Commissioner,,,Write-in,6,20,9,35
+Allegan,"Trowbridge Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,573,0,480,1053
+Allegan,"Trowbridge Township, Precinct 1",County Drain Commissioner,,,Write-in,12,0,5,17
+Allegan,"Valley Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,609,0,425,1034
+Allegan,"Valley Township, Precinct 1",County Drain Commissioner,,,Write-in,13,0,6,19
+Allegan,"Watson Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,554,0,423,977
+Allegan,"Watson Township, Precinct 1",County Drain Commissioner,,,Write-in,7,0,5,12
+Allegan,"Wayland Township, Precinct 1",County Drain Commissioner,,REP,Chris Machiela,489,460,725,1674
+Allegan,"Wayland Township, Precinct 1",County Drain Commissioner,,,Write-in,12,7,8,27
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Drain Commissioner,,REP,Chris Machiela,656,0,108,764
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Drain Commissioner,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Drain Commissioner,,REP,Chris Machiela,1008,0,192,1200
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Drain Commissioner,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Drain Commissioner,,REP,Chris Machiela,633,0,127,760
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Drain Commissioner,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Drain Commissioner,,REP,Chris Machiela,4,0,0,4
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Drain Commissioner,,,Write-in,0,0,0,0
+Allegan,"City of Allegan, Precinct 1 - ALG",County Surveyor,,REP,Kevin D. Miedema,1035,0,506,1541
+Allegan,"City of Allegan, Precinct 1 - ALG",County Surveyor,,,Write-in,43,0,16,59
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Surveyor,,REP,Kevin D. Miedema,103,163,160,426
+Allegan,"City of the Village of Douglas, Precinct 1 - SAU",County Surveyor,,,Write-in,2,6,3,11
+Allegan,"City of Fennville, Precinct 1 - FEN",County Surveyor,,REP,Kevin D. Miedema,235,0,133,368
+Allegan,"City of Fennville, Precinct 1 - FEN",County Surveyor,,,Write-in,10,0,3,13
+Allegan,"City of Otsego, Precinct 1 - OTS",County Surveyor,,REP,Kevin D. Miedema,443,454,488,1385
+Allegan,"City of Otsego, Precinct 1 - OTS",County Surveyor,,,Write-in,7,16,8,31
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Surveyor,,REP,Kevin D. Miedema,429,366,478,1273
+Allegan,"City of Plainwell, Precinct 1 - PLA",County Surveyor,,,Write-in,13,16,11,40
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Surveyor,,REP,Kevin D. Miedema,235,0,78,313
+Allegan,"City of Saugatuck, Precinct 1 - SAU",County Surveyor,,,Write-in,7,0,1,8
+Allegan,"City of Wayland, Precinct 1 - WAY",County Surveyor,,REP,Kevin D. Miedema,376,196,245,817
+Allegan,"City of Wayland, Precinct 1 - WAY",County Surveyor,,,Write-in,10,14,1,25
+Allegan,"City of Wayland, Precinct 2 - WAY",County Surveyor,,REP,Kevin D. Miedema,375,181,351,907
+Allegan,"City of Wayland, Precinct 2 - WAY",County Surveyor,,,Write-in,7,7,0,14
+Allegan,"Allegan Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,588,517,878,1983
+Allegan,"Allegan Township, Precinct 1",County Surveyor,,,Write-in,9,21,18,48
+Allegan,"Casco Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,339,403,492,1234
+Allegan,"Casco Township, Precinct 1",County Surveyor,,,Write-in,13,7,6,26
+Allegan,"Cheshire Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,330,160,401,891
+Allegan,"Cheshire Township, Precinct 1",County Surveyor,,,Write-in,9,4,10,23
+Allegan,"Clyde Township, Precinct 1 - FEN",County Surveyor,,REP,Kevin D. Miedema,340,127,187,654
+Allegan,"Clyde Township, Precinct 1 - FEN",County Surveyor,,,Write-in,8,4,4,16
+Allegan,"Dorr Township, Precinct 1 - HOP",County Surveyor,,REP,Kevin D. Miedema,321,301,494,1116
+Allegan,"Dorr Township, Precinct 1 - HOP",County Surveyor,,,Write-in,3,0,3,6
+Allegan,"Dorr Township, Precinct 2 - WAY",County Surveyor,,REP,Kevin D. Miedema,487,406,719,1612
+Allegan,"Dorr Township, Precinct 2 - WAY",County Surveyor,,,Write-in,11,7,7,25
+Allegan,"Dorr Township, Precinct 3 - WAY",County Surveyor,,REP,Kevin D. Miedema,444,250,493,1187
+Allegan,"Dorr Township, Precinct 3 - WAY",County Surveyor,,,Write-in,10,6,4,20
+Allegan,"Fillmore Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,437,463,635,1535
+Allegan,"Fillmore Township, Precinct 1",County Surveyor,,,Write-in,3,5,3,11
+Allegan,"Ganges Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,450,349,314,1113
+Allegan,"Ganges Township, Precinct 1",County Surveyor,,,Write-in,14,8,5,27
+Allegan,"Gun Plain Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,772,696,1030,2498
+Allegan,"Gun Plain Township, Precinct 1",County Surveyor,,,Write-in,18,16,17,51
+Allegan,"Heath Township, Precinct 1 - HAM",County Surveyor,,REP,Kevin D. Miedema,432,561,816,1809
+Allegan,"Heath Township, Precinct 1 - HAM",County Surveyor,,,Write-in,4,10,12,26
+Allegan,"Heath Township, Precinct 2 - ALG",County Surveyor,,REP,Kevin D. Miedema,97,107,132,336
+Allegan,"Heath Township, Precinct 2 - ALG",County Surveyor,,,Write-in,4,1,1,6
+Allegan,"Hopkins Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,461,282,591,1334
+Allegan,"Hopkins Township, Precinct 1",County Surveyor,,,Write-in,3,1,3,7
+Allegan,"Laketown Township, Precinct 1 - HOL",County Surveyor,,REP,Kevin D. Miedema,251,361,423,1035
+Allegan,"Laketown Township, Precinct 1 - HOL",County Surveyor,,,Write-in,4,3,8,15
+Allegan,"Laketown Township, Precinct 2 - HAM",County Surveyor,,REP,Kevin D. Miedema,493,563,546,1602
+Allegan,"Laketown Township, Precinct 2 - HAM",County Surveyor,,,Write-in,3,3,3,9
+Allegan,"Laketown Township, Precinct 3 - SAU",County Surveyor,,REP,Kevin D. Miedema,129,155,233,517
+Allegan,"Laketown Township, Precinct 3 - SAU",County Surveyor,,,Write-in,3,3,3,9
+Allegan,"Lee Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,534,155,212,901
+Allegan,"Lee Township, Precinct 1",County Surveyor,,,Write-in,32,0,5,37
+Allegan,"Leighton Township, Precinct 1 - WAY",County Surveyor,,REP,Kevin D. Miedema,357,241,467,1065
+Allegan,"Leighton Township, Precinct 1 - WAY",County Surveyor,,,Write-in,7,6,3,16
+Allegan,"Leighton Township, Precinct 2",County Surveyor,,REP,Kevin D. Miedema,396,381,561,1338
+Allegan,"Leighton Township, Precinct 2",County Surveyor,,,Write-in,8,3,5,16
+Allegan,"Leighton Township, Precinct 3 - WAY",County Surveyor,,REP,Kevin D. Miedema,334,307,455,1096
+Allegan,"Leighton Township, Precinct 3 - WAY",County Surveyor,,,Write-in,5,6,4,15
+Allegan,"Manlius Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,564,508,600,1672
+Allegan,"Manlius Township, Precinct 1",County Surveyor,,,Write-in,11,13,9,33
+Allegan,"Martin Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,470,269,481,1220
+Allegan,"Martin Township, Precinct 1",County Surveyor,,,Write-in,2,9,2,13
+Allegan,"Monterey Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,580,261,391,1232
+Allegan,"Monterey Township, Precinct 1",County Surveyor,,,Write-in,3,3,2,8
+Allegan,"Otsego Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,356,413,533,1302
+Allegan,"Otsego Township, Precinct 1",County Surveyor,,,Write-in,14,12,8,34
+Allegan,"Otsego Township, Precinct 2",County Surveyor,,REP,Kevin D. Miedema,359,326,489,1174
+Allegan,"Otsego Township, Precinct 2",County Surveyor,,,Write-in,13,14,8,35
+Allegan,"Overisel Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,705,567,535,1807
+Allegan,"Overisel Township, Precinct 1",County Surveyor,,,Write-in,6,5,2,13
+Allegan,"Salem Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,499,336,612,1447
+Allegan,"Salem Township, Precinct 1",County Surveyor,,,Write-in,6,2,2,10
+Allegan,"Salem Township, Precinct 2 - HOP",County Surveyor,,REP,Kevin D. Miedema,445,386,574,1405
+Allegan,"Salem Township, Precinct 2 - HOP",County Surveyor,,,Write-in,6,5,5,16
+Allegan,"Saugatuck Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,308,650,491,1449
+Allegan,"Saugatuck Township, Precinct 1",County Surveyor,,,Write-in,8,19,9,36
+Allegan,"Trowbridge Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,574,0,480,1054
+Allegan,"Trowbridge Township, Precinct 1",County Surveyor,,,Write-in,12,0,5,17
+Allegan,"Valley Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,605,0,423,1028
+Allegan,"Valley Township, Precinct 1",County Surveyor,,,Write-in,13,0,6,19
+Allegan,"Watson Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,554,0,423,977
+Allegan,"Watson Township, Precinct 1",County Surveyor,,,Write-in,9,0,5,14
+Allegan,"Wayland Township, Precinct 1",County Surveyor,,REP,Kevin D. Miedema,491,465,726,1682
+Allegan,"Wayland Township, Precinct 1",County Surveyor,,,Write-in,7,6,6,19
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Surveyor,,REP,Kevin D. Miedema,662,0,108,770
+Allegan,"City of Holland, Ward 4, Precinct 9 - HOL (Ottawa)",County Surveyor,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Surveyor,,REP,Kevin D. Miedema,1013,0,193,1206
+Allegan,"City of Holland, Ward 5, Precinct 11 (Ottawa)",County Surveyor,,,Write-in,0,0,0,0
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Surveyor,,REP,Kevin D. Miedema,637,0,127,764
+Allegan,"City of Holland, Ward 5, Precinct 12 - HOL (Ottawa)",County Surveyor,,,Write-in,0,0,0,0
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Surveyor,,REP,Kevin D. Miedema,4,0,0,4
+Allegan,"City of South Haven, Ward 3, Precinct 2 (Van Buren County)",County Surveyor,,,Write-in,0,0,0,0

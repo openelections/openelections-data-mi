@@ -1,0 +1,766 @@
+county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Registered Voters,,,,,,,730
+Arenac,"City of Omer, Precinct 1",Registered Voters,,,,,,,247
+Arenac,"City of Standish, Precinct 1",Registered Voters,,,,,,,1019
+Arenac,"Adams Township, Precinct 1",Registered Voters,,,,,,,422
+Arenac,"Arenac Township, Precinct 1",Registered Voters,,,,,,,703
+Arenac,"Au Gres Township, Precinct 1",Registered Voters,,,,,,,780
+Arenac,"Clayton Township, Precinct 1",Registered Voters,,,,,,,737
+Arenac,"Deep River Township, Precinct 1",Registered Voters,,,,,,,1549
+Arenac,"Lincoln Township, Precinct 1",Registered Voters,,,,,,,659
+Arenac,"Mason Township, Precinct 1",Registered Voters,,,,,,,524
+Arenac,"Moffatt Township, Precinct 1",Registered Voters,,,,,,,1020
+Arenac,"Sims Township, Precinct 1",Registered Voters,,,,,,,929
+Arenac,"Standish Township, Precinct 1",Registered Voters,,,,,,,1285
+Arenac,"Turner Township, Precinct 1",Registered Voters,,,,,,,407
+Arenac,"Whitney Township, Precinct 1",Registered Voters,,,,,,,791
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Ballots Cast,,,,508,0,59,567
+Arenac,"City of Omer, Precinct 1",Ballots Cast,,,,154,0,18,172
+Arenac,"City of Standish, Precinct 1",Ballots Cast,,,,561,0,159,720
+Arenac,"Adams Township, Precinct 1",Ballots Cast,,,,305,0,34,339
+Arenac,"Arenac Township, Precinct 1",Ballots Cast,,,,461,0,79,540
+Arenac,"Au Gres Township, Precinct 1",Ballots Cast,,,,577,0,54,631
+Arenac,"Clayton Township, Precinct 1",Ballots Cast,,,,490,0,63,553
+Arenac,"Deep River Township, Precinct 1",Ballots Cast,,,,1042,0,175,1217
+Arenac,"Lincoln Township, Precinct 1",Ballots Cast,,,,446,0,69,515
+Arenac,"Mason Township, Precinct 1",Ballots Cast,,,,342,0,26,368
+Arenac,"Moffatt Township, Precinct 1",Ballots Cast,,,,706,0,136,842
+Arenac,"Sims Township, Precinct 1",Ballots Cast,,,,363,356,68,787
+Arenac,"Standish Township, Precinct 1",Ballots Cast,,,,794,0,194,988
+Arenac,"Turner Township, Precinct 1",Ballots Cast,,,,264,0,36,300
+Arenac,"Whitney Township, Precinct 1",Ballots Cast,,,,488,0,187,675
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,DEM,Democratic,71,0,15,86
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,REP,Republican,203,0,27,230
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,WCP,Working Class,3,0,0,3
+Arenac,"City of Au Gres, Ward 1, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"City of Omer, Precinct 1",Straight Party,,DEM,Democratic,30,0,1,31
+Arenac,"City of Omer, Precinct 1",Straight Party,,REP,Republican,56,0,11,67
+Arenac,"City of Omer, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"City of Omer, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"City of Omer, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"City of Omer, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Arenac,"City of Omer, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"City of Standish, Precinct 1",Straight Party,,DEM,Democratic,91,0,21,112
+Arenac,"City of Standish, Precinct 1",Straight Party,,REP,Republican,186,0,79,265
+Arenac,"City of Standish, Precinct 1",Straight Party,,LIB,Libertarian,4,0,1,5
+Arenac,"City of Standish, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"City of Standish, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"City of Standish, Precinct 1",Straight Party,,WCP,Working Class,3,0,1,4
+Arenac,"City of Standish, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Adams Township, Precinct 1",Straight Party,,DEM,Democratic,27,0,1,28
+Arenac,"Adams Township, Precinct 1",Straight Party,,REP,Republican,111,0,13,124
+Arenac,"Adams Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"Adams Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Adams Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Adams Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Arenac,"Adams Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"Arenac Township, Precinct 1",Straight Party,,DEM,Democratic,54,0,4,58
+Arenac,"Arenac Township, Precinct 1",Straight Party,,REP,Republican,178,0,37,215
+Arenac,"Arenac Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Arenac,"Arenac Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,1,3
+Arenac,"Arenac Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,DEM,Democratic,67,0,7,74
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,REP,Republican,197,0,26,223
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1,2
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,WCP,Working Class,5,0,0,5
+Arenac,"Au Gres Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",Straight Party,,DEM,Democratic,72,0,2,74
+Arenac,"Clayton Township, Precinct 1",Straight Party,,REP,Republican,198,0,33,231
+Arenac,"Clayton Township, Precinct 1",Straight Party,,LIB,Libertarian,4,0,0,4
+Arenac,"Clayton Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Arenac,"Clayton Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",Straight Party,,DEM,Democratic,118,0,17,135
+Arenac,"Deep River Township, Precinct 1",Straight Party,,REP,Republican,384,0,70,454
+Arenac,"Deep River Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",Straight Party,,WCP,Working Class,7,0,0,7
+Arenac,"Deep River Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,2,3
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,DEM,Democratic,46,0,4,50
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,REP,Republican,145,0,36,181
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1,2
+Arenac,"Lincoln Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"Mason Township, Precinct 1",Straight Party,,DEM,Democratic,37,0,4,41
+Arenac,"Mason Township, Precinct 1",Straight Party,,REP,Republican,146,0,16,162
+Arenac,"Mason Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Arenac,"Mason Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Mason Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Arenac,"Mason Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Arenac,"Mason Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,DEM,Democratic,83,0,11,94
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,REP,Republican,261,0,68,329
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,0,3
+Arenac,"Moffatt Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Sims Township, Precinct 1",Straight Party,,DEM,Democratic,46,72,7,125
+Arenac,"Sims Township, Precinct 1",Straight Party,,REP,Republican,138,116,37,291
+Arenac,"Sims Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"Sims Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Sims Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Sims Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,0,1
+Arenac,"Sims Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Standish Township, Precinct 1",Straight Party,,DEM,Democratic,105,0,23,128
+Arenac,"Standish Township, Precinct 1",Straight Party,,REP,Republican,254,0,69,323
+Arenac,"Standish Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Arenac,"Standish Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Arenac,"Standish Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Standish Township, Precinct 1",Straight Party,,WCP,Working Class,5,0,0,5
+Arenac,"Standish Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Turner Township, Precinct 1",Straight Party,,DEM,Democratic,19,0,2,21
+Arenac,"Turner Township, Precinct 1",Straight Party,,REP,Republican,128,0,20,148
+Arenac,"Turner Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Arenac,"Turner Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Turner Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Turner Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Arenac,"Turner Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",Straight Party,,DEM,Democratic,87,0,17,104
+Arenac,"Whitney Township, Precinct 1",Straight Party,,REP,Republican,178,0,87,265
+Arenac,"Whitney Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,0,3
+Arenac,"Whitney Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,DEM,Kamala D. Harris,153,0,23,176
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,REP,Donald J. Trump,341,0,36,377
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,LIB,Chase Oliver,4,0,0,4
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,5,0,0,5
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",President,,,Write-ins,1,0,0,1
+Arenac,"City of Omer, Precinct 1",President,,DEM,Kamala D. Harris,45,0,5,50
+Arenac,"City of Omer, Precinct 1",President,,REP,Donald J. Trump,107,0,13,120
+Arenac,"City of Omer, Precinct 1",President,,LIB,Chase Oliver,0,0,0,0
+Arenac,"City of Omer, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"City of Omer, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"City of Omer, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0,0
+Arenac,"City of Omer, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"City of Omer, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"City of Omer, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"City of Standish, Precinct 1",President,,DEM,Kamala D. Harris,184,0,35,219
+Arenac,"City of Standish, Precinct 1",President,,REP,Donald J. Trump,360,0,123,483
+Arenac,"City of Standish, Precinct 1",President,,LIB,Chase Oliver,4,0,0,4
+Arenac,"City of Standish, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"City of Standish, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"City of Standish, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,7,0,1,8
+Arenac,"City of Standish, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"City of Standish, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"City of Standish, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Adams Township, Precinct 1",President,,DEM,Kamala D. Harris,58,0,5,63
+Arenac,"Adams Township, Precinct 1",President,,REP,Donald J. Trump,239,0,29,268
+Arenac,"Adams Township, Precinct 1",President,,LIB,Chase Oliver,1,0,0,1
+Arenac,"Adams Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Adams Township, Precinct 1",President,,GRN,Jill Stein,2,0,0,2
+Arenac,"Adams Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0,0
+Arenac,"Adams Township, Precinct 1",President,,,Joseph Kishore,1,0,0,1
+Arenac,"Adams Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Adams Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",President,,DEM,Kamala D. Harris,111,0,10,121
+Arenac,"Arenac Township, Precinct 1",President,,REP,Donald J. Trump,340,0,67,407
+Arenac,"Arenac Township, Precinct 1",President,,LIB,Chase Oliver,2,0,0,2
+Arenac,"Arenac Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Arenac Township, Precinct 1",President,,GRN,Jill Stein,1,0,1,2
+Arenac,"Arenac Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,1,3
+Arenac,"Arenac Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",President,,,Write-ins,1,0,0,1
+Arenac,"Au Gres Township, Precinct 1",President,,DEM,Kamala D. Harris,158,0,13,171
+Arenac,"Au Gres Township, Precinct 1",President,,REP,Donald J. Trump,404,0,40,444
+Arenac,"Au Gres Township, Precinct 1",President,,LIB,Chase Oliver,0,0,1,1
+Arenac,"Au Gres Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Au Gres Township, Precinct 1",President,,GRN,Jill Stein,3,0,0,3
+Arenac,"Au Gres Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Arenac,"Au Gres Township, Precinct 1",President,,,Joseph Kishore,1,0,0,1
+Arenac,"Au Gres Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",President,,DEM,Kamala D. Harris,132,0,10,142
+Arenac,"Clayton Township, Precinct 1",President,,REP,Donald J. Trump,344,0,53,397
+Arenac,"Clayton Township, Precinct 1",President,,LIB,Chase Oliver,6,0,0,6
+Arenac,"Clayton Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Clayton Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Arenac,"Clayton Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",President,,,Write-ins,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",President,,DEM,Kamala D. Harris,313,0,45,358
+Arenac,"Deep River Township, Precinct 1",President,,REP,Donald J. Trump,714,0,129,843
+Arenac,"Deep River Township, Precinct 1",President,,LIB,Chase Oliver,6,0,0,6
+Arenac,"Deep River Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",President,,GRN,Jill Stein,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,0,0,4
+Arenac,"Deep River Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",President,,DEM,Kamala D. Harris,119,0,11,130
+Arenac,"Lincoln Township, Precinct 1",President,,REP,Donald J. Trump,323,0,57,380
+Arenac,"Lincoln Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",President,,GRN,Jill Stein,0,0,1,1
+Arenac,"Lincoln Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,0,1
+Arenac,"Lincoln Township, Precinct 1",President,,,Joseph Kishore,2,0,0,2
+Arenac,"Lincoln Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Mason Township, Precinct 1",President,,DEM,Kamala D. Harris,86,0,7,93
+Arenac,"Mason Township, Precinct 1",President,,REP,Donald J. Trump,250,0,19,269
+Arenac,"Mason Township, Precinct 1",President,,LIB,Chase Oliver,1,0,0,1
+Arenac,"Mason Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Arenac,"Mason Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"Mason Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Arenac,"Mason Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Mason Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Mason Township, Precinct 1",President,,,Write-ins,1,0,0,1
+Arenac,"Moffatt Township, Precinct 1",President,,DEM,Kamala D. Harris,217,0,35,252
+Arenac,"Moffatt Township, Precinct 1",President,,REP,Donald J. Trump,478,0,101,579
+Arenac,"Moffatt Township, Precinct 1",President,,LIB,Chase Oliver,4,0,0,4
+Arenac,"Moffatt Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,0,0,4
+Arenac,"Moffatt Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Sims Township, Precinct 1",President,,DEM,Kamala D. Harris,103,166,15,284
+Arenac,"Sims Township, Precinct 1",President,,REP,Donald J. Trump,258,183,53,494
+Arenac,"Sims Township, Precinct 1",President,,LIB,Chase Oliver,0,1,0,1
+Arenac,"Sims Township, Precinct 1",President,,UST,Randall Terry,0,1,0,1
+Arenac,"Sims Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"Sims Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,0,1
+Arenac,"Sims Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Sims Township, Precinct 1",President,,,Cornel West,1,0,0,1
+Arenac,"Sims Township, Precinct 1",President,,,Write-ins,0,1,0,1
+Arenac,"Standish Township, Precinct 1",President,,DEM,Kamala D. Harris,260,0,56,316
+Arenac,"Standish Township, Precinct 1",President,,REP,Donald J. Trump,520,0,132,652
+Arenac,"Standish Township, Precinct 1",President,,LIB,Chase Oliver,4,0,4,8
+Arenac,"Standish Township, Precinct 1",President,,UST,Randall Terry,3,0,0,3
+Arenac,"Standish Township, Precinct 1",President,,GRN,Jill Stein,2,0,1,3
+Arenac,"Standish Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Arenac,"Standish Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Standish Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Standish Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Turner Township, Precinct 1",President,,DEM,Kamala D. Harris,51,0,6,57
+Arenac,"Turner Township, Precinct 1",President,,REP,Donald J. Trump,206,0,30,236
+Arenac,"Turner Township, Precinct 1",President,,LIB,Chase Oliver,3,0,0,3
+Arenac,"Turner Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Arenac,"Turner Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Arenac,"Turner Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Arenac,"Turner Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Turner Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Turner Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",President,,DEM,Kamala D. Harris,182,0,48,230
+Arenac,"Whitney Township, Precinct 1",President,,REP,Donald J. Trump,293,0,137,430
+Arenac,"Whitney Township, Precinct 1",President,,LIB,Chase Oliver,0,0,1,1
+Arenac,"Whitney Township, Precinct 1",President,,UST,Randall Terry,2,0,0,2
+Arenac,"Whitney Township, Precinct 1",President,,GRN,Jill Stein,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,7,0,0,7
+Arenac,"Whitney Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,162,0,23,185
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,REP,Mike Rogers,305,0,36,341
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,5,0,0,5
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,UST,Dave Stein,6,0,0,6
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,58,0,4,62
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,REP,Mike Rogers,83,0,14,97
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,0,3
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,0,1
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"City of Omer, Precinct 1",U.S. Senate,,,Write-ins,3,0,0,3
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,196,0,41,237
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,REP,Mike Rogers,328,0,109,437
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6,0,0,6
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,UST,Dave Stein,8,0,0,8
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,1,4
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,0,1,5
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"City of Standish, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,57,0,5,62
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,226,0,29,255
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,0,0,1
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,0,4
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,0,0,2
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Adams Township, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,128,0,16,144
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,309,0,59,368
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,0,3
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,UST,Dave Stein,8,0,2,10
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,1,1
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,166,0,12,178
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,373,0,40,413
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,1,4
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3,0,0,3
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,6,0,0,6
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",U.S. Senate,,,Write-ins,2,0,1,3
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,141,0,10,151
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,323,0,49,372
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,0,4
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,0,4
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,0,0,3
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Clayton Township, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,324,0,50,374
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,662,0,117,779
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,10,0,1,11
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,UST,Dave Stein,10,0,1,11
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,2,5
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,6,0,0,6
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Deep River Township, Precinct 1",U.S. Senate,,,Write-ins,2,0,1,3
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,125,0,12,137
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,294,0,55,349
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,0,4
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7,0,1,8
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1,2
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Lincoln Township, Precinct 1",U.S. Senate,,,Write-ins,2,0,0,2
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,85,0,6,91
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,242,0,19,261
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2,0,0,2
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3,0,0,3
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,0,0,3
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Mason Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,216,0,38,254
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,448,0,95,543
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,0,0,7
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5,0,0,5
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,1,1
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,0,0,4
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Moffatt Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,114,165,18,297
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,236,179,50,465
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,2,0,3
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,4,0,8
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,270,0,62,332
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,466,0,128,594
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,0,1,8
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,UST,Dave Stein,17,0,1,18
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5,0,1,6
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,3,0,1,4
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Standish Township, Precinct 1",U.S. Senate,,,Write-ins,2,0,0,2
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,49,0,6,55
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,188,0,29,217
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,0,0,9
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6,0,0,6
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Turner Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,181,0,46,227
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,283,0,137,420
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6,0,0,6
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5,0,0,5
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. House,1,DEM,Callie Barr,137,0,23,160
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,313,0,36,349
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. House,1,LIB,Andrew Gale,9,0,0,9
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. House,1,WCP,Liz Hakola,11,0,0,11
+Arenac,"City of Au Gres, Ward 1, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"City of Omer, Precinct 1",U.S. House,1,DEM,Callie Barr,43,0,4,47
+Arenac,"City of Omer, Precinct 1",U.S. House,1,REP,Jack Bergman,86,0,13,99
+Arenac,"City of Omer, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,0,2
+Arenac,"City of Omer, Precinct 1",U.S. House,1,WCP,Liz Hakola,11,0,1,12
+Arenac,"City of Omer, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Arenac,"City of Standish, Precinct 1",U.S. House,1,DEM,Callie Barr,178,0,34,212
+Arenac,"City of Standish, Precinct 1",U.S. House,1,REP,Jack Bergman,329,0,103,432
+Arenac,"City of Standish, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,1,7
+Arenac,"City of Standish, Precinct 1",U.S. House,1,WCP,Liz Hakola,24,0,11,35
+Arenac,"City of Standish, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Arenac,"Adams Township, Precinct 1",U.S. House,1,DEM,Callie Barr,55,0,6,61
+Arenac,"Adams Township, Precinct 1",U.S. House,1,REP,Jack Bergman,210,0,25,235
+Arenac,"Adams Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,0,6
+Arenac,"Adams Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9,0,1,10
+Arenac,"Adams Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"Arenac Township, Precinct 1",U.S. House,1,DEM,Callie Barr,97,0,9,106
+Arenac,"Arenac Township, Precinct 1",U.S. House,1,REP,Jack Bergman,316,0,57,373
+Arenac,"Arenac Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,0,3
+Arenac,"Arenac Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,0,4,17
+Arenac,"Arenac Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"Au Gres Township, Precinct 1",U.S. House,1,DEM,Callie Barr,145,0,10,155
+Arenac,"Au Gres Township, Precinct 1",U.S. House,1,REP,Jack Bergman,361,0,40,401
+Arenac,"Au Gres Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,0,2,7
+Arenac,"Au Gres Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,22,0,1,23
+Arenac,"Au Gres Township, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Arenac,"Clayton Township, Precinct 1",U.S. House,1,DEM,Callie Barr,120,0,8,128
+Arenac,"Clayton Township, Precinct 1",U.S. House,1,REP,Jack Bergman,322,0,51,373
+Arenac,"Clayton Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,8,0,0,8
+Arenac,"Clayton Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,16,0,0,16
+Arenac,"Clayton Township, Precinct 1",U.S. House,1,,Write-ins,3,0,0,3
+Arenac,"Deep River Township, Precinct 1",U.S. House,1,DEM,Callie Barr,284,0,38,322
+Arenac,"Deep River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,638,0,124,762
+Arenac,"Deep River Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,18,0,1,19
+Arenac,"Deep River Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,41,0,3,44
+Arenac,"Deep River Township, Precinct 1",U.S. House,1,,Write-ins,5,0,1,6
+Arenac,"Lincoln Township, Precinct 1",U.S. House,1,DEM,Callie Barr,107,0,6,113
+Arenac,"Lincoln Township, Precinct 1",U.S. House,1,REP,Jack Bergman,284,0,55,339
+Arenac,"Lincoln Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,1,7
+Arenac,"Lincoln Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,20,0,4,24
+Arenac,"Lincoln Township, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Arenac,"Mason Township, Precinct 1",U.S. House,1,DEM,Callie Barr,68,0,5,73
+Arenac,"Mason Township, Precinct 1",U.S. House,1,REP,Jack Bergman,235,0,19,254
+Arenac,"Mason Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,1,7
+Arenac,"Mason Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,0,0,7
+Arenac,"Mason Township, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Arenac,"Moffatt Township, Precinct 1",U.S. House,1,DEM,Callie Barr,193,0,32,225
+Arenac,"Moffatt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,452,0,97,549
+Arenac,"Moffatt Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,0,6
+Arenac,"Moffatt Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,23,0,2,25
+Arenac,"Moffatt Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"Sims Township, Precinct 1",U.S. House,1,DEM,Callie Barr,96,152,11,259
+Arenac,"Sims Township, Precinct 1",U.S. House,1,REP,Jack Bergman,237,189,55,481
+Arenac,"Sims Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,3,0,10
+Arenac,"Sims Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11,1,1,13
+Arenac,"Sims Township, Precinct 1",U.S. House,1,,Write-ins,1,1,1,3
+Arenac,"Standish Township, Precinct 1",U.S. House,1,DEM,Callie Barr,244,0,53,297
+Arenac,"Standish Township, Precinct 1",U.S. House,1,REP,Jack Bergman,460,0,132,592
+Arenac,"Standish Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,11,0,0,11
+Arenac,"Standish Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,27,0,5,32
+Arenac,"Standish Township, Precinct 1",U.S. House,1,,Write-ins,3,0,0,3
+Arenac,"Turner Township, Precinct 1",U.S. House,1,DEM,Callie Barr,43,0,5,48
+Arenac,"Turner Township, Precinct 1",U.S. House,1,REP,Jack Bergman,194,0,29,223
+Arenac,"Turner Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,0,0,7
+Arenac,"Turner Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,0,1,8
+Arenac,"Turner Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"Whitney Township, Precinct 1",U.S. House,1,DEM,Callie Barr,164,0,40,204
+Arenac,"Whitney Township, Precinct 1",U.S. House,1,REP,Jack Bergman,286,0,139,425
+Arenac,"Whitney Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,0,1,5
+Arenac,"Whitney Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,0,0,13
+Arenac,"Whitney Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Arenac,"City of Au Gres, Ward 1, Precinct 1",State House,99,DEM,Jon LeRoux,126,0,21,147
+Arenac,"City of Au Gres, Ward 1, Precinct 1",State House,99,REP,Mike Hoadley,359,0,38,397
+Arenac,"City of Au Gres, Ward 1, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"City of Omer, Precinct 1",State House,99,DEM,Jon LeRoux,41,0,4,45
+Arenac,"City of Omer, Precinct 1",State House,99,REP,Mike Hoadley,103,0,14,117
+Arenac,"City of Omer, Precinct 1",State House,99,,Write-ins,2,0,0,2
+Arenac,"City of Standish, Precinct 1",State House,99,DEM,Jon LeRoux,167,0,34,201
+Arenac,"City of Standish, Precinct 1",State House,99,REP,Mike Hoadley,370,0,116,486
+Arenac,"City of Standish, Precinct 1",State House,99,,Write-ins,2,0,0,2
+Arenac,"Adams Township, Precinct 1",State House,99,DEM,Jon LeRoux,53,0,4,57
+Arenac,"Adams Township, Precinct 1",State House,99,REP,Mike Hoadley,224,0,27,251
+Arenac,"Adams Township, Precinct 1",State House,99,,Write-ins,3,0,0,3
+Arenac,"Arenac Township, Precinct 1",State House,99,DEM,Jon LeRoux,98,0,7,105
+Arenac,"Arenac Township, Precinct 1",State House,99,REP,Mike Hoadley,342,0,67,409
+Arenac,"Arenac Township, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"Au Gres Township, Precinct 1",State House,99,DEM,Jon LeRoux,138,0,8,146
+Arenac,"Au Gres Township, Precinct 1",State House,99,REP,Mike Hoadley,413,0,45,458
+Arenac,"Au Gres Township, Precinct 1",State House,99,,Write-ins,4,0,0,4
+Arenac,"Clayton Township, Precinct 1",State House,99,DEM,Jon LeRoux,125,0,8,133
+Arenac,"Clayton Township, Precinct 1",State House,99,REP,Mike Hoadley,344,0,51,395
+Arenac,"Clayton Township, Precinct 1",State House,99,,Write-ins,2,0,0,2
+Arenac,"Deep River Township, Precinct 1",State House,99,DEM,Jon LeRoux,284,0,37,321
+Arenac,"Deep River Township, Precinct 1",State House,99,REP,Mike Hoadley,698,0,132,830
+Arenac,"Deep River Township, Precinct 1",State House,99,,Write-ins,5,0,0,5
+Arenac,"Lincoln Township, Precinct 1",State House,99,DEM,Jon LeRoux,115,0,8,123
+Arenac,"Lincoln Township, Precinct 1",State House,99,REP,Mike Hoadley,305,0,59,364
+Arenac,"Lincoln Township, Precinct 1",State House,99,,Write-ins,2,0,0,2
+Arenac,"Mason Township, Precinct 1",State House,99,DEM,Jon LeRoux,77,0,6,83
+Arenac,"Mason Township, Precinct 1",State House,99,REP,Mike Hoadley,245,0,19,264
+Arenac,"Mason Township, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"Moffatt Township, Precinct 1",State House,99,DEM,Jon LeRoux,183,0,32,215
+Arenac,"Moffatt Township, Precinct 1",State House,99,REP,Mike Hoadley,486,0,100,586
+Arenac,"Moffatt Township, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"Sims Township, Precinct 1",State House,99,DEM,Jon LeRoux,80,144,13,237
+Arenac,"Sims Township, Precinct 1",State House,99,REP,Mike Hoadley,271,202,54,527
+Arenac,"Sims Township, Precinct 1",State House,99,,Write-ins,2,1,1,4
+Arenac,"Standish Township, Precinct 1",State House,99,DEM,Jon LeRoux,240,0,50,290
+Arenac,"Standish Township, Precinct 1",State House,99,REP,Mike Hoadley,512,0,140,652
+Arenac,"Standish Township, Precinct 1",State House,99,,Write-ins,4,0,1,5
+Arenac,"Turner Township, Precinct 1",State House,99,DEM,Jon LeRoux,43,0,6,49
+Arenac,"Turner Township, Precinct 1",State House,99,REP,Mike Hoadley,209,0,29,238
+Arenac,"Turner Township, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",State House,99,DEM,Jon LeRoux,163,0,39,202
+Arenac,"Whitney Township, Precinct 1",State House,99,REP,Mike Hoadley,310,0,144,454
+Arenac,"Whitney Township, Precinct 1",State House,99,,Write-ins,1,0,0,1
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,368,0,42,410
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Prosecuting Attorney,,,Write-ins,8,0,0,8
+Arenac,"City of Omer, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,122,0,16,138
+Arenac,"City of Omer, Precinct 1",County Prosecuting Attorney,,,Write-ins,3,0,0,3
+Arenac,"City of Standish, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,428,0,124,552
+Arenac,"City of Standish, Precinct 1",County Prosecuting Attorney,,,Write-ins,9,0,3,12
+Arenac,"Adams Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,238,0,28,266
+Arenac,"Adams Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,5,0,0,5
+Arenac,"Arenac Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,374,0,69,443
+Arenac,"Arenac Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,13,0,0,13
+Arenac,"Au Gres Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,430,0,45,475
+Arenac,"Au Gres Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7,0,1,8
+Arenac,"Clayton Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,370,0,54,424
+Arenac,"Clayton Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,11,0,1,12
+Arenac,"Deep River Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,835,0,142,977
+Arenac,"Deep River Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,19,0,2,21
+Arenac,"Lincoln Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,346,0,62,408
+Arenac,"Lincoln Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,8,0,1,9
+Arenac,"Mason Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,267,0,23,290
+Arenac,"Mason Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7,0,0,7
+Arenac,"Moffatt Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,542,0,108,650
+Arenac,"Moffatt Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7,0,4,11
+Arenac,"Sims Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,285,227,62,574
+Arenac,"Sims Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,9,5,1,15
+Arenac,"Standish Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,616,0,155,771
+Arenac,"Standish Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,23,0,1,24
+Arenac,"Turner Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,215,0,32,247
+Arenac,"Turner Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,3,0,0,3
+Arenac,"Whitney Township, Precinct 1",County Prosecuting Attorney,,REP,Curtis G. Broughton,358,0,150,508
+Arenac,"Whitney Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7,0,1,8
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Sheriff,,REP,James Mosciski,342,0,37,379
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Sheriff,,,Dan Snyder,86,0,9,95
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Sheriff,,,Write-ins,3,0,0,3
+Arenac,"City of Omer, Precinct 1",County Sheriff,,REP,James Mosciski,106,0,11,117
+Arenac,"City of Omer, Precinct 1",County Sheriff,,,Dan Snyder,36,0,6,42
+Arenac,"City of Omer, Precinct 1",County Sheriff,,,Write-ins,2,0,0,2
+Arenac,"City of Standish, Precinct 1",County Sheriff,,REP,James Mosciski,358,0,102,460
+Arenac,"City of Standish, Precinct 1",County Sheriff,,,Dan Snyder,120,0,32,152
+Arenac,"City of Standish, Precinct 1",County Sheriff,,,Write-ins,3,0,0,3
+Arenac,"Adams Township, Precinct 1",County Sheriff,,REP,James Mosciski,221,0,27,248
+Arenac,"Adams Township, Precinct 1",County Sheriff,,,Dan Snyder,57,0,6,63
+Arenac,"Adams Township, Precinct 1",County Sheriff,,,Write-ins,2,0,0,2
+Arenac,"Arenac Township, Precinct 1",County Sheriff,,REP,James Mosciski,340,0,58,398
+Arenac,"Arenac Township, Precinct 1",County Sheriff,,,Dan Snyder,84,0,14,98
+Arenac,"Arenac Township, Precinct 1",County Sheriff,,,Write-ins,2,0,0,2
+Arenac,"Au Gres Township, Precinct 1",County Sheriff,,REP,James Mosciski,395,0,41,436
+Arenac,"Au Gres Township, Precinct 1",County Sheriff,,,Dan Snyder,109,0,9,118
+Arenac,"Au Gres Township, Precinct 1",County Sheriff,,,Write-ins,4,0,0,4
+Arenac,"Clayton Township, Precinct 1",County Sheriff,,REP,James Mosciski,332,0,49,381
+Arenac,"Clayton Township, Precinct 1",County Sheriff,,,Dan Snyder,88,0,12,100
+Arenac,"Clayton Township, Precinct 1",County Sheriff,,,Write-ins,3,0,0,3
+Arenac,"Deep River Township, Precinct 1",County Sheriff,,REP,James Mosciski,769,0,135,904
+Arenac,"Deep River Township, Precinct 1",County Sheriff,,,Dan Snyder,178,0,25,203
+Arenac,"Deep River Township, Precinct 1",County Sheriff,,,Write-ins,6,0,0,6
+Arenac,"Lincoln Township, Precinct 1",County Sheriff,,REP,James Mosciski,315,0,54,369
+Arenac,"Lincoln Township, Precinct 1",County Sheriff,,,Dan Snyder,89,0,12,101
+Arenac,"Lincoln Township, Precinct 1",County Sheriff,,,Write-ins,4,0,2,6
+Arenac,"Mason Township, Precinct 1",County Sheriff,,REP,James Mosciski,247,0,24,271
+Arenac,"Mason Township, Precinct 1",County Sheriff,,,Dan Snyder,58,0,2,60
+Arenac,"Mason Township, Precinct 1",County Sheriff,,,Write-ins,1,0,0,1
+Arenac,"Moffatt Township, Precinct 1",County Sheriff,,REP,James Mosciski,462,0,96,558
+Arenac,"Moffatt Township, Precinct 1",County Sheriff,,,Dan Snyder,161,0,24,185
+Arenac,"Moffatt Township, Precinct 1",County Sheriff,,,Write-ins,1,0,1,2
+Arenac,"Sims Township, Precinct 1",County Sheriff,,REP,James Mosciski,260,222,55,537
+Arenac,"Sims Township, Precinct 1",County Sheriff,,,Dan Snyder,63,53,8,124
+Arenac,"Sims Township, Precinct 1",County Sheriff,,,Write-ins,1,1,0,2
+Arenac,"Standish Township, Precinct 1",County Sheriff,,REP,James Mosciski,565,0,145,710
+Arenac,"Standish Township, Precinct 1",County Sheriff,,,Dan Snyder,146,0,28,174
+Arenac,"Standish Township, Precinct 1",County Sheriff,,,Write-ins,7,0,0,7
+Arenac,"Turner Township, Precinct 1",County Sheriff,,REP,James Mosciski,208,0,29,237
+Arenac,"Turner Township, Precinct 1",County Sheriff,,,Dan Snyder,35,0,6,41
+Arenac,"Turner Township, Precinct 1",County Sheriff,,,Write-ins,2,0,0,2
+Arenac,"Whitney Township, Precinct 1",County Sheriff,,REP,James Mosciski,334,0,144,478
+Arenac,"Whitney Township, Precinct 1",County Sheriff,,,Dan Snyder,82,0,22,104
+Arenac,"Whitney Township, Precinct 1",County Sheriff,,,Write-ins,2,0,0,2
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Clerk,,REP,Nancy A. Selle,378,0,42,420
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Clerk,,,Write-ins,9,0,1,10
+Arenac,"City of Omer, Precinct 1",County Clerk,,REP,Nancy A. Selle,120,0,15,135
+Arenac,"City of Omer, Precinct 1",County Clerk,,,Write-ins,3,0,0,3
+Arenac,"City of Standish, Precinct 1",County Clerk,,REP,Nancy A. Selle,423,0,124,547
+Arenac,"City of Standish, Precinct 1",County Clerk,,,Write-ins,11,0,1,12
+Arenac,"Adams Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,235,0,29,264
+Arenac,"Adams Township, Precinct 1",County Clerk,,,Write-ins,4,0,0,4
+Arenac,"Arenac Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,370,0,66,436
+Arenac,"Arenac Township, Precinct 1",County Clerk,,,Write-ins,10,0,0,10
+Arenac,"Au Gres Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,444,0,48,492
+Arenac,"Au Gres Township, Precinct 1",County Clerk,,,Write-ins,12,0,0,12
+Arenac,"Clayton Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,376,0,52,428
+Arenac,"Clayton Township, Precinct 1",County Clerk,,,Write-ins,6,0,0,6
+Arenac,"Deep River Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,819,0,138,957
+Arenac,"Deep River Township, Precinct 1",County Clerk,,,Write-ins,15,0,4,19
+Arenac,"Lincoln Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,347,0,62,409
+Arenac,"Lincoln Township, Precinct 1",County Clerk,,,Write-ins,7,0,1,8
+Arenac,"Mason Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,275,0,22,297
+Arenac,"Mason Township, Precinct 1",County Clerk,,,Write-ins,6,0,1,7
+Arenac,"Moffatt Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,524,0,110,634
+Arenac,"Moffatt Township, Precinct 1",County Clerk,,,Write-ins,23,0,4,27
+Arenac,"Sims Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,307,240,61,608
+Arenac,"Sims Township, Precinct 1",County Clerk,,,Write-ins,5,3,1,9
+Arenac,"Standish Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,609,0,152,761
+Arenac,"Standish Township, Precinct 1",County Clerk,,,Write-ins,23,0,1,24
+Arenac,"Turner Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,220,0,33,253
+Arenac,"Turner Township, Precinct 1",County Clerk,,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",County Clerk,,REP,Nancy A. Selle,365,0,157,522
+Arenac,"Whitney Township, Precinct 1",County Clerk,,,Write-ins,5,0,2,7
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Treasurer,,REP,Julie Hazeltine,364,0,39,403
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Treasurer,,,Write-ins,8,0,0,8
+Arenac,"City of Omer, Precinct 1",County Treasurer,,REP,Julie Hazeltine,120,0,16,136
+Arenac,"City of Omer, Precinct 1",County Treasurer,,,Write-ins,2,0,0,2
+Arenac,"City of Standish, Precinct 1",County Treasurer,,REP,Julie Hazeltine,422,0,125,547
+Arenac,"City of Standish, Precinct 1",County Treasurer,,,Write-ins,12,0,1,13
+Arenac,"Adams Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,234,0,27,261
+Arenac,"Adams Township, Precinct 1",County Treasurer,,,Write-ins,5,0,0,5
+Arenac,"Arenac Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,364,0,66,430
+Arenac,"Arenac Township, Precinct 1",County Treasurer,,,Write-ins,12,0,0,12
+Arenac,"Au Gres Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,430,0,45,475
+Arenac,"Au Gres Township, Precinct 1",County Treasurer,,,Write-ins,6,0,1,7
+Arenac,"Clayton Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,366,0,52,418
+Arenac,"Clayton Township, Precinct 1",County Treasurer,,,Write-ins,11,0,1,12
+Arenac,"Deep River Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,794,0,141,935
+Arenac,"Deep River Township, Precinct 1",County Treasurer,,,Write-ins,18,0,5,23
+Arenac,"Lincoln Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,339,0,63,402
+Arenac,"Lincoln Township, Precinct 1",County Treasurer,,,Write-ins,7,0,1,8
+Arenac,"Mason Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,261,0,23,284
+Arenac,"Mason Township, Precinct 1",County Treasurer,,,Write-ins,7,0,0,7
+Arenac,"Moffatt Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,540,0,114,654
+Arenac,"Moffatt Township, Precinct 1",County Treasurer,,,Write-ins,6,0,1,7
+Arenac,"Sims Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,296,231,60,587
+Arenac,"Sims Township, Precinct 1",County Treasurer,,,Write-ins,9,4,1,14
+Arenac,"Standish Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,599,0,148,747
+Arenac,"Standish Township, Precinct 1",County Treasurer,,,Write-ins,17,0,2,19
+Arenac,"Turner Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,216,0,30,246
+Arenac,"Turner Township, Precinct 1",County Treasurer,,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",County Treasurer,,REP,Julie Hazeltine,348,0,149,497
+Arenac,"Whitney Township, Precinct 1",County Treasurer,,,Write-ins,5,0,2,7
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,362,0,38,400
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Register of Deeds,,,Write-ins,7,0,0,7
+Arenac,"City of Omer, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,125,0,16,141
+Arenac,"City of Omer, Precinct 1",County Register of Deeds,,,Write-ins,0,0,0,0
+Arenac,"City of Standish, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,416,0,123,539
+Arenac,"City of Standish, Precinct 1",County Register of Deeds,,,Write-ins,11,0,1,12
+Arenac,"Adams Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,230,0,27,257
+Arenac,"Adams Township, Precinct 1",County Register of Deeds,,,Write-ins,4,0,0,4
+Arenac,"Arenac Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,374,0,65,439
+Arenac,"Arenac Township, Precinct 1",County Register of Deeds,,,Write-ins,6,0,0,6
+Arenac,"Au Gres Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,424,0,43,467
+Arenac,"Au Gres Township, Precinct 1",County Register of Deeds,,,Write-ins,7,0,1,8
+Arenac,"Clayton Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,371,0,54,425
+Arenac,"Clayton Township, Precinct 1",County Register of Deeds,,,Write-ins,8,0,0,8
+Arenac,"Deep River Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,812,0,145,957
+Arenac,"Deep River Township, Precinct 1",County Register of Deeds,,,Write-ins,15,0,3,18
+Arenac,"Lincoln Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,344,0,63,407
+Arenac,"Lincoln Township, Precinct 1",County Register of Deeds,,,Write-ins,6,0,1,7
+Arenac,"Mason Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,260,0,23,283
+Arenac,"Mason Township, Precinct 1",County Register of Deeds,,,Write-ins,6,0,0,6
+Arenac,"Moffatt Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,538,0,112,650
+Arenac,"Moffatt Township, Precinct 1",County Register of Deeds,,,Write-ins,4,0,1,5
+Arenac,"Sims Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,293,230,60,583
+Arenac,"Sims Township, Precinct 1",County Register of Deeds,,,Write-ins,8,4,1,13
+Arenac,"Standish Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,606,0,153,759
+Arenac,"Standish Township, Precinct 1",County Register of Deeds,,,Write-ins,14,0,0,14
+Arenac,"Turner Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,223,0,30,253
+Arenac,"Turner Township, Precinct 1",County Register of Deeds,,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",County Register of Deeds,,REP,Darlene Mikkola,353,0,147,500
+Arenac,"Whitney Township, Precinct 1",County Register of Deeds,,,Write-ins,6,0,2,8
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,359,0,39,398
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Road Commissioner,,,Write-ins,9,0,0,9
+Arenac,"City of Omer, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,127,0,16,143
+Arenac,"City of Omer, Precinct 1",County Road Commissioner,,,Write-ins,1,0,0,1
+Arenac,"City of Standish, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,416,0,125,541
+Arenac,"City of Standish, Precinct 1",County Road Commissioner,,,Write-ins,13,0,1,14
+Arenac,"Adams Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,228,0,27,255
+Arenac,"Adams Township, Precinct 1",County Road Commissioner,,,Write-ins,5,0,0,5
+Arenac,"Arenac Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,374,0,67,441
+Arenac,"Arenac Township, Precinct 1",County Road Commissioner,,,Write-ins,13,0,0,13
+Arenac,"Au Gres Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,436,0,44,480
+Arenac,"Au Gres Township, Precinct 1",County Road Commissioner,,,Write-ins,6,0,1,7
+Arenac,"Clayton Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,369,0,53,422
+Arenac,"Clayton Township, Precinct 1",County Road Commissioner,,,Write-ins,8,0,0,8
+Arenac,"Deep River Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,821,0,142,963
+Arenac,"Deep River Township, Precinct 1",County Road Commissioner,,,Write-ins,15,0,3,18
+Arenac,"Lincoln Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,354,0,62,416
+Arenac,"Lincoln Township, Precinct 1",County Road Commissioner,,,Write-ins,5,0,2,7
+Arenac,"Mason Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,265,0,23,288
+Arenac,"Mason Township, Precinct 1",County Road Commissioner,,,Write-ins,8,0,1,9
+Arenac,"Moffatt Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,549,0,111,660
+Arenac,"Moffatt Township, Precinct 1",County Road Commissioner,,,Write-ins,3,0,2,5
+Arenac,"Sims Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,292,235,59,586
+Arenac,"Sims Township, Precinct 1",County Road Commissioner,,,Write-ins,7,3,1,11
+Arenac,"Standish Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,619,0,155,774
+Arenac,"Standish Township, Precinct 1",County Road Commissioner,,,Write-ins,15,0,0,15
+Arenac,"Turner Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,226,0,30,256
+Arenac,"Turner Township, Precinct 1",County Road Commissioner,,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",County Road Commissioner,,REP,Dennis Stawowy,350,0,148,498
+Arenac,"Whitney Township, Precinct 1",County Road Commissioner,,,Write-ins,5,0,2,7
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,362,0,38,400
+Arenac,"City of Au Gres, Ward 1, Precinct 1",County Drain Commissioner,,,Write-ins,8,0,1,9
+Arenac,"City of Omer, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,123,0,16,139
+Arenac,"City of Omer, Precinct 1",County Drain Commissioner,,,Write-ins,0,0,0,0
+Arenac,"City of Standish, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,413,0,122,535
+Arenac,"City of Standish, Precinct 1",County Drain Commissioner,,,Write-ins,11,0,0,11
+Arenac,"Adams Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,235,0,28,263
+Arenac,"Adams Township, Precinct 1",County Drain Commissioner,,,Write-ins,4,0,0,4
+Arenac,"Arenac Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,380,0,64,444
+Arenac,"Arenac Township, Precinct 1",County Drain Commissioner,,,Write-ins,7,0,1,8
+Arenac,"Au Gres Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,429,0,42,471
+Arenac,"Au Gres Township, Precinct 1",County Drain Commissioner,,,Write-ins,6,0,0,6
+Arenac,"Clayton Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,371,0,52,423
+Arenac,"Clayton Township, Precinct 1",County Drain Commissioner,,,Write-ins,5,0,0,5
+Arenac,"Deep River Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,792,0,140,932
+Arenac,"Deep River Township, Precinct 1",County Drain Commissioner,,,Write-ins,17,0,2,19
+Arenac,"Lincoln Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,344,0,62,406
+Arenac,"Lincoln Township, Precinct 1",County Drain Commissioner,,,Write-ins,8,0,1,9
+Arenac,"Mason Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,275,0,23,298
+Arenac,"Mason Township, Precinct 1",County Drain Commissioner,,,Write-ins,7,0,1,8
+Arenac,"Moffatt Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,538,0,110,648
+Arenac,"Moffatt Township, Precinct 1",County Drain Commissioner,,,Write-ins,5,0,2,7
+Arenac,"Sims Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,286,231,59,576
+Arenac,"Sims Township, Precinct 1",County Drain Commissioner,,,Write-ins,12,3,1,16
+Arenac,"Standish Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,595,0,151,746
+Arenac,"Standish Township, Precinct 1",County Drain Commissioner,,,Write-ins,15,0,0,15
+Arenac,"Turner Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,232,0,30,262
+Arenac,"Turner Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,0,0,1
+Arenac,"Whitney Township, Precinct 1",County Drain Commissioner,,REP,Steve Andrejewski,349,0,146,495
+Arenac,"Whitney Township, Precinct 1",County Drain Commissioner,,,Write-ins,5,0,2,7

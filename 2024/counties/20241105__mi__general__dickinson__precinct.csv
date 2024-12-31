@@ -1,0 +1,781 @@
+county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Registered Voters,,,,,,,2371
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Registered Voters,,,,,,,2364
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Registered Voters,,,,,,,2266
+Dickinson,"City of Kingsford, Precinct 1",Registered Voters,,,,,,,1876
+Dickinson,"City of Kingsford, Precinct 2",Registered Voters,,,,,,,2614
+Dickinson,"City of Norway, Precinct 1",Registered Voters,,,,,,,2752
+Dickinson,"Breen Township, Precinct 1",Registered Voters,,,,,,,415
+Dickinson,"Breitung Township, Precinct 1",Registered Voters,,,,,,,1611
+Dickinson,"Breitung Township, Precinct 2",Registered Voters,,,,,,,1295
+Dickinson,"Breitung Township, Precinct 3",Registered Voters,,,,,,,2509
+Dickinson,"Felch Township, Precinct 1",Registered Voters,,,,,,,664
+Dickinson,"Norway Township, Precinct 1",Registered Voters,,,,,,,1270
+Dickinson,"Sagola Township, Precinct 1",Registered Voters,,,,,,,1044
+Dickinson,"Waucedah Township, Precinct 1",Registered Voters,,,,,,,812
+Dickinson,"West Branch Township, Precinct 1",Registered Voters,,,,,,,50
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Ballots Cast,,,,574,435,350,1359
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Ballots Cast,,,,579,355,374,1308
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Ballots Cast,,,,525,384,425,1334
+Dickinson,"City of Kingsford, Precinct 1",Ballots Cast,,,,345,506,444,1295
+Dickinson,"City of Kingsford, Precinct 2",Ballots Cast,,,,419,556,589,1564
+Dickinson,"City of Norway, Precinct 1",Ballots Cast,,,,1362,0,175,1537
+Dickinson,"Breen Township, Precinct 1",Ballots Cast,,,,295,0,30,325
+Dickinson,"Breitung Township, Precinct 1",Ballots Cast,,,,477,456,210,1143
+Dickinson,"Breitung Township, Precinct 2",Ballots Cast,,,,403,334,265,1002
+Dickinson,"Breitung Township, Precinct 3",Ballots Cast,,,,522,770,445,1737
+Dickinson,"Felch Township, Precinct 1",Ballots Cast,,,,432,0,43,475
+Dickinson,"Norway Township, Precinct 1",Ballots Cast,,,,451,417,143,1011
+Dickinson,"Sagola Township, Precinct 1",Ballots Cast,,,,630,0,91,721
+Dickinson,"Waucedah Township, Precinct 1",Ballots Cast,,,,488,0,86,574
+Dickinson,"West Branch Township, Precinct 1",Ballots Cast,,,,38,0,1,39
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,DEM,Democratic,77,95,53,225
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,REP,Republican,217,144,140,501
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,LIB,Libertarian,0,1,0,1
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,GRN,Green,0,1,0,1
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,WCP,Working Class,2,1,0,3
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Straight Party,,NLP,Natural Law,0,0,1,1
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,DEM,Democratic,88,111,67,266
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,REP,Republican,216,99,129,444
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,LIB,Libertarian,4,0,4,8
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,GRN,Green,1,1,1,3
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,WCP,Working Class,3,0,1,4
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,DEM,Democratic,75,95,46,216
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,REP,Republican,194,120,164,478
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,LIB,Libertarian,1,1,0,2
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,GRN,Green,1,2,0,3
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,WCP,Working Class,4,0,0,4
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Straight Party,,NLP,Natural Law,1,0,0,1
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,DEM,Democratic,34,135,55,224
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,REP,Republican,145,162,171,478
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,LIB,Libertarian,0,2,1,3
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,GRN,Green,2,1,0,3
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,WCP,Working Class,2,0,1,3
+Dickinson,"City of Kingsford, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,DEM,Democratic,57,173,52,282
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,REP,Republican,169,192,286,647
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,LIB,Libertarian,1,1,1,3
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0,1,1,2
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,GRN,Green,2,1,3,6
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,WCP,Working Class,5,2,6,13
+Dickinson,"City of Kingsford, Precinct 2",Straight Party,,NLP,Natural Law,1,0,1,2
+Dickinson,"City of Norway, Precinct 1",Straight Party,,DEM,Democratic,279,0,27,306
+Dickinson,"City of Norway, Precinct 1",Straight Party,,REP,Republican,388,0,66,454
+Dickinson,"City of Norway, Precinct 1",Straight Party,,LIB,Libertarian,1,0,2,3
+Dickinson,"City of Norway, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Dickinson,"City of Norway, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Dickinson,"City of Norway, Precinct 1",Straight Party,,WCP,Working Class,7,0,1,8
+Dickinson,"City of Norway, Precinct 1",Straight Party,,NLP,Natural Law,2,0,0,2
+Dickinson,"Breen Township, Precinct 1",Straight Party,,DEM,Democratic,26,0,1,27
+Dickinson,"Breen Township, Precinct 1",Straight Party,,REP,Republican,123,0,20,143
+Dickinson,"Breen Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Dickinson,"Breen Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,DEM,Democratic,44,87,12,143
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,REP,Republican,198,162,99,459
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,1,3
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,2,0,3
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,WCP,Working Class,2,3,0,5
+Dickinson,"Breitung Township, Precinct 1",Straight Party,,NLP,Natural Law,0,1,0,1
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,DEM,Democratic,41,88,26,155
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,REP,Republican,158,108,121,387
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,LIB,Libertarian,2,1,0,3
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,GRN,Green,1,0,0,1
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,WCP,Working Class,1,0,0,1
+Dickinson,"Breitung Township, Precinct 2",Straight Party,,NLP,Natural Law,1,1,0,2
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,DEM,Democratic,41,174,26,241
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,REP,Republican,231,270,235,736
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,LIB,Libertarian,2,1,0,3
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,UST,U.S. Taxpayers,2,0,1,3
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,WCP,Working Class,2,0,1,3
+Dickinson,"Breitung Township, Precinct 3",Straight Party,,NLP,Natural Law,1,1,1,3
+Dickinson,"Felch Township, Precinct 1",Straight Party,,DEM,Democratic,38,0,5,43
+Dickinson,"Felch Township, Precinct 1",Straight Party,,REP,Republican,186,0,22,208
+Dickinson,"Felch Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Dickinson,"Norway Township, Precinct 1",Straight Party,,DEM,Democratic,37,78,16,131
+Dickinson,"Norway Township, Precinct 1",Straight Party,,REP,Republican,142,108,48,298
+Dickinson,"Norway Township, Precinct 1",Straight Party,,LIB,Libertarian,1,1,0,2
+Dickinson,"Norway Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,1,1
+Dickinson,"Norway Township, Precinct 1",Straight Party,,GRN,Green,2,0,0,2
+Dickinson,"Norway Township, Precinct 1",Straight Party,,WCP,Working Class,5,1,0,6
+Dickinson,"Norway Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,DEM,Democratic,78,0,6,84
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,REP,Republican,238,0,51,289
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,WCP,Working Class,4,0,0,4
+Dickinson,"Sagola Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,DEM,Democratic,56,0,11,67
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,REP,Republican,165,0,44,209
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,WCP,Working Class,3,0,0,3
+Dickinson,"Waucedah Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,DEM,Democratic,5,0,0,5
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,REP,Republican,14,0,0,14
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,DEM,Kamala D. Harris,157,197,111,465
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,REP,Donald J. Trump,410,231,239,880
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,LIB,Chase Oliver,0,2,0,2
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,GRN,Jill Stein,2,1,0,3
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",President,,,Write-ins,0,1,0,1
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,DEM,Kamala D. Harris,153,185,132,470
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,REP,Donald J. Trump,404,159,231,794
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,LIB,Chase Oliver,3,0,4,7
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,UST,Randall Terry,3,1,1,5
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,GRN,Jill Stein,4,3,2,9
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,8,3,1,12
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Cornel West,1,0,0,1
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Peter Sonski,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",President,,,Write-ins,0,1,2,3
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,DEM,Kamala D. Harris,167,180,115,462
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,REP,Donald J. Trump,343,195,306,844
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,LIB,Chase Oliver,4,1,1,6
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,UST,Randall Terry,2,2,0,4
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,GRN,Jill Stein,4,0,1,5
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,NLP,Robert F. Kennedy Jr.,2,4,1,7
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Cornel West,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Peter Sonski,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",President,,,Write-ins,0,0,1,1
+Dickinson,"City of Kingsford, Precinct 1",President,,DEM,Kamala D. Harris,77,248,119,444
+Dickinson,"City of Kingsford, Precinct 1",President,,REP,Donald J. Trump,257,245,319,821
+Dickinson,"City of Kingsford, Precinct 1",President,,LIB,Chase Oliver,2,3,1,6
+Dickinson,"City of Kingsford, Precinct 1",President,,UST,Randall Terry,1,1,0,2
+Dickinson,"City of Kingsford, Precinct 1",President,,GRN,Jill Stein,3,1,1,5
+Dickinson,"City of Kingsford, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,2,1,6
+Dickinson,"City of Kingsford, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",President,,,Write-ins,1,2,1,4
+Dickinson,"City of Kingsford, Precinct 2",President,,DEM,Kamala D. Harris,95,272,114,481
+Dickinson,"City of Kingsford, Precinct 2",President,,REP,Donald J. Trump,310,273,467,1050
+Dickinson,"City of Kingsford, Precinct 2",President,,LIB,Chase Oliver,3,0,2,5
+Dickinson,"City of Kingsford, Precinct 2",President,,UST,Randall Terry,0,1,0,1
+Dickinson,"City of Kingsford, Precinct 2",President,,GRN,Jill Stein,2,1,3,6
+Dickinson,"City of Kingsford, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,5,4,2,11
+Dickinson,"City of Kingsford, Precinct 2",President,,,Joseph Kishore,1,0,0,1
+Dickinson,"City of Kingsford, Precinct 2",President,,,Cornel West,1,0,0,1
+Dickinson,"City of Kingsford, Precinct 2",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",President,,,Peter Sonski,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",President,,,Write-ins,1,0,0,1
+Dickinson,"City of Norway, Precinct 1",President,,DEM,Kamala D. Harris,550,0,50,600
+Dickinson,"City of Norway, Precinct 1",President,,REP,Donald J. Trump,771,0,123,894
+Dickinson,"City of Norway, Precinct 1",President,,LIB,Chase Oliver,8,0,1,9
+Dickinson,"City of Norway, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Dickinson,"City of Norway, Precinct 1",President,,GRN,Jill Stein,2,0,0,2
+Dickinson,"City of Norway, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,17,0,1,18
+Dickinson,"City of Norway, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",President,,,Peter Sonski,1,0,0,1
+Dickinson,"City of Norway, Precinct 1",President,,,Write-ins,5,0,0,5
+Dickinson,"Breen Township, Precinct 1",President,,DEM,Kamala D. Harris,53,0,2,55
+Dickinson,"Breen Township, Precinct 1",President,,REP,Donald J. Trump,240,0,28,268
+Dickinson,"Breen Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Dickinson,"Breen Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",President,,,Write-ins,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,DEM,Kamala D. Harris,94,161,37,292
+Dickinson,"Breitung Township, Precinct 1",President,,REP,Donald J. Trump,369,283,170,822
+Dickinson,"Breitung Township, Precinct 1",President,,LIB,Chase Oliver,2,2,3,7
+Dickinson,"Breitung Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,GRN,Jill Stein,1,1,0,2
+Dickinson,"Breitung Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,4,0,8
+Dickinson,"Breitung Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,,Cornel West,1,0,0,1
+Dickinson,"Breitung Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",President,,,Write-ins,3,1,0,4
+Dickinson,"Breitung Township, Precinct 2",President,,DEM,Kamala D. Harris,86,133,63,282
+Dickinson,"Breitung Township, Precinct 2",President,,REP,Donald J. Trump,307,193,200,700
+Dickinson,"Breitung Township, Precinct 2",President,,LIB,Chase Oliver,3,0,0,3
+Dickinson,"Breitung Township, Precinct 2",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,GRN,Jill Stein,1,0,0,1
+Dickinson,"Breitung Township, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,2,4,0,6
+Dickinson,"Breitung Township, Precinct 2",President,,,Joseph Kishore,0,1,0,1
+Dickinson,"Breitung Township, Precinct 2",President,,,Cornel West,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",President,,,Write-ins,3,1,1,5
+Dickinson,"Breitung Township, Precinct 3",President,,DEM,Kamala D. Harris,99,301,67,467
+Dickinson,"Breitung Township, Precinct 3",President,,REP,Donald J. Trump,415,450,374,1239
+Dickinson,"Breitung Township, Precinct 3",President,,LIB,Chase Oliver,0,2,1,3
+Dickinson,"Breitung Township, Precinct 3",President,,UST,Randall Terry,0,1,0,1
+Dickinson,"Breitung Township, Precinct 3",President,,GRN,Jill Stein,0,1,0,1
+Dickinson,"Breitung Township, Precinct 3",President,,NLP,Robert F. Kennedy Jr.,3,8,1,12
+Dickinson,"Breitung Township, Precinct 3",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",President,,,Cornel West,0,1,0,1
+Dickinson,"Breitung Township, Precinct 3",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",President,,,Write-ins,1,0,1,2
+Dickinson,"Felch Township, Precinct 1",President,,DEM,Kamala D. Harris,77,0,11,88
+Dickinson,"Felch Township, Precinct 1",President,,REP,Donald J. Trump,348,0,31,379
+Dickinson,"Felch Township, Precinct 1",President,,LIB,Chase Oliver,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,GRN,Jill Stein,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,0,0,3
+Dickinson,"Felch Township, Precinct 1",President,,,Joseph Kishore,0,0,1,1
+Dickinson,"Felch Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",President,,,Write-ins,1,0,0,1
+Dickinson,"Norway Township, Precinct 1",President,,DEM,Kamala D. Harris,95,190,30,315
+Dickinson,"Norway Township, Precinct 1",President,,REP,Donald J. Trump,345,214,112,671
+Dickinson,"Norway Township, Precinct 1",President,,LIB,Chase Oliver,0,2,0,2
+Dickinson,"Norway Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Dickinson,"Norway Township, Precinct 1",President,,GRN,Jill Stein,2,2,1,5
+Dickinson,"Norway Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,5,1,0,6
+Dickinson,"Norway Township, Precinct 1",President,,,Joseph Kishore,2,0,0,2
+Dickinson,"Norway Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",President,,,Write-ins,1,1,0,2
+Dickinson,"Sagola Township, Precinct 1",President,,DEM,Kamala D. Harris,158,0,9,167
+Dickinson,"Sagola Township, Precinct 1",President,,REP,Donald J. Trump,460,0,82,542
+Dickinson,"Sagola Township, Precinct 1",President,,LIB,Chase Oliver,3,0,0,3
+Dickinson,"Sagola Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,GRN,Jill Stein,1,0,0,1
+Dickinson,"Sagola Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Dickinson,"Sagola Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",President,,,Write-ins,2,0,0,2
+Dickinson,"Waucedah Township, Precinct 1",President,,DEM,Kamala D. Harris,145,0,18,163
+Dickinson,"Waucedah Township, Precinct 1",President,,REP,Donald J. Trump,331,0,65,396
+Dickinson,"Waucedah Township, Precinct 1",President,,LIB,Chase Oliver,1,0,1,2
+Dickinson,"Waucedah Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Dickinson,"Waucedah Township, Precinct 1",President,,GRN,Jill Stein,4,0,0,4
+Dickinson,"Waucedah Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Dickinson,"Waucedah Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",President,,,Write-ins,0,0,1,1
+Dickinson,"West Branch Township, Precinct 1.",President,,DEM,Kamala D. Harris,12,0,0,12
+Dickinson,"West Branch Township, Precinct 1.",President,,REP,Donald J. Trump,23,0,1,24
+Dickinson,"West Branch Township, Precinct 1.",President,,LIB,Chase Oliver,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,UST,Randall Terry,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,GRN,Jill Stein,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,NLP,Robert F. Kennedy Jr.,1,0,0,1
+Dickinson,"West Branch Township, Precinct 1.",President,,,Joseph Kishore,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Cornel West,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Jay J. Bowman,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Claudia De la Cruz,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Cherunda Lynn Fox,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Peter Sonski,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1.",President,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,151,186,107,444
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,REP,Mike Rogers,400,235,233,868
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6,4,4,14
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,UST,Dave Stein,4,1,1,6
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,4,0,6
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,1,1
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. Senate,,,Write-ins,0,0,1,1
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,157,180,128,465
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,REP,Mike Rogers,384,163,228,775
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,11,0,5,16
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,UST,Dave Stein,4,5,2,11
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,3,4,4,11
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. Senate,,,Write-ins,2,1,1,4
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,173,180,111,464
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,REP,Mike Rogers,323,193,302,818
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,10,3,2,15
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,UST,Dave Stein,4,0,2,6
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,GRN,Douglas P. Marsh,3,3,1,7
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,NLP,Doug Dern,2,2,1,5
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,73,242,122,437
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,REP,Mike Rogers,246,247,308,801
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,4,3,11
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,UST,Dave Stein,7,1,2,10
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,6,0,10
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,1,3
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,95,267,112,474
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,REP,Mike Rogers,289,267,449,1005
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,4,5,8,17
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,UST,Dave Stein,7,7,5,19
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,3,1,3,7
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,NLP,Doug Dern,4,0,4,8
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. Senate,,,Write-ins,4,0,4,8
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,537,0,46,583
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,REP,Mike Rogers,754,0,121,875
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12,0,3,15
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,UST,Dave Stein,18,0,2,20
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5,0,0,5
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,0,1,5
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,47,0,2,49
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,238,0,28,266
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Breen Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,87,157,37,281
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,364,282,170,816
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,3,1,8
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3,5,0,8
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,1,0,3
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,0,2
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",U.S. Senate,,,Write-ins,4,0,0,4
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,83,133,57,273
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,301,187,197,685
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,9,5,2,16
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,UST,Dave Stein,2,1,1,4
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,0,1,0,1
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,1,2,0,3
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Breitung Township, Precinct 2",U.S. Senate,,,Write-ins,1,0,1,2
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,DEM,Elissa Slotkin,100,299,63,462
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,REP,Mike Rogers,393,446,363,1202
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,LIB,Joseph Solis-Mullen,5,4,4,13
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,UST,Dave Stein,2,5,2,9
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,NLP,Doug Dern,5,3,1,9
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Breitung Township, Precinct 3",U.S. Senate,,,Write-ins,0,0,1,1
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,76,0,11,87
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,345,0,32,377
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,0,3
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,96,182,29,307
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,330,219,106,655
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,3,2,12
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,1,1,6
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,2,0,2
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,1,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",U.S. Senate,,,Write-ins,3,0,2,5
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,153,0,10,163
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,448,0,79,527
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,0,0,9
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,UST,Dave Stein,3,0,1,4
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,0,0,2
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,0,1
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Sagola Township, Precinct 1",U.S. Senate,,,Write-ins,1,0,0,1
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,144,0,18,162
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,314,0,67,381
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6,0,0,6
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,UST,Dave Stein,6,0,0,6
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,0,1
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"Waucedah Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,11,0,0,11
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,24,0,1,25
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. House,1,DEM,Callie Barr,154,183,108,445
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. House,1,REP,Jack Bergman,390,235,234,859
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. House,1,LIB,Andrew Gale,8,3,0,11
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,8,5,26
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. House,1,DEM,Callie Barr,157,181,132,470
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. House,1,REP,Jack Bergman,374,164,225,763
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. House,1,LIB,Andrew Gale,12,5,6,23
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. House,1,WCP,Liz Hakola,18,1,6,25
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",U.S. House,1,,Write-ins,3,0,1,4
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. House,1,DEM,Callie Barr,176,176,110,462
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. House,1,REP,Jack Bergman,317,199,299,815
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. House,1,LIB,Andrew Gale,10,1,6,17
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. House,1,WCP,Liz Hakola,11,1,6,18
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",U.S. House,1,,Write-ins,0,0,1,1
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,DEM,Callie Barr,79,231,130,440
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,REP,Jack Bergman,240,250,299,789
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,5,3,12
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,WCP,Liz Hakola,14,10,7,31
+Dickinson,"City of Kingsford, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,DEM,Callie Barr,101,262,108,471
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,REP,Jack Bergman,278,273,451,1002
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,LIB,Andrew Gale,6,2,2,10
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,WCP,Liz Hakola,13,8,13,34
+Dickinson,"City of Kingsford, Precinct 2",U.S. House,1,,Write-ins,5,0,3,8
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,DEM,Callie Barr,548,0,47,595
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,REP,Jack Bergman,739,0,117,856
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,LIB,Andrew Gale,9,0,5,14
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,WCP,Liz Hakola,32,0,2,34
+Dickinson,"City of Norway, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,DEM,Callie Barr,48,0,1,49
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,REP,Jack Bergman,237,0,29,266
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,0,3
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,2,0,0,2
+Dickinson,"Breen Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,DEM,Callie Barr,99,163,35,297
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,REP,Jack Bergman,350,279,165,794
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,2,3,10
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9,5,4,18
+Dickinson,"Breitung Township, Precinct 1",U.S. House,1,,Write-ins,3,0,1,4
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,DEM,Callie Barr,86,135,56,277
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,REP,Jack Bergman,296,187,199,682
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,6,7,2,15
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,8,2,1,11
+Dickinson,"Breitung Township, Precinct 2",U.S. House,1,,Write-ins,0,0,1,1
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,DEM,Callie Barr,102,295,66,463
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,REP,Jack Bergman,382,452,361,1195
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,LIB,Andrew Gale,10,6,1,17
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,WCP,Liz Hakola,15,7,6,28
+Dickinson,"Breitung Township, Precinct 3",U.S. House,1,,Write-ins,0,0,1,1
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,DEM,Callie Barr,80,0,12,92
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,344,0,31,375
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,0,0,4
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,0,0,0,0
+Dickinson,"Felch Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,DEM,Callie Barr,106,180,34,320
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,REP,Jack Bergman,318,224,105,647
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,3,1,9
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11,4,0,15
+Dickinson,"Norway Township, Precinct 1",U.S. House,1,,Write-ins,2,1,1,4
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,DEM,Callie Barr,160,0,12,172
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,REP,Jack Bergman,439,0,77,516
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,6,0,1,7
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,11,0,1,12
+Dickinson,"Sagola Township, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,DEM,Callie Barr,152,0,18,170
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,REP,Jack Bergman,311,0,67,378
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,0,3
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,0,1,8
+Dickinson,"Waucedah Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,DEM,Callie Barr,10,0,0,10
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,REP,Jack Bergman,25,0,1,26
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,0,0,0,0
+Dickinson,"West Branch Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Dickinson,"City of Norway, Precinct 1",State House,109,DEM,Jenn Hill,528,0,50,578
+Dickinson,"City of Norway, Precinct 1",State House,109,REP,Karl Bohnak,810,0,123,933
+Dickinson,"City of Norway, Precinct 1",State House,109,,Write-ins,2,0,0,2
+Dickinson,"Breen Township, Precinct 1",State House,109,DEM,Jenn Hill,52,0,1,53
+Dickinson,"Breen Township, Precinct 1",State House,109,REP,Karl Bohnak,240,0,29,269
+Dickinson,"Breen Township, Precinct 1",State House,109,,Write-ins,1,0,0,1
+Dickinson,"Felch Township, Precinct 1",State House,109,DEM,Jenn Hill,72,0,12,84
+Dickinson,"Felch Township, Precinct 1",State House,109,REP,Karl Bohnak,355,0,31,386
+Dickinson,"Felch Township, Precinct 1",State House,109,,Write-ins,1,0,0,1
+Dickinson,"Norway Township, Precinct 1",State House,109,DEM,Jenn Hill,98,185,32,315
+Dickinson,"Norway Township, Precinct 1",State House,109,REP,Karl Bohnak,344,223,106,673
+Dickinson,"Norway Township, Precinct 1",State House,109,,Write-ins,4,0,3,7
+Dickinson,"Waucedah Township, Precinct 1",State House,109,DEM,Jenn Hill,137,0,18,155
+Dickinson,"Waucedah Township, Precinct 1",State House,109,REP,Karl Bohnak,334,0,68,402
+Dickinson,"Waucedah Township, Precinct 1",State House,109,,Write-ins,2,0,0,2
+Dickinson,"West Branch Township, Precinct 1",State House,109,DEM,Jenn Hill,8,0,0,8
+Dickinson,"West Branch Township, Precinct 1",State House,109,REP,Karl Bohnak,29,0,1,30
+Dickinson,"West Branch Township, Precinct 1",State House,109,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,110,DEM,Kim S. Corcoran,147,182,109,438
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,110,REP,Gregory J. Markkanen,406,236,236,878
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",State House,110,,Write-ins,5,2,0,7
+Dickinson,"City of iron Mountain, Ward 2, Precinct 2",State House,110,DEM,Kim S. Corcoran,162,186,131,479
+Dickinson,"City of iron Mountain, Ward 2, Precinct 2",State House,110,REP,Gregory J. Markkanen,387,163,230,780
+Dickinson,"City of iron Mountain, Ward 2, Precinct 2",State House,110,,Write-ins,8,1,2,11
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,110,DEM,Kim S. Corcoran,164,171,114,449
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,110,REP,Gregory J. Markkanen,338,200,299,837
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",State House,110,,Write-ins,5,3,5,13
+Dickinson,"City of Kingsford, Precinct 1",State House,110,DEM,Kim S. Corcoran,74,229,118,421
+Dickinson,"City of Kingsford, Precinct 1",State House,110,REP,Gregory J. Markkanen,254,255,311,820
+Dickinson,"City of Kingsford, Precinct 1",State House,110,,Write-ins,2,1,3,6
+Dickinson,"City of Kingsford, Precinct 2",State House,110,DEM,Kim S. Corcoran,98,275,114,487
+Dickinson,"City of Kingsford, Precinct 2",State House,110,REP,Gregory J. Markkanen,291,266,454,1011
+Dickinson,"City of Kingsford, Precinct 2",State House,110,,Write-ins,4,0,4,8
+Dickinson,"Breitung Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,96,157,35,288
+Dickinson,"Breitung Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,354,284,172,810
+Dickinson,"Breitung Township, Precinct 1",State House,110,,Write-ins,8,1,1,10
+Dickinson,"Breitung Township, Precinct 2",State House,110,DEM,Kim S. Corcoran,87,131,54,272
+Dickinson,"Breitung Township, Precinct 2",State House,110,REP,Gregory J. Markkanen,295,192,199,686
+Dickinson,"Breitung Township, Precinct 2",State House,110,,Write-ins,1,0,1,2
+Dickinson,"Breitung Township, Precinct 3",State House,110,DEM,Kim S. Corcoran,101,286,64,451
+Dickinson,"Breitung Township, Precinct 3",State House,110,REP,Gregory J. Markkanen,389,457,365,1211
+Dickinson,"Breitung Township, Precinct 3",State House,110,,Write-ins,6,3,4,13
+Dickinson,"Sagola Township, Precinct 1",State House,110,DEM,Kim S. Corcoran,154,0,10,164
+Dickinson,"Sagola Township, Precinct 1",State House,110,REP,Gregory J. Markkanen,445,0,76,521
+Dickinson,"Sagola Township, Precinct 1",State House,110,,Write-ins,3,0,0,3
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,457,302,275,1034
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Prosecuting Attorney,,,Write-ins,8,4,5,17
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Prosecuting Attorney,,REP,Lisa Richards,460,216,275,951
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Prosecuting Attorney,,,Write-ins,9,8,13,30
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Prosecuting Attorney,,REP,Lisa Richards,404,262,357,1023
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Prosecuting Attorney,,,Write-ins,12,5,5,22
+Dickinson,"City of Kingsford, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,290,357,360,1007
+Dickinson,"City of Kingsford, Precinct 1",Prosecuting Attorney,,,Write-ins,12,5,9,26
+Dickinson,"City of Kingsford, Precinct 2",Prosecuting Attorney,,REP,Lisa Richards,336,367,502,1205
+Dickinson,"City of Kingsford, Precinct 2",Prosecuting Attorney,,,Write-ins,15,19,13,47
+Dickinson,"City of Norway, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,1000,0,133,1133
+Dickinson,"City of Norway, Precinct 1",Prosecuting Attorney,,,Write-ins,23,0,4,27
+Dickinson,"Breen Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,241,0,29,270
+Dickinson,"Breen Township, Precinct 1",Prosecuting Attorney,,,Write-ins,5,0,0,5
+Dickinson,"Breitung Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,403,334,181,918
+Dickinson,"Breitung Township, Precinct 1",Prosecuting Attorney,,,Write-ins,4,5,3,12
+Dickinson,"Breitung Township, Precinct 2",Prosecuting Attorney,,REP,Lisa Richards,327,215,224,766
+Dickinson,"Breitung Township, Precinct 2",Prosecuting Attorney,,,Write-ins,7,2,1,10
+Dickinson,"Breitung Township, Precinct 3",Prosecuting Attorney,,REP,Lisa Richards,440,555,396,1391
+Dickinson,"Breitung Township, Precinct 3",Prosecuting Attorney,,,Write-ins,6,13,8,27
+Dickinson,"Feich Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,373,0,33,406
+Dickinson,"Feich Township, Precinct 1",Prosecuting Attorney,,,Write-ins,9,0,0,9
+Dickinson,"Norway Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,390,304,121,815
+Dickinson,"Norway Township, Precinct 1",Prosecuting Attorney,,,Write-ins,10,0,2,12
+Dickinson,"Sagola Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,504,0,77,581
+Dickinson,"Sagola Township, Precinct 1",Prosecuting Attorney,,,Write-ins,6,0,2,8
+Dickinson,"Waucedah Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,381,0,73,454
+Dickinson,"Waucedah Township, Precinct 1",Prosecuting Attorney,,,Write-ins,5,0,1,6
+Dickinson,"West Branch Township, Precinct 1",Prosecuting Attorney,,REP,Lisa Richards,28,0,1,29
+Dickinson,"West Branch Township, Precinct 1",Prosecuting Attorney,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Sheriff,,REP,Aaron M. Rochon,462,303,279,1044
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",Sheriff,,,Write-ins,6,6,3,15
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Sheriff,,REP,Aaron M. Rochon,459,213,277,949
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",Sheriff,,,Write-ins,10,6,12,28
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Sheriff,,REP,Aaron M. Rochon,408,265,352,1025
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",Sheriff,,,Write-ins,10,5,6,21
+Dickinson,"City of Kingsford, Precinct 1",Sheriff,,REP,Aaron M. Rochon,296,348,365,1009
+Dickinson,"City of Kingsford, Precinct 1",Sheriff,,,Write-ins,8,7,9,24
+Dickinson,"City of Kingsford, Precinct 2",Sheriff,,REP,Aaron M. Rochon,340,361,508,1209
+Dickinson,"City of Kingsford, Precinct 2",Sheriff,,,Write-ins,11,17,10,38
+Dickinson,"City of Norway, Precinct 1",Sheriff,,REP,Aaron M. Rochon,1002,0,139,1141
+Dickinson,"City of Norway, Precinct 1",Sheriff,,,Write-ins,25,0,31,28
+Dickinson,"Breen Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,246,0,27,273
+Dickinson,"Breen Township, Precinct 1",Sheriff,,,Write-ins,2,0,1,3
+Dickinson,"Breitung Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,411,344,182,937
+Dickinson,"Breitung Township, Precinct 1",Sheriff,,,Write-ins,3,5,4,12
+Dickinson,"Breitung Township, Precinct 2",Sheriff,,REP,Aaron M. Rochon,330,208,215,753
+Dickinson,"Breitung Township, Precinct 2",Sheriff,,,Write-ins,3,3,2,8
+Dickinson,"Breitung Township, Precinct 3",Sheriff,,REP,Aaron M. Rochon,438,547,397,1382
+Dickinson,"Breitung Township, Precinct 3",Sheriff,,,Write-ins,9,12,3,24
+Dickinson,"Felch Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,377,0,34,411
+Dickinson,"Felch Township, Precinct 1",Sheriff,,,Write-ins,6,0,0,6
+Dickinson,"Norway Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,396,304,124,824
+Dickinson,"Norway Township, Precinct 1",Sheriff,,,Write-ins,12,1,2,15
+Dickinson,"Sagola Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,509,0,77,586
+Dickinson,"Sagola Township, Precinct 1",Sheriff,,,Write-ins,4,0,4,8
+Dickinson,"Waucedah Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,387,0,74,461
+Dickinson,"Waucedah Township, Precinct 1",Sheriff,,,Write-ins,3,0,1,4
+Dickinson,"West Branch Township, Precinct 1",Sheriff,,REP,Aaron M. Rochon,28,0,1,29
+Dickinson,"West Branch Township, Precinct 1",Sheriff,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,462,308,280,1050
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,3,3,2,8
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Clerk and Register of Deeds,,REP,Carol Bronzyk,462,216,279,957
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Clerk and Register of Deeds,,,Write-ins,5,7,11,23
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Clerk and Register of Deeds,,REP,Carol Bronzyk,409,260,0,1026
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Clerk and Register of Deeds,,,Write-ins,7,4,0,16
+Dickinson,"City of Kingsford, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,295,354,358,1007
+Dickinson,"City of Kingsford, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,6,5,8,19
+Dickinson,"City of Kingsford, Precinct 2",County Clerk and Register of Deeds,,REP,Carol Bronzyk,347,361,504,1212
+Dickinson,"City of Kingsford, Precinct 2",County Clerk and Register of Deeds,,,Write-ins,5,16,10,31
+Dickinson,"City of Norway, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,1005,0,133,1138
+Dickinson,"City of Norway, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,18,0,4,22
+Dickinson,"Breen Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,242,0,28,270
+Dickinson,"Breen Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,1,0,0,1
+Dickinson,"Breitung Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,405,337,184,926
+Dickinson,"Breitung Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,2,4,4,10
+Dickinson,"Breitung Township, Precinct 2",County Clerk and Register of Deeds,,REP,Carol Bronzyk,325,210,220,755
+Dickinson,"Breitung Township, Precinct 2",County Clerk and Register of Deeds,,,Write-ins,3,1,1,5
+Dickinson,"Breitung Township, Precinct 3",County Clerk and Register of Deeds,,REP,Carol Bronzyk,442,552,396,1390
+Dickinson,"Breitung Township, Precinct 3",County Clerk and Register of Deeds,,,Write-ins,3,8,3,14
+Dickinson,"Felch Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,375,0,34,409
+Dickinson,"Felch Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,6,0,0,6
+Dickinson,"Norway Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,396,309,125,830
+Dickinson,"Norway Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,8,0,2,10
+Dickinson,"Sagola Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,505,0,76,581
+Dickinson,"Sagola Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,3,0,3,6
+Dickinson,"Waucedah Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,387,0,73,460
+Dickinson,"Waucedah Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,5,0,1,6
+Dickinson,"West Branch Township, Precinct 1",County Clerk and Register of Deeds,,REP,Carol Bronzyk,28,0,1,29
+Dickinson,"West Branch Township, Precinct 1",County Clerk and Register of Deeds,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Treasurer,,REP,Lorna Carey,455,296,275,1026
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Treasurer,,,Write-ins,4,4,2,10
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Treasurer,,REP,Lorna Carey,456,213,274,943
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Treasurer,,,Write-ins,5,8,10,23
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Treasurer,,REP,Lorna Carey,405,262,355,1022
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Treasurer,,,Write-ins,7,5,5,17
+Dickinson,"City of Kingsford, Precinct 1",County Treasurer,,REP,Lorna Carey,296,351,354,1001
+Dickinson,"City of Kingsford, Precinct 1",County Treasurer,,,Write-ins,7,4,8,19
+Dickinson,"City of Kingsford, Precinct 2",County Treasurer,,REP,Lorna Carey,339,360,496,1195
+Dickinson,"City of Kingsford, Precinct 2",County Treasurer,,,Write-ins,8,15,9,32
+Dickinson,"City of Norway, Precinct 1",County Treasurer,,REP,Lorna Carey,990,0,132,1122
+Dickinson,"City of Norway, Precinct 1",County Treasurer,,,Write-ins,19,0,5,24
+Dickinson,"Breen Township, Precinct 1",County Treasurer,,REP,Lorna Carey,241,0,29,270
+Dickinson,"Breen Township, Precinct 1",County Treasurer,,,Write-ins,2,0,0,2
+Dickinson,"Breitung Township, Precinct 1",County Treasurer,,REP,Lorna Carey,404,339,185,928
+Dickinson,"Breitung Township, Precinct 1",County Treasurer,,,Write-ins,2,4,3,9
+Dickinson,"Breitung Township, Precinct 2",County Treasurer,,REP,Lorna Carey,323,212,220,755
+Dickinson,"Breitung Township, Precinct 2",County Treasurer,,,Write-ins,2,1,1,4
+Dickinson,"Breitung Township, Precinct 3",County Treasurer,,REP,Lorna Carey,442,544,396,1382
+Dickinson,"Breitung Township, Precinct 3",County Treasurer,,,Write-ins,3,9,3,15
+Dickinson,"Felch Township, Precinct 1",County Treasurer,,REP,Lorna Carey,377,0,34,411
+Dickinson,"Felch Township, Precinct 1",County Treasurer,,,Write-ins,6,0,0,6
+Dickinson,"Norway Township, Precinct 1",County Treasurer,,REP,Lorna Carey,391,295,125,811
+Dickinson,"Norway Township, Precinct 1",County Treasurer,,,Write-ins,8,0,2,10
+Dickinson,"Sagola Township, Precinct 1",County Treasurer,,REP,Lorna Carey,514,0,81,595
+Dickinson,"Sagola Township, Precinct 1",County Treasurer,,,Write-ins,4,0,1,5
+Dickinson,"Waucedah Township, Precinct 1",County Treasurer,,REP,Lorna Carey,378,0,73,451
+Dickinson,"Waucedah Township, Precinct 1",County Treasurer,,,Write-ins,4,0,1,5
+Dickinson,"West Branch Township, Precinct 1",County Treasurer,,REP,Lorna Carey,29,0,1,30
+Dickinson,"West Branch Township, Precinct 1",County Treasurer,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Mine Inspector,,REP,Michael Ghere,456,294,275,1025
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Mine Inspector,,,Write-ins,5,5,3,13
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Mine Inspector,,REP,Michael Ghere,456,210,275,941
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Mine Inspector,,,Write-ins,7,8,9,24
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Mine Inspector,,REP,Michael Ghere,405,261,348,1014
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Mine Inspector,,,Write-ins,5,4,6,15
+Dickinson,"City of Kingsford, Precinct 1",County Mine Inspector,,REP,Michael Ghere,290,347,357,994
+Dickinson,"City of Kingsford, Precinct 1",County Mine Inspector,,,Write-ins,9,4,9,22
+Dickinson,"City of Kingsford, Precinct 2",County Mine Inspector,,REP,Michael Ghere,339,356,494,1189
+Dickinson,"City of Kingsford, Precinct 2",County Mine Inspector,,,Write-ins,6,15,11,32
+Dickinson,"City of Norway, Precinct 1",County Mine Inspector,,REP,Michael Ghere,982,0,133,1115
+Dickinson,"City of Norway, Precinct 1",County Mine Inspector,,,Write-ins,18,0,4,22
+Dickinson,"Breen Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,0,0,28,265
+Dickinson,"Breen Township, Precinct 1",County Mine Inspector,,,Write-ins,0,0,0,1
+Dickinson,"Breitung Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,398,335,183,916
+Dickinson,"Breitung Township, Precinct 1",County Mine Inspector,,,Write-ins,3,3,3,9
+Dickinson,"Breitung Township, Precinct 2",County Mine Inspector,,REP,Michael Ghere,321,205,219,745
+Dickinson,"Breitung Township, Precinct 2",County Mine Inspector,,,Write-ins,3,2,0,5
+Dickinson,"Breitung Township, Precinct 3",County Mine Inspector,,REP,Michael Ghere,441,540,391,1372
+Dickinson,"Breitung Township, Precinct 3",County Mine Inspector,,,Write-ins,4,7,3,14
+Dickinson,"Felch Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,369,0,34,403
+Dickinson,"Felch Township, Precinct 1",County Mine Inspector,,,Write-ins,6,0,0,6
+Dickinson,"Norway Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,386,292,122,800
+Dickinson,"Norway Township, Precinct 1",County Mine Inspector,,,Write-ins,7,0,2,9
+Dickinson,"Sagola Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,499,0,78,577
+Dickinson,"Sagola Township, Precinct 1",County Mine Inspector,,,Write-ins,3,0,1,4
+Dickinson,"Waucedah Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,372,0,72,444
+Dickinson,"Waucedah Township, Precinct 1",County Mine Inspector,,,Write-ins,5,0,1,6
+Dickinson,"West Branch Township, Precinct 1",County Mine Inspector,,REP,Michael Ghere,28,0,1,29
+Dickinson,"West Branch Township, Precinct 1",County Mine Inspector,,,Write-ins,0,0,0,0
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,458,299,278,1035
+Dickinson,"City of Iron Mountain, Ward 1, Precinct 1",County Drain Commissioner,,,Write-ins,3,4,2,9
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Drain Commissioner,,REP,Kevin Trevillian,456,209,281,946
+Dickinson,"City of Iron Mountain, Ward 2, Precinct 2",County Drain Commissioner,,,Write-ins,7,7,10,24
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Drain Commissioner,,REP,Kevin Trevillian,410,262,352,1024
+Dickinson,"City of Iron Mountain, Ward 3, Precinct 3",County Drain Commissioner,,,Write-ins,5,6,6,17
+Dickinson,"City of Kingsford, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,289,349,356,994
+Dickinson,"City of Kingsford, Precinct 1",County Drain Commissioner,,,Write-ins,9,5,8,22
+Dickinson,"City of Kingsford, Precinct 2",County Drain Commissioner,,REP,Kevin Trevillian,338,357,497,1192
+Dickinson,"City of Kingsford, Precinct 2",County Drain Commissioner,,,Write-ins,6,15,8,29
+Dickinson,"City of Norway, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,986,0,132,1118
+Dickinson,"City of Norway, Precinct 1",County Drain Commissioner,,,Write-ins,19,0,4,23
+Dickinson,"Breen Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,237,0,28,265
+Dickinson,"Breen Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,0,0,1
+Dickinson,"Breitung Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,402,337,186,925
+Dickinson,"Breitung Township, Precinct 1",County Drain Commissioner,,,Write-ins,2,4,2,8
+Dickinson,"Breitung Township, Precinct 2",County Drain Commissioner,,REP,Kevin Trevillian,318,207,218,743
+Dickinson,"Breitung Township, Precinct 2",County Drain Commissioner,,,Write-ins,2,2,0,4
+Dickinson,"Breitung Township, Precinct 3",County Drain Commissioner,,REP,Kevin Trevillian,445,544,394,1383
+Dickinson,"Breitung Township, Precinct 3",County Drain Commissioner,,,Write-ins,3,9,2,14
+Dickinson,"Felch Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,374,0,34,408
+Dickinson,"Felch Township, Precinct 1",County Drain Commissioner,,,Write-ins,6,0,0,6
+Dickinson,"Norway Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,389,296,123,808
+Dickinson,"Norway Township, Precinct 1",County Drain Commissioner,,,Write-ins,7,0,2,9
+Dickinson,"Sagola Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,504,0,78,582
+Dickinson,"Sagola Township, Precinct 1",County Drain Commissioner,,,Write-ins,3,0,1,4
+Dickinson,"Waucedah Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,368,0,72,440
+Dickinson,"Waucedah Township, Precinct 1",County Drain Commissioner,,,Write-ins,4,0,1,5
+Dickinson,"West Branch Township, Precinct 1",County Drain Commissioner,,REP,Kevin Trevillian,28,0,1,29
+Dickinson,"West Branch Township, Precinct 1",County Drain Commissioner,,,Write-ins,0,0,0,0

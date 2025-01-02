@@ -1,0 +1,731 @@
+county,precinct,office,district,party,candidate,election_day,av_counting_boards,early_voting,votes
+Leelanau,"Bingham Township, Precinct 1",Ballots Cast,,,,480,1102,457,2039
+Leelanau,"Centerville Township, Precinct 1",Ballots Cast,,,,353,448,174,975
+Leelanau,"Cleveland Township, Precinct 1",Ballots Cast,,,,711,0,161,872
+Leelanau,"Elmwood Township, Precinct 1",Ballots Cast,,,,677,1206,391,2274
+Leelanau,"Elmwood Township, Precinct 2",Ballots Cast,,,,399,768,211,1378
+Leelanau,"Empire Township, Precinct 1",Ballots Cast,,,,978,0,112,1090
+Leelanau,"Glen Arbor Township, Precinct 1",Ballots Cast,,,,248,475,69,792
+Leelanau,"Kasson Township, Precinct 1",Ballots Cast,,,,1034,0,163,1197
+Leelanau,"Leelanau Township, Precinct 1",Ballots Cast,,,,537,955,325,1817
+Leelanau,"Leland Township, Precinct 1",Ballots Cast,,,,403,938,362,1703
+Leelanau,"Solon Township, Precinct 1",Ballots Cast,,,,489,459,234,1182
+Leelanau,"Suttons Bay Township, Precinct 1",Ballots Cast,,,,600,1004,497,2101
+Leelanau,"City of Traverse City, Precinct 4",Ballots Cast,,,,334,0,80,414
+Leelanau,"Platte Township, Precinct 1 (Benzie County)",Ballots Cast,,,,6,0,0,6
+Leelanau,"Bingham Township, Precinct 1",Registered Voters,,,,,,,2280
+Leelanau,"Centerville Township, Precinct 1",Registered Voters,,,,,,,1123
+Leelanau,"Cleveland Township, Precinct 1",Registered Voters,,,,,,,964
+Leelanau,"Elmwood Township, Precinct 1",Registered Voters,,,,,,,2541
+Leelanau,"Elmwood Township, Precinct 2",Registered Voters,,,,,,,1550
+Leelanau,"Empire Township, Precinct 1",Registered Voters,,,,,,,1201
+Leelanau,"Glen Arbor Township, Precinct 1",Registered Voters,,,,,,,865
+Leelanau,"Kasson Township, Precinct 1",Registered Voters,,,,,,,1355
+Leelanau,"Leelanau Township, Precinct 1",Registered Voters,,,,,,,2016
+Leelanau,"Leland Township, Precinct 1",Registered Voters,,,,,,,1915
+Leelanau,"Solon Township, Precinct 1",Registered Voters,,,,,,,1339
+Leelanau,"Suttons Bay Township, Precinct 1",Registered Voters,,,,,,,2462
+Leelanau,"City of Traverse City, Precinct 4",Registered Voters,,,,,,,475
+Leelanau,"Platte Township, Precinct 1 (Benzie County)",Registered Voters,,,,,,,8
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,DEM,Democratic,85,269,74,428
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,REP,Republican,136,284,162,582
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,LIB,Libertarian,1,1,0,2
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,GRN,Green,0,1,0,1
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,DEM,Democratic,56,137,31,224
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,REP,Republican,84,97,53,234
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,DEM,Democratic,170,0,32,202
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,REP,Republican,150,0,45,195
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,DEM,Democratic,123,348,67,538
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,REP,Republican,184,228,109,521
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,LIB,Libertarian,2,1,0,3
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,GRN,Green,1,1,0,2
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Leelanau,"Elmwood Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,DEM,Democratic,81,178,22,281
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,REP,Republican,103,191,63,357
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,LIB,Libertarian,0,1,0,1
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,GRN,Green,1,0,0,1
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Leelanau,"Empire Township, Precinct 1",Straight Party,,DEM,Democratic,255,0,14,269
+Leelanau,"Empire Township, Precinct 1",Straight Party,,REP,Republican,183,0,44,227
+Leelanau,"Empire Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Leelanau,"Empire Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Leelanau,"Empire Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,DEM,Democratic,38,139,20,197
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,REP,Republican,42,109,21,172
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,LIB,Libertarian,0,1,0,1
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,DEM,Democratic,201,0,20,221
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,REP,Republican,268,0,59,327
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1,2
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,1,3
+Leelanau,"Kasson Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,DEM,Democratic,113,309,54,476
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,REP,Republican,95,166,93,354
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Leelanau,"Leland Township, Precinct 1",Straight Party,,DEM,Democratic,68,214,57,339
+Leelanau,"Leland Township, Precinct 1",Straight Party,,REP,Republican,75,196,106,377
+Leelanau,"Leland Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",Straight Party,,GRN,Green,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",Straight Party,,NLP,Natural Law,1,1,0,2
+Leelanau,"Leland Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,0,2
+Leelanau,"Leland Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Leelanau,"Solon Township, Precinct 1",Straight Party,,DEM,Democratic,71,100,36,207
+Leelanau,"Solon Township, Precinct 1",Straight Party,,REP,Republican,158,112,74,344
+Leelanau,"Solon Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,0,2
+Leelanau,"Solon Township, Precinct 1",Straight Party,,GRN,Green,1,0,0,1
+Leelanau,"Solon Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",Straight Party,,WCP,Working Class,1,1,0,2
+Leelanau,"Solon Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,DEM,Democratic,173,298,91,562
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,REP,Republican,128,197,141,466
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,LIB,Libertarian,7,1,1,9
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,GRN,Green,2,2,2,6
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,NLP,Natural Law,3,0,0,3
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,WCP,Working Class,6,2,1,9
+Leelanau,"Suttons Bay Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,0,2
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,DEM,Democratic,76,0,13,89
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,REP,Republican,72,0,24,96
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,LIB,Libertarian,2,0,1,3
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,GRN,Green,1,0,0,1
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,NLP,Natural Law,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,WCP,Working Class,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",President,,DEM,Kamala D. Harris,193,592,153,938
+Leelanau,"Bingham Township, Precinct 1",President,,REP,Donald J. Trump,274,487,300,1061
+Leelanau,"Bingham Township, Precinct 1",President,,LIB,Chase Oliver,2,3,2,7
+Leelanau,"Bingham Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Leelanau,"Bingham Township, Precinct 1",President,,GRN,Jill Stein,1,1,0,2
+Leelanau,"Bingham Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,7,2,12
+Leelanau,"Bingham Township, Precinct 1",President,,,Joseph Kishore,1,0,0,1
+Leelanau,"Bingham Township, Precinct 1",President,,,Cornel West,1,0,0,1
+Leelanau,"Bingham Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",President,,,Write-ins,2,0,0,2
+Leelanau,"Centerville Township, Precinct 1",President,,DEM,Kamala D. Harris,132,270,67,469
+Leelanau,"Centerville Township, Precinct 1",President,,REP,Donald J. Trump,206,173,107,486
+Leelanau,"Centerville Township, Precinct 1",President,,LIB,Chase Oliver,5,0,0,5
+Leelanau,"Centerville Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,GRN,Jill Stein,2,1,0,3
+Leelanau,"Centerville Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,5,1,0,6
+Leelanau,"Centerville Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",President,,,Write-ins,2,1,0,3
+Leelanau,"Cleveland Township, Precinct 1",President,,DEM,Kamala D. Harris,406,0,67,473
+Leelanau,"Cleveland Township, Precinct 1",President,,REP,Donald J. Trump,290,0,91,381
+Leelanau,"Cleveland Township, Precinct 1",President,,LIB,Chase Oliver,5,0,0,5
+Leelanau,"Cleveland Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,GRN,Jill Stein,2,0,0,2
+Leelanau,"Cleveland Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,3,5
+Leelanau,"Cleveland Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,,Cornel West,1,0,0,1
+Leelanau,"Cleveland Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",President,,,Write-ins,1,0,0,1
+Leelanau,"Elmwood Township, Precinct 1",President,,DEM,Kamala D. Harris,291,755,172,1218
+Leelanau,"Elmwood Township, Precinct 1",President,,REP,Donald J. Trump,373,429,217,1019
+Leelanau,"Elmwood Township, Precinct 1",President,,LIB,Chase Oliver,2,2,0,4
+Leelanau,"Elmwood Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,GRN,Jill Stein,3,3,0,6
+Leelanau,"Elmwood Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,6,6,2,14
+Leelanau,"Elmwood Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,,Cornel West,0,1,0,1
+Leelanau,"Elmwood Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",President,,,Write-ins,1,2,0,3
+Leelanau,"Elmwood Township, Precinct 2",President,,DEM,Kamala D. Harris,177,450,80,707
+Leelanau,"Elmwood Township, Precinct 2",President,,REP,Donald J. Trump,209,300,129,638
+Leelanau,"Elmwood Township, Precinct 2",President,,LIB,Chase Oliver,4,3,1,8
+Leelanau,"Elmwood Township, Precinct 2",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,GRN,Jill Stein,2,1,0,3
+Leelanau,"Elmwood Township, Precinct 2",President,,NLP,Robert F. Kennedy Jr.,2,3,0,5
+Leelanau,"Elmwood Township, Precinct 2",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,,Cornel West,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",President,,,Peter Sonski,2,1,0,3
+Leelanau,"Elmwood Township, Precinct 2",President,,,Write-ins,2,4,0,6
+Leelanau,"Empire Township, Precinct 1",President,,DEM,Kamala D. Harris,632,0,47,679
+Leelanau,"Empire Township, Precinct 1",President,,REP,Donald J. Trump,327,0,64,391
+Leelanau,"Empire Township, Precinct 1",President,,LIB,Chase Oliver,3,0,1,4
+Leelanau,"Empire Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,GRN,Jill Stein,3,0,0,3
+Leelanau,"Empire Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,0,2
+Leelanau,"Empire Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",President,,,Write-ins,4,0,0,4
+Leelanau,"Glen Arbor Township, Precinct 1",President,,DEM,Kamala D. Harris,139,291,37,467
+Leelanau,"Glen Arbor Township, Precinct 1",President,,REP,Donald J. Trump,101,171,32,304
+Leelanau,"Glen Arbor Township, Precinct 1",President,,LIB,Chase Oliver,1,2,0,3
+Leelanau,"Glen Arbor Township, Precinct 1",President,,UST,Randall Terry,1,0,0,1
+Leelanau,"Glen Arbor Township, Precinct 1",President,,GRN,Jill Stein,1,1,0,2
+Leelanau,"Glen Arbor Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,2,0,2
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Joseph Kishore,1,0,0,1
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Peter Sonski,1,0,0,1
+Leelanau,"Glen Arbor Township, Precinct 1",President,,,Write-ins,1,3,0,4
+Leelanau,"Kasson Township, Precinct 1",President,,DEM,Kamala D. Harris,469,0,49,518
+Leelanau,"Kasson Township, Precinct 1",President,,REP,Donald J. Trump,533,0,113,646
+Leelanau,"Kasson Township, Precinct 1",President,,LIB,Chase Oliver,8,0,0,8
+Leelanau,"Kasson Township, Precinct 1",President,,UST,Randall Terry,2,0,0,2
+Leelanau,"Kasson Township, Precinct 1",President,,GRN,Jill Stein,7,0,0,7
+Leelanau,"Kasson Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,7,0,1,8
+Leelanau,"Kasson Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",President,,,Write-ins,4,0,0,4
+Leelanau,"Leelanau Township, Precinct 1",President,,DEM,Kamala D. Harris,313,667,141,1121
+Leelanau,"Leelanau Township, Precinct 1",President,,REP,Donald J. Trump,208,272,180,660
+Leelanau,"Leelanau Township, Precinct 1",President,,LIB,Chase Oliver,2,2,0,4
+Leelanau,"Leelanau Township, Precinct 1",President,,UST,Randall Terry,0,1,0,1
+Leelanau,"Leelanau Township, Precinct 1",President,,GRN,Jill Stein,4,2,0,6
+Leelanau,"Leelanau Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,2,1,7
+Leelanau,"Leelanau Township, Precinct 1",President,,,Joseph Kishore,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",President,,,Cornel West,0,0,1,1
+Leelanau,"Leelanau Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",President,,,Write-ins,1,0,1,2
+Leelanau,"Leland Township, Precinct 1",President,,DEM,Kamala D. Harris,197,553,147,897
+Leelanau,"Leland Township, Precinct 1",President,,REP,Donald J. Trump,190,363,211,764
+Leelanau,"Leland Township, Precinct 1",President,,LIB,Chase Oliver,1,3,0,4
+Leelanau,"Leland Township, Precinct 1",President,,UST,Randall Terry,2,0,0,2
+Leelanau,"Leland Township, Precinct 1",President,,GRN,Jill Stein,1,0,1,2
+Leelanau,"Leland Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,4,1,9
+Leelanau,"Leland Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",President,,,Cornel West,2,0,0,2
+Leelanau,"Leland Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",President,,,Claudia De la Cruz,0,1,0,1
+Leelanau,"Leland Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",President,,,Write-ins,0,2,0,2
+Leelanau,"Solon Township, Precinct 1",President,,DEM,Kamala D. Harris,176,261,84,521
+Leelanau,"Solon Township, Precinct 1",President,,REP,Donald J. Trump,303,187,150,640
+Leelanau,"Solon Township, Precinct 1",President,,LIB,Chase Oliver,0,2,0,2
+Leelanau,"Solon Township, Precinct 1",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",President,,GRN,Jill Stein,4,1,0,5
+Leelanau,"Solon Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,2,0,3
+Leelanau,"Solon Township, Precinct 1",President,,,Joseph Kishore,1,1,0,2
+Leelanau,"Solon Township, Precinct 1",President,,,Cornel West,1,1,0,2
+Leelanau,"Solon Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",President,,,Write-ins,0,1,0,1
+Leelanau,"Suttons Bay Township, Precinct 1",President,,DEM,Kamala D. Harris,0,334,634,206
+Leelanau,"Suttons Bay Township, Precinct 1",President,,REP,Donald J. Trump,0,240,350,278
+Leelanau,"Suttons Bay Township, Precinct 1",President,,LIB,Chase Oliver,0,10,5,3
+Leelanau,"Suttons Bay Township, Precinct 1",President,,UST,Randall Terry,0,0,2,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,GRN,Jill Stein,0,4,4,2
+Leelanau,"Suttons Bay Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,6,1,4
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Cornel West,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Peter Sonski,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",President,,,Write-ins,0,2,0,1
+Leelanau,"City of Traverse City, Precinct 4",President,,DEM,Kamala D. Harris,0,187,0,37
+Leelanau,"City of Traverse City, Precinct 4",President,,REP,Donald J. Trump,0,136,0,41
+Leelanau,"City of Traverse City, Precinct 4",President,,LIB,Chase Oliver,0,3,0,2
+Leelanau,"City of Traverse City, Precinct 4",President,,UST,Randall Terry,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,GRN,Jill Stein,0,2,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,NLP,Robert F. Kennedy Jr.,0,2,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Joseph Kishore,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Cornel West,0,1,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Jay J. Bowman,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Claudia De la Cruz,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Cherunda Lynn Fox,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Peter Sonski,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",President,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,188,581,147
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,277,489,301
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,3,5,2
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,4,2,1
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,3,5,1
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,2,0
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,1
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,129,263,66
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,206,170,106
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,4,2,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,3,1,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,2,2,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,0,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Centerville Township, Precinct 1",U.S. Senate,,,Write-ins,0,1,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,402,0,66
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,287,0,93
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,2,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,7,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,2,0,1
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,281,747,170
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,362,431,215
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,9,4,3
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,1,1,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,7,6,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,1,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",U.S. Senate,,,Write-ins,0,1,0,1
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,0,160,436,78
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,0,224,310,130
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,0,4,3,1
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,UST,Dave Stein,0,0,2,0
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,0,5,0,0
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,0,1,0,1
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 2",U.S. Senate,,,Write-ins,0,1,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,615,0,45
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,334,0,65
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,9,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,1,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,4,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,0,1
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",U.S. Senate,,,Write-ins,0,1,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,131,276,36
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,112,187,31
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,1,1,1
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,2,1
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,470,0,50
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,520,0,108
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,10,0,3
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,6,0,1
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,5,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. Senate,,,Write-ins,0,1,0,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,297,648,146
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,214,286,175
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,6,4,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,2,2,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,6,5,1
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,2,0,1
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Leelanau Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,182,523,141
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,200,380,213
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,7,5,4
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,5,6,0
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,3,5,1
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,1,2,1
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,175,251,80
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,295,192,152
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,3,1,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,3,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,5,3,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,1,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,0,0,320,627
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,0,0,234,350
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,10,6
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,3,2
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,0,0,7,2
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,8,1
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. Senate,,,Write-ins,0,0,2,1
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,DEM,Elissa Slotkin,1158,0,191,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,REP,Mike Rogers,862,0,133,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,LIB,Joseph Solis-Mullen,19,0,3,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,UST,Dave Stein,5,0,1,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,GRN,Douglas P. Marsh,11,0,1,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,NLP,Doug Dern,9,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,,James Chapman,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,,Marcus A. Irvine,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,,Valerie Lee Willis,0,0,0,0
+Leelanau,"City of Traverse City, Precinct 4",U.S. Senate,,,Write-ins,3,0,0,0
+Leelanau,"Bingham Township, Precinct 1",U.S. House,1,DEM,Callie Barr,188,570,153,911
+Leelanau,"Bingham Township, Precinct 1",U.S. House,1,REP,Jack Bergman,274,503,295,1072
+Leelanau,"Bingham Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,5,3,11
+Leelanau,"Bingham Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8,5,2,15
+Leelanau,"Bingham Township, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Leelanau,"Centerville Township, Precinct 1",U.S. House,1,DEM,Callie Barr,128,256,63,447
+Leelanau,"Centerville Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201,179,106,486
+Leelanau,"Centerville Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,12,3,1,16
+Leelanau,"Centerville Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4,0,0,4
+Leelanau,"Centerville Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Cleveland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,393,0,66,459
+Leelanau,"Cleveland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,294,0,92,386
+Leelanau,"Cleveland Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,8,0,1,9
+Leelanau,"Cleveland Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5,0,0,5
+Leelanau,"Cleveland Township, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Leelanau,"Elmwood Township, Precinct 1",U.S. House,1,DEM,Callie Barr,277,726,162,1165
+Leelanau,"Elmwood Township, Precinct 1",U.S. House,1,REP,Jack Bergman,358,450,214,1022
+Leelanau,"Elmwood Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,16,4,7,27
+Leelanau,"Elmwood Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,8,5,19
+Leelanau,"Elmwood Township, Precinct 1",U.S. House,1,,Write-ins,0,1,1,2
+Leelanau,"Elmwood Township, Precinct 2",U.S. House,1,DEM,Callie Barr,165,410,72,647
+Leelanau,"Elmwood Township, Precinct 2",U.S. House,1,REP,Jack Bergman,216,334,131,681
+Leelanau,"Elmwood Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,3,4,4,11
+Leelanau,"Elmwood Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,7,3,0,10
+Leelanau,"Elmwood Township, Precinct 2",U.S. House,1,,Write-ins,1,0,0,1
+Leelanau,"Empire Township, Precinct 1",U.S. House,1,DEM,Callie Barr,619,0,45,664
+Leelanau,"Empire Township, Precinct 1",U.S. House,1,REP,Jack Bergman,330,0,65,395
+Leelanau,"Empire Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,0,0,7
+Leelanau,"Empire Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,10,0,1,11
+Leelanau,"Empire Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. House,1,DEM,Callie Barr,129,275,35,439
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. House,1,REP,Jack Bergman,110,190,32,332
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,1,1,4
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,1,1,5
+Leelanau,"Glen Arbor Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Kasson Township, Precinct 1",U.S. House,1,DEM,Callie Barr,475,0,48,523
+Leelanau,"Kasson Township, Precinct 1",U.S. House,1,REP,Jack Bergman,515,0,110,625
+Leelanau,"Kasson Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,14,0,2,16
+Leelanau,"Kasson Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,5,0,2,7
+Leelanau,"Kasson Township, Precinct 1",U.S. House,1,,Write-ins,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",U.S. House,1,DEM,Callie Barr,302,641,148,1091
+Leelanau,"Leelanau Township, Precinct 1",U.S. House,1,REP,Jack Bergman,207,297,173,677
+Leelanau,"Leelanau Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,9,4,0,13
+Leelanau,"Leelanau Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,13,1,3,17
+Leelanau,"Leelanau Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Leland Township, Precinct 1",U.S. House,1,DEM,Callie Barr,179,532,137,848
+Leelanau,"Leland Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201,381,211,793
+Leelanau,"Leland Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,3,7,15
+Leelanau,"Leland Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,8,3,18
+Leelanau,"Leland Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Solon Township, Precinct 1",U.S. House,1,DEM,Callie Barr,169,251,77,497
+Leelanau,"Solon Township, Precinct 1",U.S. House,1,REP,Jack Bergman,300,193,153,646
+Leelanau,"Solon Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,7,3,0,10
+Leelanau,"Solon Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4,2,0,6
+Leelanau,"Solon Township, Precinct 1",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. House,1,DEM,Callie Barr,303,619,207,1129
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. House,1,REP,Jack Bergman,240,358,277,875
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,12,3,2,17
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,22,7,2,31
+Leelanau,"Suttons Bay Township, Precinct 1",U.S. House,1,,Write-ins,2,0,0,2
+Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,DEM,Callie Barr,183,0,35,218
+Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,REP,Jack Bergman,132,0,43,175
+Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,LIB,Andrew Gale,6,0,0,6
+Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,WCP,Liz Hakola,3,0,0,3
+Leelanau,"City of Traverse City, Precinct 4",U.S. House,1,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",State House,103,DEM,Betsy Coffia,186,560,149,895
+Leelanau,"Bingham Township, Precinct 1",State House,103,REP,Lisa Trombley,289,518,304,1111
+Leelanau,"Bingham Township, Precinct 1",State House,103,,Write-ins,0,1,0,1
+Leelanau,"Centerville Township, Precinct 1",State House,103,DEM,Betsy Coffia,131,264,65,460
+Leelanau,"Centerville Township, Precinct 1",State House,103,REP,Lisa Trombley,217,173,105,495
+Leelanau,"Centerville Township, Precinct 1",State House,103,,Write-ins,1,1,0,2
+Leelanau,"Cleveland Township, Precinct 1",State House,103,DEM,Betsy Coffia,410,0,69,479
+Leelanau,"Cleveland Township, Precinct 1",State House,103,REP,Lisa Trombley,295,0,90,385
+Leelanau,"Cleveland Township, Precinct 1",State House,103,,Write-ins,0,0,0,0
+Leelanau,"Elmwood Township, Precinct 1",State House,103,DEM,Betsy Coffia,290,732,168,1190
+Leelanau,"Elmwood Township, Precinct 1",State House,103,REP,Lisa Trombley,370,453,220,1043
+Leelanau,"Elmwood Township, Precinct 1",State House,103,,Write-ins,0,1,0,1
+Leelanau,"Elmwood Township, Precinct 2",State House,103,DEM,Betsy Coffia,167,425,75,667
+Leelanau,"Elmwood Township, Precinct 2",State House,103,REP,Lisa Trombley,225,326,135,686
+Leelanau,"Elmwood Township, Precinct 2",State House,103,,Write-ins,2,1,0,3
+Leelanau,"Empire Township, Precinct 1",State House,103,DEM,Betsy Coffia,615,0,44,659
+Leelanau,"Empire Township, Precinct 1",State House,103,REP,Lisa Trombley,349,0,66,415
+Leelanau,"Empire Township, Precinct 1",State House,103,,Write-ins,1,0,0,1
+Leelanau,"Glen Arbor Township, Precinct 1",State House,103,DEM,Betsy Coffia,131,275,37,443
+Leelanau,"Glen Arbor Township, Precinct 1",State House,103,REP,Lisa Trombley,112,192,32,336
+Leelanau,"Glen Arbor Township, Precinct 1",State House,103,,Write-ins,1,1,0,2
+Leelanau,"Kasson Township, Precinct 1",State House,103,DEM,Betsy Coffia,464,0,47,511
+Leelanau,"Kasson Township, Precinct 1",State House,103,REP,Lisa Trombley,546,0,114,660
+Leelanau,"Kasson Township, Precinct 1",State House,103,,Write-ins,1,0,0,1
+Leelanau,"Leelanau Township, Precinct 1",State House,103,DEM,Betsy Coffia,303,649,142,1094
+Leelanau,"Leelanau Township, Precinct 1",State House,103,REP,Lisa Trombley,225,281,178,684
+Leelanau,"Leelanau Township, Precinct 1",State House,103,,Write-ins,0,2,0,2
+Leelanau,"Leland Township, Precinct 1",State House,103,DEM,Betsy Coffia,179,532,142,853
+Leelanau,"Leland Township, Precinct 1",State House,103,REP,Lisa Trombley,214,384,215,813
+Leelanau,"Leland Township, Precinct 1",State House,103,,Write-ins,0,5,1,6
+Leelanau,"Solon Township, Precinct 1",State House,103,DEM,Betsy Coffia,172,247,77,496
+Leelanau,"Solon Township, Precinct 1",State House,103,REP,Lisa Trombley,302,199,155,656
+Leelanau,"Solon Township, Precinct 1",State House,103,,Write-ins,2,1,0,3
+Leelanau,"Suttons Bay Township, Precinct 1",State House,103,DEM,Betsy Coffia,322,623,203,1148
+Leelanau,"Suttons Bay Township, Precinct 1",State House,103,REP,Lisa Trombley,261,364,291,916
+Leelanau,"Suttons Bay Township, Precinct 1",State House,103,,Write-ins,2,3,0,5
+Leelanau,"City of Traverse City, Precinct 4",State House,103,DEM,Betsy Coffia,181,0,33,214
+Leelanau,"City of Traverse City, Precinct 4",State House,103,REP,Lisa Trombley,137,0,44,181
+Leelanau,"City of Traverse City, Precinct 4",State House,103,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,357,669,356,1382
+Leelanau,"Bingham Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,13,10,6,29
+Leelanau,"Centerville Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,259,248,120,627
+Leelanau,"Centerville Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,7,5,4,16
+Leelanau,"Cleveland Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,460,0,103,563
+Leelanau,"Cleveland Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,10,0,1,11
+Leelanau,"Elmwood Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,457,634,275,1366
+Leelanau,"Elmwood Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,13,16,3,32
+Leelanau,"Elmwood Township, Precinct 2",County Prosecuting Attorney,,REP,Joseph T. Hubbell,262,444,162,868
+Leelanau,"Elmwood Township, Precinct 2",County Prosecuting Attorney,,,Write-ins,6,2,1,9
+Leelanau,"Empire Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,505,0,79,584
+Leelanau,"Empire Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,17,0,1,18
+Leelanau,"Glen Arbor Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,169,264,40,473
+Leelanau,"Glen Arbor Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,4,3,1,8
+Leelanau,"Kasson Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,694,0,118,812
+Leelanau,"Kasson Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,15,0,6,21
+Leelanau,"Leelanau Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,339,463,216,1018
+Leelanau,"Leelanau Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,0,4,6,10
+Leelanau,"Leland Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,284,564,240,1088
+Leelanau,"Leland Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,9,10,11,30
+Leelanau,"Solon Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,364,267,160,791
+Leelanau,"Solon Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,4,5,5,14
+Leelanau,"Suttons Bay Township, Precinct 1",County Prosecuting Attorney,,REP,Joseph T. Hubbell,385,547,342,1274
+Leelanau,"Suttons Bay Township, Precinct 1",County Prosecuting Attorney,,,Write-ins,31,11,7,49
+Leelanau,"City of Traverse City, Precinct 4",County Prosecuting Attorney,,REP,Joseph T. Hubbell,185,0,53,238
+Leelanau,"City of Traverse City, Precinct 4",County Prosecuting Attorney,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,366,659,359,1384
+Leelanau,"Bingham Township, Precinct 1",County Sheriff,,,Write-ins,12,10,5,27
+Leelanau,"Centerville Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,263,240,120,623
+Leelanau,"Centerville Township, Precinct 1",County Sheriff,,,Write-ins,6,5,6,17
+Leelanau,"Cleveland Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,428,0,101,529
+Leelanau,"Cleveland Township, Precinct 1",County Sheriff,,,Write-ins,12,0,2,14
+Leelanau,"Elmwood Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,456,618,280,1354
+Leelanau,"Elmwood Township, Precinct 1",County Sheriff,,,Write-ins,17,20,4,41
+Leelanau,"Elmwood Township, Precinct 2",County Sheriff,,REP,Mike Borkovich,267,434,162,863
+Leelanau,"Elmwood Township, Precinct 2",County Sheriff,,,Write-ins,4,6,3,13
+Leelanau,"Empire Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,477,0,80,557
+Leelanau,"Empire Township, Precinct 1",County Sheriff,,,Write-ins,20,0,1,21
+Leelanau,"Glen Arbor Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,161,254,40,455
+Leelanau,"Glen Arbor Township, Precinct 1",County Sheriff,,,Write-ins,6,2,4,12
+Leelanau,"Kasson Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,690,0,125,815
+Leelanau,"Kasson Township, Precinct 1",County Sheriff,,,Write-ins,14,0,4,18
+Leelanau,"Leelanau Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,342,440,214,996
+Leelanau,"Leelanau Township, Precinct 1",County Sheriff,,,Write-ins,0,11,6,17
+Leelanau,"Leland Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,283,540,248,1071
+Leelanau,"Leland Township, Precinct 1",County Sheriff,,,Write-ins,14,15,14,43
+Leelanau,"Solon Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,371,270,167,808
+Leelanau,"Solon Township, Precinct 1",County Sheriff,,,Write-ins,3,8,4,15
+Leelanau,"Suttons Bay Township, Precinct 1",County Sheriff,,REP,Mike Borkovich,409,516,341,1266
+Leelanau,"Suttons Bay Township, Precinct 1",County Sheriff,,,Write-ins,23,21,13,57
+Leelanau,"City of Traverse City, Precinct 4",County Sheriff,,REP,Mike Borkovich,190,0,55,245
+Leelanau,"City of Traverse City, Precinct 4",County Sheriff,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,364,682,352,1398
+Leelanau,"Bingham Township, Precinct 1",County Clerk,,,Write-ins,13,10,5,28
+Leelanau,"Centerville Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,251,248,117,616
+Leelanau,"Centerville Township, Precinct 1",County Clerk,,,Write-ins,7,5,4,16
+Leelanau,"Cleveland Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,461,0,106,567
+Leelanau,"Cleveland Township, Precinct 1",County Clerk,,,Write-ins,8,0,1,9
+Leelanau,"Elmwood Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,445,624,271,1340
+Leelanau,"Elmwood Township, Precinct 1",County Clerk,,,Write-ins,12,15,6,33
+Leelanau,"Elmwood Township, Precinct 2",County Clerk,,REP,Michelle L. Crocker,256,433,166,855
+Leelanau,"Elmwood Township, Precinct 2",County Clerk,,,Write-ins,3,5,2,10
+Leelanau,"Empire Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,508,0,85,593
+Leelanau,"Empire Township, Precinct 1",County Clerk,,,Write-ins,13,0,0,13
+Leelanau,"Glen Arbor Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,174,271,43,488
+Leelanau,"Glen Arbor Township, Precinct 1",County Clerk,,,Write-ins,3,1,1,5
+Leelanau,"Kasson Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,700,0,123,823
+Leelanau,"Kasson Township, Precinct 1",County Clerk,,,Write-ins,14,0,5,19
+Leelanau,"Leelanau Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,363,493,230,1086
+Leelanau,"Leelanau Township, Precinct 1",County Clerk,,,Write-ins,0,5,2,7
+Leelanau,"Leland Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,288,575,256,1119
+Leelanau,"Leland Township, Precinct 1",County Clerk,,,Write-ins,9,5,8,22
+Leelanau,"Solon Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,366,273,169,808
+Leelanau,"Solon Township, Precinct 1",County Clerk,,,Write-ins,3,2,4,9
+Leelanau,"Suttons Bay Township, Precinct 1",County Clerk,,REP,Michelle L. Crocker,398,585,355,1338
+Leelanau,"Suttons Bay Township, Precinct 1",County Clerk,,,Write-ins,27,13,5,45
+Leelanau,"City of Traverse City, Precinct 4",County Clerk,,REP,Michelle L. Crocker,189,0,54,243
+Leelanau,"City of Traverse City, Precinct 4",County Clerk,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,353,648,348,1349
+Leelanau,"Bingham Township, Precinct 1",County Treasurer,,,Write-ins,11,8,4,23
+Leelanau,"Centerville Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,254,242,118,614
+Leelanau,"Centerville Township, Precinct 1",County Treasurer,,,Write-ins,4,4,4,12
+Leelanau,"Cleveland Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,431,0,102,533
+Leelanau,"Cleveland Township, Precinct 1",County Treasurer,,,Write-ins,7,0,0,7
+Leelanau,"Elmwood Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,454,614,273,1341
+Leelanau,"Elmwood Township, Precinct 1",County Treasurer,,,Write-ins,11,14,5,30
+Leelanau,"Elmwood Township, Precinct 2",County Treasurer,,REP,John A. Gallagher III,259,424,156,839
+Leelanau,"Elmwood Township, Precinct 2",County Treasurer,,,Write-ins,3,7,2,12
+Leelanau,"Empire Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,480,0,81,561
+Leelanau,"Empire Township, Precinct 1",County Treasurer,,,Write-ins,12,0,0,12
+Leelanau,"Glen Arbor Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,164,261,40,465
+Leelanau,"Glen Arbor Township, Precinct 1",County Treasurer,,,Write-ins,3,1,1,5
+Leelanau,"Kasson Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,673,0,119,792
+Leelanau,"Kasson Township, Precinct 1",County Treasurer,,,Write-ins,9,0,5,14
+Leelanau,"Leelanau Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,339,455,219,1013
+Leelanau,"Leelanau Township, Precinct 1",County Treasurer,,,Write-ins,0,5,0,5
+Leelanau,"Leland Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,283,542,247,1072
+Leelanau,"Leland Township, Precinct 1",County Treasurer,,,Write-ins,8,5,8,21
+Leelanau,"Solon Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,363,261,162,786
+Leelanau,"Solon Township, Precinct 1",County Treasurer,,,Write-ins,4,4,5,13
+Leelanau,"Suttons Bay Township, Precinct 1",County Treasurer,,REP,John A. Gallagher III,393,533,339,1265
+Leelanau,"Suttons Bay Township, Precinct 1",County Treasurer,,,Write-ins,25,12,5,42
+Leelanau,"City of Traverse City, Precinct 4",County Treasurer,,REP,John A. Gallagher III,184,0,54,238
+Leelanau,"City of Traverse City, Precinct 4",County Treasurer,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,371,698,358,1427
+Leelanau,"Bingham Township, Precinct 1",County Register of Deeds,,,Write-ins,10,9,5,24
+Leelanau,"Centerville Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,257,247,117,621
+Leelanau,"Centerville Township, Precinct 1",County Register of Deeds,,,Write-ins,5,3,3,11
+Leelanau,"Cleveland Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,443,0,106,549
+Leelanau,"Cleveland Township, Precinct 1",County Register of Deeds,,,Write-ins,6,0,0,6
+Leelanau,"Elmwood Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,448,624,269,1341
+Leelanau,"Elmwood Township, Precinct 1",County Register of Deeds,,,Write-ins,11,13,6,30
+Leelanau,"Elmwood Township, Precinct 2",County Register of Deeds,,REP,Jennifer L. Grant,255,430,161,846
+Leelanau,"Elmwood Township, Precinct 2",County Register of Deeds,,,Write-ins,3,6,1,10
+Leelanau,"Empire Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,490,0,82,572
+Leelanau,"Empire Township, Precinct 1",County Register of Deeds,,,Write-ins,12,0,0,12
+Leelanau,"Glen Arbor Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,167,262,43,472
+Leelanau,"Glen Arbor Township, Precinct 1",County Register of Deeds,,,Write-ins,3,1,1,5
+Leelanau,"Kasson Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,693,0,119,812
+Leelanau,"Kasson Township, Precinct 1",County Register of Deeds,,,Write-ins,11,0,4,15
+Leelanau,"Leelanau Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,349,476,224,1049
+Leelanau,"Leelanau Township, Precinct 1",County Register of Deeds,,,Write-ins,0,4,0,4
+Leelanau,"Leland Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,285,583,252,1120
+Leelanau,"Leland Township, Precinct 1",County Register of Deeds,,,Write-ins,8,5,8,21
+Leelanau,"Solon Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,368,267,165,800
+Leelanau,"Solon Township, Precinct 1",County Register of Deeds,,,Write-ins,2,4,4,10
+Leelanau,"Suttons Bay Township, Precinct 1",County Register of Deeds,,REP,Jennifer L. Grant,402,576,352,1330
+Leelanau,"Suttons Bay Township, Precinct 1",County Register of Deeds,,,Write-ins,21,12,3,36
+Leelanau,"City of Traverse City, Precinct 4",County Register of Deeds,,REP,Jennifer L. Grant,185,0,55,240
+Leelanau,"City of Traverse City, Precinct 4",County Register of Deeds,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,185,548,150,883
+Leelanau,"Bingham Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,303,578,319,1200
+Leelanau,"Bingham Township, Precinct 1",County Road Commissioner,,,Write-ins,6,2,1,9
+Leelanau,"Centerville Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,132,261,65,458
+Leelanau,"Centerville Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,227,204,101,532
+Leelanau,"Centerville Township, Precinct 1",County Road Commissioner,,,Write-ins,2,0,1,3
+Leelanau,"Cleveland Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,382,0,72,454
+Leelanau,"Cleveland Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,353,0,96,449
+Leelanau,"Cleveland Township, Precinct 1",County Road Commissioner,,,Write-ins,4,0,0,4
+Leelanau,"Elmwood Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,284,707,168,1159
+Leelanau,"Elmwood Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,390,540,241,1171
+Leelanau,"Elmwood Township, Precinct 1",County Road Commissioner,,,Write-ins,2,9,1,12
+Leelanau,"Elmwood Township, Precinct 2",County Road Commissioner,,DEM,Garth Greenan,175,413,71,659
+Leelanau,"Elmwood Township, Precinct 2",County Road Commissioner,,REP,James R. Calhoun,228,368,139,735
+Leelanau,"Elmwood Township, Precinct 2",County Road Commissioner,,,Write-ins,0,2,1,3
+Leelanau,"Empire Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,601,0,41,642
+Leelanau,"Empire Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,400,0,74,474
+Leelanau,"Empire Township, Precinct 1",County Road Commissioner,,,Write-ins,2,0,0,2
+Leelanau,"Glen Arbor Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,130,274,36,440
+Leelanau,"Glen Arbor Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,138,226,36,400
+Leelanau,"Glen Arbor Township, Precinct 1",County Road Commissioner,,,Write-ins,2,0,1,3
+Leelanau,"Kasson Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,485,0,49,534
+Leelanau,"Kasson Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,606,0,114,720
+Leelanau,"Kasson Township, Precinct 1",County Road Commissioner,,,Write-ins,5,0,6,11
+Leelanau,"Leelanau Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,275,604,134,1013
+Leelanau,"Leelanau Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,317,451,213,981
+Leelanau,"Leelanau Township, Precinct 1",County Road Commissioner,,,Write-ins,0,1,1,2
+Leelanau,"Leland Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,193,510,153,856
+Leelanau,"Leland Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,235,497,230,962
+Leelanau,"Leland Township, Precinct 1",County Road Commissioner,,,Write-ins,2,1,1,4
+Leelanau,"Solon Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,183,261,86,530
+Leelanau,"Solon Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,332,221,157,710
+Leelanau,"Solon Township, Precinct 1",County Road Commissioner,,,Write-ins,2,1,2,5
+Leelanau,"Suttons Bay Township, Precinct 1",County Road Commissioner,,DEM,Garth Greenan,324,600,210,1134
+Leelanau,"Suttons Bay Township, Precinct 1",County Road Commissioner,,REP,James R. Calhoun,300,457,311,1068
+Leelanau,"Suttons Bay Township, Precinct 1",County Road Commissioner,,,Write-ins,8,3,0,11
+Leelanau,"City of Traverse City, Precinct 4",County Road Commissioner,,DEM,Garth Greenan,176,0,34,210
+Leelanau,"City of Traverse City, Precinct 4",County Road Commissioner,,REP,James R. Calhoun,150,0,47,197
+Leelanau,"City of Traverse City, Precinct 4",County Road Commissioner,,,Write-ins,0,0,0,0
+Leelanau,"Bingham Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,158,497,131,786
+Leelanau,"Bingham Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,294,544,306,1144
+Leelanau,"Bingham Township, Precinct 1",County Drain Commissioner,,,Write-ins,2,0,1,3
+Leelanau,"Centerville Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,116,233,60,409
+Leelanau,"Centerville Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,213,194,106,513
+Leelanau,"Centerville Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,0,1,2
+Leelanau,"Cleveland Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,364,0,62,426
+Leelanau,"Cleveland Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,308,0,93,401
+Leelanau,"Cleveland Township, Precinct 1",County Drain Commissioner,,,Write-ins,2,0,0,2
+Leelanau,"Elmwood Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,248,661,159,1068
+Leelanau,"Elmwood Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,366,461,216,1043
+Leelanau,"Elmwood Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,2,2,5
+Leelanau,"Elmwood Township, Precinct 2",County Drain Commissioner,,DEM,Faith Hoekstra,151,375,71,597
+Leelanau,"Elmwood Township, Precinct 2",County Drain Commissioner,,REP,Timothy P. O'Non,212,332,132,676
+Leelanau,"Elmwood Township, Precinct 2",County Drain Commissioner,,,Write-ins,0,0,0,0
+Leelanau,"Empire Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,545,0,37,582
+Leelanau,"Empire Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,371,0,72,443
+Leelanau,"Empire Township, Precinct 1",County Drain Commissioner,,,Write-ins,2,0,1,3
+Leelanau,"Glen Arbor Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,123,243,33,399
+Leelanau,"Glen Arbor Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,114,208,34,356
+Leelanau,"Glen Arbor Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,0,0,1
+Leelanau,"Kasson Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,426,0,44,470
+Leelanau,"Kasson Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,540,0,113,653
+Leelanau,"Kasson Township, Precinct 1",County Drain Commissioner,,,Write-ins,2,0,0,2
+Leelanau,"Leelanau Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,268,577,122,967
+Leelanau,"Leelanau Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,250,336,195,781
+Leelanau,"Leelanau Township, Precinct 1",County Drain Commissioner,,,Write-ins,0,1,0,1
+Leelanau,"Leland Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,157,443,130,730
+Leelanau,"Leland Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,226,449,224,899
+Leelanau,"Leland Township, Precinct 1",County Drain Commissioner,,,Write-ins,0,1,0,1
+Leelanau,"Solon Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,155,234,72,461
+Leelanau,"Solon Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,300,199,154,653
+Leelanau,"Solon Township, Precinct 1",County Drain Commissioner,,,Write-ins,1,1,0,2
+Leelanau,"Suttons Bay Township, Precinct 1",County Drain Commissioner,,DEM,Faith Hoekstra,292,531,182,1005
+Leelanau,"Suttons Bay Township, Precinct 1",County Drain Commissioner,,REP,Timothy P. O'Non,262,441,294,997
+Leelanau,"Suttons Bay Township, Precinct 1",County Drain Commissioner,,,Write-ins,5,1,0,6
+Leelanau,"City of Traverse City, Precinct 4",County Drain Commissioner,,DEM,Faith Hoekstra,167,0,34,201
+Leelanau,"City of Traverse City, Precinct 4",County Drain Commissioner,,REP,Timothy P. O'Non,138,0,42,180
+Leelanau,"City of Traverse City, Precinct 4",County Drain Commissioner,,,Write-ins,0,0,0,0

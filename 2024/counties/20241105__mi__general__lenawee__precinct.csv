@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional,mail
-Lenawee,"City of Adrian, Precinct 1",Registered Voters,,,,2578,2578,2578,,2578
 Lenawee,"City of Adrian, Precinct 1",Ballots Cast,,,,1375,217,655,,503
 Lenawee,"City of Adrian, Precinct 1",Straight Party,,DEM,Democratic Party,515,69,204,,242
 Lenawee,"City of Adrian, Precinct 1",Straight Party,,REP,Republican Party,345,67,208,,70
@@ -54,7 +53,7 @@ Lenawee,"City of Adrian, Precinct 1",Justice of Supreme Court,,,Write-Ins,28,8,1
 Lenawee,"City of Adrian, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,730,115,321,,294
 Lenawee,"City of Adrian, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,241,48,126,,67
 Lenawee,"City of Adrian, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,29,8,17,,4
-Lenawee,"City of Adrian, Precinct 2",Registered Voters,,,,2762,2762,2762,,2762
+Lenawee,"City of Adrian, Precinct 1",Registered Voters,,,,2578,,,,
 Lenawee,"City of Adrian, Precinct 2",Ballots Cast,,,,1171,213,634,,324
 Lenawee,"City of Adrian, Precinct 2",Straight Party,,DEM,Democratic Party,423,68,191,,164
 Lenawee,"City of Adrian, Precinct 2",Straight Party,,REP,Republican Party,337,65,208,,64
@@ -109,7 +108,7 @@ Lenawee,"City of Adrian, Precinct 2",Justice of Supreme Court,,,Write-Ins,25,5,1
 Lenawee,"City of Adrian, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,570,90,283,,197
 Lenawee,"City of Adrian, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,309,54,198,,57
 Lenawee,"City of Adrian, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,24,4,18,,2
-Lenawee,"City of Adrian, Precinct 3",Registered Voters,,,,2987,2987,2987,,2987
+Lenawee,"City of Adrian, Precinct 2",Registered Voters,,,,2762,,,,
 Lenawee,"City of Adrian, Precinct 3",Ballots Cast,,,,1317,267,578,,472
 Lenawee,"City of Adrian, Precinct 3",Straight Party,,DEM,Democratic Party,465,75,183,,207
 Lenawee,"City of Adrian, Precinct 3",Straight Party,,REP,Republican Party,393,94,195,,104
@@ -164,7 +163,7 @@ Lenawee,"City of Adrian, Precinct 3",Justice of Supreme Court,,,Write-Ins,27,6,1
 Lenawee,"City of Adrian, Precinct 3",Justice of Supreme Court Partial,,,Kyra Harris Bolden,657,122,274,,261
 Lenawee,"City of Adrian, Precinct 3",Justice of Supreme Court Partial,,,Patrick William O'Grady,285,68,125,,92
 Lenawee,"City of Adrian, Precinct 3",Justice of Supreme Court Partial,,,Write-Ins,23,5,16,,2
-Lenawee,"City of Adrian, Precinct 4",Registered Voters,,,,2577,2577,2577,,2577
+Lenawee,"City of Adrian, Precinct 3",Registered Voters,,,,2987,,,,
 Lenawee,"City of Adrian, Precinct 4",Ballots Cast,,,,1730,325,721,,684
 Lenawee,"City of Adrian, Precinct 4",Straight Party,,DEM,Democratic Party,460,77,126,,257
 Lenawee,"City of Adrian, Precinct 4",Straight Party,,REP,Republican Party,449,116,216,,117
@@ -219,7 +218,7 @@ Lenawee,"City of Adrian, Precinct 4",Justice of Supreme Court,,,Write-Ins,27,5,1
 Lenawee,"City of Adrian, Precinct 4",Justice of Supreme Court Partial,,,Kyra Harris Bolden,804,135,274,,395
 Lenawee,"City of Adrian, Precinct 4",Justice of Supreme Court Partial,,,Patrick William O'Grady,444,90,216,,138
 Lenawee,"City of Adrian, Precinct 4",Justice of Supreme Court Partial,,,Write-Ins,29,4,16,,9
-Lenawee,"City of Adrian, Precinct 5",Registered Voters,,,,2008,2008,2008,,2008
+Lenawee,"City of Adrian, Precinct 4",Registered Voters,,,,2577,,,,
 Lenawee,"City of Adrian, Precinct 5",Ballots Cast,,,,1133,246,525,,362
 Lenawee,"City of Adrian, Precinct 5",Straight Party,,DEM,Democratic Party,297,53,109,,135
 Lenawee,"City of Adrian, Precinct 5",Straight Party,,REP,Republican Party,352,96,182,,74
@@ -271,7 +270,7 @@ Lenawee,"City of Adrian, Precinct 5",Justice of Supreme Court,,,Write-Ins,24,3,1
 Lenawee,"City of Adrian, Precinct 5",Justice of Supreme Court Partial,,,Kyra Harris Bolden,536,112,237,,187
 Lenawee,"City of Adrian, Precinct 5",Justice of Supreme Court Partial,,,Patrick William O'Grady,290,75,138,,77
 Lenawee,"City of Adrian, Precinct 5",Justice of Supreme Court Partial,,,Write-Ins,18,3,10,,5
-Lenawee,"City of Adrian, Precinct 6",Registered Voters,,,,2615,2615,2615,,2615
+Lenawee,"City of Adrian, Precinct 5",Registered Voters,,,,2008,,,,
 Lenawee,"City of Adrian, Precinct 6",Ballots Cast,,,,1457,267,614,,576
 Lenawee,"City of Adrian, Precinct 6",Straight Party,,DEM,Democratic Party,415,63,135,,217
 Lenawee,"City of Adrian, Precinct 6",Straight Party,,REP,Republican Party,416,100,193,,123
@@ -326,7 +325,7 @@ Lenawee,"City of Adrian, Precinct 6",Justice of Supreme Court,,,Write-Ins,28,5,1
 Lenawee,"City of Adrian, Precinct 6",Justice of Supreme Court Partial,,,Kyra Harris Bolden,654,98,247,,309
 Lenawee,"City of Adrian, Precinct 6",Justice of Supreme Court Partial,,,Patrick William O'Grady,435,101,194,,140
 Lenawee,"City of Adrian, Precinct 6",Justice of Supreme Court Partial,,,Write-Ins,38,6,27,,5
-Lenawee,"City of Hudson, Precinct 1",Registered Voters,,,,1654,1654,1654,,1654
+Lenawee,"City of Adrian, Precinct 6",Registered Voters,,,,2615,,,,
 Lenawee,"City of Hudson, Precinct 1",Ballots Cast,,,,1023,58,711,,254
 Lenawee,"City of Hudson, Precinct 1",Straight Party,,DEM,Democratic Party,181,8,98,,75
 Lenawee,"City of Hudson, Precinct 1",Straight Party,,REP,Republican Party,420,31,303,,86
@@ -381,7 +380,7 @@ Lenawee,"City of Hudson, Precinct 1",Justice of Supreme Court,,,Write-Ins,11,2,9
 Lenawee,"City of Hudson, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,428,23,305,,100
 Lenawee,"City of Hudson, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,311,17,217,,77
 Lenawee,"City of Hudson, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,15,2,13,,0
-Lenawee,"City of Morenci, Precinct 1",Registered Voters,,,,1952,1952,1952,,1952
+Lenawee,"City of Hudson, Precinct 1",Registered Voters,,,,1654,,,,
 Lenawee,"City of Morenci, Precinct 1",Ballots Cast,,,,995,78,917,,0
 Lenawee,"City of Morenci, Precinct 1",Straight Party,,DEM,Democratic Party,173,9,164,,0
 Lenawee,"City of Morenci, Precinct 1",Straight Party,,REP,Republican Party,440,41,399,,0
@@ -436,7 +435,7 @@ Lenawee,"City of Morenci, Precinct 1",Justice of Supreme Court,,,Write-Ins,15,0,
 Lenawee,"City of Morenci, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,354,27,327,,0
 Lenawee,"City of Morenci, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,345,28,317,,0
 Lenawee,"City of Morenci, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,17,0,17,,0
-Lenawee,"City of Tecumseh, Precinct 1",Registered Voters,,,,3819,3819,3819,,3819
+Lenawee,"City of Morenci, Precinct 1",Registered Voters,,,,1952,,,,
 Lenawee,"City of Tecumseh, Precinct 1",Ballots Cast,,,,2876,270,1386,,1220
 Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,DEM,Democratic Party,668,52,229,,387
 Lenawee,"City of Tecumseh, Precinct 1",Straight Party,,REP,Republican Party,799,93,447,,259
@@ -491,7 +490,7 @@ Lenawee,"City of Tecumseh, Precinct 1",Justice of Supreme Court,,,Write-Ins,24,1
 Lenawee,"City of Tecumseh, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,1328,121,550,,657
 Lenawee,"City of Tecumseh, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,733,84,408,,241
 Lenawee,"City of Tecumseh, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,33,1,27,,5
-Lenawee,"City of Tecumseh, Precinct 2",Registered Voters,,,,3628,3628,3628,,3628
+Lenawee,"City of Tecumseh, Precinct 1",Registered Voters,,,,3819,,,,
 Lenawee,"City of Tecumseh, Precinct 2",Ballots Cast,,,,2755,305,1180,,1270
 Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,DEM,Democratic Party,672,57,204,,411
 Lenawee,"City of Tecumseh, Precinct 2",Straight Party,,REP,Republican Party,708,99,321,,288
@@ -546,7 +545,7 @@ Lenawee,"City of Tecumseh, Precinct 2",Justice of Supreme Court,,,Write-Ins,18,3
 Lenawee,"City of Tecumseh, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,1223,124,459,,640
 Lenawee,"City of Tecumseh, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,771,102,370,,299
 Lenawee,"City of Tecumseh, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,21,5,13,,3
-Lenawee,"Adrian Township, Precinct 1",Registered Voters,,,,2747,2747,2747,,2747
+Lenawee,"City of Tecumseh, Precinct 2",Registered Voters,,,,3628,,,,
 Lenawee,"Adrian Township, Precinct 1",Ballots Cast,,,,2086,296,807,,983
 Lenawee,"Adrian Township, Precinct 1",Straight Party,,DEM,Democratic Party,367,47,94,,226
 Lenawee,"Adrian Township, Precinct 1",Straight Party,,REP,Republican Party,716,145,307,,264
@@ -601,7 +600,7 @@ Lenawee,"Adrian Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,16,3,
 Lenawee,"Adrian Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,798,99,263,,436
 Lenawee,"Adrian Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,638,112,230,,296
 Lenawee,"Adrian Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,18,4,13,,1
-Lenawee,"Adrian Township, Precinct 2",Registered Voters,,,,2806,2806,2806,,2806
+Lenawee,"Adrian Township, Precinct 1",Registered Voters,,,,2747,,,,
 Lenawee,"Adrian Township, Precinct 2",Ballots Cast,,,,1958,394,773,,791
 Lenawee,"Adrian Township, Precinct 2",Straight Party,,DEM,Democratic Party,424,58,102,,264
 Lenawee,"Adrian Township, Precinct 2",Straight Party,,REP,Republican Party,694,180,303,,211
@@ -656,7 +655,7 @@ Lenawee,"Adrian Township, Precinct 2",Justice of Supreme Court,,,Write-Ins,23,7,
 Lenawee,"Adrian Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,736,154,235,,347
 Lenawee,"Adrian Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,621,151,271,,199
 Lenawee,"Adrian Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,21,8,11,,2
-Lenawee,"Blissfield Township, Precinct 1",Registered Voters,,,,533,533,533,,533
+Lenawee,"Adrian Township, Precinct 2",Registered Voters,,,,2806,,,,
 Lenawee,"Blissfield Township, Precinct 1",Ballots Cast,,,,406,29,201,,176
 Lenawee,"Blissfield Township, Precinct 1",Straight Party,,DEM,Democratic Party,31,2,12,,17
 Lenawee,"Blissfield Township, Precinct 1",Straight Party,,REP,Republican Party,162,16,82,,64
@@ -714,7 +713,7 @@ Lenawee,"Blissfield Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,2
 Lenawee,"Blissfield Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,130,8,67,,55
 Lenawee,"Blissfield Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,171,14,83,,74
 Lenawee,"Blissfield Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,2,0,2,,0
-Lenawee,"Blissfield Township, Precinct 2",Registered Voters,,,,2779,2779,2779,,2779
+Lenawee,"Blissfield Township, Precinct 1",Registered Voters,,,,533,,,,
 Lenawee,"Blissfield Township, Precinct 2",Ballots Cast,,,,1938,200,860,,878
 Lenawee,"Blissfield Township, Precinct 2",Straight Party,,DEM,Democratic Party,312,47,100,,165
 Lenawee,"Blissfield Township, Precinct 2",Straight Party,,REP,Republican Party,619,69,288,,262
@@ -769,7 +768,7 @@ Lenawee,"Blissfield Township, Precinct 2",Justice of Supreme Court,,,Write-Ins,1
 Lenawee,"Blissfield Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,764,74,305,,385
 Lenawee,"Blissfield Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,660,72,320,,268
 Lenawee,"Blissfield Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,14,5,8,,1
-Lenawee,"Cambridge Township, Precinct 1",Registered Voters,,,,1923,1923,1923,,1923
+Lenawee,"Blissfield Township, Precinct 2",Registered Voters,,,,2779,,,,
 Lenawee,"Cambridge Township, Precinct 1",Ballots Cast,,,,1509,135,757,,617
 Lenawee,"Cambridge Township, Precinct 1",Straight Party,,DEM,Democratic Party,184,10,57,,117
 Lenawee,"Cambridge Township, Precinct 1",Straight Party,,REP,Republican Party,572,63,316,,193
@@ -824,7 +823,7 @@ Lenawee,"Cambridge Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,14
 Lenawee,"Cambridge Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,556,34,256,,266
 Lenawee,"Cambridge Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,515,61,253,,201
 Lenawee,"Cambridge Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,17,3,13,,1
-Lenawee,"Cambridge Township, Precinct 2",Registered Voters,,,,1756,1756,1756,,1756
+Lenawee,"Cambridge Township, Precinct 1",Registered Voters,,,,1923,,,,
 Lenawee,"Cambridge Township, Precinct 2",Ballots Cast,,,,1383,125,624,,634
 Lenawee,"Cambridge Township, Precinct 2",Straight Party,,DEM,Democratic Party,248,23,66,,159
 Lenawee,"Cambridge Township, Precinct 2",Straight Party,,REP,Republican Party,510,49,280,,181
@@ -878,7 +877,7 @@ Lenawee,"Cambridge Township, Precinct 2",Justice of Supreme Court,,,Write-Ins,14
 Lenawee,"Cambridge Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,494,38,183,,273
 Lenawee,"Cambridge Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,454,54,218,,182
 Lenawee,"Cambridge Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,14,2,9,,3
-Lenawee,"Cambridge Township, Precinct 3",Registered Voters,,,,1441,1441,1441,,1441
+Lenawee,"Cambridge Township, Precinct 2",Registered Voters,,,,1756,,,,
 Lenawee,"Cambridge Township, Precinct 3",Ballots Cast,,,,1170,154,494,,522
 Lenawee,"Cambridge Township, Precinct 3",Straight Party,,DEM,Democratic Party,224,13,69,,142
 Lenawee,"Cambridge Township, Precinct 3",Straight Party,,REP,Republican Party,417,71,206,,140
@@ -933,7 +932,7 @@ Lenawee,"Cambridge Township, Precinct 3",Justice of Supreme Court,,,Write-Ins,6,
 Lenawee,"Cambridge Township, Precinct 3",Justice of Supreme Court Partial,,,Kyra Harris Bolden,426,34,161,,231
 Lenawee,"Cambridge Township, Precinct 3",Justice of Supreme Court Partial,,,Patrick William O'Grady,377,66,162,,149
 Lenawee,"Cambridge Township, Precinct 3",Justice of Supreme Court Partial,,,Write-Ins,9,1,8,,0
-Lenawee,"Clinton Township, Precinct 1",Registered Voters,,,,1156,1156,1156,,1156
+Lenawee,"Cambridge Township, Precinct 3",Registered Voters,,,,1441,,,,
 Lenawee,"Clinton Township, Precinct 1",Ballots Cast,,,,910,72,499,,339
 Lenawee,"Clinton Township, Precinct 1",Straight Party,,DEM,Democratic Party,110,8,40,,62
 Lenawee,"Clinton Township, Precinct 1",Straight Party,,REP,Republican Party,340,32,199,,109
@@ -988,7 +987,7 @@ Lenawee,"Clinton Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,8,0,
 Lenawee,"Clinton Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,309,15,161,,133
 Lenawee,"Clinton Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,313,32,169,,112
 Lenawee,"Clinton Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,5,0,4,,1
-Lenawee,"Clinton Township, Precinct 2",Registered Voters,,,,2016,2016,2016,,2016
+Lenawee,"Clinton Township, Precinct 1",Registered Voters,,,,1156,,,,
 Lenawee,"Clinton Township, Precinct 2",Ballots Cast,,,,1473,99,902,,472
 Lenawee,"Clinton Township, Precinct 2",Straight Party,,DEM,Democratic Party,310,23,141,,146
 Lenawee,"Clinton Township, Precinct 2",Straight Party,,REP,Republican Party,414,39,268,,107
@@ -1043,7 +1042,7 @@ Lenawee,"Clinton Township, Precinct 2",Justice of Supreme Court,,,Write-Ins,12,1
 Lenawee,"Clinton Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,699,45,422,,232
 Lenawee,"Clinton Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,372,30,250,,92
 Lenawee,"Clinton Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,9,1,6,,2
-Lenawee,"Deerfield Township, Precinct 1",Registered Voters,,,,1286,1286,1286,,1286
+Lenawee,"Clinton Township, Precinct 2",Registered Voters,,,,2016,,,,
 Lenawee,"Deerfield Township, Precinct 1",Ballots Cast,,,,892,68,824,,0
 Lenawee,"Deerfield Township, Precinct 1",Straight Party,,DEM,Democratic Party,120,10,110,,0
 Lenawee,"Deerfield Township, Precinct 1",Straight Party,,REP,Republican Party,354,35,319,,0
@@ -1098,7 +1097,7 @@ Lenawee,"Deerfield Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,13
 Lenawee,"Deerfield Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,333,27,306,,0
 Lenawee,"Deerfield Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,284,24,260,,0
 Lenawee,"Deerfield Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,14,0,14,,0
-Lenawee,"Dover Township, Precinct 1",Registered Voters,,,,1467,1467,1467,,1467
+Lenawee,"Deerfield Township, Precinct 1",Registered Voters,,,,1286,,,,
 Lenawee,"Dover Township, Precinct 1",Ballots Cast,,,,956,72,884,,0
 Lenawee,"Dover Township, Precinct 1",Straight Party,,DEM,Democratic Party,127,10,117,,0
 Lenawee,"Dover Township, Precinct 1",Straight Party,,REP,Republican Party,385,35,350,,0
@@ -1153,7 +1152,7 @@ Lenawee,"Dover Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,11,0,1
 Lenawee,"Dover Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,367,20,347,,0
 Lenawee,"Dover Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,323,27,296,,0
 Lenawee,"Dover Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,18,0,18,,0
-Lenawee,"Fairfield Township, Precinct 1",Registered Voters,,,,1351,1351,1351,,1351
+Lenawee,"Dover Township, Precinct 1",Registered Voters,,,,1467,,,,
 Lenawee,"Fairfield Township, Precinct 1",Ballots Cast,,,,914,298,430,,186
 Lenawee,"Fairfield Township, Precinct 1",Straight Party,,DEM,Democratic Party,140,36,44,,60
 Lenawee,"Fairfield Township, Precinct 1",Straight Party,,REP,Republican Party,378,149,184,,45
@@ -1208,7 +1207,7 @@ Lenawee,"Fairfield Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,9,
 Lenawee,"Fairfield Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,335,93,152,,90
 Lenawee,"Fairfield Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,353,126,177,,50
 Lenawee,"Fairfield Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,11,4,6,,1
-Lenawee,"Franklin Township, Precinct 1",Registered Voters,,,,2782,2782,2782,,2782
+Lenawee,"Fairfield Township, Precinct 1",Registered Voters,,,,1351,,,,
 Lenawee,"Franklin Township, Precinct 1",Ballots Cast,,,,2086,192,993,,901
 Lenawee,"Franklin Township, Precinct 1",Straight Party,,DEM,Democratic Party,345,27,97,,221
 Lenawee,"Franklin Township, Precinct 1",Straight Party,,REP,Republican Party,775,85,439,,251
@@ -1263,7 +1262,7 @@ Lenawee,"Franklin Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,21,
 Lenawee,"Franklin Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,795,58,332,,405
 Lenawee,"Franklin Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,658,73,344,,241
 Lenawee,"Franklin Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,21,3,15,,3
-Lenawee,"Hudson Township, Precinct 1",Registered Voters,,,,1315,1315,1315,,1315
+Lenawee,"Franklin Township, Precinct 1",Registered Voters,,,,2782,,,,
 Lenawee,"Hudson Township, Precinct 1",Ballots Cast,,,,939,93,571,,275
 Lenawee,"Hudson Township, Precinct 1",Straight Party,,DEM,Democratic Party,135,8,54,,73
 Lenawee,"Hudson Township, Precinct 1",Straight Party,,REP,Republican Party,418,50,263,,105
@@ -1318,7 +1317,7 @@ Lenawee,"Hudson Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,8,1,7
 Lenawee,"Hudson Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,285,28,155,,102
 Lenawee,"Hudson Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,352,42,226,,84
 Lenawee,"Hudson Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,8,1,6,,1
-Lenawee,"Macon Township, Precinct 1",Registered Voters,,,,1134,1134,1134,,1134
+Lenawee,"Hudson Township, Precinct 1",Registered Voters,,,,1315,,,,
 Lenawee,"Macon Township, Precinct 1",Ballots Cast,,,,911,48,863,,0
 Lenawee,"Macon Township, Precinct 1",Straight Party,,DEM,Democratic Party,116,5,111,,0
 Lenawee,"Macon Township, Precinct 1",Straight Party,,REP,Republican Party,363,20,343,,0
@@ -1373,7 +1372,7 @@ Lenawee,"Macon Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,7,0,7,
 Lenawee,"Macon Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,312,12,300,,0
 Lenawee,"Macon Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,352,19,333,,0
 Lenawee,"Macon Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,8,0,8,,0
-Lenawee,"Madison Charter Township, Precinct 1",Registered Voters,,,,2360,2360,2360,,2360
+Lenawee,"Macon Township, Precinct 1",Registered Voters,,,,1134,,,,
 Lenawee,"Madison Charter Township, Precinct 1",Ballots Cast,,,,1244,226,555,,463
 Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,DEM,Democratic Party,290,46,89,,155
 Lenawee,"Madison Charter Township, Precinct 1",Straight Party,,REP,Republican Party,413,94,193,,126
@@ -1428,7 +1427,7 @@ Lenawee,"Madison Charter Township, Precinct 1",Justice of Supreme Court,,,Write-
 Lenawee,"Madison Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,523,81,209,,233
 Lenawee,"Madison Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,337,64,157,,116
 Lenawee,"Madison Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,19,5,11,,3
-Lenawee,"Madison Charter Township, Precinct 2",Registered Voters,,,,1656,1656,1656,,1656
+Lenawee,"Madison Charter Township, Precinct 1",Registered Voters,,,,2360,,,,
 Lenawee,"Madison Charter Township, Precinct 2",Ballots Cast,,,,1200,222,461,,517
 Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,DEM,Democratic Party,163,21,38,,104
 Lenawee,"Madison Charter Township, Precinct 2",Straight Party,,REP,Republican Party,461,104,220,,137
@@ -1483,7 +1482,7 @@ Lenawee,"Madison Charter Township, Precinct 2",Justice of Supreme Court,,,Write-
 Lenawee,"Madison Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,468,70,161,,237
 Lenawee,"Madison Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,384,81,171,,132
 Lenawee,"Madison Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,14,4,7,,3
-Lenawee,"Madison Charter Township, Precinct 3",Registered Voters,,,,1436,1436,1436,,1436
+Lenawee,"Madison Charter Township, Precinct 2",Registered Voters,,,,1656,,,,
 Lenawee,"Madison Charter Township, Precinct 3",Ballots Cast,,,,1035,193,379,,463
 Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,DEM,Democratic Party,202,30,50,,122
 Lenawee,"Madison Charter Township, Precinct 3",Straight Party,,REP,Republican Party,344,88,138,,118
@@ -1538,7 +1537,7 @@ Lenawee,"Madison Charter Township, Precinct 3",Justice of Supreme Court,,,Write-
 Lenawee,"Madison Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Kyra Harris Bolden,417,55,121,,241
 Lenawee,"Madison Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Patrick William O'Grady,318,74,119,,125
 Lenawee,"Madison Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Write-Ins,18,3,12,,3
-Lenawee,"Medina Township, Precinct 1",Registered Voters,,,,953,953,953,,953
+Lenawee,"Madison Charter Township, Precinct 3",Registered Voters,,,,1436,,,,
 Lenawee,"Medina Township, Precinct 1",Ballots Cast,,,,573,35,538,,0
 Lenawee,"Medina Township, Precinct 1",Straight Party,,DEM,Democratic Party,71,6,65,,0
 Lenawee,"Medina Township, Precinct 1",Straight Party,,REP,Republican Party,237,18,219,,0
@@ -1593,7 +1592,7 @@ Lenawee,"Medina Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,6,2,4
 Lenawee,"Medina Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,193,11,182,,0
 Lenawee,"Medina Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,219,17,202,,0
 Lenawee,"Medina Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,7,2,5,,0
-Lenawee,"Ogden Township, Precinct 1",Registered Voters,,,,829,829,829,,829
+Lenawee,"Medina Township, Precinct 1",Registered Voters,,,,953,,,,
 Lenawee,"Ogden Township, Precinct 1",Ballots Cast,,,,614,39,575,,0
 Lenawee,"Ogden Township, Precinct 1",Straight Party,,DEM,Democratic Party,59,1,58,,0
 Lenawee,"Ogden Township, Precinct 1",Straight Party,,REP,Republican Party,234,23,211,,0
@@ -1648,7 +1647,7 @@ Lenawee,"Ogden Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,9,0,9,
 Lenawee,"Ogden Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,180,3,177,,0
 Lenawee,"Ogden Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,261,24,237,,0
 Lenawee,"Ogden Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,9,0,9,,0
-Lenawee,"Palmyra Township, Precinct 1",Registered Voters,,,,1788,1788,1788,,1788
+Lenawee,"Ogden Township, Precinct 1",Registered Voters,,,,829,,,,
 Lenawee,"Palmyra Township, Precinct 1",Ballots Cast,,,,1251,139,1112,,0
 Lenawee,"Palmyra Township, Precinct 1",Straight Party,,DEM,Democratic Party,189,25,164,,0
 Lenawee,"Palmyra Township, Precinct 1",Straight Party,,REP,Republican Party,479,57,422,,0
@@ -1703,7 +1702,7 @@ Lenawee,"Palmyra Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,7,2,
 Lenawee,"Palmyra Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,477,45,432,,0
 Lenawee,"Palmyra Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,411,55,356,,0
 Lenawee,"Palmyra Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,12,2,10,,0
-Lenawee,"Raisin Charter Township, Precinct 1",Registered Voters,,,,2644,2644,2644,,2644
+Lenawee,"Palmyra Township, Precinct 1",Registered Voters,,,,1788,,,,
 Lenawee,"Raisin Charter Township, Precinct 1",Ballots Cast,,,,1907,291,729,,887
 Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,DEM,Democratic Party,340,30,62,,248
 Lenawee,"Raisin Charter Township, Precinct 1",Straight Party,,REP,Republican Party,695,139,335,,221
@@ -1758,7 +1757,7 @@ Lenawee,"Raisin Charter Township, Precinct 1",Justice of Supreme Court,,,Write-I
 Lenawee,"Raisin Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,694,78,211,,405
 Lenawee,"Raisin Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,623,129,273,,221
 Lenawee,"Raisin Charter Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,20,3,14,,3
-Lenawee,"Raisin Charter Township, Precinct 2",Registered Voters,,,,2000,2000,2000,,2000
+Lenawee,"Raisin Charter Township, Precinct 1",Registered Voters,,,,2644,,,,
 Lenawee,"Raisin Charter Township, Precinct 2",Ballots Cast,,,,1455,231,656,,568
 Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,DEM,Democratic Party,290,27,104,,159
 Lenawee,"Raisin Charter Township, Precinct 2",Straight Party,,REP,Republican Party,454,97,214,,143
@@ -1813,7 +1812,7 @@ Lenawee,"Raisin Charter Township, Precinct 2",Justice of Supreme Court,,,Write-I
 Lenawee,"Raisin Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Kyra Harris Bolden,630,77,262,,291
 Lenawee,"Raisin Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Patrick William O'Grady,375,71,174,,130
 Lenawee,"Raisin Charter Township, Precinct 2",Justice of Supreme Court Partial,,,Write-Ins,22,3,17,,2
-Lenawee,"Raisin Charter Township, Precinct 3",Registered Voters,,,,2206,2206,2206,,2206
+Lenawee,"Raisin Charter Township, Precinct 2",Registered Voters,,,,2000,,,,
 Lenawee,"Raisin Charter Township, Precinct 3",Ballots Cast,,,,1640,220,752,,668
 Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,DEM,Democratic Party,337,33,88,,216
 Lenawee,"Raisin Charter Township, Precinct 3",Straight Party,,REP,Republican Party,511,94,260,,157
@@ -1868,7 +1867,7 @@ Lenawee,"Raisin Charter Township, Precinct 3",Justice of Supreme Court,,,Write-I
 Lenawee,"Raisin Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Kyra Harris Bolden,623,73,235,,315
 Lenawee,"Raisin Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Patrick William O'Grady,498,86,242,,170
 Lenawee,"Raisin Charter Township, Precinct 3",Justice of Supreme Court Partial,,,Write-Ins,24,3,15,,6
-Lenawee,"Ridgeway Township, Precinct 1",Registered Voters,,,,1271,1271,1271,,1271
+Lenawee,"Raisin Charter Township, Precinct 3",Registered Voters,,,,2206,,,,
 Lenawee,"Ridgeway Township, Precinct 1",Ballots Cast,,,,898,50,848,,0
 Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,DEM,Democratic Party,132,8,124,,0
 Lenawee,"Ridgeway Township, Precinct 1",Straight Party,,REP,Republican Party,350,23,327,,0
@@ -1923,7 +1922,7 @@ Lenawee,"Ridgeway Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,15,
 Lenawee,"Ridgeway Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,332,14,318,,0
 Lenawee,"Ridgeway Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,339,17,322,,0
 Lenawee,"Ridgeway Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,16,1,15,,0
-Lenawee,"Riga Township, Precinct 1",Registered Voters,,,,1184,1184,1184,,1184
+Lenawee,"Ridgeway Township, Precinct 1",Registered Voters,,,,1271,,,,
 Lenawee,"Riga Township, Precinct 1",Ballots Cast,,,,844,49,795,,0
 Lenawee,"Riga Township, Precinct 1",Straight Party,,DEM,Democratic Party,98,1,97,,0
 Lenawee,"Riga Township, Precinct 1",Straight Party,,REP,Republican Party,292,20,272,,0
@@ -1978,7 +1977,7 @@ Lenawee,"Riga Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,12,1,11
 Lenawee,"Riga Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,260,12,248,,0
 Lenawee,"Riga Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,334,28,306,,0
 Lenawee,"Riga Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,13,1,12,,0
-Lenawee,"Rollin Township, Precinct 1",Registered Voters,,,,2839,2839,2839,,2839
+Lenawee,"Riga Township, Precinct 1",Registered Voters,,,,1184,,,,
 Lenawee,"Rollin Township, Precinct 1",Ballots Cast,,,,1988,228,1052,,708
 Lenawee,"Rollin Township, Precinct 1",Straight Party,,DEM,Democratic Party,273,20,113,,140
 Lenawee,"Rollin Township, Precinct 1",Straight Party,,REP,Republican Party,780,108,467,,205
@@ -2033,7 +2032,7 @@ Lenawee,"Rollin Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,16,0,
 Lenawee,"Rollin Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,809,72,418,,319
 Lenawee,"Rollin Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,704,99,415,,190
 Lenawee,"Rollin Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,20,2,15,,3
-Lenawee,"Rome Township, Precinct 1",Registered Voters,,,,1576,1576,1576,,1576
+Lenawee,"Rollin Township, Precinct 1",Registered Voters,,,,2839,,,,
 Lenawee,"Rome Township, Precinct 1",Ballots Cast,,,,1098,166,932,,0
 Lenawee,"Rome Township, Precinct 1",Straight Party,,DEM,Democratic Party,121,23,98,,0
 Lenawee,"Rome Township, Precinct 1",Straight Party,,REP,Republican Party,462,74,388,,0
@@ -2088,7 +2087,7 @@ Lenawee,"Rome Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,14,0,14
 Lenawee,"Rome Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,353,50,303,,0
 Lenawee,"Rome Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,429,69,360,,0
 Lenawee,"Rome Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,15,0,15,,0
-Lenawee,"Seneca Township, Precinct 1",Registered Voters,,,,910,910,910,,910
+Lenawee,"Rome Township, Precinct 1",Registered Voters,,,,1576,,,,
 Lenawee,"Seneca Township, Precinct 1",Ballots Cast,,,,595,35,560,,0
 Lenawee,"Seneca Township, Precinct 1",Straight Party,,DEM,Democratic Party,88,5,83,,0
 Lenawee,"Seneca Township, Precinct 1",Straight Party,,REP,Republican Party,259,20,239,,0
@@ -2143,7 +2142,7 @@ Lenawee,"Seneca Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,6,0,6
 Lenawee,"Seneca Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,206,11,195,,0
 Lenawee,"Seneca Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,170,12,158,,0
 Lenawee,"Seneca Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,9,0,9,,0
-Lenawee,"Tecumseh Township, Precinct 1",Registered Voters,,,,1878,1878,1878,,1878
+Lenawee,"Seneca Township, Precinct 1",Registered Voters,,,,910,,,,
 Lenawee,"Tecumseh Township, Precinct 1",Ballots Cast,,,,1377,191,1186,,0
 Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,DEM,Democratic Party,248,17,231,,0
 Lenawee,"Tecumseh Township, Precinct 1",Straight Party,,REP,Republican Party,438,70,368,,0
@@ -2198,7 +2197,7 @@ Lenawee,"Tecumseh Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,15,
 Lenawee,"Tecumseh Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,540,63,477,,0
 Lenawee,"Tecumseh Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,447,80,367,,0
 Lenawee,"Tecumseh Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,16,3,13,,0
-Lenawee,"Woodstock Township, Precinct 1",Registered Voters,,,,3404,3404,3404,,3404
+Lenawee,"Tecumseh Township, Precinct 1",Registered Voters,,,,1878,,,,
 Lenawee,"Woodstock Township, Precinct 1",Ballots Cast,,,,2245,233,1139,,873
 Lenawee,"Woodstock Township, Precinct 1",Straight Party,,DEM,Democratic Party,297,29,84,,184
 Lenawee,"Woodstock Township, Precinct 1",Straight Party,,REP,Republican Party,866,98,487,,281
@@ -2253,3 +2252,4 @@ Lenawee,"Woodstock Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,34
 Lenawee,"Woodstock Township, Precinct 1",Justice of Supreme Court Partial,,,Kyra Harris Bolden,796,76,352,,368
 Lenawee,"Woodstock Township, Precinct 1",Justice of Supreme Court Partial,,,Patrick William O'Grady,709,92,380,,237
 Lenawee,"Woodstock Township, Precinct 1",Justice of Supreme Court Partial,,,Write-Ins,34,1,29,,4
+Lenawee,"Woodstock Township, Precinct 1",Registered Voters,,,,3404,,,,

@@ -1,0 +1,550 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional,mail
+Montmorency,"Albert Township, Precinct 1",Ballots Cast,,,,1728,224,739,,765
+Montmorency,"Albert Township, Precinct 1",Straight Party,,DEM,Democraty Party,273,17,93,,163
+Montmorency,"Albert Township, Precinct 1",Straight Party,,REP,Republican Party,775,133,389,,253
+Montmorency,"Albert Township, Precinct 1",Straight Party,,LIB,Libertarian Party,2,1,1,,0
+Montmorency,"Albert Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,1,0,1,,0
+Montmorency,"Albert Township, Precinct 1",Straight Party,,GRN,Green Party,1,1,0,,0
+Montmorency,"Albert Township, Precinct 1",Straight Party,,WCP,Working Class Party,2,0,0,,2
+Montmorency,"Albert Township, Precinct 1",Straight Party,,NLP,Natural Law Party,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,523,36,156,,331
+Montmorency,"Albert Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,1173,187,570,,416
+Montmorency,"Albert Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,7,1,3,,3
+Montmorency,"Albert Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,1,0,0,,1
+Montmorency,"Albert Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,4,0,3,,1
+Montmorency,"Albert Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,6,0,3,,3
+Montmorency,"Albert Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,2,0,0,,2
+Montmorency,"Albert Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",President,,,Write-Ins,7,0,2,,5
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,509,33,157,,319
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,1135,183,539,,413
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,19,2,10,,7
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,UST,Dave Stein,13,0,4,,9
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,1,1,,1
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,7,0,7,,0
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Albert Township, Precinct 1",U.S. Senate,,,Write-Ins,1,0,1,,0
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,DEM,Callie Barr,491,34,146,,311
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,REP,Jack Bergman,1148,180,541,,427
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,22,4,8,,10
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,27,1,23,,3
+Montmorency,"Albert Township, Precinct 1",U.S. House,1,,Write-Ins,3,0,2,,1
+Montmorency,"Albert Township, Precinct 1",State House,106,DEM,Trina Borenstein,480,30,153,,297
+Montmorency,"Albert Township, Precinct 1",State House,106,REP,Cam Cavitt,1168,184,554,,430
+Montmorency,"Albert Township, Precinct 1",State House,106,,Write-Ins,3,2,1,,0
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,660,96,184,,380
+Montmorency,"Albert Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,26,8,8,,10
+Montmorency,"Albert Township, Precinct 1",Country Sheriff,,REP,Chad Brown,1309,190,586,,533
+Montmorency,"Albert Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,3,0,2,,1
+Montmorency,"Albert Township, Precinct 1",Country Sheriff,,,Write-Ins,25,5,8,,12
+Montmorency,"Albert Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,1310,189,582,,539
+Montmorency,"Albert Township, Precinct 1",County Clerk,,,Write-Ins,12,2,5,,5
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,1279,187,583,,509
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,24,9,7,,8
+Montmorency,"Albert Township, Precinct 1",County Treasurer,,,Write-Ins,13,0,5,,8
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,1302,192,584,,526
+Montmorency,"Albert Township, Precinct 1",County Register of Deeds,,,Write-Ins,10,0,3,,7
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,1277,192,582,,503
+Montmorency,"Albert Township, Precinct 1",County Road Commissioner,,,Write-Ins,10,1,2,,7
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,642,82,313,,247
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,574,56,243,,275
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,17,4,10,,3
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,645,81,252,,312
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,551,71,250,,230
+Montmorency,"Albert Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,20,3,14,,3
+Montmorency,"Albert Township, Precinct 1",Registered Voters,,,,2530,,,,
+Montmorency,"Avery Township, Precinct 1",Ballots Cast,,,,441,78,363,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,DEM,Democraty Party,59,15,44,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,REP,Republican Party,178,37,141,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,LIB,Libertarian Party,3,0,3,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,1,0,1,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,GRN,Green Party,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,WCP,Working Class Party,2,0,2,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,NLP,Natural Law Party,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,105,26,79,,0
+Montmorency,"Avery Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,321,52,269,,0
+Montmorency,"Avery Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,7,0,7,,0
+Montmorency,"Avery Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,2,0,2,,0
+Montmorency,"Avery Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,2,0,2,,0
+Montmorency,"Avery Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,3,0,3,,0
+Montmorency,"Avery Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,1,0,1,,0
+Montmorency,"Avery Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",President,,,Write-Ins,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,98,25,73,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,310,50,260,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,6,0,6,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,UST,Dave Stein,5,1,4,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. Senate,,,Write-Ins,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,DEM,Callie Barr,103,26,77,,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,REP,Jack Bergman,306,48,258,,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10,0,10,,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,2,1,1,,0
+Montmorency,"Avery Township, Precinct 1",U.S. House,1,,Write-Ins,0,0,0,,0
+Montmorency,"Avery Township, Precinct 1",State House,106,DEM,Trina Borenstein,98,25,73,,0
+Montmorency,"Avery Township, Precinct 1",State House,106,REP,Cam Cavitt,312,49,263,,0
+Montmorency,"Avery Township, Precinct 1",State House,106,,Write-Ins,3,0,3,,0
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,226,36,190,,0
+Montmorency,"Avery Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,7,1,6,,0
+Montmorency,"Avery Township, Precinct 1",Country Sheriff,,REP,Chad Brown,342,66,276,,0
+Montmorency,"Avery Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,25,0,25,,0
+Montmorency,"Avery Township, Precinct 1",Country Sheriff,,,Write-Ins,5,2,3,,0
+Montmorency,"Avery Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,336,61,275,,0
+Montmorency,"Avery Township, Precinct 1",County Clerk,,,Write-Ins,12,0,12,,0
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,302,59,243,,0
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,63,6,57,,0
+Montmorency,"Avery Township, Precinct 1",County Treasurer,,,Write-Ins,5,0,5,,0
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,347,62,285,,0
+Montmorency,"Avery Township, Precinct 1",County Register of Deeds,,,Write-Ins,5,0,5,,0
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,329,55,274,,0
+Montmorency,"Avery Township, Precinct 1",County Road Commissioner,,,Write-Ins,2,1,1,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,160,25,135,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,131,25,106,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,4,0,4,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,119,22,97,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,180,31,149,,0
+Montmorency,"Avery Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,5,0,5,,0
+Montmorency,"Avery Township, Precinct 1",Registered Voters,,,,636,,,,
+Montmorency,"Briley Township, Precinct 1",Ballots Cast,,,,1206,440,766,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,DEM,Democraty Party,136,42,94,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,REP,Republican Party,540,223,317,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,LIB,Libertarian Party,6,2,4,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,7,3,4,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,GRN,Green Party,1,0,1,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,WCP,Working Class Party,4,2,2,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,NLP,Natural Law Party,1,0,1,,0
+Montmorency,"Briley Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,299,90,209,,0
+Montmorency,"Briley Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,884,346,538,,0
+Montmorency,"Briley Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,4,1,3,,0
+Montmorency,"Briley Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,3,0,3,,0
+Montmorency,"Briley Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,12,2,10,,0
+Montmorency,"Briley Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",President,,,Write-Ins,1,0,1,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,287,91,196,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,849,335,514,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,9,1,8,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,UST,Dave Stein,20,4,16,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,5,1,4,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5,2,3,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",U.S. Senate,,,Write-Ins,0,0,0,,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,DEM,Callie Barr,276,88,188,,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,REP,Jack Bergman,852,331,521,,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,18,5,13,,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,24,7,17,,0
+Montmorency,"Briley Township, Precinct 1",U.S. House,1,,Write-Ins,3,0,3,,0
+Montmorency,"Briley Township, Precinct 1",State House,106,DEM,Trina Borenstein,265,81,184,,0
+Montmorency,"Briley Township, Precinct 1",State House,106,REP,Cam Cavitt,869,340,529,,0
+Montmorency,"Briley Township, Precinct 1",State House,106,,Write-Ins,3,0,3,,0
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,646,220,426,,0
+Montmorency,"Briley Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,24,7,17,,0
+Montmorency,"Briley Township, Precinct 1",Country Sheriff,,REP,Chad Brown,985,357,628,,0
+Montmorency,"Briley Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,56,33,23,,0
+Montmorency,"Briley Township, Precinct 1",Country Sheriff,,,Write-Ins,15,0,15,,0
+Montmorency,"Briley Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,963,360,603,,0
+Montmorency,"Briley Township, Precinct 1",County Clerk,,,Write-Ins,39,16,23,,0
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,904,332,572,,0
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,130,56,74,,0
+Montmorency,"Briley Township, Precinct 1",County Treasurer,,,Write-Ins,11,0,11,,0
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,983,368,615,,0
+Montmorency,"Briley Township, Precinct 1",County Register of Deeds,,,Write-Ins,20,9,11,,0
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,954,359,595,,0
+Montmorency,"Briley Township, Precinct 1",County Road Commissioner,,,Write-Ins,16,6,10,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,452,186,266,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,360,112,248,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,12,4,8,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,395,117,278,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,437,184,253,,0
+Montmorency,"Briley Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,14,6,8,,0
+Montmorency,"Briley Township, Precinct 1",Registered Voters,,,,1914,,,,
+Montmorency,"Hillman Township, Precinct 1",Ballots Cast,,,,1243,153,1090,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,DEM,Democraty Party,132,14,118,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,REP,Republican Party,432,77,355,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,LIB,Libertarian Party,5,1,4,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,2,0,2,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,GRN,Green Party,1,0,1,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,WCP,Working Class Party,3,0,3,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,NLP,Natural Law Party,1,0,1,,0
+Montmorency,"Hillman Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,316,28,288,,0
+Montmorency,"Hillman Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,896,122,774,,0
+Montmorency,"Hillman Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,3,1,2,,0
+Montmorency,"Hillman Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,2,0,2,,0
+Montmorency,"Hillman Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,11,1,10,,0
+Montmorency,"Hillman Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,1,0,1,,0
+Montmorency,"Hillman Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",President,,,Write-Ins,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,306,27,279,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,870,122,748,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,13,2,11,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,UST,Dave Stein,15,1,14,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,4,0,4,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. Senate,,,Write-Ins,1,0,1,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,DEM,Callie Barr,302,28,274,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,REP,Jack Bergman,858,119,739,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,15,2,13,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,29,1,28,,0
+Montmorency,"Hillman Township, Precinct 1",U.S. House,1,,Write-Ins,5,1,4,,0
+Montmorency,"Hillman Township, Precinct 1",State House,106,DEM,Trina Borenstein,289,26,263,,0
+Montmorency,"Hillman Township, Precinct 1",State House,106,REP,Cam Cavitt,886,121,765,,0
+Montmorency,"Hillman Township, Precinct 1",State House,106,,Write-Ins,9,3,6,,0
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,689,68,621,,0
+Montmorency,"Hillman Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,16,2,14,,0
+Montmorency,"Hillman Township, Precinct 1",Country Sheriff,,REP,Chad Brown,1005,118,887,,0
+Montmorency,"Hillman Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,43,11,32,,0
+Montmorency,"Hillman Township, Precinct 1",Country Sheriff,,,Write-Ins,12,4,8,,0
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,982,116,866,,0
+Montmorency,"Hillman Township, Precinct 1",County Clerk,,,Write-Ins,32,7,25,,0
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,966,119,847,,0
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,65,15,50,,0
+Montmorency,"Hillman Township, Precinct 1",County Treasurer,,,Write-Ins,10,0,10,,0
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,1016,129,887,,0
+Montmorency,"Hillman Township, Precinct 1",County Register of Deeds,,,Write-Ins,7,1,6,,0
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,999,130,869,,0
+Montmorency,"Hillman Township, Precinct 1",County Road Commissioner,,,Write-Ins,11,1,10,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,407,60,347,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,417,49,368,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,10,1,9,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,398,48,350,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,451,61,390,,0
+Montmorency,"Hillman Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,10,2,8,,0
+Montmorency,"Hillman Township, Precinct 1",Registered Voters,,,,1863,,,,
+Montmorency,"Loud Township, Precinct 1",Ballots Cast,,,,211,31,180,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,DEM,Democraty Party,24,2,22,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,REP,Republican Party,98,21,77,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,LIB,Libertarian Party,1,0,1,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,GRN,Green Party,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,WCP,Working Class Party,3,0,3,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,NLP,Natural Law Party,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,52,6,46,,0
+Montmorency,"Loud Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,156,24,132,,0
+Montmorency,"Loud Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,1,0,1,,0
+Montmorency,"Loud Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,2,1,1,,0
+Montmorency,"Loud Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",President,,,Write-Ins,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,49,7,42,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,149,23,126,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,4,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,0,2,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,2,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. Senate,,,Write-Ins,1,1,0,,0
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,DEM,Callie Barr,46,5,41,,0
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,REP,Jack Bergman,157,25,132,,0
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,2,,0
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,0,3,,0
+Montmorency,"Loud Township, Precinct 1",U.S. House,1,,Write-Ins,1,1,0,,0
+Montmorency,"Loud Township, Precinct 1",State House,106,DEM,Trina Borenstein,48,5,43,,0
+Montmorency,"Loud Township, Precinct 1",State House,106,REP,Cam Cavitt,154,24,130,,0
+Montmorency,"Loud Township, Precinct 1",State House,106,,Write-Ins,1,1,0,,0
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,121,11,110,,0
+Montmorency,"Loud Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,7,3,4,,0
+Montmorency,"Loud Township, Precinct 1",Country Sheriff,,REP,Chad Brown,178,29,149,,0
+Montmorency,"Loud Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,4,0,4,,0
+Montmorency,"Loud Township, Precinct 1",Country Sheriff,,,Write-Ins,3,1,2,,0
+Montmorency,"Loud Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,174,27,147,,0
+Montmorency,"Loud Township, Precinct 1",County Clerk,,,Write-Ins,7,3,4,,0
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,168,27,141,,0
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,8,4,4,,0
+Montmorency,"Loud Township, Precinct 1",County Treasurer,,,Write-Ins,1,0,1,,0
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,173,27,146,,0
+Montmorency,"Loud Township, Precinct 1",County Register of Deeds,,,Write-Ins,4,3,1,,0
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,169,25,144,,0
+Montmorency,"Loud Township, Precinct 1",County Road Commissioner,,,Write-Ins,4,3,1,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,81,9,72,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,61,4,57,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,2,2,0,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,78,5,73,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,72,10,62,,0
+Montmorency,"Loud Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,2,2,0,,0
+Montmorency,"Loud Township, Precinct 1",Registered Voters,,,,294,,,,
+Montmorency,"Montmorency Township, Precinct 1",Ballots Cast,,,,459,51,408,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,DEM,Democraty Party,57,4,53,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,REP,Republican Party,166,23,143,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,LIB,Libertarian Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,GRN,Green Party,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,WCP,Working Class Party,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,NLP,Natural Law Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,115,6,109,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,330,45,285,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",President,,,Write-Ins,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,113,6,107,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,329,45,284,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,4,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. Senate,,,Write-Ins,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,DEM,Callie Barr,115,7,108,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,REP,Jack Bergman,314,43,271,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,5,0,5,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,9,1,8,,0
+Montmorency,"Montmorency Township, Precinct 1",U.S. House,1,,Write-Ins,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 1",State House,106,DEM,Trina Borenstein,108,7,101,,0
+Montmorency,"Montmorency Township, Precinct 1",State House,106,REP,Cam Cavitt,327,42,285,,0
+Montmorency,"Montmorency Township, Precinct 1",State House,106,,Write-Ins,2,0,2,,0
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,258,20,238,,0
+Montmorency,"Montmorency Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,4,1,3,,0
+Montmorency,"Montmorency Township, Precinct 1",Country Sheriff,,REP,Chad Brown,362,40,322,,0
+Montmorency,"Montmorency Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,21,10,11,,0
+Montmorency,"Montmorency Township, Precinct 1",Country Sheriff,,,Write-Ins,9,0,9,,0
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,360,41,319,,0
+Montmorency,"Montmorency Township, Precinct 1",County Clerk,,,Write-Ins,8,1,7,,0
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,332,42,290,,0
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,32,4,28,,0
+Montmorency,"Montmorency Township, Precinct 1",County Treasurer,,,Write-Ins,5,0,5,,0
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,363,42,321,,0
+Montmorency,"Montmorency Township, Precinct 1",County Register of Deeds,,,Write-Ins,4,1,3,,0
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,358,42,316,,0
+Montmorency,"Montmorency Township, Precinct 1",County Road Commissioner,,,Write-Ins,9,1,8,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,157,26,131,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,150,13,137,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,142,11,131,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,180,26,154,,0
+Montmorency,"Montmorency Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 1",Registered Voters,,,,592,,,,
+Montmorency,"Montmorency Township, Precinct 2",Ballots Cast,,,,410,101,309,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,DEM,Democraty Party,63,13,50,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,REP,Republican Party,167,55,112,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,LIB,Libertarian Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,UST,U.S. Taxpayers Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,GRN,Green Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,WCP,Working Class Party,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,NLP,Natural Law Party,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 2",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,DEM,Kamala D. Harris / Tim Walz,119,16,103,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,REP,Donald J. Trump / JD Vance,284,85,199,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,LIB,Chase Oliver / Mike ter Maat,2,0,2,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,GRN,Jill Stein / Rudolph Ware,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,NLP,Robert F. Kennedy / Nicole Shanahan,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,NPA,Cornel West / Melina Abdullah,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",President,,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,DEM,Elissa Slotkin,122,16,106,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,REP,Mike Rogers,276,84,192,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,UST,Dave Stein,1,0,1,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,GRN,Douglas P. Marsh,2,0,2,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,NLP,Doug Dern,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. Senate,,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,DEM,Callie Barr,113,16,97,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,REP,Jack Bergman,285,83,202,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,LIB,Andrew Gale,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,WCP,Liz Hakola,5,1,4,,0
+Montmorency,"Montmorency Township, Precinct 2",U.S. House,1,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",State House,106,DEM,Trina Borenstein,113,16,97,,0
+Montmorency,"Montmorency Township, Precinct 2",State House,106,REP,Cam Cavitt,283,83,200,,0
+Montmorency,"Montmorency Township, Precinct 2",State House,106,,Write-Ins,0,0,0,,0
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,194,38,156,,0
+Montmorency,"Montmorency Township, Precinct 2",County Prosecuting Attorney,,,Write-Ins,3,1,2,,0
+Montmorency,"Montmorency Township, Precinct 2",Country Sheriff,,REP,Chad Brown,315,77,238,,0
+Montmorency,"Montmorency Township, Precinct 2",Country Sheriff,,,Mike Karll Qualified Write-In,18,12,6,,0
+Montmorency,"Montmorency Township, Precinct 2",Country Sheriff,,,Write-Ins,3,0,3,,0
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,REP,Cheryl A. Neilsen,317,82,235,,0
+Montmorency,"Montmorency Township, Precinct 2",County Clerk,,,Write-Ins,4,2,2,,0
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,REP,Linsey Rogers,297,76,221,,0
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,,Cheri Eggett Qualified Write-In,24,9,15,,0
+Montmorency,"Montmorency Township, Precinct 2",County Treasurer,,,Write-Ins,9,7,2,,0
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,REP,Teresa Walker,321,87,234,,0
+Montmorency,"Montmorency Township, Precinct 2",County Register of Deeds,,,Write-Ins,2,2,0,,0
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,REP,Charles A. Arbour,314,86,228,,0
+Montmorency,"Montmorency Township, Precinct 2",County Road Commissioner,,,Write-Ins,2,2,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court,,,Andrew Fink,152,35,117,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court,,,Kimberly Ann Thomas,130,26,104,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court,,,Write-Ins,3,2,1,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,148,25,123,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,144,40,104,,0
+Montmorency,"Montmorency Township, Precinct 2",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,2,2,0,,0
+Montmorency,"Montmorency Township, Precinct 2",Registered Voters,,,,482,,,,
+Montmorency,"Rust Township, Precinct 1",Ballots Cast,,,,339,44,295,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,DEM,Democraty Party,35,0,35,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,REP,Republican Party,148,24,124,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,LIB,Libertarian Party,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,GRN,Green Party,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,WCP,Working Class Party,1,0,1,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,NLP,Natural Law Party,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,71,3,68,,0
+Montmorency,"Rust Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,264,41,223,,0
+Montmorency,"Rust Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,2,0,2,,0
+Montmorency,"Rust Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",President,,,Write-Ins,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,71,3,68,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,256,41,215,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,4,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,1,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. Senate,,,Write-Ins,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,DEM,Callie Barr,73,3,70,,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,REP,Jack Bergman,247,39,208,,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3,,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,4,1,3,,0
+Montmorency,"Rust Township, Precinct 1",U.S. House,1,,Write-Ins,0,0,0,,0
+Montmorency,"Rust Township, Precinct 1",State House,106,DEM,Trina Borenstein,71,3,68,,0
+Montmorency,"Rust Township, Precinct 1",State House,106,REP,Cam Cavitt,247,39,208,,0
+Montmorency,"Rust Township, Precinct 1",State House,106,,Write-Ins,3,0,3,,0
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,187,18,169,,0
+Montmorency,"Rust Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,5,0,5,,0
+Montmorency,"Rust Township, Precinct 1",Country Sheriff,,REP,Chad Brown,279,40,239,,0
+Montmorency,"Rust Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,9,0,9,,0
+Montmorency,"Rust Township, Precinct 1",Country Sheriff,,,Write-Ins,6,2,4,,0
+Montmorency,"Rust Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,276,41,235,,0
+Montmorency,"Rust Township, Precinct 1",County Clerk,,,Write-Ins,8,0,8,,0
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,262,38,224,,0
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,26,5,21,,0
+Montmorency,"Rust Township, Precinct 1",County Treasurer,,,Write-Ins,1,0,1,,0
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,284,42,242,,0
+Montmorency,"Rust Township, Precinct 1",County Register of Deeds,,,Write-Ins,2,0,2,,0
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,283,41,242,,0
+Montmorency,"Rust Township, Precinct 1",County Road Commissioner,,,Write-Ins,3,0,3,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,111,18,93,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,108,8,100,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,2,0,2,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,102,9,93,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,124,17,107,,0
+Montmorency,"Rust Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,2,0,2,,0
+Montmorency,"Rust Township, Precinct 1",Registered Voters,,,,465,,,,
+Montmorency,"Vienna Township, Precinct 1",Ballots Cast,,,,396,47,349,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,DEM,Democraty Party,47,6,41,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,REP,Republican Party,177,22,155,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,LIB,Libertarian Party,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers Party,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,GRN,Green Party,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,WCP,Working Class Party,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,NLP,Natural Law Party,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",Straight Party,,,Write-Ins,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,DEM,Kamala D. Harris / Tim Walz,102,7,95,,0
+Montmorency,"Vienna Township, Precinct 1",President,,REP,Donald J. Trump / JD Vance,291,40,251,,0
+Montmorency,"Vienna Township, Precinct 1",President,,LIB,Chase Oliver / Mike ter Maat,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",President,,UST,Randall Terry / Stephen E. Broden,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,GRN,Jill Stein / Rudolph Ware,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,NLP,Robert F. Kennedy / Nicole Shanahan,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",President,,NPA,Joseph Kishore / Jerry White,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,NPA,Cornel West / Melina Abdullah,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,,Jay J. Bowman Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,,Claudia De La Cruz Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,,Cherunda Lynn Fox Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,,Peter Sonski Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",President,,,Write-Ins,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,99,7,92,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,281,40,241,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,4,0,4,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,0,2,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,,James Chapman Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis Qualified Write-In,0,0,0,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. Senate,,,Write-Ins,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,DEM,Callie Barr,97,6,91,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,REP,Jack Bergman,277,38,239,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,1,3,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,8,2,6,,0
+Montmorency,"Vienna Township, Precinct 1",U.S. House,1,,Write-Ins,1,0,1,,0
+Montmorency,"Vienna Township, Precinct 1",State House,106,DEM,Trina Borenstein,88,7,81,,0
+Montmorency,"Vienna Township, Precinct 1",State House,106,REP,Cam Cavitt,290,39,251,,0
+Montmorency,"Vienna Township, Precinct 1",State House,106,,Write-Ins,2,0,2,,0
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,NPA,Vicki P. Kundinger,232,25,207,,0
+Montmorency,"Vienna Township, Precinct 1",County Prosecuting Attorney,,,Write-Ins,12,2,10,,0
+Montmorency,"Vienna Township, Precinct 1",Country Sheriff,,REP,Chad Brown,335,40,295,,0
+Montmorency,"Vienna Township, Precinct 1",Country Sheriff,,,Mike Karll Qualified Write-In,4,2,2,,0
+Montmorency,"Vienna Township, Precinct 1",Country Sheriff,,,Write-Ins,7,0,7,,0
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,REP,Cheryl A. Neilsen,337,38,299,,0
+Montmorency,"Vienna Township, Precinct 1",County Clerk,,,Write-Ins,7,1,6,,0
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,REP,Linsey Rogers,325,35,290,,0
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,,Cheri Eggett Qualified Write-In,8,0,8,,0
+Montmorency,"Vienna Township, Precinct 1",County Treasurer,,,Write-Ins,8,7,1,,0
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,REP,Teresa Walker,336,41,295,,0
+Montmorency,"Vienna Township, Precinct 1",County Register of Deeds,,,Write-Ins,2,1,1,,0
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,REP,Charles A. Arbour,327,41,286,,0
+Montmorency,"Vienna Township, Precinct 1",County Road Commissioner,,,Write-Ins,2,0,2,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court,,,Andrew Fink,155,23,132,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court,,,Kimberly Ann Thomas,124,12,112,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court,,,Write-Ins,5,0,5,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Kyra Harris Bolden,154,15,139,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Patrick William O'Grady,138,25,113,,0
+Montmorency,"Vienna Township, Precinct 1",Justice of Supreme Court Incumbent - Partial Term Ending 01/01/2029,,,Write-Ins,3,0,3,,0
+Montmorency,"Vienna Township, Precinct 1",Registered Voters,,,,558,,,,

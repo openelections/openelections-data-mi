@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,av_counting_boards,votes
 Iosco,"Alabaster Township, Precinct 1",President,,Ballots Cast,,303,47,0,350
-Iosco,"Alabaster Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,103,10,0,113
-Iosco,"Alabaster Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,191,37,0,228
-Iosco,"Alabaster Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Iosco,"Alabaster Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Iosco,"Alabaster Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
-Iosco,"Alabaster Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Iosco,"Alabaster Township, Precinct 1",President,,Kamala D. Harris /,Democrat,103,10,0,113
+Iosco,"Alabaster Township, Precinct 1",President,,Donald J. Trump /,Republican,191,37,0,228
+Iosco,"Alabaster Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,0,0,1
+Iosco,"Alabaster Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Iosco,"Alabaster Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,0,2
+Iosco,"Alabaster Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Iosco,"Alabaster Township, Precinct 1",President,,Write-in,,1,0,0,1
 Iosco,"Alabaster Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"Alabaster Township, Precinct 1",President,,Under Vote Count,,3,0,0,3
@@ -171,14 +171,14 @@ Iosco,"Alabaster Township, Precinct 1",Countywide Recycling Program Millage Prop
 Iosco,"Alabaster Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Alabaster Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,29,8,0,37
 Iosco,"Ausable Township, Precinct 1",President,,Ballots Cast,,1155,77,0,1232
-Iosco,"Ausable Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,429,21,0,450
-Iosco,"Ausable Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,695,56,0,751
-Iosco,"Ausable Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,8,0,0,8
-Iosco,"Ausable Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Iosco,"Ausable Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,7,0,0,7
-Iosco,"Ausable Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,0,4
-Iosco,"Ausable Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Iosco,"Ausable Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Iosco,"Ausable Township, Precinct 1",President,,Kamala D. Harris /,Democrat,429,21,0,450
+Iosco,"Ausable Township, Precinct 1",President,,Donald J. Trump /,Republican,695,56,0,751
+Iosco,"Ausable Township, Precinct 1",President,,Chase Oliver /,Libertarian,8,0,0,8
+Iosco,"Ausable Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Iosco,"Ausable Township, Precinct 1",President,,Jill Stein /,Green,7,0,0,7
+Iosco,"Ausable Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,0,4
+Iosco,"Ausable Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Iosco,"Ausable Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Iosco,"Ausable Township, Precinct 1",President,,Write-in,,5,0,0,5
 Iosco,"Ausable Township, Precinct 1",President,,Over Vote Count,,3,0,0,3
 Iosco,"Ausable Township, Precinct 1",President,,Under Vote Count,,4,0,0,4
@@ -354,10 +354,10 @@ Iosco,"Ausable Township, Precinct 1",Countywide Recycling Program Millage Propos
 Iosco,"Ausable Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Ausable Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,114,8,0,122
 Iosco,"Baldwin Township, Precinct 1",President,,Ballots Cast,,877,199,0,1076
-Iosco,"Baldwin Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,320,51,0,371
-Iosco,"Baldwin Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,541,146,0,687
-Iosco,"Baldwin Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Iosco,"Baldwin Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,0,7
+Iosco,"Baldwin Township, Precinct 1",President,,Kamala D. Harris /,Democrat,320,51,0,371
+Iosco,"Baldwin Township, Precinct 1",President,,Donald J. Trump /,Republican,541,146,0,687
+Iosco,"Baldwin Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,0,0,3
+Iosco,"Baldwin Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,1,0,7
 Iosco,"Baldwin Township, Precinct 1",President,,Write-in,,2,1,0,3
 Iosco,"Baldwin Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Iosco,"Baldwin Township, Precinct 1",President,,Under Vote Count,,4,0,0,4
@@ -539,11 +539,11 @@ Iosco,"Baldwin Township, Precinct 1",Countywide Recycling Program Millage Propos
 Iosco,"Baldwin Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Baldwin Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,85,20,0,105
 Iosco,"Burleigh Township, Precinct 1",President,,Ballots Cast,,326,52,0,378
-Iosco,"Burleigh Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,94,13,0,107
-Iosco,"Burleigh Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,226,38,0,264
-Iosco,"Burleigh Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,2
-Iosco,"Burleigh Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Iosco,"Burleigh Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,0,1
+Iosco,"Burleigh Township, Precinct 1",President,,Kamala D. Harris /,Democrat,94,13,0,107
+Iosco,"Burleigh Township, Precinct 1",President,,Donald J. Trump /,Republican,226,38,0,264
+Iosco,"Burleigh Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,1,0,2
+Iosco,"Burleigh Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Iosco,"Burleigh Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,0,0,1
 Iosco,"Burleigh Township, Precinct 1",President,,Write-in,,1,0,0,1
 Iosco,"Burleigh Township, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Iosco,"Burleigh Township, Precinct 1",President,,Under Vote Count,,0,0,0,0
@@ -716,13 +716,13 @@ Iosco,"Burleigh Township, Precinct 1",Countywide Recycling Program Millage Propo
 Iosco,"Burleigh Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Burleigh Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,56,8,0,64
 Iosco,"Grant Township, Precinct 1",President,,Ballots Cast,,858,195,0,1053
-Iosco,"Grant Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,290,36,0,326
-Iosco,"Grant Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,552,156,0,708
-Iosco,"Grant Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Iosco,"Grant Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Iosco,"Grant Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,1,0,2
-Iosco,"Grant Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,0,7
-Iosco,"Grant Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Iosco,"Grant Township, Precinct 1",President,,Kamala D. Harris /,Democrat,290,36,0,326
+Iosco,"Grant Township, Precinct 1",President,,Donald J. Trump /,Republican,552,156,0,708
+Iosco,"Grant Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,0,0,1
+Iosco,"Grant Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Iosco,"Grant Township, Precinct 1",President,,Jill Stein /,Green,1,1,0,2
+Iosco,"Grant Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,1,0,7
+Iosco,"Grant Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Iosco,"Grant Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"Grant Township, Precinct 1",President,,Under Vote Count,,6,1,0,7
 Iosco,"Grant Township, Precinct 1",U.S. Senate,,Ballots Cast,,858,195,0,1053
@@ -912,14 +912,14 @@ Iosco,"Grant Township, Precinct 1",Hale Area Schools Sinking Fund Millage Propos
 Iosco,"Grant Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Grant Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Under Vote Count,,1,1,0,2
 Iosco,"Oscoda Township, Precinct 1",President,,Ballots Cast,,645,158,687,1490
-Iosco,"Oscoda Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,165,35,361,561
-Iosco,"Oscoda Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,466,122,309,897
-Iosco,"Oscoda Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,2,8
-Iosco,"Oscoda Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
-Iosco,"Oscoda Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,3,5
-Iosco,"Oscoda Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,5,8
-Iosco,"Oscoda Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Iosco,"Oscoda Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Iosco,"Oscoda Township, Precinct 1",President,,Kamala D. Harris /,Democrat,165,35,361,561
+Iosco,"Oscoda Township, Precinct 1",President,,Donald J. Trump /,Republican,466,122,309,897
+Iosco,"Oscoda Township, Precinct 1",President,,Chase Oliver /,Libertarian,5,1,2,8
+Iosco,"Oscoda Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,2,2
+Iosco,"Oscoda Township, Precinct 1",President,,Jill Stein /,Green,2,0,3,5
+Iosco,"Oscoda Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,5,8
+Iosco,"Oscoda Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Iosco,"Oscoda Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Iosco,"Oscoda Township, Precinct 1",President,,Write-in,,2,0,0,2
 Iosco,"Oscoda Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Iosco,"Oscoda Township, Precinct 1",President,,Under Vote Count,,1,0,4,5
@@ -1097,13 +1097,13 @@ Iosco,"Oscoda Township, Precinct 1",Oscoda Township Fire Operational/Equipment M
 Iosco,"Oscoda Township, Precinct 1",Oscoda Township Fire Operational/Equipment Millage,,Over Vote Count,,0,0,0,0
 Iosco,"Oscoda Township, Precinct 1",Oscoda Township Fire Operational/Equipment Millage,,Under Vote Count,,62,13,39,114
 Iosco,"Oscoda Township, Precinct 2",President,,Ballots Cast,,212,65,247,524
-Iosco,"Oscoda Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,34,14,120,168
-Iosco,"Oscoda Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,175,51,123,349
-Iosco,"Oscoda Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,1,2
+Iosco,"Oscoda Township, Precinct 2",President,,Kamala D. Harris /,Democrat,34,14,120,168
+Iosco,"Oscoda Township, Precinct 2",President,,Donald J. Trump /,Republican,175,51,123,349
+Iosco,"Oscoda Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,0,1,2
 Iosco,"Oscoda Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Iosco,"Oscoda Township, Precinct 2",President,,Under Vote Count,,2,0,0,2
-Iosco,"Oscoda Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,0,0,1,1
-Iosco,"Oscoda Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
+Iosco,"Oscoda Township, Precinct 2",President,,Chase Oliver /,Libertarian,0,0,1,1
+Iosco,"Oscoda Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
 Iosco,"Oscoda Township, Precinct 2",U.S. Senate,,Ballots Cast,,212,65,247,524
 Iosco,"Oscoda Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,32,12,113,157
 Iosco,"Oscoda Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,162,49,118,329
@@ -1277,12 +1277,12 @@ Iosco,"Oscoda Township, Precinct 2",Oscoda Township Fire Operational/Equipment M
 Iosco,"Oscoda Township, Precinct 2",Oscoda Township Fire Operational/Equipment Millage,,Over Vote Count,,0,0,0,0
 Iosco,"Oscoda Township, Precinct 2",Oscoda Township Fire Operational/Equipment Millage,,Under Vote Count,,30,16,19,65
 Iosco,"Oscoda Township, Precinct 3",President,,Ballots Cast,,469,90,564,1123
-Iosco,"Oscoda Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,141,20,269,430
-Iosco,"Oscoda Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,317,70,282,669
-Iosco,"Oscoda Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,3,5
-Iosco,"Oscoda Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,2,3
-Iosco,"Oscoda Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,3,6
-Iosco,"Oscoda Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Iosco,"Oscoda Township, Precinct 3",President,,Kamala D. Harris /,Democrat,141,20,269,430
+Iosco,"Oscoda Township, Precinct 3",President,,Donald J. Trump /,Republican,317,70,282,669
+Iosco,"Oscoda Township, Precinct 3",President,,Chase Oliver /,Libertarian,2,0,3,5
+Iosco,"Oscoda Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,0,2,3
+Iosco,"Oscoda Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,3,6
+Iosco,"Oscoda Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Iosco,"Oscoda Township, Precinct 3",President,,Write-in,,1,0,2,3
 Iosco,"Oscoda Township, Precinct 3",President,,Over Vote Count,,2,0,0,2
 Iosco,"Oscoda Township, Precinct 3",President,,Under Vote Count,,1,0,3,4
@@ -1464,15 +1464,15 @@ Iosco,"Oscoda Township, Precinct 3",Oscoda Township Fire Operational/Equipment M
 Iosco,"Oscoda Township, Precinct 3",Oscoda Township Fire Operational/Equipment Millage,,Over Vote Count,,0,0,0,0
 Iosco,"Oscoda Township, Precinct 3",Oscoda Township Fire Operational/Equipment Millage,,Under Vote Count,,34,10,34,78
 Iosco,"Oscoda Township, Precinct 4",President,,Ballots Cast,,562,69,516,1147
-Iosco,"Oscoda Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,154,24,285,463
-Iosco,"Oscoda Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,392,45,218,655
-Iosco,"Oscoda Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,4,9
-Iosco,"Oscoda Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Iosco,"Oscoda Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,2,0,2,4
-Iosco,"Oscoda Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,3,8
+Iosco,"Oscoda Township, Precinct 4",President,,Kamala D. Harris /,Democrat,154,24,285,463
+Iosco,"Oscoda Township, Precinct 4",President,,Donald J. Trump /,Republican,392,45,218,655
+Iosco,"Oscoda Township, Precinct 4",President,,Chase Oliver /,Libertarian,5,0,4,9
+Iosco,"Oscoda Township, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,2,0,0,2
+Iosco,"Oscoda Township, Precinct 4",President,,Jill Stein /,Green,2,0,2,4
+Iosco,"Oscoda Township, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,3,8
 Iosco,"Oscoda Township, Precinct 4",President,,Over Vote Count,,0,0,1,1
 Iosco,"Oscoda Township, Precinct 4",President,,Under Vote Count,,2,0,1,3
-Iosco,"Oscoda Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Iosco,"Oscoda Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Iosco,"Oscoda Township, Precinct 4",President,,Write-in,,0,0,1,1
 Iosco,"Oscoda Township, Precinct 4",U.S. Senate,,Ballots Cast,,562,69,516,1147
 Iosco,"Oscoda Township, Precinct 4",U.S. Senate,,Elissa Slotkin,Democrat,159,21,269,449
@@ -1649,14 +1649,14 @@ Iosco,"Oscoda Township, Precinct 4",Oscoda Township Fire Operational/Equipment M
 Iosco,"Oscoda Township, Precinct 4",Oscoda Township Fire Operational/Equipment Millage,,Over Vote Count,,0,0,0,0
 Iosco,"Oscoda Township, Precinct 4",Oscoda Township Fire Operational/Equipment Millage,,Under Vote Count,,53,1,30,84
 Iosco,"Plainfield Township, Precinct 1",President,,Ballots Cast,,750,66,0,816
-Iosco,"Plainfield Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,232,10,0,242
-Iosco,"Plainfield Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,501,54,0,555
-Iosco,"Plainfield Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Iosco,"Plainfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,8,0,0,8
+Iosco,"Plainfield Township, Precinct 1",President,,Kamala D. Harris /,Democrat,232,10,0,242
+Iosco,"Plainfield Township, Precinct 1",President,,Donald J. Trump /,Republican,501,54,0,555
+Iosco,"Plainfield Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Iosco,"Plainfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,8,0,0,8
 Iosco,"Plainfield Township, Precinct 1",President,,Write-in,,1,0,0,1
 Iosco,"Plainfield Township, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Iosco,"Plainfield Township, Precinct 1",President,,Under Vote Count,,5,1,0,6
-Iosco,"Plainfield Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
+Iosco,"Plainfield Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,1,0,1
 Iosco,"Plainfield Township, Precinct 1",U.S. Senate,,Ballots Cast,,750,66,0,816
 Iosco,"Plainfield Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,246,11,0,257
 Iosco,"Plainfield Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,452,53,0,505
@@ -1830,14 +1830,14 @@ Iosco,"Plainfield Township, Precinct 1",Hale Area Schools Sinking Fund Millage P
 Iosco,"Plainfield Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Plainfield Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Under Vote Count,,70,6,0,76
 Iosco,"Plainfield Township, Precinct 2",President,,Ballots Cast,,1351,122,0,1473
-Iosco,"Plainfield Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,421,21,0,442
-Iosco,"Plainfield Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,892,101,0,993
-Iosco,"Plainfield Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,9,0,0,9
-Iosco,"Plainfield Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Iosco,"Plainfield Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Iosco,"Plainfield Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,12,0,0,12
-Iosco,"Plainfield Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,0,2
-Iosco,"Plainfield Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Iosco,"Plainfield Township, Precinct 2",President,,Kamala D. Harris /,Democrat,421,21,0,442
+Iosco,"Plainfield Township, Precinct 2",President,,Donald J. Trump /,Republican,892,101,0,993
+Iosco,"Plainfield Township, Precinct 2",President,,Chase Oliver /,Libertarian,9,0,0,9
+Iosco,"Plainfield Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Iosco,"Plainfield Township, Precinct 2",President,,Jill Stein /,Green,1,0,0,1
+Iosco,"Plainfield Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,12,0,0,12
+Iosco,"Plainfield Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,2,0,0,2
+Iosco,"Plainfield Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Iosco,"Plainfield Township, Precinct 2",President,,Write-in,,2,0,0,2
 Iosco,"Plainfield Township, Precinct 2",President,,Over Vote Count,,1,0,0,1
 Iosco,"Plainfield Township, Precinct 2",President,,Under Vote Count,,11,0,0,11
@@ -2014,11 +2014,11 @@ Iosco,"Plainfield Township, Precinct 2",Hale Area Schools Sinking Fund Millage P
 Iosco,"Plainfield Township, Precinct 2",Hale Area Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Plainfield Township, Precinct 2",Hale Area Schools Sinking Fund Millage Proposal,,Under Vote Count,,122,24,0,146
 Iosco,"Reno Township, Precinct 1",President,,Ballots Cast,,296,42,0,338
-Iosco,"Reno Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,97,4,0,101
-Iosco,"Reno Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,193,37,0,230
-Iosco,"Reno Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Iosco,"Reno Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Iosco,"Reno Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,0,1
+Iosco,"Reno Township, Precinct 1",President,,Kamala D. Harris /,Democrat,97,4,0,101
+Iosco,"Reno Township, Precinct 1",President,,Donald J. Trump /,Republican,193,37,0,230
+Iosco,"Reno Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,0,0,1
+Iosco,"Reno Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,0,0,2
+Iosco,"Reno Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,0,0,1
 Iosco,"Reno Township, Precinct 1",President,,Over Vote Count,,0,1,0,1
 Iosco,"Reno Township, Precinct 1",President,,Under Vote Count,,2,0,0,2
 Iosco,"Reno Township, Precinct 1",U.S. Senate,,Ballots Cast,,296,42,0,338
@@ -2215,10 +2215,10 @@ Iosco,"Reno Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposa
 Iosco,"Reno Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Reno Township, Precinct 1",Hale Area Schools Sinking Fund Millage Proposal,,Under Vote Count,,11,1,0,12
 Iosco,"Sherman Township, Precinct 1",President,,Ballots Cast,,222,39,0,261
-Iosco,"Sherman Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,57,4,0,61
-Iosco,"Sherman Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,162,34,0,196
-Iosco,"Sherman Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Iosco,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
+Iosco,"Sherman Township, Precinct 1",President,,Kamala D. Harris /,Democrat,57,4,0,61
+Iosco,"Sherman Township, Precinct 1",President,,Donald J. Trump /,Republican,162,34,0,196
+Iosco,"Sherman Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Iosco,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,0,2
 Iosco,"Sherman Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"Sherman Township, Precinct 1",President,,Under Vote Count,,0,1,0,1
 Iosco,"Sherman Township, Precinct 1",U.S. Senate,,Ballots Cast,,222,39,0,261
@@ -2394,11 +2394,11 @@ Iosco,"Sherman Township, Precinct 1",Countywide Recycling Program Millage Propos
 Iosco,"Sherman Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Sherman Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,38,5,0,43
 Iosco,"Tawas Township, Precinct 1",President,,Ballots Cast,,702,422,0,1124
-Iosco,"Tawas Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,203,75,0,278
-Iosco,"Tawas Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,485,345,0,830
-Iosco,"Tawas Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,0,2
-Iosco,"Tawas Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Iosco,"Tawas Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,1,0,8
+Iosco,"Tawas Township, Precinct 1",President,,Kamala D. Harris /,Democrat,203,75,0,278
+Iosco,"Tawas Township, Precinct 1",President,,Donald J. Trump /,Republican,485,345,0,830
+Iosco,"Tawas Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,0,0,2
+Iosco,"Tawas Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Iosco,"Tawas Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,1,0,8
 Iosco,"Tawas Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Iosco,"Tawas Township, Precinct 1",President,,Under Vote Count,,3,1,0,4
 Iosco,"Tawas Township, Precinct 1",U.S. Senate,,Ballots Cast,,702,422,0,1124
@@ -2574,11 +2574,11 @@ Iosco,"Tawas Township, Precinct 1",Countywide Recycling Program Millage Proposal
 Iosco,"Tawas Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Tawas Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,96,65,0,161
 Iosco,"Wilber Township, Precinct 1",President,,Ballots Cast,,474,53,0,527
-Iosco,"Wilber Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,160,10,0,170
-Iosco,"Wilber Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,308,41,0,349
-Iosco,"Wilber Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,0,2
-Iosco,"Wilber Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,2,0,3
-Iosco,"Wilber Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
+Iosco,"Wilber Township, Precinct 1",President,,Kamala D. Harris /,Democrat,160,10,0,170
+Iosco,"Wilber Township, Precinct 1",President,,Donald J. Trump /,Republican,308,41,0,349
+Iosco,"Wilber Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,0,0,2
+Iosco,"Wilber Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,2,0,3
+Iosco,"Wilber Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,0,2
 Iosco,"Wilber Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"Wilber Township, Precinct 1",President,,Under Vote Count,,1,0,0,1
 Iosco,"Wilber Township, Precinct 1",U.S. Senate,,Ballots Cast,,474,53,0,527
@@ -2748,14 +2748,14 @@ Iosco,"Wilber Township, Precinct 1",Countywide Recycling Program Millage Proposa
 Iosco,"Wilber Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"Wilber Township, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,51,6,0,57
 Iosco,"City of East Tawas, Precinct 1",President,,Ballots Cast,,1431,255,0,1686
-Iosco,"City of East Tawas, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,580,46,0,626
-Iosco,"City of East Tawas, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,808,206,0,1014
-Iosco,"City of East Tawas, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,0,6
-Iosco,"City of East Tawas, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Iosco,"City of East Tawas, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,0,0,5
-Iosco,"City of East Tawas, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,2,0,9
-Iosco,"City of East Tawas, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Iosco,"City of East Tawas, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
+Iosco,"City of East Tawas, Precinct 1",President,,Kamala D. Harris /,Democrat,580,46,0,626
+Iosco,"City of East Tawas, Precinct 1",President,,Donald J. Trump /,Republican,808,206,0,1014
+Iosco,"City of East Tawas, Precinct 1",President,,Chase Oliver /,Libertarian,6,0,0,6
+Iosco,"City of East Tawas, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,0,3
+Iosco,"City of East Tawas, Precinct 1",President,,Jill Stein /,Green,5,0,0,5
+Iosco,"City of East Tawas, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,2,0,9
+Iosco,"City of East Tawas, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Iosco,"City of East Tawas, Precinct 1",President,,Cornel West /,No Party Affiliation,3,0,0,3
 Iosco,"City of East Tawas, Precinct 1",President,,Over Vote Count,,5,1,0,6
 Iosco,"City of East Tawas, Precinct 1",President,,Under Vote Count,,13,0,0,13
 Iosco,"City of East Tawas, Precinct 1",U.S. Senate,,Ballots Cast,,1431,255,0,1686
@@ -2927,14 +2927,14 @@ Iosco,"City of East Tawas, Precinct 1",Countywide Recycling Program Millage Prop
 Iosco,"City of East Tawas, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"City of East Tawas, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,150,32,0,182
 Iosco,"City of Tawas City, Precinct 1",President,,Ballots Cast,,875,180,0,1055
-Iosco,"City of Tawas City, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,330,54,0,384
-Iosco,"City of Tawas City, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,517,124,0,641
-Iosco,"City of Tawas City, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,0,7
-Iosco,"City of Tawas City, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Iosco,"City of Tawas City, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Iosco,"City of Tawas City, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,9,1,0,10
-Iosco,"City of Tawas City, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Iosco,"City of Tawas City, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,0,2
+Iosco,"City of Tawas City, Precinct 1",President,,Kamala D. Harris /,Democrat,330,54,0,384
+Iosco,"City of Tawas City, Precinct 1",President,,Donald J. Trump /,Republican,517,124,0,641
+Iosco,"City of Tawas City, Precinct 1",President,,Chase Oliver /,Libertarian,7,0,0,7
+Iosco,"City of Tawas City, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,0,0,2
+Iosco,"City of Tawas City, Precinct 1",President,,Jill Stein /,Green,3,0,0,3
+Iosco,"City of Tawas City, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,9,1,0,10
+Iosco,"City of Tawas City, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Iosco,"City of Tawas City, Precinct 1",President,,Cornel West /,No Party Affiliation,1,1,0,2
 Iosco,"City of Tawas City, Precinct 1",President,,Write-in,,2,0,0,2
 Iosco,"City of Tawas City, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"City of Tawas City, Precinct 1",President,,Under Vote Count,,3,0,0,3
@@ -3103,10 +3103,10 @@ Iosco,"City of Tawas City, Precinct 1",Countywide Recycling Program Millage Prop
 Iosco,"City of Tawas City, Precinct 1",Countywide Recycling Program Millage Proposal,,Over Vote Count,,0,0,0,0
 Iosco,"City of Tawas City, Precinct 1",Countywide Recycling Program Millage Proposal,,Under Vote Count,,91,27,0,118
 Iosco,"City of Whittemore, Precinct 1",President,,Ballots Cast,,177,19,0,196
-Iosco,"City of Whittemore, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,49,2,0,51
-Iosco,"City of Whittemore, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,122,17,0,139
-Iosco,"City of Whittemore, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Iosco,"City of Whittemore, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,0,3
+Iosco,"City of Whittemore, Precinct 1",President,,Kamala D. Harris /,Democrat,49,2,0,51
+Iosco,"City of Whittemore, Precinct 1",President,,Donald J. Trump /,Republican,122,17,0,139
+Iosco,"City of Whittemore, Precinct 1",President,,Chase Oliver /,Libertarian,1,0,0,1
+Iosco,"City of Whittemore, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,0,3
 Iosco,"City of Whittemore, Precinct 1",President,,Write-in,,2,0,0,2
 Iosco,"City of Whittemore, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Iosco,"City of Whittemore, Precinct 1",President,,Under Vote Count,,0,0,0,0

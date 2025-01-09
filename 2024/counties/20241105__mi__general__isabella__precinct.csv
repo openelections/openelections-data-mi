@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,av_counting_boards,early_voting,votes
 Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Ballots Cast,,1128,988,572,2688
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Kamala D. Harris / Tim Walz,Democrat,580,745,347,1672
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Donald J. Trump / JD Vance,Republican,515,221,214,950
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,4,10
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,,,
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Jill Stein / Rudolph Ware,Green,11,2,4,17
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,10,7,2,19
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,1,,
-Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,,
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Kamala D. Harris /,Democrat,580,745,347,1672
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Donald J. Trump /,Republican,515,221,214,950
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Chase Oliver /,Libertarian,3,3,4,10
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Randall Terry /,U.S. Taxpayers,0,,,
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Jill Stein /,Green,11,2,4,17
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,"Robert F. Kennedy, Jr. /",Natural Law,10,7,2,19
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Joseph Kishore /,No Party Affiliation,1,1,,
+Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Cornel West /,No Party Affiliation,1,1,,
 Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Write-in,,4,4,,
 Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Claudia De la Cruz,,1,1,,
 Isabella,"City of Mt. Pleasant, Precinct 1A",President,,Peter Sonski,,2,,,
@@ -203,14 +203,14 @@ Isabella,"City of Mt. Pleasant, Precinct 1A",Isabella County Sheriff's Office Ro
 Isabella,"City of Mt. Pleasant, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"City of Mt. Pleasant, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,121,72,43,236
 Isabella,"City of Mt. Pleasant, Precinct 2",President,,Ballots Cast,,1170,1288,738,3196
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,603,900,425,1928
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,533,352,299,1184
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,6,1,2,9
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,2,,
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,10,7,1,18
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,9,2,16
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,,2,
-Isabella,"City of Mt. Pleasant, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,2,1,4
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Kamala D. Harris /,Democrat,603,900,425,1928
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Donald J. Trump /,Republican,533,352,299,1184
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Chase Oliver /,Libertarian,6,1,2,9
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,2,,
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Jill Stein /,Green,10,7,1,18
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,9,2,16
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,,2,
+Isabella,"City of Mt. Pleasant, Precinct 2",President,,Cornel West /,No Party Affiliation,1,2,1,4
 Isabella,"City of Mt. Pleasant, Precinct 2",President,,Write-in,,4,5,,
 Isabella,"City of Mt. Pleasant, Precinct 2",President,,Peter Sonski,,4,1,,
 Isabella,"City of Mt. Pleasant, Precinct 2",President,,Over Vote Count,,2,0,0,2
@@ -409,14 +409,14 @@ Isabella,"City of Mt. Pleasant, Precinct 2",Isabella County Sheriff's Office Roa
 Isabella,"City of Mt. Pleasant, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,1,0,1
 Isabella,"City of Mt. Pleasant, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,151,105,70,326
 Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Ballots Cast,,723,820,531,2074
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Kamala D. Harris / Tim Walz,Democrat,411,602,356,1369
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Donald J. Trump / JD Vance,Republican,294,196,164,654
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Chase Oliver / Mike ter Maat,Libertarian,5,7,6,18
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,,,
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Jill Stein / Rudolph Ware,Green,6,2,,
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,3,3,8
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,,
-Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,,
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Kamala D. Harris /,Democrat,411,602,356,1369
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Donald J. Trump /,Republican,294,196,164,654
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Chase Oliver /,Libertarian,5,7,6,18
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Randall Terry /,U.S. Taxpayers,0,,,
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Jill Stein /,Green,6,2,,
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,3,3,8
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Joseph Kishore /,No Party Affiliation,0,1,,
+Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Cornel West /,No Party Affiliation,0,1,,
 Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Write-in,,2,,1,
 Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Over Vote Count,,0,3,0,3
 Isabella,"City of Mt. Pleasant, Precinct 3A",President,,Under Vote Count,,3,5,1,9
@@ -607,12 +607,12 @@ Isabella,"City of Mt. Pleasant, Precinct 3A",Isabella County Sheriff's Office Ro
 Isabella,"City of Mt. Pleasant, Precinct 3A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"City of Mt. Pleasant, Precinct 3A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,179,182,78,439
 Isabella,"Broomfield Township, Precinct 1",President,,Ballots Cast,,895,,194,
-Isabella,"Broomfield Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,338,,50,
-Isabella,"Broomfield Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,530,,141,
-Isabella,"Broomfield Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,,,
-Isabella,"Broomfield Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Broomfield Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,,,
-Isabella,"Broomfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,8,,2,
+Isabella,"Broomfield Township, Precinct 1",President,,Kamala D. Harris /,Democrat,338,,50,
+Isabella,"Broomfield Township, Precinct 1",President,,Donald J. Trump /,Republican,530,,141,
+Isabella,"Broomfield Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,,,
+Isabella,"Broomfield Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Broomfield Township, Precinct 1",President,,Jill Stein /,Green,1,,,
+Isabella,"Broomfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,8,,2,
 Isabella,"Broomfield Township, Precinct 1",President,,Write-in,,2,,1,
 Isabella,"Broomfield Township, Precinct 1",President,,Over Vote Count,,3,,0,
 Isabella,"Broomfield Township, Precinct 1",President,,Under Vote Count,,9,,0,
@@ -831,14 +831,14 @@ Isabella,"Broomfield Township, Precinct 1",Isabella County Sheriff's Office Road
 Isabella,"Broomfield Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Broomfield Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,62,,15,
 Isabella,"Chippewa Township, Precinct 1",President,,Ballots Cast,,1208,,232,
-Isabella,"Chippewa Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,555,,70,
-Isabella,"Chippewa Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,619,,158,
-Isabella,"Chippewa Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,,,
-Isabella,"Chippewa Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,,1,
-Isabella,"Chippewa Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,,3,
-Isabella,"Chippewa Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,14,,,
-Isabella,"Chippewa Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,4,,,
-Isabella,"Chippewa Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,,,
+Isabella,"Chippewa Township, Precinct 1",President,,Kamala D. Harris /,Democrat,555,,70,
+Isabella,"Chippewa Township, Precinct 1",President,,Donald J. Trump /,Republican,619,,158,
+Isabella,"Chippewa Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,,,
+Isabella,"Chippewa Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,,1,
+Isabella,"Chippewa Township, Precinct 1",President,,Jill Stein /,Green,5,,3,
+Isabella,"Chippewa Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,14,,,
+Isabella,"Chippewa Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,4,,,
+Isabella,"Chippewa Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,,,
 Isabella,"Chippewa Township, Precinct 1",President,,Write-in,,1,,,
 Isabella,"Chippewa Township, Precinct 1",President,,Peter Sonski,,1,,,
 Isabella,"Chippewa Township, Precinct 1",President,,Over Vote Count,,1,,0,
@@ -1052,12 +1052,12 @@ Isabella,"Chippewa Township, Precinct 1",Isabella County Sheriff's Office Road P
 Isabella,"Chippewa Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,1,,0,
 Isabella,"Chippewa Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,173,,21,
 Isabella,"Chippewa Township, Precinct 2",President,,Ballots Cast,,667,,179,
-Isabella,"Chippewa Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,286,,45,
-Isabella,"Chippewa Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,360,,132,
-Isabella,"Chippewa Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,5,,1,
-Isabella,"Chippewa Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Chippewa Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,4,,,
-Isabella,"Chippewa Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,,,
+Isabella,"Chippewa Township, Precinct 2",President,,Kamala D. Harris /,Democrat,286,,45,
+Isabella,"Chippewa Township, Precinct 2",President,,Donald J. Trump /,Republican,360,,132,
+Isabella,"Chippewa Township, Precinct 2",President,,Chase Oliver /,Libertarian,5,,1,
+Isabella,"Chippewa Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Chippewa Township, Precinct 2",President,,Jill Stein /,Green,4,,,
+Isabella,"Chippewa Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,,,
 Isabella,"Chippewa Township, Precinct 2",President,,Write-in,,1,,,
 Isabella,"Chippewa Township, Precinct 2",President,,Over Vote Count,,0,,0,
 Isabella,"Chippewa Township, Precinct 2",President,,Under Vote Count,,4,,1,
@@ -1270,17 +1270,17 @@ Isabella,"Chippewa Township, Precinct 2",Isabella County Sheriff's Office Road P
 Isabella,"Chippewa Township, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Chippewa Township, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,66,,15,
 Isabella,"Coe Township, Precinct 1",President,,Ballots Cast,,930,518,280,1728
-Isabella,"Coe Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,301,297,81,679
-Isabella,"Coe Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,606,208,198,1012
-Isabella,"Coe Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,1,,
-Isabella,"Coe Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,6,3,,
-Isabella,"Coe Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,2,,
-Isabella,"Coe Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,3,1,7
-Isabella,"Coe Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,,,
+Isabella,"Coe Township, Precinct 1",President,,Kamala D. Harris /,Democrat,301,297,81,679
+Isabella,"Coe Township, Precinct 1",President,,Donald J. Trump /,Republican,606,208,198,1012
+Isabella,"Coe Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,1,,
+Isabella,"Coe Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,6,3,,
+Isabella,"Coe Township, Precinct 1",President,,Jill Stein /,Green,3,2,,
+Isabella,"Coe Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,3,1,7
+Isabella,"Coe Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,,,
 Isabella,"Coe Township, Precinct 1",President,,Write-in,,1,,,
 Isabella,"Coe Township, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Isabella,"Coe Township, Precinct 1",President,,Under Vote Count,,5,3,0,8
-Isabella,"Coe Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,,1,,
+Isabella,"Coe Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,,1,,
 Isabella,"Coe Township, Precinct 1",U.S. Senate,,Ballots Cast,,930,518,280,1728
 Isabella,"Coe Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,290,295,87,672
 Isabella,"Coe Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,584,194,188,966
@@ -1494,12 +1494,12 @@ Isabella,"Coe Township, Precinct 1",Village of Shepherd A Headlee Override Milla
 Isabella,"Coe Township, Precinct 1",Village of Shepherd A Headlee Override Millage Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Coe Township, Precinct 1",Village of Shepherd A Headlee Override Millage Proposal,,Under Vote Count,,46,16,9,71
 Isabella,"Coldwater Township, Precinct 1A",President,,Ballots Cast,,397,,52,
-Isabella,"Coldwater Township, Precinct 1A",President,,Kamala D. Harris / Tim Walz,Democrat,135,,6,
-Isabella,"Coldwater Township, Precinct 1A",President,,Donald J. Trump / JD Vance,Republican,255,,46,
-Isabella,"Coldwater Township, Precinct 1A",President,,Chase Oliver / Mike ter Maat,Libertarian,1,,,
-Isabella,"Coldwater Township, Precinct 1A",President,,Jill Stein / Rudolph Ware,Green,2,,,
-Isabella,"Coldwater Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,,,
-Isabella,"Coldwater Township, Precinct 1A",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,,,
+Isabella,"Coldwater Township, Precinct 1A",President,,Kamala D. Harris /,Democrat,135,,6,
+Isabella,"Coldwater Township, Precinct 1A",President,,Donald J. Trump /,Republican,255,,46,
+Isabella,"Coldwater Township, Precinct 1A",President,,Chase Oliver /,Libertarian,1,,,
+Isabella,"Coldwater Township, Precinct 1A",President,,Jill Stein /,Green,2,,,
+Isabella,"Coldwater Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,,,
+Isabella,"Coldwater Township, Precinct 1A",President,,Joseph Kishore /,No Party Affiliation,1,,,
 Isabella,"Coldwater Township, Precinct 1A",President,,Over Vote Count,,0,,0,
 Isabella,"Coldwater Township, Precinct 1A",President,,Under Vote Count,,1,,0,
 Isabella,"Coldwater Township, Precinct 1A",U.S. Senate,,Ballots Cast,,397,,52,
@@ -1681,14 +1681,14 @@ Isabella,"Coldwater Township, Precinct 1A",Isabella County Sheriff's Office Road
 Isabella,"Coldwater Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Coldwater Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,50,,5,
 Isabella,"Deerfield Township, Precinct 1",President,,Ballots Cast,,526,470,357,1353
-Isabella,"Deerfield Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,184,303,144,631
-Isabella,"Deerfield Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,332,155,207,694
-Isabella,"Deerfield Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,0,2,2,4
-Isabella,"Deerfield Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Deerfield Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,1,1,2
-Isabella,"Deerfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,1,6
-Isabella,"Deerfield Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,,
-Isabella,"Deerfield Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,,,
+Isabella,"Deerfield Township, Precinct 1",President,,Kamala D. Harris /,Democrat,184,303,144,631
+Isabella,"Deerfield Township, Precinct 1",President,,Donald J. Trump /,Republican,332,155,207,694
+Isabella,"Deerfield Township, Precinct 1",President,,Chase Oliver /,Libertarian,0,2,2,4
+Isabella,"Deerfield Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Deerfield Township, Precinct 1",President,,Jill Stein /,Green,0,1,1,2
+Isabella,"Deerfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,2,1,6
+Isabella,"Deerfield Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,1,,
+Isabella,"Deerfield Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,,,
 Isabella,"Deerfield Township, Precinct 1",President,,Write-in,,1,2,,
 Isabella,"Deerfield Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Isabella,"Deerfield Township, Precinct 1",President,,Under Vote Count,,5,4,2,11
@@ -1934,12 +1934,12 @@ Isabella,"Deerfield Township, Precinct 1",Isabella County Sheriff's Office Road 
 Isabella,"Deerfield Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Deerfield Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,46,32,27,105
 Isabella,"Deerfield Township, Precinct 2",President,,Ballots Cast,,415,210,174,799
-Isabella,"Deerfield Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,100,112,48,260
-Isabella,"Deerfield Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,300,89,125,514
-Isabella,"Deerfield Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,,
-Isabella,"Deerfield Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,2,,
-Isabella,"Deerfield Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,2,,,
-Isabella,"Deerfield Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,4,,
+Isabella,"Deerfield Township, Precinct 2",President,,Kamala D. Harris /,Democrat,100,112,48,260
+Isabella,"Deerfield Township, Precinct 2",President,,Donald J. Trump /,Republican,300,89,125,514
+Isabella,"Deerfield Township, Precinct 2",President,,Chase Oliver /,Libertarian,3,3,,
+Isabella,"Deerfield Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,1,2,,
+Isabella,"Deerfield Township, Precinct 2",President,,Jill Stein /,Green,2,,,
+Isabella,"Deerfield Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,4,,
 Isabella,"Deerfield Township, Precinct 2",President,,Write-in,,1,,,
 Isabella,"Deerfield Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Isabella,"Deerfield Township, Precinct 2",President,,Under Vote Count,,4,0,1,5
@@ -2162,12 +2162,12 @@ Isabella,"Deerfield Township, Precinct 2",Isabella County Sheriff's Office Road 
 Isabella,"Deerfield Township, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Deerfield Township, Precinct 2",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,53,16,23,92
 Isabella,"Denver Township, Precinct 1",President,,Ballots Cast,,570,,107,
-Isabella,"Denver Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,207,,33,
-Isabella,"Denver Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,356,,73,
-Isabella,"Denver Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,,1,
-Isabella,"Denver Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,,,
-Isabella,"Denver Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,,,
-Isabella,"Denver Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,,,
+Isabella,"Denver Township, Precinct 1",President,,Kamala D. Harris /,Democrat,207,,33,
+Isabella,"Denver Township, Precinct 1",President,,Donald J. Trump /,Republican,356,,73,
+Isabella,"Denver Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,,1,
+Isabella,"Denver Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,,,
+Isabella,"Denver Township, Precinct 1",President,,Jill Stein /,Green,3,,,
+Isabella,"Denver Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,,,
 Isabella,"Denver Township, Precinct 1",President,,Over Vote Count,,0,,0,
 Isabella,"Denver Township, Precinct 1",President,,Under Vote Count,,0,,0,
 Isabella,"Denver Township, Precinct 1",U.S. Senate,,Ballots Cast,,570,,107,
@@ -2393,12 +2393,12 @@ Isabella,"Denver Township, Precinct 1",Coleman Community Schools Bond Proposal,,
 Isabella,"Denver Township, Precinct 1",Coleman Community Schools Bond Proposal,,Over Vote Count,,0,,0,
 Isabella,"Denver Township, Precinct 1",Coleman Community Schools Bond Proposal,,Under Vote Count,,11,,3,
 Isabella,"Fremont Township, Precinct 1",President,,Ballots Cast,,660,,153,
-Isabella,"Fremont Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,175,,38,
-Isabella,"Fremont Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,470,,113,
-Isabella,"Fremont Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,,,
-Isabella,"Fremont Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,,,
-Isabella,"Fremont Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,,2,
-Isabella,"Fremont Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,,,
+Isabella,"Fremont Township, Precinct 1",President,,Kamala D. Harris /,Democrat,175,,38,
+Isabella,"Fremont Township, Precinct 1",President,,Donald J. Trump /,Republican,470,,113,
+Isabella,"Fremont Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,,,
+Isabella,"Fremont Township, Precinct 1",President,,Jill Stein /,Green,1,,,
+Isabella,"Fremont Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,,2,
+Isabella,"Fremont Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,,,
 Isabella,"Fremont Township, Precinct 1",President,,Write-in,,3,,,
 Isabella,"Fremont Township, Precinct 1",President,,Peter Sonski,,2,,,
 Isabella,"Fremont Township, Precinct 1",President,,Over Vote Count,,0,,0,
@@ -2635,12 +2635,12 @@ Isabella,"Fremont Township, Precinct 1",Isabella County Sheriff's Office Road Pa
 Isabella,"Fremont Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Fremont Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,72,,13,
 Isabella,"Gilmore Township, Precinct 1",President,,Ballots Cast,,736,,88,
-Isabella,"Gilmore Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,220,,13,
-Isabella,"Gilmore Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,498,,75,
-Isabella,"Gilmore Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,,,
-Isabella,"Gilmore Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Gilmore Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,,,
-Isabella,"Gilmore Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,,,
+Isabella,"Gilmore Township, Precinct 1",President,,Kamala D. Harris /,Democrat,220,,13,
+Isabella,"Gilmore Township, Precinct 1",President,,Donald J. Trump /,Republican,498,,75,
+Isabella,"Gilmore Township, Precinct 1",President,,Chase Oliver /,Libertarian,4,,,
+Isabella,"Gilmore Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Gilmore Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,,,
+Isabella,"Gilmore Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,2,,,
 Isabella,"Gilmore Township, Precinct 1",President,,Write-in,,2,,,
 Isabella,"Gilmore Township, Precinct 1",President,,Over Vote Count,,1,,0,
 Isabella,"Gilmore Township, Precinct 1",President,,Under Vote Count,,2,,0,
@@ -2850,14 +2850,14 @@ Isabella,"Gilmore Township, Precinct 1",Isabella County Sheriff's Office Road Pa
 Isabella,"Gilmore Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Gilmore Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,56,,8,
 Isabella,"Isabella Township, Precinct 1",President,,Ballots Cast,,988,,197,
-Isabella,"Isabella Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,436,,74,
-Isabella,"Isabella Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,531,,118,
-Isabella,"Isabella Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,,1,
-Isabella,"Isabella Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Isabella Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,,,
-Isabella,"Isabella Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,,2,
-Isabella,"Isabella Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,,,
-Isabella,"Isabella Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,,,
+Isabella,"Isabella Township, Precinct 1",President,,Kamala D. Harris /,Democrat,436,,74,
+Isabella,"Isabella Township, Precinct 1",President,,Donald J. Trump /,Republican,531,,118,
+Isabella,"Isabella Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,,1,
+Isabella,"Isabella Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Isabella Township, Precinct 1",President,,Jill Stein /,Green,4,,,
+Isabella,"Isabella Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,,2,
+Isabella,"Isabella Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,2,,,
+Isabella,"Isabella Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,,,
 Isabella,"Isabella Township, Precinct 1",President,,Write-in,,2,,,
 Isabella,"Isabella Township, Precinct 1",President,,Over Vote Count,,0,,0,
 Isabella,"Isabella Township, Precinct 1",President,,Under Vote Count,,2,,2,
@@ -3079,13 +3079,13 @@ Isabella,"Isabella Township, Precinct 1",Isabella County Sheriff's Office Road P
 Isabella,"Isabella Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Isabella Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,128,,19,
 Isabella,"Lincoln Township, Precinct 1",President,,Ballots Cast,,972,,279,
-Isabella,"Lincoln Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,314,,63,
-Isabella,"Lincoln Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,631,,216,
-Isabella,"Lincoln Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,,,
-Isabella,"Lincoln Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,6,,,
-Isabella,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,,,
-Isabella,"Lincoln Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,,,
-Isabella,"Lincoln Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,,,
+Isabella,"Lincoln Township, Precinct 1",President,,Kamala D. Harris /,Democrat,314,,63,
+Isabella,"Lincoln Township, Precinct 1",President,,Donald J. Trump /,Republican,631,,216,
+Isabella,"Lincoln Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,,,
+Isabella,"Lincoln Township, Precinct 1",President,,Jill Stein /,Green,6,,,
+Isabella,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,,,
+Isabella,"Lincoln Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,2,,,
+Isabella,"Lincoln Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,,,
 Isabella,"Lincoln Township, Precinct 1",President,,Write-in,,5,,,
 Isabella,"Lincoln Township, Precinct 1",President,,Over Vote Count,,0,,0,
 Isabella,"Lincoln Township, Precinct 1",President,,Under Vote Count,,4,,0,
@@ -3300,14 +3300,14 @@ Isabella,"Lincoln Township, Precinct 1",Isabella County Sheriff's Office Road Pa
 Isabella,"Lincoln Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Lincoln Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,72,,19,
 Isabella,"Nottawa Township, Precinct 1",President,,Ballots Cast,,1121,,267,
-Isabella,"Nottawa Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,388,,69,
-Isabella,"Nottawa Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,705,,194,
-Isabella,"Nottawa Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,,,
-Isabella,"Nottawa Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,,1,
-Isabella,"Nottawa Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,,,
-Isabella,"Nottawa Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,10,,2,
-Isabella,"Nottawa Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,,,
-Isabella,"Nottawa Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,,,
+Isabella,"Nottawa Township, Precinct 1",President,,Kamala D. Harris /,Democrat,388,,69,
+Isabella,"Nottawa Township, Precinct 1",President,,Donald J. Trump /,Republican,705,,194,
+Isabella,"Nottawa Township, Precinct 1",President,,Chase Oliver /,Libertarian,7,,,
+Isabella,"Nottawa Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,,1,
+Isabella,"Nottawa Township, Precinct 1",President,,Jill Stein /,Green,2,,,
+Isabella,"Nottawa Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,10,,2,
+Isabella,"Nottawa Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,,,
+Isabella,"Nottawa Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,,,
 Isabella,"Nottawa Township, Precinct 1",President,,Write-in,,1,,,
 Isabella,"Nottawa Township, Precinct 1",President,,Peter Sonski,,1,,,
 Isabella,"Nottawa Township, Precinct 1",President,,Over Vote Count,,0,,0,
@@ -3529,11 +3529,11 @@ Isabella,"Nottawa Township, Precinct 1",Isabella County Sheriff's Office Road Pa
 Isabella,"Nottawa Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Nottawa Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,103,,15,
 Isabella,"Rolland Township, Precinct 1A",President,,Ballots Cast,,635,,74,
-Isabella,"Rolland Township, Precinct 1A",President,,Kamala D. Harris / Tim Walz,Democrat,202,,24,
-Isabella,"Rolland Township, Precinct 1A",President,,Donald J. Trump / JD Vance,Republican,420,,50,
-Isabella,"Rolland Township, Precinct 1A",President,,Chase Oliver / Mike ter Maat,Libertarian,4,,,
-Isabella,"Rolland Township, Precinct 1A",President,,Jill Stein / Rudolph Ware,Green,2,,,
-Isabella,"Rolland Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,,,
+Isabella,"Rolland Township, Precinct 1A",President,,Kamala D. Harris /,Democrat,202,,24,
+Isabella,"Rolland Township, Precinct 1A",President,,Donald J. Trump /,Republican,420,,50,
+Isabella,"Rolland Township, Precinct 1A",President,,Chase Oliver /,Libertarian,4,,,
+Isabella,"Rolland Township, Precinct 1A",President,,Jill Stein /,Green,2,,,
+Isabella,"Rolland Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,,,
 Isabella,"Rolland Township, Precinct 1A",President,,Write-in,,1,,,
 Isabella,"Rolland Township, Precinct 1A",President,,Over Vote Count,,0,,0,
 Isabella,"Rolland Township, Precinct 1A",President,,Under Vote Count,,3,,0,
@@ -3734,15 +3734,15 @@ Isabella,"Rolland Township, Precinct 1A",Isabella County Sheriff's Office Road P
 Isabella,"Rolland Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Rolland Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,55,,3,
 Isabella,"Sherman Township, Precinct 1A",President,,Ballots Cast,,491,322,148,961
-Isabella,"Sherman Township, Precinct 1A",President,,Kamala D. Harris / Tim Walz,Democrat,108,160,42,310
-Isabella,"Sherman Township, Precinct 1A",President,,Donald J. Trump / JD Vance,Republican,379,154,106,639
-Isabella,"Sherman Township, Precinct 1A",President,,Chase Oliver / Mike ter Maat,Libertarian,2,1,,
-Isabella,"Sherman Township, Precinct 1A",President,,Jill Stein / Rudolph Ware,Green,1,1,,
+Isabella,"Sherman Township, Precinct 1A",President,,Kamala D. Harris /,Democrat,108,160,42,310
+Isabella,"Sherman Township, Precinct 1A",President,,Donald J. Trump /,Republican,379,154,106,639
+Isabella,"Sherman Township, Precinct 1A",President,,Chase Oliver /,Libertarian,2,1,,
+Isabella,"Sherman Township, Precinct 1A",President,,Jill Stein /,Green,1,1,,
 Isabella,"Sherman Township, Precinct 1A",President,,Write-in,,1,,,
 Isabella,"Sherman Township, Precinct 1A",President,,Over Vote Count,,0,0,0,0
 Isabella,"Sherman Township, Precinct 1A",President,,Under Vote Count,,0,3,0,3
-Isabella,"Sherman Township, Precinct 1A",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,,1,,
-Isabella,"Sherman Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,,2,,
+Isabella,"Sherman Township, Precinct 1A",President,,Randall Terry /,U.S. Taxpayers,,1,,
+Isabella,"Sherman Township, Precinct 1A",President,,"Robert F. Kennedy, Jr. /",Natural Law,,2,,
 Isabella,"Sherman Township, Precinct 1A",U.S. Senate,,Ballots Cast,,491,322,148,961
 Isabella,"Sherman Township, Precinct 1A",U.S. Senate,,Elissa Slotkin,Democrat,103,157,46,306
 Isabella,"Sherman Township, Precinct 1A",U.S. Senate,,Mike Rogers,Republican,357,152,99,608
@@ -3932,13 +3932,13 @@ Isabella,"Sherman Township, Precinct 1A",Isabella County Sheriff's Office Road P
 Isabella,"Sherman Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Sherman Township, Precinct 1A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,63,12,13,88
 Isabella,"Sherman Township, Precinct 2A",President,,Ballots Cast,,328,359,149,836
-Isabella,"Sherman Township, Precinct 2A",President,,Kamala D. Harris / Tim Walz,Democrat,87,181,46,314
-Isabella,"Sherman Township, Precinct 2A",President,,Donald J. Trump / JD Vance,Republican,233,172,103,508
-Isabella,"Sherman Township, Precinct 2A",President,,Chase Oliver / Mike ter Maat,Libertarian,3,,,
-Isabella,"Sherman Township, Precinct 2A",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,,,
-Isabella,"Sherman Township, Precinct 2A",President,,Jill Stein / Rudolph Ware,Green,1,,,
-Isabella,"Sherman Township, Precinct 2A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,2,,
-Isabella,"Sherman Township, Precinct 2A",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,,,
+Isabella,"Sherman Township, Precinct 2A",President,,Kamala D. Harris /,Democrat,87,181,46,314
+Isabella,"Sherman Township, Precinct 2A",President,,Donald J. Trump /,Republican,233,172,103,508
+Isabella,"Sherman Township, Precinct 2A",President,,Chase Oliver /,Libertarian,3,,,
+Isabella,"Sherman Township, Precinct 2A",President,,Randall Terry /,U.S. Taxpayers,2,,,
+Isabella,"Sherman Township, Precinct 2A",President,,Jill Stein /,Green,1,,,
+Isabella,"Sherman Township, Precinct 2A",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,2,,
+Isabella,"Sherman Township, Precinct 2A",President,,Joseph Kishore /,No Party Affiliation,1,,,
 Isabella,"Sherman Township, Precinct 2A",President,,Over Vote Count,,0,0,0,0
 Isabella,"Sherman Township, Precinct 2A",President,,Under Vote Count,,0,3,0,3
 Isabella,"Sherman Township, Precinct 2A",President,,Write-in,,,1,,
@@ -4142,16 +4142,16 @@ Isabella,"Sherman Township, Precinct 2A",Isabella County Sheriff's Office Road P
 Isabella,"Sherman Township, Precinct 2A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Sherman Township, Precinct 2A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,38,31,13,82
 Isabella,"Union Charter Township, Precinct 1",President,,Ballots Cast,,1081,1190,786,3057
-Isabella,"Union Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,423,728,348,1499
-Isabella,"Union Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,632,430,421,1483
-Isabella,"Union Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,3,9
-Isabella,"Union Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,5,2,10
-Isabella,"Union Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,9,5,5,19
-Isabella,"Union Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,,,
+Isabella,"Union Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,423,728,348,1499
+Isabella,"Union Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,632,430,421,1483
+Isabella,"Union Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,3,3,9
+Isabella,"Union Charter Township, Precinct 1",President,,Jill Stein /,Green,3,5,2,10
+Isabella,"Union Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,9,5,5,19
+Isabella,"Union Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,2,,,
 Isabella,"Union Charter Township, Precinct 1",President,,Write-in,,4,4,5,13
 Isabella,"Union Charter Township, Precinct 1",President,,Over Vote Count,,0,1,0,1
 Isabella,"Union Charter Township, Precinct 1",President,,Under Vote Count,,5,12,1,18
-Isabella,"Union Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,,2,1,
+Isabella,"Union Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,,2,1,
 Isabella,"Union Charter Township, Precinct 1",President,,Peter Sonski,,,,2,
 Isabella,"Union Charter Township, Precinct 1",U.S. Senate,,Ballots Cast,,1081,1190,786,3057
 Isabella,"Union Charter Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,427,721,344,1492
@@ -4367,14 +4367,14 @@ Isabella,"Union Charter Township, Precinct 1",Isabella County Sheriff's Office R
 Isabella,"Union Charter Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,1,0,0,1
 Isabella,"Union Charter Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,117,78,79,274
 Isabella,"Union Charter Township, Precinct 2A",President,,Ballots Cast,,1096,688,405,2189
-Isabella,"Union Charter Township, Precinct 2A",President,,Kamala D. Harris / Tim Walz,Democrat,502,474,214,1190
-Isabella,"Union Charter Township, Precinct 2A",President,,Donald J. Trump / JD Vance,Republican,565,197,186,948
-Isabella,"Union Charter Township, Precinct 2A",President,,Chase Oliver / Mike ter Maat,Libertarian,8,2,2,12
-Isabella,"Union Charter Township, Precinct 2A",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,2,,
-Isabella,"Union Charter Township, Precinct 2A",President,,Jill Stein / Rudolph Ware,Green,4,1,2,7
-Isabella,"Union Charter Township, Precinct 2A",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,6,1,13
-Isabella,"Union Charter Township, Precinct 2A",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,,,
-Isabella,"Union Charter Township, Precinct 2A",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,,,
+Isabella,"Union Charter Township, Precinct 2A",President,,Kamala D. Harris /,Democrat,502,474,214,1190
+Isabella,"Union Charter Township, Precinct 2A",President,,Donald J. Trump /,Republican,565,197,186,948
+Isabella,"Union Charter Township, Precinct 2A",President,,Chase Oliver /,Libertarian,8,2,2,12
+Isabella,"Union Charter Township, Precinct 2A",President,,Randall Terry /,U.S. Taxpayers,2,2,,
+Isabella,"Union Charter Township, Precinct 2A",President,,Jill Stein /,Green,4,1,2,7
+Isabella,"Union Charter Township, Precinct 2A",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,6,1,13
+Isabella,"Union Charter Township, Precinct 2A",President,,Joseph Kishore /,No Party Affiliation,1,,,
+Isabella,"Union Charter Township, Precinct 2A",President,,Cornel West /,No Party Affiliation,2,,,
 Isabella,"Union Charter Township, Precinct 2A",President,,Write-in,,3,,,
 Isabella,"Union Charter Township, Precinct 2A",President,,Cherunda Lynn Fox,,2,,,
 Isabella,"Union Charter Township, Precinct 2A",President,,Over Vote Count,,2,1,0,3
@@ -4585,14 +4585,14 @@ Isabella,"Union Charter Township, Precinct 2A",Isabella County Sheriff's Office 
 Isabella,"Union Charter Township, Precinct 2A",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,0,0,0
 Isabella,"Union Charter Township, Precinct 2A",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,196,69,50,315
 Isabella,"Vernon Township, Precinct 1",President,,Ballots Cast,,686,,110,
-Isabella,"Vernon Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,217,,33,
-Isabella,"Vernon Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,457,,77,
-Isabella,"Vernon Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,,,
-Isabella,"Vernon Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Vernon Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,,,
-Isabella,"Vernon Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,,,
-Isabella,"Vernon Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,,,
-Isabella,"Vernon Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,,,
+Isabella,"Vernon Township, Precinct 1",President,,Kamala D. Harris /,Democrat,217,,33,
+Isabella,"Vernon Township, Precinct 1",President,,Donald J. Trump /,Republican,457,,77,
+Isabella,"Vernon Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,,,
+Isabella,"Vernon Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Vernon Township, Precinct 1",President,,Jill Stein /,Green,0,,,
+Isabella,"Vernon Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,,,
+Isabella,"Vernon Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,,,
+Isabella,"Vernon Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,,,
 Isabella,"Vernon Township, Precinct 1",President,,Write-in,,2,,,
 Isabella,"Vernon Township, Precinct 1",President,,Over Vote Count,,0,,0,
 Isabella,"Vernon Township, Precinct 1",President,,Under Vote Count,,3,,0,
@@ -4814,14 +4814,14 @@ Isabella,"Vernon Township, Precinct 1",Isabella County Sheriff's Office Road Pat
 Isabella,"Vernon Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Over Vote Count,,0,,0,
 Isabella,"Vernon Township, Precinct 1",Isabella County Sheriff's Office Road Patrol Proposal,,Under Vote Count,,63,,10,
 Isabella,"Wise Township, Precinct 1",President,,Ballots Cast,,660,,33,
-Isabella,"Wise Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,160,,8,
-Isabella,"Wise Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,484,,25,
-Isabella,"Wise Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,,,
-Isabella,"Wise Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,,,
-Isabella,"Wise Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,,,
-Isabella,"Wise Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,10,,,
-Isabella,"Wise Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,,,
-Isabella,"Wise Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,,,
+Isabella,"Wise Township, Precinct 1",President,,Kamala D. Harris /,Democrat,160,,8,
+Isabella,"Wise Township, Precinct 1",President,,Donald J. Trump /,Republican,484,,25,
+Isabella,"Wise Township, Precinct 1",President,,Chase Oliver /,Libertarian,1,,,
+Isabella,"Wise Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,,,
+Isabella,"Wise Township, Precinct 1",President,,Jill Stein /,Green,1,,,
+Isabella,"Wise Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,10,,,
+Isabella,"Wise Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,,,
+Isabella,"Wise Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,,,
 Isabella,"Wise Township, Precinct 1",President,,Write-in,,1,,,
 Isabella,"Wise Township, Precinct 1",President,,Over Vote Count,,0,,0,
 Isabella,"Wise Township, Precinct 1",President,,Under Vote Count,,2,,0,

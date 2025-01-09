@@ -199,7 +199,7 @@ Monroe,"City of Monroe, Precinct 1",President,,Donald J. Trump,Republican,400,23
 Monroe,"City of Monroe, Precinct 1",President,,Chase Oliver,Libertarian,5,0,1,6
 Monroe,"City of Monroe, Precinct 1",President,,Jill Stein,Green,2,0,1,3
 Monroe,"City of Monroe, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,2,4,13
-Monroe,"City of Monroe, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
+Monroe,"City of Monroe, Precinct 1",President,,Cornel West /,No Party Affiliation,3,0,0,3
 Monroe,"City of Monroe, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Monroe,"City of Monroe, Precinct 1",President,,Under Vote Count,,1,2,4,7
 Monroe,"City of Monroe, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
@@ -386,8 +386,8 @@ Monroe,"City of Monroe, Precinct 2",President,,Donald J. Trump,Republican,364,18
 Monroe,"City of Monroe, Precinct 2",President,,Chase Oliver,Libertarian,3,2,2,7
 Monroe,"City of Monroe, Precinct 2",President,,Jill Stein,Green,3,0,0,3
 Monroe,"City of Monroe, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,5,7
-Monroe,"City of Monroe, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"City of Monroe, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"City of Monroe, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"City of Monroe, Precinct 2",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"City of Monroe, Precinct 2",President,,Write-in,,2,0,2,4
 Monroe,"City of Monroe, Precinct 2",President,,Peter Sonski,,1,0,0,1
 Monroe,"City of Monroe, Precinct 2",President,,Over Vote Count,,0,0,0,0
@@ -579,7 +579,7 @@ Monroe,"City of Monroe, Precinct 3N",President,,"Robert F. Kennedy, Jr.",Natural
 Monroe,"City of Monroe, Precinct 3N",President,,Write-in,,1,1,2,4
 Monroe,"City of Monroe, Precinct 3N",President,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 3N",President,,Under Vote Count,,1,1,1,3
-Monroe,"City of Monroe, Precinct 3N",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Monroe,"City of Monroe, Precinct 3N",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Monroe,"City of Monroe, Precinct 3N",U.S. Senate,,Ballots Cast,,389,183,223,795
 Monroe,"City of Monroe, Precinct 3N",U.S. Senate,,Elissa Slotkin,Democrat,135,72,152,359
 Monroe,"City of Monroe, Precinct 3N",U.S. Senate,,Mike Rogers,Republican,228,105,49,382
@@ -773,7 +773,7 @@ Monroe,"City of Monroe, Precinct 3S",President,,Donald J. Trump,Republican,158,4
 Monroe,"City of Monroe, Precinct 3S",President,,Chase Oliver,Libertarian,1,0,2,3
 Monroe,"City of Monroe, Precinct 3S",President,,Jill Stein,Green,2,0,0,2
 Monroe,"City of Monroe, Precinct 3S",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,0,1
-Monroe,"City of Monroe, Precinct 3S",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,1,0,3
+Monroe,"City of Monroe, Precinct 3S",President,,Cornel West /,No Party Affiliation,2,1,0,3
 Monroe,"City of Monroe, Precinct 3S",President,,Over Vote Count,,0,0,1,1
 Monroe,"City of Monroe, Precinct 3S",President,,Under Vote Count,,2,0,1,3
 Monroe,"City of Monroe, Precinct 3S",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
@@ -962,8 +962,8 @@ Monroe,"City of Monroe, Precinct 4",President,,Chase Oliver,Libertarian,4,2,5,11
 Monroe,"City of Monroe, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Monroe,"City of Monroe, Precinct 4",President,,Jill Stein,Green,6,1,4,11
 Monroe,"City of Monroe, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5,10
-Monroe,"City of Monroe, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"City of Monroe, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
+Monroe,"City of Monroe, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"City of Monroe, Precinct 4",President,,Cornel West /,No Party Affiliation,3,0,0,3
 Monroe,"City of Monroe, Precinct 4",President,,Write-in,,1,1,2,4
 Monroe,"City of Monroe, Precinct 4",President,,Over Vote Count,,2,0,0,2
 Monroe,"City of Monroe, Precinct 4",President,,Under Vote Count,,0,3,0,3
@@ -1150,8 +1150,8 @@ Monroe,"City of Monroe, Precinct 5",President,,Chase Oliver,Libertarian,5,2,4,11
 Monroe,"City of Monroe, Precinct 5",President,,Randall Terry,U.S. Taxpayers,4,0,1,5
 Monroe,"City of Monroe, Precinct 5",President,,Jill Stein,Green,5,1,2,8
 Monroe,"City of Monroe, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,12,19
-Monroe,"City of Monroe, Precinct 5",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"City of Monroe, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,1,0,3
+Monroe,"City of Monroe, Precinct 5",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"City of Monroe, Precinct 5",President,,Cornel West /,No Party Affiliation,2,1,0,3
 Monroe,"City of Monroe, Precinct 5",President,,Write-in,,1,5,3,9
 Monroe,"City of Monroe, Precinct 5",President,,Peter Sonski,,1,3,0,4
 Monroe,"City of Monroe, Precinct 5",President,,Over Vote Count,,0,0,1,1
@@ -1343,8 +1343,8 @@ Monroe,"City of Monroe, Precinct 6",President,,Write-in,,2,0,0,2
 Monroe,"City of Monroe, Precinct 6",President,,Over Vote Count,,1,0,1,2
 Monroe,"City of Monroe, Precinct 6",President,,Under Vote Count,,0,0,5,5
 Monroe,"City of Monroe, Precinct 6",President,,Randall Terry,U.S. Taxpayers,0,0,4,4
-Monroe,"City of Monroe, Precinct 6",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Monroe,"City of Monroe, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,2,2
+Monroe,"City of Monroe, Precinct 6",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Monroe,"City of Monroe, Precinct 6",President,,Cornel West /,No Party Affiliation,0,0,2,2
 Monroe,"City of Monroe, Precinct 6",U.S. Senate,,Ballots Cast,,664,364,625,1653
 Monroe,"City of Monroe, Precinct 6",U.S. Senate,,Elissa Slotkin,Democrat,254,108,364,726
 Monroe,"City of Monroe, Precinct 6",U.S. Senate,,Mike Rogers,Republican,345,245,221,811
@@ -1712,8 +1712,8 @@ Monroe,"Ash Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural La
 Monroe,"Ash Township, Precinct 1",President,,Write-in,,2,0,2,4
 Monroe,"Ash Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 1",President,,Under Vote Count,,0,0,11,11
-Monroe,"Ash Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Monroe,"Ash Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Monroe,"Ash Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Monroe,"Ash Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Monroe,"Ash Township, Precinct 1",U.S. Senate,,Ballots Cast,,704,342,705,1751
 Monroe,"Ash Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,176,73,324,573
 Monroe,"Ash Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,487,252,334,1073
@@ -1935,8 +1935,8 @@ Monroe,"Ash Township, Precinct 2",President,,Donald J. Trump,Republican,435,447,
 Monroe,"Ash Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
 Monroe,"Ash Township, Precinct 2",President,,Jill Stein,Green,7,1,3,11
 Monroe,"Ash Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,4,9
-Monroe,"Ash Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"Ash Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Ash Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"Ash Township, Precinct 2",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Ash Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 2",President,,Under Vote Count,,2,0,5,7
 Monroe,"Ash Township, Precinct 2",President,,Write-in,,0,1,1,2
@@ -2168,8 +2168,8 @@ Monroe,"Ash Township, Precinct 3",President,,Over Vote Count,,0,0,1,1
 Monroe,"Ash Township, Precinct 3",President,,Under Vote Count,,0,0,10,10
 Monroe,"Ash Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,0,1,1,2
 Monroe,"Ash Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,5,5
-Monroe,"Ash Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Monroe,"Ash Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Monroe,"Ash Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Monroe,"Ash Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Monroe,"Ash Township, Precinct 3",U.S. Senate,,Ballots Cast,,503,414,607,1524
 Monroe,"Ash Township, Precinct 3",U.S. Senate,,Elissa Slotkin,Democrat,111,85,241,437
 Monroe,"Ash Township, Precinct 3",U.S. Senate,,Mike Rogers,Republican,367,320,335,1022
@@ -2370,7 +2370,7 @@ Monroe,"Bedford Township, Precinct 1",President,,Donald J. Trump,Republican,273,
 Monroe,"Bedford Township, Precinct 1",President,,Chase Oliver,Libertarian,2,1,2,5
 Monroe,"Bedford Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
 Monroe,"Bedford Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,0,3
-Monroe,"Bedford Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Bedford Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 1",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 1",President,,Under Vote Count,,1,1,0,2
 Monroe,"Bedford Township, Precinct 1",U.S. Senate,,Ballots Cast,,376,218,218,812
@@ -2811,7 +2811,7 @@ Monroe,"Bedford Township, Precinct 3",President,,Chase Oliver,Libertarian,6,1,3,
 Monroe,"Bedford Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,1,1,1,3
 Monroe,"Bedford Township, Precinct 3",President,,Jill Stein,Green,3,0,0,3
 Monroe,"Bedford Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,0,7
-Monroe,"Bedford Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Bedford Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 3",President,,Write-in,,1,0,1,2
 Monroe,"Bedford Township, Precinct 3",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 3",President,,Under Vote Count,,2,0,0,2
@@ -3040,7 +3040,7 @@ Monroe,"Bedford Township, Precinct 4",President,,Chase Oliver,Libertarian,3,3,0,
 Monroe,"Bedford Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
 Monroe,"Bedford Township, Precinct 4",President,,Jill Stein,Green,1,0,0,1
 Monroe,"Bedford Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2,4
-Monroe,"Bedford Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,1,1,5
+Monroe,"Bedford Township, Precinct 4",President,,Cornel West /,No Party Affiliation,3,1,1,5
 Monroe,"Bedford Township, Precinct 4",President,,Write-in,,1,0,2,3
 Monroe,"Bedford Township, Precinct 4",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 4",President,,Under Vote Count,,2,1,7,10
@@ -3703,7 +3703,7 @@ Monroe,"Bedford Township, Precinct 7",President,,Donald J. Trump,Republican,366,
 Monroe,"Bedford Township, Precinct 7",President,,Chase Oliver,Libertarian,2,1,2,5
 Monroe,"Bedford Township, Precinct 7",President,,Jill Stein,Green,4,0,0,4
 Monroe,"Bedford Township, Precinct 7",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2,4
-Monroe,"Bedford Township, Precinct 7",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,0,2
+Monroe,"Bedford Township, Precinct 7",President,,Cornel West /,No Party Affiliation,2,0,0,2
 Monroe,"Bedford Township, Precinct 7",President,,Write-in,,3,1,0,4
 Monroe,"Bedford Township, Precinct 7",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 7",President,,Under Vote Count,,1,1,7,9
@@ -4145,7 +4145,7 @@ Monroe,"Bedford Township, Precinct 9",President,,Kamala D. Harris,Democrat,108,7
 Monroe,"Bedford Township, Precinct 9",President,,Donald J. Trump,Republican,227,192,174,593
 Monroe,"Bedford Township, Precinct 9",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Monroe,"Bedford Township, Precinct 9",President,,Jill Stein,Green,2,0,0,2
-Monroe,"Bedford Township, Precinct 9",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,1,2
+Monroe,"Bedford Township, Precinct 9",President,,Cornel West /,No Party Affiliation,1,0,1,2
 Monroe,"Bedford Township, Precinct 9",President,,Write-in,,1,0,1,2
 Monroe,"Bedford Township, Precinct 9",President,,Claudia De la Cruz,,1,0,0,1
 Monroe,"Bedford Township, Precinct 9",President,,Over Vote Count,,0,0,0,0
@@ -4809,7 +4809,7 @@ Monroe,"Bedford Township, Precinct 12",President,,Donald J. Trump,Republican,335
 Monroe,"Bedford Township, Precinct 12",President,,Chase Oliver,Libertarian,6,1,2,9
 Monroe,"Bedford Township, Precinct 12",President,,Jill Stein,Green,6,4,6,16
 Monroe,"Bedford Township, Precinct 12",President,,"Robert F. Kennedy, Jr.",Natural Law,7,1,2,10
-Monroe,"Bedford Township, Precinct 12",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Bedford Township, Precinct 12",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 12",President,,Write-in,,1,0,4,5
 Monroe,"Bedford Township, Precinct 12",President,,Over Vote Count,,1,0,0,1
 Monroe,"Bedford Township, Precinct 12",President,,Under Vote Count,,3,0,5,8
@@ -5034,7 +5034,7 @@ Monroe,"Bedford Township, Precinct 13",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 13",President,,Under Vote Count,,2,1,4,7
 Monroe,"Bedford Township, Precinct 13",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
 Monroe,"Bedford Township, Precinct 13",President,,Jill Stein,Green,0,2,0,2
-Monroe,"Bedford Township, Precinct 13",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
+Monroe,"Bedford Township, Precinct 13",President,,Cornel West /,No Party Affiliation,0,1,0,1
 Monroe,"Bedford Township, Precinct 13",U.S. Senate,,Ballots Cast,,627,398,485,1510
 Monroe,"Bedford Township, Precinct 13",U.S. Senate,,Elissa Slotkin,Democrat,180,108,265,553
 Monroe,"Bedford Township, Precinct 13",U.S. Senate,,Mike Rogers,Republican,392,269,193,854
@@ -5254,7 +5254,7 @@ Monroe,"Bedford Township, Precinct 14",President,,Jill Stein,Green,1,0,1,2
 Monroe,"Bedford Township, Precinct 14",President,,"Robert F. Kennedy, Jr.",Natural Law,3,4,1,8
 Monroe,"Bedford Township, Precinct 14",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Under Vote Count,,0,0,1,1
-Monroe,"Bedford Township, Precinct 14",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Monroe,"Bedford Township, Precinct 14",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Write-in,,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Randall Terry,U.S. Taxpayers,0,1,0,1
 Monroe,"Bedford Township, Precinct 14",U.S. Senate,,Ballots Cast,,542,316,401,1259
@@ -5484,7 +5484,7 @@ Monroe,"Berlin Township, Precinct 1",President,,Chase Oliver,Libertarian,6,1,2,9
 Monroe,"Berlin Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Monroe,"Berlin Township, Precinct 1",President,,Jill Stein,Green,1,2,1,4
 Monroe,"Berlin Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,3,0,7
-Monroe,"Berlin Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Berlin Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Berlin Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 1",President,,Under Vote Count,,2,1,7,10
 Monroe,"Berlin Township, Precinct 1",President,,Write-in,,0,0,1,1
@@ -5703,7 +5703,7 @@ Monroe,"Berlin Township, Precinct 2",President,,Donald J. Trump,Republican,598,3
 Monroe,"Berlin Township, Precinct 2",President,,Chase Oliver,Libertarian,7,1,3,11
 Monroe,"Berlin Township, Precinct 2",President,,Jill Stein,Green,1,0,2,3
 Monroe,"Berlin Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,5,10
-Monroe,"Berlin Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Berlin Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Berlin Township, Precinct 2",President,,Write-in,,1,0,3,4
 Monroe,"Berlin Township, Precinct 2",President,,Over Vote Count,,0,0,2,2
 Monroe,"Berlin Township, Precinct 2",President,,Under Vote Count,,0,2,6,8
@@ -6637,7 +6637,7 @@ Monroe,"Dundee Township, Precinct 2",President,,Chase Oliver,Libertarian,3,0,0,3
 Monroe,"Dundee Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Monroe,"Dundee Township, Precinct 2",President,,Jill Stein,Green,6,0,6,12
 Monroe,"Dundee Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,3,7
-Monroe,"Dundee Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,0,2
+Monroe,"Dundee Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,2,0,0,2
 Monroe,"Dundee Township, Precinct 2",President,,Write-in,,2,0,2,4
 Monroe,"Dundee Township, Precinct 2",President,,Claudia De la Cruz,,1,0,0,1
 Monroe,"Dundee Township, Precinct 2",President,,Over Vote Count,,2,0,0,2
@@ -6886,7 +6886,7 @@ Monroe,"Dundee Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural
 Monroe,"Dundee Township, Precinct 3",President,,Write-in,,1,0,0,1
 Monroe,"Dundee Township, Precinct 3",President,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 3",President,,Under Vote Count,,1,0,5,6
-Monroe,"Dundee Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
+Monroe,"Dundee Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,1,0,1
 Monroe,"Dundee Township, Precinct 3",U.S. Senate,,Ballots Cast,,974,485,634,2093
 Monroe,"Dundee Township, Precinct 3",U.S. Senate,,Elissa Slotkin,Democrat,279,117,330,726
 Monroe,"Dundee Township, Precinct 3",U.S. Senate,,Mike Rogers,Republican,631,345,273,1249
@@ -7122,11 +7122,11 @@ Monroe,"Erie Township, Precinct 1",President,,Chase Oliver,Libertarian,6,2,2,10
 Monroe,"Erie Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Monroe,"Erie Township, Precinct 1",President,,Jill Stein,Green,5,0,2,7
 Monroe,"Erie Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,3,8
-Monroe,"Erie Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Erie Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Erie Township, Precinct 1",President,,Write-in,,1,1,0,2
 Monroe,"Erie Township, Precinct 1",President,,Over Vote Count,,1,0,1,2
 Monroe,"Erie Township, Precinct 1",President,,Under Vote Count,,3,2,4,9
-Monroe,"Erie Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,1,2
+Monroe,"Erie Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,1,1,2
 Monroe,"Erie Township, Precinct 1",U.S. Senate,,Ballots Cast,,914,851,816,2581
 Monroe,"Erie Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,237,193,395,825
 Monroe,"Erie Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,598,626,374,1598
@@ -7352,7 +7352,7 @@ Monroe,"Exeter Township, Precinct 1",President,,Chase Oliver,Libertarian,5,1,0,6
 Monroe,"Exeter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Monroe,"Exeter Township, Precinct 1",President,,Jill Stein,Green,3,0,0,3
 Monroe,"Exeter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,0,2
-Monroe,"Exeter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Exeter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Exeter Township, Precinct 1",President,,Write-in,,2,0,0,2
 Monroe,"Exeter Township, Precinct 1",President,,Peter Sonski,,2,0,0,2
 Monroe,"Exeter Township, Precinct 1",President,,Over Vote Count,,2,0,0,2
@@ -7845,8 +7845,8 @@ Monroe,"Frenchtown Township, Precinct 1",President,,Chase Oliver,Libertarian,1,1
 Monroe,"Frenchtown Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
 Monroe,"Frenchtown Township, Precinct 1",President,,Jill Stein,Green,3,0,1,4
 Monroe,"Frenchtown Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,1,5
-Monroe,"Frenchtown Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"Frenchtown Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Frenchtown Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"Frenchtown Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 1",President,,Write-in,,1,0,3,4
 Monroe,"Frenchtown Township, Precinct 1",President,,Peter Sonski,,1,0,1,2
 Monroe,"Frenchtown Township, Precinct 1",President,,Over Vote Count,,0,0,1,1
@@ -8481,8 +8481,8 @@ Monroe,"Frenchtown Township, Precinct 4",President,,Jill Stein,Green,3,0,0,3
 Monroe,"Frenchtown Township, Precinct 4",President,,Over Vote Count,,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 4",President,,Under Vote Count,,0,0,7,7
 Monroe,"Frenchtown Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,2,2
-Monroe,"Frenchtown Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Monroe,"Frenchtown Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Monroe,"Frenchtown Township, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Monroe,"Frenchtown Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 4",President,,Write-in,,0,0,3,3
 Monroe,"Frenchtown Township, Precinct 4",U.S. Senate,,Ballots Cast,,331,354,674,1359
 Monroe,"Frenchtown Township, Precinct 4",U.S. Senate,,Elissa Slotkin,Democrat,107,99,344,550
@@ -8688,7 +8688,7 @@ Monroe,"Frenchtown Township, Precinct 5",President,,Donald J. Trump,Republican,4
 Monroe,"Frenchtown Township, Precinct 5",President,,Chase Oliver,Libertarian,4,0,3,7
 Monroe,"Frenchtown Township, Precinct 5",President,,Jill Stein,Green,6,2,2,10
 Monroe,"Frenchtown Township, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,1,2
-Monroe,"Frenchtown Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Frenchtown Township, Precinct 5",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 5",President,,Write-in,,1,0,2,3
 Monroe,"Frenchtown Township, Precinct 5",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 5",President,,Under Vote Count,,0,1,1,2
@@ -8913,11 +8913,11 @@ Monroe,"Frenchtown Township, Precinct 6",President,,Donald J. Trump,Republican,4
 Monroe,"Frenchtown Township, Precinct 6",President,,Chase Oliver,Libertarian,3,1,2,6
 Monroe,"Frenchtown Township, Precinct 6",President,,Jill Stein,Green,2,0,0,2
 Monroe,"Frenchtown Township, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,1,3
-Monroe,"Frenchtown Township, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,2,3
+Monroe,"Frenchtown Township, Precinct 6",President,,Cornel West /,No Party Affiliation,1,0,2,3
 Monroe,"Frenchtown Township, Precinct 6",President,,Write-in,,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 6",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 6",President,,Under Vote Count,,0,1,7,8
-Monroe,"Frenchtown Township, Precinct 6",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
+Monroe,"Frenchtown Township, Precinct 6",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
 Monroe,"Frenchtown Township, Precinct 6",U.S. Senate,,Ballots Cast,,567,365,536,1468
 Monroe,"Frenchtown Township, Precinct 6",U.S. Senate,,Elissa Slotkin,Democrat,138,90,296,524
 Monroe,"Frenchtown Township, Precinct 6",U.S. Senate,,Mike Rogers,Republican,382,262,221,865
@@ -9120,7 +9120,7 @@ Monroe,"Frenchtown Township, Precinct 7",President,,Kamala D. Harris,Democrat,16
 Monroe,"Frenchtown Township, Precinct 7",President,,Donald J. Trump,Republican,355,383,412,1150
 Monroe,"Frenchtown Township, Precinct 7",President,,Chase Oliver,Libertarian,3,0,0,3
 Monroe,"Frenchtown Township, Precinct 7",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,4,9
-Monroe,"Frenchtown Township, Precinct 7",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Frenchtown Township, Precinct 7",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 7",President,,Write-in,,2,2,0,4
 Monroe,"Frenchtown Township, Precinct 7",President,,Over Vote Count,,0,0,3,3
 Monroe,"Frenchtown Township, Precinct 7",President,,Under Vote Count,,1,0,3,4
@@ -9574,7 +9574,7 @@ Monroe,"Frenchtown Township, Precinct 9",President,,Write-in,,1,1,2,4
 Monroe,"Frenchtown Township, Precinct 9",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 9",President,,Under Vote Count,,1,0,4,5
 Monroe,"Frenchtown Township, Precinct 9",President,,Jill Stein,Green,0,0,1,1
-Monroe,"Frenchtown Township, Precinct 9",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
+Monroe,"Frenchtown Township, Precinct 9",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 9",President,,Randall Terry,U.S. Taxpayers,0,2,0,2
 Monroe,"Frenchtown Township, Precinct 9",U.S. Senate,,Ballots Cast,,418,379,458,1255
 Monroe,"Frenchtown Township, Precinct 9",U.S. Senate,,Elissa Slotkin,Democrat,120,113,256,489
@@ -9782,7 +9782,7 @@ Monroe,"Ida Township, Precinct 1",President,,Chase Oliver,Libertarian,3,1,5,9
 Monroe,"Ida Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,2,4
 Monroe,"Ida Township, Precinct 1",President,,Jill Stein,Green,1,0,1,2
 Monroe,"Ida Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,5,6,14
-Monroe,"Ida Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
+Monroe,"Ida Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,1,2
 Monroe,"Ida Township, Precinct 1",President,,Write-in,,1,0,0,1
 Monroe,"Ida Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Ida Township, Precinct 1",President,,Under Vote Count,,1,0,3,4
@@ -10192,11 +10192,11 @@ Monroe,"La Salle Township, Precinct 1",President,,Chase Oliver,Libertarian,3,2,1
 Monroe,"La Salle Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,2,3
 Monroe,"La Salle Township, Precinct 1",President,,Jill Stein,Green,3,2,0,5
 Monroe,"La Salle Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,4,12
-Monroe,"La Salle Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"La Salle Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"La Salle Township, Precinct 1",President,,Write-in,,1,0,2,3
 Monroe,"La Salle Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"La Salle Township, Precinct 1",President,,Under Vote Count,,3,1,6,10
-Monroe,"La Salle Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
+Monroe,"La Salle Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
 Monroe,"La Salle Township, Precinct 1",U.S. Senate,,Ballots Cast,,484,446,456,1386
 Monroe,"La Salle Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,89,96,210,395
 Monroe,"La Salle Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,357,331,219,907
@@ -10415,8 +10415,8 @@ Monroe,"La Salle Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natur
 Monroe,"La Salle Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Monroe,"La Salle Township, Precinct 2",President,,Under Vote Count,,1,0,6,7
 Monroe,"La Salle Township, Precinct 2",President,,Write-in,,0,1,2,3
-Monroe,"La Salle Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Monroe,"La Salle Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
+Monroe,"La Salle Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Monroe,"La Salle Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,1,0,1
 Monroe,"La Salle Township, Precinct 2",U.S. Senate,,Ballots Cast,,626,569,584,1779
 Monroe,"La Salle Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,151,103,264,518
 Monroe,"La Salle Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,427,443,295,1165
@@ -10872,8 +10872,8 @@ Monroe,"Milan Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
 Monroe,"Milan Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Monroe,"Milan Township, Precinct 1",President,,Jill Stein,Green,5,0,0,5
 Monroe,"Milan Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,0,5
-Monroe,"Milan Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Monroe,"Milan Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Milan Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Monroe,"Milan Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Milan Township, Precinct 1",President,,Write-in,,3,0,0,3
 Monroe,"Milan Township, Precinct 1",President,,Peter Sonski,,1,0,0,1
 Monroe,"Milan Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -11315,8 +11315,8 @@ Monroe,"Monroe Charter Township, Precinct 2",President,,Kamala D. Harris,Democra
 Monroe,"Monroe Charter Township, Precinct 2",President,,Donald J. Trump,Republican,226,145,91,462
 Monroe,"Monroe Charter Township, Precinct 2",President,,Chase Oliver,Libertarian,2,0,3,5
 Monroe,"Monroe Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,2
-Monroe,"Monroe Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,"Monroe Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Monroe Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,"Monroe Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Monroe Charter Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 2",President,,Under Vote Count,,1,1,4,6
 Monroe,"Monroe Charter Township, Precinct 2",U.S. Senate,,Ballots Cast,,361,211,256,828
@@ -11531,8 +11531,8 @@ Monroe,"Monroe Charter Township, Precinct 3",President,,Over Vote Count,,1,0,1,2
 Monroe,"Monroe Charter Township, Precinct 3",President,,Under Vote Count,,4,1,1,6
 Monroe,"Monroe Charter Township, Precinct 3",President,,Chase Oliver,Libertarian,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 3",President,,Jill Stein,Green,0,0,1,1
-Monroe,"Monroe Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,2,2
-Monroe,"Monroe Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Monroe,"Monroe Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,2,2
+Monroe,"Monroe Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 3",President,,Peter Sonski,,0,2,0,2
 Monroe,"Monroe Charter Township, Precinct 3",U.S. Senate,,Ballots Cast,,323,215,365,903
 Monroe,"Monroe Charter Township, Precinct 3",U.S. Senate,,Elissa Slotkin,Democrat,93,55,179,327
@@ -11742,7 +11742,7 @@ Monroe,"Monroe Charter Township, Precinct 4",President,,Chase Oliver,Libertarian
 Monroe,"Monroe Charter Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Monroe,"Monroe Charter Township, Precinct 4",President,,Jill Stein,Green,5,0,1,6
 Monroe,"Monroe Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,5,10
-Monroe,"Monroe Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Monroe Charter Township, Precinct 4",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Monroe Charter Township, Precinct 4",President,,Write-in,,2,0,1,3
 Monroe,"Monroe Charter Township, Precinct 4",President,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 4",President,,Under Vote Count,,0,0,3,3
@@ -12612,7 +12612,7 @@ Monroe,"Raisinville Township, Precinct 2",President,,Chase Oliver,Libertarian,3,
 Monroe,"Raisinville Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Monroe,"Raisinville Township, Precinct 2",President,,Jill Stein,Green,1,1,2,4
 Monroe,"Raisinville Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,4,8
-Monroe,"Raisinville Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
+Monroe,"Raisinville Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
 Monroe,"Raisinville Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 2",President,,Under Vote Count,,2,2,6,10
 Monroe,"Raisinville Township, Precinct 2",President,,Write-in,,0,1,1,2
@@ -12843,7 +12843,7 @@ Monroe,"Summerfield Township, Precinct 1",President,,Chase Oliver,Libertarian,7,
 Monroe,"Summerfield Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,4,7
 Monroe,"Summerfield Township, Precinct 1",President,,Jill Stein,Green,1,0,2,3
 Monroe,"Summerfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,4,12
-Monroe,"Summerfield Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,1,1,3
+Monroe,"Summerfield Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,1,1,3
 Monroe,"Summerfield Township, Precinct 1",President,,Over Vote Count,,0,1,0,1
 Monroe,"Summerfield Township, Precinct 1",President,,Under Vote Count,,2,1,7,10
 Monroe,"Summerfield Township, Precinct 1",President,,Write-in,,0,0,1,1
@@ -13067,7 +13067,7 @@ Monroe,"Whiteford Township, Precinct 1",President,,Donald J. Trump,Republican,38
 Monroe,"Whiteford Township, Precinct 1",President,,Chase Oliver,Libertarian,7,1,1,9
 Monroe,"Whiteford Township, Precinct 1",President,,Jill Stein,Green,2,1,2,5
 Monroe,"Whiteford Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,3,7
-Monroe,"Whiteford Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
+Monroe,"Whiteford Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,1,2
 Monroe,"Whiteford Township, Precinct 1",President,,Write-in,,1,0,0,1
 Monroe,"Whiteford Township, Precinct 1",President,,Over Vote Count,,1,1,0,2
 Monroe,"Whiteford Township, Precinct 1",President,,Under Vote Count,,3,1,3,7
@@ -13280,7 +13280,7 @@ Monroe,"Whiteford Township, Precinct 2",President,,Ballots Cast,,480,535,353,136
 Monroe,"Whiteford Township, Precinct 2",President,,Kamala D. Harris,Democrat,102,119,125,346
 Monroe,"Whiteford Township, Precinct 2",President,,Donald J. Trump,Republican,373,412,209,994
 Monroe,"Whiteford Township, Precinct 2",President,,Jill Stein,Green,1,0,8,9
-Monroe,"Whiteford Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Monroe,"Whiteford Township, Precinct 2",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Monroe,"Whiteford Township, Precinct 2",President,,Write-in,,1,1,1,3
 Monroe,"Whiteford Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Whiteford Township, Precinct 2",President,,Under Vote Count,,2,0,5,7
@@ -13491,8 +13491,8 @@ Monroe,City of Milan,President,,Chase Oliver,Libertarian,4,0,0,4
 Monroe,City of Milan,President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Monroe,City of Milan,President,,Jill Stein,Green,5,2,0,7
 Monroe,City of Milan,President,,"Robert F. Kennedy, Jr.",Natural Law,2,3,0,5
-Monroe,City of Milan,President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Monroe,City of Milan,President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Monroe,City of Milan,President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Monroe,City of Milan,President,,Cornel West /,No Party Affiliation,0,0,0,0
 Monroe,City of Milan,President,,Write-in,,2,0,0,2
 Monroe,City of Milan,President,,Over Vote Count,,0,0,0,0
 Monroe,City of Milan,President,,Under Vote Count,,0,0,0,0

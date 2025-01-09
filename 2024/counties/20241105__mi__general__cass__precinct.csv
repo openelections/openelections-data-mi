@@ -1,4 +1,4 @@
-﻿ccounty,precinct,office,district,candidate,party,votes
+ccounty,precinct,office,district,candidate,party,votes
 Cass,"Calvin Township, Precinct 1",Registered Voters,,,,1498
 Cass,"Calvin Township, Precinct 1",Ballots Cast,,,,767
 Cass,"Calvin Township, Precinct 1",Straight Party,,Democratic Party,DEM,205
@@ -9,23 +9,23 @@ Cass,"Calvin Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Calvin Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
 Cass,"Calvin Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
 Cass,"Calvin Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Calvin Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,321
-Cass,"Calvin Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,422
-Cass,"Calvin Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,5
-Cass,"Calvin Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Calvin Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"Calvin Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,2
-Cass,"Calvin Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"Calvin Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,4
+Cass,"Calvin Township, Precinct 1",President,,Kamala D. Harris,DEM,321
+Cass,"Calvin Township, Precinct 1",President,,Donald J. Trump,REP,422
+Cass,"Calvin Township, Precinct 1",President,,Chase Oliver,LIB,5
+Cass,"Calvin Township, Precinct 1",President,,Randall Terry,UST,0
+Cass,"Calvin Township, Precinct 1",President,,Jill Stein,GRN,0
+Cass,"Calvin Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2
+Cass,"Calvin Township, Precinct 1",President,,Joseph Kishore,NPA,1
+Cass,"Calvin Township, Precinct 1",President,,Cornel West,NPA,4
 Cass,"Calvin Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Calvin Township, Precinct 1",President,,Unresolved Write-In,,2
-Cass,"Calvin Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,304
-Cass,"Calvin Township, Precinct 1",United States Senator,,Mike Rogers,REP,423
-Cass,"Calvin Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,4
-Cass,"Calvin Township, Precinct 1",United States Senator,,Dave Stein,UST,6
-Cass,"Calvin Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,2
-Cass,"Calvin Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"Calvin Township, Precinct 1",United States Senator,,Unresolved Write-In,,1
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,304
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,423
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,4
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Dave Stein,UST,6
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"Calvin Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,1
 Cass,"Calvin Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,300
 Cass,"Calvin Township, Precinct 1",U.S. House,5,Tim Walberg,REP,432
 Cass,"Calvin Township, Precinct 1",U.S. House,5,James Bronke,GRN,7
@@ -123,23 +123,23 @@ Cass,"Howard Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Howard Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
 Cass,"Howard Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
 Cass,"Howard Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Howard Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,145
-Cass,"Howard Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,496
-Cass,"Howard Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"Howard Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,"Howard Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"Howard Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,3
-Cass,"Howard Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Howard Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Howard Township, Precinct 1",President,,Kamala D. Harris,DEM,145
+Cass,"Howard Township, Precinct 1",President,,Donald J. Trump,REP,496
+Cass,"Howard Township, Precinct 1",President,,Chase Oliver,LIB,3
+Cass,"Howard Township, Precinct 1",President,,Randall Terry,UST,1
+Cass,"Howard Township, Precinct 1",President,,Jill Stein,GRN,0
+Cass,"Howard Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,3
+Cass,"Howard Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Howard Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Howard Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Howard Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Howard Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,134
-Cass,"Howard Township, Precinct 1",United States Senator,,Mike Rogers,REP,476
-Cass,"Howard Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,12
-Cass,"Howard Township, Precinct 1",United States Senator,,Dave Stein,UST,3
-Cass,"Howard Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,4
-Cass,"Howard Township, Precinct 1",United States Senator,,Doug Dern,NLP,5
-Cass,"Howard Township, Precinct 1",United States Senator,,Unresolved Write-In,,0
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,134
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,476
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,12
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Dave Stein,UST,3
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,4
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,5
+Cass,"Howard Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Howard Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,127
 Cass,"Howard Township, Precinct 1",U.S. House,5,Tim Walberg,REP,490
 Cass,"Howard Township, Precinct 1",U.S. House,5,James Bronke,GRN,14
@@ -248,23 +248,23 @@ Cass,"Howard Township, Precinct 2",Straight Party,,Green Party,GRN,0
 Cass,"Howard Township, Precinct 2",Straight Party,,Working Class Party,WCP,3
 Cass,"Howard Township, Precinct 2",Straight Party,,Natural Law Party,NLP,1
 Cass,"Howard Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
-Cass,"Howard Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,172
-Cass,"Howard Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,464
-Cass,"Howard Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"Howard Township, Precinct 2",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Howard Township, Precinct 2",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Howard Township, Precinct 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,4
-Cass,"Howard Township, Precinct 2",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Howard Township, Precinct 2",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Howard Township, Precinct 2",President,,Kamala D. Harris,DEM,172
+Cass,"Howard Township, Precinct 2",President,,Donald J. Trump,REP,464
+Cass,"Howard Township, Precinct 2",President,,Chase Oliver,LIB,3
+Cass,"Howard Township, Precinct 2",President,,Randall Terry,UST,0
+Cass,"Howard Township, Precinct 2",President,,Jill Stein,GRN,2
+Cass,"Howard Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",NLP,4
+Cass,"Howard Township, Precinct 2",President,,Joseph Kishore,NPA,0
+Cass,"Howard Township, Precinct 2",President,,Cornel West,NPA,0
 Cass,"Howard Township, Precinct 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"Howard Township, Precinct 2",President,,Unresolved Write-In,,1
-Cass,"Howard Township, Precinct 2",United States Senator,,Elissa Slotkin,DEM,168
-Cass,"Howard Township, Precinct 2",United States Senator,,Mike Rogers,REP,450
-Cass,"Howard Township, Precinct 2",United States Senator,,Joseph Solis-Mullen,LIB,9
-Cass,"Howard Township, Precinct 2",United States Senator,,Dave Stein,UST,3
-Cass,"Howard Township, Precinct 2",United States Senator,,Douglas P. Marsh,GRN,3
-Cass,"Howard Township, Precinct 2",United States Senator,,Doug Dern,NLP,2
-Cass,"Howard Township, Precinct 2",United States Senator,,Unresolved Write-In,,0
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Elissa Slotkin,DEM,168
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Mike Rogers,REP,450
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Joseph Solis-Mullen,LIB,9
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Dave Stein,UST,3
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Doug Dern,NLP,2
+Cass,"Howard Township, Precinct 2",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Howard Township, Precinct 2",U.S. House,5,Libbi Urban,DEM,162
 Cass,"Howard Township, Precinct 2",U.S. House,5,Tim Walberg,REP,460
 Cass,"Howard Township, Precinct 2",U.S. House,5,James Bronke,GRN,9
@@ -376,23 +376,23 @@ Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Green Party,GRN,2
 Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Working Class Party,WCP,5
 Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Natural Law Party,NLP,1
 Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Unresolved Write-In,,0
-Cass,"Howard Township, Precincts 1 & 2",President,,Kamala D. Harris/Tim Walz,DEM,577
-Cass,"Howard Township, Precincts 1 & 2",President,,Donald J. Trump/JD Vance,REP,671
-Cass,"Howard Township, Precincts 1 & 2",President,,Chase Oliver/Mike ter Maat,LIB,1
-Cass,"Howard Township, Precincts 1 & 2",President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,"Howard Township, Precincts 1 & 2",President,,Jill Stein/Rudolph Ware,GRN,3
-Cass,"Howard Township, Precincts 1 & 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,"Howard Township, Precincts 1 & 2",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Howard Township, Precincts 1 & 2",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"Howard Township, Precincts 1 & 2",President,,Kamala D. Harris,DEM,577
+Cass,"Howard Township, Precincts 1 & 2",President,,Donald J. Trump,REP,671
+Cass,"Howard Township, Precincts 1 & 2",President,,Chase Oliver,LIB,1
+Cass,"Howard Township, Precincts 1 & 2",President,,Randall Terry,UST,1
+Cass,"Howard Township, Precincts 1 & 2",President,,Jill Stein,GRN,3
+Cass,"Howard Township, Precincts 1 & 2",President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,"Howard Township, Precincts 1 & 2",President,,Joseph Kishore,NPA,0
+Cass,"Howard Township, Precincts 1 & 2",President,,Cornel West,NPA,1
 Cass,"Howard Township, Precincts 1 & 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"Howard Township, Precincts 1 & 2",President,,Unresolved Write-In,,2
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Elissa Slotkin,DEM,550
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Mike Rogers,REP,666
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Joseph Solis-Mullen,LIB,3
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Dave Stein,UST,4
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Douglas P. Marsh,GRN,5
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Doug Dern,NLP,3
-Cass,"Howard Township, Precincts 1 & 2",United States Senator,,Unresolved Write-In,,2
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Elissa Slotkin,DEM,550
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Mike Rogers,REP,666
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Dave Stein,UST,4
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Douglas P. Marsh,GRN,5
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Doug Dern,NLP,3
+Cass,"Howard Township, Precincts 1 & 2",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Howard Township, Precincts 1 & 2",U.S. House,5,Libbi Urban,DEM,523
 Cass,"Howard Township, Precincts 1 & 2",U.S. House,5,Tim Walberg,REP,690
 Cass,"Howard Township, Precincts 1 & 2",U.S. House,5,James Bronke,GRN,9
@@ -510,23 +510,23 @@ Cass,"Jefferson Township, Precinct 1",Straight Party,,Green Party,GRN,1
 Cass,"Jefferson Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
 Cass,"Jefferson Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Jefferson Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Jefferson Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,154
-Cass,"Jefferson Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,430
-Cass,"Jefferson Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Jefferson Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,4
-Cass,"Jefferson Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,"Jefferson Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,1
-Cass,"Jefferson Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Jefferson Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Jefferson Township, Precinct 1",President,,Kamala D. Harris,DEM,154
+Cass,"Jefferson Township, Precinct 1",President,,Donald J. Trump,REP,430
+Cass,"Jefferson Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Jefferson Township, Precinct 1",President,,Randall Terry,UST,4
+Cass,"Jefferson Township, Precinct 1",President,,Jill Stein,GRN,1
+Cass,"Jefferson Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,1
+Cass,"Jefferson Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Jefferson Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Jefferson Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Jefferson Township, Precinct 1",President,,Unresolved Write-In,,1
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Elissa Stotkin,DEM,136
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Mike Rogers,REP,417
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,13
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Dave Stein,UST,4
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,1
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Doug Dern,NLP,2
-Cass,"Jefferson Township, Precinct 1",United States Senator,,Unresolved Write-In,,1
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Elissa Stotkin,DEM,136
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,417
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,13
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Dave Stein,UST,4
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,1
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Cass,"Jefferson Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,1
 Cass,"Jefferson Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,136
 Cass,"Jefferson Township, Precinct 1",U.S. House,5,Tim Walberg,REP,424
 Cass,"Jefferson Township, Precinct 1",U.S. House,5,James Bronke,GRN,3
@@ -633,23 +633,23 @@ Cass,Jefferson Township,Straight Party,,Green Party,GRN,0
 Cass,Jefferson Township,Straight Party,,Working Class Party,WCP,0
 Cass,Jefferson Township,Straight Party,,Natural Law Party,NLP,0
 Cass,Jefferson Township,Straight Party,,Unresolved Write-In,,0
-Cass,Jefferson Township,President,,Kamala D. Harris/Tim Walz,DEM,198
-Cass,Jefferson Township,President,,Donald J. Trump/JD Vance,REP,159
-Cass,Jefferson Township,President,,Chase Oliver/Mike ter Maat,LIB,1
-Cass,Jefferson Township,President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,Jefferson Township,President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,Jefferson Township,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,0
-Cass,Jefferson Township,President,,Joseph Kishore/Jerry White,NPA,0
-Cass,Jefferson Township,President,,Cornel West/Melina Abdullah,NPA,0
+Cass,Jefferson Township,President,,Kamala D. Harris,DEM,198
+Cass,Jefferson Township,President,,Donald J. Trump,REP,159
+Cass,Jefferson Township,President,,Chase Oliver,LIB,1
+Cass,Jefferson Township,President,,Randall Terry,UST,1
+Cass,Jefferson Township,President,,Jill Stein,GRN,0
+Cass,Jefferson Township,President,,"Robert F. Kennedy, Jr.",NLP,0
+Cass,Jefferson Township,President,,Joseph Kishore,NPA,0
+Cass,Jefferson Township,President,,Cornel West,NPA,0
 Cass,Jefferson Township,President,,Peter Sonski,WRITE-IN,0
 Cass,Jefferson Township,President,,Unresolved Write-In,,1
-Cass,Jefferson Township,United States Senator,,Elissa Slotkin,DEM,185
-Cass,Jefferson Township,United States Senator,,Mike Rogers,REP,165
-Cass,Jefferson Township,United States Senator,,Joseph Solis-Mullen,LIB,0
-Cass,Jefferson Township,United States Senator,,Dave Stein,UST,1
-Cass,Jefferson Township,United States Senator,,Douglas P. Marsh,GRN,1
-Cass,Jefferson Township,United States Senator,,Doug Dern,NLP,1
-Cass,Jefferson Township,United States Senator,,Unresolved Write-In,,0
+Cass,Jefferson Township,U.S. Senate,,Elissa Slotkin,DEM,185
+Cass,Jefferson Township,U.S. Senate,,Mike Rogers,REP,165
+Cass,Jefferson Township,U.S. Senate,,Joseph Solis-Mullen,LIB,0
+Cass,Jefferson Township,U.S. Senate,,Dave Stein,UST,1
+Cass,Jefferson Township,U.S. Senate,,Douglas P. Marsh,GRN,1
+Cass,Jefferson Township,U.S. Senate,,Doug Dern,NLP,1
+Cass,Jefferson Township,U.S. Senate,,Unresolved Write-In,,0
 Cass,Jefferson Township,U.S. House,5,Libbi Urban,DEM,179
 Cass,Jefferson Township,U.S. House,5,Tim Walberg,REP,170
 Cass,Jefferson Township,U.S. House,5,James Bronke,GRN,4
@@ -756,23 +756,23 @@ Cass,"LaGrange Township, Precinct 1",Straight Party,,Green Party,GRN,1
 Cass,"LaGrange Township, Precinct 1",Straight Party,,Working Class Party,WCP,7
 Cass,"LaGrange Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"LaGrange Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"LaGrange Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,216
-Cass,"LaGrange Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,320
-Cass,"LaGrange Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"LaGrange Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,4
-Cass,"LaGrange Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"LaGrange Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,"LaGrange Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"LaGrange Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"LaGrange Township, Precinct 1",President,,Kamala D. Harris,DEM,216
+Cass,"LaGrange Township, Precinct 1",President,,Donald J. Trump,REP,320
+Cass,"LaGrange Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"LaGrange Township, Precinct 1",President,,Randall Terry,UST,4
+Cass,"LaGrange Township, Precinct 1",President,,Jill Stein,GRN,0
+Cass,"LaGrange Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,"LaGrange Township, Precinct 1",President,,Joseph Kishore,NPA,1
+Cass,"LaGrange Township, Precinct 1",President,,Cornel West,NPA,1
 Cass,"LaGrange Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"LaGrange Township, Precinct 1",President,,Unresolved Write-In,,3
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Elissa Stotkin,DEM,204
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Mike Rogers,REP,314
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,9
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Dave Stein,UST,7
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,2
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"LaGrange Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Elissa Stotkin,DEM,204
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,314
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,9
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Dave Stein,UST,7
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"LaGrange Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"LaGrange Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,209
 Cass,"LaGrange Township, Precinct 1",U.S. House,5,Tim Walberg,REP,312
 Cass,"LaGrange Township, Precinct 1",U.S. House,5,James Bronke,GRN,16
@@ -888,23 +888,23 @@ Cass,LaGrange Township,Straight Party,,Green Party,GRN,0
 Cass,LaGrange Township,Straight Party,,Working Class Party,WCP,2
 Cass,LaGrange Township,Straight Party,,Natural Law Party,NLP,2
 Cass,LaGrange Township,Straight Party,,Unresolved Write-In,,0
-Cass,LaGrange Township,President,,Kamala D. Harris/Tim Walz,DEM,304
-Cass,LaGrange Township,President,,Donald J. Trump/JD Vance,REP,157
-Cass,LaGrange Township,President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,LaGrange Township,President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,LaGrange Township,President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,LaGrange Township,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,4
-Cass,LaGrange Township,President,,Joseph Kishore/Jerry White,NPA,1
-Cass,LaGrange Township,President,,Cornel West/Melina Abdullah,NPA,0
+Cass,LaGrange Township,President,,Kamala D. Harris,DEM,304
+Cass,LaGrange Township,President,,Donald J. Trump,REP,157
+Cass,LaGrange Township,President,,Chase Oliver,LIB,3
+Cass,LaGrange Township,President,,Randall Terry,UST,1
+Cass,LaGrange Township,President,,Jill Stein,GRN,2
+Cass,LaGrange Township,President,,"Robert F. Kennedy, Jr.",NLP,4
+Cass,LaGrange Township,President,,Joseph Kishore,NPA,1
+Cass,LaGrange Township,President,,Cornel West,NPA,0
 Cass,LaGrange Township,President,,Peter Sonski,WRITE-IN,0
 Cass,LaGrange Township,President,,Unresolved Write-In,,1
-Cass,LaGrange Township,United States Senator,,Elissa Slotkin,DEM,286
-Cass,LaGrange Township,United States Senator,,Mike Rogers,REP,166
-Cass,LaGrange Township,United States Senator,,Joseph Solis-Mullen,LIB,3
-Cass,LaGrange Township,United States Senator,,Dave Stein,UST,3
-Cass,LaGrange Township,United States Senator,,Douglas P. Marsh,GRN,2
-Cass,LaGrange Township,United States Senator,,Doug Dern,NLP,2
-Cass,LaGrange Township,United States Senator,,Unresolved Write-In,,0
+Cass,LaGrange Township,U.S. Senate,,Elissa Slotkin,DEM,286
+Cass,LaGrange Township,U.S. Senate,,Mike Rogers,REP,166
+Cass,LaGrange Township,U.S. Senate,,Joseph Solis-Mullen,LIB,3
+Cass,LaGrange Township,U.S. Senate,,Dave Stein,UST,3
+Cass,LaGrange Township,U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,LaGrange Township,U.S. Senate,,Doug Dern,NLP,2
+Cass,LaGrange Township,U.S. Senate,,Unresolved Write-In,,0
 Cass,LaGrange Township,U.S. House,5,Libbi Urban,DEM,275
 Cass,LaGrange Township,U.S. House,5,Tim Walberg,REP,170
 Cass,LaGrange Township,U.S. House,5,James Bronke,GRN,16
@@ -1020,23 +1020,23 @@ Cass,"Marcellus Township, Precinct 1",Straight Party,,Green Party,GRN,2
 Cass,"Marcellus Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
 Cass,"Marcellus Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Marcellus Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Marcellus Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,429
-Cass,"Marcellus Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,726
-Cass,"Marcellus Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Marcellus Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,3
-Cass,"Marcellus Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,5
-Cass,"Marcellus Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,9
-Cass,"Marcellus Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,2
-Cass,"Marcellus Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"Marcellus Township, Precinct 1",President,,Kamala D. Harris,DEM,429
+Cass,"Marcellus Township, Precinct 1",President,,Donald J. Trump,REP,726
+Cass,"Marcellus Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Marcellus Township, Precinct 1",President,,Randall Terry,UST,3
+Cass,"Marcellus Township, Precinct 1",President,,Jill Stein,GRN,5
+Cass,"Marcellus Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,9
+Cass,"Marcellus Township, Precinct 1",President,,Joseph Kishore,NPA,2
+Cass,"Marcellus Township, Precinct 1",President,,Cornel West,NPA,1
 Cass,"Marcellus Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Marcellus Township, Precinct 1",President,,Unresolved Write-in,,3
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,412
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Mike Rogers,REP,693
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,16
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Dave Stein,UST,20
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,9
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Doug Dern,NLP,9
-Cass,"Marcellus Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,412
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,693
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,16
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Dave Stein,UST,20
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,9
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,9
+Cass,"Marcellus Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Marcellus Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,389
 Cass,"Marcellus Township, Precinct 1",U.S. House,5,Tim Walberg,REP,724
 Cass,"Marcellus Township, Precinct 1",U.S. House,5,James Bronke,GRN,30
@@ -1152,23 +1152,23 @@ Cass,"Mason Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Mason Township, Precinct 1",Straight Party,,Working Class Party,WCP,7
 Cass,"Mason Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
 Cass,"Mason Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Mason Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,276
-Cass,"Mason Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,806
-Cass,"Mason Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"Mason Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Mason Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"Mason Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,11
-Cass,"Mason Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Mason Township, Precinct 1",President,,Comel West/Melina Abdullah,NPA,1
+Cass,"Mason Township, Precinct 1",President,,Kamala D. Harris,DEM,276
+Cass,"Mason Township, Precinct 1",President,,Donald J. Trump,REP,806
+Cass,"Mason Township, Precinct 1",President,,Chase Oliver,LIB,3
+Cass,"Mason Township, Precinct 1",President,,Randall Terry,UST,2
+Cass,"Mason Township, Precinct 1",President,,Jill Stein,GRN,0
+Cass,"Mason Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,11
+Cass,"Mason Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Mason Township, Precinct 1",President,,Comel West,NPA,1
 Cass,"Mason Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Mason Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Mason Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,256
-Cass,"Mason Township, Precinct 1",United States Senator,,Mike Rogers,REP,796
-Cass,"Mason Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,12
-Cass,"Mason Township, Precinct 1",United States Senator,,Dave Stein,UST,8
-Cass,"Mason Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,4
-Cass,"Mason Township, Precinct 1",United States Senator,,Doug Dern,NLP,9
-Cass,"Mason Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,256
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,796
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,12
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Dave Stein,UST,8
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,4
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,9
+Cass,"Mason Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Mason Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,249
 Cass,"Mason Township, Precinct 1",U.S. House,5,Tim Walberg,REP,815
 Cass,"Mason Township, Precinct 1",U.S. House,5,James Bronke,GRN,13
@@ -1286,23 +1286,23 @@ Cass,"Milton Township, Precinct 1",Straight Party,,Green Party,GRN,3
 Cass,"Milton Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
 Cass,"Milton Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Milton Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Milton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,462
-Cass,"Milton Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,953
-Cass,"Milton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"Milton Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Milton Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,4
-Cass,"Milton Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,2
-Cass,"Milton Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Milton Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Milton Township, Precinct 1",President,,Kamala D. Harris,DEM,462
+Cass,"Milton Township, Precinct 1",President,,Donald J. Trump,REP,953
+Cass,"Milton Township, Precinct 1",President,,Chase Oliver,LIB,3
+Cass,"Milton Township, Precinct 1",President,,Randall Terry,UST,2
+Cass,"Milton Township, Precinct 1",President,,Jill Stein,GRN,4
+Cass,"Milton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2
+Cass,"Milton Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Milton Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Milton Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Milton Township, Precinct 1",President,,Unresolved Write-In,,4
-Cass,"Milton Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,436
-Cass,"Milton Township, Precinct 1",United States Senator,,Mike Rogers,REP,956
-Cass,"Milton Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,6
-Cass,"Milton Township, Precinct 1",United States Senator,,Dave Stein,UST,9
-Cass,"Milton Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,8
-Cass,"Milton Township, Precinct 1",United States Senator,,Doug Dern,NLP,2
-Cass,"Milton Township, Precinct 1",United States Senator,,Unresolved Write-In,,1
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,436
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,956
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,6
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Dave Stein,UST,9
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,8
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Cass,"Milton Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,1
 Cass,"Milton Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,412
 Cass,"Milton Township, Precinct 1",U.S. House,5,Tim Walberg,REP,974
 Cass,"Milton Township, Precinct 1",U.S. House,5,James Bronke,GRN,18
@@ -1407,23 +1407,23 @@ Cass,"Newberg Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Newberg Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
 Cass,"Newberg Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Newberg Township, Precinct 1",Straight Party,,Unresolved Write-in,,0
-Cass,"Newberg Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,213
-Cass,"Newberg Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,537
-Cass,"Newberg Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Newberg Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,"Newberg Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,"Newberg Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,3
-Cass,"Newberg Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"Newberg Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"Newberg Township, Precinct 1",President,,Kamala D. Harris,DEM,213
+Cass,"Newberg Township, Precinct 1",President,,Donald J. Trump,REP,537
+Cass,"Newberg Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Newberg Township, Precinct 1",President,,Randall Terry,UST,1
+Cass,"Newberg Township, Precinct 1",President,,Jill Stein,GRN,1
+Cass,"Newberg Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,3
+Cass,"Newberg Township, Precinct 1",President,,Joseph Kishore,NPA,1
+Cass,"Newberg Township, Precinct 1",President,,Cornel West,NPA,1
 Cass,"Newberg Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Newberg Township, Precinct 1",President,,Unresolved Write-In,,2
-Cass,"Newberg Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,203
-Cass,"Newberg Township, Precinct 1",United States Senator,,Mike Rogers,REP,519
-Cass,"Newberg Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,12
-Cass,"Newberg Township, Precinct 1",United States Senator,,Dave Stein,UST,10
-Cass,"Newberg Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,2
-Cass,"Newberg Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"Newberg Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,203
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,519
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,12
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Dave Stein,UST,10
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"Newberg Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Newberg Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,194
 Cass,"Newberg Township, Precinct 1",U.S. House,5,Tim Walberg,REP,529
 Cass,"Newberg Township, Precinct 1",U.S. House,5,James Bronke,GRN,17
@@ -1548,23 +1548,23 @@ Cass,"Ontwa Township, Precinct 1",Straight Party,,Green Party,GRN,3
 Cass,"Ontwa Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
 Cass,"Ontwa Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Ontwa Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Ontwa Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,134
-Cass,"Ontwa Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,432
-Cass,"Ontwa Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Ontwa Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Ontwa Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,5
-Cass,"Ontwa Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,"Ontwa Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"Ontwa Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Ontwa Township, Precinct 1",President,,Kamala D. Harris,DEM,134
+Cass,"Ontwa Township, Precinct 1",President,,Donald J. Trump,REP,432
+Cass,"Ontwa Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Ontwa Township, Precinct 1",President,,Randall Terry,UST,0
+Cass,"Ontwa Township, Precinct 1",President,,Jill Stein,GRN,5
+Cass,"Ontwa Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,"Ontwa Township, Precinct 1",President,,Joseph Kishore,NPA,1
+Cass,"Ontwa Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Ontwa Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Ontwa Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,121
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Mike Rogers,REP,422
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,5
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Dave Stein,UST,5
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,10
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"Ontwa Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,121
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,422
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Dave Stein,UST,5
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,10
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"Ontwa Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Ontwa Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,116
 Cass,"Ontwa Township, Precinct 1",U.S. House,5,Tim Walberg,REP,435
 Cass,"Ontwa Township, Precinct 1",U.S. House,5,James Bronke,GRN,16
@@ -1669,23 +1669,23 @@ Cass,"Ontwa Township, Precinct 2",Straight Party,,Green Party,GRN,0
 Cass,"Ontwa Township, Precinct 2",Straight Party,,Working Class Party,WCP,4
 Cass,"Ontwa Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0
 Cass,"Ontwa Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
-Cass,"Ontwa Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,116
-Cass,"Ontwa Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,382
-Cass,"Ontwa Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,5
-Cass,"Ontwa Township, Precinct 2",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Ontwa Township, Precinct 2",President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,"Ontwa Township, Precinct 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,0
-Cass,"Ontwa Township, Precinct 2",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"Ontwa Township, Precinct 2",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"Ontwa Township, Precinct 2",President,,Kamala D. Harris,DEM,116
+Cass,"Ontwa Township, Precinct 2",President,,Donald J. Trump,REP,382
+Cass,"Ontwa Township, Precinct 2",President,,Chase Oliver,LIB,5
+Cass,"Ontwa Township, Precinct 2",President,,Randall Terry,UST,0
+Cass,"Ontwa Township, Precinct 2",President,,Jill Stein,GRN,1
+Cass,"Ontwa Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",NLP,0
+Cass,"Ontwa Township, Precinct 2",President,,Joseph Kishore,NPA,1
+Cass,"Ontwa Township, Precinct 2",President,,Cornel West,NPA,1
 Cass,"Ontwa Township, Precinct 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"Ontwa Township, Precinct 2",President,,Unresolved Write-In,,5
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Elissa Slotkin,DEM,116
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Mike Rogers,REP,365
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Joseph Solis-Mullen,LIB,8
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Dave Stein,UST,2
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Douglas P. Marsh,GRN,1
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Doug Dern,NLP,3
-Cass,"Ontwa Township, Precinct 2",United States Senator,,Unresolved Write-In,,3
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Elissa Slotkin,DEM,116
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Mike Rogers,REP,365
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Joseph Solis-Mullen,LIB,8
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Dave Stein,UST,2
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Douglas P. Marsh,GRN,1
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Doug Dern,NLP,3
+Cass,"Ontwa Township, Precinct 2",U.S. Senate,,Unresolved Write-In,,3
 Cass,"Ontwa Township, Precinct 2",U.S. House,5,Libbi Urban,DEM,110
 Cass,"Ontwa Township, Precinct 2",U.S. House,5,Tim Walberg,REP,372
 Cass,"Ontwa Township, Precinct 2",U.S. House,5,James Bronke,GRN,8
@@ -1785,23 +1785,23 @@ Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Green Party,GRN,1
 Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Working Class Party,WCP,5
 Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Natural Law Party,NLP,1
 Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Unresolved Write-In,,0
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Kamala D. Harris/Tim Walz,DEM,668
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Donald J. Trump/JD Vance,REP,854
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Chase Oliver/Mike ter Maat,LIB,6
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Ontwa Township, Precincts 1 & 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,7
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Ontwa Township, Precincts 1 & 2",President,,Cornel West/Melina Abdullah,NPA,2
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Kamala D. Harris,DEM,668
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Donald J. Trump,REP,854
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Chase Oliver,LIB,6
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Randall Terry,UST,2
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Jill Stein,GRN,2
+Cass,"Ontwa Township, Precincts 1 & 2",President,,"Robert F. Kennedy, Jr.",NLP,7
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Joseph Kishore,NPA,0
+Cass,"Ontwa Township, Precincts 1 & 2",President,,Cornel West,NPA,2
 Cass,"Ontwa Township, Precincts 1 & 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"Ontwa Township, Precincts 1 & 2",President,,Unresolved Write-In,,2
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Elissa Slotkin,DEM,638
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Mike Rogers,REP,851
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Joseph Solis-Mullen,LIB,7
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Dave Stein,UST,7
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Douglas P. Marsh,GRN,6
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Doug Dern,NLP,3
-Cass,"Ontwa Township, Precincts 1 & 2",United States Senator,,Unresolved Write-In,,0
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Elissa Slotkin,DEM,638
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Mike Rogers,REP,851
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Joseph Solis-Mullen,LIB,7
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Dave Stein,UST,7
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Douglas P. Marsh,GRN,6
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Doug Dern,NLP,3
+Cass,"Ontwa Township, Precincts 1 & 2",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Ontwa Township, Precincts 1 & 2",U.S. House,5,Libbi Urban,DEM,623
 Cass,"Ontwa Township, Precincts 1 & 2",U.S. House,5,Tim Walberg,REP,866
 Cass,"Ontwa Township, Precincts 1 & 2",U.S. House,5,James Bronke,GRN,9
@@ -1907,23 +1907,23 @@ Cass,"Penn Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Penn Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
 Cass,"Penn Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Penn Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Penn Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,311
-Cass,"Penn Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,426
-Cass,"Penn Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Penn Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Penn Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Penn Township, Precinct 1",President,,Robert F. Kennedy. Jr./Nicole Shanahan,NLP,3
-Cass,"Penn Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Penn Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Penn Township, Precinct 1",President,,Kamala D. Harris,DEM,311
+Cass,"Penn Township, Precinct 1",President,,Donald J. Trump,REP,426
+Cass,"Penn Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Penn Township, Precinct 1",President,,Randall Terry,UST,2
+Cass,"Penn Township, Precinct 1",President,,Jill Stein,GRN,2
+Cass,"Penn Township, Precinct 1",President,,Robert F. Kennedy. Jr.,NLP,3
+Cass,"Penn Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Penn Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Penn Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Penn Township, Precinct 1",President,,Unresolved Write-In,,1
-Cass,"Penn Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,286
-Cass,"Penn Township, Precinct 1",United States Senator,,Mike Rogers,REP,427
-Cass,"Penn Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,5
-Cass,"Penn Township, Precinct 1",United States Senator,,Dave Stein,UST,7
-Cass,"Penn Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,5
-Cass,"Penn Township, Precinct 1",United States Senator,,Doug Dern,NLP,3
-Cass,"Penn Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,286
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,427
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Dave Stein,UST,7
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,5
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Cass,"Penn Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Penn Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,275
 Cass,"Penn Township, Precinct 1",U.S. House,5,Tim Walberg,REP,431
 Cass,"Penn Township, Precinct 1",U.S. House,5,James Bronke,GRN,13
@@ -2035,23 +2035,23 @@ Cass,"Pokagon Township, Precinct 1",Straight Party,,Green Party,GRN,1
 Cass,"Pokagon Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
 Cass,"Pokagon Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
 Cass,"Pokagon Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Pokagon Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,319
-Cass,"Pokagon Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,595
-Cass,"Pokagon Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"Pokagon Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Pokagon Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Pokagon Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,0
-Cass,"Pokagon Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Pokagon Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Pokagon Township, Precinct 1",President,,Kamala D. Harris,DEM,319
+Cass,"Pokagon Township, Precinct 1",President,,Donald J. Trump,REP,595
+Cass,"Pokagon Township, Precinct 1",President,,Chase Oliver,LIB,3
+Cass,"Pokagon Township, Precinct 1",President,,Randall Terry,UST,2
+Cass,"Pokagon Township, Precinct 1",President,,Jill Stein,GRN,2
+Cass,"Pokagon Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0
+Cass,"Pokagon Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Pokagon Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Pokagon Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Pokagon Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,310
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Mike Rogers,REP,561
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,14
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Dave Stein,UST,8
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,1
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Doug Dern,NLP,7
-Cass,"Pokagon Township, Precinct 1",United States Senator,,Unresolved Write-In,,4
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,310
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,561
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,14
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Dave Stein,UST,8
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,1
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,7
+Cass,"Pokagon Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,4
 Cass,"Pokagon Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,289
 Cass,"Pokagon Township, Precinct 1",U.S. House,5,Tim Walberg,REP,591
 Cass,"Pokagon Township, Precinct 1",U.S. House,5,James Bronke,GRN,15
@@ -2163,23 +2163,23 @@ Cass,"Porter Township, Precinct 1",Straight Party,,Green Party,GRN,2
 Cass,"Porter Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
 Cass,"Porter Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
 Cass,"Porter Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Porter Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,286
-Cass,"Porter Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,679
-Cass,"Porter Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
-Cass,"Porter Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,"Porter Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,5
-Cass,"Porter Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,2
-Cass,"Porter Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Porter Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Porter Township, Precinct 1",President,,Kamala D. Harris,DEM,286
+Cass,"Porter Township, Precinct 1",President,,Donald J. Trump,REP,679
+Cass,"Porter Township, Precinct 1",President,,Chase Oliver,LIB,4
+Cass,"Porter Township, Precinct 1",President,,Randall Terry,UST,2
+Cass,"Porter Township, Precinct 1",President,,Jill Stein,GRN,5
+Cass,"Porter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2
+Cass,"Porter Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Porter Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Porter Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Porter Township, Precinct 1",President,,Unresolved Write-In,,3
-Cass,"Porter Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,267
-Cass,"Porter Township, Precinct 1",United States Senator,,Mike Rogers,REP,667
-Cass,"Porter Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,5
-Cass,"Porter Township, Precinct 1",United States Senator,,Dave Stein,UST,8
-Cass,"Porter Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,6
-Cass,"Porter Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"Porter Township, Precinct 1",United States Senator,,Unresolved Write-In,,1
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,267
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,667
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Dave Stein,UST,8
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,6
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"Porter Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,1
 Cass,"Porter Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,262
 Cass,"Porter Township, Precinct 1",U.S. House,5,Tim Walberg,REP,681
 Cass,"Porter Township, Precinct 1",U.S. House,5,James Bronke,GRN,9
@@ -2300,23 +2300,23 @@ Cass,"Porter Township, Precinct 2",Straight Party,,Green Party,GRN,0
 Cass,"Porter Township, Precinct 2",Straight Party,,Working Class Party,WCP,0
 Cass,"Porter Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0
 Cass,"Porter Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
-Cass,"Porter Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,247
-Cass,"Porter Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,555
-Cass,"Porter Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,1
-Cass,"Porter Township, Precinct 2",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Porter Township, Precinct 2",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"Porter Township, Precinct 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,"Porter Township, Precinct 2",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Porter Township, Precinct 2",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Porter Township, Precinct 2",President,,Kamala D. Harris,DEM,247
+Cass,"Porter Township, Precinct 2",President,,Donald J. Trump,REP,555
+Cass,"Porter Township, Precinct 2",President,,Chase Oliver,LIB,1
+Cass,"Porter Township, Precinct 2",President,,Randall Terry,UST,0
+Cass,"Porter Township, Precinct 2",President,,Jill Stein,GRN,0
+Cass,"Porter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,"Porter Township, Precinct 2",President,,Joseph Kishore,NPA,0
+Cass,"Porter Township, Precinct 2",President,,Cornel West,NPA,0
 Cass,"Porter Township, Precinct 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"Porter Township, Precinct 2",President,,Unresolved Write-In,,3
-Cass,"Porter Township, Precinct 2",United States Senator,,Elissa Slotkin,DEM,233
-Cass,"Porter Township, Precinct 2",United States Senator,,Mike Rogers,REP,555
-Cass,"Porter Township, Precinct 2",United States Senator,,Joseph Solis-Mullen,LIB,7
-Cass,"Porter Township, Precinct 2",United States Senator,,Dave Stein,UST,4
-Cass,"Porter Township, Precinct 2",United States Senator,,Douglas P. Marsh,GRN,3
-Cass,"Porter Township, Precinct 2",United States Senator,,Doug Dern,NLP,1
-Cass,"Porter Township, Precinct 2",United States Senator,,Unresolved Write-In,,0
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Elissa Slotkin,DEM,233
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Mike Rogers,REP,555
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Joseph Solis-Mullen,LIB,7
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Dave Stein,UST,4
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Doug Dern,NLP,1
+Cass,"Porter Township, Precinct 2",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Porter Township, Precinct 2",U.S. House,5,Libbi Urban,DEM,235
 Cass,"Porter Township, Precinct 2",U.S. House,5,Tim Walberg,REP,557
 Cass,"Porter Township, Precinct 2",U.S. House,5,James Bronke,GRN,7
@@ -2426,23 +2426,23 @@ Cass,"Silver Creek Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Silver Creek Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
 Cass,"Silver Creek Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
 Cass,"Silver Creek Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Silver Creek Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,160
-Cass,"Silver Creek Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,542
-Cass,"Silver Creek Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,2
-Cass,"Silver Creek Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Silver Creek Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Silver Creek Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,"Silver Creek Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Silver Creek Township, Precinct 1",President,,Comel West/Melina Abdullah,NPA,0
+Cass,"Silver Creek Township, Precinct 1",President,,Kamala D. Harris,DEM,160
+Cass,"Silver Creek Township, Precinct 1",President,,Donald J. Trump,REP,542
+Cass,"Silver Creek Township, Precinct 1",President,,Chase Oliver,LIB,2
+Cass,"Silver Creek Township, Precinct 1",President,,Randall Terry,UST,0
+Cass,"Silver Creek Township, Precinct 1",President,,Jill Stein,GRN,2
+Cass,"Silver Creek Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,"Silver Creek Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Silver Creek Township, Precinct 1",President,,Comel West,NPA,0
 Cass,"Silver Creek Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Silver Creek Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,163
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Mike Rogers,REP,518
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,6
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Dave Stein,UST,6
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,4
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Doug Dern,NLP,4
-Cass,"Silver Creek Township, Precinct 1",United States Senator,,Unresolved Write-In,,2
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,163
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,518
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,6
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Dave Stein,UST,6
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,4
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,4
+Cass,"Silver Creek Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,2
 Cass,"Silver Creek Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,154
 Cass,"Silver Creek Township, Precinct 1",U.S. House,5,Tim Walberg,REP,529
 Cass,"Silver Creek Township, Precinct 1",U.S. House,5,James Bronke,GRN,9
@@ -2548,23 +2548,23 @@ Cass,Silver Creek Township,Straight Party,,Green Party,GRN,2
 Cass,Silver Creek Township,Straight Party,,Working Class Party,WCP,2
 Cass,Silver Creek Township,Straight Party,,Natural Law Party,NLP,0
 Cass,Silver Creek Township,Straight Party,,Unresolved Write-In,,0
-Cass,Silver Creek Township,President,,Kamala D. Harris/Tim Walz,DEM,307
-Cass,Silver Creek Township,President,,Donald J. Trump/JD Vance,REP,348
-Cass,Silver Creek Township,President,,Chase Oliver/Mike ter Maat,LIB,1
-Cass,Silver Creek Township,President,,Randall Terry/Stephen E. Broden,UST,2
-Cass,Silver Creek Township,President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,Silver Creek Township,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,4
-Cass,Silver Creek Township,President,,Joseph Kishore/Jerry White,NPA,0
-Cass,Silver Creek Township,President,,Cornel West/Melina Abdullah,NPA,0
+Cass,Silver Creek Township,President,,Kamala D. Harris,DEM,307
+Cass,Silver Creek Township,President,,Donald J. Trump,REP,348
+Cass,Silver Creek Township,President,,Chase Oliver,LIB,1
+Cass,Silver Creek Township,President,,Randall Terry,UST,2
+Cass,Silver Creek Township,President,,Jill Stein,GRN,1
+Cass,Silver Creek Township,President,,"Robert F. Kennedy, Jr.",NLP,4
+Cass,Silver Creek Township,President,,Joseph Kishore,NPA,0
+Cass,Silver Creek Township,President,,Cornel West,NPA,0
 Cass,Silver Creek Township,President,,Peter Sonski,WRITE-IN,0
 Cass,Silver Creek Township,President,,Unresolved Write-In,,1
-Cass,Silver Creek Township,United States Senator,,Elissa Slotkin,DEM,281
-Cass,Silver Creek Township,United States Senator,,Mike Rogers,REP,362
-Cass,Silver Creek Township,United States Senator,,Joseph Solis-Mullen,LIB,5
-Cass,Silver Creek Township,United States Senator,,Dave Stein,UST,3
-Cass,Silver Creek Township,United States Senator,,Douglas P. Marsh,GRN,3
-Cass,Silver Creek Township,United States Senator,,Doug Dern,NLP,2
-Cass,Silver Creek Township,United States Senator,,Unresolved Write-In,,1
+Cass,Silver Creek Township,U.S. Senate,,Elissa Slotkin,DEM,281
+Cass,Silver Creek Township,U.S. Senate,,Mike Rogers,REP,362
+Cass,Silver Creek Township,U.S. Senate,,Joseph Solis-Mullen,LIB,5
+Cass,Silver Creek Township,U.S. Senate,,Dave Stein,UST,3
+Cass,Silver Creek Township,U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,Silver Creek Township,U.S. Senate,,Doug Dern,NLP,2
+Cass,Silver Creek Township,U.S. Senate,,Unresolved Write-In,,1
 Cass,Silver Creek Township,U.S. House,5,Libbi Urban,DEM,273
 Cass,Silver Creek Township,U.S. House,5,Tim Walberg,REP,372
 Cass,Silver Creek Township,U.S. House,5,James Bronke,GRN,6
@@ -2670,23 +2670,23 @@ Cass,"Volinia Township, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"Volinia Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
 Cass,"Volinia Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"Volinia Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Volinia Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,164
-Cass,"Volinia Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,393
-Cass,"Volinia Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,0
-Cass,"Volinia Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,"Volinia Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Volinia Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,2
-Cass,"Volinia Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"Volinia Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"Volinia Township, Precinct 1",President,,Kamala D. Harris,DEM,164
+Cass,"Volinia Township, Precinct 1",President,,Donald J. Trump,REP,393
+Cass,"Volinia Township, Precinct 1",President,,Chase Oliver,LIB,0
+Cass,"Volinia Township, Precinct 1",President,,Randall Terry,UST,1
+Cass,"Volinia Township, Precinct 1",President,,Jill Stein,GRN,2
+Cass,"Volinia Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2
+Cass,"Volinia Township, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"Volinia Township, Precinct 1",President,,Cornel West,NPA,0
 Cass,"Volinia Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Volinia Township, Precinct 1",President,,Unresolved Write-In,,1
-Cass,"Volinia Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,157
-Cass,"Volinia Township, Precinct 1",United States Senator,,Mike Rogers,REP,382
-Cass,"Volinia Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,8
-Cass,"Volinia Township, Precinct 1",United States Senator,,Dave Stein,UST,3
-Cass,"Volinia Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,3
-Cass,"Volinia Township, Precinct 1",United States Senator,,Doug Dern,NLP,3
-Cass,"Volinia Township, Precinct 1",United States Senator,,Unresolved Write-In,,0
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,157
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,382
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,8
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Dave Stein,UST,3
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Cass,"Volinia Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Volinia Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,152
 Cass,"Volinia Township, Precinct 1",U.S. House,5,Tim Walberg,REP,395
 Cass,"Volinia Township, Precinct 1",U.S. House,5,James Bronke,GRN,6
@@ -2799,23 +2799,23 @@ Cass,"Wayne Township, Precinct 1",Straight Party,,Green Party,GRN,1
 Cass,"Wayne Township, Precinct 1",Straight Party,,Working Class Party,WCP,13
 Cass,"Wayne Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
 Cass,"Wayne Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"Wayne Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,361
-Cass,"Wayne Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,648
-Cass,"Wayne Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,6
-Cass,"Wayne Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"Wayne Township, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,"Wayne Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,3
-Cass,"Wayne Township, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"Wayne Township, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"Wayne Township, Precinct 1",President,,Kamala D. Harris,DEM,361
+Cass,"Wayne Township, Precinct 1",President,,Donald J. Trump,REP,648
+Cass,"Wayne Township, Precinct 1",President,,Chase Oliver,LIB,6
+Cass,"Wayne Township, Precinct 1",President,,Randall Terry,UST,0
+Cass,"Wayne Township, Precinct 1",President,,Jill Stein,GRN,2
+Cass,"Wayne Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,3
+Cass,"Wayne Township, Precinct 1",President,,Joseph Kishore,NPA,1
+Cass,"Wayne Township, Precinct 1",President,,Cornel West,NPA,1
 Cass,"Wayne Township, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"Wayne Township, Precinct 1",President,,Unresolved Write-In,,0
-Cass,"Wayne Township, Precinct 1",United States Senator,,Elissa Slotkin,DEM,347
-Cass,"Wayne Township, Precinct 1",United States Senator,,Mike Rogers,REP,613
-Cass,"Wayne Township, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,14
-Cass,"Wayne Township, Precinct 1",United States Senator,,Dave Stein,UST,18
-Cass,"Wayne Township, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,6
-Cass,"Wayne Township, Precinct 1",United States Senator,,Doug Dern,NLP,2
-Cass,"Wayne Township, Precinct 1",United States Senator,,Unresolved Write-In,,0
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,347
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Mike Rogers,REP,613
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,14
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Dave Stein,UST,18
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,6
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,2
+Cass,"Wayne Township, Precinct 1",U.S. Senate,,Unresolved Write-In,,0
 Cass,"Wayne Township, Precinct 1",U.S. House,5,Libbi Urban,DEM,343
 Cass,"Wayne Township, Precinct 1",U.S. House,5,Tim Walberg,REP,630
 Cass,"Wayne Township, Precinct 1",U.S. House,5,James Bronke,GRN,21
@@ -2936,23 +2936,23 @@ Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Green Party,GRN,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Working Class Party,WCP,4
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Natural Law Party,NLP,1
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Unresolved Write-In,,0
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,198
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Donald J. Trump/JD Vance,REP,198
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,2
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,4
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Kamala D. Harris,DEM,198
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Donald J. Trump,REP,198
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Chase Oliver,LIB,2
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Randall Terry,UST,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Jill Stein,GRN,1
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,4
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Joseph Kishore,NPA,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Cornel West,NPA,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Peter Sonski,WRITE-IN,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Unresolved Write-In,,1
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Elissa Slotkin,DEM,181
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Mike Rogers,REP,189
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Joseph Solis-Mullen,LIB,12
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Dave Stein,UST,5
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Douglas P. Marsh,GRN,4
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Doug Dern,NLP,3
-Cass,"City of Dowagiac, Ward 1, Precinct 1",United States Senator,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Elissa Slotkin,DEM,181
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Mike Rogers,REP,189
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,12
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Dave Stein,UST,5
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,4
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Doug Dern,NLP,3
+Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. Senate,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,Libbi Urban,DEM,192
 Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,Tim Walberg,REP,184
 Cass,"City of Dowagiac, Ward 1, Precinct 1",U.S. House,5,James Bronke,GRN,13
@@ -3046,23 +3046,23 @@ Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Green Party,GRN,1
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Working Class Party,WCP,0
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Natural Law Party,NLP,3
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Unresolved Write-In,,0
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,185
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Donald J. Trump/JD Vance,REP,251
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,3
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,4
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Joseph Kishore/Jerry White,NPA,1
-Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Kamala D. Harris,DEM,185
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Donald J. Trump,REP,251
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Chase Oliver,LIB,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Randall Terry,UST,1
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Jill Stein,GRN,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,"Robert F. Kennedy, Jr.",NLP,4
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Joseph Kishore,NPA,1
+Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Cornel West,NPA,0
 Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Peter Sonski,WRITE-IN,0
 Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Unresolved Write-In,,0
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Elissa Slotkin,DEM,175
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Mike Rogers,REP,234
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Joseph Solis-Mullen,LIB,10
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Dave Stein,UST,4
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Douglas P. Marsh,GRN,3
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Doug Dern,NLP,2
-Cass,"City of Dowagiac, Ward 2, Precinct 2",United States Senator,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Elissa Slotkin,DEM,175
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Mike Rogers,REP,234
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Joseph Solis-Mullen,LIB,10
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Dave Stein,UST,4
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Doug Dern,NLP,2
+Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. Senate,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,Libbi Urban,DEM,174
 Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,Tim Walberg,REP,231
 Cass,"City of Dowagiac, Ward 2, Precinct 2",U.S. House,5,James Bronke,GRN,16
@@ -3152,23 +3152,23 @@ Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Green Party,GRN,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Working Class Party,WCP,1
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Natural Law Party,NLP,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Unresolved Write-In,,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Kamala D. Harris/Tim Walz,DEM,113
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Donald J. Trump/JD Vance,REP,213
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Chase Oliver/Mike ter Maat,LIB,1
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Cornel West/Melina Abdullah,NPA,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Kamala D. Harris,DEM,113
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Donald J. Trump,REP,213
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Chase Oliver,LIB,1
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Randall Terry,UST,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Jill Stein,GRN,1
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,"Robert F. Kennedy, Jr.",NLP,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Joseph Kishore,NPA,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Cornel West,NPA,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Peter Sonski,WRITE-IN,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Unresolved Write-In,,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Elissa Slotkin,DEM,108
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Mike Rogers,REP,198
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Joseph Solis-Mullen,LIB,6
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Dave Stein,UST,2
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Douglas P. Marsh,GRN,2
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Doug Dern,NLP,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",United States Senator,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Elissa Slotkin,DEM,108
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Mike Rogers,REP,198
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Joseph Solis-Mullen,LIB,6
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Dave Stein,UST,2
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Doug Dern,NLP,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. Senate,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,Libbi Urban,DEM,107
 Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,Tim Walberg,REP,201
 Cass,"City of Dowagiac, Ward 3, Precinct 3",U.S. House,5,James Bronke,GRN,6
@@ -3258,23 +3258,23 @@ Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Green Party,GRN,0
 Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Working Class Party,WCP,3
 Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Natural Law Party,NLP,3
 Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Unresolved Write-In,,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Kamala D. Harris/Tim Walz,DEM,422
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Donald J. Trump/JD Vance,REP,200
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Chase Oliver/Mike ter Maat,LIB,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Jill Stein/Rudolph Ware,GRN,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,2
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Joseph Kishore/Jerry White,NPA,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Cornel West/Melina Abdullah,NPA,1
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Kamala D. Harris,DEM,422
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Donald J. Trump,REP,200
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Chase Oliver,LIB,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Randall Terry,UST,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Jill Stein,GRN,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,"Robert F. Kennedy, Jr.",NLP,2
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Joseph Kishore,NPA,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Cornel West,NPA,1
 Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Peter Sonski,WRITE-IN,0
 Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Unresolved Write-in,,1
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Elissa Slotkin,DEM,399
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Mike Rogers,REP,202
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Joseph Solis-Mullen,LIB,8
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Dave Stein,UST,5
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Douglas P. Marsh,GRN,2
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Doug Dern,NLP,1
-Cass,"City of Dowagiac Precincts 1,2 & 3",United States Senator,,Unresolved Write-In,,1
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Elissa Slotkin,DEM,399
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Mike Rogers,REP,202
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Joseph Solis-Mullen,LIB,8
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Dave Stein,UST,5
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Douglas P. Marsh,GRN,2
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Doug Dern,NLP,1
+Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. Senate,,Unresolved Write-In,,1
 Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. House,5,Libbi Urban,DEM,395
 Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. House,5,Tim Walberg,REP,212
 Cass,"City of Dowagiac Precincts 1,2 & 3",U.S. House,5,James Bronke,GRN,5
@@ -3368,23 +3368,23 @@ Cass,Cass County EV1,Straight Party,,Green Party,GRN,2
 Cass,Cass County EV1,Straight Party,,Working Class Party,WCP,6
 Cass,Cass County EV1,Straight Party,,Natural Law Party,NLP,0
 Cass,Cass County EV1,Straight Party,,Unresolved Write-In,,0
-Cass,Cass County EV1,President,,Kamala D. Harris/Tim Walz,DEM,552
-Cass,Cass County EV1,President,,Donald J. Trump/JD Vance,REP,2181
-Cass,Cass County EV1,President,,Chase Oliver/Mike ter Maat,LIB,5
-Cass,Cass County EV1,President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,Cass County EV1,President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,Cass County EV1,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,Cass County EV1,President,,Joseph Kishore/Jerry White,NPA,1
-Cass,Cass County EV1,President,,Cornel West/Melina Abdullah,NPA,1
+Cass,Cass County EV1,President,,Kamala D. Harris,DEM,552
+Cass,Cass County EV1,President,,Donald J. Trump,REP,2181
+Cass,Cass County EV1,President,,Chase Oliver,LIB,5
+Cass,Cass County EV1,President,,Randall Terry,UST,1
+Cass,Cass County EV1,President,,Jill Stein,GRN,2
+Cass,Cass County EV1,President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,Cass County EV1,President,,Joseph Kishore,NPA,1
+Cass,Cass County EV1,President,,Cornel West,NPA,1
 Cass,Cass County EV1,President,,Peter Sonski,WRITE-IN,0
 Cass,Cass County EV1,President,,Unresolved Write-In,,3
-Cass,Cass County EV1,United States Senator,,Elissa Slotkin,DEM,520
-Cass,Cass County EV1,United States Senator,,Mike Rogers,REP,2145
-Cass,Cass County EV1,United States Senator,,Joseph Solis-Mullen,LIB,19
-Cass,Cass County EV1,United States Senator,,Dave Stein,UST,17
-Cass,Cass County EV1,United States Senator,,Douglas P. Marsh,GRN,5
-Cass,Cass County EV1,United States Senator,,Doug Dern,NLP,7
-Cass,Cass County EV1,United States Senator,,Unresolved Write-In,,4
+Cass,Cass County EV1,U.S. Senate,,Elissa Slotkin,DEM,520
+Cass,Cass County EV1,U.S. Senate,,Mike Rogers,REP,2145
+Cass,Cass County EV1,U.S. Senate,,Joseph Solis-Mullen,LIB,19
+Cass,Cass County EV1,U.S. Senate,,Dave Stein,UST,17
+Cass,Cass County EV1,U.S. Senate,,Douglas P. Marsh,GRN,5
+Cass,Cass County EV1,U.S. Senate,,Doug Dern,NLP,7
+Cass,Cass County EV1,U.S. Senate,,Unresolved Write-In,,4
 Cass,Cass County EV1,U.S. House,5,Libbi Urban,DEM,515
 Cass,Cass County EV1,U.S. House,5,Tim Walberg,REP,2160
 Cass,Cass County EV1,U.S. House,5,James Bronke,GRN,27
@@ -3599,23 +3599,23 @@ Cass,Cass County EV2,Straight Party,,Green Party,GRN,1
 Cass,Cass County EV2,Straight Party,,Working Class Party,WCP,9
 Cass,Cass County EV2,Straight Party,,Natural Law Party,NLP,0
 Cass,Cass County EV2,Straight Party,,Unresolved Write-In,,0
-Cass,Cass County EV2,President,,Kamala D. Harris/Tim Walz,DEM,463
-Cass,Cass County EV2,President,,Donald J. Trump/JD Vance,REP,1858
-Cass,Cass County EV2,President,,Chase Oliver/Mike ter Maat,LIB,2
-Cass,Cass County EV2,President,,Randall Terry/Stephen E. Broden,UST,0
-Cass,Cass County EV2,President,,Jill Stein/Rudolph Ware,GRN,1
-Cass,Cass County EV2,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,Cass County EV2,President,,Joseph Kishore/Jerry White,NPA,0
-Cass,Cass County EV2,President,,Comel West/Melina Abdullah,NPA,0
+Cass,Cass County EV2,President,,Kamala D. Harris,DEM,463
+Cass,Cass County EV2,President,,Donald J. Trump,REP,1858
+Cass,Cass County EV2,President,,Chase Oliver,LIB,2
+Cass,Cass County EV2,President,,Randall Terry,UST,0
+Cass,Cass County EV2,President,,Jill Stein,GRN,1
+Cass,Cass County EV2,President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,Cass County EV2,President,,Joseph Kishore,NPA,0
+Cass,Cass County EV2,President,,Comel West,NPA,0
 Cass,Cass County EV2,President,,Peter Sonski,WRITE-IN,0
 Cass,Cass County EV2,President,,Unresolved Write-In,,2
-Cass,Cass County EV2,United States Senator,,Elissa Slotkin,DEM,444
-Cass,Cass County EV2,United States Senator,,Mike Rogers,REP,1826
-Cass,Cass County EV2,United States Senator,,Joseph Solis-Mullen,LIB,16
-Cass,Cass County EV2,United States Senator,,Dave Stein,UST,13
-Cass,Cass County EV2,United States Senator,,Douglas P. Marsh,GRN,3
-Cass,Cass County EV2,United States Senator,,Doug Dern,NLP,5
-Cass,Cass County EV2,United States Senator,,Unresolved Write-In,,0
+Cass,Cass County EV2,U.S. Senate,,Elissa Slotkin,DEM,444
+Cass,Cass County EV2,U.S. Senate,,Mike Rogers,REP,1826
+Cass,Cass County EV2,U.S. Senate,,Joseph Solis-Mullen,LIB,16
+Cass,Cass County EV2,U.S. Senate,,Dave Stein,UST,13
+Cass,Cass County EV2,U.S. Senate,,Douglas P. Marsh,GRN,3
+Cass,Cass County EV2,U.S. Senate,,Doug Dern,NLP,5
+Cass,Cass County EV2,U.S. Senate,,Unresolved Write-In,,0
 Cass,Cass County EV2,U.S. House,5,Libbi Urban,DEM,429
 Cass,Cass County EV2,U.S. House,5,Tim Walberg,REP,1844
 Cass,Cass County EV2,U.S. House,5,James Bronke,GRN,21
@@ -3831,23 +3831,23 @@ Cass,Cass County EV3,Straight Party,,Green Party,GRN,1
 Cass,Cass County EV3,Straight Party,,Working Class Party,WCP,15
 Cass,Cass County EV3,Straight Party,,Natural Law Party,NLP,1
 Cass,Cass County EV3,Straight Party,,Unresolved Write-In,,0
-Cass,Cass County EV3,President,,Kamala D. Harris/Tim Walz,DEM,577
-Cass,Cass County EV3,President,,Donald J. Trump/JD Vance,REP,1609
-Cass,Cass County EV3,President,,Chase Oliver/Mike ter Maat,LIB,7
-Cass,Cass County EV3,President,,Randall Terry/Stephen E. Broden,UST,1
-Cass,Cass County EV3,President,,Jill Stein/Rudolph Ware,GRN,2
-Cass,Cass County EV3,President,,"Robert F. Kennedy, Jr./Nicole Shanahan",NLP,5
-Cass,Cass County EV3,President,,Joseph Kishore/Jerry White,NPA,1
-Cass,Cass County EV3,President,,Comel West/Melina Abdullah,NPA,0
+Cass,Cass County EV3,President,,Kamala D. Harris,DEM,577
+Cass,Cass County EV3,President,,Donald J. Trump,REP,1609
+Cass,Cass County EV3,President,,Chase Oliver,LIB,7
+Cass,Cass County EV3,President,,Randall Terry,UST,1
+Cass,Cass County EV3,President,,Jill Stein,GRN,2
+Cass,Cass County EV3,President,,"Robert F. Kennedy, Jr.",NLP,5
+Cass,Cass County EV3,President,,Joseph Kishore,NPA,1
+Cass,Cass County EV3,President,,Comel West,NPA,0
 Cass,Cass County EV3,President,,Peter Sonski,WRITE-IN,2
 Cass,Cass County EV3,President,,Unresolved Write-In,,1
-Cass,Cass County EV3,United States Senator,,Elissa Slotkin,DEM,564
-Cass,Cass County EV3,United States Senator,,Mike Rogers,REP,1569
-Cass,Cass County EV3,United States Senator,,Joseph Solis-Mullen,LIB,18
-Cass,Cass County EV3,United States Senator,,Dave Stein,UST,10
-Cass,Cass County EV3,United States Senator,,Douglas P. Marsh,GRN,11
-Cass,Cass County EV3,United States Senator,,Doug Dern,NLP,5
-Cass,Cass County EV3,United States Senator,,Unresolved Write-In,,3
+Cass,Cass County EV3,U.S. Senate,,Elissa Slotkin,DEM,564
+Cass,Cass County EV3,U.S. Senate,,Mike Rogers,REP,1569
+Cass,Cass County EV3,U.S. Senate,,Joseph Solis-Mullen,LIB,18
+Cass,Cass County EV3,U.S. Senate,,Dave Stein,UST,10
+Cass,Cass County EV3,U.S. Senate,,Douglas P. Marsh,GRN,11
+Cass,Cass County EV3,U.S. Senate,,Doug Dern,NLP,5
+Cass,Cass County EV3,U.S. Senate,,Unresolved Write-In,,3
 Cass,Cass County EV3,U.S. House,5,Libbi Urban,DEM,555
 Cass,Cass County EV3,U.S. House,5,Tim Walberg,REP,1565
 Cass,Cass County EV3,U.S. House,5,James Bronke,GRN,33

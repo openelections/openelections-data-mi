@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,election_day,early,absentee
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
 Genesee,"Argentine Township, Precinct 1",Straight Party,,DEM,Democratic Party,302,46,78,178
 Genesee,"Argentine Township, Precinct 2",Straight Party,,DEM,Democratic Party,293,51,63,179
 Genesee,"Argentine Township, Precinct 3",Straight Party,,DEM,Democratic Party,73,14,15,44

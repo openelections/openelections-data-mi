@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,votes,election_day,early_voting,av_counting_boards
 Newaygo,"City of Fremont, Precinct 1",President,,Ballots Cast,,1350,1203,147,0
-Newaygo,"City of Fremont, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,490,457,33,0
-Newaygo,"City of Fremont, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,816,707,109,0
-Newaygo,"City of Fremont, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,4,0,0
-Newaygo,"City of Fremont, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,6,5,1,0
-Newaygo,"City of Fremont, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,7,7,0,0
-Newaygo,"City of Fremont, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,7,7,0,0
-Newaygo,"City of Fremont, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,0,0,0,0
-Newaygo,"City of Fremont, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,3,2,1,0
+Newaygo,"City of Fremont, Precinct 1",President,,Kamala D. Harris,Democrat,490,457,33,0
+Newaygo,"City of Fremont, Precinct 1",President,,Donald J. Trump,Republican,816,707,109,0
+Newaygo,"City of Fremont, Precinct 1",President,,Chase Oliver,Libertarian,4,4,0,0
+Newaygo,"City of Fremont, Precinct 1",President,,Randall Terry,U.S. Taxpayers,6,5,1,0
+Newaygo,"City of Fremont, Precinct 1",President,,Jill Stein,Green,7,7,0,0
+Newaygo,"City of Fremont, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,7,0,0
+Newaygo,"City of Fremont, Precinct 1",President,,Joseph Kishore,No Party Affiliation,0,0,0,0
+Newaygo,"City of Fremont, Precinct 1",President,,Cornel West,No Party Affiliation,3,2,1,0
 Newaygo,"City of Fremont, Precinct 1",President,,Write-in,,7,6,1,0
 Newaygo,"City of Fremont, Precinct 1",President,,Peter Sonski,,1,1,0,0
 Newaygo,"City of Fremont, Precinct 1",President,,Over Vote Count,,2,2,0,0
@@ -186,13 +186,13 @@ Newaygo,"City of Fremont, Precinct 1",Fremont Community Recreation Authority Mil
 Newaygo,"City of Fremont, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"City of Fremont, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Under Vote Count,,168,147,21,0
 Newaygo,"City of Fremont, Precinct 2",President,,Ballots Cast,,1227,1104,123,0
-Newaygo,"City of Fremont, Precinct 2",President,,Kamala D. Harris/Tim Walz,Democrat,432,396,36,0
-Newaygo,"City of Fremont, Precinct 2",President,,Donald J. Trump/JD Vance,Republican,764,678,86,0
-Newaygo,"City of Fremont, Precinct 2",President,,Chase Oliver/Mike ter Maat,Libertarian,7,7,0,0
-Newaygo,"City of Fremont, Precinct 2",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,3,3,0,0
-Newaygo,"City of Fremont, Precinct 2",President,,Jill Stein/Rudolph Ware,Green,1,1,0,0
-Newaygo,"City of Fremont, Precinct 2",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,7,7,0,0
-Newaygo,"City of Fremont, Precinct 2",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"City of Fremont, Precinct 2",President,,Kamala D. Harris,Democrat,432,396,36,0
+Newaygo,"City of Fremont, Precinct 2",President,,Donald J. Trump,Republican,764,678,86,0
+Newaygo,"City of Fremont, Precinct 2",President,,Chase Oliver,Libertarian,7,7,0,0
+Newaygo,"City of Fremont, Precinct 2",President,,Randall Terry,U.S. Taxpayers,3,3,0,0
+Newaygo,"City of Fremont, Precinct 2",President,,Jill Stein,Green,1,1,0,0
+Newaygo,"City of Fremont, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,7,7,0,0
+Newaygo,"City of Fremont, Precinct 2",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"City of Fremont, Precinct 2",President,,Write-in,,1,0,1,0
 Newaygo,"City of Fremont, Precinct 2",President,,Over Vote Count,,1,1,0,0
 Newaygo,"City of Fremont, Precinct 2",President,,Under Vote Count,,10,10,0,0
@@ -370,12 +370,12 @@ Newaygo,"City of Fremont, Precinct 2",Fremont Community Recreation Authority Mil
 Newaygo,"City of Fremont, Precinct 2",Fremont Community Recreation Authority Millage Proposal,,Over Vote Count,,1,1,0,0
 Newaygo,"City of Fremont, Precinct 2",Fremont Community Recreation Authority Millage Proposal,,Under Vote Count,,119,109,10,0
 Newaygo,"City of Grant, Precinct 1",President,,Ballots Cast,,419,380,39,0
-Newaygo,"City of Grant, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,122,113,9,0
-Newaygo,"City of Grant, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,280,250,30,0
-Newaygo,"City of Grant, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,6,6,0,0
-Newaygo,"City of Grant, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,2,0,0
-Newaygo,"City of Grant, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,2,0,0
-Newaygo,"City of Grant, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,3,3,0,0
+Newaygo,"City of Grant, Precinct 1",President,,Kamala D. Harris,Democrat,122,113,9,0
+Newaygo,"City of Grant, Precinct 1",President,,Donald J. Trump,Republican,280,250,30,0
+Newaygo,"City of Grant, Precinct 1",President,,Chase Oliver,Libertarian,6,6,0,0
+Newaygo,"City of Grant, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,2,0,0
+Newaygo,"City of Grant, Precinct 1",President,,Jill Stein,Green,2,2,0,0
+Newaygo,"City of Grant, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,3,0,0
 Newaygo,"City of Grant, Precinct 1",President,,Write-in,,1,1,0,0
 Newaygo,"City of Grant, Precinct 1",President,,Over Vote Count,,2,2,0,0
 Newaygo,"City of Grant, Precinct 1",President,,Under Vote Count,,1,1,0,0
@@ -540,13 +540,13 @@ Newaygo,"City of Grant, Precinct 1",Board Member for Grant Public Schools Partia
 Newaygo,"City of Grant, Precinct 1",Board Member for Grant Public Schools Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"City of Grant, Precinct 1",Board Member for Grant Public Schools Partial Term Ending 12/31/2026,,Under Vote Count,,296,271,25,0
 Newaygo,"City of Newaygo, Precinct 1",President,,Ballots Cast,,1135,996,139,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,373,331,42,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,742,645,97,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,3,3,0,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,3,0,0
-Newaygo,"City of Newaygo, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,5,0,0
-Newaygo,"City of Newaygo, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Kamala D. Harris,Democrat,373,331,42,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Donald J. Trump,Republican,742,645,97,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Chase Oliver,Libertarian,3,3,0,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Jill Stein,Green,3,3,0,0
+Newaygo,"City of Newaygo, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,5,0,0
+Newaygo,"City of Newaygo, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"City of Newaygo, Precinct 1",President,,Write-in,,3,3,0,0
 Newaygo,"City of Newaygo, Precinct 1",President,,Over Vote Count,,1,1,0,0
 Newaygo,"City of Newaygo, Precinct 1",President,,Under Vote Count,,3,3,0,0
@@ -737,12 +737,12 @@ Newaygo,"City of Newaygo, Precinct 1",City of Newaygo Charter Amendment Proposal
 Newaygo,"City of Newaygo, Precinct 1",City of Newaygo Charter Amendment Proposal to Allow the City Council to Determine the Method of Publication of Information in,,Over Vote Count,,0,0,0,0
 Newaygo,"City of Newaygo, Precinct 1",City of Newaygo Charter Amendment Proposal to Allow the City Council to Determine the Method of Publication of Information in,,Under Vote Count,,205,172,33,0
 Newaygo,"City of White Cloud, Precinct 1",President,,Ballots Cast,,565,470,95,0
-Newaygo,"City of White Cloud, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,173,151,22,0
-Newaygo,"City of White Cloud, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,377,307,70,0
-Newaygo,"City of White Cloud, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,6,5,1,0
-Newaygo,"City of White Cloud, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"City of White Cloud, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,4,4,0,0
-Newaygo,"City of White Cloud, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,0,1,0
+Newaygo,"City of White Cloud, Precinct 1",President,,Kamala D. Harris,Democrat,173,151,22,0
+Newaygo,"City of White Cloud, Precinct 1",President,,Donald J. Trump,Republican,377,307,70,0
+Newaygo,"City of White Cloud, Precinct 1",President,,Chase Oliver,Libertarian,6,5,1,0
+Newaygo,"City of White Cloud, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"City of White Cloud, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,4,0,0
+Newaygo,"City of White Cloud, Precinct 1",President,,Cornel West,No Party Affiliation,1,0,1,0
 Newaygo,"City of White Cloud, Precinct 1",President,,Write-in,,2,1,1,0
 Newaygo,"City of White Cloud, Precinct 1",President,,Peter Sonski,,1,1,0,0
 Newaygo,"City of White Cloud, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -913,13 +913,13 @@ Newaygo,"City of White Cloud, Precinct 1",Authorization to Convey the City of Wh
 Newaygo,"City of White Cloud, Precinct 1",Authorization to Convey the City of White Cloud's Sanitary Sewer System to the White Cloud/Sherman Area Utility Authority,,Over Vote Count,,0,0,0,0
 Newaygo,"City of White Cloud, Precinct 1",Authorization to Convey the City of White Cloud's Sanitary Sewer System to the White Cloud/Sherman Area Utility Authority,,Under Vote Count,,124,107,17,0
 Newaygo,"Ashland Township, Precinct 1",President,,Ballots Cast,,1546,1366,180,0
-Newaygo,"Ashland Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,398,360,38,0
-Newaygo,"Ashland Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1118,978,140,0
-Newaygo,"Ashland Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,6,1,0
-Newaygo,"Ashland Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,5,4,1,0
-Newaygo,"Ashland Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,8,8,0,0
-Newaygo,"Ashland Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
-Newaygo,"Ashland Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Ashland Township, Precinct 1",President,,Kamala D. Harris,Democrat,398,360,38,0
+Newaygo,"Ashland Township, Precinct 1",President,,Donald J. Trump,Republican,1118,978,140,0
+Newaygo,"Ashland Township, Precinct 1",President,,Chase Oliver,Libertarian,7,6,1,0
+Newaygo,"Ashland Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,5,4,1,0
+Newaygo,"Ashland Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,8,8,0,0
+Newaygo,"Ashland Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
+Newaygo,"Ashland Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Ashland Township, Precinct 1",President,,Write-in,,2,2,0,0
 Newaygo,"Ashland Township, Precinct 1",President,,Over Vote Count,,3,3,0,0
 Newaygo,"Ashland Township, Precinct 1",President,,Under Vote Count,,3,3,0,0
@@ -1127,11 +1127,11 @@ Newaygo,"Ashland Township, Precinct 1",Board Member for Newaygo Public Schools P
 Newaygo,"Ashland Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"Ashland Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Under Vote Count,,0,0,0,0
 Newaygo,"Barton Township, Precinct 1",President,,Ballots Cast,,463,424,39,0
-Newaygo,"Barton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,101,98,3,0
-Newaygo,"Barton Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,351,316,35,0
-Newaygo,"Barton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,3,3,0,0
-Newaygo,"Barton Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,2,0,0
-Newaygo,"Barton Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,3,2,1,0
+Newaygo,"Barton Township, Precinct 1",President,,Kamala D. Harris,Democrat,101,98,3,0
+Newaygo,"Barton Township, Precinct 1",President,,Donald J. Trump,Republican,351,316,35,0
+Newaygo,"Barton Township, Precinct 1",President,,Chase Oliver,Libertarian,3,3,0,0
+Newaygo,"Barton Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,2,0,0
+Newaygo,"Barton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,1,0
 Newaygo,"Barton Township, Precinct 1",President,,Over Vote Count,,1,1,0,0
 Newaygo,"Barton Township, Precinct 1",President,,Under Vote Count,,2,2,0,0
 Newaygo,"Barton Township, Precinct 1",U.S. Senate,,Ballots Cast,,463,424,39,0
@@ -1323,9 +1323,9 @@ Newaygo,"Barton Township, Precinct 1",Board Member for Reed City Area Public Sch
 Newaygo,"Barton Township, Precinct 1",Board Member for Reed City Area Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Barton Township, Precinct 1",Board Member for Reed City Area Public Schools,,Under Vote Count,,737,672,65,0
 Newaygo,"Beaver Township, Precinct 1",President,,Ballots Cast,,261,191,70,0
-Newaygo,"Beaver Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,79,63,16,0
-Newaygo,"Beaver Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,180,126,54,0
-Newaygo,"Beaver Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,1,1,0,0
+Newaygo,"Beaver Township, Precinct 1",President,,Kamala D. Harris,Democrat,79,63,16,0
+Newaygo,"Beaver Township, Precinct 1",President,,Donald J. Trump,Republican,180,126,54,0
+Newaygo,"Beaver Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,0
 Newaygo,"Beaver Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Beaver Township, Precinct 1",President,,Under Vote Count,,1,1,0,0
 Newaygo,"Beaver Township, Precinct 1",U.S. Senate,,Ballots Cast,,261,191,70,0
@@ -1506,14 +1506,14 @@ Newaygo,"Beaver Township, Precinct 1",Walkerville Public Schools Sinking Fund Mi
 Newaygo,"Beaver Township, Precinct 1",Walkerville Public Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Beaver Township, Precinct 1",Walkerville Public Schools Sinking Fund Millage Proposal,,Under Vote Count,,10,9,1,0
 Newaygo,"Big Prairie Township, Precinct 1",President,,Ballots Cast,,1369,1139,230,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,392,351,41,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,952,766,186,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,3,1,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,2,0,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,6,6,0,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,2,2,0,0
-Newaygo,"Big Prairie Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Kamala D. Harris,Democrat,392,351,41,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Donald J. Trump,Republican,952,766,186,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Chase Oliver,Libertarian,4,3,1,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Jill Stein,Green,2,2,0,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,6,0,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,2,2,0,0
+Newaygo,"Big Prairie Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Big Prairie Township, Precinct 1",President,,Write-in,,1,0,1,0
 Newaygo,"Big Prairie Township, Precinct 1",President,,Over Vote Count,,5,4,1,0
 Newaygo,"Big Prairie Township, Precinct 1",President,,Under Vote Count,,3,3,0,0
@@ -1716,13 +1716,13 @@ Newaygo,"Big Prairie Township, Precinct 1",Board Member for White Cloud Public S
 Newaygo,"Big Prairie Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Big Prairie Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,853,753,100,0
 Newaygo,"Bridgeton Township, Precinct 1",President,,Ballots Cast,,1293,1114,179,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,367,326,41,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,905,768,137,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,6,1,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,4,4,0,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,1,0,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,4,4,0,0
-Newaygo,"Bridgeton Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Kamala D. Harris,Democrat,367,326,41,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Donald J. Trump,Republican,905,768,137,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Chase Oliver,Libertarian,7,6,1,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,4,4,0,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Jill Stein,Green,1,1,0,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,4,0,0
+Newaygo,"Bridgeton Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
 Newaygo,"Bridgeton Township, Precinct 1",President,,Over Vote Count,,2,2,0,0
 Newaygo,"Bridgeton Township, Precinct 1",President,,Under Vote Count,,2,2,0,0
 Newaygo,"Bridgeton Township, Precinct 1",U.S. Senate,,Ballots Cast,,1293,1114,179,0
@@ -1946,12 +1946,12 @@ Newaygo,"Bridgeton Township, Precinct 1",Bridgeton Township Road Improvement Mil
 Newaygo,"Bridgeton Township, Precinct 1",Bridgeton Township Road Improvement Millage,,Over Vote Count,,0,0,0,0
 Newaygo,"Bridgeton Township, Precinct 1",Bridgeton Township Road Improvement Millage,,Under Vote Count,,162,140,22,0
 Newaygo,"Brooks Township, Precinct 1",President,,Ballots Cast,,2453,1178,502,773
-Newaygo,"Brooks Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,697,267,83,347
-Newaygo,"Brooks Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1712,882,416,414
-Newaygo,"Brooks Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,10,6,1,3
-Newaygo,"Brooks Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,1,0,1
-Newaygo,"Brooks Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,9,3,2,4
-Newaygo,"Brooks Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,17,15,0,2
+Newaygo,"Brooks Township, Precinct 1",President,,Kamala D. Harris,Democrat,697,267,83,347
+Newaygo,"Brooks Township, Precinct 1",President,,Donald J. Trump,Republican,1712,882,416,414
+Newaygo,"Brooks Township, Precinct 1",President,,Chase Oliver,Libertarian,10,6,1,3
+Newaygo,"Brooks Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,1,0,1
+Newaygo,"Brooks Township, Precinct 1",President,,Jill Stein,Green,9,3,2,4
+Newaygo,"Brooks Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,17,15,0,2
 Newaygo,"Brooks Township, Precinct 1",President,,Write-in,,2,1,0,1
 Newaygo,"Brooks Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Brooks Township, Precinct 1",President,,Under Vote Count,,4,3,0,1
@@ -2149,14 +2149,14 @@ Newaygo,"Brooks Township, Precinct 1",Board Member for Newaygo Public Schools Pa
 Newaygo,"Brooks Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"Brooks Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Under Vote Count,,976,446,190,340
 Newaygo,"Croton Township, Precinct 1",President,,Ballots Cast,,2174,1797,377,0
-Newaygo,"Croton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,637,574,63,0
-Newaygo,"Croton Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1495,1184,311,0
-Newaygo,"Croton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,9,8,1,0
-Newaygo,"Croton Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,4,4,0,0
-Newaygo,"Croton Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,5,5,0,0
-Newaygo,"Croton Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,11,10,1,0
-Newaygo,"Croton Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1,0
-Newaygo,"Croton Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Croton Township, Precinct 1",President,,Kamala D. Harris,Democrat,637,574,63,0
+Newaygo,"Croton Township, Precinct 1",President,,Donald J. Trump,Republican,1495,1184,311,0
+Newaygo,"Croton Township, Precinct 1",President,,Chase Oliver,Libertarian,9,8,1,0
+Newaygo,"Croton Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,4,4,0,0
+Newaygo,"Croton Township, Precinct 1",President,,Jill Stein,Green,5,5,0,0
+Newaygo,"Croton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,11,10,1,0
+Newaygo,"Croton Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1,0
+Newaygo,"Croton Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Croton Township, Precinct 1",President,,Write-in,,3,3,0,0
 Newaygo,"Croton Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Croton Township, Precinct 1",President,,Under Vote Count,,0,0,0,0
@@ -2369,12 +2369,12 @@ Newaygo,"Croton Township, Precinct 1",Tri County Area Schools Operating Millage 
 Newaygo,"Croton Township, Precinct 1",Tri County Area Schools Operating Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Croton Township, Precinct 1",Tri County Area Schools Operating Millage Renewal Proposal,,Under Vote Count,,16,0,16,0
 Newaygo,"Dayton Township, Precinct 1",President,,Ballots Cast,,1287,1104,183,0
-Newaygo,"Dayton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,331,294,37,0
-Newaygo,"Dayton Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,925,781,144,0
-Newaygo,"Dayton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,9,9,0,0
-Newaygo,"Dayton Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,3,3,0,0
-Newaygo,"Dayton Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,3,0,0
-Newaygo,"Dayton Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,9,7,2,0
+Newaygo,"Dayton Township, Precinct 1",President,,Kamala D. Harris,Democrat,331,294,37,0
+Newaygo,"Dayton Township, Precinct 1",President,,Donald J. Trump,Republican,925,781,144,0
+Newaygo,"Dayton Township, Precinct 1",President,,Chase Oliver,Libertarian,9,9,0,0
+Newaygo,"Dayton Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,3,0,0
+Newaygo,"Dayton Township, Precinct 1",President,,Jill Stein,Green,3,3,0,0
+Newaygo,"Dayton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,9,7,2,0
 Newaygo,"Dayton Township, Precinct 1",President,,Write-in,,3,3,0,0
 Newaygo,"Dayton Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Dayton Township, Precinct 1",President,,Under Vote Count,,4,4,0,0
@@ -2562,13 +2562,13 @@ Newaygo,"Dayton Township, Precinct 1",Fremont Community Recreation Authority Mil
 Newaygo,"Dayton Township, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Dayton Township, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Under Vote Count,,153,129,24,0
 Newaygo,"Denver Township, Precinct 1",President,,Ballots Cast,,1094,751,343,0
-Newaygo,"Denver Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,325,244,81,0
-Newaygo,"Denver Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,745,486,259,0
-Newaygo,"Denver Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,6,6,0,0
-Newaygo,"Denver Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,3,0,0
-Newaygo,"Denver Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,7,7,0,0
-Newaygo,"Denver Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1,0
-Newaygo,"Denver Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Denver Township, Precinct 1",President,,Kamala D. Harris,Democrat,325,244,81,0
+Newaygo,"Denver Township, Precinct 1",President,,Donald J. Trump,Republican,745,486,259,0
+Newaygo,"Denver Township, Precinct 1",President,,Chase Oliver,Libertarian,6,6,0,0
+Newaygo,"Denver Township, Precinct 1",President,,Jill Stein,Green,3,3,0,0
+Newaygo,"Denver Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,7,0,0
+Newaygo,"Denver Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1,0
+Newaygo,"Denver Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Denver Township, Precinct 1",President,,Over Vote Count,,3,2,1,0
 Newaygo,"Denver Township, Precinct 1",President,,Under Vote Count,,3,2,1,0
 Newaygo,"Denver Township, Precinct 1",U.S. Senate,,Ballots Cast,,1094,751,343,0
@@ -2761,13 +2761,13 @@ Newaygo,"Denver Township, Precinct 1",Board Member for Hesperia Community School
 Newaygo,"Denver Township, Precinct 1",Board Member for Hesperia Community Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Denver Township, Precinct 1",Board Member for Hesperia Community Schools,,Under Vote Count,,1043,720,323,0
 Newaygo,"Ensley Township, Precinct 1",President,,Ballots Cast,,1717,1544,173,0
-Newaygo,"Ensley Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,375,347,28,0
-Newaygo,"Ensley Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1310,1167,143,0
-Newaygo,"Ensley Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,7,0,0
-Newaygo,"Ensley Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"Ensley Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,5,5,0,0
-Newaygo,"Ensley Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,12,11,1,0
-Newaygo,"Ensley Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,2,2,0,0
+Newaygo,"Ensley Township, Precinct 1",President,,Kamala D. Harris,Democrat,375,347,28,0
+Newaygo,"Ensley Township, Precinct 1",President,,Donald J. Trump,Republican,1310,1167,143,0
+Newaygo,"Ensley Township, Precinct 1",President,,Chase Oliver,Libertarian,7,7,0,0
+Newaygo,"Ensley Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"Ensley Township, Precinct 1",President,,Jill Stein,Green,5,5,0,0
+Newaygo,"Ensley Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,12,11,1,0
+Newaygo,"Ensley Township, Precinct 1",President,,Cornel West,No Party Affiliation,2,2,0,0
 Newaygo,"Ensley Township, Precinct 1",President,,Write-in,,2,2,0,0
 Newaygo,"Ensley Township, Precinct 1",President,,Peter Sonski,,2,2,0,0
 Newaygo,"Ensley Township, Precinct 1",President,,Over Vote Count,,1,1,0,0
@@ -2989,12 +2989,12 @@ Newaygo,"Ensley Township, Precinct 1",Tri County Area Schools Operating Millage 
 Newaygo,"Ensley Township, Precinct 1",Tri County Area Schools Operating Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Ensley Township, Precinct 1",Tri County Area Schools Operating Millage Renewal Proposal,,Under Vote Count,,128,118,10,0
 Newaygo,"Everett Township, Precinct 1",President,,Ballots Cast,,1142,900,242,0
-Newaygo,"Everett Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,271,235,36,0
-Newaygo,"Everett Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,849,645,204,0
-Newaygo,"Everett Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,3,1,0
-Newaygo,"Everett Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,6,6,0,0
-Newaygo,"Everett Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,4,4,0,0
-Newaygo,"Everett Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,3,2,1,0
+Newaygo,"Everett Township, Precinct 1",President,,Kamala D. Harris,Democrat,271,235,36,0
+Newaygo,"Everett Township, Precinct 1",President,,Donald J. Trump,Republican,849,645,204,0
+Newaygo,"Everett Township, Precinct 1",President,,Chase Oliver,Libertarian,4,3,1,0
+Newaygo,"Everett Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,6,6,0,0
+Newaygo,"Everett Township, Precinct 1",President,,Jill Stein,Green,4,4,0,0
+Newaygo,"Everett Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,1,0
 Newaygo,"Everett Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Everett Township, Precinct 1",President,,Under Vote Count,,5,5,0,0
 Newaygo,"Everett Township, Precinct 1",U.S. Senate,,Ballots Cast,,1142,900,242,0
@@ -3178,14 +3178,14 @@ Newaygo,"Everett Township, Precinct 1",Board Member for White Cloud Public Schoo
 Newaygo,"Everett Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,3,3,0,0
 Newaygo,"Everett Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,1694,1346,348,0
 Newaygo,"Garfield Township, Precinct 1",President,,Ballots Cast,,1506,1260,246,0
-Newaygo,"Garfield Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,437,382,55,0
-Newaygo,"Garfield Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1044,853,191,0
-Newaygo,"Garfield Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,7,0,0
-Newaygo,"Garfield Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,3,3,0,0
-Newaygo,"Garfield Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,5,5,0,0
-Newaygo,"Garfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,2,0,0
-Newaygo,"Garfield Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
-Newaygo,"Garfield Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,2,2,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,Kamala D. Harris,Democrat,437,382,55,0
+Newaygo,"Garfield Township, Precinct 1",President,,Donald J. Trump,Republican,1044,853,191,0
+Newaygo,"Garfield Township, Precinct 1",President,,Chase Oliver,Libertarian,7,7,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,3,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,Jill Stein,Green,5,5,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
+Newaygo,"Garfield Township, Precinct 1",President,,Cornel West,No Party Affiliation,2,2,0,0
 Newaygo,"Garfield Township, Precinct 1",President,,Write-in,,1,1,0,0
 Newaygo,"Garfield Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Garfield Township, Precinct 1",President,,Under Vote Count,,4,4,0,0
@@ -3400,11 +3400,11 @@ Newaygo,"Garfield Township, Precinct 1",Board Member for Newaygo Public Schools 
 Newaygo,"Garfield Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"Garfield Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Under Vote Count,,289,249,40,0
 Newaygo,"Goodwell Township, Precinct 1",President,,Ballots Cast,,353,241,112,0
-Newaygo,"Goodwell Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,80,64,16,0
-Newaygo,"Goodwell Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,264,168,96,0
-Newaygo,"Goodwell Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,4,0,0
-Newaygo,"Goodwell Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,2,0,0
-Newaygo,"Goodwell Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,2,0,0
+Newaygo,"Goodwell Township, Precinct 1",President,,Kamala D. Harris,Democrat,80,64,16,0
+Newaygo,"Goodwell Township, Precinct 1",President,,Donald J. Trump,Republican,264,168,96,0
+Newaygo,"Goodwell Township, Precinct 1",President,,Chase Oliver,Libertarian,4,4,0,0
+Newaygo,"Goodwell Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,2,0,0
+Newaygo,"Goodwell Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0
 Newaygo,"Goodwell Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Goodwell Township, Precinct 1",President,,Under Vote Count,,1,1,0,0
 Newaygo,"Goodwell Township, Precinct 1",U.S. Senate,,Ballots Cast,,353,241,112,0
@@ -3585,13 +3585,13 @@ Newaygo,"Goodwell Township, Precinct 1",Board Member for White Cloud Public Scho
 Newaygo,"Goodwell Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Goodwell Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,510,361,149,0
 Newaygo,"Grant Township, Precinct 1",President,,Ballots Cast,,1864,1593,271,0
-Newaygo,"Grant Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,425,361,64,0
-Newaygo,"Grant Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1401,1196,205,0
-Newaygo,"Grant Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,5,5,0,0
-Newaygo,"Grant Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,3,3,0,0
-Newaygo,"Grant Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,4,4,0,0
-Newaygo,"Grant Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,7,6,1,0
-Newaygo,"Grant Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
+Newaygo,"Grant Township, Precinct 1",President,,Kamala D. Harris,Democrat,425,361,64,0
+Newaygo,"Grant Township, Precinct 1",President,,Donald J. Trump,Republican,1401,1196,205,0
+Newaygo,"Grant Township, Precinct 1",President,,Chase Oliver,Libertarian,5,5,0,0
+Newaygo,"Grant Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,3,0,0
+Newaygo,"Grant Township, Precinct 1",President,,Jill Stein,Green,4,4,0,0
+Newaygo,"Grant Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,6,1,0
+Newaygo,"Grant Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
 Newaygo,"Grant Township, Precinct 1",President,,Write-in,,4,4,0,0
 Newaygo,"Grant Township, Precinct 1",President,,Over Vote Count,,3,3,0,0
 Newaygo,"Grant Township, Precinct 1",President,,Under Vote Count,,11,10,1,0
@@ -3801,8 +3801,8 @@ Newaygo,"Grant Township, Precinct 1",Board Member for Newaygo Public Schools Par
 Newaygo,"Grant Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"Grant Township, Precinct 1",Board Member for Newaygo Public Schools Partial Term Ending 12/31/2026,,Under Vote Count,,60,47,13,0
 Newaygo,"Home Township, Precinct 1",President,,Ballots Cast,,180,167,13,0
-Newaygo,"Home Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,36,34,2,0
-Newaygo,"Home Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,142,131,11,0
+Newaygo,"Home Township, Precinct 1",President,,Kamala D. Harris,Democrat,36,34,2,0
+Newaygo,"Home Township, Precinct 1",President,,Donald J. Trump,Republican,142,131,11,0
 Newaygo,"Home Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Home Township, Precinct 1",President,,Under Vote Count,,2,2,0,0
 Newaygo,"Home Township, Precinct 1",U.S. Senate,,Ballots Cast,,180,167,13,0
@@ -3963,12 +3963,12 @@ Newaygo,"Home Township, Precinct 1",Board Member for Big Jackson School District
 Newaygo,"Home Township, Precinct 1",Board Member for Big Jackson School District Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Newaygo,"Home Township, Precinct 1",Board Member for Big Jackson School District Partial Term Ending 12/31/2026,,Under Vote Count,,69,61,8,0
 Newaygo,"Lilley Township, Precinct 1",President,,Ballots Cast,,504,455,49,0
-Newaygo,"Lilley Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,148,137,11,0
-Newaygo,"Lilley Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,346,308,38,0
-Newaygo,"Lilley Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,1,1,0,0
-Newaygo,"Lilley Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"Lilley Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,1,0,0
-Newaygo,"Lilley Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,1,1,0,0
+Newaygo,"Lilley Township, Precinct 1",President,,Kamala D. Harris,Democrat,148,137,11,0
+Newaygo,"Lilley Township, Precinct 1",President,,Donald J. Trump,Republican,346,308,38,0
+Newaygo,"Lilley Township, Precinct 1",President,,Chase Oliver,Libertarian,1,1,0,0
+Newaygo,"Lilley Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"Lilley Township, Precinct 1",President,,Jill Stein,Green,1,1,0,0
+Newaygo,"Lilley Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,0
 Newaygo,"Lilley Township, Precinct 1",President,,Write-in,,3,3,0,0
 Newaygo,"Lilley Township, Precinct 1",President,,Over Vote Count,,2,2,0,0
 Newaygo,"Lilley Township, Precinct 1",President,,Under Vote Count,,1,1,0,0
@@ -4151,14 +4151,14 @@ Newaygo,"Lilley Township, Precinct 1",Baldwin Community Schools School Safety an
 Newaygo,"Lilley Township, Precinct 1",Baldwin Community Schools School Safety and Improvement Bond Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Lilley Township, Precinct 1",Baldwin Community Schools School Safety and Improvement Bond Proposal,,Under Vote Count,,55,50,5,0
 Newaygo,"Lincoln Township, Precinct 1",President,,Ballots Cast,,810,615,195,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,230,189,41,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,563,409,154,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,3,3,0,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,2,0,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,0,0,0,0
-Newaygo,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,6,6,0,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,0,0,0,0
-Newaygo,"Lincoln Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,0,0,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Kamala D. Harris,Democrat,230,189,41,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Donald J. Trump,Republican,563,409,154,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Chase Oliver,Libertarian,3,3,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,2,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Jill Stein,Green,0,0,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,6,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,0,0,0,0
+Newaygo,"Lincoln Township, Precinct 1",President,,Cornel West,No Party Affiliation,0,0,0,0
 Newaygo,"Lincoln Township, Precinct 1",President,,Write-in,,3,3,0,0
 Newaygo,"Lincoln Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Lincoln Township, Precinct 1",President,,Under Vote Count,,0,0,0,0
@@ -4347,9 +4347,9 @@ Newaygo,"Lincoln Township, Precinct 1",Board Member for White Cloud Public Schoo
 Newaygo,"Lincoln Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Lincoln Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,256,0,256,0
 Newaygo,"Merrill Township, Precinct 1",President,,Ballots Cast,,469,394,75,0
-Newaygo,"Merrill Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,147,135,12,0
-Newaygo,"Merrill Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,319,257,62,0
-Newaygo,"Merrill Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,2,0,0
+Newaygo,"Merrill Township, Precinct 1",President,,Kamala D. Harris,Democrat,147,135,12,0
+Newaygo,"Merrill Township, Precinct 1",President,,Donald J. Trump,Republican,319,257,62,0
+Newaygo,"Merrill Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0
 Newaygo,"Merrill Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Merrill Township, Precinct 1",President,,Under Vote Count,,1,0,1,0
 Newaygo,"Merrill Township, Precinct 1",U.S. Senate,,Ballots Cast,,469,394,75,0
@@ -4551,10 +4551,10 @@ Newaygo,"Merrill Township, Precinct 1",Baldwin Community Schools School Safety a
 Newaygo,"Merrill Township, Precinct 1",Baldwin Community Schools School Safety and Improvement Bond Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Merrill Township, Precinct 1",Baldwin Community Schools School Safety and Improvement Bond Proposal,,Under Vote Count,,38,32,6,0
 Newaygo,"Monroe Township, Precinct 1",President,,Ballots Cast,,232,190,42,0
-Newaygo,"Monroe Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,58,43,15,0
-Newaygo,"Monroe Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,171,144,27,0
-Newaygo,"Monroe Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,1,1,0,0
-Newaygo,"Monroe Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,1,1,0,0
+Newaygo,"Monroe Township, Precinct 1",President,,Kamala D. Harris,Democrat,58,43,15,0
+Newaygo,"Monroe Township, Precinct 1",President,,Donald J. Trump,Republican,171,144,27,0
+Newaygo,"Monroe Township, Precinct 1",President,,Chase Oliver,Libertarian,1,1,0,0
+Newaygo,"Monroe Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,0
 Newaygo,"Monroe Township, Precinct 1",President,,Write-in,,1,1,0,0
 Newaygo,"Monroe Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Monroe Township, Precinct 1",President,,Under Vote Count,,0,0,0,0
@@ -4744,12 +4744,12 @@ Newaygo,"Monroe Township, Precinct 1",Board Member for White Cloud Public School
 Newaygo,"Monroe Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Monroe Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,257,217,40,0
 Newaygo,"Norwich Township, Precinct 1",President,,Ballots Cast,,353,318,35,0
-Newaygo,"Norwich Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,83,82,1,0
-Newaygo,"Norwich Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,262,229,33,0
-Newaygo,"Norwich Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,2,2,0,0
-Newaygo,"Norwich Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,1,0,0
-Newaygo,"Norwich Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,0,1,0
-Newaygo,"Norwich Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
+Newaygo,"Norwich Township, Precinct 1",President,,Kamala D. Harris,Democrat,83,82,1,0
+Newaygo,"Norwich Township, Precinct 1",President,,Donald J. Trump,Republican,262,229,33,0
+Newaygo,"Norwich Township, Precinct 1",President,,Chase Oliver,Libertarian,2,2,0,0
+Newaygo,"Norwich Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,0
+Newaygo,"Norwich Township, Precinct 1",President,,Jill Stein,Green,1,0,1,0
+Newaygo,"Norwich Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
 Newaygo,"Norwich Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Norwich Township, Precinct 1",President,,Under Vote Count,,3,3,0,0
 Newaygo,"Norwich Township, Precinct 1",U.S. Senate,,Ballots Cast,,353,318,35,0
@@ -4937,13 +4937,13 @@ Newaygo,"Norwich Township, Precinct 1",Board Member for White Cloud Public Schoo
 Newaygo,"Norwich Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Norwich Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,0,0,0,0
 Newaygo,"Sheridan Charter Township, Precinct 1",President,,Ballots Cast,,1590,1301,289,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,408,360,48,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,1148,910,238,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,7,0,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,7,6,1,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,6,6,0,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,6,4,2,0
-Newaygo,"Sheridan Charter Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,0,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Kamala D. Harris,Democrat,408,360,48,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Donald J. Trump,Republican,1148,910,238,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Chase Oliver,Libertarian,7,7,0,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,7,6,1,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Jill Stein,Green,6,6,0,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,4,2,0
+Newaygo,"Sheridan Charter Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,0,0
 Newaygo,"Sheridan Charter Township, Precinct 1",President,,Over Vote Count,,3,3,0,0
 Newaygo,"Sheridan Charter Township, Precinct 1",President,,Under Vote Count,,4,4,0,0
 Newaygo,"Sheridan Charter Township, Precinct 1",U.S. Senate,,Ballots Cast,,1590,1301,289,0
@@ -5133,13 +5133,13 @@ Newaygo,"Sheridan Charter Township, Precinct 1",Fremont Community Recreation Aut
 Newaygo,"Sheridan Charter Township, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Over Vote Count,,1,1,0,0
 Newaygo,"Sheridan Charter Township, Precinct 1",Fremont Community Recreation Authority Millage Proposal,,Under Vote Count,,97,77,20,0
 Newaygo,"Sherman Township, Precinct 1",President,,Ballots Cast,,1279,1065,214,0
-Newaygo,"Sherman Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,340,299,41,0
-Newaygo,"Sherman Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,914,743,171,0
-Newaygo,"Sherman Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,7,6,1,0
-Newaygo,"Sherman Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,4,3,1,0
-Newaygo,"Sherman Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,6,6,0,0
-Newaygo,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,2,0,0
-Newaygo,"Sherman Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Sherman Township, Precinct 1",President,,Kamala D. Harris,Democrat,340,299,41,0
+Newaygo,"Sherman Township, Precinct 1",President,,Donald J. Trump,Republican,914,743,171,0
+Newaygo,"Sherman Township, Precinct 1",President,,Chase Oliver,Libertarian,7,6,1,0
+Newaygo,"Sherman Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,4,3,1,0
+Newaygo,"Sherman Township, Precinct 1",President,,Jill Stein,Green,6,6,0,0
+Newaygo,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0
+Newaygo,"Sherman Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Sherman Township, Precinct 1",President,,Write-in,,1,1,0,0
 Newaygo,"Sherman Township, Precinct 1",President,,Over Vote Count,,1,1,0,0
 Newaygo,"Sherman Township, Precinct 1",President,,Under Vote Count,,3,3,0,0
@@ -5327,9 +5327,9 @@ Newaygo,"Sherman Township, Precinct 1",Board Member for White Cloud Public Schoo
 Newaygo,"Sherman Township, Precinct 1",Board Member for White Cloud Public Schools,,Over Vote Count,,0,0,0,0
 Newaygo,"Sherman Township, Precinct 1",Board Member for White Cloud Public Schools,,Under Vote Count,,413,360,53,0
 Newaygo,"Troy Township, Precinct 1",President,,Ballots Cast,,117,113,4,0
-Newaygo,"Troy Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,0,0,0,0
-Newaygo,"Troy Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,0,0,0,0
-Newaygo,"Troy Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,0,0,0,0
+Newaygo,"Troy Township, Precinct 1",President,,Kamala D. Harris,Democrat,0,0,0,0
+Newaygo,"Troy Township, Precinct 1",President,,Donald J. Trump,Republican,0,0,0,0
+Newaygo,"Troy Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,0,0
 Newaygo,"Troy Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Newaygo,"Troy Township, Precinct 1",President,,Under Vote Count,,0,0,0,0
 Newaygo,"Troy Township, Precinct 1",U.S. Senate,,Ballots Cast,,117,113,4,0
@@ -5500,14 +5500,14 @@ Newaygo,"Troy Township, Precinct 1",Walkerville Public Schools Sinking Fund Mill
 Newaygo,"Troy Township, Precinct 1",Walkerville Public Schools Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0
 Newaygo,"Troy Township, Precinct 1",Walkerville Public Schools Sinking Fund Millage Proposal,,Under Vote Count,,0,0,0,0
 Newaygo,"Wilcox Township, Precinct 1",President,,Ballots Cast,,613,502,111,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,147,124,23,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,451,364,87,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,3,1,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,4,4,0,0
-Newaygo,"Wilcox Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,0,0,0,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,2,2,0,0
-Newaygo,"Wilcox Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,1,0,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Kamala D. Harris,Democrat,147,124,23,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Donald J. Trump,Republican,451,364,87,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Chase Oliver,Libertarian,4,3,1,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,0,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Jill Stein,Green,4,4,0,0
+Newaygo,"Wilcox Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,0,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,2,2,0,0
+Newaygo,"Wilcox Township, Precinct 1",President,,Cornel West,No Party Affiliation,1,1,0,0
 Newaygo,"Wilcox Township, Precinct 1",President,,Write-in,,1,1,0,0
 Newaygo,"Wilcox Township, Precinct 1",President,,Over Vote Count,,1,1,0,0
 Newaygo,"Wilcox Township, Precinct 1",President,,Under Vote Count,,2,2,0,0

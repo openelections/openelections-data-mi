@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,av_counting_boards,votes
 Berrien,"City of Benton Harbor, Precinct 1",President,,Ballots Cast,,462,111,322,895
-Berrien,"City of Benton Harbor, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,408,104,305,817
-Berrien,"City of Benton Harbor, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,44,5,9,58
-Berrien,"City of Benton Harbor, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,0,1,0,1
-Berrien,"City of Benton Harbor, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"City of Benton Harbor, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,1,4
-Berrien,"City of Benton Harbor, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
-Berrien,"City of Benton Harbor, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,1,1,5
+Berrien,"City of Benton Harbor, Precinct 1",President,,Kamala D. Harris /,Democrat,408,104,305,817
+Berrien,"City of Benton Harbor, Precinct 1",President,,Donald J. Trump /,Republican,44,5,9,58
+Berrien,"City of Benton Harbor, Precinct 1",President,,Chase Oliver /,Libertarian,0,1,0,1
+Berrien,"City of Benton Harbor, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"City of Benton Harbor, Precinct 1",President,,Jill Stein /,Green,3,0,1,4
+Berrien,"City of Benton Harbor, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,0,2
+Berrien,"City of Benton Harbor, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 1",President,,Cornel West /,No Party Affiliation,3,1,1,5
 Berrien,"City of Benton Harbor, Precinct 1",President,,Write-in,,1,0,0,1
 Berrien,"City of Benton Harbor, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -185,14 +185,14 @@ Berrien,"City of Benton Harbor, Precinct 1",Benton Harbor Area Schools Board Mem
 Berrien,"City of Benton Harbor, Precinct 1",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,8,8
 Berrien,"City of Benton Harbor, Precinct 1",Benton Harbor Area Schools Board Member,,Under Vote Count,,717,207,390,1314
 Berrien,"City of Benton Harbor, Precinct 2",President,,Ballots Cast,,363,55,191,609
-Berrien,"City of Benton Harbor, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,328,43,175,546
-Berrien,"City of Benton Harbor, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,24,12,12,48
-Berrien,"City of Benton Harbor, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Berrien,"City of Benton Harbor, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"City of Benton Harbor, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"City of Benton Harbor, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,1,5
-Berrien,"City of Benton Harbor, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 2",President,,Kamala D. Harris /,Democrat,328,43,175,546
+Berrien,"City of Benton Harbor, Precinct 2",President,,Donald J. Trump /,Republican,24,12,12,48
+Berrien,"City of Benton Harbor, Precinct 2",President,,Chase Oliver /,Libertarian,1,0,0,1
+Berrien,"City of Benton Harbor, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"City of Benton Harbor, Precinct 2",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"City of Benton Harbor, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,1,5
+Berrien,"City of Benton Harbor, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 2",President,,Write-in,,2,0,0,2
 Berrien,"City of Benton Harbor, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -370,14 +370,14 @@ Berrien,"City of Benton Harbor, Precinct 2",Benton Harbor Area Schools Board Mem
 Berrien,"City of Benton Harbor, Precinct 2",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,4,4
 Berrien,"City of Benton Harbor, Precinct 2",Benton Harbor Area Schools Board Member,,Under Vote Count,,857,82,270,1209
 Berrien,"City of Benton Harbor, Precinct 3",President,,Ballots Cast,,388,129,370,887
-Berrien,"City of Benton Harbor, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,353,123,354,830
-Berrien,"City of Benton Harbor, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,27,4,11,42
-Berrien,"City of Benton Harbor, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,0,0,2,2
-Berrien,"City of Benton Harbor, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
-Berrien,"City of Benton Harbor, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Berrien,"City of Benton Harbor, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 3",President,,Kamala D. Harris /,Democrat,353,123,354,830
+Berrien,"City of Benton Harbor, Precinct 3",President,,Donald J. Trump /,Republican,27,4,11,42
+Berrien,"City of Benton Harbor, Precinct 3",President,,Chase Oliver /,Libertarian,0,0,2,2
+Berrien,"City of Benton Harbor, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,0,1,0,1
+Berrien,"City of Benton Harbor, Precinct 3",President,,Jill Stein /,Green,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Berrien,"City of Benton Harbor, Precinct 3",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 3",President,,Write-in,,2,0,1,3
 Berrien,"City of Benton Harbor, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -555,14 +555,14 @@ Berrien,"City of Benton Harbor, Precinct 3",Benton Harbor Area Schools Board Mem
 Berrien,"City of Benton Harbor, Precinct 3",Benton Harbor Area Schools Board Member,,Over Vote Count,,8,0,4,12
 Berrien,"City of Benton Harbor, Precinct 3",Benton Harbor Area Schools Board Member,,Under Vote Count,,548,166,497,1211
 Berrien,"City of Benton Harbor, Precinct 4",President,,Ballots Cast,,420,143,266,829
-Berrien,"City of Benton Harbor, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,384,119,239,742
-Berrien,"City of Benton Harbor, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,28,24,20,72
-Berrien,"City of Benton Harbor, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,0,2
-Berrien,"City of Benton Harbor, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,2,0,2,4
-Berrien,"City of Benton Harbor, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Benton Harbor, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"City of Benton Harbor, Precinct 4",President,,Kamala D. Harris /,Democrat,384,119,239,742
+Berrien,"City of Benton Harbor, Precinct 4",President,,Donald J. Trump /,Republican,28,24,20,72
+Berrien,"City of Benton Harbor, Precinct 4",President,,Chase Oliver /,Libertarian,2,0,0,2
+Berrien,"City of Benton Harbor, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 4",President,,Jill Stein /,Green,2,0,2,4
+Berrien,"City of Benton Harbor, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Benton Harbor, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"City of Benton Harbor, Precinct 4",President,,Write-in,,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Benton Harbor, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -740,14 +740,14 @@ Berrien,"City of Benton Harbor, Precinct 4",Benton Harbor Area Schools Board Mem
 Berrien,"City of Benton Harbor, Precinct 4",Benton Harbor Area Schools Board Member,,Over Vote Count,,4,0,0,4
 Berrien,"City of Benton Harbor, Precinct 4",Benton Harbor Area Schools Board Member,,Under Vote Count,,857,279,390,1526
 Berrien,"City of Bridgman, Precinct 1",President,,Ballots Cast,,701,99,570,1370
-Berrien,"City of Bridgman, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,253,28,316,597
-Berrien,"City of Bridgman, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,432,70,240,742
-Berrien,"City of Bridgman, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,4,8
-Berrien,"City of Bridgman, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of Bridgman, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,1,3
-Berrien,"City of Bridgman, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,0,4
-Berrien,"City of Bridgman, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"City of Bridgman, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"City of Bridgman, Precinct 1",President,,Kamala D. Harris /,Democrat,253,28,316,597
+Berrien,"City of Bridgman, Precinct 1",President,,Donald J. Trump /,Republican,432,70,240,742
+Berrien,"City of Bridgman, Precinct 1",President,,Chase Oliver /,Libertarian,3,1,4,8
+Berrien,"City of Bridgman, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of Bridgman, Precinct 1",President,,Jill Stein /,Green,2,0,1,3
+Berrien,"City of Bridgman, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,0,4
+Berrien,"City of Bridgman, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"City of Bridgman, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"City of Bridgman, Precinct 1",President,,Write-in,,4,0,0,4
 Berrien,"City of Bridgman, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Bridgman, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -940,14 +940,14 @@ Berrien,"City of Bridgman, Precinct 1",Bridgman Public Schools Board Member,,Wri
 Berrien,"City of Bridgman, Precinct 1",Bridgman Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Berrien,"City of Bridgman, Precinct 1",Bridgman Public Schools Board Member,,Under Vote Count,,0,81,0,81
 Berrien,"City of Buchanan, Precinct 1",President,,Ballots Cast,,706,216,310,1232
-Berrien,"City of Buchanan, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,278,85,159,522
-Berrien,"City of Buchanan, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,409,127,136,672
-Berrien,"City of Buchanan, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,0,5
-Berrien,"City of Buchanan, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"City of Buchanan, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,1,5,8
-Berrien,"City of Buchanan, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,12,0,5,17
-Berrien,"City of Buchanan, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Buchanan, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,0,2
+Berrien,"City of Buchanan, Precinct 1",President,,Kamala D. Harris /,Democrat,278,85,159,522
+Berrien,"City of Buchanan, Precinct 1",President,,Donald J. Trump /,Republican,409,127,136,672
+Berrien,"City of Buchanan, Precinct 1",President,,Chase Oliver /,Libertarian,3,2,0,5
+Berrien,"City of Buchanan, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"City of Buchanan, Precinct 1",President,,Jill Stein /,Green,2,1,5,8
+Berrien,"City of Buchanan, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,12,0,5,17
+Berrien,"City of Buchanan, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Buchanan, Precinct 1",President,,Cornel West /,No Party Affiliation,2,0,0,2
 Berrien,"City of Buchanan, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"City of Buchanan, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Buchanan, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -1129,14 +1129,14 @@ Berrien,"City of Buchanan, Precinct 1",Buchanan Community Schools Board Member,,
 Berrien,"City of Buchanan, Precinct 1",Buchanan Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Berrien,"City of Buchanan, Precinct 1",Buchanan Community Schools Board Member,,Under Vote Count,,621,213,249,1083
 Berrien,"City of Buchanan, Precinct 2",President,,Ballots Cast,,542,164,250,956
-Berrien,"City of Buchanan, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,181,61,146,388
-Berrien,"City of Buchanan, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,344,99,97,540
-Berrien,"City of Buchanan, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,1,6
-Berrien,"City of Buchanan, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,1,4
-Berrien,"City of Buchanan, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,1,0,2
-Berrien,"City of Buchanan, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,1,0,6
-Berrien,"City of Buchanan, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Buchanan, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Buchanan, Precinct 2",President,,Kamala D. Harris /,Democrat,181,61,146,388
+Berrien,"City of Buchanan, Precinct 2",President,,Donald J. Trump /,Republican,344,99,97,540
+Berrien,"City of Buchanan, Precinct 2",President,,Chase Oliver /,Libertarian,4,1,1,6
+Berrien,"City of Buchanan, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,3,0,1,4
+Berrien,"City of Buchanan, Precinct 2",President,,Jill Stein /,Green,1,1,0,2
+Berrien,"City of Buchanan, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,1,0,6
+Berrien,"City of Buchanan, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Buchanan, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Buchanan, Precinct 2",President,,Write-in,,2,0,1,3
 Berrien,"City of Buchanan, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Buchanan, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -1318,14 +1318,14 @@ Berrien,"City of Buchanan, Precinct 2",Buchanan Community Schools Board Member,,
 Berrien,"City of Buchanan, Precinct 2",Buchanan Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Berrien,"City of Buchanan, Precinct 2",Buchanan Community Schools Board Member,,Under Vote Count,,467,155,219,841
 Berrien,"City of Coloma, Precinct 1",President,,Ballots Cast,,678,109,0,787
-Berrien,"City of Coloma, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,221,23,0,244
-Berrien,"City of Coloma, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,443,85,0,528
-Berrien,"City of Coloma, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,0,5
-Berrien,"City of Coloma, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
-Berrien,"City of Coloma, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Berrien,"City of Coloma, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,0,4
-Berrien,"City of Coloma, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Coloma, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Coloma, Precinct 1",President,,Kamala D. Harris /,Democrat,221,23,0,244
+Berrien,"City of Coloma, Precinct 1",President,,Donald J. Trump /,Republican,443,85,0,528
+Berrien,"City of Coloma, Precinct 1",President,,Chase Oliver /,Libertarian,5,0,0,5
+Berrien,"City of Coloma, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,1,0,1
+Berrien,"City of Coloma, Precinct 1",President,,Jill Stein /,Green,2,0,0,2
+Berrien,"City of Coloma, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,0,4
+Berrien,"City of Coloma, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Coloma, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Coloma, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"City of Coloma, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Coloma, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -1523,14 +1523,14 @@ Berrien,"City of Coloma, Precinct 1",Coloma Community Schools Board Member,,Writ
 Berrien,"City of Coloma, Precinct 1",Coloma Community Schools Board Member,,Over Vote Count,,3,0,0,3
 Berrien,"City of Coloma, Precinct 1",Coloma Community Schools Board Member,,Under Vote Count,,728,129,0,857
 Berrien,"City of New Buffalo, Precinct 1",President,,Ballots Cast,,962,96,0,1058
-Berrien,"City of New Buffalo, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,552,38,0,590
-Berrien,"City of New Buffalo, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,379,58,0,437
-Berrien,"City of New Buffalo, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,0,5
-Berrien,"City of New Buffalo, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of New Buffalo, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,0,0,4
-Berrien,"City of New Buffalo, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,0,5
-Berrien,"City of New Buffalo, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of New Buffalo, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
+Berrien,"City of New Buffalo, Precinct 1",President,,Kamala D. Harris /,Democrat,552,38,0,590
+Berrien,"City of New Buffalo, Precinct 1",President,,Donald J. Trump /,Republican,379,58,0,437
+Berrien,"City of New Buffalo, Precinct 1",President,,Chase Oliver /,Libertarian,5,0,0,5
+Berrien,"City of New Buffalo, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of New Buffalo, Precinct 1",President,,Jill Stein /,Green,4,0,0,4
+Berrien,"City of New Buffalo, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,0,5
+Berrien,"City of New Buffalo, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of New Buffalo, Precinct 1",President,,Cornel West /,No Party Affiliation,3,0,0,3
 Berrien,"City of New Buffalo, Precinct 1",President,,Write-in,,5,0,0,5
 Berrien,"City of New Buffalo, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of New Buffalo, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -1738,14 +1738,14 @@ Berrien,"City of New Buffalo, Precinct 1",New Buffalo Area Schools Operating Mil
 Berrien,"City of New Buffalo, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"City of New Buffalo, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Under Vote Count,,81,7,0,88
 Berrien,"City of Niles, Ward 1, Precinct 1",President,,Ballots Cast,,460,279,251,990
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,188,116,155,459
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,261,163,88,512
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,1,5
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,1,3
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,3,7
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Niles, Ward 1, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,1,2
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Kamala D. Harris /,Democrat,188,116,155,459
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Donald J. Trump /,Republican,261,163,88,512
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Chase Oliver /,Libertarian,4,0,1,5
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Jill Stein /,Green,2,0,1,3
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,3,7
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Niles, Ward 1, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,1,2
 Berrien,"City of Niles, Ward 1, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"City of Niles, Ward 1, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Niles, Ward 1, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -1939,14 +1939,14 @@ Berrien,"City of Niles, Ward 1, Precinct 1",Niles City Park Maintenance Millage,
 Berrien,"City of Niles, Ward 1, Precinct 1",Niles City Park Maintenance Millage,,Over Vote Count,,0,0,0,0
 Berrien,"City of Niles, Ward 1, Precinct 1",Niles City Park Maintenance Millage,,Under Vote Count,,66,32,27,125
 Berrien,"City of Niles, Ward 2, Precinct 2",President,,Ballots Cast,,506,391,426,1323
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,232,154,267,653
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,265,231,150,646
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,1,3
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,4,7
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,1,5
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"City of Niles, Ward 2, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Kamala D. Harris /,Democrat,232,154,267,653
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Donald J. Trump /,Republican,265,231,150,646
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Chase Oliver /,Libertarian,1,1,1,3
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Jill Stein /,Green,3,0,4,7
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,2,1,5
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"City of Niles, Ward 2, Precinct 2",President,,Cornel West /,No Party Affiliation,0,1,0,1
 Berrien,"City of Niles, Ward 2, Precinct 2",President,,Write-in,,0,0,0,0
 Berrien,"City of Niles, Ward 2, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Niles, Ward 2, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -2140,14 +2140,14 @@ Berrien,"City of Niles, Ward 2, Precinct 2",Niles City Park Maintenance Millage,
 Berrien,"City of Niles, Ward 2, Precinct 2",Niles City Park Maintenance Millage,,Over Vote Count,,0,0,1,1
 Berrien,"City of Niles, Ward 2, Precinct 2",Niles City Park Maintenance Millage,,Under Vote Count,,54,41,45,140
 Berrien,"City of Niles, Ward 3, Precinct 3",President,,Ballots Cast,,538,274,302,1114
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,222,104,187,513
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,299,168,102,569
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,0,5
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,2,3
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,3,0,1,4
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,4,9
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Niles, Ward 3, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Kamala D. Harris /,Democrat,222,104,187,513
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Donald J. Trump /,Republican,299,168,102,569
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Chase Oliver /,Libertarian,4,1,0,5
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,0,2,3
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Jill Stein /,Green,3,0,1,4
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,4,9
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Niles, Ward 3, Precinct 3",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Niles, Ward 3, Precinct 3",President,,Write-in,,3,0,0,3
 Berrien,"City of Niles, Ward 3, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Niles, Ward 3, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -2341,14 +2341,14 @@ Berrien,"City of Niles, Ward 3, Precinct 3",Niles City Park Maintenance Millage,
 Berrien,"City of Niles, Ward 3, Precinct 3",Niles City Park Maintenance Millage,,Over Vote Count,,0,0,0,0
 Berrien,"City of Niles, Ward 3, Precinct 3",Niles City Park Maintenance Millage,,Under Vote Count,,96,42,37,175
 Berrien,"City of Niles, Ward 4, Precinct 4",President,,Ballots Cast,,619,451,509,1579
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,217,162,350,729
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,392,283,143,818
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,3,8
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,4,4
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,1,1,0,2
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,1,4,7
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of Niles, Ward 4, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,1,3
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Kamala D. Harris /,Democrat,217,162,350,729
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Donald J. Trump /,Republican,392,283,143,818
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Chase Oliver /,Libertarian,4,1,3,8
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,0,0,4,4
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Jill Stein /,Green,1,1,0,2
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,1,4,7
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of Niles, Ward 4, Precinct 4",President,,Cornel West /,No Party Affiliation,2,0,1,3
 Berrien,"City of Niles, Ward 4, Precinct 4",President,,Write-in,,1,0,2,3
 Berrien,"City of Niles, Ward 4, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Niles, Ward 4, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -2542,14 +2542,14 @@ Berrien,"City of Niles, Ward 4, Precinct 4",Niles City Park Maintenance Millage,
 Berrien,"City of Niles, Ward 4, Precinct 4",Niles City Park Maintenance Millage,,Over Vote Count,,0,1,0,1
 Berrien,"City of Niles, Ward 4, Precinct 4",Niles City Park Maintenance Millage,,Under Vote Count,,50,54,68,172
 Berrien,"City of St. Joseph, Precinct 1",President,,Ballots Cast,,594,345,932,1871
-Berrien,"City of St. Joseph, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,306,185,573,1064
-Berrien,"City of St. Joseph, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,272,156,335,763
-Berrien,"City of St. Joseph, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,2,2,10
-Berrien,"City of St. Joseph, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"City of St. Joseph, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,3,6
-Berrien,"City of St. Joseph, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,2,4
-Berrien,"City of St. Joseph, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"City of St. Joseph, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,3,5
+Berrien,"City of St. Joseph, Precinct 1",President,,Kamala D. Harris /,Democrat,306,185,573,1064
+Berrien,"City of St. Joseph, Precinct 1",President,,Donald J. Trump /,Republican,272,156,335,763
+Berrien,"City of St. Joseph, Precinct 1",President,,Chase Oliver /,Libertarian,6,2,2,10
+Berrien,"City of St. Joseph, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"City of St. Joseph, Precinct 1",President,,Jill Stein /,Green,3,0,3,6
+Berrien,"City of St. Joseph, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,1,2,4
+Berrien,"City of St. Joseph, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"City of St. Joseph, Precinct 1",President,,Cornel West /,No Party Affiliation,2,0,3,5
 Berrien,"City of St. Joseph, Precinct 1",President,,Write-in,,3,0,6,9
 Berrien,"City of St. Joseph, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -2745,14 +2745,14 @@ Berrien,"City of St. Joseph, Precinct 1",St. Joseph Public Schools Sinking Fund 
 Berrien,"City of St. Joseph, Precinct 1",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 1",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,107,43,96,246
 Berrien,"City of St. Joseph, Precinct 2",President,,Ballots Cast,,694,315,724,1733
-Berrien,"City of St. Joseph, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,337,195,513,1045
-Berrien,"City of St. Joseph, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,332,117,192,641
-Berrien,"City of St. Joseph, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,6,1,3,10
-Berrien,"City of St. Joseph, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,1,1,4
-Berrien,"City of St. Joseph, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,7,10
-Berrien,"City of St. Joseph, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,3,8
-Berrien,"City of St. Joseph, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"City of St. Joseph, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of St. Joseph, Precinct 2",President,,Kamala D. Harris /,Democrat,337,195,513,1045
+Berrien,"City of St. Joseph, Precinct 2",President,,Donald J. Trump /,Republican,332,117,192,641
+Berrien,"City of St. Joseph, Precinct 2",President,,Chase Oliver /,Libertarian,6,1,3,10
+Berrien,"City of St. Joseph, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,2,1,1,4
+Berrien,"City of St. Joseph, Precinct 2",President,,Jill Stein /,Green,3,0,7,10
+Berrien,"City of St. Joseph, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,3,8
+Berrien,"City of St. Joseph, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"City of St. Joseph, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 2",President,,Write-in,,5,0,3,8
 Berrien,"City of St. Joseph, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -2937,14 +2937,14 @@ Berrien,"City of St. Joseph, Precinct 2",St. Joseph Public Schools Sinking Fund 
 Berrien,"City of St. Joseph, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,99,30,70,199
 Berrien,"City of St. Joseph, Precinct 3",President,,Ballots Cast,,585,323,571,1479
-Berrien,"City of St. Joseph, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,291,161,383,835
-Berrien,"City of St. Joseph, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,266,156,173,595
-Berrien,"City of St. Joseph, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,1,7
-Berrien,"City of St. Joseph, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,2,1,3
-Berrien,"City of St. Joseph, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,6,2,6,14
-Berrien,"City of St. Joseph, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,2,1,7
-Berrien,"City of St. Joseph, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"City of St. Joseph, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"City of St. Joseph, Precinct 3",President,,Kamala D. Harris /,Democrat,291,161,383,835
+Berrien,"City of St. Joseph, Precinct 3",President,,Donald J. Trump /,Republican,266,156,173,595
+Berrien,"City of St. Joseph, Precinct 3",President,,Chase Oliver /,Libertarian,6,0,1,7
+Berrien,"City of St. Joseph, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,0,2,1,3
+Berrien,"City of St. Joseph, Precinct 3",President,,Jill Stein /,Green,6,2,6,14
+Berrien,"City of St. Joseph, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,2,1,7
+Berrien,"City of St. Joseph, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"City of St. Joseph, Precinct 3",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"City of St. Joseph, Precinct 3",President,,Write-in,,6,0,1,7
 Berrien,"City of St. Joseph, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -3129,14 +3129,14 @@ Berrien,"City of St. Joseph, Precinct 3",St. Joseph Public Schools Sinking Fund 
 Berrien,"City of St. Joseph, Precinct 3",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"City of St. Joseph, Precinct 3",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,58,40,54,152
 Berrien,"City of Watervliet, Precinct 1",President,,Ballots Cast,,721,117,0,838
-Berrien,"City of Watervliet, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,259,38,0,297
-Berrien,"City of Watervliet, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,450,79,0,529
-Berrien,"City of Watervliet, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,0,4
-Berrien,"City of Watervliet, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"City of Watervliet, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,0,0,0
-Berrien,"City of Watervliet, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,0,1
-Berrien,"City of Watervliet, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,0,2
-Berrien,"City of Watervliet, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"City of Watervliet, Precinct 1",President,,Kamala D. Harris /,Democrat,259,38,0,297
+Berrien,"City of Watervliet, Precinct 1",President,,Donald J. Trump /,Republican,450,79,0,529
+Berrien,"City of Watervliet, Precinct 1",President,,Chase Oliver /,Libertarian,4,0,0,4
+Berrien,"City of Watervliet, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"City of Watervliet, Precinct 1",President,,Jill Stein /,Green,0,0,0,0
+Berrien,"City of Watervliet, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,0,0,1
+Berrien,"City of Watervliet, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,2,0,0,2
+Berrien,"City of Watervliet, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"City of Watervliet, Precinct 1",President,,Write-in,,2,0,0,2
 Berrien,"City of Watervliet, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"City of Watervliet, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -3332,14 +3332,14 @@ Berrien,"City of Watervliet, Precinct 1",Watervliet Public Schools Board Member 
 Berrien,"City of Watervliet, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"City of Watervliet, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,249,27,0,276
 Berrien,"Bainbridge Township, Precinct 1",President,,Ballots Cast,,1010,663,0,1673
-Berrien,"Bainbridge Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,302,130,0,432
-Berrien,"Bainbridge Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,682,525,0,1207
-Berrien,"Bainbridge Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,2,0,8
-Berrien,"Bainbridge Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Berrien,"Bainbridge Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,1,0,4
-Berrien,"Bainbridge Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,0,4
-Berrien,"Bainbridge Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"Bainbridge Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,0,2
+Berrien,"Bainbridge Township, Precinct 1",President,,Kamala D. Harris /,Democrat,302,130,0,432
+Berrien,"Bainbridge Township, Precinct 1",President,,Donald J. Trump /,Republican,682,525,0,1207
+Berrien,"Bainbridge Township, Precinct 1",President,,Chase Oliver /,Libertarian,6,2,0,8
+Berrien,"Bainbridge Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,0,3
+Berrien,"Bainbridge Township, Precinct 1",President,,Jill Stein /,Green,3,1,0,4
+Berrien,"Bainbridge Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,1,0,4
+Berrien,"Bainbridge Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"Bainbridge Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,1,0,2
 Berrien,"Bainbridge Township, Precinct 1",President,,Write-in,,4,0,0,4
 Berrien,"Bainbridge Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Bainbridge Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -3590,14 +3590,14 @@ Berrien,"Bainbridge Township, Precinct 1",Watervliet Public Schools Board Member
 Berrien,"Bainbridge Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"Bainbridge Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,172,119,0,291
 Berrien,"Baroda Township, Precinct 1",President,,Ballots Cast,,908,211,638,1757
-Berrien,"Baroda Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,213,51,273,537
-Berrien,"Baroda Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,680,159,356,1195
-Berrien,"Baroda Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,1,8
-Berrien,"Baroda Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"Baroda Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Berrien,"Baroda Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,3,7
-Berrien,"Baroda Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Baroda Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,2,2
+Berrien,"Baroda Township, Precinct 1",President,,Kamala D. Harris /,Democrat,213,51,273,537
+Berrien,"Baroda Township, Precinct 1",President,,Donald J. Trump /,Republican,680,159,356,1195
+Berrien,"Baroda Township, Precinct 1",President,,Chase Oliver /,Libertarian,7,0,1,8
+Berrien,"Baroda Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"Baroda Township, Precinct 1",President,,Jill Stein /,Green,3,0,0,3
+Berrien,"Baroda Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,3,7
+Berrien,"Baroda Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Baroda Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,2,2
 Berrien,"Baroda Township, Precinct 1",President,,Write-in,,1,0,0,1
 Berrien,"Baroda Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Baroda Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -3830,14 +3830,14 @@ Berrien,"Baroda Township, Precinct 1",Lakeshore Public Schools Board Member Part
 Berrien,"Baroda Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Baroda Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,246,73,235,554
 Berrien,"Benton Charter Township, Precinct 1",President,,Ballots Cast,,483,353,543,1379
-Berrien,"Benton Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,267,169,325,761
-Berrien,"Benton Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,206,179,204,589
-Berrien,"Benton Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,0,1,2,3
-Berrien,"Benton Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,2,5
-Berrien,"Benton Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,3,6
-Berrien,"Benton Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,1,5
-Berrien,"Benton Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Benton Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,267,169,325,761
+Berrien,"Benton Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,206,179,204,589
+Berrien,"Benton Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,0,1,2,3
+Berrien,"Benton Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,2,5
+Berrien,"Benton Charter Township, Precinct 1",President,,Jill Stein /,Green,3,0,3,6
+Berrien,"Benton Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,1,1,5
+Berrien,"Benton Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 1",President,,Write-in,,0,2,0,2
 Berrien,"Benton Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -4047,14 +4047,14 @@ Berrien,"Benton Charter Township, Precinct 1",Coloma Community Schools Board Mem
 Berrien,"Benton Charter Township, Precinct 1",Coloma Community Schools Board Member,,Over Vote Count,,0,0,3,3
 Berrien,"Benton Charter Township, Precinct 1",Coloma Community Schools Board Member,,Under Vote Count,,88,51,101,240
 Berrien,"Benton Charter Township, Precinct 2",President,,Ballots Cast,,334,233,275,842
-Berrien,"Benton Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,215,151,205,571
-Berrien,"Benton Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,109,76,62,247
-Berrien,"Benton Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,2
-Berrien,"Benton Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Berrien,"Benton Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,2,1,2,5
-Berrien,"Benton Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,2,4,7
-Berrien,"Benton Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"Benton Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,1,2
+Berrien,"Benton Charter Township, Precinct 2",President,,Kamala D. Harris /,Democrat,215,151,205,571
+Berrien,"Benton Charter Township, Precinct 2",President,,Donald J. Trump /,Republican,109,76,62,247
+Berrien,"Benton Charter Township, Precinct 2",President,,Chase Oliver /,Libertarian,1,1,0,2
+Berrien,"Benton Charter Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,2,0,0,2
+Berrien,"Benton Charter Township, Precinct 2",President,,Jill Stein /,Green,2,1,2,5
+Berrien,"Benton Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,2,4,7
+Berrien,"Benton Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"Benton Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,1,1,2
 Berrien,"Benton Charter Township, Precinct 2",President,,Write-in,,1,0,0,1
 Berrien,"Benton Charter Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -4261,14 +4261,14 @@ Berrien,"Benton Charter Township, Precinct 2",Benton Harbor Area Schools Board M
 Berrien,"Benton Charter Township, Precinct 2",Benton Harbor Area Schools Board Member,,Over Vote Count,,4,0,0,4
 Berrien,"Benton Charter Township, Precinct 2",Benton Harbor Area Schools Board Member,,Under Vote Count,,666,445,423,1534
 Berrien,"Benton Charter Township, Precinct 3",President,,Ballots Cast,,220,222,376,818
-Berrien,"Benton Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,112,131,252,495
-Berrien,"Benton Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,100,88,119,307
-Berrien,"Benton Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,1,3
-Berrien,"Benton Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Benton Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Berrien,"Benton Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,1,3
-Berrien,"Benton Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Benton Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
+Berrien,"Benton Charter Township, Precinct 3",President,,Kamala D. Harris /,Democrat,112,131,252,495
+Berrien,"Benton Charter Township, Precinct 3",President,,Donald J. Trump /,Republican,100,88,119,307
+Berrien,"Benton Charter Township, Precinct 3",President,,Chase Oliver /,Libertarian,1,1,1,3
+Berrien,"Benton Charter Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 3",President,,Jill Stein /,Green,2,0,0,2
+Berrien,"Benton Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,1,3
+Berrien,"Benton Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,1,0,1
 Berrien,"Benton Charter Township, Precinct 3",President,,Write-in,,1,0,1,2
 Berrien,"Benton Charter Township, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -4475,14 +4475,14 @@ Berrien,"Benton Charter Township, Precinct 3",Benton Harbor Area Schools Board M
 Berrien,"Benton Charter Township, Precinct 3",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,4,4
 Berrien,"Benton Charter Township, Precinct 3",Benton Harbor Area Schools Board Member,,Under Vote Count,,405,433,562,1400
 Berrien,"Benton Charter Township, Precinct 4",President,,Ballots Cast,,354,250,377,981
-Berrien,"Benton Charter Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,177,127,261,565
-Berrien,"Benton Charter Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,172,121,101,394
-Berrien,"Benton Charter Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,1,2
-Berrien,"Benton Charter Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Benton Charter Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,0,0,0,0
-Berrien,"Benton Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,2,4
-Berrien,"Benton Charter Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Benton Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 4",President,,Kamala D. Harris /,Democrat,177,127,261,565
+Berrien,"Benton Charter Township, Precinct 4",President,,Donald J. Trump /,Republican,172,121,101,394
+Berrien,"Benton Charter Township, Precinct 4",President,,Chase Oliver /,Libertarian,1,0,1,2
+Berrien,"Benton Charter Township, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 4",President,,Jill Stein /,Green,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,1,2,4
+Berrien,"Benton Charter Township, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 4",President,,Write-in,,0,0,3,3
 Berrien,"Benton Charter Township, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -4684,14 +4684,14 @@ Berrien,"Benton Charter Township, Precinct 4",Benton Harbor Area Schools Board M
 Berrien,"Benton Charter Township, Precinct 4",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,4,4
 Berrien,"Benton Charter Township, Precinct 4",Benton Harbor Area Schools Board Member,,Under Vote Count,,819,519,656,1994
 Berrien,"Benton Charter Township, Precinct 5",President,,Ballots Cast,,471,253,474,1198
-Berrien,"Benton Charter Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,256,125,341,722
-Berrien,"Benton Charter Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,207,127,125,459
-Berrien,"Benton Charter Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,3,4
-Berrien,"Benton Charter Township, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"Benton Charter Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Berrien,"Benton Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,3,7
-Berrien,"Benton Charter Township, Precinct 5",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Benton Charter Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 5",President,,Kamala D. Harris /,Democrat,256,125,341,722
+Berrien,"Benton Charter Township, Precinct 5",President,,Donald J. Trump /,Republican,207,127,125,459
+Berrien,"Benton Charter Township, Precinct 5",President,,Chase Oliver /,Libertarian,1,0,3,4
+Berrien,"Benton Charter Township, Precinct 5",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"Benton Charter Township, Precinct 5",President,,Jill Stein /,Green,2,0,0,2
+Berrien,"Benton Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,1,3,7
+Berrien,"Benton Charter Township, Precinct 5",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 5",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Benton Charter Township, Precinct 5",President,,Write-in,,1,0,0,1
 Berrien,"Benton Charter Township, Precinct 5",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 5",President,,Claudia De la Cruz,,0,0,0,0
@@ -4892,14 +4892,14 @@ Berrien,"Benton Charter Township, Precinct 5",Benton Harbor Area Schools Board M
 Berrien,"Benton Charter Township, Precinct 5",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,8,8
 Berrien,"Benton Charter Township, Precinct 5",Benton Harbor Area Schools Board Member,,Under Vote Count,,1028,620,730,2378
 Berrien,"Benton Charter Township, Precinct 6",President,,Ballots Cast,,330,240,531,1101
-Berrien,"Benton Charter Township, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,254,191,450,895
-Berrien,"Benton Charter Township, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,68,45,65,178
-Berrien,"Benton Charter Township, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,2,1,0,3
-Berrien,"Benton Charter Township, Precinct 6",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,3,4
-Berrien,"Benton Charter Township, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,2,2,2,6
-Berrien,"Benton Charter Township, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,1,2
-Berrien,"Benton Charter Township, Precinct 6",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Benton Charter Township, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Benton Charter Township, Precinct 6",President,,Kamala D. Harris /,Democrat,254,191,450,895
+Berrien,"Benton Charter Township, Precinct 6",President,,Donald J. Trump /,Republican,68,45,65,178
+Berrien,"Benton Charter Township, Precinct 6",President,,Chase Oliver /,Libertarian,2,1,0,3
+Berrien,"Benton Charter Township, Precinct 6",President,,Randall Terry /,U.S. Taxpayers,0,1,3,4
+Berrien,"Benton Charter Township, Precinct 6",President,,Jill Stein /,Green,2,2,2,6
+Berrien,"Benton Charter Township, Precinct 6",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,0,1,2
+Berrien,"Benton Charter Township, Precinct 6",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Benton Charter Township, Precinct 6",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Benton Charter Township, Precinct 6",President,,Write-in,,0,0,2,2
 Berrien,"Benton Charter Township, Precinct 6",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 6",President,,Claudia De la Cruz,,0,0,0,0
@@ -5100,14 +5100,14 @@ Berrien,"Benton Charter Township, Precinct 6",Benton Harbor Area Schools Board M
 Berrien,"Benton Charter Township, Precinct 6",Benton Harbor Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Berrien,"Benton Charter Township, Precinct 6",Benton Harbor Area Schools Board Member,,Under Vote Count,,598,454,766,1818
 Berrien,"Berrien Township, Precinct 1",President,,Ballots Cast,,537,410,582,1529
-Berrien,"Berrien Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,168,156,297,621
-Berrien,"Berrien Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,347,248,270,865
-Berrien,"Berrien Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,2,4,11
-Berrien,"Berrien Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,1,1,5
-Berrien,"Berrien Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,1,2,6
-Berrien,"Berrien Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,1,2,5
-Berrien,"Berrien Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Berrien Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Berrien Township, Precinct 1",President,,Kamala D. Harris /,Democrat,168,156,297,621
+Berrien,"Berrien Township, Precinct 1",President,,Donald J. Trump /,Republican,347,248,270,865
+Berrien,"Berrien Township, Precinct 1",President,,Chase Oliver /,Libertarian,5,2,4,11
+Berrien,"Berrien Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,1,1,5
+Berrien,"Berrien Township, Precinct 1",President,,Jill Stein /,Green,3,1,2,6
+Berrien,"Berrien Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,1,2,5
+Berrien,"Berrien Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Berrien Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Berrien Township, Precinct 1",President,,Write-in,,3,0,2,5
 Berrien,"Berrien Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Berrien Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -5318,14 +5318,14 @@ Berrien,"Berrien Township, Precinct 1",Niles Community Schools Board Member Part
 Berrien,"Berrien Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"Berrien Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,26,27,25,78
 Berrien,"Berrien Township, Precinct 2",President,,Ballots Cast,,570,241,406,1217
-Berrien,"Berrien Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,154,80,175,409
-Berrien,"Berrien Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,398,159,221,778
-Berrien,"Berrien Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,4,9
-Berrien,"Berrien Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,4,0,1,5
-Berrien,"Berrien Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Berrien,"Berrien Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,2,7
-Berrien,"Berrien Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Berrien Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Berrien Township, Precinct 2",President,,Kamala D. Harris /,Democrat,154,80,175,409
+Berrien,"Berrien Township, Precinct 2",President,,Donald J. Trump /,Republican,398,159,221,778
+Berrien,"Berrien Township, Precinct 2",President,,Chase Oliver /,Libertarian,5,0,4,9
+Berrien,"Berrien Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,4,0,1,5
+Berrien,"Berrien Township, Precinct 2",President,,Jill Stein /,Green,3,0,0,3
+Berrien,"Berrien Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,1,2,7
+Berrien,"Berrien Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Berrien Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Berrien Township, Precinct 2",President,,Write-in,,1,0,1,2
 Berrien,"Berrien Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Berrien Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -5574,14 +5574,14 @@ Berrien,"Berrien Township, Precinct 2",Berrien Springs Community Library Millage
 Berrien,"Berrien Township, Precinct 2",Berrien Springs Community Library Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Berrien Township, Precinct 2",Berrien Springs Community Library Millage Proposal,,Under Vote Count,,0,0,0,0
 Berrien,"Bertrand Charter Township, Precinct 1",President,,Ballots Cast,,730,403,629,1762
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,189,122,315,626
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,531,276,302,1109
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,3,7
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Bertrand Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,0,2
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Bertrand Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,189,122,315,626
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,531,276,302,1109
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,2,3,7
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,1,2
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Bertrand Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,1,0,2
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Bertrand Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Bertrand Charter Township, Precinct 1",President,,Write-in,,2,0,2,4
 Berrien,"Bertrand Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Bertrand Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -5801,14 +5801,14 @@ Berrien,"Bertrand Charter Township, Precinct 1",Niles Community Schools Board Me
 Berrien,"Bertrand Charter Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"Bertrand Charter Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,31,33,46,110
 Berrien,"Buchanan Charter Township, Precinct 1",President,,Ballots Cast,,751,467,901,2119
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,184,120,420,724
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,553,343,458,1354
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,2,7
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,4,4
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,2,5
-Berrien,"Buchanan Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,2,7,14
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Buchanan Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,184,120,420,724
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,553,343,458,1354
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,4,1,2,7
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,4,4
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Jill Stein /,Green,3,0,2,5
+Berrien,"Buchanan Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,2,7,14
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Buchanan Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"Buchanan Charter Township, Precinct 1",President,,Write-in,,1,0,0,1
 Berrien,"Buchanan Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Buchanan Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -6009,14 +6009,14 @@ Berrien,"Buchanan Charter Township, Precinct 1",River Valley School Board Member
 Berrien,"Buchanan Charter Township, Precinct 1",River Valley School Board Member,,Over Vote Count,,0,0,0,0
 Berrien,"Buchanan Charter Township, Precinct 1",River Valley School Board Member,,Under Vote Count,,30,16,21,67
 Berrien,"Chikaming Township, Precinct 1",President,,Ballots Cast,,821,242,1162,2225
-Berrien,"Chikaming Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,393,132,765,1290
-Berrien,"Chikaming Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,414,106,377,897
-Berrien,"Chikaming Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,3,7
-Berrien,"Chikaming Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Chikaming Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,5,6
-Berrien,"Chikaming Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,5,10
-Berrien,"Chikaming Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Chikaming Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,2,0,2
+Berrien,"Chikaming Township, Precinct 1",President,,Kamala D. Harris /,Democrat,393,132,765,1290
+Berrien,"Chikaming Township, Precinct 1",President,,Donald J. Trump /,Republican,414,106,377,897
+Berrien,"Chikaming Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,2,3,7
+Berrien,"Chikaming Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Chikaming Township, Precinct 1",President,,Jill Stein /,Green,1,0,5,6
+Berrien,"Chikaming Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,5,10
+Berrien,"Chikaming Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Chikaming Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,2,0,2
 Berrien,"Chikaming Township, Precinct 1",President,,Write-in,,1,0,2,3
 Berrien,"Chikaming Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Chikaming Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -6233,14 +6233,14 @@ Berrien,"Chikaming Township, Precinct 1",New Buffalo Area Schools Operating Mill
 Berrien,"Chikaming Township, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Chikaming Township, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Under Vote Count,,8,5,18,31
 Berrien,"Coloma Charter Township, Precinct 1",President,,Ballots Cast,,1240,458,1128,2826
-Berrien,"Coloma Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,271,113,467,851
-Berrien,"Coloma Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,954,339,636,1929
-Berrien,"Coloma Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,2,2,8
-Berrien,"Coloma Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,2,3
-Berrien,"Coloma Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,1,0,1
-Berrien,"Coloma Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,9,1,9,19
-Berrien,"Coloma Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Coloma Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,2,2
+Berrien,"Coloma Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,271,113,467,851
+Berrien,"Coloma Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,954,339,636,1929
+Berrien,"Coloma Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,4,2,2,8
+Berrien,"Coloma Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,2,3
+Berrien,"Coloma Charter Township, Precinct 1",President,,Jill Stein /,Green,0,1,0,1
+Berrien,"Coloma Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,9,1,9,19
+Berrien,"Coloma Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Coloma Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,2,2
 Berrien,"Coloma Charter Township, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"Coloma Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Coloma Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -6461,14 +6461,14 @@ Berrien,"Coloma Charter Township, Precinct 1",Watervliet Public Schools Board Me
 Berrien,"Coloma Charter Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"Coloma Charter Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,0,0,0,0
 Berrien,"Galien Township, Precinct 1",President,,Ballots Cast,,772,59,0,831
-Berrien,"Galien Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,248,6,0,254
-Berrien,"Galien Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,502,53,0,555
-Berrien,"Galien Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Berrien,"Galien Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Berrien,"Galien Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Berrien,"Galien Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,0,3
-Berrien,"Galien Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Galien Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Galien Township, Precinct 1",President,,Kamala D. Harris /,Democrat,248,6,0,254
+Berrien,"Galien Township, Precinct 1",President,,Donald J. Trump /,Republican,502,53,0,555
+Berrien,"Galien Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,0,0,3
+Berrien,"Galien Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,0,3
+Berrien,"Galien Township, Precinct 1",President,,Jill Stein /,Green,3,0,0,3
+Berrien,"Galien Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,0,3
+Berrien,"Galien Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Galien Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Galien Township, Precinct 1",President,,Write-in,,1,0,0,1
 Berrien,"Galien Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Galien Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -6691,14 +6691,14 @@ Berrien,"Galien Township, Precinct 1",Galien Township Fire Services Millage,,No,
 Berrien,"Galien Township, Precinct 1",Galien Township Fire Services Millage,,Over Vote Count,,0,0,0,0
 Berrien,"Galien Township, Precinct 1",Galien Township Fire Services Millage,,Under Vote Count,,113,5,0,118
 Berrien,"Hagar Township, Precinct 1",President,,Ballots Cast,,941,219,752,1912
-Berrien,"Hagar Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,254,69,342,665
-Berrien,"Hagar Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,674,144,393,1211
-Berrien,"Hagar Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,3,7
-Berrien,"Hagar Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
-Berrien,"Hagar Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,2,3,6
-Berrien,"Hagar Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,8,1,2,11
-Berrien,"Hagar Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,2,2
-Berrien,"Hagar Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Hagar Township, Precinct 1",President,,Kamala D. Harris /,Democrat,254,69,342,665
+Berrien,"Hagar Township, Precinct 1",President,,Donald J. Trump /,Republican,674,144,393,1211
+Berrien,"Hagar Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,2,3,7
+Berrien,"Hagar Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,2,2
+Berrien,"Hagar Township, Precinct 1",President,,Jill Stein /,Green,1,2,3,6
+Berrien,"Hagar Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,8,1,2,11
+Berrien,"Hagar Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,2,2
+Berrien,"Hagar Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Hagar Township, Precinct 1",President,,Write-in,,0,0,2,2
 Berrien,"Hagar Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Hagar Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -6920,14 +6920,14 @@ Berrien,"Hagar Township, Precinct 1",Hagar Township S/D #6 Operating Millage Ren
 Berrien,"Hagar Township, Precinct 1",Hagar Township S/D #6 Operating Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Hagar Township, Precinct 1",Hagar Township S/D #6 Operating Millage Renewal Proposal,,Under Vote Count,,28,2,6,36
 Berrien,"Lake Charter Township, Precinct 1",President,,Ballots Cast,,1139,165,849,2153
-Berrien,"Lake Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,301,44,370,715
-Berrien,"Lake Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,816,121,472,1409
-Berrien,"Lake Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,9,0,1,10
-Berrien,"Lake Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"Lake Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Berrien,"Lake Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,1,8
-Berrien,"Lake Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Lake Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Lake Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,301,44,370,715
+Berrien,"Lake Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,816,121,472,1409
+Berrien,"Lake Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,9,0,1,10
+Berrien,"Lake Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"Lake Charter Township, Precinct 1",President,,Jill Stein /,Green,1,0,1,2
+Berrien,"Lake Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,0,1,8
+Berrien,"Lake Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Lake Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Lake Charter Township, Precinct 1",President,,Write-in,,2,0,3,5
 Berrien,"Lake Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lake Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -7141,14 +7141,14 @@ Berrien,"Lake Charter Township, Precinct 1",Lakeshore Public Schools Board Membe
 Berrien,"Lake Charter Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Lake Charter Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 1",President,,Ballots Cast,,915,323,936,2174
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,292,125,443,860
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,601,196,450,1247
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,9,15
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,1,3,8
-Berrien,"Lincoln Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,1,3
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,2,3
-Berrien,"Lincoln Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,292,125,443,860
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,601,196,450,1247
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,6,0,9,15
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Jill Stein /,Green,4,1,3,8
+Berrien,"Lincoln Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,1,3
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,2,3
+Berrien,"Lincoln Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"Lincoln Charter Township, Precinct 1",President,,Write-in,,3,1,6,10
 Berrien,"Lincoln Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -7358,14 +7358,14 @@ Berrien,"Lincoln Charter Township, Precinct 1",Lakeshore Public Schools Board Me
 Berrien,"Lincoln Charter Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 1",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,341,113,317,771
 Berrien,"Lincoln Charter Township, Precinct 2",President,,Ballots Cast,,811,380,841,2032
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,260,151,407,818
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,534,224,424,1182
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,2,8
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Lincoln Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,1,3,6
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"Lincoln Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Kamala D. Harris /,Democrat,260,151,407,818
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Donald J. Trump /,Republican,534,224,424,1182
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Chase Oliver /,Libertarian,6,0,2,8
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Lincoln Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,1,3,6
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"Lincoln Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Lincoln Charter Township, Precinct 2",President,,Write-in,,2,1,1,4
 Berrien,"Lincoln Charter Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -7599,14 +7599,14 @@ Berrien,"Lincoln Charter Township, Precinct 2",St. Joseph Public Schools Sinking
 Berrien,"Lincoln Charter Township, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,32,12,30,74
 Berrien,"Lincoln Charter Township, Precinct 3",President,,Ballots Cast,,645,382,958,1985
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,211,167,524,902
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,417,204,409,1030
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,4,3,2,9
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,2,4
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Lincoln Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,0,7
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Lincoln Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,1,2
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Kamala D. Harris /,Democrat,211,167,524,902
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Donald J. Trump /,Republican,417,204,409,1030
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Chase Oliver /,Libertarian,4,3,2,9
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,1,2,4
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Lincoln Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,1,0,7
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Lincoln Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,1,1,2
 Berrien,"Lincoln Charter Township, Precinct 3",President,,Write-in,,0,0,5,5
 Berrien,"Lincoln Charter Township, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 3",President,,Claudia De la Cruz,,0,0,1,1
@@ -7823,14 +7823,14 @@ Berrien,"Lincoln Charter Township, Precinct 3",Lakeshore Public Schools Board Me
 Berrien,"Lincoln Charter Township, Precinct 3",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 3",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,201,123,377,701
 Berrien,"Lincoln Charter Township, Precinct 4",President,,Ballots Cast,,698,302,603,1603
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,218,116,286,620
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,472,180,304,956
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,0,2,3,5
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,1,0,2,3
-Berrien,"Lincoln Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,0,5
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Lincoln Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Kamala D. Harris /,Democrat,218,116,286,620
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Donald J. Trump /,Republican,472,180,304,956
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Chase Oliver /,Libertarian,0,2,3,5
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Jill Stein /,Green,1,0,2,3
+Berrien,"Lincoln Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,0,5
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 4",President,,Write-in,,0,2,5,7
 Berrien,"Lincoln Charter Township, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -8046,14 +8046,14 @@ Berrien,"Lincoln Charter Township, Precinct 4",Lakeshore Public Schools Board Me
 Berrien,"Lincoln Charter Township, Precinct 4",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 4",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,257,103,238,598
 Berrien,"Lincoln Charter Township, Precinct 5",President,,Ballots Cast,,694,247,722,1663
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,214,97,347,658
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,468,146,361,975
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,1,7
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,3,0,1,4
-Berrien,"Lincoln Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,2,2,5
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Lincoln Charter Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Kamala D. Harris /,Democrat,214,97,347,658
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Donald J. Trump /,Republican,468,146,361,975
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Chase Oliver /,Libertarian,5,1,1,7
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Jill Stein /,Green,3,0,1,4
+Berrien,"Lincoln Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,2,2,5
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Lincoln Charter Township, Precinct 5",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 5",President,,Write-in,,1,1,4,6
 Berrien,"Lincoln Charter Township, Precinct 5",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 5",President,,Claudia De la Cruz,,0,0,0,0
@@ -8275,14 +8275,14 @@ Berrien,"Lincoln Charter Township, Precinct 5",Lakeshore Public Schools Board Me
 Berrien,"Lincoln Charter Township, Precinct 5",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Lincoln Charter Township, Precinct 5",Lakeshore Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,234,108,273,615
 Berrien,"New Buffalo Township, Precinct 1",President,,Ballots Cast,,1498,216,0,1714
-Berrien,"New Buffalo Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,860,120,0,980
-Berrien,"New Buffalo Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,613,95,0,708
-Berrien,"New Buffalo Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,0,5
-Berrien,"New Buffalo Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"New Buffalo Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Berrien,"New Buffalo Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,0,7
-Berrien,"New Buffalo Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"New Buffalo Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"New Buffalo Township, Precinct 1",President,,Kamala D. Harris /,Democrat,860,120,0,980
+Berrien,"New Buffalo Township, Precinct 1",President,,Donald J. Trump /,Republican,613,95,0,708
+Berrien,"New Buffalo Township, Precinct 1",President,,Chase Oliver /,Libertarian,4,1,0,5
+Berrien,"New Buffalo Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"New Buffalo Township, Precinct 1",President,,Jill Stein /,Green,2,0,0,2
+Berrien,"New Buffalo Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,0,0,7
+Berrien,"New Buffalo Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"New Buffalo Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"New Buffalo Township, Precinct 1",President,,Write-in,,5,0,0,5
 Berrien,"New Buffalo Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"New Buffalo Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -8527,14 +8527,14 @@ Berrien,"New Buffalo Township, Precinct 1",New Buffalo Area Schools Operating Mi
 Berrien,"New Buffalo Township, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"New Buffalo Township, Precinct 1",New Buffalo Area Schools Operating Millage Proposal,,Under Vote Count,,207,32,0,239
 Berrien,"Niles Charter Township, Precinct 1",President,,Ballots Cast,,504,531,485,1520
-Berrien,"Niles Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,115,118,243,476
-Berrien,"Niles Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,384,410,226,1020
-Berrien,"Niles Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,5,7
-Berrien,"Niles Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,2,3
-Berrien,"Niles Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,1,0,2
-Berrien,"Niles Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,2,4
-Berrien,"Niles Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Niles Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,115,118,243,476
+Berrien,"Niles Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,384,410,226,1020
+Berrien,"Niles Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,2,0,5,7
+Berrien,"Niles Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,2,3
+Berrien,"Niles Charter Township, Precinct 1",President,,Jill Stein /,Green,1,1,0,2
+Berrien,"Niles Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,1,1,2,4
+Berrien,"Niles Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -8754,14 +8754,14 @@ Berrien,"Niles Charter Township, Precinct 1",Niles Charter Township Marihuana Es
 Berrien,"Niles Charter Township, Precinct 1",Niles Charter Township Marihuana Establishments Ordinance,,Over Vote Count,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 1",Niles Charter Township Marihuana Establishments Ordinance,,Under Vote Count,,128,129,81,338
 Berrien,"Niles Charter Township, Precinct 2",President,,Ballots Cast,,466,278,270,1014
-Berrien,"Niles Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,162,97,138,397
-Berrien,"Niles Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,294,181,123,598
-Berrien,"Niles Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,0,2
-Berrien,"Niles Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"Niles Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Niles Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,3,6
-Berrien,"Niles Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Niles Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 2",President,,Kamala D. Harris /,Democrat,162,97,138,397
+Berrien,"Niles Charter Township, Precinct 2",President,,Donald J. Trump /,Republican,294,181,123,598
+Berrien,"Niles Charter Township, Precinct 2",President,,Chase Oliver /,Libertarian,2,0,0,2
+Berrien,"Niles Charter Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"Niles Charter Township, Precinct 2",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Niles Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,3,6
+Berrien,"Niles Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 2",President,,Write-in,,0,0,1,1
 Berrien,"Niles Charter Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -8981,14 +8981,14 @@ Berrien,"Niles Charter Township, Precinct 2",Niles Charter Township Marihuana Es
 Berrien,"Niles Charter Township, Precinct 2",Niles Charter Township Marihuana Establishments Ordinance,,Over Vote Count,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 2",Niles Charter Township Marihuana Establishments Ordinance,,Under Vote Count,,164,80,51,295
 Berrien,"Niles Charter Township, Precinct 3",President,,Ballots Cast,,668,517,576,1761
-Berrien,"Niles Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,217,153,307,677
-Berrien,"Niles Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,432,356,255,1043
-Berrien,"Niles Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,3,8
-Berrien,"Niles Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Berrien,"Niles Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,4,2,4,10
-Berrien,"Niles Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,1,1,7
-Berrien,"Niles Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
-Berrien,"Niles Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 3",President,,Kamala D. Harris /,Democrat,217,153,307,677
+Berrien,"Niles Charter Township, Precinct 3",President,,Donald J. Trump /,Republican,432,356,255,1043
+Berrien,"Niles Charter Township, Precinct 3",President,,Chase Oliver /,Libertarian,3,2,3,8
+Berrien,"Niles Charter Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,2,0,0,2
+Berrien,"Niles Charter Township, Precinct 3",President,,Jill Stein /,Green,4,2,4,10
+Berrien,"Niles Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,1,1,7
+Berrien,"Niles Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,1,0,1,2
+Berrien,"Niles Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 3",President,,Write-in,,2,0,0,2
 Berrien,"Niles Charter Township, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -9205,14 +9205,14 @@ Berrien,"Niles Charter Township, Precinct 3",Niles Charter Township Marihuana Es
 Berrien,"Niles Charter Township, Precinct 3",Niles Charter Township Marihuana Establishments Ordinance,,Over Vote Count,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 3",Niles Charter Township Marihuana Establishments Ordinance,,Under Vote Count,,220,107,96,423
 Berrien,"Niles Charter Township, Precinct 4",President,,Ballots Cast,,746,314,535,1595
-Berrien,"Niles Charter Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,223,59,272,554
-Berrien,"Niles Charter Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,511,251,244,1006
-Berrien,"Niles Charter Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,1,6
-Berrien,"Niles Charter Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,2,4
-Berrien,"Niles Charter Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,2,1,2,5
-Berrien,"Niles Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,5,10
-Berrien,"Niles Charter Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Niles Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"Niles Charter Township, Precinct 4",President,,Kamala D. Harris /,Democrat,223,59,272,554
+Berrien,"Niles Charter Township, Precinct 4",President,,Donald J. Trump /,Republican,511,251,244,1006
+Berrien,"Niles Charter Township, Precinct 4",President,,Chase Oliver /,Libertarian,4,1,1,6
+Berrien,"Niles Charter Township, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,2,0,2,4
+Berrien,"Niles Charter Township, Precinct 4",President,,Jill Stein /,Green,2,1,2,5
+Berrien,"Niles Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,1,5,10
+Berrien,"Niles Charter Township, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"Niles Charter Township, Precinct 4",President,,Write-in,,0,0,2,2
 Berrien,"Niles Charter Township, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -9429,14 +9429,14 @@ Berrien,"Niles Charter Township, Precinct 4",Niles Charter Township Marihuana Es
 Berrien,"Niles Charter Township, Precinct 4",Niles Charter Township Marihuana Establishments Ordinance,,Over Vote Count,,1,0,0,1
 Berrien,"Niles Charter Township, Precinct 4",Niles Charter Township Marihuana Establishments Ordinance,,Under Vote Count,,216,64,90,370
 Berrien,"Niles Charter Township, Precinct 5",President,,Ballots Cast,,585,458,589,1632
-Berrien,"Niles Charter Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,177,146,340,663
-Berrien,"Niles Charter Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,390,307,239,936
-Berrien,"Niles Charter Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,5,2,2,9
-Berrien,"Niles Charter Township, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"Niles Charter Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,3,0,1,4
-Berrien,"Niles Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,1,8
-Berrien,"Niles Charter Township, Precinct 5",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Berrien,"Niles Charter Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 5",President,,Kamala D. Harris /,Democrat,177,146,340,663
+Berrien,"Niles Charter Township, Precinct 5",President,,Donald J. Trump /,Republican,390,307,239,936
+Berrien,"Niles Charter Township, Precinct 5",President,,Chase Oliver /,Libertarian,5,2,2,9
+Berrien,"Niles Charter Township, Precinct 5",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"Niles Charter Township, Precinct 5",President,,Jill Stein /,Green,3,0,1,4
+Berrien,"Niles Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,0,1,8
+Berrien,"Niles Charter Township, Precinct 5",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Berrien,"Niles Charter Township, Precinct 5",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 5",President,,Write-in,,1,0,1,2
 Berrien,"Niles Charter Township, Precinct 5",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Niles Charter Township, Precinct 5",President,,Claudia De la Cruz,,0,0,0,0
@@ -9656,14 +9656,14 @@ Berrien,"Niles Charter Township, Precinct 5",Niles Charter Township Marihuana Es
 Berrien,"Niles Charter Township, Precinct 5",Niles Charter Township Marihuana Establishments Ordinance,,Over Vote Count,,1,0,0,1
 Berrien,"Niles Charter Township, Precinct 5",Niles Charter Township Marihuana Establishments Ordinance,,Under Vote Count,,152,88,93,333
 Berrien,"Oronoko Charter Township, Precinct 1",President,,Ballots Cast,,688,288,747,1723
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,223,97,341,661
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,443,185,379,1007
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,1,3,11
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,1,2,5
-Berrien,"Oronoko Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,3,9,19
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Oronoko Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,223,97,341,661
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,443,185,379,1007
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,7,1,3,11
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Jill Stein /,Green,2,1,2,5
+Berrien,"Oronoko Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,7,3,9,19
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Oronoko Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"Oronoko Charter Township, Precinct 1",President,,Write-in,,3,1,3,7
 Berrien,"Oronoko Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Oronoko Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,1,0,1
@@ -9893,14 +9893,14 @@ Berrien,"Oronoko Charter Township, Precinct 1",Berrien Springs Community Library
 Berrien,"Oronoko Charter Township, Precinct 1",Berrien Springs Community Library Millage Proposal,,Over Vote Count,,0,0,1,1
 Berrien,"Oronoko Charter Township, Precinct 1",Berrien Springs Community Library Millage Proposal,,Under Vote Count,,67,35,77,179
 Berrien,"Oronoko Charter Township, Precinct 2",President,,Ballots Cast,,473,131,264,868
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,200,53,179,432
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,256,77,79,412
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,2,4
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Oronoko Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,0,5
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Oronoko Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,1,3
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Kamala D. Harris /,Democrat,200,53,179,432
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Donald J. Trump /,Republican,256,77,79,412
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Chase Oliver /,Libertarian,2,0,2,4
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Oronoko Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,0,5
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Oronoko Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,1,1,1,3
 Berrien,"Oronoko Charter Township, Precinct 2",President,,Write-in,,2,0,1,3
 Berrien,"Oronoko Charter Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Oronoko Charter Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -10121,14 +10121,14 @@ Berrien,"Oronoko Charter Township, Precinct 2",Berrien Springs Community Library
 Berrien,"Oronoko Charter Township, Precinct 2",Berrien Springs Community Library Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Oronoko Charter Township, Precinct 2",Berrien Springs Community Library Millage Proposal,,Under Vote Count,,77,18,41,136
 Berrien,"Oronoko Charter Township, Precinct 3",President,,Ballots Cast,,671,251,580,1502
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,395,153,388,936
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,251,94,172,517
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,7,1,2,10
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,1,3
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,3,1,1,5
-Berrien,"Oronoko Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,2,7
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,2,2
-Berrien,"Oronoko Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,1,3,6
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Kamala D. Harris /,Democrat,395,153,388,936
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Donald J. Trump /,Republican,251,94,172,517
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Chase Oliver /,Libertarian,7,1,2,10
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,1,1,3
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Jill Stein /,Green,3,1,1,5
+Berrien,"Oronoko Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,5,0,2,7
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,0,0,2,2
+Berrien,"Oronoko Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,2,1,3,6
 Berrien,"Oronoko Charter Township, Precinct 3",President,,Write-in,,2,0,0,2
 Berrien,"Oronoko Charter Township, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Oronoko Charter Township, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -10334,14 +10334,14 @@ Berrien,"Oronoko Charter Township, Precinct 3",Berrien Springs Community Library
 Berrien,"Oronoko Charter Township, Precinct 3",Berrien Springs Community Library Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Oronoko Charter Township, Precinct 3",Berrien Springs Community Library Millage Proposal,,Under Vote Count,,188,35,92,315
 Berrien,"Pipestone Township, Precinct 1",President,,Ballots Cast,,1032,209,0,1241
-Berrien,"Pipestone Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,259,39,0,298
-Berrien,"Pipestone Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,748,168,0,916
-Berrien,"Pipestone Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,10,0,0,10
-Berrien,"Pipestone Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Berrien,"Pipestone Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Berrien,"Pipestone Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,9,1,0,10
-Berrien,"Pipestone Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Pipestone Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Pipestone Township, Precinct 1",President,,Kamala D. Harris /,Democrat,259,39,0,298
+Berrien,"Pipestone Township, Precinct 1",President,,Donald J. Trump /,Republican,748,168,0,916
+Berrien,"Pipestone Township, Precinct 1",President,,Chase Oliver /,Libertarian,10,0,0,10
+Berrien,"Pipestone Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,0,3
+Berrien,"Pipestone Township, Precinct 1",President,,Jill Stein /,Green,1,0,0,1
+Berrien,"Pipestone Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,9,1,0,10
+Berrien,"Pipestone Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Pipestone Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Pipestone Township, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"Pipestone Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Pipestone Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -10581,14 +10581,14 @@ Berrien,"Pipestone Township, Precinct 1",Eau Claire Public Schools Board Member 
 Berrien,"Pipestone Township, Precinct 1",Eau Claire Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Pipestone Township, Precinct 1",Eau Claire Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,941,183,0,1124
 Berrien,"Royalton Township, Precinct 1",President,,Ballots Cast,,1229,631,1363,3223
-Berrien,"Royalton Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,338,222,654,1214
-Berrien,"Royalton Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,858,402,676,1936
-Berrien,"Royalton Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,9,1,3,13
-Berrien,"Royalton Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
-Berrien,"Royalton Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,2,6,13
-Berrien,"Royalton Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,8,1,6,15
-Berrien,"Royalton Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"Royalton Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,0,2
+Berrien,"Royalton Township, Precinct 1",President,,Kamala D. Harris /,Democrat,338,222,654,1214
+Berrien,"Royalton Township, Precinct 1",President,,Donald J. Trump /,Republican,858,402,676,1936
+Berrien,"Royalton Township, Precinct 1",President,,Chase Oliver /,Libertarian,9,1,3,13
+Berrien,"Royalton Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,2,2
+Berrien,"Royalton Township, Precinct 1",President,,Jill Stein /,Green,5,2,6,13
+Berrien,"Royalton Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,8,1,6,15
+Berrien,"Royalton Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"Royalton Township, Precinct 1",President,,Cornel West /,No Party Affiliation,2,0,0,2
 Berrien,"Royalton Township, Precinct 1",President,,Write-in,,4,0,6,10
 Berrien,"Royalton Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Royalton Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -10829,14 +10829,14 @@ Berrien,"Royalton Township, Precinct 1",St. Joseph Public Schools Sinking Fund M
 Berrien,"Royalton Township, Precinct 1",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,1,0,1
 Berrien,"Royalton Township, Precinct 1",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,129,42,96,267
 Berrien,"St. Joseph Charter Township, Precinct 1",President,,Ballots Cast,,658,392,880,1930
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,367,208,587,1162
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,276,181,269,726
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,3,6
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,4,5
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,1,0,4
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,5,8
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"St. Joseph Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,1,3
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,367,208,587,1162
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,276,181,269,726
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,0,3,6
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,4,5
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Jill Stein /,Green,3,1,0,4
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,0,5,8
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"St. Joseph Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,1,1,3
 Berrien,"St. Joseph Charter Township, Precinct 1",President,,Write-in,,1,0,3,4
 Berrien,"St. Joseph Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -11046,14 +11046,14 @@ Berrien,"St. Joseph Charter Township, Precinct 1",St. Joseph Charter Township Li
 Berrien,"St. Joseph Charter Township, Precinct 1",St. Joseph Charter Township Library Millage Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 1",St. Joseph Charter Township Library Millage Proposal,,Under Vote Count,,124,44,111,279
 Berrien,"St. Joseph Charter Township, Precinct 2",President,,Ballots Cast,,472,266,704,1442
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,163,112,401,676
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,294,152,280,726
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,4,6
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,2,5
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,4,8
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,1,0,1
-Berrien,"St. Joseph Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Kamala D. Harris /,Democrat,163,112,401,676
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Donald J. Trump /,Republican,294,152,280,726
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Chase Oliver /,Libertarian,2,0,4,6
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Jill Stein /,Green,3,0,2,5
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. /",Natural Law,3,1,4,8
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Joseph Kishore /,No Party Affiliation,0,1,0,1
+Berrien,"St. Joseph Charter Township, Precinct 2",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"St. Joseph Charter Township, Precinct 2",President,,Write-in,,2,0,3,5
 Berrien,"St. Joseph Charter Township, Precinct 2",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 2",President,,Claudia De la Cruz,,0,0,0,0
@@ -11302,14 +11302,14 @@ Berrien,"St. Joseph Charter Township, Precinct 2",St. Joseph Public Schools Sink
 Berrien,"St. Joseph Charter Township, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 2",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,35,12,45,92
 Berrien,"St. Joseph Charter Township, Precinct 3",President,,Ballots Cast,,494,192,562,1248
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,190,92,283,565
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,290,99,262,651
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,2
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,1,0,2,3
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,6,10
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"St. Joseph Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Kamala D. Harris /,Democrat,190,92,283,565
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Donald J. Trump /,Republican,290,99,262,651
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Chase Oliver /,Libertarian,1,1,0,2
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Jill Stein /,Green,1,0,2,3
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,6,10
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"St. Joseph Charter Township, Precinct 3",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"St. Joseph Charter Township, Precinct 3",President,,Write-in,,2,0,4,6
 Berrien,"St. Joseph Charter Township, Precinct 3",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 3",President,,Claudia De la Cruz,,0,0,0,0
@@ -11538,14 +11538,14 @@ Berrien,"St. Joseph Charter Township, Precinct 3",St. Joseph Public Schools Sink
 Berrien,"St. Joseph Charter Township, Precinct 3",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 3",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,49,19,32,100
 Berrien,"St. Joseph Charter Township, Precinct 4",President,,Ballots Cast,,720,423,1055,2198
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,253,158,550,961
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,450,261,484,1195
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,1,6
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,4,1,3,8
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,3,7
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Berrien,"St. Joseph Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Kamala D. Harris /,Democrat,253,158,550,961
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Donald J. Trump /,Republican,450,261,484,1195
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Chase Oliver /,Libertarian,4,1,1,6
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Randall Terry /,U.S. Taxpayers,0,0,1,1
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Jill Stein /,Green,4,1,3,8
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,3,7
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Joseph Kishore /,No Party Affiliation,0,0,1,1
+Berrien,"St. Joseph Charter Township, Precinct 4",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 4",President,,Write-in,,2,0,2,4
 Berrien,"St. Joseph Charter Township, Precinct 4",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 4",President,,Claudia De la Cruz,,0,0,0,0
@@ -11762,14 +11762,14 @@ Berrien,"St. Joseph Charter Township, Precinct 4",St. Joseph Public Schools Sink
 Berrien,"St. Joseph Charter Township, Precinct 4",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"St. Joseph Charter Township, Precinct 4",St. Joseph Public Schools Sinking Fund Millage Renewal Proposal,,Under Vote Count,,51,30,64,145
 Berrien,"Sodus Township, Precinct 1",President,,Ballots Cast,,551,212,357,1120
-Berrien,"Sodus Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,130,79,142,351
-Berrien,"Sodus Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,405,132,210,747
-Berrien,"Sodus Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,0,7
-Berrien,"Sodus Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Berrien,"Sodus Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,0,1,1
-Berrien,"Sodus Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,0,4
-Berrien,"Sodus Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Sodus Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
+Berrien,"Sodus Township, Precinct 1",President,,Kamala D. Harris /,Democrat,130,79,142,351
+Berrien,"Sodus Township, Precinct 1",President,,Donald J. Trump /,Republican,405,132,210,747
+Berrien,"Sodus Township, Precinct 1",President,,Chase Oliver /,Libertarian,7,0,0,7
+Berrien,"Sodus Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,1,0,0,1
+Berrien,"Sodus Township, Precinct 1",President,,Jill Stein /,Green,0,0,1,1
+Berrien,"Sodus Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,4,0,0,4
+Berrien,"Sodus Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Sodus Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,0,0
 Berrien,"Sodus Township, Precinct 1",President,,Write-in,,2,0,1,3
 Berrien,"Sodus Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Sodus Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -12001,14 +12001,14 @@ Berrien,"Sodus Township, Precinct 1",Eau Claire Public Schools Board Member Part
 Berrien,"Sodus Township, Precinct 1",Eau Claire Public Schools Board Member Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Berrien,"Sodus Township, Precinct 1",Eau Claire Public Schools Board Member Partial Term Ending 12/31/2026,,Under Vote Count,,48,11,26,85
 Berrien,"Three Oaks Township, Precinct 1",President,,Ballots Cast,,746,129,470,1345
-Berrien,"Three Oaks Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,290,58,238,586
-Berrien,"Three Oaks Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,443,71,220,734
-Berrien,"Three Oaks Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,2,5
-Berrien,"Three Oaks Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,1,3
-Berrien,"Three Oaks Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,0,3,7
-Berrien,"Three Oaks Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,2,4
-Berrien,"Three Oaks Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
-Berrien,"Three Oaks Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
+Berrien,"Three Oaks Township, Precinct 1",President,,Kamala D. Harris /,Democrat,290,58,238,586
+Berrien,"Three Oaks Township, Precinct 1",President,,Donald J. Trump /,Republican,443,71,220,734
+Berrien,"Three Oaks Township, Precinct 1",President,,Chase Oliver /,Libertarian,3,0,2,5
+Berrien,"Three Oaks Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,2,0,1,3
+Berrien,"Three Oaks Township, Precinct 1",President,,Jill Stein /,Green,4,0,3,7
+Berrien,"Three Oaks Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,2,4
+Berrien,"Three Oaks Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,0,0,0,0
+Berrien,"Three Oaks Township, Precinct 1",President,,Cornel West /,No Party Affiliation,0,0,1,1
 Berrien,"Three Oaks Township, Precinct 1",President,,Write-in,,1,0,1,2
 Berrien,"Three Oaks Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Three Oaks Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -12234,14 +12234,14 @@ Berrien,"Three Oaks Township, Precinct 1",Three Oaks Township Ambulance Millage 
 Berrien,"Three Oaks Township, Precinct 1",Three Oaks Township Ambulance Millage Renewal Proposal,,Over Vote Count,,0,0,0,0
 Berrien,"Three Oaks Township, Precinct 1",Three Oaks Township Ambulance Millage Renewal Proposal,,Under Vote Count,,109,12,33,154
 Berrien,"Watervliet Charter Township, Precinct 1",President,,Ballots Cast,,1442,171,0,1613
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,449,62,0,511
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,974,107,0,1081
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,0,6
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Berrien,"Watervliet Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Watervliet Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Kamala D. Harris /,Democrat,449,62,0,511
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Donald J. Trump /,Republican,974,107,0,1081
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Chase Oliver /,Libertarian,5,1,0,6
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,0,0,0,0
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Jill Stein /,Green,2,0,0,2
+Berrien,"Watervliet Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,2,0,0,2
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Watervliet Charter Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Watervliet Charter Township, Precinct 1",President,,Write-in,,0,0,0,0
 Berrien,"Watervliet Charter Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Watervliet Charter Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0
@@ -12462,14 +12462,14 @@ Berrien,"Watervliet Charter Township, Precinct 1",Watervliet Public Schools Boar
 Berrien,"Watervliet Charter Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Over Vote Count,,0,0,0,0
 Berrien,"Watervliet Charter Township, Precinct 1",Watervliet Public Schools Board Member Partial Term Ending 12/31/2028,,Under Vote Count,,501,48,0,549
 Berrien,"Weesaw Township, Precinct 1",President,,Ballots Cast,,1007,118,0,1125
-Berrien,"Weesaw Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,323,38,0,361
-Berrien,"Weesaw Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,653,78,0,731
-Berrien,"Weesaw Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,0,4
-Berrien,"Weesaw Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Berrien,"Weesaw Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,1,0,5
-Berrien,"Weesaw Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,0,0,6
-Berrien,"Weesaw Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
-Berrien,"Weesaw Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
+Berrien,"Weesaw Township, Precinct 1",President,,Kamala D. Harris /,Democrat,323,38,0,361
+Berrien,"Weesaw Township, Precinct 1",President,,Donald J. Trump /,Republican,653,78,0,731
+Berrien,"Weesaw Township, Precinct 1",President,,Chase Oliver /,Libertarian,4,0,0,4
+Berrien,"Weesaw Township, Precinct 1",President,,Randall Terry /,U.S. Taxpayers,3,0,0,3
+Berrien,"Weesaw Township, Precinct 1",President,,Jill Stein /,Green,4,1,0,5
+Berrien,"Weesaw Township, Precinct 1",President,,"Robert F. Kennedy, Jr. /",Natural Law,6,0,0,6
+Berrien,"Weesaw Township, Precinct 1",President,,Joseph Kishore /,No Party Affiliation,1,0,0,1
+Berrien,"Weesaw Township, Precinct 1",President,,Cornel West /,No Party Affiliation,1,0,0,1
 Berrien,"Weesaw Township, Precinct 1",President,,Write-in,,1,0,0,1
 Berrien,"Weesaw Township, Precinct 1",President,,Cherunda Lynn Fox,,0,0,0,0
 Berrien,"Weesaw Township, Precinct 1",President,,Claudia De la Cruz,,0,0,0,0

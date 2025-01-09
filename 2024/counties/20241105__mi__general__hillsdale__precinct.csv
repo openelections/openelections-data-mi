@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,early_voting,avcb,election_day,votes
+county,precinct,office,district,candidate,party,early_voting,av_counting_boards,election_day,votes
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Registered Voters,,,,,,,1127
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Ballots Cast,,,,,,,934
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Democratic Party,DEM,8,0,50,58
@@ -8,14 +8,14 @@ Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,U.S. Taxpayers
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Green Party,GRN,0,0,2,2
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Kamala Harris Tim Walz,DEM,28,0,121,149
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Donald J. Trump JD Vance,REP,300,0,469,769
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,2,2
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Kamala Harris,DEM,28,0,121,149
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Donald J. Trump,REP,300,0,469,769
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Chase Oliver,LIB,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Cornel West,,0,0,2,2
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward I, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -99,14 +99,14 @@ Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,U.S. Taxpayer
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Working Class Party,WCP,1,0,4,5
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Kamala Harris Tim Walz,DEM,20,0,135,155
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Donald J. Trump JD Vance,REP,150,0,373,523
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,5,5
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,1,0,3,4
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,4,4
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Cornel West Melina Abdullah,,1,0,0,1
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Kamala Harris,DEM,20,0,135,155
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Donald J. Trump,REP,150,0,373,523
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Chase Oliver,LIB,0,0,5,5
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Jill Stein,GRN,1,0,3,4
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,4,4
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Cornel West,,1,0,0,1
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward II, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -189,14 +189,14 @@ Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,U.S. Taxpaye
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,3,3
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Kamala Harris Tim Walz,DEM,58,0,221,279
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Donald J. Trump JD Vance,REP,194,0,525,719
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,4,5
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,6,6
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Kamala Harris,DEM,58,0,221,279
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Donald J. Trump,REP,194,0,525,719
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Chase Oliver,LIB,1,0,4,5
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Jill Stein,GRN,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,6,6
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward III, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -280,14 +280,14 @@ Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,U.S. Taxpayer
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,3,3
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Kamala Harris Tim Walz,DEM,53,0,239,292
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Donald J. Trump JD Vance,REP,240,0,474,714
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,2,0,11,13
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,5,5
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Cornel West Melina Abdullah,,2,0,1,3
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Kamala Harris,DEM,53,0,239,292
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Donald J. Trump,REP,240,0,474,714
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Chase Oliver,LIB,2,0,11,13
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,5,5
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Cornel West,,2,0,1,3
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Hillsdale, Ward IV, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -371,14 +371,14 @@ Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Green Party,GRN,0,0,2,2
 Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,4,4
 Hillsdale,"City of Jonesville, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Jonesville, Precinct 1",President,,Kamala Harris Tim Walz,DEM,31,0,326,357
-Hillsdale,"City of Jonesville, Precinct 1",President,,Donald J. Trump JD Vance,REP,136,0,705,841
-Hillsdale,"City of Jonesville, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,4,4
-Hillsdale,"City of Jonesville, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,4,4
-Hillsdale,"City of Jonesville, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"City of Jonesville, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,6,6
-Hillsdale,"City of Jonesville, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Jonesville, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,1,1
+Hillsdale,"City of Jonesville, Precinct 1",President,,Kamala Harris,DEM,31,0,326,357
+Hillsdale,"City of Jonesville, Precinct 1",President,,Donald J. Trump,REP,136,0,705,841
+Hillsdale,"City of Jonesville, Precinct 1",President,,Chase Oliver,LIB,0,0,4,4
+Hillsdale,"City of Jonesville, Precinct 1",President,,Randall Terry,UST,0,0,4,4
+Hillsdale,"City of Jonesville, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"City of Jonesville, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,6,6
+Hillsdale,"City of Jonesville, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Jonesville, Precinct 1",President,,Cornel West,,0,0,1,1
 Hillsdale,"City of Jonesville, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Jonesville, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Jonesville, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -465,14 +465,14 @@ Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Green Party,GRN,0,0,2,2
 Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Working Class Party,WCP,1,0,1,2
 Hillsdale,"City of Litchfield, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"City of Litchfield, Precinct 1",President,,Kamala Harris Tim Walz,DEM,9,0,148,157
-Hillsdale,"City of Litchfield, Precinct 1",President,,Donald J. Trump JD Vance,REP,44,0,505,549
-Hillsdale,"City of Litchfield, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,4,4
-Hillsdale,"City of Litchfield, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"City of Litchfield, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"City of Litchfield, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,3,3
-Hillsdale,"City of Litchfield, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Litchfield, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"City of Litchfield, Precinct 1",President,,Kamala Harris,DEM,9,0,148,157
+Hillsdale,"City of Litchfield, Precinct 1",President,,Donald J. Trump,REP,44,0,505,549
+Hillsdale,"City of Litchfield, Precinct 1",President,,Chase Oliver,LIB,0,0,4,4
+Hillsdale,"City of Litchfield, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"City of Litchfield, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"City of Litchfield, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,3,3
+Hillsdale,"City of Litchfield, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Litchfield, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"City of Litchfield, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Litchfield, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Litchfield, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -560,14 +560,14 @@ Hillsdale,"City of Reading, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"City of Reading, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"City of Reading, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,5,5
 Hillsdale,"City of Reading, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"City of Reading, Precinct 1",President,,Kamala Harris Tim Walz,DEM,11,0,112,123
-Hillsdale,"City of Reading, Precinct 1",President,,Donald J. Trump JD Vance,REP,36,0,303,339
-Hillsdale,"City of Reading, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,4,4
-Hillsdale,"City of Reading, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"City of Reading, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,0,0
-Hillsdale,"City of Reading, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,6,6
-Hillsdale,"City of Reading, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"City of Reading, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"City of Reading, Precinct 1",President,,Kamala Harris,DEM,11,0,112,123
+Hillsdale,"City of Reading, Precinct 1",President,,Donald J. Trump,REP,36,0,303,339
+Hillsdale,"City of Reading, Precinct 1",President,,Chase Oliver,LIB,0,0,4,4
+Hillsdale,"City of Reading, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"City of Reading, Precinct 1",President,,Jill Stein,GRN,0,0,0,0
+Hillsdale,"City of Reading, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,6,6
+Hillsdale,"City of Reading, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"City of Reading, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"City of Reading, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"City of Reading, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"City of Reading, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -654,14 +654,14 @@ Hillsdale,"Adams Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,
 Hillsdale,"Adams Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,4,4
 Hillsdale,"Adams Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,4,4
 Hillsdale,"Adams Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,2,2
-Hillsdale,"Adams Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,26,0,244,270
-Hillsdale,"Adams Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,208,0,889,"1,097"
-Hillsdale,"Adams Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,8,8
-Hillsdale,"Adams Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Adams Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,7,7
-Hillsdale,"Adams Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,6,6
-Hillsdale,"Adams Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,2,2
-Hillsdale,"Adams Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,1,1
+Hillsdale,"Adams Township, Precinct 1",President,,Kamala Harris,DEM,26,0,244,270
+Hillsdale,"Adams Township, Precinct 1",President,,Donald J. Trump,REP,208,0,889,"1,097"
+Hillsdale,"Adams Township, Precinct 1",President,,Chase Oliver,LIB,0,0,8,8
+Hillsdale,"Adams Township, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Adams Township, Precinct 1",President,,Jill Stein,GRN,0,0,7,7
+Hillsdale,"Adams Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,6,6
+Hillsdale,"Adams Township, Precinct 1",President,,Joseph Kishore,,0,0,2,2
+Hillsdale,"Adams Township, Precinct 1",President,,Cornel West,,0,0,1,1
 Hillsdale,"Adams Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Adams Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Adams Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -770,14 +770,14 @@ Hillsdale,"Allen Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,
 Hillsdale,"Allen Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Allen Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,6,6
 Hillsdale,"Allen Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Allen Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,21,0,179,200
-Hillsdale,"Allen Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,108,0,592,700
-Hillsdale,"Allen Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,2,0,5,7
-Hillsdale,"Allen Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Allen Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,1,0,0,1
-Hillsdale,"Allen Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,2,2
-Hillsdale,"Allen Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,2,2
-Hillsdale,"Allen Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Allen Township, Precinct 1",President,,Kamala Harris,DEM,21,0,179,200
+Hillsdale,"Allen Township, Precinct 1",President,,Donald J. Trump,REP,108,0,592,700
+Hillsdale,"Allen Township, Precinct 1",President,,Chase Oliver,LIB,2,0,5,7
+Hillsdale,"Allen Township, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Allen Township, Precinct 1",President,,Jill Stein,GRN,1,0,0,1
+Hillsdale,"Allen Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,2,2
+Hillsdale,"Allen Township, Precinct 1",President,,Joseph Kishore,,0,0,2,2
+Hillsdale,"Allen Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Allen Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Allen Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Allen Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -885,14 +885,14 @@ Hillsdale,"Amboy Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,
 Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,1,1
 Hillsdale,"Amboy Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Amboy Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,19,0,142,161
-Hillsdale,"Amboy Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,102,0,442,544
-Hillsdale,"Amboy Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,3,3
-Hillsdale,"Amboy Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Amboy Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"Amboy Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,1,0,1,2
-Hillsdale,"Amboy Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,1,1
-Hillsdale,"Amboy Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Amboy Township, Precinct 1",President,,Kamala Harris,DEM,19,0,142,161
+Hillsdale,"Amboy Township, Precinct 1",President,,Donald J. Trump,REP,102,0,442,544
+Hillsdale,"Amboy Township, Precinct 1",President,,Chase Oliver,LIB,0,0,3,3
+Hillsdale,"Amboy Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Amboy Township, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"Amboy Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,1,0,1,2
+Hillsdale,"Amboy Township, Precinct 1",President,,Joseph Kishore,,0,0,1,1
+Hillsdale,"Amboy Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Amboy Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Amboy Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Amboy Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -981,14 +981,14 @@ Hillsdale,"Cambria Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,US
 Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,1,1
 Hillsdale,"Cambria Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,2,2
-Hillsdale,"Cambria Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,41,0,252,293
-Hillsdale,"Cambria Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,250,0,871,"1,121"
-Hillsdale,"Cambria Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,3,3
-Hillsdale,"Cambria Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,2,2
-Hillsdale,"Cambria Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Cambria Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,2,0,13,15
-Hillsdale,"Cambria Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Cambria Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Cambria Township, Precinct 1",President,,Kamala Harris,DEM,41,0,252,293
+Hillsdale,"Cambria Township, Precinct 1",President,,Donald J. Trump,REP,250,0,871,"1,121"
+Hillsdale,"Cambria Township, Precinct 1",President,,Chase Oliver,LIB,0,0,3,3
+Hillsdale,"Cambria Township, Precinct 1",President,,Randall Terry,UST,0,0,2,2
+Hillsdale,"Cambria Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Cambria Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2,0,13,15
+Hillsdale,"Cambria Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Cambria Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Cambria Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Cambria Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Cambria Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1081,14 +1081,14 @@ Hillsdale,"Camden Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"Camden Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Camden Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,6,6
 Hillsdale,"Camden Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Camden Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,11,0,140,151
-Hillsdale,"Camden Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,120,0,581,701
-Hillsdale,"Camden Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,1,1
-Hillsdale,"Camden Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Camden Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,0,0
-Hillsdale,"Camden Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,8,8
-Hillsdale,"Camden Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Camden Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Camden Township, Precinct 1",President,,Kamala Harris,DEM,11,0,140,151
+Hillsdale,"Camden Township, Precinct 1",President,,Donald J. Trump,REP,120,0,581,701
+Hillsdale,"Camden Township, Precinct 1",President,,Chase Oliver,LIB,0,0,1,1
+Hillsdale,"Camden Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Camden Township, Precinct 1",President,,Jill Stein,GRN,0,0,0,0
+Hillsdale,"Camden Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,8,8
+Hillsdale,"Camden Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Camden Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Camden Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Camden Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Camden Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1193,14 +1193,14 @@ Hillsdale,"Fayette Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,US
 Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,2,2
 Hillsdale,"Fayette Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Fayette Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,11,0,152,163
-Hillsdale,"Fayette Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,122,0,388,510
-Hillsdale,"Fayette Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,4,5
-Hillsdale,"Fayette Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Fayette Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Fayette Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,1,1
-Hillsdale,"Fayette Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Fayette Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Fayette Township, Precinct 1",President,,Kamala Harris,DEM,11,0,152,163
+Hillsdale,"Fayette Township, Precinct 1",President,,Donald J. Trump,REP,122,0,388,510
+Hillsdale,"Fayette Township, Precinct 1",President,,Chase Oliver,LIB,1,0,4,5
+Hillsdale,"Fayette Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Fayette Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Fayette Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,1,1
+Hillsdale,"Fayette Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Fayette Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Fayette Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Fayette Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Fayette Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1298,14 +1298,14 @@ Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,4,4
 Hillsdale,"Hillsdale Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,62,0,246,308
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,280,0,707,987
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,2,3
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,2,2
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Hillsdale Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,4,4
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Hillsdale Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Kamala Harris,DEM,62,0,246,308
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Donald J. Trump,REP,280,0,707,987
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Chase Oliver,LIB,1,0,2,3
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Randall Terry,UST,0,0,2,2
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Hillsdale Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,4,4
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Hillsdale Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Hillsdale Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Hillsdale Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Hillsdale Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1396,14 +1396,14 @@ Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,2,2
 Hillsdale,"Jefferson Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Jefferson Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,72,0,313,385
-Hillsdale,"Jefferson Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,308,0,925,"1,233"
-Hillsdale,"Jefferson Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,5,6
-Hillsdale,"Jefferson Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,1,0,1,2
-Hillsdale,"Jefferson Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,0,0
-Hillsdale,"Jefferson Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,1,0,6,7
-Hillsdale,"Jefferson Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Jefferson Township, Precinct 1",President,,Cornel West Melina Abdullah,,1,0,0,1
+Hillsdale,"Jefferson Township, Precinct 1",President,,Kamala Harris,DEM,72,0,313,385
+Hillsdale,"Jefferson Township, Precinct 1",President,,Donald J. Trump,REP,308,0,925,"1,233"
+Hillsdale,"Jefferson Township, Precinct 1",President,,Chase Oliver,LIB,1,0,5,6
+Hillsdale,"Jefferson Township, Precinct 1",President,,Randall Terry,UST,1,0,1,2
+Hillsdale,"Jefferson Township, Precinct 1",President,,Jill Stein,GRN,0,0,0,0
+Hillsdale,"Jefferson Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,1,0,6,7
+Hillsdale,"Jefferson Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Jefferson Township, Precinct 1",President,,Cornel West,,1,0,0,1
 Hillsdale,"Jefferson Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Jefferson Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Jefferson Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1497,14 +1497,14 @@ Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,U.S. Taxpayers Party
 Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,3,3
 Hillsdale,"Litchfield Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Litchfield Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,7,0,97,104
-Hillsdale,"Litchfield Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,45,0,375,420
-Hillsdale,"Litchfield Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,0,0
-Hillsdale,"Litchfield Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Litchfield Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Litchfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,1,0,0,1
-Hillsdale,"Litchfield Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,1,1
-Hillsdale,"Litchfield Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Litchfield Township, Precinct 1",President,,Kamala Harris,DEM,7,0,97,104
+Hillsdale,"Litchfield Township, Precinct 1",President,,Donald J. Trump,REP,45,0,375,420
+Hillsdale,"Litchfield Township, Precinct 1",President,,Chase Oliver,LIB,0,0,0,0
+Hillsdale,"Litchfield Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Litchfield Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Litchfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,1,0,0,1
+Hillsdale,"Litchfield Township, Precinct 1",President,,Joseph Kishore,,0,0,1,1
+Hillsdale,"Litchfield Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Litchfield Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Litchfield Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Litchfield Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1604,14 +1604,14 @@ Hillsdale,"Moscow Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,2,2
 Hillsdale,"Moscow Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1,0,0,1
-Hillsdale,"Moscow Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,20,0,164,184
-Hillsdale,"Moscow Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,105,0,488,593
-Hillsdale,"Moscow Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,1,1
-Hillsdale,"Moscow Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Moscow Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,1,0,0,1
-Hillsdale,"Moscow Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,2,2
-Hillsdale,"Moscow Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,1,1
-Hillsdale,"Moscow Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Moscow Township, Precinct 1",President,,Kamala Harris,DEM,20,0,164,184
+Hillsdale,"Moscow Township, Precinct 1",President,,Donald J. Trump,REP,105,0,488,593
+Hillsdale,"Moscow Township, Precinct 1",President,,Chase Oliver,LIB,0,0,1,1
+Hillsdale,"Moscow Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Moscow Township, Precinct 1",President,,Jill Stein,GRN,1,0,0,1
+Hillsdale,"Moscow Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,2,2
+Hillsdale,"Moscow Township, Precinct 1",President,,Joseph Kishore,,0,0,1,1
+Hillsdale,"Moscow Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Moscow Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Moscow Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Moscow Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1707,14 +1707,14 @@ Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,5,5
 Hillsdale,"Pittsford Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Pittsford Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,30,0,149,179
-Hillsdale,"Pittsford Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,134,0,561,695
-Hillsdale,"Pittsford Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,4,5
-Hillsdale,"Pittsford Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Pittsford Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"Pittsford Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,5,5
-Hillsdale,"Pittsford Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Pittsford Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Pittsford Township, Precinct 1",President,,Kamala Harris,DEM,30,0,149,179
+Hillsdale,"Pittsford Township, Precinct 1",President,,Donald J. Trump,REP,134,0,561,695
+Hillsdale,"Pittsford Township, Precinct 1",President,,Chase Oliver,LIB,1,0,4,5
+Hillsdale,"Pittsford Township, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Pittsford Township, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"Pittsford Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,5,5
+Hillsdale,"Pittsford Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Pittsford Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Pittsford Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Pittsford Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Pittsford Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1812,14 +1812,14 @@ Hillsdale,"Ransom Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,0,0
 Hillsdale,"Ransom Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Ransom Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,2,0,85,87
-Hillsdale,"Ransom Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,38,0,332,370
-Hillsdale,"Ransom Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,3,3
-Hillsdale,"Ransom Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Ransom Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"Ransom Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,3,3
-Hillsdale,"Ransom Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Ransom Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Ransom Township, Precinct 1",President,,Kamala Harris,DEM,2,0,85,87
+Hillsdale,"Ransom Township, Precinct 1",President,,Donald J. Trump,REP,38,0,332,370
+Hillsdale,"Ransom Township, Precinct 1",President,,Chase Oliver,LIB,0,0,3,3
+Hillsdale,"Ransom Township, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Ransom Township, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"Ransom Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,3,3
+Hillsdale,"Ransom Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Ransom Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Ransom Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Ransom Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Ransom Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -1911,14 +1911,14 @@ Hillsdale,"Reading Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,US
 Hillsdale,"Reading Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Reading Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,3,3
 Hillsdale,"Reading Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Reading Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,33,0,263,296
-Hillsdale,"Reading Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,115,0,617,732
-Hillsdale,"Reading Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,1,1
-Hillsdale,"Reading Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,1,0,0,1
-Hillsdale,"Reading Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Reading Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,1,1
-Hillsdale,"Reading Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Reading Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,1,1
+Hillsdale,"Reading Township, Precinct 1",President,,Kamala Harris,DEM,33,0,263,296
+Hillsdale,"Reading Township, Precinct 1",President,,Donald J. Trump,REP,115,0,617,732
+Hillsdale,"Reading Township, Precinct 1",President,,Chase Oliver,LIB,0,0,1,1
+Hillsdale,"Reading Township, Precinct 1",President,,Randall Terry,UST,1,0,0,1
+Hillsdale,"Reading Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Reading Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,1,1
+Hillsdale,"Reading Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Reading Township, Precinct 1",President,,Cornel West,,0,0,1,1
 Hillsdale,"Reading Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Reading Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Reading Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2004,14 +2004,14 @@ Hillsdale,"Scipio Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,5,5
 Hillsdale,"Scipio Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Scipio Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,33,0,161,194
-Hillsdale,"Scipio Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,127,0,612,739
-Hillsdale,"Scipio Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,4,4
-Hillsdale,"Scipio Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,2,2
-Hillsdale,"Scipio Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,2,2
-Hillsdale,"Scipio Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,1,0,4,5
-Hillsdale,"Scipio Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,1,1
-Hillsdale,"Scipio Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Scipio Township, Precinct 1",President,,Kamala Harris,DEM,33,0,161,194
+Hillsdale,"Scipio Township, Precinct 1",President,,Donald J. Trump,REP,127,0,612,739
+Hillsdale,"Scipio Township, Precinct 1",President,,Chase Oliver,LIB,0,0,4,4
+Hillsdale,"Scipio Township, Precinct 1",President,,Randall Terry,UST,0,0,2,2
+Hillsdale,"Scipio Township, Precinct 1",President,,Jill Stein,GRN,0,0,2,2
+Hillsdale,"Scipio Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,1,0,4,5
+Hillsdale,"Scipio Township, Precinct 1",President,,Joseph Kishore,,0,0,1,1
+Hillsdale,"Scipio Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Scipio Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Scipio Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Scipio Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2104,14 +2104,14 @@ Hillsdale,"Somerset Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,U
 Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Working Class Party,WCP,2,0,3,5
 Hillsdale,"Somerset Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Somerset Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,53,316,125,494
-Hillsdale,"Somerset Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,186,324,499,"1,009"
-Hillsdale,"Somerset Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,3,3
-Hillsdale,"Somerset Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,1,0,1
-Hillsdale,"Somerset Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,1,2,1,4
-Hillsdale,"Somerset Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,2,3,2,7
-Hillsdale,"Somerset Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Somerset Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,1,1
+Hillsdale,"Somerset Township, Precinct 1",President,,Kamala Harris,DEM,53,316,125,494
+Hillsdale,"Somerset Township, Precinct 1",President,,Donald J. Trump,REP,186,324,499,"1,009"
+Hillsdale,"Somerset Township, Precinct 1",President,,Chase Oliver,LIB,0,0,3,3
+Hillsdale,"Somerset Township, Precinct 1",President,,Randall Terry,UST,0,1,0,1
+Hillsdale,"Somerset Township, Precinct 1",President,,Jill Stein,GRN,1,2,1,4
+Hillsdale,"Somerset Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,2,3,2,7
+Hillsdale,"Somerset Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Somerset Township, Precinct 1",President,,Cornel West,,0,0,1,1
 Hillsdale,"Somerset Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2213,14 +2213,14 @@ Hillsdale,"Somerset Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,U
 Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Green Party,GRN,1,1,1,3
 Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Working Class Party,WCP,1,1,0,2
 Hillsdale,"Somerset Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0,1,0,1
-Hillsdale,"Somerset Township, Precinct 2",President,,Kamala Harris Tim Walz,DEM,36,283,167,486
-Hillsdale,"Somerset Township, Precinct 2",President,,Donald J. Trump JD Vance,REP,194,308,546,"1,048"
-Hillsdale,"Somerset Township, Precinct 2",President,,Chase Oliver Mike ter Maat,LIB,0,0,2,2
-Hillsdale,"Somerset Township, Precinct 2",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Somerset Township, Precinct 2",President,,Jill Stein Rudolph Ware,GRN,1,3,0,4
-Hillsdale,"Somerset Township, Precinct 2",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,5,5,10
-Hillsdale,"Somerset Township, Precinct 2",President,,Joseph Kishore Jerry White,,1,0,1,2
-Hillsdale,"Somerset Township, Precinct 2",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Somerset Township, Precinct 2",President,,Kamala Harris,DEM,36,283,167,486
+Hillsdale,"Somerset Township, Precinct 2",President,,Donald J. Trump,REP,194,308,546,"1,048"
+Hillsdale,"Somerset Township, Precinct 2",President,,Chase Oliver,LIB,0,0,2,2
+Hillsdale,"Somerset Township, Precinct 2",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Somerset Township, Precinct 2",President,,Jill Stein,GRN,1,3,0,4
+Hillsdale,"Somerset Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",NLP,0,5,5,10
+Hillsdale,"Somerset Township, Precinct 2",President,,Joseph Kishore,,1,0,1,2
+Hillsdale,"Somerset Township, Precinct 2",President,,Cornel West,,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 2",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 2",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Somerset Township, Precinct 2",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2320,14 +2320,14 @@ Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,
 Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,5,5
 Hillsdale,"Wheatland Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Wheatland Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,30,0,146,176
-Hillsdale,"Wheatland Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,86,0,476,562
-Hillsdale,"Wheatland Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,1,0,2,3
-Hillsdale,"Wheatland Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,2,2
-Hillsdale,"Wheatland Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,3,3
-Hillsdale,"Wheatland Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,2,2
-Hillsdale,"Wheatland Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,1,1
-Hillsdale,"Wheatland Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Wheatland Township, Precinct 1",President,,Kamala Harris,DEM,30,0,146,176
+Hillsdale,"Wheatland Township, Precinct 1",President,,Donald J. Trump,REP,86,0,476,562
+Hillsdale,"Wheatland Township, Precinct 1",President,,Chase Oliver,LIB,1,0,2,3
+Hillsdale,"Wheatland Township, Precinct 1",President,,Randall Terry,UST,0,0,2,2
+Hillsdale,"Wheatland Township, Precinct 1",President,,Jill Stein,GRN,0,0,3,3
+Hillsdale,"Wheatland Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,2,2
+Hillsdale,"Wheatland Township, Precinct 1",President,,Joseph Kishore,,0,0,1,1
+Hillsdale,"Wheatland Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Wheatland Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Wheatland Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Wheatland Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2429,14 +2429,14 @@ Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,U.S. Taxpayers Party
 Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,3,3
 Hillsdale,"Woodbridge Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,0,0
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,6,0,65,71
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,69,0,385,454
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,1,1
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,0,0
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,1,1
-Hillsdale,"Woodbridge Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,2,2
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Woodbridge Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Kamala Harris,DEM,6,0,65,71
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Donald J. Trump,REP,69,0,385,454
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Chase Oliver,LIB,0,0,1,1
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Randall Terry,UST,0,0,0,0
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Jill Stein,GRN,0,0,1,1
+Hillsdale,"Woodbridge Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,2,2
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Woodbridge Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Woodbridge Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Woodbridge Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Woodbridge Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0
@@ -2529,14 +2529,14 @@ Hillsdale,"Wright Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST
 Hillsdale,"Wright Township, Precinct 1",Straight Party,,Green Party,GRN,0,0,1,1
 Hillsdale,"Wright Township, Precinct 1",Straight Party,,Working Class Party,WCP,0,0,1,1
 Hillsdale,"Wright Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0,0,1,1
-Hillsdale,"Wright Township, Precinct 1",President,,Kamala Harris Tim Walz,DEM,12,0,149,161
-Hillsdale,"Wright Township, Precinct 1",President,,Donald J. Trump JD Vance,REP,74,0,588,662
-Hillsdale,"Wright Township, Precinct 1",President,,Chase Oliver Mike ter Maat,LIB,0,0,0,0
-Hillsdale,"Wright Township, Precinct 1",President,,Randall Terry Stephen E. Broden,UST,0,0,1,1
-Hillsdale,"Wright Township, Precinct 1",President,,Jill Stein Rudolph Ware,GRN,0,0,3,3
-Hillsdale,"Wright Township, Precinct 1",President,,"Robert F. Kennedy, Jr. Nicole Shanahan",NLP,0,0,4,4
-Hillsdale,"Wright Township, Precinct 1",President,,Joseph Kishore Jerry White,,0,0,0,0
-Hillsdale,"Wright Township, Precinct 1",President,,Cornel West Melina Abdullah,,0,0,0,0
+Hillsdale,"Wright Township, Precinct 1",President,,Kamala Harris,DEM,12,0,149,161
+Hillsdale,"Wright Township, Precinct 1",President,,Donald J. Trump,REP,74,0,588,662
+Hillsdale,"Wright Township, Precinct 1",President,,Chase Oliver,LIB,0,0,0,0
+Hillsdale,"Wright Township, Precinct 1",President,,Randall Terry,UST,0,0,1,1
+Hillsdale,"Wright Township, Precinct 1",President,,Jill Stein,GRN,0,0,3,3
+Hillsdale,"Wright Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,0,0,4,4
+Hillsdale,"Wright Township, Precinct 1",President,,Joseph Kishore,,0,0,0,0
+Hillsdale,"Wright Township, Precinct 1",President,,Cornel West,,0,0,0,0
 Hillsdale,"Wright Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0
 Hillsdale,"Wright Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0
 Hillsdale,"Wright Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0

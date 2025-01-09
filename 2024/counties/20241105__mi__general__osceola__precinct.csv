@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,votes
 Osceola,"Burdell Township, Precinct 1",President,,Ballots Cast,,747,82,829
-Osceola,"Burdell Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,175,17,192
-Osceola,"Burdell Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,560,64,624
-Osceola,"Burdell Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,2,0,2
-Osceola,"Burdell Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,0,2
-Osceola,"Burdell Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,1,2
-Osceola,"Burdell Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,0,2
+Osceola,"Burdell Township, Precinct 1",President,,Kamala D. Harris,Democrat,175,17,192
+Osceola,"Burdell Township, Precinct 1",President,,Donald J. Trump,Republican,560,64,624
+Osceola,"Burdell Township, Precinct 1",President,,Chase Oliver,Libertarian,2,0,2
+Osceola,"Burdell Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,2
+Osceola,"Burdell Township, Precinct 1",President,,Jill Stein,Green,1,1,2
+Osceola,"Burdell Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2
 Osceola,"Burdell Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Burdell Township, Precinct 1",President,,Under Vote Count,,5,0,5
 Osceola,"Burdell Township, Precinct 1",U.S. Senate,,Ballots Cast,,747,82,829
@@ -208,10 +208,10 @@ Osceola,"Burdell Township, Precinct 1",Board Member Pine River School,,Write-in,
 Osceola,"Burdell Township, Precinct 1",Board Member Pine River School,,Over Vote Count,,0,0,0
 Osceola,"Burdell Township, Precinct 1",Board Member Pine River School,,Under Vote Count,,532,47,579
 Osceola,"Cedar Township, Precinct 1",President,,Ballots Cast,,269,80,349
-Osceola,"Cedar Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,83,16,99
-Osceola,"Cedar Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,181,63,244
-Osceola,"Cedar Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,1,2
-Osceola,"Cedar Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,0,2
+Osceola,"Cedar Township, Precinct 1",President,,Kamala D. Harris,Democrat,83,16,99
+Osceola,"Cedar Township, Precinct 1",President,,Donald J. Trump,Republican,181,63,244
+Osceola,"Cedar Township, Precinct 1",President,,Jill Stein,Green,1,1,2
+Osceola,"Cedar Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2
 Osceola,"Cedar Township, Precinct 1",President,,Over Vote Count,,1,0,1
 Osceola,"Cedar Township, Precinct 1",President,,Under Vote Count,,1,0,1
 Osceola,"Cedar Township, Precinct 1",U.S. Senate,,Ballots Cast,,269,80,349
@@ -401,12 +401,12 @@ Osceola,"Cedar Township, Precinct 1",Board Member Reed City School,,Nate Vanderh
 Osceola,"Cedar Township, Precinct 1",Board Member Reed City School,,Over Vote Count,,0,0,0
 Osceola,"Cedar Township, Precinct 1",Board Member Reed City School,,Under Vote Count,,212,70,282
 Osceola,"Evart Township, Precinct 1",President,,Ballots Cast,,715,106,821
-Osceola,"Evart Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,203,19,222
-Osceola,"Evart Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,489,84,573
-Osceola,"Evart Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,0,4
-Osceola,"Evart Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,4,0,4
-Osceola,"Evart Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,8,3,11
-Osceola,"Evart Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1
+Osceola,"Evart Township, Precinct 1",President,,Kamala D. Harris,Democrat,203,19,222
+Osceola,"Evart Township, Precinct 1",President,,Donald J. Trump,Republican,489,84,573
+Osceola,"Evart Township, Precinct 1",President,,Chase Oliver,Libertarian,4,0,4
+Osceola,"Evart Township, Precinct 1",President,,Jill Stein,Green,4,0,4
+Osceola,"Evart Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,8,3,11
+Osceola,"Evart Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1
 Osceola,"Evart Township, Precinct 1",President,,Write-in,,2,0,2
 Osceola,"Evart Township, Precinct 1",President,,Over Vote Count,,2,0,2
 Osceola,"Evart Township, Precinct 1",President,,Under Vote Count,,2,0,2
@@ -588,10 +588,10 @@ Osceola,"Evart Township, Precinct 1",Board Member Evart School,,Write-in,,5,0,5
 Osceola,"Evart Township, Precinct 1",Board Member Evart School,,Over Vote Count,,0,0,0
 Osceola,"Evart Township, Precinct 1",Board Member Evart School,,Under Vote Count,,399,68,467
 Osceola,"Hartwick Township, Precinct 1",President,,Ballots Cast,,325,23,348
-Osceola,"Hartwick Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,71,4,75
-Osceola,"Hartwick Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,248,19,267
-Osceola,"Hartwick Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,0,1
-Osceola,"Hartwick Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,0,5
+Osceola,"Hartwick Township, Precinct 1",President,,Kamala D. Harris,Democrat,71,4,75
+Osceola,"Hartwick Township, Precinct 1",President,,Donald J. Trump,Republican,248,19,267
+Osceola,"Hartwick Township, Precinct 1",President,,Jill Stein,Green,1,0,1
+Osceola,"Hartwick Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5
 Osceola,"Hartwick Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Hartwick Township, Precinct 1",President,,Under Vote Count,,0,0,0
 Osceola,"Hartwick Township, Precinct 1",U.S. Senate,,Ballots Cast,,325,23,348
@@ -776,15 +776,15 @@ Osceola,"Hartwick Township, Precinct 1",Board Member Pine River School,,"Wayne W
 Osceola,"Hartwick Township, Precinct 1",Board Member Pine River School,,Over Vote Count,,0,0,0
 Osceola,"Hartwick Township, Precinct 1",Board Member Pine River School,,Under Vote Count,,0,0,0
 Osceola,"Hersey Township, Precinct 1",President,,Ballots Cast,,775,440,1215
-Osceola,"Hersey Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,222,88,310
-Osceola,"Hersey Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,539,346,885
-Osceola,"Hersey Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,5,2,7
-Osceola,"Hersey Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,0,1
-Osceola,"Hersey Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,1,2
-Osceola,"Hersey Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,4,2,6
+Osceola,"Hersey Township, Precinct 1",President,,Kamala D. Harris,Democrat,222,88,310
+Osceola,"Hersey Township, Precinct 1",President,,Donald J. Trump,Republican,539,346,885
+Osceola,"Hersey Township, Precinct 1",President,,Chase Oliver,Libertarian,5,2,7
+Osceola,"Hersey Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1
+Osceola,"Hersey Township, Precinct 1",President,,Jill Stein,Green,1,1,2
+Osceola,"Hersey Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,2,6
 Osceola,"Hersey Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Hersey Township, Precinct 1",President,,Under Vote Count,,3,0,3
-Osceola,"Hersey Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,0,1,1
+Osceola,"Hersey Township, Precinct 1",President,,Cornel West,No Party Affiliation,0,1,1
 Osceola,"Hersey Township, Precinct 1",U.S. Senate,,Ballots Cast,,775,440,1215
 Osceola,"Hersey Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,222,92,314
 Osceola,"Hersey Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,504,330,834
@@ -982,13 +982,13 @@ Osceola,"Hersey Township, Precinct 1",Board Member Reed City School,,Write-in,,1
 Osceola,"Hersey Township, Precinct 1",Board Member Reed City School,,Over Vote Count,,4,0,4
 Osceola,"Hersey Township, Precinct 1",Board Member Reed City School,,Under Vote Count,,1806,1008,2814
 Osceola,"Highland Township, Precinct 1",President,,Ballots Cast,,571,54,625
-Osceola,"Highland Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,119,5,124
-Osceola,"Highland Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,435,49,484
-Osceola,"Highland Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,5,0,5
-Osceola,"Highland Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,0,1
-Osceola,"Highland Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,0,2
-Osceola,"Highland Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,0,5
-Osceola,"Highland Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1
+Osceola,"Highland Township, Precinct 1",President,,Kamala D. Harris,Democrat,119,5,124
+Osceola,"Highland Township, Precinct 1",President,,Donald J. Trump,Republican,435,49,484
+Osceola,"Highland Township, Precinct 1",President,,Chase Oliver,Libertarian,5,0,5
+Osceola,"Highland Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1
+Osceola,"Highland Township, Precinct 1",President,,Jill Stein,Green,2,0,2
+Osceola,"Highland Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5
+Osceola,"Highland Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1
 Osceola,"Highland Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Highland Township, Precinct 1",President,,Under Vote Count,,3,0,3
 Osceola,"Highland Township, Precinct 1",U.S. Senate,,Ballots Cast,,571,54,625
@@ -1177,12 +1177,12 @@ Osceola,"Highland Township, Precinct 1",Board Member McBain School,,Write-in,,4,
 Osceola,"Highland Township, Precinct 1",Board Member McBain School,,Over Vote Count,,0,0,0
 Osceola,"Highland Township, Precinct 1",Board Member McBain School,,Under Vote Count,,207,14,221
 Osceola,"LeRoy Township, Precinct 1",President,,Ballots Cast,,624,105,729
-Osceola,"LeRoy Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,152,16,168
-Osceola,"LeRoy Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,461,87,548
-Osceola,"LeRoy Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,2,1,3
-Osceola,"LeRoy Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,3,0,3
-Osceola,"LeRoy Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,1,4
-Osceola,"LeRoy Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,0,2
+Osceola,"LeRoy Township, Precinct 1",President,,Kamala D. Harris,Democrat,152,16,168
+Osceola,"LeRoy Township, Precinct 1",President,,Donald J. Trump,Republican,461,87,548
+Osceola,"LeRoy Township, Precinct 1",President,,Chase Oliver,Libertarian,2,1,3
+Osceola,"LeRoy Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,3
+Osceola,"LeRoy Township, Precinct 1",President,,Jill Stein,Green,3,1,4
+Osceola,"LeRoy Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2
 Osceola,"LeRoy Township, Precinct 1",President,,Over Vote Count,,1,0,1
 Osceola,"LeRoy Township, Precinct 1",President,,Under Vote Count,,0,0,0
 Osceola,"LeRoy Township, Precinct 1",U.S. Senate,,Ballots Cast,,624,105,729
@@ -1364,11 +1364,11 @@ Osceola,"LeRoy Township, Precinct 1",Board Member Pine River School,,Write-in,,4
 Osceola,"LeRoy Township, Precinct 1",Board Member Pine River School,,Over Vote Count,,0,0,0
 Osceola,"LeRoy Township, Precinct 1",Board Member Pine River School,,Under Vote Count,,385,65,450
 Osceola,"Lincoln Township, Precinct 1",President,,Ballots Cast,,702,195,897
-Osceola,"Lincoln Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,161,48,209
-Osceola,"Lincoln Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,529,146,675
-Osceola,"Lincoln Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,2,0,2
-Osceola,"Lincoln Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,0,2
-Osceola,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,4,0,4
+Osceola,"Lincoln Township, Precinct 1",President,,Kamala D. Harris,Democrat,161,48,209
+Osceola,"Lincoln Township, Precinct 1",President,,Donald J. Trump,Republican,529,146,675
+Osceola,"Lincoln Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,2
+Osceola,"Lincoln Township, Precinct 1",President,,Jill Stein,Green,2,0,2
+Osceola,"Lincoln Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,4
 Osceola,"Lincoln Township, Precinct 1",President,,Write-in,,3,0,3
 Osceola,"Lincoln Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Lincoln Township, Precinct 1",President,,Under Vote Count,,1,1,2
@@ -1556,15 +1556,15 @@ Osceola,"Lincoln Township, Precinct 1",Board Member Reed City School,,Write-in,,
 Osceola,"Lincoln Township, Precinct 1",Board Member Reed City School,,Over Vote Count,,8,0,8
 Osceola,"Lincoln Township, Precinct 1",Board Member Reed City School,,Under Vote Count,,895,281,1176
 Osceola,"Marion Township, Precinct 1",President,,Ballots Cast,,811,68,879
-Osceola,"Marion Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,197,10,207
-Osceola,"Marion Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,597,55,652
-Osceola,"Marion Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,3,0,3
-Osceola,"Marion Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,0,3
-Osceola,"Marion Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,7,1,8
+Osceola,"Marion Township, Precinct 1",President,,Kamala D. Harris,Democrat,197,10,207
+Osceola,"Marion Township, Precinct 1",President,,Donald J. Trump,Republican,597,55,652
+Osceola,"Marion Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,3
+Osceola,"Marion Township, Precinct 1",President,,Jill Stein,Green,3,0,3
+Osceola,"Marion Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,1,8
 Osceola,"Marion Township, Precinct 1",President,,Write-in,,2,0,2
 Osceola,"Marion Township, Precinct 1",President,,Over Vote Count,,0,1,1
 Osceola,"Marion Township, Precinct 1",President,,Under Vote Count,,2,0,2
-Osceola,"Marion Township, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,0,1,1
+Osceola,"Marion Township, Precinct 1",President,,Cornel West,No Party Affiliation,0,1,1
 Osceola,"Marion Township, Precinct 1",U.S. Senate,,Ballots Cast,,811,68,879
 Osceola,"Marion Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,193,12,205
 Osceola,"Marion Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,567,53,620
@@ -1776,13 +1776,13 @@ Osceola,"Marion Township, Precinct 1",Board Member McBain School,,Kenneth J. Sta
 Osceola,"Marion Township, Precinct 1",Board Member McBain School,,Over Vote Count,,0,0,0
 Osceola,"Marion Township, Precinct 1",Board Member McBain School,,Under Vote Count,,0,0,0
 Osceola,"Middle Branch Township, Precinct 1",President,,Ballots Cast,,501,40,541
-Osceola,"Middle Branch Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,113,7,120
-Osceola,"Middle Branch Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,374,32,406
-Osceola,"Middle Branch Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,1,5
-Osceola,"Middle Branch Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,0,1
-Osceola,"Middle Branch Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,0,1
-Osceola,"Middle Branch Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,0,5
-Osceola,"Middle Branch Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1
+Osceola,"Middle Branch Township, Precinct 1",President,,Kamala D. Harris,Democrat,113,7,120
+Osceola,"Middle Branch Township, Precinct 1",President,,Donald J. Trump,Republican,374,32,406
+Osceola,"Middle Branch Township, Precinct 1",President,,Chase Oliver,Libertarian,4,1,5
+Osceola,"Middle Branch Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1
+Osceola,"Middle Branch Township, Precinct 1",President,,Jill Stein,Green,1,0,1
+Osceola,"Middle Branch Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5
+Osceola,"Middle Branch Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1
 Osceola,"Middle Branch Township, Precinct 1",President,,Write-in,,1,0,1
 Osceola,"Middle Branch Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Middle Branch Township, Precinct 1",President,,Under Vote Count,,1,0,1
@@ -1979,14 +1979,14 @@ Osceola,"Middle Branch Township, Precinct 1",Board Member Marion School 2 Year T
 Osceola,"Middle Branch Township, Precinct 1",Board Member Marion School 2 Year Term,,Over Vote Count,,0,0,0
 Osceola,"Middle Branch Township, Precinct 1",Board Member Marion School 2 Year Term,,Under Vote Count,,372,29,401
 Osceola,"Orient Township, Precinct 1",President,,Ballots Cast,,403,59,462
-Osceola,"Orient Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,100,14,114
-Osceola,"Orient Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,295,44,339
-Osceola,"Orient Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,2,0,2
-Osceola,"Orient Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,0,1
-Osceola,"Orient Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,0,2
+Osceola,"Orient Township, Precinct 1",President,,Kamala D. Harris,Democrat,100,14,114
+Osceola,"Orient Township, Precinct 1",President,,Donald J. Trump,Republican,295,44,339
+Osceola,"Orient Township, Precinct 1",President,,Chase Oliver,Libertarian,2,0,2
+Osceola,"Orient Township, Precinct 1",President,,Jill Stein,Green,1,0,1
+Osceola,"Orient Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2
 Osceola,"Orient Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Orient Township, Precinct 1",President,,Under Vote Count,,3,0,3
-Osceola,"Orient Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,0,1,1
+Osceola,"Orient Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,1,1
 Osceola,"Orient Township, Precinct 1",U.S. Senate,,Ballots Cast,,403,59,462
 Osceola,"Orient Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,99,13,112
 Osceola,"Orient Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,280,45,325
@@ -2166,11 +2166,11 @@ Osceola,"Orient Township, Precinct 1",Board Member Evart School,,Kendall Wirth,,
 Osceola,"Orient Township, Precinct 1",Board Member Evart School,,Over Vote Count,,0,0,0
 Osceola,"Orient Township, Precinct 1",Board Member Evart School,,Under Vote Count,,173,31,204
 Osceola,"Osceola Township, Precinct 1",President,,Ballots Cast,,519,90,609
-Osceola,"Osceola Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,121,12,133
-Osceola,"Osceola Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,386,76,462
-Osceola,"Osceola Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,2,0,2
-Osceola,"Osceola Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,2,0,2
-Osceola,"Osceola Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1
+Osceola,"Osceola Township, Precinct 1",President,,Kamala D. Harris,Democrat,121,12,133
+Osceola,"Osceola Township, Precinct 1",President,,Donald J. Trump,Republican,386,76,462
+Osceola,"Osceola Township, Precinct 1",President,,Chase Oliver,Libertarian,2,0,2
+Osceola,"Osceola Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2
+Osceola,"Osceola Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1
 Osceola,"Osceola Township, Precinct 1",President,,Write-in,,3,1,4
 Osceola,"Osceola Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Osceola Township, Precinct 1",President,,Under Vote Count,,4,1,5
@@ -2354,11 +2354,11 @@ Osceola,"Osceola Township, Precinct 1",Board Member Evart School,,Write-in,,5,1,
 Osceola,"Osceola Township, Precinct 1",Board Member Evart School,,Over Vote Count,,0,0,0
 Osceola,"Osceola Township, Precinct 1",Board Member Evart School,,Under Vote Count,,257,47,304
 Osceola,"Richmond Township, Precinct 1",President,,Ballots Cast,,728,325,1053
-Osceola,"Richmond Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,209,70,279
-Osceola,"Richmond Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,501,254,755
-Osceola,"Richmond Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,4,0,4
-Osceola,"Richmond Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,0,2
-Osceola,"Richmond Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,1,6
+Osceola,"Richmond Township, Precinct 1",President,,Kamala D. Harris,Democrat,209,70,279
+Osceola,"Richmond Township, Precinct 1",President,,Donald J. Trump,Republican,501,254,755
+Osceola,"Richmond Township, Precinct 1",President,,Chase Oliver,Libertarian,4,0,4
+Osceola,"Richmond Township, Precinct 1",President,,Jill Stein,Green,2,0,2
+Osceola,"Richmond Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,1,6
 Osceola,"Richmond Township, Precinct 1",President,,Write-in,,1,0,1
 Osceola,"Richmond Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Richmond Township, Precinct 1",President,,Under Vote Count,,6,0,6
@@ -2542,12 +2542,12 @@ Osceola,"Richmond Township, Precinct 1",Board Member Reed City School,,Write-in,
 Osceola,"Richmond Township, Precinct 1",Board Member Reed City School,,Over Vote Count,,0,0,0
 Osceola,"Richmond Township, Precinct 1",Board Member Reed City School,,Under Vote Count,,1597,665,2262
 Osceola,"Rose Lake Township, Precinct 1",President,,Ballots Cast,,762,108,870
-Osceola,"Rose Lake Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,203,25,228
-Osceola,"Rose Lake Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,541,82,623
-Osceola,"Rose Lake Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,3,1,4
-Osceola,"Rose Lake Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,0,3
-Osceola,"Rose Lake Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,3,0,3
-Osceola,"Rose Lake Township, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,0,1
+Osceola,"Rose Lake Township, Precinct 1",President,,Kamala D. Harris,Democrat,203,25,228
+Osceola,"Rose Lake Township, Precinct 1",President,,Donald J. Trump,Republican,541,82,623
+Osceola,"Rose Lake Township, Precinct 1",President,,Chase Oliver,Libertarian,3,1,4
+Osceola,"Rose Lake Township, Precinct 1",President,,Jill Stein,Green,3,0,3
+Osceola,"Rose Lake Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,3
+Osceola,"Rose Lake Township, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,0,1
 Osceola,"Rose Lake Township, Precinct 1",President,,Write-in,,2,0,2
 Osceola,"Rose Lake Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Rose Lake Township, Precinct 1",President,,Under Vote Count,,6,0,6
@@ -2745,12 +2745,12 @@ Osceola,"Rose Lake Township, Precinct 1",Board Member Pine River School,,Write-i
 Osceola,"Rose Lake Township, Precinct 1",Board Member Pine River School,,Over Vote Count,,0,0,0
 Osceola,"Rose Lake Township, Precinct 1",Board Member Pine River School,,Under Vote Count,,550,94,644
 Osceola,"Sherman Township, Precinct 1",President,,Ballots Cast,,457,187,644
-Osceola,"Sherman Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,97,26,123
-Osceola,"Sherman Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,347,160,507
-Osceola,"Sherman Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,6,1,7
-Osceola,"Sherman Township, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,0,1
-Osceola,"Sherman Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,1,0,1
-Osceola,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,1,0,1
+Osceola,"Sherman Township, Precinct 1",President,,Kamala D. Harris,Democrat,97,26,123
+Osceola,"Sherman Township, Precinct 1",President,,Donald J. Trump,Republican,347,160,507
+Osceola,"Sherman Township, Precinct 1",President,,Chase Oliver,Libertarian,6,1,7
+Osceola,"Sherman Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1
+Osceola,"Sherman Township, Precinct 1",President,,Jill Stein,Green,1,0,1
+Osceola,"Sherman Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,1
 Osceola,"Sherman Township, Precinct 1",President,,Write-in,,2,0,2
 Osceola,"Sherman Township, Precinct 1",President,,Over Vote Count,,0,0,0
 Osceola,"Sherman Township, Precinct 1",President,,Under Vote Count,,2,0,2
@@ -2951,11 +2951,11 @@ Osceola,"Sherman Township, Precinct 1",Sherman Township Proposal Tustin Area Fir
 Osceola,"Sherman Township, Precinct 1",Sherman Township Proposal Tustin Area Fire District Millage Proposal,,Over Vote Count,,0,0,0
 Osceola,"Sherman Township, Precinct 1",Sherman Township Proposal Tustin Area Fire District Millage Proposal,,Under Vote Count,,71,33,104
 Osceola,"Sylvan Township, Precinct 1",President,,Ballots Cast,,476,49,525
-Osceola,"Sylvan Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,126,8,134
-Osceola,"Sylvan Township, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,336,41,377
-Osceola,"Sylvan Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,1,0,1
-Osceola,"Sylvan Township, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,0,3
-Osceola,"Sylvan Township, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,0,5
+Osceola,"Sylvan Township, Precinct 1",President,,Kamala D. Harris,Democrat,126,8,134
+Osceola,"Sylvan Township, Precinct 1",President,,Donald J. Trump,Republican,336,41,377
+Osceola,"Sylvan Township, Precinct 1",President,,Chase Oliver,Libertarian,1,0,1
+Osceola,"Sylvan Township, Precinct 1",President,,Jill Stein,Green,3,0,3
+Osceola,"Sylvan Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5
 Osceola,"Sylvan Township, Precinct 1",President,,Write-in,,1,0,1
 Osceola,"Sylvan Township, Precinct 1",President,,Over Vote Count,,1,0,1
 Osceola,"Sylvan Township, Precinct 1",President,,Under Vote Count,,3,0,3
@@ -3152,13 +3152,13 @@ Osceola,"Sylvan Township, Precinct 1",Board Member Marion School 2 Year Term,,Wr
 Osceola,"Sylvan Township, Precinct 1",Board Member Marion School 2 Year Term,,Over Vote Count,,0,0,0
 Osceola,"Sylvan Township, Precinct 1",Board Member Marion School 2 Year Term,,Under Vote Count,,0,0,0
 Osceola,"City of Evart, Precinct 1",President,,Ballots Cast,,662,85,747
-Osceola,"City of Evart, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,200,16,216
-Osceola,"City of Evart, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,433,67,500
-Osceola,"City of Evart, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,8,0,8
-Osceola,"City of Evart, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,6,0,6
-Osceola,"City of Evart, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,2,1,3
-Osceola,"City of Evart, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,6,0,6
-Osceola,"City of Evart, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,0,1
+Osceola,"City of Evart, Precinct 1",President,,Kamala D. Harris,Democrat,200,16,216
+Osceola,"City of Evart, Precinct 1",President,,Donald J. Trump,Republican,433,67,500
+Osceola,"City of Evart, Precinct 1",President,,Chase Oliver,Libertarian,8,0,8
+Osceola,"City of Evart, Precinct 1",President,,Randall Terry,U.S. Taxpayers,6,0,6
+Osceola,"City of Evart, Precinct 1",President,,Jill Stein,Green,2,1,3
+Osceola,"City of Evart, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,6
+Osceola,"City of Evart, Precinct 1",President,,Cornel West,No Party Affiliation,1,0,1
 Osceola,"City of Evart, Precinct 1",President,,Over Vote Count,,2,0,2
 Osceola,"City of Evart, Precinct 1",President,,Under Vote Count,,4,1,5
 Osceola,"City of Evart, Precinct 1",U.S. Senate,,Ballots Cast,,662,85,747
@@ -3338,14 +3338,14 @@ Osceola,"City of Evart, Precinct 1",Board Member Evart School,,Write-in,,7,2,9
 Osceola,"City of Evart, Precinct 1",Board Member Evart School,,Over Vote Count,,0,0,0
 Osceola,"City of Evart, Precinct 1",Board Member Evart School,,Under Vote Count,,314,52,366
 Osceola,"City of Reed City, Precinct 1",President,,Ballots Cast,,847,272,1119
-Osceola,"City of Reed City, Precinct 1",President,,Kamala D. Harris/Tim Walz,Democrat,305,68,373
-Osceola,"City of Reed City, Precinct 1",President,,Donald J. Trump/JD Vance,Republican,518,200,718
-Osceola,"City of Reed City, Precinct 1",President,,Chase Oliver/Mike ter Maat,Libertarian,10,1,11
-Osceola,"City of Reed City, Precinct 1",President,,Randall Terry/Stephen E. Broden,U.S. Taxpayers,1,0,1
-Osceola,"City of Reed City, Precinct 1",President,,Jill Stein/Rudolph Ware,Green,3,0,3
-Osceola,"City of Reed City, Precinct 1",President,,"Robert F. Kennedy, Jr./Nicole Shanahan",Natural Law,5,2,7
-Osceola,"City of Reed City, Precinct 1",President,,Joseph Kishore/Jerry White,No Party Affiliation,1,1,2
-Osceola,"City of Reed City, Precinct 1",President,,Cornel West/Melina Abdullah,No Party Affiliation,1,0,1
+Osceola,"City of Reed City, Precinct 1",President,,Kamala D. Harris,Democrat,305,68,373
+Osceola,"City of Reed City, Precinct 1",President,,Donald J. Trump,Republican,518,200,718
+Osceola,"City of Reed City, Precinct 1",President,,Chase Oliver,Libertarian,10,1,11
+Osceola,"City of Reed City, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1
+Osceola,"City of Reed City, Precinct 1",President,,Jill Stein,Green,3,0,3
+Osceola,"City of Reed City, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,2,7
+Osceola,"City of Reed City, Precinct 1",President,,Joseph Kishore,No Party Affiliation,1,1,2
+Osceola,"City of Reed City, Precinct 1",President,,Cornel West,No Party Affiliation,1,0,1
 Osceola,"City of Reed City, Precinct 1",President,,Over Vote Count,,1,0,1
 Osceola,"City of Reed City, Precinct 1",President,,Under Vote Count,,2,0,2
 Osceola,"City of Reed City, Precinct 1",U.S. Senate,,Ballots Cast,,847,272,1119

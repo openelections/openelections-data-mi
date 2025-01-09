@@ -1,667 +1,667 @@
-precinct,office,district,party,candidate,election_day,early_voting,votes
-"City of Munising, Precinct 1",Registered Voters,,,,,,1886
-"City of Munising, Precinct 1",Ballots Cast,,,,903,195,1098
-"AuTrain Township, Precinct 1",Registered Voters,,,,,,1108
-"AuTrain Township, Precinct 1",Ballots Cast,,,,630,149,779
-"Burt Township, Precinct 1",Registered Voters,,,,,,430
-"Burt Township, Precinct 1",Ballots Cast,,,,362,9,371
-"Grand Island Township, Precinct 1",Registered Voters,,,,,,29
-"Grand Island Township, Precinct 1",Ballots Cast,,,,22,4,26
-"Limestone Township, Precinct 1",Registered Voters,,,,,,398
-"Limestone Township, Precinct 1",Ballots Cast,,,,266,23,289
-"Mathias Township, Precinct 1",Registered Voters,,,,,,498
-"Mathias Township, Precinct 1",Ballots Cast,,,,300,20,320
-"Munising Township, Precinct 1",Registered Voters,,,,,,1799
-"Munising Township, Precinct 1",Ballots Cast,,,,1095,213,1308
-"Onota Township, Precinct 1",Registered Voters,,,,,,407
-"Onota Township, Precinct 1",Ballots Cast,,,,305,28,333
-"Rock River Township, Precinct 1",Registered Voters,,,,,,1148
-"Rock River Township, Precinct 1",Ballots Cast,,,,656,122,778
-"City of Munising, Precinct 1",Straight Party,,DEM,Democratic,195,41,236
-"AuTrain Township, Precinct 1",Straight Party,,DEM,Democratic,93,13,106
-"Burt Township, Precinct 1",Straight Party,,DEM,Democratic,41,0,41
-"Grand Island Township, Precinct 1",Straight Party,,DEM,Democratic,3,0,3
-"Limestone Township, Precinct 1",Straight Party,,DEM,Democratic,52,6,58
-"Mathias Township, Precinct 1",Straight Party,,DEM,Democratic,63,2,65
-"Munising Township, Precinct 1",Straight Party,,DEM,Democratic,142,14,156
-"Onota Township, Precinct 1",Straight Party,,DEM,Democratic,71,4,75
-"Rock River Township, Precinct 1",Straight Party,,DEM,Democratic,130,5,135
-"City of Munising, Precinct 1",Straight Party,,REP,Republican,218,60,278
-"AuTrain Township, Precinct 1",Straight Party,,REP,Republican,178,60,238
-"Burt Township, Precinct 1",Straight Party,,REP,Republican,88,2,90
-"Grand Island Township, Precinct 1",Straight Party,,REP,Republican,2,1,3
-"Limestone Township, Precinct 1",Straight Party,,REP,Republican,80,10,90
-"Mathias Township, Precinct 1",Straight Party,,REP,Republican,82,8,90
-"Munising Township, Precinct 1",Straight Party,,REP,Republican,319,83,402
-"Onota Township, Precinct 1",Straight Party,,REP,Republican,65,8,73
-"Rock River Township, Precinct 1",Straight Party,,REP,Republican,142,42,184
-"City of Munising, Precinct 1",Straight Party,,LIB,Libertarian,3,1,4
-"AuTrain Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
-"Burt Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
-"Grand Island Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
-"Limestone Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
-"Mathias Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
-"Munising Township, Precinct 1",Straight Party,,LIB,Libertarian,3,0,3
-"Onota Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1
-"Rock River Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
-"City of Munising, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,2
-"AuTrain Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,1,1
-"Burt Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Grand Island Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Limestone Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Mathias Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Munising Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Onota Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"Rock River Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
-"City of Munising, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"AuTrain Township, Precinct 1",Straight Party,,GRN,Green,0,1,1
-"Burt Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"Grand Island Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"Limestone Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"Mathias Township, Precinct 1",Straight Party,,GRN,Green,1,0,1
-"Munising Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"Onota Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
-"Rock River Township, Precinct 1",Straight Party,,GRN,Green,2,0,2
-"City of Munising, Precinct 1",Straight Party,,WCP,Working Class,6,0,6
-"AuTrain Township, Precinct 1",Straight Party,,WCP,Working Class,3,1,4
-"Burt Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,2
-"Grand Island Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
-"Limestone Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
-"Mathias Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
-"Munising Township, Precinct 1",Straight Party,,WCP,Working Class,4,0,4
-"Onota Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
-"Rock River Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
-"City of Munising, Precinct 1",Straight Party,,NLP,Natural Law,4,1,5
-"AuTrain Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Burt Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Grand Island Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Limestone Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Mathias Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Munising Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1
-"Onota Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"Rock River Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
-"City of Munising, Precinct 1",President,,DEM,Kamala D. Harris,423,87,510
-"AuTrain Township, Precinct 1",President,,DEM,Kamala D. Harris,229,39,268
-"Burt Township, Precinct 1",President,,DEM,Kamala D. Harris,139,2,141
-"Grand Island Township, Precinct 1",President,,DEM,Kamala D. Harris,13,1,14
-"Limestone Township, Precinct 1",President,,DEM,Kamala D. Harris,108,7,115
-"Mathias Township, Precinct 1",President,,DEM,Kamala D. Harris,129,5,134
-"Munising Township, Precinct 1",President,,DEM,Kamala D. Harris,348,47,395
-"Onota Township, Precinct 1",President,,DEM,Kamala D. Harris,151,12,163
-"Rock River Township, Precinct 1",President,,DEM,Kamala D. Harris,298,37,335
-"City of Munising, Precinct 1",President,,REP,Donald J. Trump,456,106,562
-"AuTrain Township, Precinct 1",President,,REP,Donald J. Trump,385,109,494
-"Burt Township, Precinct 1",President,,REP,Donald J. Trump,219,7,226
-"Grand Island Township, Precinct 1",President,,REP,Donald J. Trump,9,3,12
-"Limestone Township, Precinct 1",President,,REP,Donald J. Trump,153,16,169
-"Mathias Township, Precinct 1",President,,REP,Donald J. Trump,165,15,180
-"Munising Township, Precinct 1",President,,REP,Donald J. Trump,717,164,881
-"Onota Township, Precinct 1",President,,REP,Donald J. Trump,151,16,167
-"Rock River Township, Precinct 1",President,,REP,Donald J. Trump,342,83,425
-"City of Munising, Precinct 1",President,,LIB,Chase Oliver,8,0,8
-"AuTrain Township, Precinct 1",President,,LIB,Chase Oliver,2,0,2
-"Burt Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
-"Grand Island Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
-"Limestone Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
-"Mathias Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
-"Munising Township, Precinct 1",President,,LIB,Chase Oliver,7,1,8
-"Onota Township, Precinct 1",President,,LIB,Chase Oliver,1,0,1
-"Rock River Township, Precinct 1",President,,LIB,Chase Oliver,4,0,4
-"City of Munising, Precinct 1",President,,UST,Randall Terry,2,0,2
-"AuTrain Township, Precinct 1",President,,UST,Randall Terry,1,0,1
-"Burt Township, Precinct 1",President,,UST,Randall Terry,0,0,0
-"Grand Island Township, Precinct 1",President,,UST,Randall Terry,0,0,0
-"Limestone Township, Precinct 1",President,,UST,Randall Terry,0,0,0
-"Mathias Township, Precinct 1",President,,UST,Randall Terry,0,0,0
-"Munising Township, Precinct 1",President,,UST,Randall Terry,1,0,1
-"Onota Township, Precinct 1",President,,UST,Randall Terry,0,0,0
-"Rock River Township, Precinct 1",President,,UST,Randall Terry,2,0,2
-"City of Munising, Precinct 1",President,,GRN,Jill Stein,1,0,1
-"AuTrain Township, Precinct 1",President,,GRN,Jill Stein,3,0,3
-"Burt Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
-"Grand Island Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
-"Limestone Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
-"Mathias Township, Precinct 1",President,,GRN,Jill Stein,1,0,1
-"Munising Township, Precinct 1",President,,GRN,Jill Stein,2,0,2
-"Onota Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
-"Rock River Township, Precinct 1",President,,GRN,Jill Stein,1,1,2
-"City of Munising, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,8,1,9
-"AuTrain Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,0,3
-"Burt Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0
-"Grand Island Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0
-"Limestone Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,1
-"Mathias Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,0,4
-"Munising Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,8,0,8
-"Onota Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,1
-"Rock River Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,2
-"City of Munising, Precinct 1",President,,,Joseph Kishore,0,0,0
-"AuTrain Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Burt Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Grand Island Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Limestone Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Mathias Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Munising Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Onota Township, Precinct 1",President,,,Joseph Kishore,0,0,0
-"Rock River Township, Precinct 1",President,,,Joseph Kishore,1,0,1
-"City of Munising, Precinct 1",President,,,Cornel West,0,0,0
-"AuTrain Township, Precinct 1",President,,,Cornel West,0,0,0
-"Burt Township, Precinct 1",President,,,Cornel West,0,0,0
-"Grand Island Township, Precinct 1",President,,,Cornel West,0,0,0
-"Limestone Township, Precinct 1",President,,,Cornel West,0,0,0
-"Mathias Township, Precinct 1",President,,,Cornel West,0,0,0
-"Munising Township, Precinct 1",President,,,Cornel West,0,0,0
-"Onota Township, Precinct 1",President,,,Cornel West,0,0,0
-"Rock River Township, Precinct 1",President,,,Cornel West,0,0,0
-"City of Munising, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"AuTrain Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Burt Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Grand Island Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Limestone Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Mathias Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Munising Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Onota Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"Rock River Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
-"City of Munising, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"AuTrain Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Burt Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Grand Island Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Limestone Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Mathias Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Munising Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Onota Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"Rock River Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
-"City of Munising, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"AuTrain Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Burt Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Grand Island Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Limestone Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Mathias Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Munising Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Onota Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"Rock River Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
-"City of Munising, Precinct 1",President,,,Peter Sonski,0,0,0
-"AuTrain Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Burt Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Grand Island Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Limestone Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Mathias Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Munising Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Onota Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"Rock River Township, Precinct 1",President,,,Peter Sonski,0,0,0
-"City of Munising, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,427,83,510
-"AuTrain Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,232,37,269
-"Burt Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,136,2,138
-"Grand Island Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,12,0,12
-"Limestone Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,99,7,106
-"Mathias Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,128,5,133
-"Munising Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,349,47,396
-"Onota Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,150,11,161
-"Rock River Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,285,37,322
-"City of Munising, Precinct 1",U.S. Senate,,REP,Mike Rogers,414,104,518
-"AuTrain Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,373,106,479
-"Burt Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,207,7,214
-"Grand Island Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,9,4,13
-"Limestone Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,153,16,169
-"Mathias Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,159,15,174
-"Munising Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,687,158,845
-"Onota Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,148,16,164
-"Rock River Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,343,83,426
-"City of Munising, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12,2,14
-"AuTrain Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,3,4
-"Burt Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,3
-"Grand Island Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2,0,2
-"Mathias Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,0,1
-"Munising Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,1,8
-"Onota Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,1,4
-"Rock River Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8,0,8
-"City of Munising, Precinct 1",U.S. Senate,,UST,Dave Stein,7,1,8
-"AuTrain Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,4
-"Burt Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,1
-"Grand Island Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
-"Mathias Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,0,2
-"Munising Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7,1,8
-"Onota Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
-"Rock River Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,4
-"City of Munising, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,2,6
-"AuTrain Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
-"Burt Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,0,2
-"Grand Island Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
-"Limestone Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
-"Mathias Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
-"Munising Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,1,4
-"Onota Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
-"Rock River Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
-"City of Munising, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,2
-"AuTrain Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
-"Burt Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
-"Grand Island Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
-"Mathias Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
-"Munising Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5,0,5
-"Onota Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
-"Rock River Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,1,2
-"City of Munising, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"AuTrain Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Burt Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Grand Island Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Mathias Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Munising Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Onota Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"Rock River Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
-"City of Munising, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"AuTrain Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Burt Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Grand Island Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Mathias Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Munising Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Onota Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"Rock River Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
-"City of Munising, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"AuTrain Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Burt Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Grand Island Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Limestone Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Mathias Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Munising Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Onota Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"Rock River Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
-"City of Munising, Precinct 1",U.S. House,1,DEM,Callie Barr,416,83,499
-"AuTrain Township, Precinct 1",U.S. House,1,DEM,Callie Barr,214,39,253
-"Burt Township, Precinct 1",U.S. House,1,DEM,Callie Barr,145,2,147
-"Grand Island Township, Precinct 1",U.S. House,1,DEM,Callie Barr,13,1,14
-"Limestone Township, Precinct 1",U.S. House,1,DEM,Callie Barr,103,8,111
-"Mathias Township, Precinct 1",U.S. House,1,DEM,Callie Barr,128,5,133
-"Munising Township, Precinct 1",U.S. House,1,DEM,Callie Barr,351,46,397
-"Onota Township, Precinct 1",U.S. House,1,DEM,Callie Barr,154,11,165
-"Rock River Township, Precinct 1",U.S. House,1,DEM,Callie Barr,289,38,327
-"City of Munising, Precinct 1",U.S. House,1,REP,Jack Bergman,432,106,538
-"AuTrain Township, Precinct 1",U.S. House,1,REP,Jack Bergman,396,106,502
-"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201,7,208
-"Grand Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,8,3,11
-"Limestone Township, Precinct 1",U.S. House,1,REP,Jack Bergman,150,15,165
-"Mathias Township, Precinct 1",U.S. House,1,REP,Jack Bergman,160,15,175
-"Munising Township, Precinct 1",U.S. House,1,REP,Jack Bergman,682,163,845
-"Onota Township, Precinct 1",U.S. House,1,REP,Jack Bergman,143,16,159
-"Rock River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,333,82,415
-"City of Munising, Precinct 1",U.S. House,1,LIB,Andrew Gale,8,3,11
-"AuTrain Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,1,1,2
-"Burt Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
-"Grand Island Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0,0,0
-"Limestone Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
-"Mathias Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,2
-"Munising Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10,1,11
-"Onota Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,1,4
-"Rock River Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,1,5
-"City of Munising, Precinct 1",U.S. House,1,WCP,Liz Hakola,16,0,16
-"AuTrain Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,1,8
-"Burt Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
-"Grand Island Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1,0,1
-"Limestone Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,0,3
-"Mathias Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
-"Munising Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,25,1,26
-"Onota Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1,0,1
-"Rock River Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,17,1,18
-"City of Munising, Precinct 1",State House,109,DEM,Jenn Hill,416,84,500
-"AuTrain Township, Precinct 1",State House,109,DEM,Jenn Hill,227,38,265
-"Burt Township, Precinct 1",State House,109,DEM,Jenn Hill,143,2,145
-"Grand Island Township, Precinct 1",State House,109,DEM,Jenn Hill,12,1,13
-"Limestone Township, Precinct 1",State House,109,DEM,Jenn Hill,100,6,106
-"Mathias Township, Precinct 1",State House,109,DEM,Jenn Hill,123,5,128
-"Munising Township, Precinct 1",State House,109,DEM,Jenn Hill,370,50,420
-"Onota Township, Precinct 1",State House,109,DEM,Jenn Hill,147,12,159
-"Rock River Township, Precinct 1",State House,109,DEM,Jenn Hill,287,38,325
-"City of Munising, Precinct 1",State House,109,REP,Karl Bohnak,465,107,572
-"AuTrain Township, Precinct 1",State House,109,REP,Karl Bohnak,394,108,502
-"Burt Township, Precinct 1",State House,109,REP,Karl Bohnak,212,7,219
-"Grand Island Township, Precinct 1",State House,109,REP,Karl Bohnak,10,3,13
-"Limestone Township, Precinct 1",State House,109,REP,Karl Bohnak,162,17,179
-"Mathias Township, Precinct 1",State House,109,REP,Karl Bohnak,174,14,188
-"Munising Township, Precinct 1",State House,109,REP,Karl Bohnak,705,160,865
-"Onota Township, Precinct 1",State House,109,REP,Karl Bohnak,157,16,173
-"Rock River Township, Precinct 1",State House,109,REP,Karl Bohnak,364,84,448
-"City of Munising, Precinct 1",State Board of Education,,DEM,Theodore Jones,360,77,437
-"AuTrain Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,196,30,226
-"Burt Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,110,2,112
-"Grand Island Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,12,0,12
-"Limestone Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,92,7,99
-"Mathias Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,106,5,111
-"Munising Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,293,40,333
-"Onota Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,131,10,141
-"Rock River Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,258,33,291
-"City of Munising, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,345,66,411
-"AuTrain Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,192,31,223
-"Burt Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,111,2,113
-"Grand Island Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,12,0,12
-"Limestone Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,86,7,93
-"Mathias Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,103,3,106
-"Munising Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,271,36,307
-"Onota Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,124,9,133
-"Rock River Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,243,29,272
-"City of Munising, Precinct 1",State Board of Education,,REP,Tom McMillin,345,93,438
-"AuTrain Township, Precinct 1",State Board of Education,,REP,Tom McMillin,334,101,435
-"Burt Township, Precinct 1",State Board of Education,,REP,Tom McMillin,188,7,195
-"Grand Island Township, Precinct 1",State Board of Education,,REP,Tom McMillin,7,3,10
-"Limestone Township, Precinct 1",State Board of Education,,REP,Tom McMillin,129,15,144
-"Mathias Township, Precinct 1",State Board of Education,,REP,Tom McMillin,139,11,150
-"Munising Township, Precinct 1",State Board of Education,,REP,Tom McMillin,153,746,899
-"Onota Township, Precinct 1",State Board of Education,,REP,Tom McMillin,16,148,164
-"Rock River Township, Precinct 1",State Board of Education,,REP,Tom McMillin,79,368,447
-"City of Munising, Precinct 1",State Board of Education,,REP,Nikki Snyder,347,95,442
-"AuTrain Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,337,100,437
-"Burt Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,184,7,191
-"Grand Island Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,6,3,9
-"Limestone Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,128,14,142
-"Mathias Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,139,13,152
-"Munising Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,147,730,877
-"Onota Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,16,150,166
-"Rock River Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,75,367,442
-"City of Munising, Precinct 1",State Board of Education,,LIB,Scotty Boman,23,6,29
-"AuTrain Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,9,3,12
-"Burt Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,16,0,16
-"Grand Island Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,2,0,2
-"Limestone Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,6,1,7
-"Mathias Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,7,0,7
-"Munising Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,2,42,44
-"Onota Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,1,19,20
-"Rock River Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,4,25,29
-"City of Munising, Precinct 1",State Board of Education,,UST,Ted Gerrard,10,0,10
-"AuTrain Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,10,0,10
-"Burt Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,0,4
-"Grand Island Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,0,0
-"Limestone Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,1,5
-"Mathias Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,2,6
-"Munising Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,20,20
-"Onota Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,0,0
-"Rock River Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,6,6
-"City of Munising, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,19,2,21
-"AuTrain Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,14,1,15
-"Burt Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,6,0,6
-"Grand Island Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,0,0
-"Limestone Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,1,1,2
-"Mathias Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,6,0,6
-"Munising Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,2,24,26
-"Onota Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,3,3
-"Rock River Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,12,12
-"City of Munising, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,44,7,51
-"AuTrain Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,17,4,21
-"Burt Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,13,0,13
-"Grand Island Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,1,0,1
-"Limestone Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,11,0,11
-"Mathias Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,20,1,21
-"Munising Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,4,49,53
-"Onota Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,0,11,11
-"Rock River Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,1,31,32
-"City of Munising, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,373,73,446
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,196,33,229
-"Burt Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,126,2,128
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,12,0,12
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,89,8,97
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,114,3,117
-"Munising Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,294,41,335
-"Onota Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,132,9,141
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,268,34,302
-"City of Munising, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,363,71,434
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,181,28,209
-"Burt Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,116,2,118
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,12,0,12
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,86,7,93
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,108,4,112
-"Munising Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,298,38,336
-"Onota Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,127,8,135
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,250,30,280
-"City of Munising, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,374,95,469
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,360,102,462
-"Burt Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,186,7,193
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,7,3,10
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,132,14,146
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,147,13,160
-"Munising Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,626,150,776
-"Onota Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,140,14,154
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,286,78,364
-"City of Munising, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,309,85,394
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,297,92,389
-"Burt Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,158,7,165
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,7,3,10
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,124,14,138
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,121,12,133
-"Munising Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,514,136,650
-"Onota Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,122,12,134
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,245,69,314
-"City of Munising, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,30,5,35
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,18,3,21
-"Burt Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,16,0,16
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,2,0,2
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,9,1,10
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,7,1,8
-"Munising Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,42,1,43
-"Onota Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,13,2,15
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,19,4,23
-"City of Munising, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,22,2,24
-"AuTrain Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,17,4,21
-"Burt Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,8,0,8
-"Grand Island Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,0,0,0
-"Limestone Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,4,1,5
-"Mathias Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,10,0,10
-"Munising Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,36,3,39
-"Onota Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,4,1,5
-"Rock River Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,23,3,26
-"City of Munising, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,382,77,459
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,191,35,226
-"Burt Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,117,2,119
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,12,0,12
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,92,6,98
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,119,3,122
-"Munising Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,303,40,343
-"Onota Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,132,8,140
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,260,33,293
-"City of Munising, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,339,66,405
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,178,28,206
-"Burt Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,110,2,112
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,12,0,12
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,82,6,88
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,104,3,107
-"Munising Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,276,37,313
-"Onota Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,121,7,128
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,238,26,264
-"City of Munising, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,349,92,441
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,332,98,430
-"Burt Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,182,6,188
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,8,3,11
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,133,14,147
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,131,13,144
-"Munising Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,591,146,737
-"Onota Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,132,14,146
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,279,77,356
-"City of Munising, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,343,86,429
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,326,98,424
-"Burt Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,163,5,168
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,7,3,10
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,128,15,143
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,142,11,153
-"Munising Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,570,140,710
-"Onota Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,135,14,149
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,275,73,348
-"City of Munising, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,18,5,23
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,11,3,14
-"Burt Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,15,0,15
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,0,0,0
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,5,1,6
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,3,0,3
-"Munising Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,31,1,32
-"Onota Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,9,2,11
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,21,4,25
-"City of Munising, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,21,3,24
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,10,1,11
-"Burt Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,6,0,6
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,0,0,0
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,0,1,1
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,5,0,5
-"Munising Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,27,2,29
-"Onota Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,6,1,7
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,19,2,21
-"City of Munising, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,12,1,13
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,9,0,9
-"Burt Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,2,0,2
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,0,0,0
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,1,1,2
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,4,0,4
-"Munising Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,20,3,23
-"Onota Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,5,0,5
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,10,0,10
-"City of Munising, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,16,3,19
-"AuTrain Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,7,1,8
-"Burt Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,3,0,3
-"Grand Island Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,1,0,1
-"Limestone Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,0,4
-"Mathias Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,1,5
-"Munising Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,11,1,12
-"Onota Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,0,4
-"Rock River Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,10,3,13
-"City of Munising, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,337,72,409
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,171,25,196
-"Burt Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,108,1,109
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,12,0,12
-"Limestone Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,81,6,87
-"Mathias Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,104,3,107
-"Munising Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,275,38,313
-"Onota Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,126,7,133
-"Rock River Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,245,29,274
-"City of Munising, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,347,67,414
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,184,27,211
-"Burt Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,112,1,113
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,12,0,12
-"Limestone Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,88,6,94
-"Mathias Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,105,3,108
-"Munising Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,285,36,321
-"Onota Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,124,8,132
-"Rock River Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,234,30,264
-"City of Munising, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,352,88,440
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,327,100,427
-"Burt Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,181,5,186
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,7,3,10
-"Limestone Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,126,14,140
-"Mathias Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,130,12,142
-"Munising Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,582,144,726
-"Onota Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,131,14,145
-"Rock River Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,266,71,337
-"City of Munising, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,337,91,428
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,321,96,417
-"Burt Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,168,6,174
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,3,3,6
-"Limestone Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,129,14,143
-"Mathias Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,131,11,142
-"Munising Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,562,139,701
-"Onota Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,128,15,143
-"Rock River Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,267,75,342
-"City of Munising, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,17,5,22
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,12,2,14
-"Burt Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,9,0,9
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,1,0,1
-"Limestone Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,5,2,7
-"Mathias Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,4,0,4
-"Munising Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,17,1,18
-"Onota Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,9,2,11
-"Rock River Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,11,1,12
-"City of Munising, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,11,1,12
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,7,0,7
-"Burt Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,5,0,5
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,1,0,1
-"Limestone Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,3,1,4
-"Mathias Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,4,1,5
-"Munising Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,20,0,20
-"Onota Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,2,0,2
-"Rock River Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,10,1,11
-"City of Munising, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,15,1,16
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,4,1,5
-"Burt Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,4,0,4
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,1,0,1
-"Limestone Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,2,0,2
-"Mathias Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,2,1,3
-"Munising Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,7,0,7
-"Onota Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,1,0,1
-"Rock River Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,6,4,10
-"City of Munising, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,30,1,31
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,15,4,19
-"Burt Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,7,2,9
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,1,0,1
-"Limestone Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,8,1,9
-"Mathias Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,12,1,13
-"Munising Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,39,4,43
-"Onota Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,11,0,11
-"Rock River Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,27,4,31
-"City of Munising, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,13,2,15
-"AuTrain Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,8,2,10
-"Burt Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,2,0,2
-"Grand Island Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,1,0,1
-"Limestone Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,1,0,1
-"Mathias Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,5,0,5
-"Munising Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,14,1,15
-"Onota Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,3,0,3
-"Rock River Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,11,2,13
-"City of Munising, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,629,131,760
-"AuTrain Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,381,91,472
-"Burt Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,223,7,230
-"Grand Island Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,18,2,20
-"Limestone Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,128,12,140
-"Mathias Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,179,8,187
-"Munising Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,705,131,836
-"Onota Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,164,18,182
-"Rock River Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,403,68,471
-"City of Munising, Precinct 1",County Sheriff,,REP,Todd Brock,699,141,840
-"AuTrain Township, Precinct 1",County Sheriff,,REP,Todd Brock,483,110,593
-"Burt Township, Precinct 1",County Sheriff,,REP,Todd Brock,267,5,272
-"Grand Island Township, Precinct 1",County Sheriff,,REP,Todd Brock,19,4,23
-"Limestone Township, Precinct 1",County Sheriff,,REP,Todd Brock,179,18,197
-"Mathias Township, Precinct 1",County Sheriff,,REP,Todd Brock,198,14,212
-"Munising Township, Precinct 1",County Sheriff,,REP,Todd Brock,870,174,"1,044"
-"Onota Township, Precinct 1",County Sheriff,,REP,Todd Brock,182,18,200
-"Rock River Township, Precinct 1",County Sheriff,,REP,Todd Brock,435,83,518
-"City of Munising, Precinct 1",County Sheriff,,,David LaMere,110,27,137
-"AuTrain Township, Precinct 1",County Sheriff,,,David LaMere,85,32,117
-"Burt Township, Precinct 1",County Sheriff,,,David LaMere,58,4,62
-"Grand Island Township, Precinct 1",County Sheriff,,,David LaMere,3,0,3
-"Limestone Township, Precinct 1",County Sheriff,,,David LaMere,45,3,48
-"Mathias Township, Precinct 1",County Sheriff,,,David LaMere,62,2,64
-"Munising Township, Precinct 1",County Sheriff,,,David LaMere,141,28,169
-"Onota Township, Precinct 1",County Sheriff,,,David LaMere,66,5,71
-"Rock River Township, Precinct 1",County Sheriff,,,David LaMere,157,37,194
-"City of Munising, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,625,135,760
-"AuTrain Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,380,94,474
-"Burt Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,224,8,232
-"Grand Island Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,21,3,24
-"Limestone Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,142,13,155
-"Mathias Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,195,9,204
-"Munising Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,688,136,824
-"Onota Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,171,18,189
-"Rock River Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,412,78,490
-"City of Munising, Precinct 1",County Treasurer,,DEM,Pam Johnson,631,121,752
-"AuTrain Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,365,77,442
-"Burt Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,212,4,216
-"Grand Island Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,21,3,24
-"Limestone Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,159,10,169
-"Mathias Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,190,8,198
-"Munising Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,660,127,787
-"Onota Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,209,20,229
-"Rock River Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,450,71,521
-"City of Munising, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,586,132,718
-"AuTrain Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,442,117,559
-"Burt Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,217,7,224
-"Grand Island Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,14,4,18
-"Limestone Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,156,17,173
-"Mathias Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,174,16,190
-"Munising Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,804,171,975
-"Onota Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,167,21,188
-"Rock River Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,396,93,489
-"City of Munising, Precinct 1",County Road Commissioner,,,Kris Uihlein,165,38,203
-"AuTrain Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,99,18,117
-"Burt Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,94,2,96
-"Grand Island Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,4,0,4
-"Limestone Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,53,3,56
-"Mathias Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,69,2,71
-"Munising Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,140,20,160
-"Onota Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,75,4,79
-"Rock River Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,136,18,154
+county,precinct,office,district,party,candidate,election_day,early_voting,votes
+Alger,"City of Munising, Precinct 1",Registered Voters,,,,,,1886
+Alger,"City of Munising, Precinct 1",Ballots Cast,,,,903,195,1098
+Alger,"AuTrain Township, Precinct 1",Registered Voters,,,,,,1108
+Alger,"AuTrain Township, Precinct 1",Ballots Cast,,,,630,149,779
+Alger,"Burt Township, Precinct 1",Registered Voters,,,,,,430
+Alger,"Burt Township, Precinct 1",Ballots Cast,,,,362,9,371
+Alger,"Grand Island Township, Precinct 1",Registered Voters,,,,,,29
+Alger,"Grand Island Township, Precinct 1",Ballots Cast,,,,22,4,26
+Alger,"Limestone Township, Precinct 1",Registered Voters,,,,,,398
+Alger,"Limestone Township, Precinct 1",Ballots Cast,,,,266,23,289
+Alger,"Mathias Township, Precinct 1",Registered Voters,,,,,,498
+Alger,"Mathias Township, Precinct 1",Ballots Cast,,,,300,20,320
+Alger,"Munising Township, Precinct 1",Registered Voters,,,,,,1799
+Alger,"Munising Township, Precinct 1",Ballots Cast,,,,1095,213,1308
+Alger,"Onota Township, Precinct 1",Registered Voters,,,,,,407
+Alger,"Onota Township, Precinct 1",Ballots Cast,,,,305,28,333
+Alger,"Rock River Township, Precinct 1",Registered Voters,,,,,,1148
+Alger,"Rock River Township, Precinct 1",Ballots Cast,,,,656,122,778
+Alger,"City of Munising, Precinct 1",Straight Party,,DEM,Democratic,195,41,236
+Alger,"AuTrain Township, Precinct 1",Straight Party,,DEM,Democratic,93,13,106
+Alger,"Burt Township, Precinct 1",Straight Party,,DEM,Democratic,41,0,41
+Alger,"Grand Island Township, Precinct 1",Straight Party,,DEM,Democratic,3,0,3
+Alger,"Limestone Township, Precinct 1",Straight Party,,DEM,Democratic,52,6,58
+Alger,"Mathias Township, Precinct 1",Straight Party,,DEM,Democratic,63,2,65
+Alger,"Munising Township, Precinct 1",Straight Party,,DEM,Democratic,142,14,156
+Alger,"Onota Township, Precinct 1",Straight Party,,DEM,Democratic,71,4,75
+Alger,"Rock River Township, Precinct 1",Straight Party,,DEM,Democratic,130,5,135
+Alger,"City of Munising, Precinct 1",Straight Party,,REP,Republican,218,60,278
+Alger,"AuTrain Township, Precinct 1",Straight Party,,REP,Republican,178,60,238
+Alger,"Burt Township, Precinct 1",Straight Party,,REP,Republican,88,2,90
+Alger,"Grand Island Township, Precinct 1",Straight Party,,REP,Republican,2,1,3
+Alger,"Limestone Township, Precinct 1",Straight Party,,REP,Republican,80,10,90
+Alger,"Mathias Township, Precinct 1",Straight Party,,REP,Republican,82,8,90
+Alger,"Munising Township, Precinct 1",Straight Party,,REP,Republican,319,83,402
+Alger,"Onota Township, Precinct 1",Straight Party,,REP,Republican,65,8,73
+Alger,"Rock River Township, Precinct 1",Straight Party,,REP,Republican,142,42,184
+Alger,"City of Munising, Precinct 1",Straight Party,,LIB,Libertarian,3,1,4
+Alger,"AuTrain Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Alger,"Burt Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
+Alger,"Grand Island Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,LIB,Libertarian,2,0,2
+Alger,"Mathias Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Alger,"Munising Township, Precinct 1",Straight Party,,LIB,Libertarian,3,0,3
+Alger,"Onota Township, Precinct 1",Straight Party,,LIB,Libertarian,1,0,1
+Alger,"Rock River Township, Precinct 1",Straight Party,,LIB,Libertarian,0,0,0
+Alger,"City of Munising, Precinct 1",Straight Party,,UST,U.S. Taxpayers,2,0,2
+Alger,"AuTrain Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,1,1
+Alger,"Burt Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Grand Island Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Munising Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Onota Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,UST,U.S. Taxpayers,0,0,0
+Alger,"City of Munising, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"AuTrain Township, Precinct 1",Straight Party,,GRN,Green,0,1,1
+Alger,"Burt Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"Grand Island Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,GRN,Green,1,0,1
+Alger,"Munising Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"Onota Township, Precinct 1",Straight Party,,GRN,Green,0,0,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,GRN,Green,2,0,2
+Alger,"City of Munising, Precinct 1",Straight Party,,WCP,Working Class,6,0,6
+Alger,"AuTrain Township, Precinct 1",Straight Party,,WCP,Working Class,3,1,4
+Alger,"Burt Township, Precinct 1",Straight Party,,WCP,Working Class,2,0,2
+Alger,"Grand Island Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
+Alger,"Munising Township, Precinct 1",Straight Party,,WCP,Working Class,4,0,4
+Alger,"Onota Township, Precinct 1",Straight Party,,WCP,Working Class,0,0,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,WCP,Working Class,1,0,1
+Alger,"City of Munising, Precinct 1",Straight Party,,NLP,Natural Law,4,1,5
+Alger,"AuTrain Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Burt Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Grand Island Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Limestone Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Mathias Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Munising Township, Precinct 1",Straight Party,,NLP,Natural Law,1,0,1
+Alger,"Onota Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"Rock River Township, Precinct 1",Straight Party,,NLP,Natural Law,0,0,0
+Alger,"City of Munising, Precinct 1",President,,DEM,Kamala D. Harris,423,87,510
+Alger,"AuTrain Township, Precinct 1",President,,DEM,Kamala D. Harris,229,39,268
+Alger,"Burt Township, Precinct 1",President,,DEM,Kamala D. Harris,139,2,141
+Alger,"Grand Island Township, Precinct 1",President,,DEM,Kamala D. Harris,13,1,14
+Alger,"Limestone Township, Precinct 1",President,,DEM,Kamala D. Harris,108,7,115
+Alger,"Mathias Township, Precinct 1",President,,DEM,Kamala D. Harris,129,5,134
+Alger,"Munising Township, Precinct 1",President,,DEM,Kamala D. Harris,348,47,395
+Alger,"Onota Township, Precinct 1",President,,DEM,Kamala D. Harris,151,12,163
+Alger,"Rock River Township, Precinct 1",President,,DEM,Kamala D. Harris,298,37,335
+Alger,"City of Munising, Precinct 1",President,,REP,Donald J. Trump,456,106,562
+Alger,"AuTrain Township, Precinct 1",President,,REP,Donald J. Trump,385,109,494
+Alger,"Burt Township, Precinct 1",President,,REP,Donald J. Trump,219,7,226
+Alger,"Grand Island Township, Precinct 1",President,,REP,Donald J. Trump,9,3,12
+Alger,"Limestone Township, Precinct 1",President,,REP,Donald J. Trump,153,16,169
+Alger,"Mathias Township, Precinct 1",President,,REP,Donald J. Trump,165,15,180
+Alger,"Munising Township, Precinct 1",President,,REP,Donald J. Trump,717,164,881
+Alger,"Onota Township, Precinct 1",President,,REP,Donald J. Trump,151,16,167
+Alger,"Rock River Township, Precinct 1",President,,REP,Donald J. Trump,342,83,425
+Alger,"City of Munising, Precinct 1",President,,LIB,Chase Oliver,8,0,8
+Alger,"AuTrain Township, Precinct 1",President,,LIB,Chase Oliver,2,0,2
+Alger,"Burt Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,LIB,Chase Oliver,0,0,0
+Alger,"Munising Township, Precinct 1",President,,LIB,Chase Oliver,7,1,8
+Alger,"Onota Township, Precinct 1",President,,LIB,Chase Oliver,1,0,1
+Alger,"Rock River Township, Precinct 1",President,,LIB,Chase Oliver,4,0,4
+Alger,"City of Munising, Precinct 1",President,,UST,Randall Terry,2,0,2
+Alger,"AuTrain Township, Precinct 1",President,,UST,Randall Terry,1,0,1
+Alger,"Burt Township, Precinct 1",President,,UST,Randall Terry,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,UST,Randall Terry,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,UST,Randall Terry,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,UST,Randall Terry,0,0,0
+Alger,"Munising Township, Precinct 1",President,,UST,Randall Terry,1,0,1
+Alger,"Onota Township, Precinct 1",President,,UST,Randall Terry,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,UST,Randall Terry,2,0,2
+Alger,"City of Munising, Precinct 1",President,,GRN,Jill Stein,1,0,1
+Alger,"AuTrain Township, Precinct 1",President,,GRN,Jill Stein,3,0,3
+Alger,"Burt Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,GRN,Jill Stein,1,0,1
+Alger,"Munising Township, Precinct 1",President,,GRN,Jill Stein,2,0,2
+Alger,"Onota Township, Precinct 1",President,,GRN,Jill Stein,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,GRN,Jill Stein,1,1,2
+Alger,"City of Munising, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,8,1,9
+Alger,"AuTrain Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,3,0,3
+Alger,"Burt Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,1
+Alger,"Mathias Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,4,0,4
+Alger,"Munising Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,8,0,8
+Alger,"Onota Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,1,0,1
+Alger,"Rock River Township, Precinct 1",President,,NLP,Robert F. Kennedy Jr.,2,0,2
+Alger,"City of Munising, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Joseph Kishore,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Joseph Kishore,1,0,1
+Alger,"City of Munising, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Cornel West,0,0,0
+Alger,"City of Munising, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Jay J. Bowman,0,0,0
+Alger,"City of Munising, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Claudia De la Cruz,0,0,0
+Alger,"City of Munising, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Cherunda Lynn Fox,0,0,0
+Alger,"City of Munising, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"AuTrain Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Burt Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Grand Island Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Limestone Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Mathias Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Munising Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Onota Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"Rock River Township, Precinct 1",President,,,Peter Sonski,0,0,0
+Alger,"City of Munising, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,427,83,510
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,232,37,269
+Alger,"Burt Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,136,2,138
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,12,0,12
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,99,7,106
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,128,5,133
+Alger,"Munising Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,349,47,396
+Alger,"Onota Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,150,11,161
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,DEM,Elissa Slotkin,285,37,322
+Alger,"City of Munising, Precinct 1",U.S. Senate,,REP,Mike Rogers,414,104,518
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,373,106,479
+Alger,"Burt Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,207,7,214
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,9,4,13
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,153,16,169
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,159,15,174
+Alger,"Munising Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,687,158,845
+Alger,"Onota Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,148,16,164
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,REP,Mike Rogers,343,83,426
+Alger,"City of Munising, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,12,2,14
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,3,4
+Alger,"Burt Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,0,3
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,2,0,2
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,1,0,1
+Alger,"Munising Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,7,1,8
+Alger,"Onota Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,3,1,4
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,LIB,Joseph Solis-Mullen,8,0,8
+Alger,"City of Munising, Precinct 1",U.S. Senate,,UST,Dave Stein,7,1,8
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,4
+Alger,"Burt Township, Precinct 1",U.S. Senate,,UST,Dave Stein,1,0,1
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,UST,Dave Stein,2,0,2
+Alger,"Munising Township, Precinct 1",U.S. Senate,,UST,Dave Stein,7,1,8
+Alger,"Onota Township, Precinct 1",U.S. Senate,,UST,Dave Stein,0,0,0
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,UST,Dave Stein,4,0,4
+Alger,"City of Munising, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,4,2,6
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
+Alger,"Burt Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,2,0,2
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
+Alger,"Munising Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,1,4
+Alger,"Onota Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,1,0,1
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,GRN,Douglas P. Marsh,3,0,3
+Alger,"City of Munising, Precinct 1",U.S. Senate,,NLP,Doug Dern,2,0,2
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
+Alger,"Burt Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
+Alger,"Munising Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,5,0,5
+Alger,"Onota Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,0,1
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,NLP,Doug Dern,1,1,2
+Alger,"City of Munising, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Burt Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Munising Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Onota Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,,James Chapman,0,0,0
+Alger,"City of Munising, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Burt Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Munising Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Onota Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,,Marcus A. Irvine,0,0,0
+Alger,"City of Munising, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"AuTrain Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Burt Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Grand Island Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Mathias Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Munising Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Onota Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"Rock River Township, Precinct 1",U.S. Senate,,,Valerie Lee Willis,0,0,0
+Alger,"City of Munising, Precinct 1",U.S. House,1,DEM,Callie Barr,416,83,499
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,DEM,Callie Barr,214,39,253
+Alger,"Burt Township, Precinct 1",U.S. House,1,DEM,Callie Barr,145,2,147
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,DEM,Callie Barr,13,1,14
+Alger,"Limestone Township, Precinct 1",U.S. House,1,DEM,Callie Barr,103,8,111
+Alger,"Mathias Township, Precinct 1",U.S. House,1,DEM,Callie Barr,128,5,133
+Alger,"Munising Township, Precinct 1",U.S. House,1,DEM,Callie Barr,351,46,397
+Alger,"Onota Township, Precinct 1",U.S. House,1,DEM,Callie Barr,154,11,165
+Alger,"Rock River Township, Precinct 1",U.S. House,1,DEM,Callie Barr,289,38,327
+Alger,"City of Munising, Precinct 1",U.S. House,1,REP,Jack Bergman,432,106,538
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,REP,Jack Bergman,396,106,502
+Alger,"Burt Township, Precinct 1",U.S. House,1,REP,Jack Bergman,201,7,208
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,REP,Jack Bergman,8,3,11
+Alger,"Limestone Township, Precinct 1",U.S. House,1,REP,Jack Bergman,150,15,165
+Alger,"Mathias Township, Precinct 1",U.S. House,1,REP,Jack Bergman,160,15,175
+Alger,"Munising Township, Precinct 1",U.S. House,1,REP,Jack Bergman,682,163,845
+Alger,"Onota Township, Precinct 1",U.S. House,1,REP,Jack Bergman,143,16,159
+Alger,"Rock River Township, Precinct 1",U.S. House,1,REP,Jack Bergman,333,82,415
+Alger,"City of Munising, Precinct 1",U.S. House,1,LIB,Andrew Gale,8,3,11
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,1,1,2
+Alger,"Burt Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,0,0,0
+Alger,"Limestone Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,0,3
+Alger,"Mathias Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,2,0,2
+Alger,"Munising Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,10,1,11
+Alger,"Onota Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,3,1,4
+Alger,"Rock River Township, Precinct 1",U.S. House,1,LIB,Andrew Gale,4,1,5
+Alger,"City of Munising, Precinct 1",U.S. House,1,WCP,Liz Hakola,16,0,16
+Alger,"AuTrain Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,7,1,8
+Alger,"Burt Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
+Alger,"Grand Island Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1,0,1
+Alger,"Limestone Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,3,0,3
+Alger,"Mathias Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,6,0,6
+Alger,"Munising Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,25,1,26
+Alger,"Onota Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,1,0,1
+Alger,"Rock River Township, Precinct 1",U.S. House,1,WCP,Liz Hakola,17,1,18
+Alger,"City of Munising, Precinct 1",State House,109,DEM,Jenn Hill,416,84,500
+Alger,"AuTrain Township, Precinct 1",State House,109,DEM,Jenn Hill,227,38,265
+Alger,"Burt Township, Precinct 1",State House,109,DEM,Jenn Hill,143,2,145
+Alger,"Grand Island Township, Precinct 1",State House,109,DEM,Jenn Hill,12,1,13
+Alger,"Limestone Township, Precinct 1",State House,109,DEM,Jenn Hill,100,6,106
+Alger,"Mathias Township, Precinct 1",State House,109,DEM,Jenn Hill,123,5,128
+Alger,"Munising Township, Precinct 1",State House,109,DEM,Jenn Hill,370,50,420
+Alger,"Onota Township, Precinct 1",State House,109,DEM,Jenn Hill,147,12,159
+Alger,"Rock River Township, Precinct 1",State House,109,DEM,Jenn Hill,287,38,325
+Alger,"City of Munising, Precinct 1",State House,109,REP,Karl Bohnak,465,107,572
+Alger,"AuTrain Township, Precinct 1",State House,109,REP,Karl Bohnak,394,108,502
+Alger,"Burt Township, Precinct 1",State House,109,REP,Karl Bohnak,212,7,219
+Alger,"Grand Island Township, Precinct 1",State House,109,REP,Karl Bohnak,10,3,13
+Alger,"Limestone Township, Precinct 1",State House,109,REP,Karl Bohnak,162,17,179
+Alger,"Mathias Township, Precinct 1",State House,109,REP,Karl Bohnak,174,14,188
+Alger,"Munising Township, Precinct 1",State House,109,REP,Karl Bohnak,705,160,865
+Alger,"Onota Township, Precinct 1",State House,109,REP,Karl Bohnak,157,16,173
+Alger,"Rock River Township, Precinct 1",State House,109,REP,Karl Bohnak,364,84,448
+Alger,"City of Munising, Precinct 1",State Board of Education,,DEM,Theodore Jones,360,77,437
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,196,30,226
+Alger,"Burt Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,110,2,112
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,12,0,12
+Alger,"Limestone Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,92,7,99
+Alger,"Mathias Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,106,5,111
+Alger,"Munising Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,293,40,333
+Alger,"Onota Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,131,10,141
+Alger,"Rock River Township, Precinct 1",State Board of Education,,DEM,Theodore Jones,258,33,291
+Alger,"City of Munising, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,345,66,411
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,192,31,223
+Alger,"Burt Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,111,2,113
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,12,0,12
+Alger,"Limestone Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,86,7,93
+Alger,"Mathias Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,103,3,106
+Alger,"Munising Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,271,36,307
+Alger,"Onota Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,124,9,133
+Alger,"Rock River Township, Precinct 1",State Board of Education,,DEM,Adam Frederick Zemke,243,29,272
+Alger,"City of Munising, Precinct 1",State Board of Education,,REP,Tom McMillin,345,93,438
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,REP,Tom McMillin,334,101,435
+Alger,"Burt Township, Precinct 1",State Board of Education,,REP,Tom McMillin,188,7,195
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,REP,Tom McMillin,7,3,10
+Alger,"Limestone Township, Precinct 1",State Board of Education,,REP,Tom McMillin,129,15,144
+Alger,"Mathias Township, Precinct 1",State Board of Education,,REP,Tom McMillin,139,11,150
+Alger,"Munising Township, Precinct 1",State Board of Education,,REP,Tom McMillin,153,746,899
+Alger,"Onota Township, Precinct 1",State Board of Education,,REP,Tom McMillin,16,148,164
+Alger,"Rock River Township, Precinct 1",State Board of Education,,REP,Tom McMillin,79,368,447
+Alger,"City of Munising, Precinct 1",State Board of Education,,REP,Nikki Snyder,347,95,442
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,337,100,437
+Alger,"Burt Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,184,7,191
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,6,3,9
+Alger,"Limestone Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,128,14,142
+Alger,"Mathias Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,139,13,152
+Alger,"Munising Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,147,730,877
+Alger,"Onota Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,16,150,166
+Alger,"Rock River Township, Precinct 1",State Board of Education,,REP,Nikki Snyder,75,367,442
+Alger,"City of Munising, Precinct 1",State Board of Education,,LIB,Scotty Boman,23,6,29
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,9,3,12
+Alger,"Burt Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,16,0,16
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,2,0,2
+Alger,"Limestone Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,6,1,7
+Alger,"Mathias Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,7,0,7
+Alger,"Munising Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,2,42,44
+Alger,"Onota Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,1,19,20
+Alger,"Rock River Township, Precinct 1",State Board of Education,,LIB,Scotty Boman,4,25,29
+Alger,"City of Munising, Precinct 1",State Board of Education,,UST,Ted Gerrard,10,0,10
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,10,0,10
+Alger,"Burt Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,0,4
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,0,0
+Alger,"Limestone Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,1,5
+Alger,"Mathias Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,4,2,6
+Alger,"Munising Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,20,20
+Alger,"Onota Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,0,0
+Alger,"Rock River Township, Precinct 1",State Board of Education,,UST,Ted Gerrard,0,6,6
+Alger,"City of Munising, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,19,2,21
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,14,1,15
+Alger,"Burt Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,6,0,6
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,0,0
+Alger,"Limestone Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,1,1,2
+Alger,"Mathias Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,6,0,6
+Alger,"Munising Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,2,24,26
+Alger,"Onota Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,3,3
+Alger,"Rock River Township, Precinct 1",State Board of Education,,UST,Christine C. Schwartz,0,12,12
+Alger,"City of Munising, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,44,7,51
+Alger,"AuTrain Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,17,4,21
+Alger,"Burt Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,13,0,13
+Alger,"Grand Island Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,1,0,1
+Alger,"Limestone Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,11,0,11
+Alger,"Mathias Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,20,1,21
+Alger,"Munising Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,4,49,53
+Alger,"Onota Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,0,11,11
+Alger,"Rock River Township, Precinct 1",State Board of Education,,WCP,Mary Anne Hering,1,31,32
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,373,73,446
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,196,33,229
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,126,2,128
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,12,0,12
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,89,8,97
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,114,3,117
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,294,41,335
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,132,9,141
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,DEM,Denise Ilitch,268,34,302
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,363,71,434
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,181,28,209
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,116,2,118
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,12,0,12
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,86,7,93
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,108,4,112
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,298,38,336
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,127,8,135
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,DEM,Shauna Ryder Diggs,250,30,280
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,374,95,469
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,360,102,462
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,186,7,193
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,7,3,10
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,132,14,146
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,147,13,160
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,626,150,776
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,140,14,154
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,REP,Carl Meyers,286,78,364
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,309,85,394
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,297,92,389
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,158,7,165
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,7,3,10
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,124,14,138
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,121,12,133
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,514,136,650
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,122,12,134
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,REP,Sevag Vartanian,245,69,314
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,30,5,35
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,18,3,21
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,16,0,16
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,2,0,2
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,9,1,10
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,7,1,8
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,42,1,43
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,13,2,15
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,LIB,Andrew Chadderdon,19,4,23
+Alger,"City of Munising, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,22,2,24
+Alger,"AuTrain Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,17,4,21
+Alger,"Burt Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,8,0,8
+Alger,"Grand Island Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,0,0,0
+Alger,"Limestone Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,4,1,5
+Alger,"Mathias Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,10,0,10
+Alger,"Munising Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,36,3,39
+Alger,"Onota Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,4,1,5
+Alger,"Rock River Township, Precinct 1",Regent of the University of Michigan,,UST,Donna M. Oetman,23,3,26
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,382,77,459
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,191,35,226
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,117,2,119
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,12,0,12
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,92,6,98
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,119,3,122
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,303,40,343
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,132,8,140
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,DEM,Rebecca Bahar-Cook,260,33,293
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,339,66,405
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,178,28,206
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,110,2,112
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,12,0,12
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,82,6,88
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,104,3,107
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,276,37,313
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,121,7,128
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,DEM,Thomas Stallworth III,238,26,264
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,349,92,441
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,332,98,430
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,182,6,188
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,8,3,11
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,133,14,147
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,131,13,144
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,591,146,737
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,132,14,146
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,REP,Mike Balow,279,77,356
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,343,86,429
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,326,98,424
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,163,5,168
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,7,3,10
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,128,15,143
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,142,11,153
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,570,140,710
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,135,14,149
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,REP,Julie Maday,275,73,348
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,18,5,23
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,11,3,14
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,15,0,15
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,0,0,0
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,5,1,6
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,3,0,3
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,31,1,32
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,9,2,11
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,LIB,Grant T. Baker,21,4,25
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,21,3,24
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,10,1,11
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,6,0,6
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,0,0,0
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,0,1,1
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,5,0,5
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,27,2,29
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,6,1,7
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,UST,Janet M. Sanger,19,2,21
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,12,1,13
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,9,0,9
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,2,0,2
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,0,0,0
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,1,1,2
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,4,0,4
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,20,3,23
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,5,0,5
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,UST,John Paul Sanger,10,0,10
+Alger,"City of Munising, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,16,3,19
+Alger,"AuTrain Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,7,1,8
+Alger,"Burt Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,3,0,3
+Alger,"Grand Island Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,1,0,1
+Alger,"Limestone Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,0,4
+Alger,"Mathias Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,1,5
+Alger,"Munising Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,11,1,12
+Alger,"Onota Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,4,0,4
+Alger,"Rock River Township, Precinct 1",Trustee of Michigan State University,,GRN,John Anthony La Pietra,10,3,13
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,337,72,409
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,171,25,196
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,108,1,109
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,12,0,12
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,81,6,87
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,104,3,107
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,275,38,313
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,126,7,133
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,DEM,Rasha Demashkieh,245,29,274
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,347,67,414
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,184,27,211
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,112,1,113
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,12,0,12
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,88,6,94
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,105,3,108
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,285,36,321
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,124,8,132
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,DEM,Mark T. Gaffney,234,30,264
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,352,88,440
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,327,100,427
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,181,5,186
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,7,3,10
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,126,14,140
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,130,12,142
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,582,144,726
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,131,14,145
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,REP,Michael Busuito,266,71,337
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,337,91,428
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,321,96,417
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,168,6,174
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,3,3,6
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,129,14,143
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,131,11,142
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,562,139,701
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,128,15,143
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,REP,Sunny Reddy,267,75,342
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,17,5,22
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,12,2,14
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,9,0,9
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,1,0,1
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,5,2,7
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,4,0,4
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,17,1,18
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,9,2,11
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,LIB,Farid Ishac,11,1,12
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,11,1,12
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,7,0,7
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,5,0,5
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,1,0,1
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,3,1,4
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,4,1,5
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,20,0,20
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,2,0,2
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,UST,William Mohr II,10,1,11
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,15,1,16
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,4,1,5
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,4,0,4
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,1,0,1
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,2,0,2
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,2,1,3
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,7,0,7
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,1,0,1
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,GRN,Sami Makhoul,6,4,10
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,30,1,31
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,15,4,19
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,7,2,9
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,1,0,1
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,8,1,9
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,12,1,13
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,39,4,43
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,11,0,11
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,WCP,Suzanne Roehrig,27,4,31
+Alger,"City of Munising, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,13,2,15
+Alger,"AuTrain Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,8,2,10
+Alger,"Burt Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,2,0,2
+Alger,"Grand Island Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,1,0,1
+Alger,"Limestone Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,1,0,1
+Alger,"Mathias Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,5,0,5
+Alger,"Munising Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,14,1,15
+Alger,"Onota Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,3,0,3
+Alger,"Rock River Township, Precinct 1",Governor of Wayne State University,,NLP,Kathleen Oakford,11,2,13
+Alger,"City of Munising, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,629,131,760
+Alger,"AuTrain Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,381,91,472
+Alger,"Burt Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,223,7,230
+Alger,"Grand Island Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,18,2,20
+Alger,"Limestone Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,128,12,140
+Alger,"Mathias Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,179,8,187
+Alger,"Munising Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,705,131,836
+Alger,"Onota Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,164,18,182
+Alger,"Rock River Township, Precinct 1",County Prosecuting Attorney,,,Robert T. Steinhoff,403,68,471
+Alger,"City of Munising, Precinct 1",County Sheriff,,REP,Todd Brock,699,141,840
+Alger,"AuTrain Township, Precinct 1",County Sheriff,,REP,Todd Brock,483,110,593
+Alger,"Burt Township, Precinct 1",County Sheriff,,REP,Todd Brock,267,5,272
+Alger,"Grand Island Township, Precinct 1",County Sheriff,,REP,Todd Brock,19,4,23
+Alger,"Limestone Township, Precinct 1",County Sheriff,,REP,Todd Brock,179,18,197
+Alger,"Mathias Township, Precinct 1",County Sheriff,,REP,Todd Brock,198,14,212
+Alger,"Munising Township, Precinct 1",County Sheriff,,REP,Todd Brock,870,174,"1,044"
+Alger,"Onota Township, Precinct 1",County Sheriff,,REP,Todd Brock,182,18,200
+Alger,"Rock River Township, Precinct 1",County Sheriff,,REP,Todd Brock,435,83,518
+Alger,"City of Munising, Precinct 1",County Sheriff,,,David LaMere,110,27,137
+Alger,"AuTrain Township, Precinct 1",County Sheriff,,,David LaMere,85,32,117
+Alger,"Burt Township, Precinct 1",County Sheriff,,,David LaMere,58,4,62
+Alger,"Grand Island Township, Precinct 1",County Sheriff,,,David LaMere,3,0,3
+Alger,"Limestone Township, Precinct 1",County Sheriff,,,David LaMere,45,3,48
+Alger,"Mathias Township, Precinct 1",County Sheriff,,,David LaMere,62,2,64
+Alger,"Munising Township, Precinct 1",County Sheriff,,,David LaMere,141,28,169
+Alger,"Onota Township, Precinct 1",County Sheriff,,,David LaMere,66,5,71
+Alger,"Rock River Township, Precinct 1",County Sheriff,,,David LaMere,157,37,194
+Alger,"City of Munising, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,625,135,760
+Alger,"AuTrain Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,380,94,474
+Alger,"Burt Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,224,8,232
+Alger,"Grand Island Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,21,3,24
+Alger,"Limestone Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,142,13,155
+Alger,"Mathias Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,195,9,204
+Alger,"Munising Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,688,136,824
+Alger,"Onota Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,171,18,189
+Alger,"Rock River Township, Precinct 1",County Clerk and Register of Deeds,,,Joel VandeVelde,412,78,490
+Alger,"City of Munising, Precinct 1",County Treasurer,,DEM,Pam Johnson,631,121,752
+Alger,"AuTrain Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,365,77,442
+Alger,"Burt Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,212,4,216
+Alger,"Grand Island Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,21,3,24
+Alger,"Limestone Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,159,10,169
+Alger,"Mathias Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,190,8,198
+Alger,"Munising Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,660,127,787
+Alger,"Onota Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,209,20,229
+Alger,"Rock River Township, Precinct 1",County Treasurer,,DEM,Pam Johnson,450,71,521
+Alger,"City of Munising, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,586,132,718
+Alger,"AuTrain Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,442,117,559
+Alger,"Burt Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,217,7,224
+Alger,"Grand Island Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,14,4,18
+Alger,"Limestone Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,156,17,173
+Alger,"Mathias Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,174,16,190
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,804,171,975
+Alger,"Onota Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,167,21,188
+Alger,"Rock River Township, Precinct 1",County Road Commissioner,,REP,Scott LaCombe,396,93,489
+Alger,"City of Munising, Precinct 1",County Road Commissioner,,,Kris Uihlein,165,38,203
+Alger,"AuTrain Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,99,18,117
+Alger,"Burt Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,94,2,96
+Alger,"Grand Island Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,4,0,4
+Alger,"Limestone Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,53,3,56
+Alger,"Mathias Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,69,2,71
+Alger,"Munising Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,140,20,160
+Alger,"Onota Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,75,4,79
+Alger,"Rock River Township, Precinct 1",County Road Commissioner,,,Kris Uihlein,136,18,154

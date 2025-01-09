@@ -1,14 +1,14 @@
 ﻿ccounty,precinct,office,district,candidate,party,votes
 Cass,"Calvin Township, Precinct 1",Registered Voters,,,,1498
 Cass,"Calvin Township, Precinct 1",Ballots Cast,,,,767
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,205
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,287
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Calvin Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Calvin Township, Precinct 1",Straight Party,,Democratic Party,DEM,205
+Cass,"Calvin Township, Precinct 1",Straight Party,,Republican Party,REP,287
+Cass,"Calvin Township, Precinct 1",Straight Party,,Libertarian Party,LIB,0
+Cass,"Calvin Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,"Calvin Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Calvin Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Cass,"Calvin Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Cass,"Calvin Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Calvin Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,321
 Cass,"Calvin Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,422
 Cass,"Calvin Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,5
@@ -115,14 +115,14 @@ Cass,"Calvin Township, Precinct 1",Cassopolis Public Schools Board Member,,Joshu
 Cass,"Calvin Township, Precinct 1",Cassopolis Public Schools Board Member,,Unresolved Write-In,,38
 Cass,"Howard Township, Precinct 1",Registered Voters,,,,2238
 Cass,"Howard Township, Precinct 1",Ballots Cast,,,,652
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,87
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,320
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Howard Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Howard Township, Precinct 1",Straight Party,,Democratic Party,DEM,87
+Cass,"Howard Township, Precinct 1",Straight Party,,Republican Party,REP,320
+Cass,"Howard Township, Precinct 1",Straight Party,,Libertarian Party,LIB,0
+Cass,"Howard Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,"Howard Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Howard Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Cass,"Howard Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Cass,"Howard Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Howard Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,145
 Cass,"Howard Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,496
 Cass,"Howard Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -240,14 +240,14 @@ Cass,"Howard Township, Precinct 1",Niles Community Schools Board Member Partial 
 Cass,"Howard Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Unresolved Write-In,,10
 Cass,"Howard Township, Precinct 2",Registered Voters,,,,2350
 Cass,"Howard Township, Precinct 2",Ballots Cast,,,,648
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Democratic Party,DEM,112
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Republican Party,REP,313
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Working Class Party,WCP,3
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Howard Township, Precinct 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Howard Township, Precinct 2",Straight Party,,Democratic Party,DEM,112
+Cass,"Howard Township, Precinct 2",Straight Party,,Republican Party,REP,313
+Cass,"Howard Township, Precinct 2",Straight Party,,Libertarian Party,LIB,0
+Cass,"Howard Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Howard Township, Precinct 2",Straight Party,,Green Party,GRN,0
+Cass,"Howard Township, Precinct 2",Straight Party,,Working Class Party,WCP,3
+Cass,"Howard Township, Precinct 2",Straight Party,,Natural Law Party,NLP,1
+Cass,"Howard Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
 Cass,"Howard Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,172
 Cass,"Howard Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,464
 Cass,"Howard Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -368,14 +368,14 @@ Cass,"Howard Township, Precinct 2",Niles Community Schools Board Member Partial 
 Cass,"Howard Township, Precinct 2",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Unresolved Write-In,,18
 Cass,"Howard Township, Precincts 1 & 2",Registered Voters,,,,4588
 Cass,"Howard Township, Precincts 1 & 2",Ballots Cast,,,,1270
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Democratic Party,DEM,348
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Republican Party,REP,451
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Green Party,GRN,2
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Working Class Party,WCP,5
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Howard Township, Precincts 1 & 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Democratic Party,DEM,348
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Republican Party,REP,451
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Libertarian Party,LIB,0
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Green Party,GRN,2
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Working Class Party,WCP,5
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Natural Law Party,NLP,1
+Cass,"Howard Township, Precincts 1 & 2",Straight Party,,Unresolved Write-In,,0
 Cass,"Howard Township, Precincts 1 & 2",President,,Kamala D. Harris/Tim Walz,DEM,577
 Cass,"Howard Township, Precincts 1 & 2",President,,Donald J. Trump/JD Vance,REP,671
 Cass,"Howard Township, Precincts 1 & 2",President,,Chase Oliver/Mike ter Maat,LIB,1
@@ -502,14 +502,14 @@ Cass,"Howard Township, Precincts 1 & 2",Niles Community Schools Board Member Par
 Cass,"Howard Township, Precincts 1 & 2",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Unresolved Write-In,,9
 Cass,"Jefferson Township, Precinct 1",Registered Voters,,,,1925
 Cass,"Jefferson Township, Precinct 1",Ballots Cast,,,,595
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,79
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,250
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,4
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,1
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Jefferson Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Democratic Party,DEM,79
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Republican Party,REP,250
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Cass,"Jefferson Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Jefferson Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Jefferson Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,154
 Cass,"Jefferson Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,430
 Cass,"Jefferson Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -625,14 +625,14 @@ Cass,"Jefferson Township, Precinct 1",Jefferson Township Roads Millage Renewal P
 Cass,"Jefferson Township, Precinct 1",Jefferson Township Roads Millage Renewal Proposal,,Unresolved Write-In,,0
 Cass,Jefferson Township,Registered Voters,,,,1925
 Cass,Jefferson Township,Ballots Cast,,,,364
-Cass,Jefferson Township,Straight Party Ticket,,Democratic Party,DEM,107
-Cass,Jefferson Township,Straight Party Ticket,,Republican Party,REP,102
-Cass,Jefferson Township,Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,Jefferson Township,Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,Jefferson Township,Straight Party Ticket,,Green Party,GRN,0
-Cass,Jefferson Township,Straight Party Ticket,,Working Class Party,WCP,0
-Cass,Jefferson Township,Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,Jefferson Township,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,Jefferson Township,Straight Party,,Democratic Party,DEM,107
+Cass,Jefferson Township,Straight Party,,Republican Party,REP,102
+Cass,Jefferson Township,Straight Party,,Libertarian Party,LIB,1
+Cass,Jefferson Township,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,Jefferson Township,Straight Party,,Green Party,GRN,0
+Cass,Jefferson Township,Straight Party,,Working Class Party,WCP,0
+Cass,Jefferson Township,Straight Party,,Natural Law Party,NLP,0
+Cass,Jefferson Township,Straight Party,,Unresolved Write-In,,0
 Cass,Jefferson Township,President,,Kamala D. Harris/Tim Walz,DEM,198
 Cass,Jefferson Township,President,,Donald J. Trump/JD Vance,REP,159
 Cass,Jefferson Township,President,,Chase Oliver/Mike ter Maat,LIB,1
@@ -748,14 +748,14 @@ Cass,Jefferson Township,Jefferson Township Roads Millage Renewal Proposal,,No,,1
 Cass,Jefferson Township,Jefferson Township Roads Millage Renewal Proposal,,Unresolved Write-In,,0
 Cass,"LaGrange Township, Precinct 1",Registered Voters,,,,2413
 Cass,"LaGrange Township, Precinct 1",Ballots Cast,,,,557
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,137
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,182
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,5
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,1
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,7
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"LaGrange Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Democratic Party,DEM,137
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Republican Party,REP,182
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Libertarian Party,LIB,5
+Cass,"LaGrange Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Working Class Party,WCP,7
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"LaGrange Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"LaGrange Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,216
 Cass,"LaGrange Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,320
 Cass,"LaGrange Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -880,14 +880,14 @@ Cass,"LaGrange Township, Precinct 1",Dowagiac Union Schools Board Member Partial
 Cass,"LaGrange Township, Precinct 1",Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,2
 Cass,LaGrange Township,Registered Voters,,,,2413
 Cass,LaGrange Township,Ballots Cast,,,,476
-Cass,LaGrange Township,Straight Party Ticket,,Democratic Party,DEM,163
-Cass,LaGrange Township,Straight Party Ticket,,Republican Party,REP,100
-Cass,LaGrange Township,Straight Party Ticket,,Libertarian Party,LIB,2
-Cass,LaGrange Township,Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,LaGrange Township,Straight Party Ticket,,Green Party,GRN,0
-Cass,LaGrange Township,Straight Party Ticket,,Working Class Party,WCP,2
-Cass,LaGrange Township,Straight Party Ticket,,Natural Law Party,NLP,2
-Cass,LaGrange Township,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,LaGrange Township,Straight Party,,Democratic Party,DEM,163
+Cass,LaGrange Township,Straight Party,,Republican Party,REP,100
+Cass,LaGrange Township,Straight Party,,Libertarian Party,LIB,2
+Cass,LaGrange Township,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,LaGrange Township,Straight Party,,Green Party,GRN,0
+Cass,LaGrange Township,Straight Party,,Working Class Party,WCP,2
+Cass,LaGrange Township,Straight Party,,Natural Law Party,NLP,2
+Cass,LaGrange Township,Straight Party,,Unresolved Write-In,,0
 Cass,LaGrange Township,President,,Kamala D. Harris/Tim Walz,DEM,304
 Cass,LaGrange Township,President,,Donald J. Trump/JD Vance,REP,157
 Cass,LaGrange Township,President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -1012,14 +1012,14 @@ Cass,LaGrange Township,Dowagiac Union Schools Board Member Partial Term Ending 1
 Cass,LaGrange Township,Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,0
 Cass,"Marcellus Township, Precinct 1",Registered Voters,,,,1775
 Cass,"Marcellus Township, Precinct 1",Ballots Cast,,,,1183
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,236
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,441
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,4
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,2
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,4
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Marcellus Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Democratic Party,DEM,236
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Republican Party,REP,441
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Cass,"Marcellus Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Marcellus Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Marcellus Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,429
 Cass,"Marcellus Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,726
 Cass,"Marcellus Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -1144,14 +1144,14 @@ Cass,"Marcellus Township, Precinct 1",Hudson Memorial Building Millage Renewal P
 Cass,"Marcellus Township, Precinct 1",Hudson Memorial Building Millage Renewal Proposition,,Unresolved Write-In,,0
 Cass,"Mason Township, Precinct 1",Registered Voters,,,,1908
 Cass,"Mason Township, Precinct 1",Ballots Cast,,,,1104
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,162
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,548
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,3
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,7
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,2
-Cass,"Mason Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Mason Township, Precinct 1",Straight Party,,Democratic Party,DEM,162
+Cass,"Mason Township, Precinct 1",Straight Party,,Republican Party,REP,548
+Cass,"Mason Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Cass,"Mason Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Mason Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Mason Township, Precinct 1",Straight Party,,Working Class Party,WCP,7
+Cass,"Mason Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Cass,"Mason Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Mason Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,276
 Cass,"Mason Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,806
 Cass,"Mason Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -1278,14 +1278,14 @@ Cass,"Mason Township, Precinct 1",White Pigeon Community Schools Bond Proposal,,
 Cass,"Mason Township, Precinct 1",White Pigeon Community Schools Bond Proposal,,Unresolved Write-In,,0
 Cass,"Milton Township, Precinct 1",Registered Voters,,,,2520
 Cass,"Milton Township, Precinct 1",Ballots Cast,,,,1437
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,249
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,612
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,3
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,3
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,2
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Milton Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Milton Township, Precinct 1",Straight Party,,Democratic Party,DEM,249
+Cass,"Milton Township, Precinct 1",Straight Party,,Republican Party,REP,612
+Cass,"Milton Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Cass,"Milton Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,"Milton Township, Precinct 1",Straight Party,,Green Party,GRN,3
+Cass,"Milton Township, Precinct 1",Straight Party,,Working Class Party,WCP,2
+Cass,"Milton Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Milton Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Milton Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,462
 Cass,"Milton Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,953
 Cass,"Milton Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -1399,14 +1399,14 @@ Cass,"Milton Township, Precinct 1",Edwardsburg Public Schools Board Member,,Nick
 Cass,"Milton Township, Precinct 1",Edwardsburg Public Schools Board Member,,Unresolved Write-In,,17
 Cass,"Newberg Township, Precinct 1",Registered Voters,,,,1245
 Cass,"Newberg Township, Precinct 1",Ballots Cast,,,,764
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,103
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,367
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,2
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,4
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,4
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Newberg Township, Precinct 1",Straight Party Ticket,,Unresolved Write-in,,0
+Cass,"Newberg Township, Precinct 1",Straight Party,,Democratic Party,DEM,103
+Cass,"Newberg Township, Precinct 1",Straight Party,,Republican Party,REP,367
+Cass,"Newberg Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Cass,"Newberg Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,4
+Cass,"Newberg Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Newberg Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Cass,"Newberg Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Newberg Township, Precinct 1",Straight Party,,Unresolved Write-in,,0
 Cass,"Newberg Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,213
 Cass,"Newberg Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,537
 Cass,"Newberg Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -1540,14 +1540,14 @@ Cass,"Newberg Township, Precinct 1",Constantine Public Schools Operating Millage
 Cass,"Newberg Township, Precinct 1",Constantine Public Schools Operating Millage Proposal,,Unresolved Write-In,,0
 Cass,"Ontwa Township, Precinct 1",Registered Voters,,,,2442
 Cass,"Ontwa Township, Precinct 1",Ballots Cast,,,,582
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,61
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,269
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,3
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,3
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,3
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Ontwa Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Democratic Party,DEM,61
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Republican Party,REP,269
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Cass,"Ontwa Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Green Party,GRN,3
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Working Class Party,WCP,3
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Ontwa Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Ontwa Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,134
 Cass,"Ontwa Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,432
 Cass,"Ontwa Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -1661,14 +1661,14 @@ Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Board Member,,Nick 
 Cass,"Ontwa Township, Precinct 1",Edwardsburg Public Schools Board Member,,Unresolved Write-In,,20
 Cass,"Ontwa Township, Precinct 2",Registered Voters,,,,2377
 Cass,"Ontwa Township, Precinct 2",Ballots Cast,,,,512
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Democratic Party,DEM,61
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Republican Party,REP,228
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Working Class Party,WCP,4
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Ontwa Township, Precinct 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Democratic Party,DEM,61
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Republican Party,REP,228
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Libertarian Party,LIB,1
+Cass,"Ontwa Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Green Party,GRN,0
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Working Class Party,WCP,4
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0
+Cass,"Ontwa Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
 Cass,"Ontwa Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,116
 Cass,"Ontwa Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,382
 Cass,"Ontwa Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,5
@@ -1777,14 +1777,14 @@ Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Board Member,,Nick 
 Cass,"Ontwa Township, Precinct 2",Edwardsburg Public Schools Board Member,,Unresolved Write-In,,16
 Cass,"Ontwa Township, Precincts 1 & 2",Registered Voters,,,,4819
 Cass,"Ontwa Township, Precincts 1 & 2",Ballots Cast,,,,1554
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Democratic Party,DEM,338
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Republican Party,REP,541
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Green Party,GRN,1
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Working Class Party,WCP,5
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Ontwa Township, Precincts 1 & 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Democratic Party,DEM,338
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Republican Party,REP,541
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Libertarian Party,LIB,1
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Green Party,GRN,1
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Working Class Party,WCP,5
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Natural Law Party,NLP,1
+Cass,"Ontwa Township, Precincts 1 & 2",Straight Party,,Unresolved Write-In,,0
 Cass,"Ontwa Township, Precincts 1 & 2",President,,Kamala D. Harris/Tim Walz,DEM,668
 Cass,"Ontwa Township, Precincts 1 & 2",President,,Donald J. Trump/JD Vance,REP,854
 Cass,"Ontwa Township, Precincts 1 & 2",President,,Chase Oliver/Mike ter Maat,LIB,6
@@ -1899,14 +1899,14 @@ Cass,"Ontwa Township, Precincts 1 & 2",Edwardsburg Public Schools Board Member,,
 Cass,"Ontwa Township, Precincts 1 & 2",Edwardsburg Public Schools Board Member,,Unresolved Write-In,,10
 Cass,"Penn Township, Precinct 1",Registered Voters,,,,1332
 Cass,"Penn Township, Precinct 1",Ballots Cast,,,,761
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,141
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,265
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,3
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,6
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Penn Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Penn Township, Precinct 1",Straight Party,,Democratic Party,DEM,141
+Cass,"Penn Township, Precinct 1",Straight Party,,Republican Party,REP,265
+Cass,"Penn Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3
+Cass,"Penn Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Penn Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Penn Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
+Cass,"Penn Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Penn Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Penn Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,311
 Cass,"Penn Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,426
 Cass,"Penn Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -2027,14 +2027,14 @@ Cass,"Penn Township, Precinct 1",Marcellus Community Schools Board Member,,Vicki
 Cass,"Penn Township, Precinct 1",Marcellus Community Schools Board Member,,Unresolved Write-In,,1
 Cass,"Pokagon Township, Precinct 1",Registered Voters,,,,1621
 Cass,"Pokagon Township, Precinct 1",Ballots Cast,,,,927
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,185
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,365
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,2
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,3
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,1
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,6
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Pokagon Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Democratic Party,DEM,185
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Republican Party,REP,365
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Cass,"Pokagon Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,3
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Working Class Party,WCP,6
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Cass,"Pokagon Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Pokagon Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,319
 Cass,"Pokagon Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,595
 Cass,"Pokagon Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -2155,14 +2155,14 @@ Cass,"Pokagon Township, Precinct 1",Niles Community Schools Board Member Partial
 Cass,"Pokagon Township, Precinct 1",Niles Community Schools Board Member Partial Term Ending 12/31/2028,,Unresolved Write-In,,4
 Cass,"Porter Township, Precinct 1",Registered Voters,,,,1595
 Cass,"Porter Township, Precinct 1",Ballots Cast,,,,986
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,167
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,462
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,2
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Porter Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Porter Township, Precinct 1",Straight Party,,Democratic Party,DEM,167
+Cass,"Porter Township, Precinct 1",Straight Party,,Republican Party,REP,462
+Cass,"Porter Township, Precinct 1",Straight Party,,Libertarian Party,LIB,0
+Cass,"Porter Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,"Porter Township, Precinct 1",Straight Party,,Green Party,GRN,2
+Cass,"Porter Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Cass,"Porter Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Cass,"Porter Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Porter Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,286
 Cass,"Porter Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,679
 Cass,"Porter Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,4
@@ -2292,14 +2292,14 @@ Cass,"Porter Township, Precinct 1",White Pigeon Community Schools Bond Proposal,
 Cass,"Porter Township, Precinct 1",White Pigeon Community Schools Bond Proposal,,Unresolved Write-In,,0
 Cass,"Porter Township, Precinct 2",Registered Voters,,,,1309
 Cass,"Porter Township, Precinct 2",Ballots Cast,,,,813
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Democratic Party,DEM,146
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Republican Party,REP,388
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Working Class Party,WCP,0
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Porter Township, Precinct 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Porter Township, Precinct 2",Straight Party,,Democratic Party,DEM,146
+Cass,"Porter Township, Precinct 2",Straight Party,,Republican Party,REP,388
+Cass,"Porter Township, Precinct 2",Straight Party,,Libertarian Party,LIB,0
+Cass,"Porter Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"Porter Township, Precinct 2",Straight Party,,Green Party,GRN,0
+Cass,"Porter Township, Precinct 2",Straight Party,,Working Class Party,WCP,0
+Cass,"Porter Township, Precinct 2",Straight Party,,Natural Law Party,NLP,0
+Cass,"Porter Township, Precinct 2",Straight Party,,Unresolved Write-In,,0
 Cass,"Porter Township, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,247
 Cass,"Porter Township, Precinct 2",President,,Donald J. Trump/JD Vance,REP,555
 Cass,"Porter Township, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,1
@@ -2418,14 +2418,14 @@ Cass,"Porter Township, Precinct 2",White Pigeon Community Schools Bond Proposal,
 Cass,"Porter Township, Precinct 2",White Pigeon Community Schools Bond Proposal,,Unresolved Write-In,,0
 Cass,"Silver Creek Township, Precinct 1",Registered Voters,,,,2228
 Cass,"Silver Creek Township, Precinct 1",Ballots Cast,,,,717
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,81
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,342
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,2
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"Silver Creek Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Democratic Party,DEM,81
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Republican Party,REP,342
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Libertarian Party,LIB,2
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Working Class Party,WCP,1
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Natural Law Party,NLP,0
+Cass,"Silver Creek Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Silver Creek Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,160
 Cass,"Silver Creek Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,542
 Cass,"Silver Creek Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,2
@@ -2540,14 +2540,14 @@ Cass,"Silver Creek Township, Precinct 1",Eau Claire Public Schools Board Partial
 Cass,"Silver Creek Township, Precinct 1",Eau Claire Public Schools Board Partial Term Ending 12/31/2026,,Unresolved Write-In,,4
 Cass,Silver Creek Township,Registered Voters,,,,2228
 Cass,Silver Creek Township,Ballots Cast,,,,672
-Cass,Silver Creek Township,Straight Party Ticket,,Democratic Party,DEM,146
-Cass,Silver Creek Township,Straight Party Ticket,,Republican Party,REP,241
-Cass,Silver Creek Township,Straight Party Ticket,,Libertarian Party,LIB,4
-Cass,Silver Creek Township,Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,Silver Creek Township,Straight Party Ticket,,Green Party,GRN,2
-Cass,Silver Creek Township,Straight Party Ticket,,Working Class Party,WCP,2
-Cass,Silver Creek Township,Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,Silver Creek Township,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,Silver Creek Township,Straight Party,,Democratic Party,DEM,146
+Cass,Silver Creek Township,Straight Party,,Republican Party,REP,241
+Cass,Silver Creek Township,Straight Party,,Libertarian Party,LIB,4
+Cass,Silver Creek Township,Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,Silver Creek Township,Straight Party,,Green Party,GRN,2
+Cass,Silver Creek Township,Straight Party,,Working Class Party,WCP,2
+Cass,Silver Creek Township,Straight Party,,Natural Law Party,NLP,0
+Cass,Silver Creek Township,Straight Party,,Unresolved Write-In,,0
 Cass,Silver Creek Township,President,,Kamala D. Harris/Tim Walz,DEM,307
 Cass,Silver Creek Township,President,,Donald J. Trump/JD Vance,REP,348
 Cass,Silver Creek Township,President,,Chase Oliver/Mike ter Maat,LIB,1
@@ -2662,14 +2662,14 @@ Cass,Silver Creek Township,Eau Claire Public Schools Board Partial Term Ending 1
 Cass,Silver Creek Township,Eau Claire Public Schools Board Partial Term Ending 12/31/2026,,Unresolved Write-In,,2
 Cass,"Volinia Township, Precinct 1",Registered Voters,,,,805
 Cass,"Volinia Township, Precinct 1",Ballots Cast,,,,563
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,77
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,226
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,0
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,4
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"Volinia Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Volinia Township, Precinct 1",Straight Party,,Democratic Party,DEM,77
+Cass,"Volinia Township, Precinct 1",Straight Party,,Republican Party,REP,226
+Cass,"Volinia Township, Precinct 1",Straight Party,,Libertarian Party,LIB,0
+Cass,"Volinia Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,"Volinia Township, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"Volinia Township, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Cass,"Volinia Township, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"Volinia Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Volinia Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,164
 Cass,"Volinia Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,393
 Cass,"Volinia Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,0
@@ -2791,14 +2791,14 @@ Cass,"Volinia Township, Precinct 1",Volinia Township Headlee Override Ballot Pro
 Cass,"Volinia Township, Precinct 1",Volinia Township Headlee Override Ballot Proposal for the General Operating Fund,,Unresolved Write-In,,0
 Cass,"Wayne Township, Precinct 1",Registered Voters,,,,1824
 Cass,"Wayne Township, Precinct 1",Ballots Cast,,,,1026
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,213
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Republican Party,REP,393
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Green Party,GRN,1
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,13
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,2
-Cass,"Wayne Township, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"Wayne Township, Precinct 1",Straight Party,,Democratic Party,DEM,213
+Cass,"Wayne Township, Precinct 1",Straight Party,,Republican Party,REP,393
+Cass,"Wayne Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1
+Cass,"Wayne Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,"Wayne Township, Precinct 1",Straight Party,,Green Party,GRN,1
+Cass,"Wayne Township, Precinct 1",Straight Party,,Working Class Party,WCP,13
+Cass,"Wayne Township, Precinct 1",Straight Party,,Natural Law Party,NLP,2
+Cass,"Wayne Township, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"Wayne Township, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,361
 Cass,"Wayne Township, Precinct 1",President,,Donald J. Trump/JD Vance,REP,648
 Cass,"Wayne Township, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,6
@@ -2928,14 +2928,14 @@ Cass,"Wayne Township, Precinct 1",Marcellus Community Schools Board Member,,Vick
 Cass,"Wayne Township, Precinct 1",Marcellus Community Schools Board Member,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Registered Voters,,,,1572
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Ballots Cast,,,,404
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Democratic Party,DEM,141
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Republican Party,REP,134
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Libertarian Party,LIB,4
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Green Party,GRN,0
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Working Class Party,WCP,4
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Democratic Party,DEM,141
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Republican Party,REP,134
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Libertarian Party,LIB,4
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Green Party,GRN,0
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Working Class Party,WCP,4
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Natural Law Party,NLP,1
+Cass,"City of Dowagiac, Ward 1, Precinct 1",Straight Party,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Kamala D. Harris/Tim Walz,DEM,198
 Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Donald J. Trump/JD Vance,REP,198
 Cass,"City of Dowagiac, Ward 1, Precinct 1",President,,Chase Oliver/Mike ter Maat,LIB,2
@@ -3038,14 +3038,14 @@ Cass,"City of Dowagiac, Ward 1, Precinct 1",Dowagiac Union Schools Board Member 
 Cass,"City of Dowagiac, Ward 1, Precinct 1",Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,21
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Registered Voters,,,,1309
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Ballots Cast,,,,448
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Democratic Party,DEM,117
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Republican Party,REP,170
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Libertarian Party,LIB,3
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Green Party,GRN,1
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Working Class Party,WCP,0
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Natural Law Party,NLP,3
-Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Democratic Party,DEM,117
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Republican Party,REP,170
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Libertarian Party,LIB,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Green Party,GRN,1
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Working Class Party,WCP,0
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Natural Law Party,NLP,3
+Cass,"City of Dowagiac, Ward 2, Precinct 2",Straight Party,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Kamala D. Harris/Tim Walz,DEM,185
 Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Donald J. Trump/JD Vance,REP,251
 Cass,"City of Dowagiac, Ward 2, Precinct 2",President,,Chase Oliver/Mike ter Maat,LIB,3
@@ -3144,14 +3144,14 @@ Cass,"City of Dowagiac, Ward 2, Precinct 2",Dowagiac Union Schools Board Member 
 Cass,"City of Dowagiac, Ward 2, Precinct 2",Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Registered Voters,,,,1179
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Ballots Cast,,,,330
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Democratic Party,DEM,76
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Republican Party,REP,130
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Libertarian Party,LIB,2
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Green Party,GRN,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Working Class Party,WCP,1
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Democratic Party,DEM,76
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Republican Party,REP,130
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Libertarian Party,LIB,2
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Green Party,GRN,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Working Class Party,WCP,1
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Natural Law Party,NLP,0
+Cass,"City of Dowagiac, Ward 3, Precinct 3",Straight Party,,Unresolved Write-In,,0
 Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Kamala D. Harris/Tim Walz,DEM,113
 Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Donald J. Trump/JD Vance,REP,213
 Cass,"City of Dowagiac, Ward 3, Precinct 3",President,,Chase Oliver/Mike ter Maat,LIB,1
@@ -3250,14 +3250,14 @@ Cass,"City of Dowagiac, Ward 3, Precinct 3",Dowagiac Union Schools Board Member 
 Cass,"City of Dowagiac, Ward 3, Precinct 3",Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,6
 Cass,"City of Dowagiac Precincts 1,2 & 3",Registered Voters,,,,4060
 Cass,"City of Dowagiac Precincts 1,2 & 3",Ballots Cast,,,,635
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Democratic Party,DEM,283
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Republican Party,REP,145
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,U.S. Taxpayers Party,UST,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Green Party,GRN,0
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Working Class Party,WCP,3
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Natural Law Party,NLP,3
-Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party Ticket,,Unresolved Write-In,,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Democratic Party,DEM,283
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Republican Party,REP,145
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Libertarian Party,LIB,1
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,U.S. Taxpayers Party,UST,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Green Party,GRN,0
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Working Class Party,WCP,3
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Natural Law Party,NLP,3
+Cass,"City of Dowagiac Precincts 1,2 & 3",Straight Party,,Unresolved Write-In,,0
 Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Kamala D. Harris/Tim Walz,DEM,422
 Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Donald J. Trump/JD Vance,REP,200
 Cass,"City of Dowagiac Precincts 1,2 & 3",President,,Chase Oliver/Mike ter Maat,LIB,0
@@ -3360,14 +3360,14 @@ Cass,"City of Dowagiac Precincts 1,2 & 3",Dowagiac Union Schools Board Member Pa
 Cass,"City of Dowagiac Precincts 1,2 & 3",Dowagiac Union Schools Board Member Partial Term Ending 12/31/2026,,Unresolved Write-In,,15
 Cass,Cass County EV1,Registered Voters,,,,13036
 Cass,Cass County EV1,Ballots Cast,,,,2759
-Cass,Cass County EV1,Straight Party Ticket,,Democratic Party,DEM,312
-Cass,Cass County EV1,Straight Party Ticket,,Republican Party,REP,1395
-Cass,Cass County EV1,Straight Party Ticket,,Libertarian Party,LIB,4
-Cass,Cass County EV1,Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,Cass County EV1,Straight Party Ticket,,Green Party,GRN,2
-Cass,Cass County EV1,Straight Party Ticket,,Working Class Party,WCP,6
-Cass,Cass County EV1,Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,Cass County EV1,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,Cass County EV1,Straight Party,,Democratic Party,DEM,312
+Cass,Cass County EV1,Straight Party,,Republican Party,REP,1395
+Cass,Cass County EV1,Straight Party,,Libertarian Party,LIB,4
+Cass,Cass County EV1,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Cass County EV1,Straight Party,,Green Party,GRN,2
+Cass,Cass County EV1,Straight Party,,Working Class Party,WCP,6
+Cass,Cass County EV1,Straight Party,,Natural Law Party,NLP,0
+Cass,Cass County EV1,Straight Party,,Unresolved Write-In,,0
 Cass,Cass County EV1,President,,Kamala D. Harris/Tim Walz,DEM,552
 Cass,Cass County EV1,President,,Donald J. Trump/JD Vance,REP,2181
 Cass,Cass County EV1,President,,Chase Oliver/Mike ter Maat,LIB,5
@@ -3591,14 +3591,14 @@ Cass,Cass County EV1,Hudson Memorial Building Millage Renewal Proposition,,No,,7
 Cass,Cass County EV1,Hudson Memorial Building Millage Renewal Proposition,,Unresolved Write-In,,0
 Cass,Cass County EV2,Registered Voters,,,,11684
 Cass,Cass County EV2,Ballots Cast,,,,2334
-Cass,Cass County EV2,Straight Party Ticket,,Democratic Party,DEM,240
-Cass,Cass County EV2,Straight Party Ticket,,Republican Party,REP,1205
-Cass,Cass County EV2,Straight Party Ticket,,Libertarian Party,LIB,1
-Cass,Cass County EV2,Straight Party Ticket,,U.S. Taxpayers Party,UST,1
-Cass,Cass County EV2,Straight Party Ticket,,Green Party,GRN,1
-Cass,Cass County EV2,Straight Party Ticket,,Working Class Party,WCP,9
-Cass,Cass County EV2,Straight Party Ticket,,Natural Law Party,NLP,0
-Cass,Cass County EV2,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,Cass County EV2,Straight Party,,Democratic Party,DEM,240
+Cass,Cass County EV2,Straight Party,,Republican Party,REP,1205
+Cass,Cass County EV2,Straight Party,,Libertarian Party,LIB,1
+Cass,Cass County EV2,Straight Party,,U.S. Taxpayers Party,UST,1
+Cass,Cass County EV2,Straight Party,,Green Party,GRN,1
+Cass,Cass County EV2,Straight Party,,Working Class Party,WCP,9
+Cass,Cass County EV2,Straight Party,,Natural Law Party,NLP,0
+Cass,Cass County EV2,Straight Party,,Unresolved Write-In,,0
 Cass,Cass County EV2,President,,Kamala D. Harris/Tim Walz,DEM,463
 Cass,Cass County EV2,President,,Donald J. Trump/JD Vance,REP,1858
 Cass,Cass County EV2,President,,Chase Oliver/Mike ter Maat,LIB,2
@@ -3823,14 +3823,14 @@ Cass,Cass County EV2,White Pigeon Community Schools Bond Proposal,,No,,67
 Cass,Cass County EV2,White Pigeon Community Schools Bond Proposal,,Unresolved Write-In,,0
 Cass,Cass County EV3,Registered Voters,,,,12745
 Cass,Cass County EV3,Ballots Cast,,,,2214
-Cass,Cass County EV3,Straight Party Ticket,,Democratic Party,DEM,364
-Cass,Cass County EV3,Straight Party Ticket,,Republican Party,REP,1125
-Cass,Cass County EV3,Straight Party Ticket,,Libertarian Party,LIB,6
-Cass,Cass County EV3,Straight Party Ticket,,U.S. Taxpayers Party,UST,2
-Cass,Cass County EV3,Straight Party Ticket,,Green Party,GRN,1
-Cass,Cass County EV3,Straight Party Ticket,,Working Class Party,WCP,15
-Cass,Cass County EV3,Straight Party Ticket,,Natural Law Party,NLP,1
-Cass,Cass County EV3,Straight Party Ticket,,Unresolved Write-In,,0
+Cass,Cass County EV3,Straight Party,,Democratic Party,DEM,364
+Cass,Cass County EV3,Straight Party,,Republican Party,REP,1125
+Cass,Cass County EV3,Straight Party,,Libertarian Party,LIB,6
+Cass,Cass County EV3,Straight Party,,U.S. Taxpayers Party,UST,2
+Cass,Cass County EV3,Straight Party,,Green Party,GRN,1
+Cass,Cass County EV3,Straight Party,,Working Class Party,WCP,15
+Cass,Cass County EV3,Straight Party,,Natural Law Party,NLP,1
+Cass,Cass County EV3,Straight Party,,Unresolved Write-In,,0
 Cass,Cass County EV3,President,,Kamala D. Harris/Tim Walz,DEM,577
 Cass,Cass County EV3,President,,Donald J. Trump/JD Vance,REP,1609
 Cass,Cass County EV3,President,,Chase Oliver/Mike ter Maat,LIB,7

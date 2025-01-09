@@ -2,15 +2,15 @@ county,precinct,office,district,party,candidate,votes
 Mason,Amber Township Precinct 1,Registered Voters,,,,2145
 Mason,Amber Township Precinct 1,Ballots Cast Total,,,,1548
 Mason,Amber Township Precinct 1,Ballots Cast Blank,,,,0
-Mason,Amber Township Precinct 1,Straight Party Ticket,,DEM,Democratic,274
-Mason,Amber Township Precinct 1,Straight Party Ticket,,REP,Republican,597
-Mason,Amber Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,3
-Mason,Amber Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,3
-Mason,Amber Township Precinct 1,Straight Party Ticket,,GRN,Green,3
-Mason,Amber Township Precinct 1,Straight Party Ticket,,WCP,Working Class,8
-Mason,Amber Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Amber Township Precinct 1,Straight Party Ticket,,,Overvotes,2
-Mason,Amber Township Precinct 1,Straight Party Ticket,,,Undervotes,657
+Mason,Amber Township Precinct 1,Straight Party,,DEM,Democratic,274
+Mason,Amber Township Precinct 1,Straight Party,,REP,Republican,597
+Mason,Amber Township Precinct 1,Straight Party,,LIB,Libertarian,3
+Mason,Amber Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,3
+Mason,Amber Township Precinct 1,Straight Party,,GRN,Green,3
+Mason,Amber Township Precinct 1,Straight Party,,WCP,Working Class,8
+Mason,Amber Township Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,Amber Township Precinct 1,Straight Party,,,Overvotes,2
+Mason,Amber Township Precinct 1,Straight Party,,,Undervotes,657
 Mason,Amber Township Precinct 1,President,,DEM,Kamala D. Harris,559
 Mason,Amber Township Precinct 1,President,,REP,Donald J. Trump,955
 Mason,Amber Township Precinct 1,President,,LIB,Chase Oliver,7
@@ -141,12 +141,12 @@ Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-I
 Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,6
 Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,396
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,571
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,560
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,7
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,7
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,410
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,571
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,560
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,7
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,7
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Amber Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,410
 Mason,Amber Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,686
 Mason,Amber Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,779
 Mason,Amber Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,23
@@ -182,15 +182,15 @@ Mason,Amber Township Precinct 1,Local School District Board Member Mason County 
 Mason,Amber Township Precinct 1,Local School District Board Member Mason County Central Schools,,,Not Assigned,18
 Mason,Amber Township Precinct 1,Local School District Board Member Mason County Central Schools,,,Overvotes,0
 Mason,Amber Township Precinct 1,Local School District Board Member Mason County Central Schools,,,Undervotes,1635
-Mason,Branch Township Precinct 1,Straight Party Ticket,,DEM,Democratic,143
-Mason,Branch Township Precinct 1,Straight Party Ticket,,REP,Republican,350
-Mason,Branch Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,2
-Mason,Branch Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Branch Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Branch Township Precinct 1,Straight Party Ticket,,WCP,Working Class,9
-Mason,Branch Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Branch Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Branch Township Precinct 1,Straight Party Ticket,,,Undervotes,288
+Mason,Branch Township Precinct 1,Straight Party,,DEM,Democratic,143
+Mason,Branch Township Precinct 1,Straight Party,,REP,Republican,350
+Mason,Branch Township Precinct 1,Straight Party,,LIB,Libertarian,2
+Mason,Branch Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Branch Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Branch Township Precinct 1,Straight Party,,WCP,Working Class,9
+Mason,Branch Township Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,Branch Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Branch Township Precinct 1,Straight Party,,,Undervotes,288
 Mason,Branch Township Precinct 1,President,,DEM,Kamala D. Harris,269
 Mason,Branch Township Precinct 1,President,,REP,Donald J. Trump,516
 Mason,Branch Township Precinct 1,President,,LIB,Chase Oliver,4
@@ -323,12 +323,12 @@ Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-
 Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,9
 Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,209
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,279
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,292
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,9
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,9
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,214
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,279
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,292
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,9
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,9
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Branch Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,214
 Mason,Branch Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,345
 Mason,Branch Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,393
 Mason,Branch Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,17
@@ -367,15 +367,15 @@ Mason,Branch Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County East
 Mason,Branch Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,163
 Mason,Branch Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Branch Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,53
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,DEM,Democratic,230
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,REP,Republican,245
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,LIB,Libertarian,2
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,GRN,Green,2
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,WCP,Working Class,0
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,City of Ludington Precinct 1,Straight Party Ticket,,,Undervotes,386
+Mason,City of Ludington Precinct 1,Straight Party,,DEM,Democratic,230
+Mason,City of Ludington Precinct 1,Straight Party,,REP,Republican,245
+Mason,City of Ludington Precinct 1,Straight Party,,LIB,Libertarian,2
+Mason,City of Ludington Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,City of Ludington Precinct 1,Straight Party,,GRN,Green,2
+Mason,City of Ludington Precinct 1,Straight Party,,WCP,Working Class,0
+Mason,City of Ludington Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 1,Straight Party,,,Overvotes,0
+Mason,City of Ludington Precinct 1,Straight Party,,,Undervotes,386
 Mason,City of Ludington Precinct 1,President,,DEM,Kamala D. Harris,411
 Mason,City of Ludington Precinct 1,President,,REP,Donald J. Trump,425
 Mason,City of Ludington Precinct 1,President,,LIB,Chase Oliver,3
@@ -485,12 +485,12 @@ Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,3
 Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,170
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,417
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,275
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,3
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,3
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,171
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,417
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,275
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,3
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,3
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,City of Ludington Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,171
 Mason,City of Ludington Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,448
 Mason,City of Ludington Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,467
 Mason,City of Ludington Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,10
@@ -536,15 +536,15 @@ Mason,City of Ludington Precinct 1,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 1,Local School District Board Member Ludington Area Schools,,,Not Assigned,8
 Mason,City of Ludington Precinct 1,Local School District Board Member Ludington Area Schools,,,Overvotes,0
 Mason,City of Ludington Precinct 1,Local School District Board Member Ludington Area Schools,,,Undervotes,478
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,DEM,Democratic,235
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,REP,Republican,294
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,LIB,Libertarian,2
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,GRN,Green,0
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,WCP,Working Class,3
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,,Overvotes,0
-Mason,City of Ludington Precinct 2,Straight Party Ticket,,,Undervotes,327
+Mason,City of Ludington Precinct 2,Straight Party,,DEM,Democratic,235
+Mason,City of Ludington Precinct 2,Straight Party,,REP,Republican,294
+Mason,City of Ludington Precinct 2,Straight Party,,LIB,Libertarian,2
+Mason,City of Ludington Precinct 2,Straight Party,,UST,U.S. Taxpayers,1
+Mason,City of Ludington Precinct 2,Straight Party,,GRN,Green,0
+Mason,City of Ludington Precinct 2,Straight Party,,WCP,Working Class,3
+Mason,City of Ludington Precinct 2,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 2,Straight Party,,,Overvotes,0
+Mason,City of Ludington Precinct 2,Straight Party,,,Undervotes,327
 Mason,City of Ludington Precinct 2,President,,DEM,Kamala D. Harris,416
 Mason,City of Ludington Precinct 2,President,,REP,Donald J. Trump,434
 Mason,City of Ludington Precinct 2,President,,LIB,Chase Oliver,3
@@ -654,12 +654,12 @@ Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Not Assigned,7
 Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Undervotes,129
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,449
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,270
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Write-In Totals,4
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Not Assigned,4
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,,,Undervotes,139
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,449
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,270
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Write-In Totals,4
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Not Assigned,4
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,City of Ludington Precinct 2,Justice of Supreme Court Supreme Court,special,,Undervotes,139
 Mason,City of Ludington Precinct 2,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,454
 Mason,City of Ludington Precinct 2,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,496
 Mason,City of Ludington Precinct 2,Judge of Court of Appeals 3rd District,,,Write-In Totals,14
@@ -700,15 +700,15 @@ Mason,City of Ludington Precinct 2,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 2,Local School District Board Member Ludington Area Schools,,,Not Assigned,7
 Mason,City of Ludington Precinct 2,Local School District Board Member Ludington Area Schools,,,Overvotes,2
 Mason,City of Ludington Precinct 2,Local School District Board Member Ludington Area Schools,,,Undervotes,425
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,DEM,Democratic,223
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,REP,Republican,272
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,LIB,Libertarian,1
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,GRN,Green,3
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,WCP,Working Class,1
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,,Overvotes,0
-Mason,City of Ludington Precinct 3,Straight Party Ticket,,,Undervotes,330
+Mason,City of Ludington Precinct 3,Straight Party,,DEM,Democratic,223
+Mason,City of Ludington Precinct 3,Straight Party,,REP,Republican,272
+Mason,City of Ludington Precinct 3,Straight Party,,LIB,Libertarian,1
+Mason,City of Ludington Precinct 3,Straight Party,,UST,U.S. Taxpayers,0
+Mason,City of Ludington Precinct 3,Straight Party,,GRN,Green,3
+Mason,City of Ludington Precinct 3,Straight Party,,WCP,Working Class,1
+Mason,City of Ludington Precinct 3,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 3,Straight Party,,,Overvotes,0
+Mason,City of Ludington Precinct 3,Straight Party,,,Undervotes,330
 Mason,City of Ludington Precinct 3,President,,DEM,Kamala D. Harris,414
 Mason,City of Ludington Precinct 3,President,,REP,Donald J. Trump,400
 Mason,City of Ludington Precinct 3,President,,LIB,Chase Oliver,2
@@ -823,12 +823,12 @@ Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Not Assigned,5
 Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Undervotes,162
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,398
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,259
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Write-In Totals,6
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Not Assigned,6
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,,,Undervotes,168
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,398
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,259
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Write-In Totals,6
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Not Assigned,6
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,City of Ludington Precinct 3,Justice of Supreme Court Supreme Court,special,,Undervotes,168
 Mason,City of Ludington Precinct 3,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,410
 Mason,City of Ludington Precinct 3,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,432
 Mason,City of Ludington Precinct 3,Judge of Court of Appeals 3rd District,,,Write-In Totals,16
@@ -874,15 +874,15 @@ Mason,City of Ludington Precinct 3,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 3,Local School District Board Member Ludington Area Schools,,,Not Assigned,13
 Mason,City of Ludington Precinct 3,Local School District Board Member Ludington Area Schools,,,Overvotes,2
 Mason,City of Ludington Precinct 3,Local School District Board Member Ludington Area Schools,,,Undervotes,495
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,DEM,Democratic,174
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,REP,Republican,191
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,LIB,Libertarian,4
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,GRN,Green,1
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,WCP,Working Class,4
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,,Overvotes,0
-Mason,City of Ludington Precinct 4,Straight Party Ticket,,,Undervotes,244
+Mason,City of Ludington Precinct 4,Straight Party,,DEM,Democratic,174
+Mason,City of Ludington Precinct 4,Straight Party,,REP,Republican,191
+Mason,City of Ludington Precinct 4,Straight Party,,LIB,Libertarian,4
+Mason,City of Ludington Precinct 4,Straight Party,,UST,U.S. Taxpayers,0
+Mason,City of Ludington Precinct 4,Straight Party,,GRN,Green,1
+Mason,City of Ludington Precinct 4,Straight Party,,WCP,Working Class,4
+Mason,City of Ludington Precinct 4,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 4,Straight Party,,,Overvotes,0
+Mason,City of Ludington Precinct 4,Straight Party,,,Undervotes,244
 Mason,City of Ludington Precinct 4,President,,DEM,Kamala D. Harris,277
 Mason,City of Ludington Precinct 4,President,,REP,Donald J. Trump,322
 Mason,City of Ludington Precinct 4,President,,LIB,Chase Oliver,4
@@ -992,12 +992,12 @@ Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Not Assigned,4
 Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Undervotes,111
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,274
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,220
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Write-In Totals,8
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Not Assigned,8
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,,,Undervotes,117
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,274
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,220
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Write-In Totals,8
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Not Assigned,8
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,City of Ludington Precinct 4,Justice of Supreme Court Supreme Court,special,,Undervotes,117
 Mason,City of Ludington Precinct 4,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,295
 Mason,City of Ludington Precinct 4,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,332
 Mason,City of Ludington Precinct 4,Judge of Court of Appeals 3rd District,,,Write-In Totals,13
@@ -1038,15 +1038,15 @@ Mason,City of Ludington Precinct 4,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 4,Local School District Board Member Ludington Area Schools,,,Not Assigned,12
 Mason,City of Ludington Precinct 4,Local School District Board Member Ludington Area Schools,,,Overvotes,0
 Mason,City of Ludington Precinct 4,Local School District Board Member Ludington Area Schools,,,Undervotes,370
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,DEM,Democratic,197
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,REP,Republican,239
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,LIB,Libertarian,1
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,GRN,Green,0
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,WCP,Working Class,2
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,,Overvotes,2
-Mason,City of Ludington Precinct 5,Straight Party Ticket,,,Undervotes,233
+Mason,City of Ludington Precinct 5,Straight Party,,DEM,Democratic,197
+Mason,City of Ludington Precinct 5,Straight Party,,REP,Republican,239
+Mason,City of Ludington Precinct 5,Straight Party,,LIB,Libertarian,1
+Mason,City of Ludington Precinct 5,Straight Party,,UST,U.S. Taxpayers,0
+Mason,City of Ludington Precinct 5,Straight Party,,GRN,Green,0
+Mason,City of Ludington Precinct 5,Straight Party,,WCP,Working Class,2
+Mason,City of Ludington Precinct 5,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 5,Straight Party,,,Overvotes,2
+Mason,City of Ludington Precinct 5,Straight Party,,,Undervotes,233
 Mason,City of Ludington Precinct 5,President,,DEM,Kamala D. Harris,319
 Mason,City of Ludington Precinct 5,President,,REP,Donald J. Trump,343
 Mason,City of Ludington Precinct 5,President,,LIB,Chase Oliver,2
@@ -1156,12 +1156,12 @@ Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Not Assigned,6
 Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Overvotes,2
 Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Undervotes,135
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,319
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,210
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Write-In Totals,6
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Not Assigned,6
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,,,Undervotes,140
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,319
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,210
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Write-In Totals,6
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Not Assigned,6
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,City of Ludington Precinct 5,Justice of Supreme Court Supreme Court,special,,Undervotes,140
 Mason,City of Ludington Precinct 5,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,326
 Mason,City of Ludington Precinct 5,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,366
 Mason,City of Ludington Precinct 5,Judge of Court of Appeals 3rd District,,,Write-In Totals,8
@@ -1208,15 +1208,15 @@ Mason,City of Ludington Precinct 5,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 5,Local School District Board Member Ludington Area Schools,,,Not Assigned,5
 Mason,City of Ludington Precinct 5,Local School District Board Member Ludington Area Schools,,,Overvotes,0
 Mason,City of Ludington Precinct 5,Local School District Board Member Ludington Area Schools,,,Undervotes,381
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,DEM,Democratic,176
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,REP,Republican,216
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,LIB,Libertarian,0
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,UST,U.S. Taxpayers,3
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,GRN,Green,1
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,WCP,Working Class,2
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,,Overvotes,1
-Mason,City of Ludington Precinct 6,Straight Party Ticket,,,Undervotes,277
+Mason,City of Ludington Precinct 6,Straight Party,,DEM,Democratic,176
+Mason,City of Ludington Precinct 6,Straight Party,,REP,Republican,216
+Mason,City of Ludington Precinct 6,Straight Party,,LIB,Libertarian,0
+Mason,City of Ludington Precinct 6,Straight Party,,UST,U.S. Taxpayers,3
+Mason,City of Ludington Precinct 6,Straight Party,,GRN,Green,1
+Mason,City of Ludington Precinct 6,Straight Party,,WCP,Working Class,2
+Mason,City of Ludington Precinct 6,Straight Party,,NLP,Natural Law,1
+Mason,City of Ludington Precinct 6,Straight Party,,,Overvotes,1
+Mason,City of Ludington Precinct 6,Straight Party,,,Undervotes,277
 Mason,City of Ludington Precinct 6,President,,DEM,Kamala D. Harris,327
 Mason,City of Ludington Precinct 6,President,,REP,Donald J. Trump,337
 Mason,City of Ludington Precinct 6,President,,LIB,Chase Oliver,2
@@ -1331,12 +1331,12 @@ Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Writ
 Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Not Assigned,4
 Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Undervotes,124
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,326
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,223
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Write-In Totals,5
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Not Assigned,5
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,,,Undervotes,123
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,326
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,223
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Write-In Totals,5
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Not Assigned,5
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,City of Ludington Precinct 6,Justice of Supreme Court Supreme Court,special,,Undervotes,123
 Mason,City of Ludington Precinct 6,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,329
 Mason,City of Ludington Precinct 6,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,379
 Mason,City of Ludington Precinct 6,Judge of Court of Appeals 3rd District,,,Write-In Totals,11
@@ -1377,15 +1377,15 @@ Mason,City of Ludington Precinct 6,Local School District Board Member Ludington 
 Mason,City of Ludington Precinct 6,Local School District Board Member Ludington Area Schools,,,Not Assigned,8
 Mason,City of Ludington Precinct 6,Local School District Board Member Ludington Area Schools,,,Overvotes,2
 Mason,City of Ludington Precinct 6,Local School District Board Member Ludington Area Schools,,,Undervotes,354
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,DEM,Democratic,111
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,REP,Republican,273
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,LIB,Libertarian,4
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,3
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,GRN,Green,3
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,WCP,Working Class,5
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,City of Scottville Precinct 1,Straight Party Ticket,,,Undervotes,189
+Mason,City of Scottville Precinct 1,Straight Party,,DEM,Democratic,111
+Mason,City of Scottville Precinct 1,Straight Party,,REP,Republican,273
+Mason,City of Scottville Precinct 1,Straight Party,,LIB,Libertarian,4
+Mason,City of Scottville Precinct 1,Straight Party,,UST,U.S. Taxpayers,3
+Mason,City of Scottville Precinct 1,Straight Party,,GRN,Green,3
+Mason,City of Scottville Precinct 1,Straight Party,,WCP,Working Class,5
+Mason,City of Scottville Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,City of Scottville Precinct 1,Straight Party,,,Overvotes,0
+Mason,City of Scottville Precinct 1,Straight Party,,,Undervotes,189
 Mason,City of Scottville Precinct 1,President,,DEM,Kamala D. Harris,185
 Mason,City of Scottville Precinct 1,President,,REP,Donald J. Trump,393
 Mason,City of Scottville Precinct 1,President,,LIB,Chase Oliver,3
@@ -1495,12 +1495,12 @@ Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Wri
 Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
 Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,129
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,224
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,220
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,7
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,7
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,137
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,224
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,220
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,7
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,7
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,City of Scottville Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,137
 Mason,City of Scottville Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,268
 Mason,City of Scottville Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,308
 Mason,City of Scottville Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,13
@@ -1539,15 +1539,15 @@ Mason,City of Scottville Precinct 1,Local School District Board Member Mason Cou
 Mason,City of Scottville Precinct 1,Local School District Board Member Mason County Central Schools,,,Not Assigned,18
 Mason,City of Scottville Precinct 1,Local School District Board Member Mason County Central Schools,,,Overvotes,0
 Mason,City of Scottville Precinct 1,Local School District Board Member Mason County Central Schools,,,Undervotes,1112
-Mason,Custer Township Precinct 1,Straight Party Ticket,,DEM,Democratic,94
-Mason,Custer Township Precinct 1,Straight Party Ticket,,REP,Republican,330
-Mason,Custer Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0
-Mason,Custer Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Custer Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Custer Township Precinct 1,Straight Party Ticket,,WCP,Working Class,7
-Mason,Custer Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Custer Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Custer Township Precinct 1,Straight Party Ticket,,,Undervotes,339
+Mason,Custer Township Precinct 1,Straight Party,,DEM,Democratic,94
+Mason,Custer Township Precinct 1,Straight Party,,REP,Republican,330
+Mason,Custer Township Precinct 1,Straight Party,,LIB,Libertarian,0
+Mason,Custer Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Custer Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Custer Township Precinct 1,Straight Party,,WCP,Working Class,7
+Mason,Custer Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Custer Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Custer Township Precinct 1,Straight Party,,,Undervotes,339
 Mason,Custer Township Precinct 1,President,,DEM,Kamala D. Harris,192
 Mason,Custer Township Precinct 1,President,,REP,Donald J. Trump,563
 Mason,Custer Township Precinct 1,President,,LIB,Chase Oliver,7
@@ -1678,12 +1678,12 @@ Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-
 Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
 Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,186
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,234
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,327
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,7
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,7
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,2
-Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,201
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,234
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,327
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,7
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,7
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,2
+Mason,Custer Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,201
 Mason,Custer Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,384
 Mason,Custer Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,411
 Mason,Custer Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,8
@@ -1744,15 +1744,15 @@ Mason,Custer Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County East
 Mason,Custer Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,215
 Mason,Custer Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Custer Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,55
-Mason,Eden Township Precinct 1,Straight Party Ticket,,DEM,Democratic,59
-Mason,Eden Township Precinct 1,Straight Party Ticket,,REP,Republican,189
-Mason,Eden Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Eden Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Eden Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Eden Township Precinct 1,Straight Party Ticket,,WCP,Working Class,1
-Mason,Eden Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Eden Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Eden Township Precinct 1,Straight Party Ticket,,,Undervotes,129
+Mason,Eden Township Precinct 1,Straight Party,,DEM,Democratic,59
+Mason,Eden Township Precinct 1,Straight Party,,REP,Republican,189
+Mason,Eden Township Precinct 1,Straight Party,,LIB,Libertarian,1
+Mason,Eden Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Eden Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Eden Township Precinct 1,Straight Party,,WCP,Working Class,1
+Mason,Eden Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Eden Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Eden Township Precinct 1,Straight Party,,,Undervotes,129
 Mason,Eden Township Precinct 1,President,,DEM,Kamala D. Harris,117
 Mason,Eden Township Precinct 1,President,,REP,Donald J. Trump,260
 Mason,Eden Township Precinct 1,President,,LIB,Chase Oliver,1
@@ -1882,12 +1882,12 @@ Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In
 Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
 Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,101
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,146
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,124
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,4
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,106
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,146
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,124
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,4
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,4
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Eden Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,106
 Mason,Eden Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,175
 Mason,Eden Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,198
 Mason,Eden Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,4
@@ -1926,15 +1926,15 @@ Mason,Eden Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Easter
 Mason,Eden Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,109
 Mason,Eden Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Eden Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,34
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,DEM,Democratic,79
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,REP,Republican,262
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,2
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,WCP,Working Class,3
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Free Soil Township Precinct 1,Straight Party Ticket,,,Undervotes,241
+Mason,Free Soil Township Precinct 1,Straight Party,,DEM,Democratic,79
+Mason,Free Soil Township Precinct 1,Straight Party,,REP,Republican,262
+Mason,Free Soil Township Precinct 1,Straight Party,,LIB,Libertarian,2
+Mason,Free Soil Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Free Soil Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Free Soil Township Precinct 1,Straight Party,,WCP,Working Class,3
+Mason,Free Soil Township Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,Free Soil Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Free Soil Township Precinct 1,Straight Party,,,Undervotes,241
 Mason,Free Soil Township Precinct 1,President,,DEM,Kamala D. Harris,172
 Mason,Free Soil Township Precinct 1,President,,REP,Donald J. Trump,412
 Mason,Free Soil Township Precinct 1,President,,LIB,Chase Oliver,1
@@ -2065,12 +2065,12 @@ Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Wri
 Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,7
 Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,122
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,197
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,257
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,8
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,8
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,126
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,197
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,257
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,8
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,8
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Free Soil Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,126
 Mason,Free Soil Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,277
 Mason,Free Soil Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,274
 Mason,Free Soil Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,9
@@ -2120,15 +2120,15 @@ Mason,Free Soil Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County E
 Mason,Free Soil Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,275
 Mason,Free Soil Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Free Soil Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,68
-Mason,Grant Township Precinct 1,Straight Party Ticket,,DEM,Democratic,124
-Mason,Grant Township Precinct 1,Straight Party Ticket,,REP,Republican,239
-Mason,Grant Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Grant Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Grant Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Grant Township Precinct 1,Straight Party Ticket,,WCP,Working Class,3
-Mason,Grant Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Grant Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Grant Township Precinct 1,Straight Party Ticket,,,Undervotes,293
+Mason,Grant Township Precinct 1,Straight Party,,DEM,Democratic,124
+Mason,Grant Township Precinct 1,Straight Party,,REP,Republican,239
+Mason,Grant Township Precinct 1,Straight Party,,LIB,Libertarian,1
+Mason,Grant Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Grant Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Grant Township Precinct 1,Straight Party,,WCP,Working Class,3
+Mason,Grant Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Grant Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Grant Township Precinct 1,Straight Party,,,Undervotes,293
 Mason,Grant Township Precinct 1,President,,DEM,Kamala D. Harris,251
 Mason,Grant Township Precinct 1,President,,REP,Donald J. Trump,396
 Mason,Grant Township Precinct 1,President,,LIB,Chase Oliver,2
@@ -2264,12 +2264,12 @@ Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-I
 Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
 Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,191
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,242
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,209
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,5
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,204
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,242
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,209
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,5
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,5
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Grant Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,204
 Mason,Grant Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,275
 Mason,Grant Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,303
 Mason,Grant Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,11
@@ -2318,15 +2318,15 @@ Mason,Grant Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Easte
 Mason,Grant Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,0
 Mason,Grant Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Grant Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,0
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,DEM,Democratic,188
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,REP,Republican,293
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,3
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,GRN,Green,2
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,WCP,Working Class,1
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,,Overvotes,1
-Mason,Hamlin Township Precinct 1,Straight Party Ticket,,,Undervotes,464
+Mason,Hamlin Township Precinct 1,Straight Party,,DEM,Democratic,188
+Mason,Hamlin Township Precinct 1,Straight Party,,REP,Republican,293
+Mason,Hamlin Township Precinct 1,Straight Party,,LIB,Libertarian,3
+Mason,Hamlin Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Hamlin Township Precinct 1,Straight Party,,GRN,Green,2
+Mason,Hamlin Township Precinct 1,Straight Party,,WCP,Working Class,1
+Mason,Hamlin Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Hamlin Township Precinct 1,Straight Party,,,Overvotes,1
+Mason,Hamlin Township Precinct 1,Straight Party,,,Undervotes,464
 Mason,Hamlin Township Precinct 1,President,,DEM,Kamala D. Harris,398
 Mason,Hamlin Township Precinct 1,President,,REP,Donald J. Trump,536
 Mason,Hamlin Township Precinct 1,President,,LIB,Chase Oliver,5
@@ -2458,12 +2458,12 @@ Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-
 Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,6
 Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,235
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,361
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,347
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,4
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,240
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,361
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,347
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,4
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,4
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Hamlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,240
 Mason,Hamlin Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,443
 Mason,Hamlin Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,469
 Mason,Hamlin Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,12
@@ -2494,15 +2494,15 @@ Mason,Hamlin Township Precinct 1,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Townshi
 Mason,Hamlin Township Precinct 1,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,No,657
 Mason,Hamlin Township Precinct 1,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,Overvotes,0
 Mason,Hamlin Township Precinct 1,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,Undervotes,85
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,DEM,Democratic,283
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,REP,Republican,572
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,LIB,Libertarian,3
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,GRN,Green,0
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,WCP,Working Class,3
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,,Overvotes,0
-Mason,Hamlin Township Precinct 2,Straight Party Ticket,,,Undervotes,812
+Mason,Hamlin Township Precinct 2,Straight Party,,DEM,Democratic,283
+Mason,Hamlin Township Precinct 2,Straight Party,,REP,Republican,572
+Mason,Hamlin Township Precinct 2,Straight Party,,LIB,Libertarian,3
+Mason,Hamlin Township Precinct 2,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Hamlin Township Precinct 2,Straight Party,,GRN,Green,0
+Mason,Hamlin Township Precinct 2,Straight Party,,WCP,Working Class,3
+Mason,Hamlin Township Precinct 2,Straight Party,,NLP,Natural Law,0
+Mason,Hamlin Township Precinct 2,Straight Party,,,Overvotes,0
+Mason,Hamlin Township Precinct 2,Straight Party,,,Undervotes,812
 Mason,Hamlin Township Precinct 2,President,,DEM,Kamala D. Harris,665
 Mason,Hamlin Township Precinct 2,President,,REP,Donald J. Trump,974
 Mason,Hamlin Township Precinct 2,President,,LIB,Chase Oliver,5
@@ -2634,12 +2634,12 @@ Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Write-
 Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Not Assigned,20
 Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Undervotes,365
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,709
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,571
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Write-In Totals,20
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Not Assigned,20
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Overvotes,3
-Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,,,Undervotes,370
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,709
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,571
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Write-In Totals,20
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Not Assigned,20
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Overvotes,3
+Mason,Hamlin Township Precinct 2,Justice of Supreme Court Supreme Court,special,,Undervotes,370
 Mason,Hamlin Township Precinct 2,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,827
 Mason,Hamlin Township Precinct 2,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,877
 Mason,Hamlin Township Precinct 2,Judge of Court of Appeals 3rd District,,,Write-In Totals,32
@@ -2670,15 +2670,15 @@ Mason,Hamlin Township Precinct 2,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Townshi
 Mason,Hamlin Township Precinct 2,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,No,1090
 Mason,Hamlin Township Precinct 2,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,Overvotes,0
 Mason,Hamlin Township Precinct 2,HAMLIN TOWNSHIP MILLAGE PROPOSAL Hamlin Township,,,Undervotes,139
-Mason,Logan Township Precinct 1,Straight Party Ticket,,DEM,Democratic,35
-Mason,Logan Township Precinct 1,Straight Party Ticket,,REP,Republican,100
-Mason,Logan Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Logan Township Precinct 1,Straight Party Ticket,,,Undervotes,101
+Mason,Logan Township Precinct 1,Straight Party,,DEM,Democratic,35
+Mason,Logan Township Precinct 1,Straight Party,,REP,Republican,100
+Mason,Logan Township Precinct 1,Straight Party,,LIB,Libertarian,0
+Mason,Logan Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Logan Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Logan Township Precinct 1,Straight Party,,WCP,Working Class,0
+Mason,Logan Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Logan Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Logan Township Precinct 1,Straight Party,,,Undervotes,101
 Mason,Logan Township Precinct 1,President,,DEM,Kamala D. Harris,75
 Mason,Logan Township Precinct 1,President,,REP,Donald J. Trump,156
 Mason,Logan Township Precinct 1,President,,LIB,Chase Oliver,0
@@ -2809,12 +2809,12 @@ Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-I
 Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,1
 Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,55
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,85
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,91
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,2
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,2
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,58
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,85
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,91
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,2
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,2
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Logan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,58
 Mason,Logan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,119
 Mason,Logan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,121
 Mason,Logan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,3
@@ -2849,15 +2849,15 @@ Mason,Logan Township Precinct 1,Proposal Title 1 Walkerville Public Schools,,,Ye
 Mason,Logan Township Precinct 1,Proposal Title 1 Walkerville Public Schools,,,No,19
 Mason,Logan Township Precinct 1,Proposal Title 1 Walkerville Public Schools,,,Overvotes,0
 Mason,Logan Township Precinct 1,Proposal Title 1 Walkerville Public Schools,,,Undervotes,1
-Mason,Meade Township Precinct 1,Straight Party Ticket,,DEM,Democratic,14
-Mason,Meade Township Precinct 1,Straight Party Ticket,,REP,Republican,50
-Mason,Meade Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Meade Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Meade Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Meade Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0
-Mason,Meade Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Meade Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Meade Township Precinct 1,Straight Party Ticket,,,Undervotes,55
+Mason,Meade Township Precinct 1,Straight Party,,DEM,Democratic,14
+Mason,Meade Township Precinct 1,Straight Party,,REP,Republican,50
+Mason,Meade Township Precinct 1,Straight Party,,LIB,Libertarian,1
+Mason,Meade Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Meade Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Meade Township Precinct 1,Straight Party,,WCP,Working Class,0
+Mason,Meade Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Meade Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Meade Township Precinct 1,Straight Party,,,Undervotes,55
 Mason,Meade Township Precinct 1,President,,DEM,Kamala D. Harris,41
 Mason,Meade Township Precinct 1,President,,REP,Donald J. Trump,75
 Mason,Meade Township Precinct 1,President,,LIB,Chase Oliver,1
@@ -2987,12 +2987,12 @@ Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-I
 Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,1
 Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,26
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,41
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,49
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,1
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,1
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,29
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,41
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,49
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,1
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,1
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Meade Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,29
 Mason,Meade Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,56
 Mason,Meade Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,63
 Mason,Meade Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,1
@@ -3026,15 +3026,15 @@ Mason,Meade Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Easte
 Mason,Meade Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,46
 Mason,Meade Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Meade Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,6
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,DEM,Democratic,86
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,REP,Republican,208
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,GRN,Green,0
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,WCP,Working Class,0
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,,Overvotes,0
-Mason,Pere Marquette Charter Twp Prec 1,Straight Party Ticket,,,Undervotes,223
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,DEM,Democratic,86
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,REP,Republican,208
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,LIB,Libertarian,1
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,GRN,Green,0
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,WCP,Working Class,0
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,NLP,Natural Law,0
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,,Overvotes,0
+Mason,Pere Marquette Charter Twp Prec 1,Straight Party,,,Undervotes,223
 Mason,Pere Marquette Charter Twp Prec 1,President,,DEM,Kamala D. Harris,193
 Mason,Pere Marquette Charter Twp Prec 1,President,,REP,Donald J. Trump,316
 Mason,Pere Marquette Charter Twp Prec 1,President,,LIB,Chase Oliver,1
@@ -3168,12 +3168,12 @@ Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,
 Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
 Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Undervotes,113
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,183
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,208
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,6
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Not Assigned,6
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,,,Undervotes,122
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,183
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,208
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,6
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,6
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Pere Marquette Charter Twp Prec 1,Justice of Supreme Court Supreme Court,special,,Undervotes,122
 Mason,Pere Marquette Charter Twp Prec 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,244
 Mason,Pere Marquette Charter Twp Prec 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,262
 Mason,Pere Marquette Charter Twp Prec 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,10
@@ -3200,15 +3200,15 @@ Mason,Pere Marquette Charter Twp Prec 1,Local School District Board Member Ludin
 Mason,Pere Marquette Charter Twp Prec 1,Local School District Board Member Ludington Area Schools,,,Not Assigned,1
 Mason,Pere Marquette Charter Twp Prec 1,Local School District Board Member Ludington Area Schools,,,Overvotes,2
 Mason,Pere Marquette Charter Twp Prec 1,Local School District Board Member Ludington Area Schools,,,Undervotes,303
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,DEM,Democratic,225
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,REP,Republican,375
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,LIB,Libertarian,2
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,GRN,Green,2
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,WCP,Working Class,2
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,,Overvotes,0
-Mason,Pere Marquette Charter Twp Prec 2,Straight Party Ticket,,,Undervotes,508
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,DEM,Democratic,225
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,REP,Republican,375
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,LIB,Libertarian,2
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,GRN,Green,2
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,WCP,Working Class,2
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,NLP,Natural Law,1
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,,Overvotes,0
+Mason,Pere Marquette Charter Twp Prec 2,Straight Party,,,Undervotes,508
 Mason,Pere Marquette Charter Twp Prec 2,President,,DEM,Kamala D. Harris,478
 Mason,Pere Marquette Charter Twp Prec 2,President,,REP,Donald J. Trump,609
 Mason,Pere Marquette Charter Twp Prec 2,President,,LIB,Chase Oliver,6
@@ -3342,12 +3342,12 @@ Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,
 Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Not Assigned,6
 Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Undervotes,234
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,489
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,375
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Write-In Totals,10
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Not Assigned,10
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Overvotes,2
-Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,,,Undervotes,240
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,489
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,375
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Write-In Totals,10
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Not Assigned,10
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Overvotes,2
+Mason,Pere Marquette Charter Twp Prec 2,Justice of Supreme Court Supreme Court,special,,Undervotes,240
 Mason,Pere Marquette Charter Twp Prec 2,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,554
 Mason,Pere Marquette Charter Twp Prec 2,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,586
 Mason,Pere Marquette Charter Twp Prec 2,Judge of Court of Appeals 3rd District,,,Write-In Totals,14
@@ -3374,15 +3374,15 @@ Mason,Pere Marquette Charter Twp Prec 2,Local School District Board Member Ludin
 Mason,Pere Marquette Charter Twp Prec 2,Local School District Board Member Ludington Area Schools,,,Not Assigned,11
 Mason,Pere Marquette Charter Twp Prec 2,Local School District Board Member Ludington Area Schools,,,Overvotes,4
 Mason,Pere Marquette Charter Twp Prec 2,Local School District Board Member Ludington Area Schools,,,Undervotes,615
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,DEM,Democratic,113
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,REP,Republican,314
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,2
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,GRN,Green,0
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,WCP,Working Class,5
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Riverton Township Precinct 1,Straight Party Ticket,,,Undervotes,319
+Mason,Riverton Township Precinct 1,Straight Party,,DEM,Democratic,113
+Mason,Riverton Township Precinct 1,Straight Party,,REP,Republican,314
+Mason,Riverton Township Precinct 1,Straight Party,,LIB,Libertarian,2
+Mason,Riverton Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Riverton Township Precinct 1,Straight Party,,GRN,Green,0
+Mason,Riverton Township Precinct 1,Straight Party,,WCP,Working Class,5
+Mason,Riverton Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Riverton Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Riverton Township Precinct 1,Straight Party,,,Undervotes,319
 Mason,Riverton Township Precinct 1,President,,DEM,Kamala D. Harris,241
 Mason,Riverton Township Precinct 1,President,,REP,Donald J. Trump,502
 Mason,Riverton Township Precinct 1,President,,LIB,Chase Oliver,3
@@ -3513,12 +3513,12 @@ Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Writ
 Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
 Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,155
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,276
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,310
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,4
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
-Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,164
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,276
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,310
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,4
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,4
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,0
+Mason,Riverton Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,164
 Mason,Riverton Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,350
 Mason,Riverton Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,403
 Mason,Riverton Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,6
@@ -3566,15 +3566,15 @@ Mason,Riverton Township Precinct 1,Pentwater School Proposal Pentwater Public Sc
 Mason,Riverton Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,No,5
 Mason,Riverton Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,Overvotes,0
 Mason,Riverton Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,Undervotes,3
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,DEM,Democratic,125
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,REP,Republican,259
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,4
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,GRN,Green,1
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,WCP,Working Class,4
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Sheridan Township Precinct 1,Straight Party Ticket,,,Undervotes,263
+Mason,Sheridan Township Precinct 1,Straight Party,,DEM,Democratic,125
+Mason,Sheridan Township Precinct 1,Straight Party,,REP,Republican,259
+Mason,Sheridan Township Precinct 1,Straight Party,,LIB,Libertarian,4
+Mason,Sheridan Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0
+Mason,Sheridan Township Precinct 1,Straight Party,,GRN,Green,1
+Mason,Sheridan Township Precinct 1,Straight Party,,WCP,Working Class,4
+Mason,Sheridan Township Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,Sheridan Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Sheridan Township Precinct 1,Straight Party,,,Undervotes,263
 Mason,Sheridan Township Precinct 1,President,,DEM,Kamala D. Harris,227
 Mason,Sheridan Township Precinct 1,President,,REP,Donald J. Trump,416
 Mason,Sheridan Township Precinct 1,President,,LIB,Chase Oliver,3
@@ -3706,12 +3706,12 @@ Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Writ
 Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,10
 Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,158
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,252
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,232
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,9
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,9
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,163
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,252
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,232
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,9
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,9
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,Sheridan Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,163
 Mason,Sheridan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,281
 Mason,Sheridan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,329
 Mason,Sheridan Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,19
@@ -3741,15 +3741,15 @@ Mason,Sheridan Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Ea
 Mason,Sheridan Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,293
 Mason,Sheridan Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Sheridan Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,60
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,DEM,Democratic,83
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,REP,Republican,257
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,GRN,Green,1
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,2
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,,Overvotes,0
-Mason,Sherman Township Precinct 1,Straight Party Ticket,,,Undervotes,325
+Mason,Sherman Township Precinct 1,Straight Party,,DEM,Democratic,83
+Mason,Sherman Township Precinct 1,Straight Party,,REP,Republican,257
+Mason,Sherman Township Precinct 1,Straight Party,,LIB,Libertarian,1
+Mason,Sherman Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Sherman Township Precinct 1,Straight Party,,GRN,Green,1
+Mason,Sherman Township Precinct 1,Straight Party,,WCP,Working Class,2
+Mason,Sherman Township Precinct 1,Straight Party,,NLP,Natural Law,2
+Mason,Sherman Township Precinct 1,Straight Party,,,Overvotes,0
+Mason,Sherman Township Precinct 1,Straight Party,,,Undervotes,325
 Mason,Sherman Township Precinct 1,President,,DEM,Kamala D. Harris,190
 Mason,Sherman Township Precinct 1,President,,REP,Donald J. Trump,466
 Mason,Sherman Township Precinct 1,President,,LIB,Chase Oliver,2
@@ -3881,12 +3881,12 @@ Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write
 Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,7
 Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,136
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,219
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,303
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,8
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,8
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,141
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,219
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,303
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,8
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,8
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,Sherman Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,141
 Mason,Sherman Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,338
 Mason,Sherman Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,347
 Mason,Sherman Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,16
@@ -3936,15 +3936,15 @@ Mason,Sherman Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eas
 Mason,Sherman Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,No,223
 Mason,Sherman Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Overvotes,0
 Mason,Sherman Township Precinct 1,MASON COUNTY EASTERN DISTRICT Mason County Eastern Schools,,,Undervotes,51
-Mason,Summit Township Precinct 1,Straight Party Ticket,,DEM,Democratic,153
-Mason,Summit Township Precinct 1,Straight Party Ticket,,REP,Republican,251
-Mason,Summit Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0
-Mason,Summit Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1
-Mason,Summit Township Precinct 1,Straight Party Ticket,,GRN,Green,1
-Mason,Summit Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0
-Mason,Summit Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1
-Mason,Summit Township Precinct 1,Straight Party Ticket,,,Overvotes,1
-Mason,Summit Township Precinct 1,Straight Party Ticket,,,Undervotes,308
+Mason,Summit Township Precinct 1,Straight Party,,DEM,Democratic,153
+Mason,Summit Township Precinct 1,Straight Party,,REP,Republican,251
+Mason,Summit Township Precinct 1,Straight Party,,LIB,Libertarian,0
+Mason,Summit Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1
+Mason,Summit Township Precinct 1,Straight Party,,GRN,Green,1
+Mason,Summit Township Precinct 1,Straight Party,,WCP,Working Class,0
+Mason,Summit Township Precinct 1,Straight Party,,NLP,Natural Law,1
+Mason,Summit Township Precinct 1,Straight Party,,,Overvotes,1
+Mason,Summit Township Precinct 1,Straight Party,,,Undervotes,308
 Mason,Summit Township Precinct 1,President,,DEM,Kamala D. Harris,304
 Mason,Summit Township Precinct 1,President,,REP,Donald J. Trump,395
 Mason,Summit Township Precinct 1,President,,LIB,Chase Oliver,3
@@ -4075,12 +4075,12 @@ Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-
 Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
 Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,0
 Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,167
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,295
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,253
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,4
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,4
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,163
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,295
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,253
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,4
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,4
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,Summit Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,163
 Mason,Summit Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,353
 Mason,Summit Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,373
 Mason,Summit Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,15
@@ -4119,15 +4119,15 @@ Mason,Summit Township Precinct 1,Pentwater School Proposal Pentwater Public Scho
 Mason,Summit Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,No,1
 Mason,Summit Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,Overvotes,0
 Mason,Summit Township Precinct 1,Pentwater School Proposal Pentwater Public Schools,,,Undervotes,0
-Mason,Victory Township Precinct 1,Straight Party Ticket,,DEM,Democratic,119
-Mason,Victory Township Precinct 1,Straight Party Ticket,,REP,Republican,378
-Mason,Victory Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1
-Mason,Victory Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,2
-Mason,Victory Township Precinct 1,Straight Party Ticket,,GRN,Green,5
-Mason,Victory Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2
-Mason,Victory Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0
-Mason,Victory Township Precinct 1,Straight Party Ticket,,,Overvotes,1
-Mason,Victory Township Precinct 1,Straight Party Ticket,,,Undervotes,400
+Mason,Victory Township Precinct 1,Straight Party,,DEM,Democratic,119
+Mason,Victory Township Precinct 1,Straight Party,,REP,Republican,378
+Mason,Victory Township Precinct 1,Straight Party,,LIB,Libertarian,1
+Mason,Victory Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,2
+Mason,Victory Township Precinct 1,Straight Party,,GRN,Green,5
+Mason,Victory Township Precinct 1,Straight Party,,WCP,Working Class,2
+Mason,Victory Township Precinct 1,Straight Party,,NLP,Natural Law,0
+Mason,Victory Township Precinct 1,Straight Party,,,Overvotes,1
+Mason,Victory Township Precinct 1,Straight Party,,,Undervotes,400
 Mason,Victory Township Precinct 1,President,,DEM,Kamala D. Harris,252
 Mason,Victory Township Precinct 1,President,,REP,Donald J. Trump,629
 Mason,Victory Township Precinct 1,President,,LIB,Chase Oliver,4
@@ -4258,12 +4258,12 @@ Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write
 Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,6
 Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
 Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,244
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Kyra Harris Bolden,277
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Patrick William O'Grady,379
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Write-In Totals,5
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Not Assigned,5
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Overvotes,1
-Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,,,Undervotes,246
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Kyra Harris Bolden,277
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Patrick William O'Grady,379
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Write-In Totals,5
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Not Assigned,5
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Overvotes,1
+Mason,Victory Township Precinct 1,Justice of Supreme Court Supreme Court,special,,Undervotes,246
 Mason,Victory Township Precinct 1,Judge of Court of Appeals 3rd District,,,Philip P. Mariani,412
 Mason,Victory Township Precinct 1,Judge of Court of Appeals 3rd District,,,Christopher P. Yates,440
 Mason,Victory Township Precinct 1,Judge of Court of Appeals 3rd District,,,Write-In Totals,12

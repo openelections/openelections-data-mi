@@ -2,21 +2,21 @@ county,precinct,offfice,district,party,candidate,votes,election_day,absentee,ear
 Emmet,Bear Creek Township Precinct 1,Registered Voters,,,,2702,,,
 Emmet,Bear Creek Township Precinct 1,Ballots Cast,,,,2073,624,1154,295
 Emmet,Bear Creek Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,DEM,Democrat,471,123,288,60
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,REP,Republican,632,218,305,109
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,4,2,2,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,2,0,2,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,GRN,Green,3,1,2,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,WCP,Working Class,7,5,1,1
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,2,1,1,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Bear Creek Township Precinct 1,Straight Party Ticket,,,Undervotes,952,274,553,125
+Emmet,Bear Creek Township Precinct 1,Straight Party,,DEM,Democrat,471,123,288,60
+Emmet,Bear Creek Township Precinct 1,Straight Party,,REP,Republican,632,218,305,109
+Emmet,Bear Creek Township Precinct 1,Straight Party,,LIB,Libertarian,4,2,2,0
+Emmet,Bear Creek Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,2,0,2,0
+Emmet,Bear Creek Township Precinct 1,Straight Party,,GRN,Green,3,1,2,0
+Emmet,Bear Creek Township Precinct 1,Straight Party,,WCP,Working Class,7,5,1,1
+Emmet,Bear Creek Township Precinct 1,Straight Party,,NLP,Natural Law,2,1,1,0
+Emmet,Bear Creek Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Bear Creek Township Precinct 1,Straight Party,,,Undervotes,952,274,553,125
 Emmet,Bear Creek Township Precinct 1,President,,DEM,Kamala D. Harris,997,239,639,119
 Emmet,Bear Creek Township Precinct 1,President,,REP,Donald J. Trump,1035,375,489,171
 Emmet,Bear Creek Township Precinct 1,President,,LIB,Chase Oliver,6,3,3,0
 Emmet,Bear Creek Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Bear Creek Township Precinct 1,President,,GRN,Jill Stein,5,1,3,1
-Emmet,Bear Creek Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",18,5,12,1
+Emmet,Bear Creek Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",18,5,12,1
 Emmet,Bear Creek Township Precinct 1,President,,NPA,NPA Joseph Kishore,3,0,2,1
 Emmet,Bear Creek Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Bear Creek Township Precinct 1,President,,,Write-ins,2,0,2,0
@@ -157,10 +157,10 @@ Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,St
 Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,15,12,2,1
 Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,943,249,549,145
-Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,1138,372,613,153
-Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,14,10,3,1
-Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,1,0,1,0
-Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,920,242,537,141
+Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,1138,372,613,153
+Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,14,10,3,1
+Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,1,0,1,0
+Emmet,Bear Creek Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,920,242,537,141
 Emmet,Bear Creek Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,1203,380,653,170
 Emmet,Bear Creek Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,16,13,2,1
 Emmet,Bear Creek Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -196,21 +196,21 @@ Emmet,Intermediate School District Board Member Charlevoix-Emmet Isd,Library Ser
 Emmet,Bear Creek Township Precinct 2,Registered Voters,,,,3136,,,
 Emmet,Bear Creek Township Precinct 2,Ballots Cast,,,,2331,817,1197,317
 Emmet,Bear Creek Township Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,DEM,Democrat,454,114,290,50
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,REP,Republican,834,314,372,148
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,LIB,Libertarian,6,6,0,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,UST,U.S. Taxpayers,7,0,7,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,GRN,Green,5,3,1,1
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,WCP,Working Class,3,2,1,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,NLP,Natural Law,2,2,0,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,,Overvotes,1,1,0,0
-Emmet,Bear Creek Township Precinct 2,Straight Party Ticket,,,Undervotes,1019,375,526,118
+Emmet,Bear Creek Township Precinct 2,Straight Party,,DEM,Democrat,454,114,290,50
+Emmet,Bear Creek Township Precinct 2,Straight Party,,REP,Republican,834,314,372,148
+Emmet,Bear Creek Township Precinct 2,Straight Party,,LIB,Libertarian,6,6,0,0
+Emmet,Bear Creek Township Precinct 2,Straight Party,,UST,U.S. Taxpayers,7,0,7,0
+Emmet,Bear Creek Township Precinct 2,Straight Party,,GRN,Green,5,3,1,1
+Emmet,Bear Creek Township Precinct 2,Straight Party,,WCP,Working Class,3,2,1,0
+Emmet,Bear Creek Township Precinct 2,Straight Party,,NLP,Natural Law,2,2,0,0
+Emmet,Bear Creek Township Precinct 2,Straight Party,,,Overvotes,1,1,0,0
+Emmet,Bear Creek Township Precinct 2,Straight Party,,,Undervotes,1019,375,526,118
 Emmet,Bear Creek Township Precinct 2,President,,DEM,Kamala D. Harris,918,253,573,92
 Emmet,Bear Creek Township Precinct 2,President,,REP,Donald J. Trump,1356,543,594,219
 Emmet,Bear Creek Township Precinct 2,President,,LIB,Chase Oliver,7,6,1,0
 Emmet,Bear Creek Township Precinct 2,President,,UST,Randall Terry,4,1,3,0
 Emmet,Bear Creek Township Precinct 2,President,,GRN,Jill Stein,9,4,3,2
-Emmet,Bear Creek Township Precinct 2,President,,NLP,"NLP Robert F. Kennedy, Jr.",14,5,9,0
+Emmet,Bear Creek Township Precinct 2,President,,NLP,"Robert F. Kennedy, Jr.",14,5,9,0
 Emmet,Bear Creek Township Precinct 2,President,,NPA,NPA Joseph Kishore,1,0,0,1
 Emmet,Bear Creek Township Precinct 2,President,,NPA,NPA Cornel West,1,0,1,0
 Emmet,Bear Creek Township Precinct 2,President,,,Write-ins,6,2,2,2
@@ -346,10 +346,10 @@ Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,St
 Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Write-ins,15,9,3,3
 Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Undervotes,967,278,541,148
-Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,1347,527,654,166
-Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Write-ins,18,10,4,4
-Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,,,Undervotes,965,280,538,147
+Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,1347,527,654,166
+Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,special,,Write-ins,18,10,4,4
+Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Bear Creek Township Precinct 2,Judge of Court of Appeals 4th District,special,,Undervotes,965,280,538,147
 Emmet,Bear Creek Township Precinct 2,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,1421,546,695,180
 Emmet,Bear Creek Township Precinct 2,Judge of Circuit Court 57th Circuit,,,Write-ins,20,12,5,3
 Emmet,Bear Creek Township Precinct 2,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -385,21 +385,21 @@ Emmet,Bear Creek Township Precinct 2,Library Services Millage Renewal Proposal B
 Emmet,Bliss Township Precinct 1,Registered Voters,,,,540,,,
 Emmet,Bliss Township Precinct 1,Ballots Cast,,,,426,392,0,34
 Emmet,Bliss Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,DEM,Democrat,69,67,0,2
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,REP,Republican,159,134,0,25
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1,1,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,GRN,Green,2,2,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2,2,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Bliss Township Precinct 1,Straight Party Ticket,,,Undervotes,193,186,0,7
+Emmet,Bliss Township Precinct 1,Straight Party,,DEM,Democrat,69,67,0,2
+Emmet,Bliss Township Precinct 1,Straight Party,,REP,Republican,159,134,0,25
+Emmet,Bliss Township Precinct 1,Straight Party,,LIB,Libertarian,1,1,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,GRN,Green,2,2,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,WCP,Working Class,2,2,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Bliss Township Precinct 1,Straight Party,,,Undervotes,193,186,0,7
 Emmet,Bliss Township Precinct 1,President,,DEM,Kamala D. Harris,162,158,0,4
 Emmet,Bliss Township Precinct 1,President,,REP,Donald J. Trump,256,227,0,29
 Emmet,Bliss Township Precinct 1,President,,LIB,Chase Oliver,0,0,0,0
 Emmet,Bliss Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Bliss Township Precinct 1,President,,GRN,Jill Stein,2,2,0,0
-Emmet,Bliss Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",4,3,0,1
+Emmet,Bliss Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",4,3,0,1
 Emmet,Bliss Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Bliss Township Precinct 1,President,,NPA,NPA Cornel West,1,1,0,0
 Emmet,Bliss Township Precinct 1,President,,,Write-ins,0,0,0,0
@@ -532,10 +532,10 @@ Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Stephen
 Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,7,7,0,0
 Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,215,196,0,19
-Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,204,188,0,16
-Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,8,8,0,0
-Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,214,196,0,18
+Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,204,188,0,16
+Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,8,8,0,0
+Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Bliss Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,214,196,0,18
 Emmet,Bliss Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,217,202,0,15
 Emmet,Bliss Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,5,5,0,0
 Emmet,Bliss Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -567,21 +567,21 @@ Emmet,Intermediate School District Board Member Charlevoix-Emmet Isd,Local Schoo
 Emmet,Carp Lake Township Precinct 1,Registered Voters,,,,735,,,
 Emmet,Carp Lake Township Precinct 1,Ballots Cast,,,,511,466,0,45
 Emmet,Carp Lake Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,DEM,Democrat,99,91,0,8
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,REP,Republican,206,183,0,23
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,WCP,Working Class,1,1,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,,Overvotes,5,5,0,0
-Emmet,Carp Lake Township Precinct 1,Straight Party Ticket,,,Undervotes,474,460,0,14
+Emmet,Carp Lake Township Precinct 1,Straight Party,,DEM,Democrat,99,91,0,8
+Emmet,Carp Lake Township Precinct 1,Straight Party,,REP,Republican,206,183,0,23
+Emmet,Carp Lake Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,WCP,Working Class,1,1,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,,Overvotes,5,5,0,0
+Emmet,Carp Lake Township Precinct 1,Straight Party,,,Undervotes,474,460,0,14
 Emmet,Carp Lake Township Precinct 1,President,,DEM,Kamala D. Harris,178,170,0,8
 Emmet,Carp Lake Township Precinct 1,President,,REP,Donald J. Trump,325,288,0,37
 Emmet,Carp Lake Township Precinct 1,President,,LIB,Chase Oliver,1,1,0,0
 Emmet,Carp Lake Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Carp Lake Township Precinct 1,President,,GRN,Jill Stein,1,1,0,0
-Emmet,Carp Lake Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",3,3,0,0
+Emmet,Carp Lake Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",3,3,0,0
 Emmet,Carp Lake Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Carp Lake Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Carp Lake Township Precinct 1,President,,,Write-ins,1,1,0,0
@@ -713,10 +713,10 @@ Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Ste
 Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,9,9,0,0
 Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,23,0,0,23
-Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,260,237,0,23
-Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,7,7,0,0
-Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,22,0,0,22
+Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,260,237,0,23
+Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,7,7,0,0
+Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Carp Lake Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,22,0,0,22
 Emmet,Carp Lake Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,267,245,0,22
 Emmet,Carp Lake Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,6,6,0,0
 Emmet,Carp Lake Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -757,21 +757,21 @@ Emmet,Carp Lake Township Precinct 1,Local School District Board Member Mackinaw 
 Emmet,Center Township Precinct 1,Registered Voters,,,,489,,,
 Emmet,Center Township Precinct 1,Ballots Cast,,,,350,313,0,37
 Emmet,Center Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,DEM,Democrat,52,49,0,3
-Emmet,Center Township Precinct 1,Straight Party Ticket,,REP,Republican,122,103,0,19
-Emmet,Center Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,2,2,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0,0,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,2,2,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Center Township Precinct 1,Straight Party Ticket,,,Undervotes,171,156,0,15
+Emmet,Center Township Precinct 1,Straight Party,,DEM,Democrat,52,49,0,3
+Emmet,Center Township Precinct 1,Straight Party,,REP,Republican,122,103,0,19
+Emmet,Center Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Center Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,2,2,0,0
+Emmet,Center Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Center Township Precinct 1,Straight Party,,WCP,Working Class,0,0,0,0
+Emmet,Center Township Precinct 1,Straight Party,,NLP,Natural Law,2,2,0,0
+Emmet,Center Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Center Township Precinct 1,Straight Party,,,Undervotes,171,156,0,15
 Emmet,Center Township Precinct 1,President,,DEM,Kamala D. Harris,121,113,0,8
 Emmet,Center Township Precinct 1,President,,REP,Donald J. Trump,214,186,0,28
 Emmet,Center Township Precinct 1,President,,LIB,Chase Oliver,2,2,0,0
 Emmet,Center Township Precinct 1,President,,UST,Randall Terry,4,4,0,0
 Emmet,Center Township Precinct 1,President,,GRN,Jill Stein,3,3,0,0
-Emmet,Center Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",4,4,0,0
+Emmet,Center Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",4,4,0,0
 Emmet,Center Township Precinct 1,President,,NPA,NPA Joseph Kishore,1,1,0,0
 Emmet,Center Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Center Township Precinct 1,President,,,Write-ins,0,0,0,0
@@ -904,10 +904,10 @@ Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Stephe
 Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,5,5,0,0
 Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,161,143,0,18
-Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,195,178,0,17
-Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,3,3,0,0
-Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,152,132,0,20
+Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,195,178,0,17
+Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,3,3,0,0
+Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Center Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,152,132,0,20
 Emmet,Center Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,203,185,0,18
 Emmet,Center Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,3,3,0,0
 Emmet,Center Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -939,21 +939,21 @@ Emmet,Intermediate School District Board Member Charlevoix-Emmet Isd,Local Schoo
 Emmet,City of Harbor Springs Precinct 1,Registered Voters,,,,1240,,,
 Emmet,City of Harbor Springs Precinct 1,Ballots Cast,,,,935,771,0,164
 Emmet,City of Harbor Springs Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,DEM,Democrat,192,164,0,28
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,REP,Republican,257,192,0,65
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,LIB,Libertarian,1,1,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,WCP,Working Class,3,3,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Straight Party Ticket,,,Undervotes,481,410,0,71
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,DEM,Democrat,192,164,0,28
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,REP,Republican,257,192,0,65
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,LIB,Libertarian,1,1,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,WCP,Working Class,3,3,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,City of Harbor Springs Precinct 1,Straight Party,,,Undervotes,481,410,0,71
 Emmet,City of Harbor Springs Precinct 1,President,,DEM,Kamala D. Harris,469,407,0,62
 Emmet,City of Harbor Springs Precinct 1,President,,REP,Donald J. Trump,437,340,0,97
 Emmet,City of Harbor Springs Precinct 1,President,,LIB,Chase Oliver,3,2,0,1
 Emmet,City of Harbor Springs Precinct 1,President,,UST,Randall Terry,2,2,0,0
 Emmet,City of Harbor Springs Precinct 1,President,,GRN,Jill Stein,2,2,0,0
-Emmet,City of Harbor Springs Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",6,5,0,1
+Emmet,City of Harbor Springs Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",6,5,0,1
 Emmet,City of Harbor Springs Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,City of Harbor Springs Precinct 1,President,,NPA,NPA Cornel West,2,1,0,1
 Emmet,City of Harbor Springs Precinct 1,President,,,Write-ins,4,3,0,1
@@ -1069,10 +1069,10 @@ Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,
 Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,11,11,0,0
 Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,399,338,0,61
-Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,528,430,0,98
-Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,8,8,0,0
-Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,398,332,0,66
+Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,528,430,0,98
+Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,8,8,0,0
+Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,City of Harbor Springs Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,398,332,0,66
 Emmet,City of Harbor Springs Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,602,488,0,114
 Emmet,City of Harbor Springs Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,7,7,0,0
 Emmet,City of Harbor Springs Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -1131,21 +1131,21 @@ Emmet,City of Harbor Springs Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL Ha
 Emmet,City of Petoskey Ward 1 Precinct 1,Registered Voters,,,,1110,,,
 Emmet,City of Petoskey Ward 1 Precinct 1,Ballots Cast,,,,775,287,378,110
 Emmet,City of Petoskey Ward 1 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,DEM,Democrat,225,78,120,27
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,REP,Republican,181,63,81,37
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,LIB,Libertarian,1,1,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,WCP,Working Class,3,2,1,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party Ticket,,,Undervotes,363,143,174,46
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,DEM,Democrat,225,78,120,27
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,REP,Republican,181,63,81,37
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,LIB,Libertarian,1,1,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,WCP,Working Class,3,2,1,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Straight Party,,,Undervotes,363,143,174,46
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,DEM,Kamala D. Harris,471,165,255,51
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,REP,Donald J. Trump,286,116,112,58
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,LIB,Chase Oliver,2,1,1,0
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,GRN,Jill Stein,3,1,2,0
-Emmet,City of Petoskey Ward 1 Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",3,1,2,0
+Emmet,City of Petoskey Ward 1 Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",3,1,2,0
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,NPA,NPA Cornel West,1,0,0,1
 Emmet,City of Petoskey Ward 1 Precinct 1,President,,,Write-ins,4,1,3,0
@@ -1260,10 +1260,10 @@ Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,13,8,5,0
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,338,115,168,55
-Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,439,171,211,57
-Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,9,6,3,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,326,110,163,53
+Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,439,171,211,57
+Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,9,6,3,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,326,110,163,53
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,471,186,222,63
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,13,8,3,2
 Emmet,City of Petoskey Ward 1 Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -1299,21 +1299,21 @@ Emmet,City of Petoskey Ward 1 Precinct 1,Local School District Board Member Peto
 Emmet,City of Petoskey Ward 2 Precinct 1,Registered Voters,,,,1136,,,
 Emmet,City of Petoskey Ward 2 Precinct 1,Ballots Cast,,,,909,319,420,170
 Emmet,City of Petoskey Ward 2 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,DEM,Democrat,240,80,122,38
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,REP,Republican,193,71,65,57
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,0,1,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,WCP,Working Class,2,2,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,,Overvotes,1,1,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party Ticket,,,Undervotes,471,164,232,75
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,DEM,Democrat,240,80,122,38
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,REP,Republican,193,71,65,57
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,0,1,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,WCP,Working Class,2,2,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,,Overvotes,1,1,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Straight Party,,,Undervotes,471,164,232,75
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,DEM,Kamala D. Harris,553,182,293,78
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,REP,Donald J. Trump,332,127,117,88
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,LIB,Chase Oliver,3,1,2,0
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,GRN,Jill Stein,2,1,1,0
-Emmet,City of Petoskey Ward 2 Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",6,3,2,1
+Emmet,City of Petoskey Ward 2 Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",6,3,2,1
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,NPA,NPA Joseph Kishore,1,0,0,1
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,NPA,NPA Cornel West,1,0,1,0
 Emmet,City of Petoskey Ward 2 Precinct 1,President,,,Write-ins,2,0,1,1
@@ -1428,10 +1428,10 @@ Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,10,6,3,1
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,433,155,187,91
-Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,503,174,242,87
-Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,6,3,2,1
-Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,400,142,176,82
+Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,503,174,242,87
+Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,6,3,2,1
+Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,400,142,176,82
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,544,187,264,93
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,6,3,2,1
 Emmet,City of Petoskey Ward 2 Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -1467,21 +1467,21 @@ Emmet,City of Petoskey Ward 2 Precinct 1,Local School District Board Member Peto
 Emmet,City of Petoskey Ward 3 Precinct 1,Registered Voters,,,,1640,,,
 Emmet,City of Petoskey Ward 3 Precinct 1,Ballots Cast,,,,1128,376,600,152
 Emmet,City of Petoskey Ward 3 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,DEM,Democrat,290,91,168,31
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,REP,Republican,347,117,164,66
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,LIB,Libertarian,3,2,0,1
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,1,0,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,WCP,Working Class,6,6,0,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,0,1,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,,Overvotes,3,1,2,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party Ticket,,,Undervotes,476,157,265,54
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,DEM,Democrat,290,91,168,31
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,REP,Republican,347,117,164,66
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,LIB,Libertarian,3,2,0,1
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,1,0,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,WCP,Working Class,6,6,0,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,NLP,Natural Law,1,0,1,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,,Overvotes,3,1,2,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Straight Party,,,Undervotes,476,157,265,54
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,DEM,Kamala D. Harris,559,166,335,58
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,REP,Donald J. Trump,544,198,254,92
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,LIB,Chase Oliver,6,3,3,0
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,UST,Randall Terry,4,4,0,0
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,GRN,Jill Stein,1,0,1,0
-Emmet,City of Petoskey Ward 3 Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",7,4,3,0
+Emmet,City of Petoskey Ward 3 Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",7,4,3,0
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,NPA,NPA Joseph Kishore,1,0,0,1
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,City of Petoskey Ward 3 Precinct 1,President,,,Write-ins,2,1,1,0
@@ -1596,10 +1596,10 @@ Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,17,11,4,2
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,2,2,0,0
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,481,138,277,66
-Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,632,230,318,84
-Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,16,11,4,1
-Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,479,135,277,67
+Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,632,230,318,84
+Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,16,11,4,1
+Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,479,135,277,67
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,658,233,330,95
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,14,9,4,1
 Emmet,City of Petoskey Ward 3 Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,1,1,0,0
@@ -1635,21 +1635,21 @@ Emmet,City of Petoskey Ward 3 Precinct 1,Local School District Board Member Peto
 Emmet,City of Petoskey Ward 4 Precinct 1,Registered Voters,,,,1206,,,
 Emmet,City of Petoskey Ward 4 Precinct 1,Ballots Cast,,,,757,333,296,128
 Emmet,City of Petoskey Ward 4 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,DEM,Democrat,248,89,123,36
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,REP,Republican,201,97,63,41
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,LIB,Libertarian,3,3,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,1,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,WCP,Working Class,1,1,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party Ticket,,,Undervotes,301,140,110,51
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,DEM,Democrat,248,89,123,36
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,REP,Republican,201,97,63,41
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,LIB,Libertarian,3,3,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,1,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,WCP,Working Class,1,1,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Straight Party,,,Undervotes,301,140,110,51
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,DEM,Kamala D. Harris,425,166,194,65
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,REP,Donald J. Trump,310,157,94,59
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,LIB,Chase Oliver,2,0,2,0
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,UST,Randall Terry,1,1,0,0
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,GRN,Jill Stein,3,1,2,0
-Emmet,City of Petoskey Ward 4 Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",7,5,2,0
+Emmet,City of Petoskey Ward 4 Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",7,5,2,0
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,NPA,NPA Joseph Kishore,3,0,0,3
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,City of Petoskey Ward 4 Precinct 1,President,,,Write-ins,1,1,0,0
@@ -1768,10 +1768,10 @@ Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,15,14,1,0
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,307,120,131,56
-Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,446,205,166,75
-Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,18,14,3,1
-Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,293,114,127,52
+Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,446,205,166,75
+Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,18,14,3,1
+Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,293,114,127,52
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,470,212,180,78
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,14,11,2,1
 Emmet,City of Petoskey Ward 4 Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -1807,21 +1807,21 @@ Emmet,City of Petoskey Ward 4 Precinct 1,Local School District Board Member Peto
 Emmet,Cross Village Township Precinct 1,Registered Voters,,,,270,,,
 Emmet,Cross Village Township Precinct 1,Ballots Cast,,,,221,199,0,22
 Emmet,Cross Village Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,DEM,Democrat,51,45,0,6
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,REP,Republican,55,50,0,5
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Straight Party Ticket,,,Undervotes,115,104,0,11
+Emmet,Cross Village Township Precinct 1,Straight Party,,DEM,Democrat,51,45,0,6
+Emmet,Cross Village Township Precinct 1,Straight Party,,REP,Republican,55,50,0,5
+Emmet,Cross Village Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,WCP,Working Class,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Straight Party,,,Undervotes,115,104,0,11
 Emmet,Cross Village Township Precinct 1,President,,DEM,Kamala D. Harris,108,99,0,9
 Emmet,Cross Village Township Precinct 1,President,,REP,Donald J. Trump,106,93,0,13
 Emmet,Cross Village Township Precinct 1,President,,LIB,Chase Oliver,0,0,0,0
 Emmet,Cross Village Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Cross Village Township Precinct 1,President,,GRN,Jill Stein,0,0,0,0
-Emmet,Cross Village Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",3,3,0,0
+Emmet,Cross Village Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",3,3,0,0
 Emmet,Cross Village Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Cross Village Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Cross Village Township Precinct 1,President,,,Write-ins,2,2,0,0
@@ -1955,10 +1955,10 @@ Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,
 Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,1,1,0,0
 Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,110,103,0,7
-Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,108,93,0,15
-Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,113,106,0,7
+Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,108,93,0,15
+Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Cross Village Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,113,106,0,7
 Emmet,Cross Village Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,112,97,0,15
 Emmet,Cross Village Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,2,2,0,0
 Emmet,Cross Village Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -2001,21 +2001,21 @@ Emmet,Cross Village Township Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL Ha
 Emmet,Friendship Township Precinct 1,Registered Voters,,,,867,,,
 Emmet,Friendship Township Precinct 1,Ballots Cast,,,,676,531,0,145
 Emmet,Friendship Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,DEM,Democrat,127,100,0,27
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,REP,Republican,249,186,0,63
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,2,2,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2,1,0,1
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Friendship Township Precinct 1,Straight Party Ticket,,,Undervotes,295,241,0,54
+Emmet,Friendship Township Precinct 1,Straight Party,,DEM,Democrat,127,100,0,27
+Emmet,Friendship Township Precinct 1,Straight Party,,REP,Republican,249,186,0,63
+Emmet,Friendship Township Precinct 1,Straight Party,,LIB,Libertarian,2,2,0,0
+Emmet,Friendship Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Friendship Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Friendship Township Precinct 1,Straight Party,,WCP,Working Class,2,1,0,1
+Emmet,Friendship Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Friendship Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Friendship Township Precinct 1,Straight Party,,,Undervotes,295,241,0,54
 Emmet,Friendship Township Precinct 1,President,,DEM,Kamala D. Harris,267,211,0,56
 Emmet,Friendship Township Precinct 1,President,,REP,Donald J. Trump,395,308,0,87
 Emmet,Friendship Township Precinct 1,President,,LIB,Chase Oliver,2,2,0,0
 Emmet,Friendship Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Friendship Township Precinct 1,President,,GRN,Jill Stein,2,2,0,0
-Emmet,Friendship Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",5,4,0,1
+Emmet,Friendship Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",5,4,0,1
 Emmet,Friendship Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Friendship Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Friendship Township Precinct 1,President,,,Write-ins,1,1,0,0
@@ -2147,10 +2147,10 @@ Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,St
 Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,11,11,0,0
 Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,292,224,0,68
-Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,384,306,0,78
-Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,12,12,0,0
-Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,280,213,0,67
+Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,384,306,0,78
+Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,12,12,0,0
+Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Friendship Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,280,213,0,67
 Emmet,Friendship Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,425,331,0,94
 Emmet,Friendship Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,14,13,0,1
 Emmet,Friendship Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -2193,21 +2193,21 @@ Emmet,Friendship Township Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL Harbo
 Emmet,Little Traverse Township Precinct 1,Registered Voters,,,,2567,,,
 Emmet,Little Traverse Township Precinct 1,Ballots Cast,,,,1876,640,761,475
 Emmet,Little Traverse Township Precinct 1,Ballots Cast - Blank,,,,1,0,1,0
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,DEM,Democrat,358,102,182,74
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,REP,Republican,581,191,197,193
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,6,5,0,1
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,2,0,1,1
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,GRN,Green,3,1,0,2
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,WCP,Working Class,5,4,1,0
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Little Traverse Township Precinct 1,Straight Party Ticket,,,Undervotes,920,336,380,204
+Emmet,Little Traverse Township Precinct 1,Straight Party,,DEM,Democrat,358,102,182,74
+Emmet,Little Traverse Township Precinct 1,Straight Party,,REP,Republican,581,191,197,193
+Emmet,Little Traverse Township Precinct 1,Straight Party,,LIB,Libertarian,6,5,0,1
+Emmet,Little Traverse Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,2,0,1,1
+Emmet,Little Traverse Township Precinct 1,Straight Party,,GRN,Green,3,1,0,2
+Emmet,Little Traverse Township Precinct 1,Straight Party,,WCP,Working Class,5,4,1,0
+Emmet,Little Traverse Township Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,Little Traverse Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Little Traverse Township Precinct 1,Straight Party,,,Undervotes,920,336,380,204
 Emmet,Little Traverse Township Precinct 1,President,,DEM,Kamala D. Harris,799,246,411,142
 Emmet,Little Traverse Township Precinct 1,President,,REP,Donald J. Trump,1007,368,321,318
 Emmet,Little Traverse Township Precinct 1,President,,LIB,Chase Oliver,15,10,5,0
 Emmet,Little Traverse Township Precinct 1,President,,UST,Randall Terry,4,1,2,1
 Emmet,Little Traverse Township Precinct 1,President,,GRN,Jill Stein,10,3,5,2
-Emmet,Little Traverse Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",14,6,5,3
+Emmet,Little Traverse Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",14,6,5,3
 Emmet,Little Traverse Township Precinct 1,President,,NPA,NPA Joseph Kishore,3,0,0,3
 Emmet,Little Traverse Township Precinct 1,President,,NPA,NPA Cornel West,1,0,0,1
 Emmet,Little Traverse Township Precinct 1,President,,,Write-ins,5,3,2,0
@@ -2340,10 +2340,10 @@ Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District
 Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,16,12,4,0
 Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,852,273,371,208
-Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,1025,363,390,272
-Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,17,14,3,0
-Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,834,263,368,203
+Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,1025,363,390,272
+Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,17,14,3,0
+Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Little Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,834,263,368,203
 Emmet,Little Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,1154,402,446,306
 Emmet,Little Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,16,12,4,0
 Emmet,Little Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -2403,21 +2403,21 @@ Emmet,Little Traverse Township Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL 
 Emmet,Littlefield Township Precinct 1,Registered Voters,,,,2897,,,
 Emmet,Littlefield Township Precinct 1,Ballots Cast,,,,1839,1323,0,516
 Emmet,Littlefield Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,DEM,Democrat,413,322,0,91
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,REP,Republican,686,449,0,237
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,3,2,0,1
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,WCP,Working Class,4,3,0,1
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,,Overvotes,1,1,0,0
-Emmet,Littlefield Township Precinct 1,Straight Party Ticket,,,Undervotes,728,542,0,186
+Emmet,Littlefield Township Precinct 1,Straight Party,,DEM,Democrat,413,322,0,91
+Emmet,Littlefield Township Precinct 1,Straight Party,,REP,Republican,686,449,0,237
+Emmet,Littlefield Township Precinct 1,Straight Party,,LIB,Libertarian,3,2,0,1
+Emmet,Littlefield Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Littlefield Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Littlefield Township Precinct 1,Straight Party,,WCP,Working Class,4,3,0,1
+Emmet,Littlefield Township Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,Littlefield Township Precinct 1,Straight Party,,,Overvotes,1,1,0,0
+Emmet,Littlefield Township Precinct 1,Straight Party,,,Undervotes,728,542,0,186
 Emmet,Littlefield Township Precinct 1,President,,DEM,Kamala D. Harris,744,582,0,162
 Emmet,Littlefield Township Precinct 1,President,,REP,Donald J. Trump,1043,700,0,343
 Emmet,Littlefield Township Precinct 1,President,,LIB,Chase Oliver,6,6,0,0
 Emmet,Littlefield Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Littlefield Township Precinct 1,President,,GRN,Jill Stein,6,6,0,0
-Emmet,Littlefield Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",15,12,0,3
+Emmet,Littlefield Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",15,12,0,3
 Emmet,Littlefield Township Precinct 1,President,,NPA,NPA Joseph Kishore,5,1,0,4
 Emmet,Littlefield Township Precinct 1,President,,NPA,NPA Cornel West,4,3,0,1
 Emmet,Littlefield Township Precinct 1,President,,,Write-ins,5,5,0,0
@@ -2554,10 +2554,10 @@ Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,S
 Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,19,14,0,5
 Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,2,2,0,0
 Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,811,593,0,218
-Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,1009,722,0,287
-Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,17,13,0,4
-Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,812,587,0,225
+Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,1009,722,0,287
+Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,17,13,0,4
+Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Littlefield Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,812,587,0,225
 Emmet,Littlefield Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,1048,740,0,308
 Emmet,Littlefield Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,23,18,0,5
 Emmet,Littlefield Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -2609,21 +2609,21 @@ Emmet,Littlefield Township Precinct 1,Local School District Board Member Alanson
 Emmet,Maple River Township Precinct 1,Registered Voters,,,,1089,,,
 Emmet,Maple River Township Precinct 1,Ballots Cast,,,,812,669,0,143
 Emmet,Maple River Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,DEM,Democrat,148,139,0,9
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,REP,Republican,315,235,0,80
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,4,4,0,0
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,0,0,1
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,GRN,Green,3,3,0,0
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,WCP,Working Class,4,3,0,1
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,1,1,0,0
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Maple River Township Precinct 1,Straight Party Ticket,,,Undervotes,336,284,0,52
+Emmet,Maple River Township Precinct 1,Straight Party,,DEM,Democrat,148,139,0,9
+Emmet,Maple River Township Precinct 1,Straight Party,,REP,Republican,315,235,0,80
+Emmet,Maple River Township Precinct 1,Straight Party,,LIB,Libertarian,4,4,0,0
+Emmet,Maple River Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,0,0,1
+Emmet,Maple River Township Precinct 1,Straight Party,,GRN,Green,3,3,0,0
+Emmet,Maple River Township Precinct 1,Straight Party,,WCP,Working Class,4,3,0,1
+Emmet,Maple River Township Precinct 1,Straight Party,,NLP,Natural Law,1,1,0,0
+Emmet,Maple River Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Maple River Township Precinct 1,Straight Party,,,Undervotes,336,284,0,52
 Emmet,Maple River Township Precinct 1,President,,DEM,Kamala D. Harris,277,255,0,22
 Emmet,Maple River Township Precinct 1,President,,REP,Donald J. Trump,514,399,0,115
 Emmet,Maple River Township Precinct 1,President,,LIB,Chase Oliver,5,5,0,0
 Emmet,Maple River Township Precinct 1,President,,UST,Randall Terry,3,0,0,3
 Emmet,Maple River Township Precinct 1,President,,GRN,Jill Stein,1,1,0,0
-Emmet,Maple River Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",6,5,0,1
+Emmet,Maple River Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",6,5,0,1
 Emmet,Maple River Township Precinct 1,President,,NPA,NPA Joseph Kishore,1,0,0,1
 Emmet,Maple River Township Precinct 1,President,,NPA,NPA Cornel West,1,1,0,0
 Emmet,Maple River Township Precinct 1,President,,,Write-ins,2,2,0,0
@@ -2760,10 +2760,10 @@ Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,S
 Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,10,10,0,0
 Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,310,256,0,54
-Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,484,399,0,85
-Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,9,9,0,0
-Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,319,261,0,58
+Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,484,399,0,85
+Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,9,9,0,0
+Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Maple River Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,319,261,0,58
 Emmet,Maple River Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,496,406,0,90
 Emmet,Maple River Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,12,11,0,1
 Emmet,Maple River Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -2825,21 +2825,21 @@ Emmet,Maple River Township Precinct 1,Local School District Board Member Alanson
 Emmet,Mckinley Township Precinct 1,Registered Voters,,,,1076,,,
 Emmet,Mckinley Township Precinct 1,Ballots Cast,,,,711,612,0,99
 Emmet,Mckinley Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,DEM,Democrat,112,97,0,15
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,REP,Republican,312,248,0,64
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,2,2,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,WCP,Working Class,3,3,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Mckinley Township Precinct 1,Straight Party Ticket,,,Undervotes,281,261,0,20
+Emmet,Mckinley Township Precinct 1,Straight Party,,DEM,Democrat,112,97,0,15
+Emmet,Mckinley Township Precinct 1,Straight Party,,REP,Republican,312,248,0,64
+Emmet,Mckinley Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,2,2,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,WCP,Working Class,3,3,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Mckinley Township Precinct 1,Straight Party,,,Undervotes,281,261,0,20
 Emmet,Mckinley Township Precinct 1,President,,DEM,Kamala D. Harris,200,180,0,20
 Emmet,Mckinley Township Precinct 1,President,,REP,Donald J. Trump,498,420,0,78
 Emmet,Mckinley Township Precinct 1,President,,LIB,Chase Oliver,1,1,0,0
 Emmet,Mckinley Township Precinct 1,President,,UST,Randall Terry,4,4,0,0
 Emmet,Mckinley Township Precinct 1,President,,GRN,Jill Stein,1,1,0,0
-Emmet,Mckinley Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",1,1,0,0
+Emmet,Mckinley Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",1,1,0,0
 Emmet,Mckinley Township Precinct 1,President,,NPA,NPA Joseph Kishore,1,1,0,0
 Emmet,Mckinley Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Mckinley Township Precinct 1,President,,,Write-ins,1,1,0,0
@@ -2976,10 +2976,10 @@ Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Step
 Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,7,7,0,0
 Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,316,268,0,48
-Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,393,345,0,48
-Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,7,7,0,0
-Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,311,260,0,51
+Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,393,345,0,48
+Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,7,7,0,0
+Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Mckinley Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,311,260,0,51
 Emmet,Mckinley Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,401,347,0,54
 Emmet,Mckinley Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,8,8,0,0
 Emmet,Mckinley Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,1,1,0,0
@@ -3029,21 +3029,21 @@ Emmet,Mckinley Township Precinct 1,Local School District Board Member Pellston P
 Emmet,Pleasantview Township Precinct 1,Registered Voters,,,,895,,,
 Emmet,Pleasantview Township Precinct 1,Ballots Cast,,,,696,250,297,149
 Emmet,Pleasantview Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,DEM,Democrat,129,38,77,14
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,REP,Republican,263,97,95,71
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,0,1,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Pleasantview Township Precinct 1,Straight Party Ticket,,,Undervotes,303,115,124,64
+Emmet,Pleasantview Township Precinct 1,Straight Party,,DEM,Democrat,129,38,77,14
+Emmet,Pleasantview Township Precinct 1,Straight Party,,REP,Republican,263,97,95,71
+Emmet,Pleasantview Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,0,1,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,WCP,Working Class,0,0,0,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Pleasantview Township Precinct 1,Straight Party,,,Undervotes,303,115,124,64
 Emmet,Pleasantview Township Precinct 1,President,,DEM,Kamala D. Harris,294,94,165,35
 Emmet,Pleasantview Township Precinct 1,President,,REP,Donald J. Trump,391,154,128,109
 Emmet,Pleasantview Township Precinct 1,President,,LIB,Chase Oliver,3,2,1,0
 Emmet,Pleasantview Township Precinct 1,President,,UST,Randall Terry,1,0,1,0
 Emmet,Pleasantview Township Precinct 1,President,,GRN,Jill Stein,1,0,1,0
-Emmet,Pleasantview Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",2,0,0,2
+Emmet,Pleasantview Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",2,0,0,2
 Emmet,Pleasantview Township Precinct 1,President,,NPA,NPA Joseph Kishore,1,0,0,1
 Emmet,Pleasantview Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Pleasantview Township Precinct 1,President,,,Write-ins,0,0,0,0
@@ -3176,10 +3176,10 @@ Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,
 Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,5,1,2,2
 Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,308,117,141,50
-Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,377,130,157,90
-Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,7,2,3,2
-Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,1,1,0,0
-Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,310,117,136,57
+Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,377,130,157,90
+Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,7,2,3,2
+Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,1,1,0,0
+Emmet,Pleasantview Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,310,117,136,57
 Emmet,Pleasantview Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,415,150,166,99
 Emmet,Pleasantview Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,7,2,3,2
 Emmet,Pleasantview Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -3239,21 +3239,21 @@ Emmet,Pleasantview Township Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL Har
 Emmet,Readmond Township Precinct 1,Registered Voters,,,,587,,,
 Emmet,Readmond Township Precinct 1,Ballots Cast,,,,468,398,0,70
 Emmet,Readmond Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,DEM,Democrat,103,85,0,18
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,REP,Republican,131,102,0,29
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,1,1,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,WCP,Working Class,1,1,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Readmond Township Precinct 1,Straight Party Ticket,,,Undervotes,230,207,0,23
+Emmet,Readmond Township Precinct 1,Straight Party,,DEM,Democrat,103,85,0,18
+Emmet,Readmond Township Precinct 1,Straight Party,,REP,Republican,131,102,0,29
+Emmet,Readmond Township Precinct 1,Straight Party,,LIB,Libertarian,1,1,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,WCP,Working Class,1,1,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Readmond Township Precinct 1,Straight Party,,,Undervotes,230,207,0,23
 Emmet,Readmond Township Precinct 1,President,,DEM,Kamala D. Harris,213,184,0,29
 Emmet,Readmond Township Precinct 1,President,,REP,Donald J. Trump,250,210,0,40
 Emmet,Readmond Township Precinct 1,President,,LIB,Chase Oliver,1,1,0,0
 Emmet,Readmond Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,Readmond Township Precinct 1,President,,GRN,Jill Stein,0,0,0,0
-Emmet,Readmond Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",0,0,0,0
+Emmet,Readmond Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",0,0,0,0
 Emmet,Readmond Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Readmond Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Readmond Township Precinct 1,President,,,Write-ins,0,0,0,0
@@ -3387,10 +3387,10 @@ Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Step
 Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,4,4,0,0
 Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,217,186,0,31
-Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,250,210,0,40
-Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,4,4,0,0
-Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,214,184,0,30
+Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,250,210,0,40
+Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,4,4,0,0
+Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Readmond Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,214,184,0,30
 Emmet,Readmond Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,277,231,0,46
 Emmet,Readmond Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,3,3,0,0
 Emmet,Readmond Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -3442,21 +3442,21 @@ Emmet,Readmond Township Precinct 1,SINKING FUND MILLAGE RENEWAL PROPOSAL Harbor 
 Emmet,Resort Township Precinct 1,Registered Voters,,,,2636,,,
 Emmet,Resort Township Precinct 1,Ballots Cast,,,,2034,1693,0,341
 Emmet,Resort Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,DEM,Democrat,377,326,0,51
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,REP,Republican,685,535,0,150
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,3,3,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,1,1,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,GRN,Green,1,1,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2,2,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,,Overvotes,1,1,0,0
-Emmet,Resort Township Precinct 1,Straight Party Ticket,,,Undervotes,962,822,0,140
+Emmet,Resort Township Precinct 1,Straight Party,,DEM,Democrat,377,326,0,51
+Emmet,Resort Township Precinct 1,Straight Party,,REP,Republican,685,535,0,150
+Emmet,Resort Township Precinct 1,Straight Party,,LIB,Libertarian,3,3,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,1,1,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,GRN,Green,1,1,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,WCP,Working Class,2,2,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,,Overvotes,1,1,0,0
+Emmet,Resort Township Precinct 1,Straight Party,,,Undervotes,962,822,0,140
 Emmet,Resort Township Precinct 1,President,,DEM,Kamala D. Harris,863,753,0,110
 Emmet,Resort Township Precinct 1,President,,REP,Donald J. Trump,1118,893,0,225
 Emmet,Resort Township Precinct 1,President,,LIB,Chase Oliver,11,9,0,2
 Emmet,Resort Township Precinct 1,President,,UST,Randall Terry,2,2,0,0
 Emmet,Resort Township Precinct 1,President,,GRN,Jill Stein,6,5,0,1
-Emmet,Resort Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",9,9,0,0
+Emmet,Resort Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",9,9,0,0
 Emmet,Resort Township Precinct 1,President,,NPA,NPA Joseph Kishore,4,3,0,1
 Emmet,Resort Township Precinct 1,President,,NPA,NPA Cornel West,2,1,0,1
 Emmet,Resort Township Precinct 1,President,,,Write-ins,7,7,0,0
@@ -3589,10 +3589,10 @@ Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Stephe
 Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,24,21,0,3
 Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,1,1,0,0
 Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,896,760,0,136
-Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,1111,908,0,203
-Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,28,25,0,3
-Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,2,2,0,0
-Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,892,757,0,135
+Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,1111,908,0,203
+Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,28,25,0,3
+Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,2,2,0,0
+Emmet,Resort Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,892,757,0,135
 Emmet,Resort Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,1165,958,0,207
 Emmet,Resort Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,26,22,0,4
 Emmet,Resort Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -3628,21 +3628,21 @@ Emmet,Resort Township Precinct 1,Library Services Millage Renewal Proposal Resor
 Emmet,Springvale Township Precinct 1,Registered Voters,,,,2049,,,
 Emmet,Springvale Township Precinct 1,Ballots Cast,,,,1552,1225,0,327
 Emmet,Springvale Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,DEM,Democrat,246,214,0,32
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,REP,Republican,603,419,0,184
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,3,3,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,WCP,Working Class,4,1,0,3
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,3,3,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,,Overvotes,1,1,0,0
-Emmet,Springvale Township Precinct 1,Straight Party Ticket,,,Undervotes,692,584,0,108
+Emmet,Springvale Township Precinct 1,Straight Party,,DEM,Democrat,246,214,0,32
+Emmet,Springvale Township Precinct 1,Straight Party,,REP,Republican,603,419,0,184
+Emmet,Springvale Township Precinct 1,Straight Party,,LIB,Libertarian,3,3,0,0
+Emmet,Springvale Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Springvale Township Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,Springvale Township Precinct 1,Straight Party,,WCP,Working Class,4,1,0,3
+Emmet,Springvale Township Precinct 1,Straight Party,,NLP,Natural Law,3,3,0,0
+Emmet,Springvale Township Precinct 1,Straight Party,,,Overvotes,1,1,0,0
+Emmet,Springvale Township Precinct 1,Straight Party,,,Undervotes,692,584,0,108
 Emmet,Springvale Township Precinct 1,President,,DEM,Kamala D. Harris,546,474,0,72
 Emmet,Springvale Township Precinct 1,President,,REP,Donald J. Trump,970,722,0,248
 Emmet,Springvale Township Precinct 1,President,,LIB,Chase Oliver,6,5,0,1
 Emmet,Springvale Township Precinct 1,President,,UST,Randall Terry,6,5,0,1
 Emmet,Springvale Township Precinct 1,President,,GRN,Jill Stein,3,2,0,1
-Emmet,Springvale Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",10,8,0,2
+Emmet,Springvale Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",10,8,0,2
 Emmet,Springvale Township Precinct 1,President,,NPA,NPA Joseph Kishore,2,2,0,0
 Emmet,Springvale Township Precinct 1,President,,NPA,NPA Cornel West,1,0,0,1
 Emmet,Springvale Township Precinct 1,President,,,Write-ins,3,3,0,0
@@ -3774,10 +3774,10 @@ Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,St
 Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,18,17,0,1
 Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,680,552,0,128
-Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,841,650,0,191
-Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,22,20,0,2
-Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,689,555,0,134
+Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,841,650,0,191
+Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,22,20,0,2
+Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Springvale Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,689,555,0,134
 Emmet,Springvale Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,899,697,0,202
 Emmet,Springvale Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,18,17,0,1
 Emmet,Springvale Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -3809,21 +3809,21 @@ Emmet,Intermediate School District Board Member Charlevoix-Emmet Isd,Local Schoo
 Emmet,Wawatam Township Precinct 1,Registered Voters,,,,614,,,
 Emmet,Wawatam Township Precinct 1,Ballots Cast,,,,441,426,0,15
 Emmet,Wawatam Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,DEM,Democrat,78,74,0,4
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,REP,Republican,137,132,0,5
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,GRN,Green,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,WCP,Working Class,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,,Overvotes,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Straight Party Ticket,,,Undervotes,226,220,0,6
+Emmet,Wawatam Township Precinct 1,Straight Party,,DEM,Democrat,78,74,0,4
+Emmet,Wawatam Township Precinct 1,Straight Party,,REP,Republican,137,132,0,5
+Emmet,Wawatam Township Precinct 1,Straight Party,,LIB,Libertarian,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,GRN,Green,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,WCP,Working Class,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,,Overvotes,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Straight Party,,,Undervotes,226,220,0,6
 Emmet,Wawatam Township Precinct 1,President,,DEM,Kamala D. Harris,185,179,0,6
 Emmet,Wawatam Township Precinct 1,President,,REP,Donald J. Trump,249,241,0,8
 Emmet,Wawatam Township Precinct 1,President,,LIB,Chase Oliver,0,0,0,0
 Emmet,Wawatam Township Precinct 1,President,,UST,Randall Terry,1,1,0,0
 Emmet,Wawatam Township Precinct 1,President,,GRN,Jill Stein,0,0,0,0
-Emmet,Wawatam Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",3,3,0,0
+Emmet,Wawatam Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",3,3,0,0
 Emmet,Wawatam Township Precinct 1,President,,NPA,NPA Joseph Kishore,0,0,0,0
 Emmet,Wawatam Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,Wawatam Township Precinct 1,President,,,Write-ins,0,0,0,0
@@ -3956,10 +3956,10 @@ Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Steph
 Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,3,3,0,0
 Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
 Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,198,193,0,5
-Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,232,224,0,8
-Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,4,4,0,0
-Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,0,0,0,0
-Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,205,198,0,7
+Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,232,224,0,8
+Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,4,4,0,0
+Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,0,0,0,0
+Emmet,Wawatam Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,205,198,0,7
 Emmet,Wawatam Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,244,236,0,8
 Emmet,Wawatam Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,3,3,0,0
 Emmet,Wawatam Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,0,0,0,0
@@ -4017,21 +4017,21 @@ Emmet,Wawatam Township Precinct 1,Local School District Board Member Mackinaw Ci
 Emmet,West Traverse Township Precinct 1,Registered Voters,,,,1891,,,
 Emmet,West Traverse Township Precinct 1,Ballots Cast,,,,1521,412,805,304
 Emmet,West Traverse Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,DEM,Democrat,276,55,183,38
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,REP,Republican,521,133,243,145
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,LIB,Libertarian,4,2,2,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,UST,U.S. Taxpayers,0,0,0,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,GRN,Green,1,0,1,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,WCP,Working Class,2,2,0,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,NLP,Natural Law,0,0,0,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,,Overvotes,1,0,1,0
-Emmet,West Traverse Township Precinct 1,Straight Party Ticket,,,Undervotes,715,220,374,121
+Emmet,West Traverse Township Precinct 1,Straight Party,,DEM,Democrat,276,55,183,38
+Emmet,West Traverse Township Precinct 1,Straight Party,,REP,Republican,521,133,243,145
+Emmet,West Traverse Township Precinct 1,Straight Party,,LIB,Libertarian,4,2,2,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,UST,U.S. Taxpayers,0,0,0,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,GRN,Green,1,0,1,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,WCP,Working Class,2,2,0,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,NLP,Natural Law,0,0,0,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,,Overvotes,1,0,1,0
+Emmet,West Traverse Township Precinct 1,Straight Party,,,Undervotes,715,220,374,121
 Emmet,West Traverse Township Precinct 1,President,,DEM,Kamala D. Harris,656,157,418,81
 Emmet,West Traverse Township Precinct 1,President,,REP,Donald J. Trump,829,243,367,219
 Emmet,West Traverse Township Precinct 1,President,,LIB,Chase Oliver,6,4,2,0
 Emmet,West Traverse Township Precinct 1,President,,UST,Randall Terry,0,0,0,0
 Emmet,West Traverse Township Precinct 1,President,,GRN,Jill Stein,3,1,1,1
-Emmet,West Traverse Township Precinct 1,President,,NLP,"NLP Robert F. Kennedy, Jr.",6,2,4,0
+Emmet,West Traverse Township Precinct 1,President,,NLP,"Robert F. Kennedy, Jr.",6,2,4,0
 Emmet,West Traverse Township Precinct 1,President,,NPA,NPA Joseph Kishore,2,1,0,1
 Emmet,West Traverse Township Precinct 1,President,,NPA,NPA Cornel West,0,0,0,0
 Emmet,West Traverse Township Precinct 1,President,,,Write-ins,5,1,4,0
@@ -4163,10 +4163,10 @@ Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,
 Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,5,4,0,1
 Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,1,0,1,0
 Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,681,188,376,117
-Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Allie Greenleaf Maldonado,821,224,411,186
-Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Write-ins,5,4,1,0
-Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Overvotes,1,0,1,0
-Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,,,Undervotes,694,184,392,118
+Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Allie Greenleaf Maldonado,821,224,411,186
+Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Write-ins,5,4,1,0
+Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Overvotes,1,0,1,0
+Emmet,West Traverse Township Precinct 1,Judge of Court of Appeals 4th District,special,,Undervotes,694,184,392,118
 Emmet,West Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Jennifer E. Deegan,918,258,460,200
 Emmet,West Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Write-ins,9,7,1,1
 Emmet,West Traverse Township Precinct 1,Judge of Circuit Court 57th Circuit,,,Overvotes,1,0,1,0

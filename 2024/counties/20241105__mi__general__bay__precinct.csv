@@ -2,13 +2,13 @@ county,precinct,office,district,candidate,party,votes,election_day,absentee,earl
 Bay,Bangor Township Precinct 1,Registered Voters - Total,,,,1461,,,
 Bay,Bangor Township Precinct 1,Ballots Cast - Total,,,,1130,502,478,150
 Bay,Bangor Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Democrat,DEM,213,51,137,25
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Republican,REP,304,170,89,45
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,3,1,2,0
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Working Class,WCP,2,1,0,1
-Bay,Bangor Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Bangor Township Precinct 1,Straight Party,,Democrat,DEM,213,51,137,25
+Bay,Bangor Township Precinct 1,Straight Party,,Republican,REP,304,170,89,45
+Bay,Bangor Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Bangor Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,3,1,2,0
+Bay,Bangor Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Bangor Township Precinct 1,Straight Party,,Working Class,WCP,2,1,0,1
+Bay,Bangor Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Bangor Township Precinct 1,President,,Kamala D. Harris,DEM,444,121,262,61
 Bay,Bangor Township Precinct 1,President,,Donald J. Trump,REP,669,374,207,88
 Bay,Bangor Township Precinct 1,President,,Chase Oliver,LIB,3,2,1,0
@@ -114,8 +114,8 @@ Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,666,297,286,83
 Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,634,279,279,76
-Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,634,279,279,76
+Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,691,303,302,86
 Bay,Bangor Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,726,325,311,90
@@ -140,13 +140,13 @@ Bay,Bangor Township Precinct 1,Bay Metropolitan Transportation Authority Millage
 Bay,Bangor Township Precinct 2,Registered Voters - Total,,,,1955,,,
 Bay,Bangor Township Precinct 2,Ballots Cast - Total,,,,1437,622,613,202
 Bay,Bangor Township Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Democrat,DEM,260,72,163,25
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Republican,REP,386,201,116,69
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Working Class,WCP,2,2,0,0
-Bay,Bangor Township Precinct 2,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Bangor Township Precinct 2,Straight Party,,Democrat,DEM,260,72,163,25
+Bay,Bangor Township Precinct 2,Straight Party,,Republican,REP,386,201,116,69
+Bay,Bangor Township Precinct 2,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Bangor Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Bangor Township Precinct 2,Straight Party,,Green,GRN,0,0,0,0
+Bay,Bangor Township Precinct 2,Straight Party,,Working Class,WCP,2,2,0,0
+Bay,Bangor Township Precinct 2,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Bangor Township Precinct 2,President,,Kamala D. Harris,DEM,534,155,336,43
 Bay,Bangor Township Precinct 2,President,,Donald J. Trump,REP,886,463,267,156
 Bay,Bangor Township Precinct 2,President,,Chase Oliver,LIB,3,2,0,1
@@ -252,8 +252,8 @@ Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,808,347,359,102
 Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,784,330,354,100
-Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,784,330,354,100
+Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,848,355,384,109
 Bay,Bangor Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,864,368,386,110
@@ -278,13 +278,13 @@ Bay,Bangor Township Precinct 2,Bay Metropolitan Transportation Authority Millage
 Bay,Bangor Township Precinct 3,Registered Voters - Total,,,,2128,,,
 Bay,Bangor Township Precinct 3,Ballots Cast - Total,,,,1421,595,562,264
 Bay,Bangor Township Precinct 3,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Democrat,DEM,287,71,162,54
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Republican,REP,406,179,121,106
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Libertarian,LIB,1,1,0,0
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Working Class,WCP,8,8,0,0
-Bay,Bangor Township Precinct 3,Straight Party Ticket,,Natural Law,NLP,1,0,1,0
+Bay,Bangor Township Precinct 3,Straight Party,,Democrat,DEM,287,71,162,54
+Bay,Bangor Township Precinct 3,Straight Party,,Republican,REP,406,179,121,106
+Bay,Bangor Township Precinct 3,Straight Party,,Libertarian,LIB,1,1,0,0
+Bay,Bangor Township Precinct 3,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Bangor Township Precinct 3,Straight Party,,Green,GRN,0,0,0,0
+Bay,Bangor Township Precinct 3,Straight Party,,Working Class,WCP,8,8,0,0
+Bay,Bangor Township Precinct 3,Straight Party,,Natural Law,NLP,1,0,1,0
 Bay,Bangor Township Precinct 3,President,,Kamala D. Harris,DEM,571,175,317,79
 Bay,Bangor Township Precinct 3,President,,Donald J. Trump,REP,828,409,236,183
 Bay,Bangor Township Precinct 3,President,,Chase Oliver,LIB,2,1,1,0
@@ -390,8 +390,8 @@ Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,851,338,366,147
 Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,834,332,359,143
-Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,834,332,359,143
+Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,885,351,384,150
 Bay,Bangor Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Judge of District Court 74th District,,Timothy J. Kelly,,911,353,400,158
@@ -422,13 +422,13 @@ Bay,Bangor Township Precinct 3,Bangor Monitor Charter Amendment Bangor-Monitor M
 Bay,Bangor Township Precinct 4,Registered Voters - Total,,,,1763,,,
 Bay,Bangor Township Precinct 4,Ballots Cast - Total,,,,1229,488,550,191
 Bay,Bangor Township Precinct 4,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Democrat,DEM,302,76,191,35
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Republican,REP,326,146,110,70
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Libertarian,LIB,3,2,1,0
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Green,GRN,3,3,0,0
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Working Class,WCP,5,3,2,0
-Bay,Bangor Township Precinct 4,Straight Party Ticket,,Natural Law,NLP,2,1,1,0
+Bay,Bangor Township Precinct 4,Straight Party,,Democrat,DEM,302,76,191,35
+Bay,Bangor Township Precinct 4,Straight Party,,Republican,REP,326,146,110,70
+Bay,Bangor Township Precinct 4,Straight Party,,Libertarian,LIB,3,2,1,0
+Bay,Bangor Township Precinct 4,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Bangor Township Precinct 4,Straight Party,,Green,GRN,3,3,0,0
+Bay,Bangor Township Precinct 4,Straight Party,,Working Class,WCP,5,3,2,0
+Bay,Bangor Township Precinct 4,Straight Party,,Natural Law,NLP,2,1,1,0
 Bay,Bangor Township Precinct 4,President,,Kamala D. Harris,DEM,541,155,315,71
 Bay,Bangor Township Precinct 4,President,,Donald J. Trump,REP,660,322,222,116
 Bay,Bangor Township Precinct 4,President,,Chase Oliver,LIB,7,5,1,1
@@ -534,8 +534,8 @@ Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,704,269,347,88
 Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,681,260,339,82
-Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,681,260,339,82
+Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,735,271,368,96
 Bay,Bangor Township Precinct 4,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Judge of District Court 74th District,,Timothy J. Kelly,,746,281,367,98
@@ -565,13 +565,13 @@ Bay,Bangor Township Precinct 4,Bangor Monitor Charter Amendment Bangor-Monitor M
 Bay,Bangor Township Precinct 5,Registered Voters - Total,,,,2833,,,
 Bay,Bangor Township Precinct 5,Ballots Cast - Total,,,,1977,907,795,275
 Bay,Bangor Township Precinct 5,Ballots Cast - Blank,,,,1,0,1,0
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Democrat,DEM,425,128,257,40
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Republican,REP,575,315,145,115
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Libertarian,LIB,2,1,1,0
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Working Class,WCP,6,5,1,0
-Bay,Bangor Township Precinct 5,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Bangor Township Precinct 5,Straight Party,,Democrat,DEM,425,128,257,40
+Bay,Bangor Township Precinct 5,Straight Party,,Republican,REP,575,315,145,115
+Bay,Bangor Township Precinct 5,Straight Party,,Libertarian,LIB,2,1,1,0
+Bay,Bangor Township Precinct 5,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Bangor Township Precinct 5,Straight Party,,Green,GRN,1,1,0,0
+Bay,Bangor Township Precinct 5,Straight Party,,Working Class,WCP,6,5,1,0
+Bay,Bangor Township Precinct 5,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Bangor Township Precinct 5,President,,Kamala D. Harris,DEM,818,290,454,74
 Bay,Bangor Township Precinct 5,President,,Donald J. Trump,REP,1126,599,328,199
 Bay,Bangor Township Precinct 5,President,,Chase Oliver,LIB,6,4,2,0
@@ -677,8 +677,8 @@ Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1142,486,500,156
 Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1109,474,483,152
-Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1109,474,483,152
+Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1179,505,510,164
 Bay,Bangor Township Precinct 5,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Judge of District Court 74th District,,Timothy J. Kelly,,1212,525,511,176
@@ -703,13 +703,13 @@ Bay,Bangor Township Precinct 5,Bay Metropolitan Transportation Authority Millage
 Bay,Bangor Township Precinct 6,Registered Voters - Total,,,,2112,,,
 Bay,Bangor Township Precinct 6,Ballots Cast - Total,,,,1517,605,645,267
 Bay,Bangor Township Precinct 6,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Democrat,DEM,316,83,188,45
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Republican,REP,363,158,124,81
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Libertarian,LIB,6,4,1,1
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Working Class,WCP,7,5,1,1
-Bay,Bangor Township Precinct 6,Straight Party Ticket,,Natural Law,NLP,1,0,1,0
+Bay,Bangor Township Precinct 6,Straight Party,,Democrat,DEM,316,83,188,45
+Bay,Bangor Township Precinct 6,Straight Party,,Republican,REP,363,158,124,81
+Bay,Bangor Township Precinct 6,Straight Party,,Libertarian,LIB,6,4,1,1
+Bay,Bangor Township Precinct 6,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Bangor Township Precinct 6,Straight Party,,Green,GRN,0,0,0,0
+Bay,Bangor Township Precinct 6,Straight Party,,Working Class,WCP,7,5,1,1
+Bay,Bangor Township Precinct 6,Straight Party,,Natural Law,NLP,1,0,1,0
 Bay,Bangor Township Precinct 6,President,,Kamala D. Harris,DEM,666,192,380,94
 Bay,Bangor Township Precinct 6,President,,Donald J. Trump,REP,817,401,246,170
 Bay,Bangor Township Precinct 6,President,,Chase Oliver,LIB,5,3,2,0
@@ -815,8 +815,8 @@ Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,887,325,408,154
 Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,876,327,402,147
-Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,876,327,402,147
+Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,940,348,439,153
 Bay,Bangor Township Precinct 6,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Judge of District Court 74th District,,Timothy J. Kelly,,967,354,445,168
@@ -846,13 +846,13 @@ Bay,Bangor Township Precinct 6,Bangor Monitor Charter Amendment Bangor-Monitor M
 Bay,Beaver Township Precinct 1,Registered Voters - Total,,,,2357,,,
 Bay,Beaver Township Precinct 1,Ballots Cast - Total,,,,1809,"1,665",0,144
 Bay,Beaver Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Democrat,DEM,255,241,0,14
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Republican,REP,594,528,0,66
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,2,2,0,0
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,2,0,0
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Working Class,WCP,5,5,0,0
-Bay,Beaver Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Beaver Township Precinct 1,Straight Party,,Democrat,DEM,255,241,0,14
+Bay,Beaver Township Precinct 1,Straight Party,,Republican,REP,594,528,0,66
+Bay,Beaver Township Precinct 1,Straight Party,,Libertarian,LIB,2,2,0,0
+Bay,Beaver Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,2,0,0
+Bay,Beaver Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Beaver Township Precinct 1,Straight Party,,Working Class,WCP,5,5,0,0
+Bay,Beaver Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Beaver Township Precinct 1,President,,Kamala D. Harris,DEM,509,482,0,27
 Bay,Beaver Township Precinct 1,President,,Donald J. Trump,REP,1275,"1,160",0,115
 Bay,Beaver Township Precinct 1,President,,Chase Oliver,LIB,6,5,0,1
@@ -953,8 +953,8 @@ Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,895,826,0,69
 Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,870,803,0,67
-Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,870,803,0,67
+Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,898,826,0,72
 Bay,Beaver Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,916,846,0,70
@@ -985,13 +985,13 @@ Bay,Beaver Township Precinct 1,Bay Metropolitan Transportation Authority Millage
 Bay,City of Auburn Precinct 1,Registered Voters - Total,,,,1686,,,
 Bay,City of Auburn Precinct 1,Ballots Cast - Total,,,,1277,678,485,114
 Bay,City of Auburn Precinct 1,Ballots Cast - Blank,,,,1,0,1,0
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Democrat,DEM,231,81,131,19
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Republican,REP,335,205,92,38
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Libertarian,LIB,5,3,2,0
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,3,2,1,0
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Working Class,WCP,4,4,0,0
-Bay,City of Auburn Precinct 1,Straight Party Ticket,,Natural Law,NLP,2,2,0,0
+Bay,City of Auburn Precinct 1,Straight Party,,Democrat,DEM,231,81,131,19
+Bay,City of Auburn Precinct 1,Straight Party,,Republican,REP,335,205,92,38
+Bay,City of Auburn Precinct 1,Straight Party,,Libertarian,LIB,5,3,2,0
+Bay,City of Auburn Precinct 1,Straight Party,,U.S. Taxpayers,UST,3,2,1,0
+Bay,City of Auburn Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,City of Auburn Precinct 1,Straight Party,,Working Class,WCP,4,4,0,0
+Bay,City of Auburn Precinct 1,Straight Party,,Natural Law,NLP,2,2,0,0
 Bay,City of Auburn Precinct 1,President,,Kamala D. Harris,DEM,517,198,278,41
 Bay,City of Auburn Precinct 1,President,,Donald J. Trump,REP,734,470,193,71
 Bay,City of Auburn Precinct 1,President,,Chase Oliver,LIB,7,1,5,1
@@ -1083,8 +1083,8 @@ Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,special,Pat
 Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,765,397,299,69
 Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,722,377,282,63
-Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,722,377,282,63
+Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Auburn Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,757,395,297,65
 Bay,City of Auburn Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Auburn Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,788,405,318,65
@@ -1121,13 +1121,13 @@ Bay,City of Auburn Precinct 1,Bay Metropolitan Transportation Authority Millage 
 Bay,City of Bay City Ward 1 Precinct 1,Registered Voters - Total,,,,2967,,,
 Bay,City of Bay City Ward 1 Precinct 1,Ballots Cast - Total,,,,1875,745,813,317
 Bay,City of Bay City Ward 1 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Democrat,DEM,615,167,340,108
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Republican,REP,413,200,132,81
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Libertarian,LIB,7,6,1,0
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,4,1,1,2
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Working Class,WCP,12,8,3,1
-Bay,City of Bay City Ward 1 Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Democrat,DEM,615,167,340,108
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Republican,REP,413,200,132,81
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Libertarian,LIB,7,6,1,0
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,U.S. Taxpayers,UST,4,1,1,2
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Working Class,WCP,12,8,3,1
+Bay,City of Bay City Ward 1 Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,City of Bay City Ward 1 Precinct 1,President,,Kamala D. Harris,DEM,1035,331,548,156
 Bay,City of Bay City Ward 1 Precinct 1,President,,Donald J. Trump,REP,806,397,255,154
 Bay,City of Bay City Ward 1 Precinct 1,President,,Chase Oliver,LIB,4,2,1,1
@@ -1219,8 +1219,8 @@ Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1174,447,518,209
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1154,433,517,204
-Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1154,433,517,204
+Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1235,460,565,210
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 1 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1252,466,567,219
@@ -1251,13 +1251,13 @@ Bay,City of Bay City Ward 1 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 2 Precinct 1,Registered Voters - Total,,,,3004,,,
 Bay,City of Bay City Ward 2 Precinct 1,Ballots Cast - Total,,,,1923,699,801,423
 Bay,City of Bay City Ward 2 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Democrat,DEM,653,188,333,132
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Republican,REP,356,157,110,89
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,2,1,1
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,2,0,0
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Working Class,WCP,13,9,3,1
-Bay,City of Bay City Ward 2 Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,0,1,0
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Democrat,DEM,653,188,333,132
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Republican,REP,356,157,110,89
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Libertarian,LIB,4,2,1,1
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,2,0,0
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Working Class,WCP,13,9,3,1
+Bay,City of Bay City Ward 2 Precinct 1,Straight Party,,Natural Law,NLP,1,0,1,0
 Bay,City of Bay City Ward 2 Precinct 1,President,,Kamala D. Harris,DEM,1170,360,582,228
 Bay,City of Bay City Ward 2 Precinct 1,President,,Donald J. Trump,REP,719,328,201,190
 Bay,City of Bay City Ward 2 Precinct 1,President,,Chase Oliver,LIB,5,3,1,1
@@ -1349,8 +1349,8 @@ Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1216,442,518,256
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1179,425,506,248
-Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1179,425,506,248
+Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1271,453,539,279
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 2 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1273,462,536,275
@@ -1384,13 +1384,13 @@ Bay,City of Bay City Ward 2 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 3 Precinct 1,Registered Voters - Total,,,,3125,,,
 Bay,City of Bay City Ward 3 Precinct 1,Ballots Cast - Total,,,,1726,771,679,276
 Bay,City of Bay City Ward 3 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Democrat,DEM,625,210,334,81
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Republican,REP,404,227,101,76
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Libertarian,LIB,7,5,2,0
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,4,4,0,0
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Green,GRN,2,0,1,1
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Working Class,WCP,13,10,3,0
-Bay,City of Bay City Ward 3 Precinct 1,Straight Party Ticket,,Natural Law,NLP,3,2,0,1
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Democrat,DEM,625,210,334,81
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Republican,REP,404,227,101,76
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Libertarian,LIB,7,5,2,0
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,U.S. Taxpayers,UST,4,4,0,0
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Green,GRN,2,0,1,1
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Working Class,WCP,13,10,3,0
+Bay,City of Bay City Ward 3 Precinct 1,Straight Party,,Natural Law,NLP,3,2,0,1
 Bay,City of Bay City Ward 3 Precinct 1,President,,Kamala D. Harris,DEM,962,346,479,137
 Bay,City of Bay City Ward 3 Precinct 1,President,,Donald J. Trump,REP,726,409,182,135
 Bay,City of Bay City Ward 3 Precinct 1,President,,Chase Oliver,LIB,4,3,1,0
@@ -1482,8 +1482,8 @@ Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1091,515,425,151
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1082,506,426,150
-Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1082,506,426,150
+Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1148,530,455,163
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 3 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1148,533,449,166
@@ -1514,13 +1514,13 @@ Bay,City of Bay City Ward 3 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 4 Precinct 1,Registered Voters - Total,,,,3165,,,
 Bay,City of Bay City Ward 4 Precinct 1,Ballots Cast - Total,,,,1812,819,674,319
 Bay,City of Bay City Ward 4 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Democrat,DEM,598,204,304,90
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Republican,REP,444,228,107,109
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Libertarian,LIB,9,7,1,1
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,6,6,0,0
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Green,GRN,3,2,1,0
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Working Class,WCP,14,13,0,1
-Bay,City of Bay City Ward 4 Precinct 1,Straight Party Ticket,,Natural Law,NLP,3,2,0,1
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Democrat,DEM,598,204,304,90
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Republican,REP,444,228,107,109
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Libertarian,LIB,9,7,1,1
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,U.S. Taxpayers,UST,6,6,0,0
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Green,GRN,3,2,1,0
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Working Class,WCP,14,13,0,1
+Bay,City of Bay City Ward 4 Precinct 1,Straight Party,,Natural Law,NLP,3,2,0,1
 Bay,City of Bay City Ward 4 Precinct 1,President,,Kamala D. Harris,DEM,963,346,468,149
 Bay,City of Bay City Ward 4 Precinct 1,President,,Donald J. Trump,REP,801,446,192,163
 Bay,City of Bay City Ward 4 Precinct 1,President,,Chase Oliver,LIB,6,3,2,1
@@ -1612,8 +1612,8 @@ Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1194,527,469,198
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1173,515,462,196
-Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1173,515,462,196
+Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1226,533,484,209
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 4 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1224,535,481,208
@@ -1646,13 +1646,13 @@ Bay,City of Bay City Ward 4 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 5 Precinct 1,Registered Voters - Total,,,,3095,,,
 Bay,City of Bay City Ward 5 Precinct 1,Ballots Cast - Total,,,,2124,946,876,302
 Bay,City of Bay City Ward 5 Precinct 1,Ballots Cast - Blank,,,,1,0,1,0
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Democrat,DEM,614,195,353,66
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Republican,REP,469,232,129,108
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,4,0,0
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Working Class,WCP,12,7,5,0
-Bay,City of Bay City Ward 5 Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,0,0,1
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Democrat,DEM,614,195,353,66
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Republican,REP,469,232,129,108
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Libertarian,LIB,4,4,0,0
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Working Class,WCP,12,7,5,0
+Bay,City of Bay City Ward 5 Precinct 1,Straight Party,,Natural Law,NLP,1,0,0,1
 Bay,City of Bay City Ward 5 Precinct 1,President,,Kamala D. Harris,DEM,1091,391,578,122
 Bay,City of Bay City Ward 5 Precinct 1,President,,Donald J. Trump,REP,987,531,280,176
 Bay,City of Bay City Ward 5 Precinct 1,President,,Chase Oliver,LIB,8,6,1,1
@@ -1745,8 +1745,8 @@ Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1396,639,578,179
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1368,630,557,181
-Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1368,630,557,181
+Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1456,656,607,193
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 5 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1477,670,612,195
@@ -1777,13 +1777,13 @@ Bay,City of Bay City Ward 5 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 6 Precinct 1,Registered Voters - Total,,,,3018,,,
 Bay,City of Bay City Ward 6 Precinct 1,Ballots Cast - Total,,,,1731,760,670,301
 Bay,City of Bay City Ward 6 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Democrat,DEM,535,187,282,66
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Republican,REP,433,231,109,93
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Libertarian,LIB,12,7,4,1
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,5,3,2,0
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Green,GRN,2,1,1,0
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Working Class,WCP,7,5,0,2
-Bay,City of Bay City Ward 6 Precinct 1,Straight Party Ticket,,Natural Law,NLP,3,2,1,0
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Democrat,DEM,535,187,282,66
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Republican,REP,433,231,109,93
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Libertarian,LIB,12,7,4,1
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,U.S. Taxpayers,UST,5,3,2,0
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Green,GRN,2,1,1,0
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Working Class,WCP,7,5,0,2
+Bay,City of Bay City Ward 6 Precinct 1,Straight Party,,Natural Law,NLP,3,2,1,0
 Bay,City of Bay City Ward 6 Precinct 1,President,,Kamala D. Harris,DEM,867,315,438,114
 Bay,City of Bay City Ward 6 Precinct 1,President,,Donald J. Trump,REP,828,431,211,186
 Bay,City of Bay City Ward 6 Precinct 1,President,,Chase Oliver,LIB,7,5,2,0
@@ -1876,8 +1876,8 @@ Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1106,483,455,168
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1095,485,449,161
-Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1095,485,449,161
+Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1136,492,466,178
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 6 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1137,489,473,175
@@ -1911,13 +1911,13 @@ Bay,City of Bay City Ward 6 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 7 Precinct 1,Registered Voters - Total,,,,2909,,,
 Bay,City of Bay City Ward 7 Precinct 1,Ballots Cast - Total,,,,1865,738,650,477
 Bay,City of Bay City Ward 7 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Democrat,DEM,526,147,279,100
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Republican,REP,456,220,79,157
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,2,2,0
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,5,5,0,0
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Green,GRN,2,2,0,0
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Working Class,WCP,18,10,4,4
-Bay,City of Bay City Ward 7 Precinct 1,Straight Party Ticket,,Natural Law,NLP,2,2,0,0
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Democrat,DEM,526,147,279,100
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Republican,REP,456,220,79,157
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Libertarian,LIB,4,2,2,0
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,U.S. Taxpayers,UST,5,5,0,0
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Green,GRN,2,2,0,0
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Working Class,WCP,18,10,4,4
+Bay,City of Bay City Ward 7 Precinct 1,Straight Party,,Natural Law,NLP,2,2,0,0
 Bay,City of Bay City Ward 7 Precinct 1,President,,Kamala D. Harris,DEM,940,289,464,187
 Bay,City of Bay City Ward 7 Precinct 1,President,,Donald J. Trump,REP,896,437,175,284
 Bay,City of Bay City Ward 7 Precinct 1,President,,Chase Oliver,LIB,4,2,2,0
@@ -2010,8 +2010,8 @@ Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1151,430,447,274
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1129,421,441,267
-Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1129,421,441,267
+Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1197,448,462,287
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 7 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1214,456,458,300
@@ -2042,13 +2042,13 @@ Bay,City of Bay City Ward 7 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 8 Precinct 1,Registered Voters - Total,,,,2995,,,
 Bay,City of Bay City Ward 8 Precinct 1,Ballots Cast - Total,,,,1809,758,613,438
 Bay,City of Bay City Ward 8 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Democrat,DEM,499,155,245,99
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Republican,REP,479,252,80,147
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,2,2,0
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,1,1,0
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Green,GRN,1,0,1,0
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Working Class,WCP,4,3,0,1
-Bay,City of Bay City Ward 8 Precinct 1,Straight Party Ticket,,Natural Law,NLP,4,2,2,0
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Democrat,DEM,499,155,245,99
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Republican,REP,479,252,80,147
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Libertarian,LIB,4,2,2,0
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,1,1,0
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Green,GRN,1,0,1,0
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Working Class,WCP,4,3,0,1
+Bay,City of Bay City Ward 8 Precinct 1,Straight Party,,Natural Law,NLP,4,2,2,0
 Bay,City of Bay City Ward 8 Precinct 1,President,,Kamala D. Harris,DEM,893,282,446,165
 Bay,City of Bay City Ward 8 Precinct 1,President,,Donald J. Trump,REP,885,467,151,267
 Bay,City of Bay City Ward 8 Precinct 1,President,,Chase Oliver,LIB,7,3,3,1
@@ -2141,8 +2141,8 @@ Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1120,465,397,258
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1097,451,396,250
-Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1097,451,396,250
+Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1161,480,414,267
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 8 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1159,473,416,270
@@ -2175,13 +2175,13 @@ Bay,City of Bay City Ward 8 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Bay City Ward 9 Precinct 1,Registered Voters - Total,,,,3045,,,
 Bay,City of Bay City Ward 9 Precinct 1,Ballots Cast - Total,,,,1921,824,728,369
 Bay,City of Bay City Ward 9 Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Democrat,DEM,521,144,288,89
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Republican,REP,515,278,131,106
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Libertarian,LIB,6,3,2,1
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Green,GRN,4,0,4,0
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Working Class,WCP,7,5,1,1
-Bay,City of Bay City Ward 9 Precinct 1,Straight Party Ticket,,Natural Law,NLP,3,2,1,0
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Democrat,DEM,521,144,288,89
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Republican,REP,515,278,131,106
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Libertarian,LIB,6,3,2,1
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Green,GRN,4,0,4,0
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Working Class,WCP,7,5,1,1
+Bay,City of Bay City Ward 9 Precinct 1,Straight Party,,Natural Law,NLP,3,2,1,0
 Bay,City of Bay City Ward 9 Precinct 1,President,,Kamala D. Harris,DEM,917,278,478,161
 Bay,City of Bay City Ward 9 Precinct 1,President,,Donald J. Trump,REP,973,532,237,204
 Bay,City of Bay City Ward 9 Precinct 1,President,,Chase Oliver,LIB,6,3,3,0
@@ -2274,8 +2274,8 @@ Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,sp
 Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1166,478,474,214
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1142,472,462,208
-Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1142,472,462,208
+Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1209,502,495,212
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 9 Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1188,489,483,216
@@ -2306,13 +2306,13 @@ Bay,City of Bay City Ward 9 Precinct 1,Bay Metropolitan Transportation Authority
 Bay,City of Essexville Precinct 1,Registered Voters - Total,,,,1446,,,
 Bay,City of Essexville Precinct 1,Ballots Cast - Total,,,,1120,538,431,151
 Bay,City of Essexville Precinct 1,Ballots Cast - Blank,,,,1,0,1,0
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Democrat,DEM,317,112,166,39
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Republican,REP,254,150,53,51
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Libertarian,LIB,1,1,0,0
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Working Class,WCP,3,1,1,1
-Bay,City of Essexville Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,City of Essexville Precinct 1,Straight Party,,Democrat,DEM,317,112,166,39
+Bay,City of Essexville Precinct 1,Straight Party,,Republican,REP,254,150,53,51
+Bay,City of Essexville Precinct 1,Straight Party,,Libertarian,LIB,1,1,0,0
+Bay,City of Essexville Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,City of Essexville Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,City of Essexville Precinct 1,Straight Party,,Working Class,WCP,3,1,1,1
+Bay,City of Essexville Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,City of Essexville Precinct 1,President,,Kamala D. Harris,DEM,572,209,301,62
 Bay,City of Essexville Precinct 1,President,,Donald J. Trump,REP,523,321,113,89
 Bay,City of Essexville Precinct 1,President,,Chase Oliver,LIB,7,2,5,0
@@ -2405,8 +2405,8 @@ Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,special
 Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,692,331,275,86
 Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,679,328,266,85
-Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,679,328,266,85
+Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,727,342,293,92
 Bay,City of Essexville Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,744,353,297,94
@@ -2431,13 +2431,13 @@ Bay,City of Essexville Precinct 1,Bay Metropolitan Transportation Authority Mill
 Bay,City of Essexville Precinct 2,Registered Voters - Total,,,,1483,,,
 Bay,City of Essexville Precinct 2,Ballots Cast - Total,,,,1140,547,435,158
 Bay,City of Essexville Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Democrat,DEM,255,82,134,39
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Republican,REP,279,138,89,52
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Libertarian,LIB,4,1,3,0
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Working Class,WCP,6,4,2,0
-Bay,City of Essexville Precinct 2,Straight Party Ticket,,Natural Law,NLP,1,0,1,0
+Bay,City of Essexville Precinct 2,Straight Party,,Democrat,DEM,255,82,134,39
+Bay,City of Essexville Precinct 2,Straight Party,,Republican,REP,279,138,89,52
+Bay,City of Essexville Precinct 2,Straight Party,,Libertarian,LIB,4,1,3,0
+Bay,City of Essexville Precinct 2,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,City of Essexville Precinct 2,Straight Party,,Green,GRN,1,1,0,0
+Bay,City of Essexville Precinct 2,Straight Party,,Working Class,WCP,6,4,2,0
+Bay,City of Essexville Precinct 2,Straight Party,,Natural Law,NLP,1,0,1,0
 Bay,City of Essexville Precinct 2,President,,Kamala D. Harris,DEM,534,212,259,63
 Bay,City of Essexville Precinct 2,President,,Donald J. Trump,REP,585,327,164,94
 Bay,City of Essexville Precinct 2,President,,Chase Oliver,LIB,3,1,2,0
@@ -2530,8 +2530,8 @@ Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,special
 Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,686,332,263,91
 Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,686,335,261,90
-Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,686,335,261,90
+Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,742,360,287,95
 Bay,City of Essexville Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,754,357,297,100
@@ -2556,13 +2556,13 @@ Bay,City of Essexville Precinct 2,Bay Metropolitan Transportation Authority Mill
 Bay,City of Pinconning Precinct 1,Registered Voters - Total,,,,997,,,
 Bay,City of Pinconning Precinct 1,Ballots Cast - Total,,,,624,589,0,35
 Bay,City of Pinconning Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Democrat,DEM,131,122,0,9
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Republican,REP,182,169,0,13
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,3,3,0,0
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Working Class,WCP,3,3,0,0
-Bay,City of Pinconning Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,City of Pinconning Precinct 1,Straight Party,,Democrat,DEM,131,122,0,9
+Bay,City of Pinconning Precinct 1,Straight Party,,Republican,REP,182,169,0,13
+Bay,City of Pinconning Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,City of Pinconning Precinct 1,Straight Party,,U.S. Taxpayers,UST,3,3,0,0
+Bay,City of Pinconning Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,City of Pinconning Precinct 1,Straight Party,,Working Class,WCP,3,3,0,0
+Bay,City of Pinconning Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,City of Pinconning Precinct 1,President,,Kamala D. Harris,DEM,245,232,0,13
 Bay,City of Pinconning Precinct 1,President,,Donald J. Trump,REP,335,313,0,22
 Bay,City of Pinconning Precinct 1,President,,Chase Oliver,LIB,1,1,0,0
@@ -2654,8 +2654,8 @@ Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,special
 Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,345,328,0,17
 Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,346,327,0,19
-Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,346,327,0,19
+Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Pinconning Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,353,335,0,18
 Bay,City of Pinconning Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Pinconning Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,368,349,0,19
@@ -2683,13 +2683,13 @@ Bay,City of Pinconning Precinct 1,Bay Metropolitan Transportation Authority Mill
 Bay,Frankenlust Township Precinct 1,Registered Voters - Total,,,,3193,,,
 Bay,Frankenlust Township Precinct 1,Ballots Cast - Total,,,,2502,944,"1,097",461
 Bay,Frankenlust Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Democrat,DEM,431,106,249,76
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Republican,REP,790,295,316,179
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,3,0,1
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,3,2,0,1
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Green,GRN,3,3,0,0
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Working Class,WCP,5,1,1,3
-Bay,Frankenlust Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,0,1,0
+Bay,Frankenlust Township Precinct 1,Straight Party,,Democrat,DEM,431,106,249,76
+Bay,Frankenlust Township Precinct 1,Straight Party,,Republican,REP,790,295,316,179
+Bay,Frankenlust Township Precinct 1,Straight Party,,Libertarian,LIB,4,3,0,1
+Bay,Frankenlust Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,3,2,0,1
+Bay,Frankenlust Township Precinct 1,Straight Party,,Green,GRN,3,3,0,0
+Bay,Frankenlust Township Precinct 1,Straight Party,,Working Class,WCP,5,1,1,3
+Bay,Frankenlust Township Precinct 1,Straight Party,,Natural Law,NLP,1,0,1,0
 Bay,Frankenlust Township Precinct 1,President,,Kamala D. Harris,DEM,878,261,489,128
 Bay,Frankenlust Township Precinct 1,President,,Donald J. Trump,REP,1577,657,592,328
 Bay,Frankenlust Township Precinct 1,President,,Chase Oliver,LIB,5,3,2,0
@@ -2794,8 +2794,8 @@ Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,speci
 Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1411,527,628,256
 Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1330,506,584,240
-Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1330,506,584,240
+Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Frankenlust Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1405,536,618,251
 Bay,Frankenlust Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Frankenlust Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1479,559,650,270
@@ -2830,13 +2830,13 @@ Bay,Frankenlust Township Precinct 1,Bay Metropolitan Transportation Authority Mi
 Bay,Fraser Township Precinct 1,Registered Voters - Total,,,,2559,,,
 Bay,Fraser Township Precinct 1,Ballots Cast - Total,,,,1907,"1,731",0,176
 Bay,Fraser Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Democrat,DEM,337,312,0,25
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Republican,REP,651,556,0,95
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,5,5,0,0
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Working Class,WCP,8,7,0,1
-Bay,Fraser Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,2,2,0,0
+Bay,Fraser Township Precinct 1,Straight Party,,Democrat,DEM,337,312,0,25
+Bay,Fraser Township Precinct 1,Straight Party,,Republican,REP,651,556,0,95
+Bay,Fraser Township Precinct 1,Straight Party,,Libertarian,LIB,5,5,0,0
+Bay,Fraser Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Fraser Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Fraser Township Precinct 1,Straight Party,,Working Class,WCP,8,7,0,1
+Bay,Fraser Township Precinct 1,Straight Party,,Natural Law,NLP,2,2,0,0
 Bay,Fraser Township Precinct 1,President,,Kamala D. Harris,DEM,584,540,0,44
 Bay,Fraser Township Precinct 1,President,,Donald J. Trump,REP,1293,"1,165",0,128
 Bay,Fraser Township Precinct 1,President,,Chase Oliver,LIB,5,5,0,0
@@ -2938,8 +2938,8 @@ Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1011,931,0,80
 Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,978,904,0,74
-Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,978,904,0,74
+Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1041,954,0,87
 Bay,Fraser Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1074,988,0,86
@@ -2976,13 +2976,13 @@ Bay,Fraser Township Precinct 1,Proposal F Linwood Metro Water District,,No,,49,4
 Bay,Garfield Township Precinct 1,Registered Voters - Total,,,,1465,,,
 Bay,Garfield Township Precinct 1,Ballots Cast - Total,,,,1070,995,0,75
 Bay,Garfield Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Democrat,DEM,144,140,0,4
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Republican,REP,319,291,0,28
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,4,4,0,0
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Working Class,WCP,6,5,0,1
-Bay,Garfield Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Garfield Township Precinct 1,Straight Party,,Democrat,DEM,144,140,0,4
+Bay,Garfield Township Precinct 1,Straight Party,,Republican,REP,319,291,0,28
+Bay,Garfield Township Precinct 1,Straight Party,,Libertarian,LIB,4,4,0,0
+Bay,Garfield Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Garfield Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Garfield Township Precinct 1,Straight Party,,Working Class,WCP,6,5,0,1
+Bay,Garfield Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Garfield Township Precinct 1,President,,Kamala D. Harris,DEM,311,296,0,15
 Bay,Garfield Township Precinct 1,President,,Donald J. Trump,REP,733,675,0,58
 Bay,Garfield Township Precinct 1,President,,Chase Oliver,LIB,5,5,0,0
@@ -3084,8 +3084,8 @@ Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,special,
 Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,537,500,0,37
 Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,524,490,0,34
-Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,524,490,0,34
+Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,563,527,0,36
 Bay,Garfield Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,569,532,0,37
@@ -3108,13 +3108,13 @@ Bay,Garfield Township Precinct 1,Bay Metropolitan Transportation Authority Milla
 Bay,Gibson Township Precinct 1,Registered Voters - Total,,,,934,,,
 Bay,Gibson Township Precinct 1,Ballots Cast - Total,,,,634,615,0,19
 Bay,Gibson Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Democrat,DEM,64,59,0,5
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Republican,REP,223,221,0,2
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,3,3,0,0
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Working Class,WCP,3,3,0,0
-Bay,Gibson Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Gibson Township Precinct 1,Straight Party,,Democrat,DEM,64,59,0,5
+Bay,Gibson Township Precinct 1,Straight Party,,Republican,REP,223,221,0,2
+Bay,Gibson Township Precinct 1,Straight Party,,Libertarian,LIB,3,3,0,0
+Bay,Gibson Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Gibson Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Gibson Township Precinct 1,Straight Party,,Working Class,WCP,3,3,0,0
+Bay,Gibson Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Gibson Township Precinct 1,President,,Kamala D. Harris,DEM,150,142,0,8
 Bay,Gibson Township Precinct 1,President,,Donald J. Trump,REP,473,462,0,11
 Bay,Gibson Township Precinct 1,President,,Chase Oliver,LIB,1,1,0,0
@@ -3215,8 +3215,8 @@ Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,special,Pa
 Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,322,312,0,10
 Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,306,297,0,9
-Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,306,297,0,9
+Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,328,316,0,12
 Bay,Gibson Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,328,319,0,9
@@ -3246,13 +3246,13 @@ Bay,Gibson Township Precinct 1,Bay Metropolitan Transportation Authority Millage
 Bay,Hampton Township Precinct 1,Registered Voters - Total,,,,976,,,
 Bay,Hampton Township Precinct 1,Ballots Cast - Total,,,,732,330,294,108
 Bay,Hampton Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Democrat,DEM,166,52,93,21
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Republican,REP,164,81,49,34
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,1,1,0,0
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Working Class,WCP,1,1,0,0
-Bay,Hampton Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Hampton Township Precinct 1,Straight Party,,Democrat,DEM,166,52,93,21
+Bay,Hampton Township Precinct 1,Straight Party,,Republican,REP,164,81,49,34
+Bay,Hampton Township Precinct 1,Straight Party,,Libertarian,LIB,1,1,0,0
+Bay,Hampton Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Hampton Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Hampton Township Precinct 1,Straight Party,,Working Class,WCP,1,1,0,0
+Bay,Hampton Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Hampton Township Precinct 1,President,,Kamala D. Harris,DEM,316,107,169,40
 Bay,Hampton Township Precinct 1,President,,Donald J. Trump,REP,408,220,121,67
 Bay,Hampton Township Precinct 1,President,,Chase Oliver,LIB,1,1,0,0
@@ -3360,8 +3360,8 @@ Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,special,P
 Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,371,194,127,50
 Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,366,188,130,48
-Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,366,188,130,48
+Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,417,204,157,56
 Bay,Hampton Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,429,205,165,59
@@ -3384,13 +3384,13 @@ Bay,Hampton Township Precinct 1,Bay Metropolitan Transportation Authority Millag
 Bay,Hampton Township Precinct 2,Registered Voters - Total,,,,1593,,,
 Bay,Hampton Township Precinct 2,Ballots Cast - Total,,,,1196,424,592,180
 Bay,Hampton Township Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Democrat,DEM,221,41,160,20
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Republican,REP,288,128,109,51
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,1,0,0,1
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Working Class,WCP,5,4,0,1
-Bay,Hampton Township Precinct 2,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Hampton Township Precinct 2,Straight Party,,Democrat,DEM,221,41,160,20
+Bay,Hampton Township Precinct 2,Straight Party,,Republican,REP,288,128,109,51
+Bay,Hampton Township Precinct 2,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Hampton Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,1,0,0,1
+Bay,Hampton Township Precinct 2,Straight Party,,Green,GRN,1,1,0,0
+Bay,Hampton Township Precinct 2,Straight Party,,Working Class,WCP,5,4,0,1
+Bay,Hampton Township Precinct 2,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Hampton Township Precinct 2,President,,Kamala D. Harris,DEM,502,120,326,56
 Bay,Hampton Township Precinct 2,President,,Donald J. Trump,REP,679,298,258,123
 Bay,Hampton Township Precinct 2,President,,Chase Oliver,LIB,1,0,1,0
@@ -3498,8 +3498,8 @@ Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,special,P
 Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,731,254,379,98
 Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,716,251,370,95
-Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,716,251,370,95
+Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,773,266,402,105
 Bay,Hampton Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,813,273,421,119
@@ -3522,13 +3522,13 @@ Bay,Hampton Township Precinct 2,Bay Metropolitan Transportation Authority Millag
 Bay,Hampton Township Precinct 3,Registered Voters - Total,,,,1597,,,
 Bay,Hampton Township Precinct 3,Ballots Cast - Total,,,,1177,464,560,153
 Bay,Hampton Township Precinct 3,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Democrat,DEM,273,64,176,33
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Republican,REP,273,125,91,57
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Libertarian,LIB,1,0,1,0
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,U.S. Taxpayers,UST,2,0,2,0
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Green,GRN,1,0,1,0
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Working Class,WCP,4,3,0,1
-Bay,Hampton Township Precinct 3,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Hampton Township Precinct 3,Straight Party,,Democrat,DEM,273,64,176,33
+Bay,Hampton Township Precinct 3,Straight Party,,Republican,REP,273,125,91,57
+Bay,Hampton Township Precinct 3,Straight Party,,Libertarian,LIB,1,0,1,0
+Bay,Hampton Township Precinct 3,Straight Party,,U.S. Taxpayers,UST,2,0,2,0
+Bay,Hampton Township Precinct 3,Straight Party,,Green,GRN,1,0,1,0
+Bay,Hampton Township Precinct 3,Straight Party,,Working Class,WCP,4,3,0,1
+Bay,Hampton Township Precinct 3,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Hampton Township Precinct 3,President,,Kamala D. Harris,DEM,529,151,326,52
 Bay,Hampton Township Precinct 3,President,,Donald J. Trump,REP,623,308,216,99
 Bay,Hampton Township Precinct 3,President,,Chase Oliver,LIB,6,1,5,0
@@ -3636,8 +3636,8 @@ Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,special,P
 Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,730,301,342,87
 Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,691,290,320,81
-Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,691,290,320,81
+Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,751,304,355,92
 Bay,Hampton Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Judge of District Court 74th District,,Timothy J. Kelly,,773,315,366,92
@@ -3665,13 +3665,13 @@ Bay,Hampton Township Precinct 3,Bay Metropolitan Transportation Authority Millag
 Bay,Hampton Township Precinct 4,Registered Voters - Total,,,,2139,,,
 Bay,Hampton Township Precinct 4,Ballots Cast - Total,,,,1393,506,652,235
 Bay,Hampton Township Precinct 4,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Democrat,DEM,400,89,253,58
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Republican,REP,332,140,113,79
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Libertarian,LIB,4,3,0,1
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,U.S. Taxpayers,UST,3,3,0,0
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Working Class,WCP,10,8,0,2
-Bay,Hampton Township Precinct 4,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Hampton Township Precinct 4,Straight Party,,Democrat,DEM,400,89,253,58
+Bay,Hampton Township Precinct 4,Straight Party,,Republican,REP,332,140,113,79
+Bay,Hampton Township Precinct 4,Straight Party,,Libertarian,LIB,4,3,0,1
+Bay,Hampton Township Precinct 4,Straight Party,,U.S. Taxpayers,UST,3,3,0,0
+Bay,Hampton Township Precinct 4,Straight Party,,Green,GRN,1,1,0,0
+Bay,Hampton Township Precinct 4,Straight Party,,Working Class,WCP,10,8,0,2
+Bay,Hampton Township Precinct 4,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Hampton Township Precinct 4,President,,Kamala D. Harris,DEM,720,201,423,96
 Bay,Hampton Township Precinct 4,President,,Donald J. Trump,REP,639,288,216,135
 Bay,Hampton Township Precinct 4,President,,Chase Oliver,LIB,7,3,4,0
@@ -3779,8 +3779,8 @@ Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,special,P
 Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,891,341,405,145
 Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,877,333,399,145
-Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,877,333,399,145
+Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,925,343,429,153
 Bay,Hampton Township Precinct 4,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Judge of District Court 74th District,,Timothy J. Kelly,,933,347,435,151
@@ -3808,13 +3808,13 @@ Bay,Hampton Township Precinct 4,Bay Metropolitan Transportation Authority Millag
 Bay,Hampton Township Precinct 5,Registered Voters - Total,,,,1423,,,
 Bay,Hampton Township Precinct 5,Ballots Cast - Total,,,,940,406,423,111
 Bay,Hampton Township Precinct 5,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Democrat,DEM,201,78,100,23
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Republican,REP,230,124,72,34
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Libertarian,LIB,3,2,1,0
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Working Class,WCP,3,2,0,1
-Bay,Hampton Township Precinct 5,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Hampton Township Precinct 5,Straight Party,,Democrat,DEM,201,78,100,23
+Bay,Hampton Township Precinct 5,Straight Party,,Republican,REP,230,124,72,34
+Bay,Hampton Township Precinct 5,Straight Party,,Libertarian,LIB,3,2,1,0
+Bay,Hampton Township Precinct 5,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Hampton Township Precinct 5,Straight Party,,Green,GRN,0,0,0,0
+Bay,Hampton Township Precinct 5,Straight Party,,Working Class,WCP,3,2,0,1
+Bay,Hampton Township Precinct 5,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Hampton Township Precinct 5,President,,Kamala D. Harris,DEM,397,128,233,36
 Bay,Hampton Township Precinct 5,President,,Donald J. Trump,REP,524,273,178,73
 Bay,Hampton Township Precinct 5,President,,Chase Oliver,LIB,5,1,3,1
@@ -3922,8 +3922,8 @@ Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,special,P
 Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,522,233,227,62
 Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,510,229,223,58
-Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,510,229,223,58
+Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,560,246,254,60
 Bay,Hampton Township Precinct 5,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Judge of District Court 74th District,,Timothy J. Kelly,,555,238,254,63
@@ -3946,13 +3946,13 @@ Bay,Hampton Township Precinct 5,Bay Metropolitan Transportation Authority Millag
 Bay,Kawkawlin Township Precinct 1,Registered Voters - Total,,,,3981,,,
 Bay,Kawkawlin Township Precinct 1,Ballots Cast - Total,,,,2937,"1,592","1,091",254
 Bay,Kawkawlin Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Democrat,DEM,460,155,266,39
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Republican,REP,772,489,202,81
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,6,4,2,0
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,4,3,1,0
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Working Class,WCP,9,8,1,0
-Bay,Kawkawlin Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Democrat,DEM,460,155,266,39
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Republican,REP,772,489,202,81
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Libertarian,LIB,6,4,2,0
+Bay,Kawkawlin Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,4,3,1,0
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Working Class,WCP,9,8,1,0
+Bay,Kawkawlin Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,President,,Kamala D. Harris,DEM,975,345,558,72
 Bay,Kawkawlin Township Precinct 1,President,,Donald J. Trump,REP,1912,"1,220",511,181
 Bay,Kawkawlin Township Precinct 1,President,,Chase Oliver,LIB,9,6,3,0
@@ -4057,8 +4057,8 @@ Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,special
 Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1678,871,669,138
 Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1633,841,652,140
-Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1633,841,652,140
+Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1724,880,693,151
 Bay,Kawkawlin Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1756,903,701,152
@@ -4106,13 +4106,13 @@ Bay,Kawkawlin Township Precinct 1,Proposal F Linwood Metro Water District,,No,,1
 Bay,Merritt Township Precinct 1,Registered Voters - Total,,,,1126,,,
 Bay,Merritt Township Precinct 1,Ballots Cast - Total,,,,899,824,0,75
 Bay,Merritt Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Democrat,DEM,104,91,0,13
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Republican,REP,282,258,0,24
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,2,0,0
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Green,GRN,4,4,0,0
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Working Class,WCP,4,4,0,0
-Bay,Merritt Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Merritt Township Precinct 1,Straight Party,,Democrat,DEM,104,91,0,13
+Bay,Merritt Township Precinct 1,Straight Party,,Republican,REP,282,258,0,24
+Bay,Merritt Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Merritt Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,2,0,0
+Bay,Merritt Township Precinct 1,Straight Party,,Green,GRN,4,4,0,0
+Bay,Merritt Township Precinct 1,Straight Party,,Working Class,WCP,4,4,0,0
+Bay,Merritt Township Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Merritt Township Precinct 1,President,,Kamala D. Harris,DEM,224,198,0,26
 Bay,Merritt Township Precinct 1,President,,Donald J. Trump,REP,658,610,0,48
 Bay,Merritt Township Precinct 1,President,,Chase Oliver,LIB,1,1,0,0
@@ -4214,8 +4214,8 @@ Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,special,P
 Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,545,499,0,46
 Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,529,483,0,46
-Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,529,483,0,46
+Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,558,510,0,48
 Bay,Merritt Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,586,536,0,50
@@ -4250,13 +4250,13 @@ Bay,Merritt Township Precinct 1,Bay Metropolitan Transportation Authority Millag
 Bay,Monitor Township Precinct 1,Registered Voters - Total,,,,2229,,,
 Bay,Monitor Township Precinct 1,Ballots Cast - Total,,,,1579,645,710,224
 Bay,Monitor Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Democrat,DEM,329,89,201,39
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Republican,REP,383,178,144,61
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,5,1,3,1
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Working Class,WCP,7,6,0,1
-Bay,Monitor Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Monitor Township Precinct 1,Straight Party,,Democrat,DEM,329,89,201,39
+Bay,Monitor Township Precinct 1,Straight Party,,Republican,REP,383,178,144,61
+Bay,Monitor Township Precinct 1,Straight Party,,Libertarian,LIB,5,1,3,1
+Bay,Monitor Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Monitor Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Monitor Township Precinct 1,Straight Party,,Working Class,WCP,7,6,0,1
+Bay,Monitor Township Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Monitor Township Precinct 1,President,,Kamala D. Harris,DEM,648,185,383,80
 Bay,Monitor Township Precinct 1,President,,Donald J. Trump,REP,910,450,319,141
 Bay,Monitor Township Precinct 1,President,,Chase Oliver,LIB,2,1,1,0
@@ -4360,8 +4360,8 @@ Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,special,P
 Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,946,365,459,122
 Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,909,360,436,113
-Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,909,360,436,113
+Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,966,376,464,126
 Bay,Monitor Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1014,397,485,132
@@ -4395,13 +4395,13 @@ Bay,Monitor Township Precinct 1,Bangor Monitor Charter Amendment Bangor-Monitor 
 Bay,Monitor Township Precinct 2,Registered Voters - Total,,,,3367,,,
 Bay,Monitor Township Precinct 2,Ballots Cast - Total,,,,2673,734,"1,386",553
 Bay,Monitor Township Precinct 2,Ballots Cast - Blank,,,,1,0,1,0
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Democrat,DEM,561,96,393,72
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Republican,REP,663,218,268,177
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Libertarian,LIB,1,0,1,0
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Working Class,WCP,3,2,0,1
-Bay,Monitor Township Precinct 2,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Monitor Township Precinct 2,Straight Party,,Democrat,DEM,561,96,393,72
+Bay,Monitor Township Precinct 2,Straight Party,,Republican,REP,663,218,268,177
+Bay,Monitor Township Precinct 2,Straight Party,,Libertarian,LIB,1,0,1,0
+Bay,Monitor Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Monitor Township Precinct 2,Straight Party,,Green,GRN,1,1,0,0
+Bay,Monitor Township Precinct 2,Straight Party,,Working Class,WCP,3,2,0,1
+Bay,Monitor Township Precinct 2,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Monitor Township Precinct 2,President,,Kamala D. Harris,DEM,1173,225,766,182
 Bay,Monitor Township Precinct 2,President,,Donald J. Trump,REP,1452,494,597,361
 Bay,Monitor Township Precinct 2,President,,Chase Oliver,LIB,8,5,2,1
@@ -4505,8 +4505,8 @@ Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,special,P
 Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1540,389,850,301
 Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1489,381,815,293
-Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1489,381,815,293
+Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1595,392,894,309
 Bay,Monitor Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,1677,418,930,329
@@ -4539,13 +4539,13 @@ Bay,Monitor Township Precinct 2,Bangor Monitor Charter Amendment Bangor-Monitor 
 Bay,Monitor Township Precinct 3,Registered Voters - Total,,,,3662,,,
 Bay,Monitor Township Precinct 3,Ballots Cast - Total,,,,2910,"1,186","1,198",526
 Bay,Monitor Township Precinct 3,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Democrat,DEM,434,104,270,60
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Republican,REP,801,379,242,180
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Libertarian,LIB,6,3,1,2
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,U.S. Taxpayers,UST,7,1,6,0
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Working Class,WCP,5,5,0,0
-Bay,Monitor Township Precinct 3,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Monitor Township Precinct 3,Straight Party,,Democrat,DEM,434,104,270,60
+Bay,Monitor Township Precinct 3,Straight Party,,Republican,REP,801,379,242,180
+Bay,Monitor Township Precinct 3,Straight Party,,Libertarian,LIB,6,3,1,2
+Bay,Monitor Township Precinct 3,Straight Party,,U.S. Taxpayers,UST,7,1,6,0
+Bay,Monitor Township Precinct 3,Straight Party,,Green,GRN,0,0,0,0
+Bay,Monitor Township Precinct 3,Straight Party,,Working Class,WCP,5,5,0,0
+Bay,Monitor Township Precinct 3,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Monitor Township Precinct 3,President,,Kamala D. Harris,DEM,984,269,593,122
 Bay,Monitor Township Precinct 3,President,,Donald J. Trump,REP,1861,880,582,399
 Bay,Monitor Township Precinct 3,President,,Chase Oliver,LIB,13,7,3,3
@@ -4649,8 +4649,8 @@ Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,special,P
 Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1546,630,631,285
 Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1479,611,595,273
-Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1479,611,595,273
+Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1608,648,665,295
 Bay,Monitor Township Precinct 3,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Judge of District Court 74th District,,Timothy J. Kelly,,1687,681,694,312
@@ -4679,13 +4679,13 @@ Bay,Monitor Township Precinct 3,Bay Metropolitan Transportation Authority Millag
 Bay,Mount Forest Township Precinct 1,Registered Voters - Total,,,,1206,,,
 Bay,Mount Forest Township Precinct 1,Ballots Cast - Total,,,,858,808,0,50
 Bay,Mount Forest Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Democrat,DEM,110,102,0,8
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Republican,REP,295,270,0,25
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,2,2,0,0
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Working Class,WCP,8,8,0,0
-Bay,Mount Forest Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Mount Forest Township Precinct 1,Straight Party,,Democrat,DEM,110,102,0,8
+Bay,Mount Forest Township Precinct 1,Straight Party,,Republican,REP,295,270,0,25
+Bay,Mount Forest Township Precinct 1,Straight Party,,Libertarian,LIB,2,2,0,0
+Bay,Mount Forest Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Mount Forest Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Mount Forest Township Precinct 1,Straight Party,,Working Class,WCP,8,8,0,0
+Bay,Mount Forest Township Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Mount Forest Township Precinct 1,President,,Kamala D. Harris,DEM,213,202,0,11
 Bay,Mount Forest Township Precinct 1,President,,Donald J. Trump,REP,630,592,0,38
 Bay,Mount Forest Township Precinct 1,President,,Chase Oliver,LIB,4,4,0,0
@@ -4787,8 +4787,8 @@ Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,spec
 Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,442,419,0,23
 Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,436,411,0,25
-Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,436,411,0,25
+Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Mount Forest Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,453,428,0,25
 Bay,Mount Forest Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Mount Forest Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,468,442,0,26
@@ -4811,13 +4811,13 @@ Bay,Mount Forest Township Precinct 1,Bay Metropolitan Transportation Authority M
 Bay,Pinconning Township Precinct 1,Registered Voters - Total,,,,1933,,,
 Bay,Pinconning Township Precinct 1,Ballots Cast - Total,,,,1429,"1,315",0,114
 Bay,Pinconning Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Democrat,DEM,226,208,0,18
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Republican,REP,480,429,0,51
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,1,1,0,0
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Working Class,WCP,14,14,0,0
-Bay,Pinconning Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Pinconning Township Precinct 1,Straight Party,,Democrat,DEM,226,208,0,18
+Bay,Pinconning Township Precinct 1,Straight Party,,Republican,REP,480,429,0,51
+Bay,Pinconning Township Precinct 1,Straight Party,,Libertarian,LIB,1,1,0,0
+Bay,Pinconning Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Pinconning Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Pinconning Township Precinct 1,Straight Party,,Working Class,WCP,14,14,0,0
+Bay,Pinconning Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Pinconning Township Precinct 1,President,,Kamala D. Harris,DEM,418,390,0,28
 Bay,Pinconning Township Precinct 1,President,,Donald J. Trump,REP,984,899,0,85
 Bay,Pinconning Township Precinct 1,President,,Chase Oliver,LIB,3,3,0,0
@@ -4919,8 +4919,8 @@ Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,specia
 Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,775,726,0,49
 Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,767,716,0,51
-Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,767,716,0,51
+Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Pinconning Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,796,744,0,52
 Bay,Pinconning Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Pinconning Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,823,763,0,60
@@ -4950,13 +4950,13 @@ Bay,Pinconning Township Precinct 1,Bay Metropolitan Transportation Authority Mil
 Bay,Portsmouth Township Precinct 1,Registered Voters - Total,,,,1228,,,
 Bay,Portsmouth Township Precinct 1,Ballots Cast - Total,,,,942,494,357,91
 Bay,Portsmouth Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Democrat,DEM,170,55,100,15
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Republican,REP,250,155,66,29
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,1,1,0,0
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,1,1,0
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Working Class,WCP,4,4,0,0
-Bay,Portsmouth Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Portsmouth Township Precinct 1,Straight Party,,Democrat,DEM,170,55,100,15
+Bay,Portsmouth Township Precinct 1,Straight Party,,Republican,REP,250,155,66,29
+Bay,Portsmouth Township Precinct 1,Straight Party,,Libertarian,LIB,1,1,0,0
+Bay,Portsmouth Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,1,1,0
+Bay,Portsmouth Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Portsmouth Township Precinct 1,Straight Party,,Working Class,WCP,4,4,0,0
+Bay,Portsmouth Township Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Portsmouth Township Precinct 1,President,,Kamala D. Harris,DEM,343,120,194,29
 Bay,Portsmouth Township Precinct 1,President,,Donald J. Trump,REP,578,362,155,61
 Bay,Portsmouth Township Precinct 1,President,,Chase Oliver,LIB,0,0,0,0
@@ -5060,8 +5060,8 @@ Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,specia
 Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,581,299,235,47
 Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,558,289,227,42
-Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,558,289,227,42
+Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,586,305,237,44
 Bay,Portsmouth Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,605,318,238,49
@@ -5089,13 +5089,13 @@ Bay,Portsmouth Township Precinct 1,Bay Metropolitan Transportation Authority Mil
 Bay,Portsmouth Township Precinct 2,Registered Voters - Total,,,,1688,,,
 Bay,Portsmouth Township Precinct 2,Ballots Cast - Total,,,,1204,566,490,148
 Bay,Portsmouth Township Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Democrat,DEM,259,92,132,35
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Republican,REP,290,173,73,44
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Libertarian,LIB,2,2,0,0
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,1,1,0,0
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Working Class,WCP,6,5,1,0
-Bay,Portsmouth Township Precinct 2,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Portsmouth Township Precinct 2,Straight Party,,Democrat,DEM,259,92,132,35
+Bay,Portsmouth Township Precinct 2,Straight Party,,Republican,REP,290,173,73,44
+Bay,Portsmouth Township Precinct 2,Straight Party,,Libertarian,LIB,2,2,0,0
+Bay,Portsmouth Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,1,1,0,0
+Bay,Portsmouth Township Precinct 2,Straight Party,,Green,GRN,0,0,0,0
+Bay,Portsmouth Township Precinct 2,Straight Party,,Working Class,WCP,6,5,1,0
+Bay,Portsmouth Township Precinct 2,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Portsmouth Township Precinct 2,President,,Kamala D. Harris,DEM,504,173,266,65
 Bay,Portsmouth Township Precinct 2,President,,Donald J. Trump,REP,677,388,207,82
 Bay,Portsmouth Township Precinct 2,President,,Chase Oliver,LIB,3,1,2,0
@@ -5199,8 +5199,8 @@ Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,specia
 Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,746,349,311,86
 Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,710,330,296,84
-Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,710,330,296,84
+Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,773,355,324,94
 Bay,Portsmouth Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,787,353,342,92
@@ -5228,13 +5228,13 @@ Bay,Portsmouth Township Precinct 2,Bay Metropolitan Transportation Authority Mil
 Bay,Williams Township Precinct 1,Registered Voters - Total,,,,2656,,,
 Bay,Williams Township Precinct 1,Ballots Cast - Total,,,,2110,"1,142",751,217
 Bay,Williams Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Democrat,DEM,288,109,162,17
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Republican,REP,545,335,121,89
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,3,3,0,0
-Bay,Williams Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,2,2,0,0
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Green,GRN,1,1,0,0
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Working Class,WCP,5,4,1,0
-Bay,Williams Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,1,1,0,0
+Bay,Williams Township Precinct 1,Straight Party,,Democrat,DEM,288,109,162,17
+Bay,Williams Township Precinct 1,Straight Party,,Republican,REP,545,335,121,89
+Bay,Williams Township Precinct 1,Straight Party,,Libertarian,LIB,3,3,0,0
+Bay,Williams Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,2,2,0,0
+Bay,Williams Township Precinct 1,Straight Party,,Green,GRN,1,1,0,0
+Bay,Williams Township Precinct 1,Straight Party,,Working Class,WCP,5,4,1,0
+Bay,Williams Township Precinct 1,Straight Party,,Natural Law,NLP,1,1,0,0
 Bay,Williams Township Precinct 1,President,,Kamala D. Harris,DEM,694,272,382,40
 Bay,Williams Township Precinct 1,President,,Donald J. Trump,REP,1371,847,352,172
 Bay,Williams Township Precinct 1,President,,Chase Oliver,LIB,10,9,0,1
@@ -5340,8 +5340,8 @@ Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,special,
 Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1162,631,411,120
 Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1120,606,402,112
-Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,1120,606,402,112
+Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,1168,629,426,113
 Bay,Williams Township Precinct 1,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Judge of District Court 74th District,,Timothy J. Kelly,,1195,636,431,128
@@ -5369,13 +5369,13 @@ Bay,Williams Township Precinct 1,Bay Metropolitan Transportation Authority Milla
 Bay,Williams Township Precinct 2,Registered Voters - Total,,,,1598,,,
 Bay,Williams Township Precinct 2,Ballots Cast - Total,,,,1104,621,367,116
 Bay,Williams Township Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Democrat,DEM,182,69,88,25
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Republican,REP,337,206,89,42
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Williams Township Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,3,2,1,0
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Green,GRN,2,2,0,0
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Working Class,WCP,1,1,0,0
-Bay,Williams Township Precinct 2,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Williams Township Precinct 2,Straight Party,,Democrat,DEM,182,69,88,25
+Bay,Williams Township Precinct 2,Straight Party,,Republican,REP,337,206,89,42
+Bay,Williams Township Precinct 2,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Williams Township Precinct 2,Straight Party,,U.S. Taxpayers,UST,3,2,1,0
+Bay,Williams Township Precinct 2,Straight Party,,Green,GRN,2,2,0,0
+Bay,Williams Township Precinct 2,Straight Party,,Working Class,WCP,1,1,0,0
+Bay,Williams Township Precinct 2,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Williams Township Precinct 2,President,,Kamala D. Harris,DEM,382,158,182,42
 Bay,Williams Township Precinct 2,President,,Donald J. Trump,REP,699,450,176,73
 Bay,Williams Township Precinct 2,President,,Chase Oliver,LIB,4,3,1,0
@@ -5481,8 +5481,8 @@ Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,special,
 Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,662,362,231,69
 Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,645,355,223,67
-Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,645,355,223,67
+Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,666,367,230,69
 Bay,Williams Township Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Judge of District Court 74th District,,Timothy J. Kelly,,668,368,229,71
@@ -5510,13 +5510,13 @@ Bay,Williams Township Precinct 2,Bay Metropolitan Transportation Authority Milla
 Bay,City of Midland Precinct 2,Registered Voters - Total,,,,137,,,
 Bay,City of Midland Precinct 2,Ballots Cast - Total,,,,86,86,0,0
 Bay,City of Midland Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,City of Midland Precinct 2,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Republican,REP,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Green,GRN,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,City of Midland Precinct 2,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,City of Midland Precinct 2,President,,Kamala D. Harris,DEM,33,33,0,0
 Bay,City of Midland Precinct 2,President,,Donald J. Trump,REP,52,52,0,0
 Bay,City of Midland Precinct 2,President,,Chase Oliver,LIB,1,1,0,0
@@ -5608,8 +5608,8 @@ Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,special,Pa
 Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,48,48,0,0
 Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
-Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,46,46,0,0
-Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
+Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,special,Allie Greenleaf Maldonado,,46,46,0,0
+Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,special,Write-ins,,0,0,0,0
 Bay,City of Midland Precinct 2,Judge of Probate Court Bay County Probate Court,,Jan A. Miner,,48,48,0,0
 Bay,City of Midland Precinct 2,Judge of Probate Court Bay County Probate Court,,Write-ins,,0,0,0,0
 Bay,City of Midland Precinct 2,Delta College Board of Trustees Member County of Bay Delta College,,Michael D. Rowley,,46,46,0,0
@@ -5635,26 +5635,26 @@ Bay,City of Midland Precinct 2,Bay Metropolitan Transportation Authority Millage
 Bay,Bently Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Bently Township Precinct 1,Ballots Cast - Total,,,,500,500,0,0
 Bay,Bently Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Bently Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Bently Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Bently Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Paul Grzegorczyk,,268,268,0,0
 Bay,Bently Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Write-ins,,0,0,0,0
 Bay,Bently Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Write-ins,,0,0,0,0
 Bay,Buena Vista Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Buena Vista Township Precinct 1,Ballots Cast - Total,,,,19,19,0,0
 Bay,Buena Vista Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Buena Vista Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Buena Vista Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Buena Vista Township Precinct 1,Local School District Board Member Bay City Public Schools,,Thomas A. Baird,,11,11,0,0
 Bay,Buena Vista Township Precinct 1,Local School District Board Member Bay City Public Schools,,Christopher Connors,,11,11,0,0
 Bay,Buena Vista Township Precinct 1,Local School District Board Member Bay City Public Schools,,David Hackett,,5,5,0,0
@@ -5666,26 +5666,26 @@ Bay,Buena Vista Township Precinct 1,Local School District Board Member Bay City 
 Bay,Grim Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Grim Township Precinct 1,Ballots Cast - Total,,,,16,16,0,0
 Bay,Grim Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Grim Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Grim Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Grim Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Paul Grzegorczyk,,5,5,0,0
 Bay,Grim Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Write-ins,,0,0,0,0
 Bay,Grim Township Precinct 1,Local School District Board Member Pinconning Area Schools,,Write-ins,,0,0,0,0
 Bay,Kochville Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Kochville Township Precinct 1,Ballots Cast - Total,,,,18,18,0,0
 Bay,Kochville Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Kochville Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Kochville Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Kochville Township Precinct 1,Local School District Board Member Bay City Public Schools,,Thomas A. Baird,,18,18,0,0
 Bay,Kochville Township Precinct 1,Local School District Board Member Bay City Public Schools,,Christopher Connors,,13,13,0,0
 Bay,Kochville Township Precinct 1,Local School District Board Member Bay City Public Schools,,David Hackett,,16,16,0,0
@@ -5697,13 +5697,13 @@ Bay,Kochville Township Precinct 1,Local School District Board Member Bay City Pu
 Bay,Titabawassee Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Titabawassee Township Precinct 1,Ballots Cast - Total,,,,4,4,0,0
 Bay,Titabawassee Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Titabawassee Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Titabawassee Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Titabawassee Township Precinct 1,Local School District Board Member Bay City Public Schools,,Thomas A. Baird,,2,2,0,0
 Bay,Titabawassee Township Precinct 1,Local School District Board Member Bay City Public Schools,,Christopher Connors,,0,0,0,0
 Bay,Titabawassee Township Precinct 1,Local School District Board Member Bay City Public Schools,,David Hackett,,4,4,0,0
@@ -5715,13 +5715,13 @@ Bay,Titabawassee Township Precinct 1,Local School District Board Member Bay City
 Bay,Zilwaukee Township Precinct 1,Registered Voters - Total,,,,0,,,
 Bay,Zilwaukee Township Precinct 1,Ballots Cast - Total,,,,10,10,0,0
 Bay,Zilwaukee Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Democrat,DEM,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Republican,REP,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Libertarian,LIB,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,U.S. Taxpayers,UST,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Green,GRN,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Working Class,WCP,0,0,0,0
-Bay,Zilwaukee Township Precinct 1,Straight Party Ticket,,Natural Law,NLP,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Democrat,DEM,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Republican,REP,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Libertarian,LIB,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,U.S. Taxpayers,UST,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Green,GRN,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Working Class,WCP,0,0,0,0
+Bay,Zilwaukee Township Precinct 1,Straight Party,,Natural Law,NLP,0,0,0,0
 Bay,Zilwaukee Township Precinct 1,Local School District Board Member Bay City Public Schools,,Thomas A. Baird,,4,4,0,0
 Bay,Zilwaukee Township Precinct 1,Local School District Board Member Bay City Public Schools,,Christopher Connors,,6,6,0,0
 Bay,Zilwaukee Township Precinct 1,Local School District Board Member Bay City Public Schools,,David Hackett,,9,9,0,0

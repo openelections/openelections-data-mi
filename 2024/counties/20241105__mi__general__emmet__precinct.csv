@@ -1,4 +1,4 @@
-county,precinct,offfice,district,party,candidate,votes,election_day,absentee,early_voting
+county,precinct,office,district,party,candidate,votes,election_day,absentee,early_voting
 Emmet,Bear Creek Township Precinct 1,Registered Voters,,,,2702,,,
 Emmet,Bear Creek Township Precinct 1,Ballots Cast,,,,2073,624,1154,295
 Emmet,Bear Creek Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0

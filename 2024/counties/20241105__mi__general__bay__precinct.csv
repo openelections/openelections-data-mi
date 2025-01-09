@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,votes,election_day,absentee,early_voting
+county,precinct,office,district,candidate,party,votes,election_day,absentee,early_voting
 Bay,Bangor Township Precinct 1,Registered Voters - Total,,,,1461,,,
 Bay,Bangor Township Precinct 1,Ballots Cast - Total,,,,1130,502,478,150
 Bay,Bangor Township Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
@@ -109,9 +109,9 @@ Bay,Bangor Township Precinct 1,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,367,185,130,52
 Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,479,185,237,57
 Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,466,174,235,57
-Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,366,185,132,49
-Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,466,174,235,57
+Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,366,185,132,49
+Bay,Bangor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,666,297,286,83
 Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,634,279,279,76
@@ -247,9 +247,9 @@ Bay,Bangor Township Precinct 2,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,401,205,130,66
 Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,635,222,344,69
 Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,555,200,292,63
-Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,467,219,175,73
-Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,555,200,292,63
+Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,467,219,175,73
+Bay,Bangor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,808,347,359,102
 Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,784,330,354,100
@@ -385,9 +385,9 @@ Bay,Bangor Township Precinct 3,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Andrew Fink,,380,158,123,99
 Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,656,247,315,94
 Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,639,232,315,92
-Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,383,164,127,92
-Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,639,232,315,92
+Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,383,164,127,92
+Bay,Bangor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,851,338,366,147
 Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,834,332,359,143
@@ -529,9 +529,9 @@ Bay,Bangor Township Precinct 4,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Andrew Fink,,305,147,109,49
 Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,601,199,323,79
 Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,502,166,271,65
-Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,391,172,158,61
-Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,502,166,271,65
+Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,391,172,158,61
+Bay,Bangor Township Precinct 4,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,704,269,347,88
 Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 4,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,681,260,339,82
@@ -672,9 +672,9 @@ Bay,Bangor Township Precinct 5,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Andrew Fink,,549,288,165,96
 Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,874,317,456,101
 Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,841,329,411,101
-Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,564,272,200,92
-Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,841,329,411,101
+Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,564,272,200,92
+Bay,Bangor Township Precinct 5,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1142,486,500,156
 Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 5,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1109,474,483,152
@@ -810,9 +810,9 @@ Bay,Bangor Township Precinct 6,Trustee Bangor Township,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Andrew Fink,,414,191,130,93
 Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,726,242,379,105
 Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,633,206,329,98
-Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,496,219,174,103
-Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,633,206,329,98
+Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,496,219,174,103
+Bay,Bangor Township Precinct 6,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,887,325,408,154
 Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Bangor Township Precinct 6,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,876,327,402,147
@@ -948,9 +948,9 @@ Bay,Beaver Township Precinct 1,Trustee Beaver Township,,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,615,551,0,64
 Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,613,577,0,36
 Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,591,557,0,34
-Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,615,549,0,66
-Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,591,557,0,34
+Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,615,549,0,66
+Bay,Beaver Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,895,826,0,69
 Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Beaver Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,870,803,0,67
@@ -1078,9 +1078,9 @@ Bay,City of Auburn Precinct 1,County Commissioner County Commissioner District 0
 Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,371,227,104,40
 Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,560,250,267,43
 Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,520,238,237,45
-Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,410,234,137,39
-Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,520,238,237,45
+Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,410,234,137,39
+Bay,City of Auburn Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,765,397,299,69
 Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Auburn Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,722,377,282,63
@@ -1214,9 +1214,9 @@ Bay,City of Bay City Ward 1 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,501,225,181,95
 Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,946,321,470,155
 Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,986,340,475,171
-Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,474,214,179,81
-Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,986,340,475,171
+Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,474,214,179,81
+Bay,City of Bay City Ward 1 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1174,447,518,209
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 1 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1154,433,517,204
@@ -1344,9 +1344,9 @@ Bay,City of Bay City Ward 2 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,438,184,138,116
 Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1128,355,544,229
 Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,1039,329,504,206
-Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,512,201,175,136
-Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,1039,329,504,206
+Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,512,201,175,136
+Bay,City of Bay City Ward 2 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1216,442,518,256
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 2 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1179,425,506,248
@@ -1477,9 +1477,9 @@ Bay,City of Bay City Ward 3 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,432,244,120,68
 Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,909,358,417,134
 Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,918,375,407,136
-Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,416,223,127,66
-Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,918,375,407,136
+Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,416,223,127,66
+Bay,City of Bay City Ward 3 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1091,515,425,151
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 3 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1082,506,426,150
@@ -1607,9 +1607,9 @@ Bay,City of Bay City Ward 4 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,411,226,112,73
 Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1004,392,444,168
 Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,910,354,399,157
-Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,490,249,160,81
-Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,910,354,399,157
+Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,490,249,160,81
+Bay,City of Bay City Ward 4 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1194,527,469,198
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 4 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1173,515,462,196
@@ -1740,9 +1740,9 @@ Bay,City of Bay City Ward 5 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,610,329,180,101
 Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1037,391,523,123
 Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,1086,437,521,128
-Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,546,278,179,89
-Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,1086,437,521,128
+Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,546,278,179,89
+Bay,City of Bay City Ward 5 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1396,639,578,179
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 5 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1368,630,557,181
@@ -1871,9 +1871,9 @@ Bay,City of Bay City Ward 6 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,458,223,122,113
 Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,899,355,427,117
 Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,794,319,365,110
-Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,542,244,178,120
-Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,794,319,365,110
+Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,542,244,178,120
+Bay,City of Bay City Ward 6 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1106,483,455,168
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 6 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1095,485,449,161
@@ -2005,9 +2005,9 @@ Bay,City of Bay City Ward 7 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,526,229,130,167
 Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,892,298,398,196
 Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,904,305,406,193
-Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,514,216,129,169
-Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,904,305,406,193
+Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,514,216,129,169
+Bay,City of Bay City Ward 7 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1151,430,447,274
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 7 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1129,421,441,267
@@ -2136,9 +2136,9 @@ Bay,City of Bay City Ward 8 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,449,238,81,130
 Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,915,321,402,192
 Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,840,303,371,166
-Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,510,247,112,151
-Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,840,303,371,166
+Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,510,247,112,151
+Bay,City of Bay City Ward 8 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1120,465,397,258
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 8 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1097,451,396,250
@@ -2269,9 +2269,9 @@ Bay,City of Bay City Ward 9 Precinct 1,County Commissioner County Commissioner D
 Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,529,260,157,112
 Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,898,316,419,163
 Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,918,331,416,171
-Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,505,241,154,110
-Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,918,331,416,171
+Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,505,241,154,110
+Bay,City of Bay City Ward 9 Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1166,478,474,214
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Bay City Ward 9 Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1142,472,462,208
@@ -2400,9 +2400,9 @@ Bay,City of Essexville Precinct 1,County Commissioner County Commissioner Distri
 Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,275,155,79,41
 Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,586,247,274,65
 Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,562,234,254,74
-Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,298,170,93,35
-Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,562,234,254,74
+Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,298,170,93,35
+Bay,City of Essexville Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,692,331,275,86
 Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,679,328,266,85
@@ -2525,9 +2525,9 @@ Bay,City of Essexville Precinct 2,County Commissioner County Commissioner Distri
 Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,328,174,101,53
 Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,518,225,233,60
 Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,558,252,239,67
-Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,292,145,100,47
-Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,558,252,239,67
+Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,292,145,100,47
+Bay,City of Essexville Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,686,332,263,91
 Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Essexville Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,686,335,261,90
@@ -2649,9 +2649,9 @@ Bay,City of Pinconning Precinct 1,County Commissioner County Commissioner Distri
 Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,170,162,0,8
 Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,266,251,0,15
 Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,247,235,0,12
-Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,184,173,0,11
-Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,247,235,0,12
+Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,184,173,0,11
+Bay,City of Pinconning Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,345,328,0,17
 Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Pinconning Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,346,327,0,19
@@ -2789,9 +2789,9 @@ Bay,Frankenlust Township Precinct 1,Constable Frankenlust Township,,Write-ins,,0
 Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,809,309,323,177
 Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,976,337,483,156
 Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,957,343,448,166
-Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,827,308,354,165
-Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,957,343,448,166
+Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,827,308,354,165
+Bay,Frankenlust Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1411,527,628,256
 Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Frankenlust Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1330,506,584,240
@@ -2933,9 +2933,9 @@ Bay,Fraser Township Precinct 1,Trustee Fraser Township,,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,597,545,0,52
 Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,730,667,0,63
 Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,625,572,0,53
-Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,689,625,0,64
-Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,625,572,0,53
+Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,689,625,0,64
+Bay,Fraser Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1011,931,0,80
 Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Fraser Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,978,904,0,74
@@ -3079,9 +3079,9 @@ Bay,Garfield Township Precinct 1,Trustee Garfield Township,,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,374,341,0,33
 Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,379,356,0,23
 Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,380,355,0,25
-Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,366,336,0,30
-Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,380,355,0,25
+Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,366,336,0,30
+Bay,Garfield Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,537,500,0,37
 Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Garfield Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,524,490,0,34
@@ -3210,9 +3210,9 @@ Bay,Gibson Township Precinct 1,Trustee Gibson Township,,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,194,192,0,2
 Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,222,211,0,11
 Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,192,181,0,11
-Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,221,218,0,3
-Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,192,181,0,11
+Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,221,218,0,3
+Bay,Gibson Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,322,312,0,10
 Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Gibson Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,306,297,0,9
@@ -3355,9 +3355,9 @@ Bay,Hampton Township Precinct 1,Trustee Hampton Township,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,206,114,61,31
 Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,304,124,144,36
 Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,305,124,142,39
-Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,203,113,62,28
-Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,305,124,142,39
+Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,203,113,62,28
+Bay,Hampton Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,371,194,127,50
 Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,366,188,130,48
@@ -3493,9 +3493,9 @@ Bay,Hampton Township Precinct 2,Trustee Hampton Township,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,327,127,135,65
 Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,568,166,333,69
 Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,500,145,298,57
-Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,381,140,166,75
-Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,500,145,298,57
+Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,381,140,166,75
+Bay,Hampton Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,731,254,379,98
 Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,716,251,370,95
@@ -3631,9 +3631,9 @@ Bay,Hampton Township Precinct 3,Trustee Hampton Township,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Andrew Fink,,331,165,112,54
 Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,551,178,313,60
 Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,533,185,298,50
-Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,344,155,129,60
-Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,533,185,298,50
+Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,344,155,129,60
+Bay,Hampton Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,730,301,342,87
 Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,691,290,320,81
@@ -3774,9 +3774,9 @@ Bay,Hampton Township Precinct 4,Trustee Hampton Township,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Andrew Fink,,330,148,116,66
 Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,729,234,382,113
 Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,662,221,333,108
-Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,394,155,167,72
-Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,662,221,333,108
+Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,394,155,167,72
+Bay,Hampton Township Precinct 4,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,891,341,405,145
 Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 4,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,877,333,399,145
@@ -3917,9 +3917,9 @@ Bay,Hampton Township Precinct 5,Trustee Hampton Township,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Andrew Fink,,273,131,104,38
 Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,402,152,208,42
 Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,416,166,208,42
-Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,255,111,103,41
-Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,416,166,208,42
+Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,255,111,103,41
+Bay,Hampton Township Precinct 5,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,522,233,227,62
 Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Hampton Township Precinct 5,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,510,229,223,58
@@ -4052,9 +4052,9 @@ Bay,Kawkawlin Township Precinct 1,Trustee Kawkawlin Township,,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,933,571,274,88
 Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1201,541,570,90
 Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,1010,461,473,76
-Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,1089,618,367,104
-Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,1010,461,473,76
+Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,1089,618,367,104
+Bay,Kawkawlin Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1678,871,669,138
 Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Kawkawlin Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1633,841,652,140
@@ -4209,9 +4209,9 @@ Bay,Merritt Township Precinct 1,Trustee Merritt Township,,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,315,293,0,22
 Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,331,299,0,32
 Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,306,271,0,35
-Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,337,316,0,21
-Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,306,271,0,35
+Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,337,316,0,21
+Bay,Merritt Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,545,499,0,46
 Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Merritt Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,529,483,0,46
@@ -4355,9 +4355,9 @@ Bay,Monitor Township Precinct 1,Trustee Monitor Township,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,453,216,165,72
 Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,716,255,378,83
 Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,638,226,338,74
-Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,512,230,206,76
-Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,638,226,338,74
+Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,512,230,206,76
+Bay,Monitor Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,946,365,459,122
 Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,909,360,436,113
@@ -4500,9 +4500,9 @@ Bay,Monitor Township Precinct 2,Trustee Monitor Township,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,713,225,310,178
 Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1209,257,751,201
 Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,1182,254,719,209
-Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,756,233,338,185
-Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,1182,254,719,209
+Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,756,233,338,185
+Bay,Monitor Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1540,389,850,301
 Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1489,381,815,293
@@ -4644,9 +4644,9 @@ Bay,Monitor Township Precinct 3,Trustee Monitor Township,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Andrew Fink,,953,422,310,221
 Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,1086,364,561,161
 Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,1005,352,501,152
-Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,1020,429,361,230
-Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,1005,352,501,152
+Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,1020,429,361,230
+Bay,Monitor Township Precinct 3,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1546,630,631,285
 Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Monitor Township Precinct 3,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1479,611,595,273
@@ -4782,9 +4782,9 @@ Bay,Mount Forest Township Precinct 1,Constable Mount Forest Township,,Write-ins,
 Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,319,300,0,19
 Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,270,255,0,15
 Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,259,244,0,15
-Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,322,303,0,19
-Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,259,244,0,15
+Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,322,303,0,19
+Bay,Mount Forest Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,442,419,0,23
 Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Mount Forest Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,436,411,0,25
@@ -4914,9 +4914,9 @@ Bay,Pinconning Township Precinct 1,Trustee Pinconning Township,,Write-ins,,0,0,0
 Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,409,373,0,36
 Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,593,553,0,40
 Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,490,459,0,31
-Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,495,453,0,42
-Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,490,459,0,31
+Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,495,453,0,42
+Bay,Pinconning Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,775,726,0,49
 Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Pinconning Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,767,716,0,51
@@ -5055,9 +5055,9 @@ Bay,Portsmouth Township Precinct 1,Trustee Portsmouth Township,,Write-ins,,0,0,0
 Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,321,180,111,30
 Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,388,170,188,30
 Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,394,170,198,26
-Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,308,175,99,34
-Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,394,170,198,26
+Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,308,175,99,34
+Bay,Portsmouth Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,581,299,235,47
 Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,558,289,227,42
@@ -5194,9 +5194,9 @@ Bay,Portsmouth Township Precinct 2,Trustee Portsmouth Township,,Write-ins,,0,0,0
 Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,305,175,93,37
 Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,596,239,286,71
 Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,499,199,248,52
-Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,385,203,127,55
-Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,499,199,248,52
+Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,385,203,127,55
+Bay,Portsmouth Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,746,349,311,86
 Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Portsmouth Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,710,330,296,84
@@ -5335,9 +5335,9 @@ Bay,Williams Township Precinct 1,Trustee Williams Township,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Andrew Fink,,746,444,216,86
 Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,780,376,341,63
 Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,804,405,334,65
-Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,716,403,227,86
-Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,804,405,334,65
+Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,716,403,227,86
+Bay,Williams Township Precinct 1,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,1162,631,411,120
 Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 1,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,1120,606,402,112
@@ -5476,9 +5476,9 @@ Bay,Williams Township Precinct 2,Trustee Williams Township,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,348,209,92,47
 Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,466,222,197,47
 Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,426,213,169,44
-Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,375,207,120,48
-Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,426,213,169,44
+Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,375,207,120,48
+Bay,Williams Township Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,662,362,231,69
 Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,Williams Township Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,645,355,223,67
@@ -5603,9 +5603,9 @@ Bay,City of Midland Precinct 2,County Commissioner County Commissioner District 
 Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Andrew Fink,,28,28,0,0
 Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Kimberly Ann Thomas,,34,34,0,0
 Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
-Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Kyra Harris Bolden,,32,32,0,0
-Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Patrick William O'Grady,,29,29,0,0
-Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,,Write-ins,,0,0,0,0
+Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,special,Kyra Harris Bolden,,32,32,0,0
+Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,special,Patrick William O'Grady,,29,29,0,0
+Bay,City of Midland Precinct 2,Justice of Supreme Court Supreme Court,special,Write-ins,,0,0,0,0
 Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Stephen L. Borrello,,48,48,0,0
 Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Write-ins,,0,0,0,0
 Bay,City of Midland Precinct 2,Judge of Court of Appeals 4th District,,Allie Greenleaf Maldonado,,46,46,0,0

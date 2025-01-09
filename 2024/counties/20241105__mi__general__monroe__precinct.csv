@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,av_counting_boards,votes
 Monroe,"City of Luna Pier, Precinct 1",President,,Ballots Cast,,642,132,0,774
-Monroe,"City of Luna Pier, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,266,40,0,306
-Monroe,"City of Luna Pier, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,347,91,0,438
-Monroe,"City of Luna Pier, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,0,5
-Monroe,"City of Luna Pier, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,0,3
-Monroe,"City of Luna Pier, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,6,0,0,6
-Monroe,"City of Luna Pier, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,0,0,6
+Monroe,"City of Luna Pier, Precinct 1",President,,Kamala D. Harris,Democrat,266,40,0,306
+Monroe,"City of Luna Pier, Precinct 1",President,,Donald J. Trump,Republican,347,91,0,438
+Monroe,"City of Luna Pier, Precinct 1",President,,Chase Oliver,Libertarian,5,0,0,5
+Monroe,"City of Luna Pier, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,0,3
+Monroe,"City of Luna Pier, Precinct 1",President,,Jill Stein,Green,6,0,0,6
+Monroe,"City of Luna Pier, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,0,6
 Monroe,"City of Luna Pier, Precinct 1",President,,Write-in,,1,0,0,1
 Monroe,"City of Luna Pier, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Monroe,"City of Luna Pier, Precinct 1",President,,Under Vote Count,,7,1,0,8
@@ -194,15 +194,15 @@ Monroe,"City of Luna Pier, Precinct 1",Community College District of Monroe Head
 Monroe,"City of Luna Pier, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Luna Pier, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,142,23,0,165
 Monroe,"City of Monroe, Precinct 1",President,,Ballots Cast,,666,371,618,1655
-Monroe,"City of Monroe, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,246,131,379,756
-Monroe,"City of Monroe, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,400,235,227,862
-Monroe,"City of Monroe, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,1,6
-Monroe,"City of Monroe, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,1,3
-Monroe,"City of Monroe, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,2,4,13
+Monroe,"City of Monroe, Precinct 1",President,,Kamala D. Harris,Democrat,246,131,379,756
+Monroe,"City of Monroe, Precinct 1",President,,Donald J. Trump,Republican,400,235,227,862
+Monroe,"City of Monroe, Precinct 1",President,,Chase Oliver,Libertarian,5,0,1,6
+Monroe,"City of Monroe, Precinct 1",President,,Jill Stein,Green,2,0,1,3
+Monroe,"City of Monroe, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,2,4,13
 Monroe,"City of Monroe, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
 Monroe,"City of Monroe, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Monroe,"City of Monroe, Precinct 1",President,,Under Vote Count,,1,2,4,7
-Monroe,"City of Monroe, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
+Monroe,"City of Monroe, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
 Monroe,"City of Monroe, Precinct 1",President,,Write-in,,0,1,0,1
 Monroe,"City of Monroe, Precinct 1",U.S. Senate,,Ballots Cast,,666,371,618,1655
 Monroe,"City of Monroe, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,247,135,379,761
@@ -381,18 +381,18 @@ Monroe,"City of Monroe, Precinct 1",Community College District of Monroe Headlee
 Monroe,"City of Monroe, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,1,0,0,1
 Monroe,"City of Monroe, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,133,54,82,269
 Monroe,"City of Monroe, Precinct 2",President,,Ballots Cast,,622,305,407,1334
-Monroe,"City of Monroe, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,245,120,247,612
-Monroe,"City of Monroe, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,364,182,148,694
-Monroe,"City of Monroe, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,2,7
-Monroe,"City of Monroe, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Monroe,"City of Monroe, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,5,7
+Monroe,"City of Monroe, Precinct 2",President,,Kamala D. Harris,Democrat,245,120,247,612
+Monroe,"City of Monroe, Precinct 2",President,,Donald J. Trump,Republican,364,182,148,694
+Monroe,"City of Monroe, Precinct 2",President,,Chase Oliver,Libertarian,3,2,2,7
+Monroe,"City of Monroe, Precinct 2",President,,Jill Stein,Green,3,0,0,3
+Monroe,"City of Monroe, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,5,7
 Monroe,"City of Monroe, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"City of Monroe, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"City of Monroe, Precinct 2",President,,Write-in,,2,0,2,4
 Monroe,"City of Monroe, Precinct 2",President,,Peter Sonski,,1,0,0,1
 Monroe,"City of Monroe, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 2",President,,Under Vote Count,,2,0,2,4
-Monroe,"City of Monroe, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
+Monroe,"City of Monroe, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
 Monroe,"City of Monroe, Precinct 2",U.S. Senate,,Ballots Cast,,622,305,407,1334
 Monroe,"City of Monroe, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,241,120,246,607
 Monroe,"City of Monroe, Precinct 2",U.S. Senate,,Mike Rogers,Republican,331,171,138,640
@@ -570,12 +570,12 @@ Monroe,"City of Monroe, Precinct 2",Community College District of Monroe Headlee
 Monroe,"City of Monroe, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,127,42,52,221
 Monroe,"City of Monroe, Precinct 3N",President,,Ballots Cast,,389,183,223,795
-Monroe,"City of Monroe, Precinct 3N",President,,Kamala D. Harris / Tim Walz,Democrat,139,68,158,365
-Monroe,"City of Monroe, Precinct 3N",President,,Donald J. Trump / JD Vance,Republican,240,111,58,409
-Monroe,"City of Monroe, Precinct 3N",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,1,5
-Monroe,"City of Monroe, Precinct 3N",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"City of Monroe, Precinct 3N",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"City of Monroe, Precinct 3N",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,1,4
+Monroe,"City of Monroe, Precinct 3N",President,,Kamala D. Harris,Democrat,139,68,158,365
+Monroe,"City of Monroe, Precinct 3N",President,,Donald J. Trump,Republican,240,111,58,409
+Monroe,"City of Monroe, Precinct 3N",President,,Chase Oliver,Libertarian,2,2,1,5
+Monroe,"City of Monroe, Precinct 3N",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"City of Monroe, Precinct 3N",President,,Jill Stein,Green,1,0,1,2
+Monroe,"City of Monroe, Precinct 3N",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,1,4
 Monroe,"City of Monroe, Precinct 3N",President,,Write-in,,1,1,2,4
 Monroe,"City of Monroe, Precinct 3N",President,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 3N",President,,Under Vote Count,,1,1,1,3
@@ -768,15 +768,15 @@ Monroe,"City of Monroe, Precinct 3N",Community College District of Monroe Headle
 Monroe,"City of Monroe, Precinct 3N",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 3N",Community College District of Monroe Headlee Override,,Under Vote Count,,75,39,27,141
 Monroe,"City of Monroe, Precinct 3S",President,,Ballots Cast,,347,82,201,630
-Monroe,"City of Monroe, Precinct 3S",President,,Kamala D. Harris / Tim Walz,Democrat,181,32,128,341
-Monroe,"City of Monroe, Precinct 3S",President,,Donald J. Trump / JD Vance,Republican,158,49,67,274
-Monroe,"City of Monroe, Precinct 3S",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,2,3
-Monroe,"City of Monroe, Precinct 3S",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Monroe,"City of Monroe, Precinct 3S",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,0,1
+Monroe,"City of Monroe, Precinct 3S",President,,Kamala D. Harris,Democrat,181,32,128,341
+Monroe,"City of Monroe, Precinct 3S",President,,Donald J. Trump,Republican,158,49,67,274
+Monroe,"City of Monroe, Precinct 3S",President,,Chase Oliver,Libertarian,1,0,2,3
+Monroe,"City of Monroe, Precinct 3S",President,,Jill Stein,Green,2,0,0,2
+Monroe,"City of Monroe, Precinct 3S",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,0,1
 Monroe,"City of Monroe, Precinct 3S",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,1,0,3
 Monroe,"City of Monroe, Precinct 3S",President,,Over Vote Count,,0,0,1,1
 Monroe,"City of Monroe, Precinct 3S",President,,Under Vote Count,,2,0,1,3
-Monroe,"City of Monroe, Precinct 3S",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
+Monroe,"City of Monroe, Precinct 3S",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
 Monroe,"City of Monroe, Precinct 3S",President,,Write-in,,0,0,1,1
 Monroe,"City of Monroe, Precinct 3S",President,,Peter Sonski,,0,0,1,1
 Monroe,"City of Monroe, Precinct 3S",U.S. Senate,,Ballots Cast,,347,82,201,630
@@ -956,12 +956,12 @@ Monroe,"City of Monroe, Precinct 3S",Community College District of Monroe Headle
 Monroe,"City of Monroe, Precinct 3S",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 3S",Community College District of Monroe Headlee Override,,Under Vote Count,,112,16,28,156
 Monroe,"City of Monroe, Precinct 4",President,,Ballots Cast,,755,495,757,2007
-Monroe,"City of Monroe, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,268,163,438,869
-Monroe,"City of Monroe, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,464,325,303,1092
-Monroe,"City of Monroe, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,4,2,5,11
-Monroe,"City of Monroe, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"City of Monroe, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,6,1,4,11
-Monroe,"City of Monroe, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,5,10
+Monroe,"City of Monroe, Precinct 4",President,,Kamala D. Harris,Democrat,268,163,438,869
+Monroe,"City of Monroe, Precinct 4",President,,Donald J. Trump,Republican,464,325,303,1092
+Monroe,"City of Monroe, Precinct 4",President,,Chase Oliver,Libertarian,4,2,5,11
+Monroe,"City of Monroe, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"City of Monroe, Precinct 4",President,,Jill Stein,Green,6,1,4,11
+Monroe,"City of Monroe, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5,10
 Monroe,"City of Monroe, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"City of Monroe, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
 Monroe,"City of Monroe, Precinct 4",President,,Write-in,,1,1,2,4
@@ -1144,12 +1144,12 @@ Monroe,"City of Monroe, Precinct 4",Community College District of Monroe Headlee
 Monroe,"City of Monroe, Precinct 4",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 4",Community College District of Monroe Headlee Override,,Under Vote Count,,183,71,89,343
 Monroe,"City of Monroe, Precinct 5",President,,Ballots Cast,,779,409,937,2125
-Monroe,"City of Monroe, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,259,140,605,1004
-Monroe,"City of Monroe, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,494,258,301,1053
-Monroe,"City of Monroe, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,5,2,4,11
-Monroe,"City of Monroe, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,4,0,1,5
-Monroe,"City of Monroe, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,5,1,2,8
-Monroe,"City of Monroe, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,12,19
+Monroe,"City of Monroe, Precinct 5",President,,Kamala D. Harris,Democrat,259,140,605,1004
+Monroe,"City of Monroe, Precinct 5",President,,Donald J. Trump,Republican,494,258,301,1053
+Monroe,"City of Monroe, Precinct 5",President,,Chase Oliver,Libertarian,5,2,4,11
+Monroe,"City of Monroe, Precinct 5",President,,Randall Terry,U.S. Taxpayers,4,0,1,5
+Monroe,"City of Monroe, Precinct 5",President,,Jill Stein,Green,5,1,2,8
+Monroe,"City of Monroe, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,12,19
 Monroe,"City of Monroe, Precinct 5",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"City of Monroe, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,1,0,3
 Monroe,"City of Monroe, Precinct 5",President,,Write-in,,1,5,3,9
@@ -1334,15 +1334,15 @@ Monroe,"City of Monroe, Precinct 5",Community College District of Monroe Headlee
 Monroe,"City of Monroe, Precinct 5",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 5",Community College District of Monroe Headlee Override,,Under Vote Count,,132,75,148,355
 Monroe,"City of Monroe, Precinct 6",President,,Ballots Cast,,664,364,625,1653
-Monroe,"City of Monroe, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,261,109,363,733
-Monroe,"City of Monroe, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,391,250,245,886
-Monroe,"City of Monroe, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,4,2,1,7
-Monroe,"City of Monroe, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,3,2,0,5
-Monroe,"City of Monroe, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,1,3,6
+Monroe,"City of Monroe, Precinct 6",President,,Kamala D. Harris,Democrat,261,109,363,733
+Monroe,"City of Monroe, Precinct 6",President,,Donald J. Trump,Republican,391,250,245,886
+Monroe,"City of Monroe, Precinct 6",President,,Chase Oliver,Libertarian,4,2,1,7
+Monroe,"City of Monroe, Precinct 6",President,,Jill Stein,Green,3,2,0,5
+Monroe,"City of Monroe, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,2,1,3,6
 Monroe,"City of Monroe, Precinct 6",President,,Write-in,,2,0,0,2
 Monroe,"City of Monroe, Precinct 6",President,,Over Vote Count,,1,0,1,2
 Monroe,"City of Monroe, Precinct 6",President,,Under Vote Count,,0,0,5,5
-Monroe,"City of Monroe, Precinct 6",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,4,4
+Monroe,"City of Monroe, Precinct 6",President,,Randall Terry,U.S. Taxpayers,0,0,4,4
 Monroe,"City of Monroe, Precinct 6",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
 Monroe,"City of Monroe, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,2,2
 Monroe,"City of Monroe, Precinct 6",U.S. Senate,,Ballots Cast,,664,364,625,1653
@@ -1522,12 +1522,12 @@ Monroe,"City of Monroe, Precinct 6",Community College District of Monroe Headlee
 Monroe,"City of Monroe, Precinct 6",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Monroe, Precinct 6",Community College District of Monroe Headlee Override,,Under Vote Count,,115,39,85,239
 Monroe,"City of Petersburg, Precinct 1",President,,Ballots Cast,,283,239,163,685
-Monroe,"City of Petersburg, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,75,57,97,229
-Monroe,"City of Petersburg, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,201,178,61,440
-Monroe,"City of Petersburg, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,1,3
-Monroe,"City of Petersburg, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,1,3
-Monroe,"City of Petersburg, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"City of Petersburg, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,0,4
+Monroe,"City of Petersburg, Precinct 1",President,,Kamala D. Harris,Democrat,75,57,97,229
+Monroe,"City of Petersburg, Precinct 1",President,,Donald J. Trump,Republican,201,178,61,440
+Monroe,"City of Petersburg, Precinct 1",President,,Chase Oliver,Libertarian,2,0,1,3
+Monroe,"City of Petersburg, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,1,3
+Monroe,"City of Petersburg, Precinct 1",President,,Jill Stein,Green,1,0,1,2
+Monroe,"City of Petersburg, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,4
 Monroe,"City of Petersburg, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"City of Petersburg, Precinct 1",President,,Under Vote Count,,1,1,2,4
 Monroe,"City of Petersburg, Precinct 1",U.S. Senate,,Ballots Cast,,283,239,163,685
@@ -1703,12 +1703,12 @@ Monroe,"City of Petersburg, Precinct 1",Community College District of Monroe Hea
 Monroe,"City of Petersburg, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"City of Petersburg, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,48,52,36,136
 Monroe,"Ash Township, Precinct 1",President,,Ballots Cast,,704,342,705,1751
-Monroe,"Ash Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,160,69,319,548
-Monroe,"Ash Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,529,270,353,1152
-Monroe,"Ash Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,4,9
-Monroe,"Ash Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Monroe,"Ash Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,5,8
-Monroe,"Ash Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,8,15
+Monroe,"Ash Township, Precinct 1",President,,Kamala D. Harris,Democrat,160,69,319,548
+Monroe,"Ash Township, Precinct 1",President,,Donald J. Trump,Republican,529,270,353,1152
+Monroe,"Ash Township, Precinct 1",President,,Chase Oliver,Libertarian,3,2,4,9
+Monroe,"Ash Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Monroe,"Ash Township, Precinct 1",President,,Jill Stein,Green,3,0,5,8
+Monroe,"Ash Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,8,15
 Monroe,"Ash Township, Precinct 1",President,,Write-in,,2,0,2,4
 Monroe,"Ash Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 1",President,,Under Vote Count,,0,0,11,11
@@ -1930,18 +1930,18 @@ Monroe,"Ash Township, Precinct 1",Community College District of Monroe Headlee O
 Monroe,"Ash Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,134,0,101,235
 Monroe,"Ash Township, Precinct 2",President,,Ballots Cast,,559,566,861,1986
-Monroe,"Ash Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,109,113,388,610
-Monroe,"Ash Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,435,447,460,1342
-Monroe,"Ash Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,0,2
-Monroe,"Ash Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,7,1,3,11
-Monroe,"Ash Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,4,9
+Monroe,"Ash Township, Precinct 2",President,,Kamala D. Harris,Democrat,109,113,388,610
+Monroe,"Ash Township, Precinct 2",President,,Donald J. Trump,Republican,435,447,460,1342
+Monroe,"Ash Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
+Monroe,"Ash Township, Precinct 2",President,,Jill Stein,Green,7,1,3,11
+Monroe,"Ash Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,4,9
 Monroe,"Ash Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Ash Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Ash Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 2",President,,Under Vote Count,,2,0,5,7
 Monroe,"Ash Township, Precinct 2",President,,Write-in,,0,1,1,2
 Monroe,"Ash Township, Precinct 2",President,,Peter Sonski,,0,0,1,1
-Monroe,"Ash Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,0,0,0,0
+Monroe,"Ash Township, Precinct 2",President,,Chase Oliver,Libertarian,0,0,0,0
 Monroe,"Ash Township, Precinct 2",U.S. Senate,,Ballots Cast,,559,566,861,1986
 Monroe,"Ash Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,107,124,394,625
 Monroe,"Ash Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,418,429,439,1286
@@ -2159,15 +2159,15 @@ Monroe,"Ash Township, Precinct 2",Community College District of Monroe Headlee O
 Monroe,"Ash Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,93,0,122,215
 Monroe,"Ash Township, Precinct 3",President,,Ballots Cast,,503,414,607,1524
-Monroe,"Ash Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,110,74,231,415
-Monroe,"Ash Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,388,338,354,1080
-Monroe,"Ash Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Ash Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,1,0,2,3
+Monroe,"Ash Township, Precinct 3",President,,Kamala D. Harris,Democrat,110,74,231,415
+Monroe,"Ash Township, Precinct 3",President,,Donald J. Trump,Republican,388,338,354,1080
+Monroe,"Ash Township, Precinct 3",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Ash Township, Precinct 3",President,,Jill Stein,Green,1,0,2,3
 Monroe,"Ash Township, Precinct 3",President,,Write-in,,1,0,2,3
 Monroe,"Ash Township, Precinct 3",President,,Over Vote Count,,0,0,1,1
 Monroe,"Ash Township, Precinct 3",President,,Under Vote Count,,0,0,10,10
-Monroe,"Ash Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,1,2
-Monroe,"Ash Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,0,5,5
+Monroe,"Ash Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,0,1,1,2
+Monroe,"Ash Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,5,5
 Monroe,"Ash Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
 Monroe,"Ash Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
 Monroe,"Ash Township, Precinct 3",U.S. Senate,,Ballots Cast,,503,414,607,1524
@@ -2365,11 +2365,11 @@ Monroe,"Ash Township, Precinct 3",Community College District of Monroe Headlee O
 Monroe,"Ash Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Ash Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,66,0,53,119
 Monroe,"Bedford Township, Precinct 1",President,,Ballots Cast,,376,218,218,812
-Monroe,"Bedford Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,95,38,107,240
-Monroe,"Bedford Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,273,178,108,559
-Monroe,"Bedford Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,1,2,5
-Monroe,"Bedford Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Monroe,"Bedford Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,0,3
+Monroe,"Bedford Township, Precinct 1",President,,Kamala D. Harris,Democrat,95,38,107,240
+Monroe,"Bedford Township, Precinct 1",President,,Donald J. Trump,Republican,273,178,108,559
+Monroe,"Bedford Township, Precinct 1",President,,Chase Oliver,Libertarian,2,1,2,5
+Monroe,"Bedford Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
+Monroe,"Bedford Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,0,3
 Monroe,"Bedford Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 1",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 1",President,,Under Vote Count,,1,1,0,2
@@ -2583,12 +2583,12 @@ Monroe,"Bedford Township, Precinct 1",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,69,37,31,137
 Monroe,"Bedford Township, Precinct 2",President,,Ballots Cast,,532,424,504,1460
-Monroe,"Bedford Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,164,121,277,562
-Monroe,"Bedford Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,355,297,208,860
-Monroe,"Bedford Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,3,8
-Monroe,"Bedford Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,2,1,4
-Monroe,"Bedford Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"Bedford Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,3,3,11
+Monroe,"Bedford Township, Precinct 2",President,,Kamala D. Harris,Democrat,164,121,277,562
+Monroe,"Bedford Township, Precinct 2",President,,Donald J. Trump,Republican,355,297,208,860
+Monroe,"Bedford Township, Precinct 2",President,,Chase Oliver,Libertarian,5,0,3,8
+Monroe,"Bedford Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,2,1,4
+Monroe,"Bedford Township, Precinct 2",President,,Jill Stein,Green,1,0,1,2
+Monroe,"Bedford Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,5,3,3,11
 Monroe,"Bedford Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 2",President,,Under Vote Count,,1,1,8,10
 Monroe,"Bedford Township, Precinct 2",President,,Write-in,,0,0,2,2
@@ -2805,12 +2805,12 @@ Monroe,"Bedford Township, Precinct 2",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,1,0,1,2
 Monroe,"Bedford Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,99,92,67,258
 Monroe,"Bedford Township, Precinct 3",President,,Ballots Cast,,637,390,371,1398
-Monroe,"Bedford Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,183,107,209,499
-Monroe,"Bedford Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,434,280,156,870
-Monroe,"Bedford Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,6,1,3,10
-Monroe,"Bedford Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,1,3
-Monroe,"Bedford Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Monroe,"Bedford Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,0,7
+Monroe,"Bedford Township, Precinct 3",President,,Kamala D. Harris,Democrat,183,107,209,499
+Monroe,"Bedford Township, Precinct 3",President,,Donald J. Trump,Republican,434,280,156,870
+Monroe,"Bedford Township, Precinct 3",President,,Chase Oliver,Libertarian,6,1,3,10
+Monroe,"Bedford Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,1,1,1,3
+Monroe,"Bedford Township, Precinct 3",President,,Jill Stein,Green,3,0,0,3
+Monroe,"Bedford Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,0,7
 Monroe,"Bedford Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 3",President,,Write-in,,1,0,1,2
 Monroe,"Bedford Township, Precinct 3",President,,Over Vote Count,,0,0,1,1
@@ -3034,12 +3034,12 @@ Monroe,"Bedford Township, Precinct 3",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,88,68,38,194
 Monroe,"Bedford Township, Precinct 4",President,,Ballots Cast,,613,570,588,1771
-Monroe,"Bedford Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,168,163,319,650
-Monroe,"Bedford Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,432,402,256,1090
-Monroe,"Bedford Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,0,6
-Monroe,"Bedford Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Monroe,"Bedford Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Monroe,"Bedford Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,2,4
+Monroe,"Bedford Township, Precinct 4",President,,Kamala D. Harris,Democrat,168,163,319,650
+Monroe,"Bedford Township, Precinct 4",President,,Donald J. Trump,Republican,432,402,256,1090
+Monroe,"Bedford Township, Precinct 4",President,,Chase Oliver,Libertarian,3,3,0,6
+Monroe,"Bedford Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Monroe,"Bedford Township, Precinct 4",President,,Jill Stein,Green,1,0,0,1
+Monroe,"Bedford Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2,4
 Monroe,"Bedford Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,1,1,5
 Monroe,"Bedford Township, Precinct 4",President,,Write-in,,1,0,2,3
 Monroe,"Bedford Township, Precinct 4",President,,Over Vote Count,,0,0,0,0
@@ -3256,11 +3256,11 @@ Monroe,"Bedford Township, Precinct 4",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 4",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 4",Community College District of Monroe Headlee Override,,Under Vote Count,,103,99,56,258
 Monroe,"Bedford Township, Precinct 5",President,,Ballots Cast,,674,379,470,1523
-Monroe,"Bedford Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,225,144,261,630
-Monroe,"Bedford Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,431,233,200,864
-Monroe,"Bedford Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,2,9
-Monroe,"Bedford Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,5,0,0,5
-Monroe,"Bedford Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,2,5,12
+Monroe,"Bedford Township, Precinct 5",President,,Kamala D. Harris,Democrat,225,144,261,630
+Monroe,"Bedford Township, Precinct 5",President,,Donald J. Trump,Republican,431,233,200,864
+Monroe,"Bedford Township, Precinct 5",President,,Chase Oliver,Libertarian,7,0,2,9
+Monroe,"Bedford Township, Precinct 5",President,,Jill Stein,Green,5,0,0,5
+Monroe,"Bedford Township, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,5,2,5,12
 Monroe,"Bedford Township, Precinct 5",President,,Write-in,,1,0,0,1
 Monroe,"Bedford Township, Precinct 5",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 5",President,,Under Vote Count,,0,0,2,2
@@ -3476,12 +3476,12 @@ Monroe,"Bedford Township, Precinct 5",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 5",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 5",Community College District of Monroe Headlee Override,,Under Vote Count,,125,71,45,241
 Monroe,"Bedford Township, Precinct 6",President,,Ballots Cast,,783,576,618,1977
-Monroe,"Bedford Township, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,242,151,341,734
-Monroe,"Bedford Township, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,519,417,266,1202
-Monroe,"Bedford Township, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,8,4,1,13
-Monroe,"Bedford Township, Precinct 6",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Bedford Township, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,5,1,3,9
-Monroe,"Bedford Township, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,2,1,7
+Monroe,"Bedford Township, Precinct 6",President,,Kamala D. Harris,Democrat,242,151,341,734
+Monroe,"Bedford Township, Precinct 6",President,,Donald J. Trump,Republican,519,417,266,1202
+Monroe,"Bedford Township, Precinct 6",President,,Chase Oliver,Libertarian,8,4,1,13
+Monroe,"Bedford Township, Precinct 6",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Bedford Township, Precinct 6",President,,Jill Stein,Green,5,1,3,9
+Monroe,"Bedford Township, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,4,2,1,7
 Monroe,"Bedford Township, Precinct 6",President,,Write-in,,1,1,1,3
 Monroe,"Bedford Township, Precinct 6",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 6",President,,Under Vote Count,,3,0,4,7
@@ -3698,11 +3698,11 @@ Monroe,"Bedford Township, Precinct 6",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 6",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 6",Community College District of Monroe Headlee Override,,Under Vote Count,,144,97,77,318
 Monroe,"Bedford Township, Precinct 7",President,,Ballots Cast,,555,412,506,1473
-Monroe,"Bedford Township, Precinct 7",President,,Kamala D. Harris / Tim Walz,Democrat,175,130,299,604
-Monroe,"Bedford Township, Precinct 7",President,,Donald J. Trump / JD Vance,Republican,366,279,195,840
-Monroe,"Bedford Township, Precinct 7",President,,Chase Oliver / Mike ter Maat,Libertarian,2,1,2,5
-Monroe,"Bedford Township, Precinct 7",President,,Jill Stein / Rudolph Ware,Green,4,0,0,4
-Monroe,"Bedford Township, Precinct 7",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,2,4
+Monroe,"Bedford Township, Precinct 7",President,,Kamala D. Harris,Democrat,175,130,299,604
+Monroe,"Bedford Township, Precinct 7",President,,Donald J. Trump,Republican,366,279,195,840
+Monroe,"Bedford Township, Precinct 7",President,,Chase Oliver,Libertarian,2,1,2,5
+Monroe,"Bedford Township, Precinct 7",President,,Jill Stein,Green,4,0,0,4
+Monroe,"Bedford Township, Precinct 7",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,2,4
 Monroe,"Bedford Township, Precinct 7",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,0,2
 Monroe,"Bedford Township, Precinct 7",President,,Write-in,,3,1,0,4
 Monroe,"Bedford Township, Precinct 7",President,,Over Vote Count,,0,0,1,1
@@ -3920,15 +3920,15 @@ Monroe,"Bedford Township, Precinct 7",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 7",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 7",Community College District of Monroe Headlee Override,,Under Vote Count,,98,67,66,231
 Monroe,"Bedford Township, Precinct 8",President,,Ballots Cast,,555,405,619,1579
-Monroe,"Bedford Township, Precinct 8",President,,Kamala D. Harris / Tim Walz,Democrat,188,122,345,655
-Monroe,"Bedford Township, Precinct 8",President,,Donald J. Trump / JD Vance,Republican,356,279,259,894
-Monroe,"Bedford Township, Precinct 8",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,5,6
-Monroe,"Bedford Township, Precinct 8",President,,Jill Stein / Rudolph Ware,Green,1,2,0,3
+Monroe,"Bedford Township, Precinct 8",President,,Kamala D. Harris,Democrat,188,122,345,655
+Monroe,"Bedford Township, Precinct 8",President,,Donald J. Trump,Republican,356,279,259,894
+Monroe,"Bedford Township, Precinct 8",President,,Chase Oliver,Libertarian,1,0,5,6
+Monroe,"Bedford Township, Precinct 8",President,,Jill Stein,Green,1,2,0,3
 Monroe,"Bedford Township, Precinct 8",President,,Write-in,,2,1,1,4
 Monroe,"Bedford Township, Precinct 8",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 8",President,,Under Vote Count,,7,0,4,11
-Monroe,"Bedford Township, Precinct 8",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,0,5,5
-Monroe,"Bedford Township, Precinct 8",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
+Monroe,"Bedford Township, Precinct 8",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,5,5
+Monroe,"Bedford Township, Precinct 8",President,,Randall Terry,U.S. Taxpayers,0,1,0,1
 Monroe,"Bedford Township, Precinct 8",U.S. Senate,,Ballots Cast,,555,405,619,1579
 Monroe,"Bedford Township, Precinct 8",U.S. Senate,,Elissa Slotkin,Democrat,176,121,315,612
 Monroe,"Bedford Township, Precinct 8",U.S. Senate,,Mike Rogers,Republican,338,265,261,864
@@ -4141,17 +4141,17 @@ Monroe,"Bedford Township, Precinct 8",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 8",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 8",Community College District of Monroe Headlee Override,,Under Vote Count,,108,76,88,272
 Monroe,"Bedford Township, Precinct 9",President,,Ballots Cast,,342,268,379,989
-Monroe,"Bedford Township, Precinct 9",President,,Kamala D. Harris / Tim Walz,Democrat,108,72,197,377
-Monroe,"Bedford Township, Precinct 9",President,,Donald J. Trump / JD Vance,Republican,227,192,174,593
-Monroe,"Bedford Township, Precinct 9",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Bedford Township, Precinct 9",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
+Monroe,"Bedford Township, Precinct 9",President,,Kamala D. Harris,Democrat,108,72,197,377
+Monroe,"Bedford Township, Precinct 9",President,,Donald J. Trump,Republican,227,192,174,593
+Monroe,"Bedford Township, Precinct 9",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Bedford Township, Precinct 9",President,,Jill Stein,Green,2,0,0,2
 Monroe,"Bedford Township, Precinct 9",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,1,2
 Monroe,"Bedford Township, Precinct 9",President,,Write-in,,1,0,1,2
 Monroe,"Bedford Township, Precinct 9",President,,Claudia De la Cruz,,1,0,0,1
 Monroe,"Bedford Township, Precinct 9",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 9",President,,Under Vote Count,,1,1,3,5
-Monroe,"Bedford Township, Precinct 9",President,,Chase Oliver / Mike ter Maat,Libertarian,0,2,1,3
-Monroe,"Bedford Township, Precinct 9",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,1,2,3
+Monroe,"Bedford Township, Precinct 9",President,,Chase Oliver,Libertarian,0,2,1,3
+Monroe,"Bedford Township, Precinct 9",President,,"Robert F. Kennedy, Jr.",Natural Law,0,1,2,3
 Monroe,"Bedford Township, Precinct 9",U.S. Senate,,Ballots Cast,,342,268,379,989
 Monroe,"Bedford Township, Precinct 9",U.S. Senate,,Elissa Slotkin,Democrat,101,69,192,362
 Monroe,"Bedford Township, Precinct 9",U.S. Senate,,Mike Rogers,Republican,208,187,169,564
@@ -4364,11 +4364,11 @@ Monroe,"Bedford Township, Precinct 9",Community College District of Monroe Headl
 Monroe,"Bedford Township, Precinct 9",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 9",Community College District of Monroe Headlee Override,,Under Vote Count,,60,53,48,161
 Monroe,"Bedford Township, Precinct 10",President,,Ballots Cast,,393,307,323,1023
-Monroe,"Bedford Township, Precinct 10",President,,Kamala D. Harris / Tim Walz,Democrat,84,71,175,330
-Monroe,"Bedford Township, Precinct 10",President,,Donald J. Trump / JD Vance,Republican,299,235,142,676
-Monroe,"Bedford Township, Precinct 10",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Bedford Township, Precinct 10",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"Bedford Township, Precinct 10",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,1,5
+Monroe,"Bedford Township, Precinct 10",President,,Kamala D. Harris,Democrat,84,71,175,330
+Monroe,"Bedford Township, Precinct 10",President,,Donald J. Trump,Republican,299,235,142,676
+Monroe,"Bedford Township, Precinct 10",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Bedford Township, Precinct 10",President,,Jill Stein,Green,1,0,1,2
+Monroe,"Bedford Township, Precinct 10",President,,"Robert F. Kennedy, Jr.",Natural Law,3,1,1,5
 Monroe,"Bedford Township, Precinct 10",President,,Over Vote Count,,0,0,2,2
 Monroe,"Bedford Township, Precinct 10",President,,Under Vote Count,,3,0,2,5
 Monroe,"Bedford Township, Precinct 10",U.S. Senate,,Ballots Cast,,393,307,323,1023
@@ -4582,15 +4582,15 @@ Monroe,"Bedford Township, Precinct 10",Community College District of Monroe Head
 Monroe,"Bedford Township, Precinct 10",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 10",Community College District of Monroe Headlee Override,,Under Vote Count,,52,47,33,132
 Monroe,"Bedford Township, Precinct 11",President,,Ballots Cast,,667,539,544,1750
-Monroe,"Bedford Township, Precinct 11",President,,Kamala D. Harris / Tim Walz,Democrat,174,122,270,566
-Monroe,"Bedford Township, Precinct 11",President,,Donald J. Trump / JD Vance,Republican,477,406,257,1140
-Monroe,"Bedford Township, Precinct 11",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,3,9
-Monroe,"Bedford Township, Precinct 11",President,,Jill Stein / Rudolph Ware,Green,4,5,3,12
-Monroe,"Bedford Township, Precinct 11",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,2,7
+Monroe,"Bedford Township, Precinct 11",President,,Kamala D. Harris,Democrat,174,122,270,566
+Monroe,"Bedford Township, Precinct 11",President,,Donald J. Trump,Republican,477,406,257,1140
+Monroe,"Bedford Township, Precinct 11",President,,Chase Oliver,Libertarian,5,1,3,9
+Monroe,"Bedford Township, Precinct 11",President,,Jill Stein,Green,4,5,3,12
+Monroe,"Bedford Township, Precinct 11",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,2,7
 Monroe,"Bedford Township, Precinct 11",President,,Write-in,,1,0,1,2
 Monroe,"Bedford Township, Precinct 11",President,,Over Vote Count,,1,1,1,3
 Monroe,"Bedford Township, Precinct 11",President,,Under Vote Count,,1,3,4,8
-Monroe,"Bedford Township, Precinct 11",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,3,3
+Monroe,"Bedford Township, Precinct 11",President,,Randall Terry,U.S. Taxpayers,0,0,3,3
 Monroe,"Bedford Township, Precinct 11",U.S. Senate,,Ballots Cast,,667,539,544,1750
 Monroe,"Bedford Township, Precinct 11",U.S. Senate,,Elissa Slotkin,Democrat,158,121,253,532
 Monroe,"Bedford Township, Precinct 11",U.S. Senate,,Mike Rogers,Republican,433,393,254,1080
@@ -4804,11 +4804,11 @@ Monroe,"Bedford Township, Precinct 11",Community College District of Monroe Head
 Monroe,"Bedford Township, Precinct 11",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 11",Community College District of Monroe Headlee Override,,Under Vote Count,,143,100,82,325
 Monroe,"Bedford Township, Precinct 12",President,,Ballots Cast,,533,288,496,1317
-Monroe,"Bedford Township, Precinct 12",President,,Kamala D. Harris / Tim Walz,Democrat,173,86,291,550
-Monroe,"Bedford Township, Precinct 12",President,,Donald J. Trump / JD Vance,Republican,335,196,186,717
-Monroe,"Bedford Township, Precinct 12",President,,Chase Oliver / Mike ter Maat,Libertarian,6,1,2,9
-Monroe,"Bedford Township, Precinct 12",President,,Jill Stein / Rudolph Ware,Green,6,4,6,16
-Monroe,"Bedford Township, Precinct 12",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,1,2,10
+Monroe,"Bedford Township, Precinct 12",President,,Kamala D. Harris,Democrat,173,86,291,550
+Monroe,"Bedford Township, Precinct 12",President,,Donald J. Trump,Republican,335,196,186,717
+Monroe,"Bedford Township, Precinct 12",President,,Chase Oliver,Libertarian,6,1,2,9
+Monroe,"Bedford Township, Precinct 12",President,,Jill Stein,Green,6,4,6,16
+Monroe,"Bedford Township, Precinct 12",President,,"Robert F. Kennedy, Jr.",Natural Law,7,1,2,10
 Monroe,"Bedford Township, Precinct 12",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Bedford Township, Precinct 12",President,,Write-in,,1,0,4,5
 Monroe,"Bedford Township, Precinct 12",President,,Over Vote Count,,1,0,0,1
@@ -5025,15 +5025,15 @@ Monroe,"Bedford Township, Precinct 12",Community College District of Monroe Head
 Monroe,"Bedford Township, Precinct 12",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 12",Community College District of Monroe Headlee Override,,Under Vote Count,,93,58,77,228
 Monroe,"Bedford Township, Precinct 13",President,,Ballots Cast,,627,398,485,1510
-Monroe,"Bedford Township, Precinct 13",President,,Kamala D. Harris / Tim Walz,Democrat,185,111,281,577
-Monroe,"Bedford Township, Precinct 13",President,,Donald J. Trump / JD Vance,Republican,432,280,195,907
-Monroe,"Bedford Township, Precinct 13",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,1,6
-Monroe,"Bedford Township, Precinct 13",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,3,7
+Monroe,"Bedford Township, Precinct 13",President,,Kamala D. Harris,Democrat,185,111,281,577
+Monroe,"Bedford Township, Precinct 13",President,,Donald J. Trump,Republican,432,280,195,907
+Monroe,"Bedford Township, Precinct 13",President,,Chase Oliver,Libertarian,4,1,1,6
+Monroe,"Bedford Township, Precinct 13",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,3,7
 Monroe,"Bedford Township, Precinct 13",President,,Write-in,,2,0,0,2
 Monroe,"Bedford Township, Precinct 13",President,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 13",President,,Under Vote Count,,2,1,4,7
-Monroe,"Bedford Township, Precinct 13",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
-Monroe,"Bedford Township, Precinct 13",President,,Jill Stein / Rudolph Ware,Green,0,2,0,2
+Monroe,"Bedford Township, Precinct 13",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
+Monroe,"Bedford Township, Precinct 13",President,,Jill Stein,Green,0,2,0,2
 Monroe,"Bedford Township, Precinct 13",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
 Monroe,"Bedford Township, Precinct 13",U.S. Senate,,Ballots Cast,,627,398,485,1510
 Monroe,"Bedford Township, Precinct 13",U.S. Senate,,Elissa Slotkin,Democrat,180,108,265,553
@@ -5247,16 +5247,16 @@ Monroe,"Bedford Township, Precinct 13",Community College District of Monroe Head
 Monroe,"Bedford Township, Precinct 13",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 13",Community College District of Monroe Headlee Override,,Under Vote Count,,124,75,75,274
 Monroe,"Bedford Township, Precinct 14",President,,Ballots Cast,,542,316,401,1259
-Monroe,"Bedford Township, Precinct 14",President,,Kamala D. Harris / Tim Walz,Democrat,190,100,235,525
-Monroe,"Bedford Township, Precinct 14",President,,Donald J. Trump / JD Vance,Republican,346,208,160,714
-Monroe,"Bedford Township, Precinct 14",President,,Chase Oliver / Mike ter Maat,Libertarian,2,3,0,5
-Monroe,"Bedford Township, Precinct 14",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"Bedford Township, Precinct 14",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,4,1,8
+Monroe,"Bedford Township, Precinct 14",President,,Kamala D. Harris,Democrat,190,100,235,525
+Monroe,"Bedford Township, Precinct 14",President,,Donald J. Trump,Republican,346,208,160,714
+Monroe,"Bedford Township, Precinct 14",President,,Chase Oliver,Libertarian,2,3,0,5
+Monroe,"Bedford Township, Precinct 14",President,,Jill Stein,Green,1,0,1,2
+Monroe,"Bedford Township, Precinct 14",President,,"Robert F. Kennedy, Jr.",Natural Law,3,4,1,8
 Monroe,"Bedford Township, Precinct 14",President,,Over Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Under Vote Count,,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
 Monroe,"Bedford Township, Precinct 14",President,,Write-in,,0,0,1,1
-Monroe,"Bedford Township, Precinct 14",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
+Monroe,"Bedford Township, Precinct 14",President,,Randall Terry,U.S. Taxpayers,0,1,0,1
 Monroe,"Bedford Township, Precinct 14",U.S. Senate,,Ballots Cast,,542,316,401,1259
 Monroe,"Bedford Township, Precinct 14",U.S. Senate,,Elissa Slotkin,Democrat,169,89,222,480
 Monroe,"Bedford Township, Precinct 14",U.S. Senate,,Mike Rogers,Republican,312,199,151,662
@@ -5478,12 +5478,12 @@ Monroe,"Bedford Township, Precinct 14",Community College District of Monroe Head
 Monroe,"Bedford Township, Precinct 14",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Bedford Township, Precinct 14",Community College District of Monroe Headlee Override,,Under Vote Count,,126,79,74,279
 Monroe,"Berlin Township, Precinct 1",President,,Ballots Cast,,553,567,456,1576
-Monroe,"Berlin Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,142,121,205,468
-Monroe,"Berlin Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,395,439,240,1074
-Monroe,"Berlin Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,1,2,9
-Monroe,"Berlin Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Berlin Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,2,1,4
-Monroe,"Berlin Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,3,0,7
+Monroe,"Berlin Township, Precinct 1",President,,Kamala D. Harris,Democrat,142,121,205,468
+Monroe,"Berlin Township, Precinct 1",President,,Donald J. Trump,Republican,395,439,240,1074
+Monroe,"Berlin Township, Precinct 1",President,,Chase Oliver,Libertarian,6,1,2,9
+Monroe,"Berlin Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Berlin Township, Precinct 1",President,,Jill Stein,Green,1,2,1,4
+Monroe,"Berlin Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,3,0,7
 Monroe,"Berlin Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Berlin Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 1",President,,Under Vote Count,,2,1,7,10
@@ -5698,16 +5698,16 @@ Monroe,"Berlin Township, Precinct 1",Community College District of Monroe Headle
 Monroe,"Berlin Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,142,79,49,270
 Monroe,"Berlin Township, Precinct 2",President,,Ballots Cast,,797,418,689,1904
-Monroe,"Berlin Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,186,77,322,585
-Monroe,"Berlin Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,598,336,344,1278
-Monroe,"Berlin Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,7,1,3,11
-Monroe,"Berlin Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,2,3
-Monroe,"Berlin Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,5,10
+Monroe,"Berlin Township, Precinct 2",President,,Kamala D. Harris,Democrat,186,77,322,585
+Monroe,"Berlin Township, Precinct 2",President,,Donald J. Trump,Republican,598,336,344,1278
+Monroe,"Berlin Township, Precinct 2",President,,Chase Oliver,Libertarian,7,1,3,11
+Monroe,"Berlin Township, Precinct 2",President,,Jill Stein,Green,1,0,2,3
+Monroe,"Berlin Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,5,10
 Monroe,"Berlin Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Berlin Township, Precinct 2",President,,Write-in,,1,0,3,4
 Monroe,"Berlin Township, Precinct 2",President,,Over Vote Count,,0,0,2,2
 Monroe,"Berlin Township, Precinct 2",President,,Under Vote Count,,0,2,6,8
-Monroe,"Berlin Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
+Monroe,"Berlin Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
 Monroe,"Berlin Township, Precinct 2",U.S. Senate,,Ballots Cast,,797,418,689,1904
 Monroe,"Berlin Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,199,77,342,618
 Monroe,"Berlin Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,537,322,318,1177
@@ -5947,12 +5947,12 @@ Monroe,"Berlin Township, Precinct 2",Community College District of Monroe Headle
 Monroe,"Berlin Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,169,89,82,340
 Monroe,"Berlin Township, Precinct 3",President,,Ballots Cast,,453,228,379,1060
-Monroe,"Berlin Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,116,41,178,335
-Monroe,"Berlin Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,329,184,196,709
-Monroe,"Berlin Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,1,5
-Monroe,"Berlin Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Berlin Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Monroe,"Berlin Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,1,3,6
+Monroe,"Berlin Township, Precinct 3",President,,Kamala D. Harris,Democrat,116,41,178,335
+Monroe,"Berlin Township, Precinct 3",President,,Donald J. Trump,Republican,329,184,196,709
+Monroe,"Berlin Township, Precinct 3",President,,Chase Oliver,Libertarian,2,2,1,5
+Monroe,"Berlin Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Berlin Township, Precinct 3",President,,Jill Stein,Green,1,0,0,1
+Monroe,"Berlin Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,2,1,3,6
 Monroe,"Berlin Township, Precinct 3",President,,Write-in,,1,0,0,1
 Monroe,"Berlin Township, Precinct 3",President,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 3",President,,Under Vote Count,,0,0,1,1
@@ -6180,13 +6180,13 @@ Monroe,"Berlin Township, Precinct 3",Community College District of Monroe Headle
 Monroe,"Berlin Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,96,35,39,170
 Monroe,"Berlin Township, Precinct 4",President,,Ballots Cast,,646,439,570,1655
-Monroe,"Berlin Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,148,84,267,499
-Monroe,"Berlin Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,490,347,289,1126
-Monroe,"Berlin Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,7,2,3,12
-Monroe,"Berlin Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
+Monroe,"Berlin Township, Precinct 4",President,,Kamala D. Harris,Democrat,148,84,267,499
+Monroe,"Berlin Township, Precinct 4",President,,Donald J. Trump,Republican,490,347,289,1126
+Monroe,"Berlin Township, Precinct 4",President,,Chase Oliver,Libertarian,7,2,3,12
+Monroe,"Berlin Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
 Monroe,"Berlin Township, Precinct 4",President,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 4",President,,Under Vote Count,,0,2,5,7
-Monroe,"Berlin Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,3,2,5
+Monroe,"Berlin Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,0,3,2,5
 Monroe,"Berlin Township, Precinct 4",President,,Write-in,,0,1,3,4
 Monroe,"Berlin Township, Precinct 4",U.S. Senate,,Ballots Cast,,646,439,570,1655
 Monroe,"Berlin Township, Precinct 4",U.S. Senate,,Elissa Slotkin,Democrat,148,92,268,508
@@ -6399,12 +6399,12 @@ Monroe,"Berlin Township, Precinct 4",Community College District of Monroe Headle
 Monroe,"Berlin Township, Precinct 4",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Berlin Township, Precinct 4",Community College District of Monroe Headlee Override,,Under Vote Count,,125,68,70,263
 Monroe,"Dundee Township, Precinct 1",President,,Ballots Cast,,602,196,415,1213
-Monroe,"Dundee Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,179,78,238,495
-Monroe,"Dundee Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,405,117,168,690
-Monroe,"Dundee Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,9,0,2,11
-Monroe,"Dundee Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Dundee Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,0,0,4
-Monroe,"Dundee Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,1,3
+Monroe,"Dundee Township, Precinct 1",President,,Kamala D. Harris,Democrat,179,78,238,495
+Monroe,"Dundee Township, Precinct 1",President,,Donald J. Trump,Republican,405,117,168,690
+Monroe,"Dundee Township, Precinct 1",President,,Chase Oliver,Libertarian,9,0,2,11
+Monroe,"Dundee Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Dundee Township, Precinct 1",President,,Jill Stein,Green,4,0,0,4
+Monroe,"Dundee Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,1,3
 Monroe,"Dundee Township, Precinct 1",President,,Write-in,,2,0,0,2
 Monroe,"Dundee Township, Precinct 1",President,,Over Vote Count,,0,1,0,1
 Monroe,"Dundee Township, Precinct 1",President,,Under Vote Count,,0,0,6,6
@@ -6602,7 +6602,7 @@ Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Chri
 Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Timothy Miles,,149,37,81,267
 Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Carol Reaume,,211,92,171,474
 Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Write-in,,41,16,25,82
-Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin  Quincy,,28,0,25,53
+Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin Quincy,,28,0,25,53
 Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 1",Dundee Community Schools Board Member,,Under Vote Count,,502,142,328,972
 Monroe,"Dundee Township, Precinct 1",Britton Deerfield School District Board Member,,Ballots Cast,,17,2,7,26
@@ -6631,12 +6631,12 @@ Monroe,"Dundee Township, Precinct 1",Community College District of Monroe Headle
 Monroe,"Dundee Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,119,27,52,198
 Monroe,"Dundee Township, Precinct 2",President,,Ballots Cast,,732,345,601,1678
-Monroe,"Dundee Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,214,109,315,638
-Monroe,"Dundee Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,494,234,269,997
-Monroe,"Dundee Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Dundee Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Dundee Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,6,0,6,12
-Monroe,"Dundee Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,3,7
+Monroe,"Dundee Township, Precinct 2",President,,Kamala D. Harris,Democrat,214,109,315,638
+Monroe,"Dundee Township, Precinct 2",President,,Donald J. Trump,Republican,494,234,269,997
+Monroe,"Dundee Township, Precinct 2",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Dundee Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Dundee Township, Precinct 2",President,,Jill Stein,Green,6,0,6,12
+Monroe,"Dundee Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,3,7
 Monroe,"Dundee Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,0,2
 Monroe,"Dundee Township, Precinct 2",President,,Write-in,,2,0,2,4
 Monroe,"Dundee Township, Precinct 2",President,,Claudia De la Cruz,,1,0,0,1
@@ -6837,7 +6837,7 @@ Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Chri
 Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Timothy Miles,,148,91,129,368
 Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Carol Reaume,,242,107,224,573
 Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Write-in,,34,30,34,98
-Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Yazmin  Quincy,,17,28,34,79
+Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Yazmin Quincy,,17,28,34,79
 Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Over Vote Count,,2,0,2,4
 Monroe,"Dundee Township, Precinct 2",Dundee Community Schools Board Member,,Under Vote Count,,580,251,448,1279
 Monroe,"Dundee Township, Precinct 2",Summerfield School District Board Member,,Ballots Cast,,61,22,29,112
@@ -6877,12 +6877,12 @@ Monroe,"Dundee Township, Precinct 2",Community College District of Monroe Headle
 Monroe,"Dundee Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,139,59,85,283
 Monroe,"Dundee Township, Precinct 3",President,,Ballots Cast,,974,485,634,2093
-Monroe,"Dundee Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,275,123,335,733
-Monroe,"Dundee Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,680,359,281,1320
-Monroe,"Dundee Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,4,10
-Monroe,"Dundee Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Dundee Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,3,0,3,6
-Monroe,"Dundee Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,2,6,15
+Monroe,"Dundee Township, Precinct 3",President,,Kamala D. Harris,Democrat,275,123,335,733
+Monroe,"Dundee Township, Precinct 3",President,,Donald J. Trump,Republican,680,359,281,1320
+Monroe,"Dundee Township, Precinct 3",President,,Chase Oliver,Libertarian,6,0,4,10
+Monroe,"Dundee Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Dundee Township, Precinct 3",President,,Jill Stein,Green,3,0,3,6
+Monroe,"Dundee Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,7,2,6,15
 Monroe,"Dundee Township, Precinct 3",President,,Write-in,,1,0,0,1
 Monroe,"Dundee Township, Precinct 3",President,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 3",President,,Under Vote Count,,1,0,5,6
@@ -7081,7 +7081,7 @@ Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Chri
 Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Timothy Miles,,201,97,108,406
 Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Carol Reaume,,312,171,218,701
 Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Write-in,,43,24,37,104
-Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Yazmin  Quincy,,27,5,25,57
+Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Yazmin Quincy,,27,5,25,57
 Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 3",Dundee Community Schools Board Member,,Under Vote Count,,705,313,393,1411
 Monroe,"Dundee Township, Precinct 3",Ida Public Schools Board Member,,Ballots Cast,,140,85,107,332
@@ -7116,12 +7116,12 @@ Monroe,"Dundee Township, Precinct 3",Community College District of Monroe Headle
 Monroe,"Dundee Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Dundee Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,171,59,80,310
 Monroe,"Erie Township, Precinct 1",President,,Ballots Cast,,914,851,816,2581
-Monroe,"Erie Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,247,196,409,852
-Monroe,"Erie Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,646,647,394,1687
-Monroe,"Erie Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,2,2,10
-Monroe,"Erie Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Erie Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,0,2,7
-Monroe,"Erie Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,3,8
+Monroe,"Erie Township, Precinct 1",President,,Kamala D. Harris,Democrat,247,196,409,852
+Monroe,"Erie Township, Precinct 1",President,,Donald J. Trump,Republican,646,647,394,1687
+Monroe,"Erie Township, Precinct 1",President,,Chase Oliver,Libertarian,6,2,2,10
+Monroe,"Erie Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Erie Township, Precinct 1",President,,Jill Stein,Green,5,0,2,7
+Monroe,"Erie Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,3,8
 Monroe,"Erie Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Erie Township, Precinct 1",President,,Write-in,,1,1,0,2
 Monroe,"Erie Township, Precinct 1",President,,Over Vote Count,,1,0,1,2
@@ -7346,12 +7346,12 @@ Monroe,"Erie Township, Precinct 1",Community College District of Monroe Headlee 
 Monroe,"Erie Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Erie Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,199,162,123,484
 Monroe,"Exeter Township, Precinct 1",President,,Ballots Cast,,950,212,0,1162
-Monroe,"Exeter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,298,35,0,333
-Monroe,"Exeter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,633,175,0,808
-Monroe,"Exeter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,0,6
-Monroe,"Exeter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Exeter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Monroe,"Exeter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,0,2
+Monroe,"Exeter Township, Precinct 1",President,,Kamala D. Harris,Democrat,298,35,0,333
+Monroe,"Exeter Township, Precinct 1",President,,Donald J. Trump,Republican,633,175,0,808
+Monroe,"Exeter Township, Precinct 1",President,,Chase Oliver,Libertarian,5,1,0,6
+Monroe,"Exeter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Exeter Township, Precinct 1",President,,Jill Stein,Green,3,0,0,3
+Monroe,"Exeter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,0,2
 Monroe,"Exeter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Exeter Township, Precinct 1",President,,Write-in,,2,0,0,2
 Monroe,"Exeter Township, Precinct 1",President,,Peter Sonski,,2,0,0,2
@@ -7610,11 +7610,11 @@ Monroe,"Exeter Township, Precinct 1",Community College District of Monroe Headle
 Monroe,"Exeter Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Exeter Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,100,34,0,134
 Monroe,"Exeter Township, Precinct 2",President,,Ballots Cast,,1150,347,0,1497
-Monroe,"Exeter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,393,67,0,460
-Monroe,"Exeter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,740,277,0,1017
-Monroe,"Exeter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,4,2,0,6
-Monroe,"Exeter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Monroe,"Exeter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,0,5
+Monroe,"Exeter Township, Precinct 2",President,,Kamala D. Harris,Democrat,393,67,0,460
+Monroe,"Exeter Township, Precinct 2",President,,Donald J. Trump,Republican,740,277,0,1017
+Monroe,"Exeter Township, Precinct 2",President,,Chase Oliver,Libertarian,4,2,0,6
+Monroe,"Exeter Township, Precinct 2",President,,Jill Stein,Green,3,0,0,3
+Monroe,"Exeter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,0,5
 Monroe,"Exeter Township, Precinct 2",President,,Write-in,,1,1,0,2
 Monroe,"Exeter Township, Precinct 2",President,,Over Vote Count,,1,0,0,1
 Monroe,"Exeter Township, Precinct 2",President,,Under Vote Count,,3,0,0,3
@@ -7839,12 +7839,12 @@ Monroe,"Exeter Township, Precinct 2",Community College District of Monroe Headle
 Monroe,"Exeter Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Exeter Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,155,37,0,192
 Monroe,"Frenchtown Township, Precinct 1",President,,Ballots Cast,,366,214,324,904
-Monroe,"Frenchtown Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,97,39,135,271
-Monroe,"Frenchtown Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,256,173,181,610
-Monroe,"Frenchtown Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,2
-Monroe,"Frenchtown Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Monroe,"Frenchtown Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,1,4
-Monroe,"Frenchtown Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,1,5
+Monroe,"Frenchtown Township, Precinct 1",President,,Kamala D. Harris,Democrat,97,39,135,271
+Monroe,"Frenchtown Township, Precinct 1",President,,Donald J. Trump,Republican,256,173,181,610
+Monroe,"Frenchtown Township, Precinct 1",President,,Chase Oliver,Libertarian,1,1,0,2
+Monroe,"Frenchtown Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Monroe,"Frenchtown Township, Precinct 1",President,,Jill Stein,Green,3,0,1,4
+Monroe,"Frenchtown Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,1,5
 Monroe,"Frenchtown Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 1",President,,Write-in,,1,0,3,4
@@ -8064,14 +8064,14 @@ Monroe,"Frenchtown Township, Precinct 1",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,66,46,40,152
 Monroe,"Frenchtown Township, Precinct 2",President,,Ballots Cast,,360,256,288,904
-Monroe,"Frenchtown Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,76,68,152,296
-Monroe,"Frenchtown Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,277,186,131,594
-Monroe,"Frenchtown Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,2,4
-Monroe,"Frenchtown Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,1,5
+Monroe,"Frenchtown Township, Precinct 2",President,,Kamala D. Harris,Democrat,76,68,152,296
+Monroe,"Frenchtown Township, Precinct 2",President,,Donald J. Trump,Republican,277,186,131,594
+Monroe,"Frenchtown Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,2,0,2,4
+Monroe,"Frenchtown Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,3,1,1,5
 Monroe,"Frenchtown Township, Precinct 2",President,,Write-in,,1,1,0,2
 Monroe,"Frenchtown Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 2",President,,Under Vote Count,,1,0,1,2
-Monroe,"Frenchtown Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,0,0,1,1
+Monroe,"Frenchtown Township, Precinct 2",President,,Jill Stein,Green,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 2",U.S. Senate,,Ballots Cast,,360,256,288,904
 Monroe,"Frenchtown Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,81,67,150,298
 Monroe,"Frenchtown Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,255,178,127,560
@@ -8270,9 +8270,9 @@ Monroe,"Frenchtown Township, Precinct 2",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,81,33,34,148
 Monroe,"Frenchtown Township, Precinct 3",President,,Ballots Cast,,429,264,428,1121
-Monroe,"Frenchtown Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,106,47,217,370
-Monroe,"Frenchtown Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,318,217,206,741
-Monroe,"Frenchtown Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,2,3
+Monroe,"Frenchtown Township, Precinct 3",President,,Kamala D. Harris,Democrat,106,47,217,370
+Monroe,"Frenchtown Township, Precinct 3",President,,Donald J. Trump,Republican,318,217,206,741
+Monroe,"Frenchtown Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,2,3
 Monroe,"Frenchtown Township, Precinct 3",President,,Write-in,,2,0,1,3
 Monroe,"Frenchtown Township, Precinct 3",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 3",President,,Under Vote Count,,2,0,2,4
@@ -8473,14 +8473,14 @@ Monroe,"Frenchtown Township, Precinct 3",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,83,43,54,180
 Monroe,"Frenchtown Township, Precinct 4",President,,Ballots Cast,,331,354,674,1359
-Monroe,"Frenchtown Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,109,100,347,556
-Monroe,"Frenchtown Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,215,254,311,780
-Monroe,"Frenchtown Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,1,3
-Monroe,"Frenchtown Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Frenchtown Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
+Monroe,"Frenchtown Township, Precinct 4",President,,Kamala D. Harris,Democrat,109,100,347,556
+Monroe,"Frenchtown Township, Precinct 4",President,,Donald J. Trump,Republican,215,254,311,780
+Monroe,"Frenchtown Township, Precinct 4",President,,Chase Oliver,Libertarian,2,0,1,3
+Monroe,"Frenchtown Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Frenchtown Township, Precinct 4",President,,Jill Stein,Green,3,0,0,3
 Monroe,"Frenchtown Township, Precinct 4",President,,Over Vote Count,,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 4",President,,Under Vote Count,,0,0,7,7
-Monroe,"Frenchtown Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,0,2,2
+Monroe,"Frenchtown Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,0,0,2,2
 Monroe,"Frenchtown Township, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 4",President,,Write-in,,0,0,3,3
@@ -8683,11 +8683,11 @@ Monroe,"Frenchtown Township, Precinct 4",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 4",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 4",Community College District of Monroe Headlee Override,,Under Vote Count,,77,63,76,216
 Monroe,"Frenchtown Township, Precinct 5",President,,Ballots Cast,,683,296,403,1382
-Monroe,"Frenchtown Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,223,81,232,536
-Monroe,"Frenchtown Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,447,212,162,821
-Monroe,"Frenchtown Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,3,7
-Monroe,"Frenchtown Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,6,2,2,10
-Monroe,"Frenchtown Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,0,1,2
+Monroe,"Frenchtown Township, Precinct 5",President,,Kamala D. Harris,Democrat,223,81,232,536
+Monroe,"Frenchtown Township, Precinct 5",President,,Donald J. Trump,Republican,447,212,162,821
+Monroe,"Frenchtown Township, Precinct 5",President,,Chase Oliver,Libertarian,4,0,3,7
+Monroe,"Frenchtown Township, Precinct 5",President,,Jill Stein,Green,6,2,2,10
+Monroe,"Frenchtown Township, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,1,0,1,2
 Monroe,"Frenchtown Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 5",President,,Write-in,,1,0,2,3
 Monroe,"Frenchtown Township, Precinct 5",President,,Over Vote Count,,0,0,0,0
@@ -8908,11 +8908,11 @@ Monroe,"Frenchtown Township, Precinct 5",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 5",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 5",Community College District of Monroe Headlee Override,,Under Vote Count,,127,65,68,260
 Monroe,"Frenchtown Township, Precinct 6",President,,Ballots Cast,,567,365,536,1468
-Monroe,"Frenchtown Township, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,145,84,284,513
-Monroe,"Frenchtown Township, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,413,278,240,931
-Monroe,"Frenchtown Township, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,2,6
-Monroe,"Frenchtown Township, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Monroe,"Frenchtown Township, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,1,3
+Monroe,"Frenchtown Township, Precinct 6",President,,Kamala D. Harris,Democrat,145,84,284,513
+Monroe,"Frenchtown Township, Precinct 6",President,,Donald J. Trump,Republican,413,278,240,931
+Monroe,"Frenchtown Township, Precinct 6",President,,Chase Oliver,Libertarian,3,1,2,6
+Monroe,"Frenchtown Township, Precinct 6",President,,Jill Stein,Green,2,0,0,2
+Monroe,"Frenchtown Township, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,1,3
 Monroe,"Frenchtown Township, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,2,3
 Monroe,"Frenchtown Township, Precinct 6",President,,Write-in,,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 6",President,,Over Vote Count,,0,0,0,0
@@ -9116,16 +9116,16 @@ Monroe,"Frenchtown Township, Precinct 6",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 6",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,2,2
 Monroe,"Frenchtown Township, Precinct 6",Community College District of Monroe Headlee Override,,Under Vote Count,,115,67,69,251
 Monroe,"Frenchtown Township, Precinct 7",President,,Ballots Cast,,525,504,838,1867
-Monroe,"Frenchtown Township, Precinct 7",President,,Kamala D. Harris / Tim Walz,Democrat,160,117,409,686
-Monroe,"Frenchtown Township, Precinct 7",President,,Donald J. Trump / JD Vance,Republican,355,383,412,1150
-Monroe,"Frenchtown Township, Precinct 7",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Frenchtown Township, Precinct 7",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,4,9
+Monroe,"Frenchtown Township, Precinct 7",President,,Kamala D. Harris,Democrat,160,117,409,686
+Monroe,"Frenchtown Township, Precinct 7",President,,Donald J. Trump,Republican,355,383,412,1150
+Monroe,"Frenchtown Township, Precinct 7",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Frenchtown Township, Precinct 7",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,4,9
 Monroe,"Frenchtown Township, Precinct 7",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 7",President,,Write-in,,2,2,0,4
 Monroe,"Frenchtown Township, Precinct 7",President,,Over Vote Count,,0,0,3,3
 Monroe,"Frenchtown Township, Precinct 7",President,,Under Vote Count,,1,0,3,4
-Monroe,"Frenchtown Township, Precinct 7",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,3,3
-Monroe,"Frenchtown Township, Precinct 7",President,,Jill Stein / Rudolph Ware,Green,0,0,4,4
+Monroe,"Frenchtown Township, Precinct 7",President,,Randall Terry,U.S. Taxpayers,0,0,3,3
+Monroe,"Frenchtown Township, Precinct 7",President,,Jill Stein,Green,0,0,4,4
 Monroe,"Frenchtown Township, Precinct 7",U.S. Senate,,Ballots Cast,,525,504,838,1867
 Monroe,"Frenchtown Township, Precinct 7",U.S. Senate,,Elissa Slotkin,Democrat,162,121,406,689
 Monroe,"Frenchtown Township, Precinct 7",U.S. Senate,,Mike Rogers,Republican,331,356,396,1083
@@ -9357,12 +9357,12 @@ Monroe,"Frenchtown Township, Precinct 7",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 7",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 7",Community College District of Monroe Headlee Override,,Under Vote Count,,113,110,121,344
 Monroe,"Frenchtown Township, Precinct 8",President,,Ballots Cast,,517,294,408,1219
-Monroe,"Frenchtown Township, Precinct 8",President,,Kamala D. Harris / Tim Walz,Democrat,126,69,188,383
-Monroe,"Frenchtown Township, Precinct 8",President,,Donald J. Trump / JD Vance,Republican,376,219,214,809
-Monroe,"Frenchtown Township, Precinct 8",President,,Chase Oliver / Mike ter Maat,Libertarian,5,4,0,9
-Monroe,"Frenchtown Township, Precinct 8",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,3,4
-Monroe,"Frenchtown Township, Precinct 8",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Monroe,"Frenchtown Township, Precinct 8",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,1,6
+Monroe,"Frenchtown Township, Precinct 8",President,,Kamala D. Harris,Democrat,126,69,188,383
+Monroe,"Frenchtown Township, Precinct 8",President,,Donald J. Trump,Republican,376,219,214,809
+Monroe,"Frenchtown Township, Precinct 8",President,,Chase Oliver,Libertarian,5,4,0,9
+Monroe,"Frenchtown Township, Precinct 8",President,,Randall Terry,U.S. Taxpayers,1,0,3,4
+Monroe,"Frenchtown Township, Precinct 8",President,,Jill Stein,Green,2,0,0,2
+Monroe,"Frenchtown Township, Precinct 8",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,1,6
 Monroe,"Frenchtown Township, Precinct 8",President,,Write-in,,1,0,1,2
 Monroe,"Frenchtown Township, Precinct 8",President,,Peter Sonski,,1,0,0,1
 Monroe,"Frenchtown Township, Precinct 8",President,,Over Vote Count,,1,0,1,2
@@ -9566,16 +9566,16 @@ Monroe,"Frenchtown Township, Precinct 8",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 8",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 8",Community College District of Monroe Headlee Override,,Under Vote Count,,96,48,49,193
 Monroe,"Frenchtown Township, Precinct 9",President,,Ballots Cast,,418,379,458,1255
-Monroe,"Frenchtown Township, Precinct 9",President,,Kamala D. Harris / Tim Walz,Democrat,118,118,253,489
-Monroe,"Frenchtown Township, Precinct 9",President,,Donald J. Trump / JD Vance,Republican,291,258,194,743
-Monroe,"Frenchtown Township, Precinct 9",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Frenchtown Township, Precinct 9",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,3,7
+Monroe,"Frenchtown Township, Precinct 9",President,,Kamala D. Harris,Democrat,118,118,253,489
+Monroe,"Frenchtown Township, Precinct 9",President,,Donald J. Trump,Republican,291,258,194,743
+Monroe,"Frenchtown Township, Precinct 9",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Frenchtown Township, Precinct 9",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,3,7
 Monroe,"Frenchtown Township, Precinct 9",President,,Write-in,,1,1,2,4
 Monroe,"Frenchtown Township, Precinct 9",President,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 9",President,,Under Vote Count,,1,0,4,5
-Monroe,"Frenchtown Township, Precinct 9",President,,Jill Stein / Rudolph Ware,Green,0,0,1,1
+Monroe,"Frenchtown Township, Precinct 9",President,,Jill Stein,Green,0,0,1,1
 Monroe,"Frenchtown Township, Precinct 9",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,1,1
-Monroe,"Frenchtown Township, Precinct 9",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,2,0,2
+Monroe,"Frenchtown Township, Precinct 9",President,,Randall Terry,U.S. Taxpayers,0,2,0,2
 Monroe,"Frenchtown Township, Precinct 9",U.S. Senate,,Ballots Cast,,418,379,458,1255
 Monroe,"Frenchtown Township, Precinct 9",U.S. Senate,,Elissa Slotkin,Democrat,120,113,256,489
 Monroe,"Frenchtown Township, Precinct 9",U.S. Senate,,Mike Rogers,Republican,270,256,185,711
@@ -9776,12 +9776,12 @@ Monroe,"Frenchtown Township, Precinct 9",Community College District of Monroe He
 Monroe,"Frenchtown Township, Precinct 9",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Frenchtown Township, Precinct 9",Community College District of Monroe Headlee Override,,Under Vote Count,,94,66,71,231
 Monroe,"Ida Township, Precinct 1",President,,Ballots Cast,,552,641,516,1709
-Monroe,"Ida Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,113,125,223,461
-Monroe,"Ida Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,428,509,275,1212
-Monroe,"Ida Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,5,9
-Monroe,"Ida Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,2,4
-Monroe,"Ida Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"Ida Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,5,6,14
+Monroe,"Ida Township, Precinct 1",President,,Kamala D. Harris,Democrat,113,125,223,461
+Monroe,"Ida Township, Precinct 1",President,,Donald J. Trump,Republican,428,509,275,1212
+Monroe,"Ida Township, Precinct 1",President,,Chase Oliver,Libertarian,3,1,5,9
+Monroe,"Ida Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,2,4
+Monroe,"Ida Township, Precinct 1",President,,Jill Stein,Green,1,0,1,2
+Monroe,"Ida Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,5,6,14
 Monroe,"Ida Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
 Monroe,"Ida Township, Precinct 1",President,,Write-in,,1,0,0,1
 Monroe,"Ida Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -9977,12 +9977,12 @@ Monroe,"Ida Township, Precinct 1",Community College District of Monroe Headlee O
 Monroe,"Ida Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Ida Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,117,108,59,284
 Monroe,"Ida Township, Precinct 2",President,,Ballots Cast,,523,545,436,1504
-Monroe,"Ida Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,120,127,213,460
-Monroe,"Ida Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,385,411,213,1009
-Monroe,"Ida Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,1,3
-Monroe,"Ida Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Monroe,"Ida Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,3,1,2,6
-Monroe,"Ida Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,3,3,13
+Monroe,"Ida Township, Precinct 2",President,,Kamala D. Harris,Democrat,120,127,213,460
+Monroe,"Ida Township, Precinct 2",President,,Donald J. Trump,Republican,385,411,213,1009
+Monroe,"Ida Township, Precinct 2",President,,Chase Oliver,Libertarian,2,0,1,3
+Monroe,"Ida Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Monroe,"Ida Township, Precinct 2",President,,Jill Stein,Green,3,1,2,6
+Monroe,"Ida Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,7,3,3,13
 Monroe,"Ida Township, Precinct 2",President,,Over Vote Count,,1,0,0,1
 Monroe,"Ida Township, Precinct 2",President,,Under Vote Count,,4,3,3,10
 Monroe,"Ida Township, Precinct 2",U.S. Senate,,Ballots Cast,,523,545,436,1504
@@ -10186,12 +10186,12 @@ Monroe,"Ida Township, Precinct 2",Community College District of Monroe Headlee O
 Monroe,"Ida Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Ida Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,96,54,64,214
 Monroe,"La Salle Township, Precinct 1",President,,Ballots Cast,,484,446,456,1386
-Monroe,"La Salle Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,85,87,200,372
-Monroe,"La Salle Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,381,351,241,973
-Monroe,"La Salle Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,1,6
-Monroe,"La Salle Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,2,3
-Monroe,"La Salle Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,2,0,5
-Monroe,"La Salle Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,2,4,12
+Monroe,"La Salle Township, Precinct 1",President,,Kamala D. Harris,Democrat,85,87,200,372
+Monroe,"La Salle Township, Precinct 1",President,,Donald J. Trump,Republican,381,351,241,973
+Monroe,"La Salle Township, Precinct 1",President,,Chase Oliver,Libertarian,3,2,1,6
+Monroe,"La Salle Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,2,3
+Monroe,"La Salle Township, Precinct 1",President,,Jill Stein,Green,3,2,0,5
+Monroe,"La Salle Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,4,12
 Monroe,"La Salle Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"La Salle Township, Precinct 1",President,,Write-in,,1,0,2,3
 Monroe,"La Salle Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -10406,12 +10406,12 @@ Monroe,"La Salle Township, Precinct 1",Community College District of Monroe Head
 Monroe,"La Salle Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"La Salle Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,100,78,68,246
 Monroe,"La Salle Township, Precinct 2",President,,Ballots Cast,,626,569,584,1779
-Monroe,"La Salle Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,150,93,258,501
-Monroe,"La Salle Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,464,470,306,1240
-Monroe,"La Salle Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,1,4
-Monroe,"La Salle Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"La Salle Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,2,0,2,4
-Monroe,"La Salle Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,3,8,16
+Monroe,"La Salle Township, Precinct 2",President,,Kamala D. Harris,Democrat,150,93,258,501
+Monroe,"La Salle Township, Precinct 2",President,,Donald J. Trump,Republican,464,470,306,1240
+Monroe,"La Salle Township, Precinct 2",President,,Chase Oliver,Libertarian,3,0,1,4
+Monroe,"La Salle Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"La Salle Township, Precinct 2",President,,Jill Stein,Green,2,0,2,4
+Monroe,"La Salle Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,5,3,8,16
 Monroe,"La Salle Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Monroe,"La Salle Township, Precinct 2",President,,Under Vote Count,,1,0,6,7
 Monroe,"La Salle Township, Precinct 2",President,,Write-in,,0,1,2,3
@@ -10634,12 +10634,12 @@ Monroe,"La Salle Township, Precinct 2",Community College District of Monroe Head
 Monroe,"La Salle Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"La Salle Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,108,91,77,276
 Monroe,"London Township, Precinct 1",President,,Ballots Cast,,1221,644,0,1865
-Monroe,"London Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,418,139,0,557
-Monroe,"London Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,781,501,0,1282
-Monroe,"London Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,0,4
-Monroe,"London Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"London Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Monroe,"London Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,2,0,8
+Monroe,"London Township, Precinct 1",President,,Kamala D. Harris,Democrat,418,139,0,557
+Monroe,"London Township, Precinct 1",President,,Donald J. Trump,Republican,781,501,0,1282
+Monroe,"London Township, Precinct 1",President,,Chase Oliver,Libertarian,3,1,0,4
+Monroe,"London Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"London Township, Precinct 1",President,,Jill Stein,Green,2,0,0,2
+Monroe,"London Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,0,8
 Monroe,"London Township, Precinct 1",President,,Write-in,,3,0,0,3
 Monroe,"London Township, Precinct 1",President,,Over Vote Count,,3,1,0,4
 Monroe,"London Township, Precinct 1",President,,Under Vote Count,,3,0,0,3
@@ -10824,7 +10824,7 @@ Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Chri
 Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Timothy Miles,,116,81,0,197
 Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Carol Reaume,,185,119,0,304
 Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Write-in,,14,8,0,22
-Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin  Quincy,,4,1,0,5
+Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin Quincy,,4,1,0,5
 Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Monroe,"London Township, Precinct 1",Dundee Community Schools Board Member,,Under Vote Count,,378,292,0,670
 Monroe,"London Township, Precinct 1",Milan Area Schools Board Member,,Ballots Cast,,793,337,0,1130
@@ -10866,12 +10866,12 @@ Monroe,"London Township, Precinct 1",Community College District of Monroe Headle
 Monroe,"London Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"London Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,223,101,0,324
 Monroe,"Milan Township, Precinct 1",President,,Ballots Cast,,880,121,0,1001
-Monroe,"Milan Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,293,38,0,331
-Monroe,"Milan Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,567,82,0,649
-Monroe,"Milan Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Monroe,"Milan Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Milan Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,0,0,5
-Monroe,"Milan Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,0,5
+Monroe,"Milan Township, Precinct 1",President,,Kamala D. Harris,Democrat,293,38,0,331
+Monroe,"Milan Township, Precinct 1",President,,Donald J. Trump,Republican,567,82,0,649
+Monroe,"Milan Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
+Monroe,"Milan Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Milan Township, Precinct 1",President,,Jill Stein,Green,5,0,0,5
+Monroe,"Milan Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,0,5
 Monroe,"Milan Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
 Monroe,"Milan Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Milan Township, Precinct 1",President,,Write-in,,3,0,0,3
@@ -11100,12 +11100,12 @@ Monroe,"Milan Township, Precinct 1",Community College District of Monroe Headlee
 Monroe,"Milan Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Milan Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,0,16,0,16
 Monroe,"Monroe Charter Township, Precinct 1",President,,Ballots Cast,,412,216,451,1079
-Monroe,"Monroe Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,131,68,265,464
-Monroe,"Monroe Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,272,145,179,596
-Monroe,"Monroe Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,3,4
-Monroe,"Monroe Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,0,2
-Monroe,"Monroe Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,1,2,6
-Monroe,"Monroe Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,0,4
+Monroe,"Monroe Charter Township, Precinct 1",President,,Kamala D. Harris,Democrat,131,68,265,464
+Monroe,"Monroe Charter Township, Precinct 1",President,,Donald J. Trump,Republican,272,145,179,596
+Monroe,"Monroe Charter Township, Precinct 1",President,,Chase Oliver,Libertarian,1,0,3,4
+Monroe,"Monroe Charter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
+Monroe,"Monroe Charter Township, Precinct 1",President,,Jill Stein,Green,3,1,2,6
+Monroe,"Monroe Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,1,0,4
 Monroe,"Monroe Charter Township, Precinct 1",President,,Over Vote Count,,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 1",President,,Under Vote Count,,1,0,1,2
 Monroe,"Monroe Charter Township, Precinct 1",U.S. Senate,,Ballots Cast,,412,216,451,1079
@@ -11311,10 +11311,10 @@ Monroe,"Monroe Charter Township, Precinct 1",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,107,59,71,237
 Monroe,"Monroe Charter Township, Precinct 2",President,,Ballots Cast,,361,211,256,828
-Monroe,"Monroe Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,129,64,158,351
-Monroe,"Monroe Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,226,145,91,462
-Monroe,"Monroe Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,3,5
-Monroe,"Monroe Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,0,2
+Monroe,"Monroe Charter Township, Precinct 2",President,,Kamala D. Harris,Democrat,129,64,158,351
+Monroe,"Monroe Charter Township, Precinct 2",President,,Donald J. Trump,Republican,226,145,91,462
+Monroe,"Monroe Charter Township, Precinct 2",President,,Chase Oliver,Libertarian,2,0,3,5
+Monroe,"Monroe Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,2
 Monroe,"Monroe Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Monroe Charter Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Monroe Charter Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
@@ -11522,15 +11522,15 @@ Monroe,"Monroe Charter Township, Precinct 2",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,98,51,39,188
 Monroe,"Monroe Charter Township, Precinct 3",President,,Ballots Cast,,323,215,365,903
-Monroe,"Monroe Charter Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,90,51,181,322
-Monroe,"Monroe Charter Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,223,161,173,557
-Monroe,"Monroe Charter Township, Precinct 3",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Monroe Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,4,7
+Monroe,"Monroe Charter Township, Precinct 3",President,,Kamala D. Harris,Democrat,90,51,181,322
+Monroe,"Monroe Charter Township, Precinct 3",President,,Donald J. Trump,Republican,223,161,173,557
+Monroe,"Monroe Charter Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Monroe Charter Township, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,4,7
 Monroe,"Monroe Charter Township, Precinct 3",President,,Write-in,,1,2,0,3
 Monroe,"Monroe Charter Township, Precinct 3",President,,Over Vote Count,,1,0,1,2
 Monroe,"Monroe Charter Township, Precinct 3",President,,Under Vote Count,,4,1,1,6
-Monroe,"Monroe Charter Township, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,0,0,1,1
-Monroe,"Monroe Charter Township, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,0,0,1,1
+Monroe,"Monroe Charter Township, Precinct 3",President,,Chase Oliver,Libertarian,0,0,1,1
+Monroe,"Monroe Charter Township, Precinct 3",President,,Jill Stein,Green,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,2,2
 Monroe,"Monroe Charter Township, Precinct 3",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 3",President,,Peter Sonski,,0,2,0,2
@@ -11736,12 +11736,12 @@ Monroe,"Monroe Charter Township, Precinct 3",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 3",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 3",Community College District of Monroe Headlee Override,,Under Vote Count,,59,47,44,150
 Monroe,"Monroe Charter Township, Precinct 4",President,,Ballots Cast,,648,384,510,1542
-Monroe,"Monroe Charter Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,211,109,270,590
-Monroe,"Monroe Charter Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,423,272,225,920
-Monroe,"Monroe Charter Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,5,7
-Monroe,"Monroe Charter Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Monroe Charter Township, Precinct 4",President,,Jill Stein / Rudolph Ware,Green,5,0,1,6
-Monroe,"Monroe Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,5,10
+Monroe,"Monroe Charter Township, Precinct 4",President,,Kamala D. Harris,Democrat,211,109,270,590
+Monroe,"Monroe Charter Township, Precinct 4",President,,Donald J. Trump,Republican,423,272,225,920
+Monroe,"Monroe Charter Township, Precinct 4",President,,Chase Oliver,Libertarian,1,1,5,7
+Monroe,"Monroe Charter Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Monroe Charter Township, Precinct 4",President,,Jill Stein,Green,5,0,1,6
+Monroe,"Monroe Charter Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,5,10
 Monroe,"Monroe Charter Township, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Monroe Charter Township, Precinct 4",President,,Write-in,,2,0,1,3
 Monroe,"Monroe Charter Township, Precinct 4",President,,Over Vote Count,,0,0,0,0
@@ -11949,12 +11949,12 @@ Monroe,"Monroe Charter Township, Precinct 4",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 4",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 4",Community College District of Monroe Headlee Override,,Under Vote Count,,160,95,64,319
 Monroe,"Monroe Charter Township, Precinct 5",President,,Ballots Cast,,598,673,799,2070
-Monroe,"Monroe Charter Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,157,165,376,698
-Monroe,"Monroe Charter Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,424,496,405,1325
-Monroe,"Monroe Charter Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,2,3,0,5
-Monroe,"Monroe Charter Township, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Monroe,"Monroe Charter Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,4,1,3,8
-Monroe,"Monroe Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,3,2,12
+Monroe,"Monroe Charter Township, Precinct 5",President,,Kamala D. Harris,Democrat,157,165,376,698
+Monroe,"Monroe Charter Township, Precinct 5",President,,Donald J. Trump,Republican,424,496,405,1325
+Monroe,"Monroe Charter Township, Precinct 5",President,,Chase Oliver,Libertarian,2,3,0,5
+Monroe,"Monroe Charter Township, Precinct 5",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Monroe,"Monroe Charter Township, Precinct 5",President,,Jill Stein,Green,4,1,3,8
+Monroe,"Monroe Charter Township, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,7,3,2,12
 Monroe,"Monroe Charter Township, Precinct 5",President,,Write-in,,2,1,1,4
 Monroe,"Monroe Charter Township, Precinct 5",President,,Over Vote Count,,0,0,3,3
 Monroe,"Monroe Charter Township, Precinct 5",President,,Under Vote Count,,1,4,8,13
@@ -12168,12 +12168,12 @@ Monroe,"Monroe Charter Township, Precinct 5",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 5",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,1,1
 Monroe,"Monroe Charter Township, Precinct 5",Community College District of Monroe Headlee Override,,Under Vote Count,,156,119,132,407
 Monroe,"Monroe Charter Township, Precinct 6",President,,Ballots Cast,,337,393,554,1284
-Monroe,"Monroe Charter Township, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,101,108,234,443
-Monroe,"Monroe Charter Township, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,226,282,311,819
-Monroe,"Monroe Charter Township, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,3,7
-Monroe,"Monroe Charter Township, Precinct 6",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Monroe,"Monroe Charter Township, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Monroe,"Monroe Charter Township, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,1,6
+Monroe,"Monroe Charter Township, Precinct 6",President,,Kamala D. Harris,Democrat,101,108,234,443
+Monroe,"Monroe Charter Township, Precinct 6",President,,Donald J. Trump,Republican,226,282,311,819
+Monroe,"Monroe Charter Township, Precinct 6",President,,Chase Oliver,Libertarian,4,0,3,7
+Monroe,"Monroe Charter Township, Precinct 6",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Monroe,"Monroe Charter Township, Precinct 6",President,,Jill Stein,Green,1,0,1,2
+Monroe,"Monroe Charter Township, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,1,6
 Monroe,"Monroe Charter Township, Precinct 6",President,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 6",President,,Under Vote Count,,0,1,4,5
 Monroe,"Monroe Charter Township, Precinct 6",U.S. Senate,,Ballots Cast,,337,393,554,1284
@@ -12385,12 +12385,12 @@ Monroe,"Monroe Charter Township, Precinct 6",Community College District of Monro
 Monroe,"Monroe Charter Township, Precinct 6",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Monroe Charter Township, Precinct 6",Community College District of Monroe Headlee Override,,Under Vote Count,,57,62,74,193
 Monroe,"Raisinville Township, Precinct 1",President,,Ballots Cast,,516,602,751,1869
-Monroe,"Raisinville Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,107,75,303,485
-Monroe,"Raisinville Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,397,516,434,1347
-Monroe,"Raisinville Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,4,1,7
-Monroe,"Raisinville Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Raisinville Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,3,0,4
-Monroe,"Raisinville Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,3,3,11
+Monroe,"Raisinville Township, Precinct 1",President,,Kamala D. Harris,Democrat,107,75,303,485
+Monroe,"Raisinville Township, Precinct 1",President,,Donald J. Trump,Republican,397,516,434,1347
+Monroe,"Raisinville Township, Precinct 1",President,,Chase Oliver,Libertarian,2,4,1,7
+Monroe,"Raisinville Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Raisinville Township, Precinct 1",President,,Jill Stein,Green,1,3,0,4
+Monroe,"Raisinville Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,3,3,11
 Monroe,"Raisinville Township, Precinct 1",President,,Write-in,,2,1,0,3
 Monroe,"Raisinville Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 1",President,,Under Vote Count,,1,0,10,11
@@ -12580,7 +12580,7 @@ Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,
 Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,,Write-in,,2,6,5,13
 Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,,Under Vote Count,,136,149,140,425
-Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin  Quincy,,0,0,2,2
+Monroe,"Raisinville Township, Precinct 1",Dundee Community Schools Board Member,,Yazmin Quincy,,0,0,2,2
 Monroe,"Raisinville Township, Precinct 1",Monroe Public School District Board Member,,Ballots Cast,,381,426,598,1405
 Monroe,"Raisinville Township, Precinct 1",Monroe Public School District Board Member,,Eugene Bezeau,,78,72,109,259
 Monroe,"Raisinville Township, Precinct 1",Monroe Public School District Board Member,,Gary Jenkins,,111,104,130,345
@@ -12606,12 +12606,12 @@ Monroe,"Raisinville Township, Precinct 1",Community College District of Monroe H
 Monroe,"Raisinville Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,65,76,91,232
 Monroe,"Raisinville Township, Precinct 2",President,,Ballots Cast,,674,694,809,2177
-Monroe,"Raisinville Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,180,176,412,768
-Monroe,"Raisinville Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,484,508,380,1372
-Monroe,"Raisinville Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,4,4,11
-Monroe,"Raisinville Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,"Raisinville Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,1,2,4
-Monroe,"Raisinville Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,4,8
+Monroe,"Raisinville Township, Precinct 2",President,,Kamala D. Harris,Democrat,180,176,412,768
+Monroe,"Raisinville Township, Precinct 2",President,,Donald J. Trump,Republican,484,508,380,1372
+Monroe,"Raisinville Township, Precinct 2",President,,Chase Oliver,Libertarian,3,4,4,11
+Monroe,"Raisinville Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,"Raisinville Township, Precinct 2",President,,Jill Stein,Green,1,1,2,4
+Monroe,"Raisinville Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,4,8
 Monroe,"Raisinville Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,"Raisinville Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 2",President,,Under Vote Count,,2,2,6,10
@@ -12801,7 +12801,7 @@ Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,
 Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Timothy Miles,,30,21,22,73
 Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Carol Reaume,,34,46,49,129
 Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Write-in,,8,5,0,13
-Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Yazmin  Quincy,,3,0,0,3
+Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Yazmin Quincy,,3,0,0,3
 Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 2",Dundee Community Schools Board Member,,Under Vote Count,,76,100,81,257
 Monroe,"Raisinville Township, Precinct 2",Ida Public Schools Board Member,,Ballots Cast,,372,442,503,1317
@@ -12837,12 +12837,12 @@ Monroe,"Raisinville Township, Precinct 2",Community College District of Monroe H
 Monroe,"Raisinville Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Raisinville Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,131,100,101,332
 Monroe,"Summerfield Township, Precinct 1",President,,Ballots Cast,,762,691,603,2056
-Monroe,"Summerfield Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,138,142,278,558
-Monroe,"Summerfield Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,604,544,304,1452
-Monroe,"Summerfield Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,2,9
-Monroe,"Summerfield Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,4,7
-Monroe,"Summerfield Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,2,3
-Monroe,"Summerfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,2,4,12
+Monroe,"Summerfield Township, Precinct 1",President,,Kamala D. Harris,Democrat,138,142,278,558
+Monroe,"Summerfield Township, Precinct 1",President,,Donald J. Trump,Republican,604,544,304,1452
+Monroe,"Summerfield Township, Precinct 1",President,,Chase Oliver,Libertarian,7,0,2,9
+Monroe,"Summerfield Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,4,7
+Monroe,"Summerfield Township, Precinct 1",President,,Jill Stein,Green,1,0,2,3
+Monroe,"Summerfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,4,12
 Monroe,"Summerfield Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,1,1,3
 Monroe,"Summerfield Township, Precinct 1",President,,Over Vote Count,,0,1,0,1
 Monroe,"Summerfield Township, Precinct 1",President,,Under Vote Count,,2,1,7,10
@@ -13062,16 +13062,16 @@ Monroe,"Summerfield Township, Precinct 1",Community College District of Monroe H
 Monroe,"Summerfield Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Summerfield Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,155,124,85,364
 Monroe,"Whiteford Township, Precinct 1",President,,Ballots Cast,,529,619,435,1583
-Monroe,"Whiteford Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,127,138,215,480
-Monroe,"Whiteford Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,385,474,210,1069
-Monroe,"Whiteford Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,1,1,9
-Monroe,"Whiteford Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,1,2,5
-Monroe,"Whiteford Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,3,7
+Monroe,"Whiteford Township, Precinct 1",President,,Kamala D. Harris,Democrat,127,138,215,480
+Monroe,"Whiteford Township, Precinct 1",President,,Donald J. Trump,Republican,385,474,210,1069
+Monroe,"Whiteford Township, Precinct 1",President,,Chase Oliver,Libertarian,7,1,1,9
+Monroe,"Whiteford Township, Precinct 1",President,,Jill Stein,Green,2,1,2,5
+Monroe,"Whiteford Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,3,7
 Monroe,"Whiteford Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
 Monroe,"Whiteford Township, Precinct 1",President,,Write-in,,1,0,0,1
 Monroe,"Whiteford Township, Precinct 1",President,,Over Vote Count,,1,1,0,2
 Monroe,"Whiteford Township, Precinct 1",President,,Under Vote Count,,3,1,3,7
-Monroe,"Whiteford Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,1,0,1
+Monroe,"Whiteford Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,1,0,1
 Monroe,"Whiteford Township, Precinct 1",U.S. Senate,,Ballots Cast,,529,619,435,1583
 Monroe,"Whiteford Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,120,135,204,459
 Monroe,"Whiteford Township, Precinct 1",U.S. Senate,,Mike Rogers,Republican,362,457,213,1032
@@ -13277,15 +13277,15 @@ Monroe,"Whiteford Township, Precinct 1",Community College District of Monroe Hea
 Monroe,"Whiteford Township, Precinct 1",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,1,1
 Monroe,"Whiteford Township, Precinct 1",Community College District of Monroe Headlee Override,,Under Vote Count,,115,104,67,286
 Monroe,"Whiteford Township, Precinct 2",President,,Ballots Cast,,480,535,353,1368
-Monroe,"Whiteford Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,102,119,125,346
-Monroe,"Whiteford Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,373,412,209,994
-Monroe,"Whiteford Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,8,9
+Monroe,"Whiteford Township, Precinct 2",President,,Kamala D. Harris,Democrat,102,119,125,346
+Monroe,"Whiteford Township, Precinct 2",President,,Donald J. Trump,Republican,373,412,209,994
+Monroe,"Whiteford Township, Precinct 2",President,,Jill Stein,Green,1,0,8,9
 Monroe,"Whiteford Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Monroe,"Whiteford Township, Precinct 2",President,,Write-in,,1,1,1,3
 Monroe,"Whiteford Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Monroe,"Whiteford Township, Precinct 2",President,,Under Vote Count,,2,0,5,7
-Monroe,"Whiteford Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,0,2,5,7
-Monroe,"Whiteford Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,0,1,0,1
+Monroe,"Whiteford Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,0,2,5,7
+Monroe,"Whiteford Township, Precinct 2",President,,Chase Oliver,Libertarian,0,1,0,1
 Monroe,"Whiteford Township, Precinct 2",U.S. Senate,,Ballots Cast,,480,535,353,1368
 Monroe,"Whiteford Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,95,112,120,327
 Monroe,"Whiteford Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,338,402,204,944
@@ -13485,12 +13485,12 @@ Monroe,"Whiteford Township, Precinct 2",Community College District of Monroe Hea
 Monroe,"Whiteford Township, Precinct 2",Community College District of Monroe Headlee Override,,Over Vote Count,,0,0,0,0
 Monroe,"Whiteford Township, Precinct 2",Community College District of Monroe Headlee Override,,Under Vote Count,,107,79,48,234
 Monroe,City of Milan,President,,Ballots Cast,,893,362,0,1255
-Monroe,City of Milan,President,,Kamala D. Harris / Tim Walz,Democrat,462,179,0,641
-Monroe,City of Milan,President,,Donald J. Trump / JD Vance,Republican,413,178,0,591
-Monroe,City of Milan,President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,0,4
-Monroe,City of Milan,President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Monroe,City of Milan,President,,Jill Stein / Rudolph Ware,Green,5,2,0,7
-Monroe,City of Milan,President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,3,0,5
+Monroe,City of Milan,President,,Kamala D. Harris,Democrat,462,179,0,641
+Monroe,City of Milan,President,,Donald J. Trump,Republican,413,178,0,591
+Monroe,City of Milan,President,,Chase Oliver,Libertarian,4,0,0,4
+Monroe,City of Milan,President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Monroe,City of Milan,President,,Jill Stein,Green,5,2,0,7
+Monroe,City of Milan,President,,"Robert F. Kennedy, Jr.",Natural Law,2,3,0,5
 Monroe,City of Milan,President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Monroe,City of Milan,President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
 Monroe,City of Milan,President,,Write-in,,2,0,0,2

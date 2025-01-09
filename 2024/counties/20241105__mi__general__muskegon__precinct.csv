@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,election_day,absentee,early_voting_local,early_voting_county,votes
+county,precinct,office,district,candidate,party,election_day,absentee,early_voting_local,early_voting_county,votes
 Muskegon,Blue Lake Township Precinct 1,Registered Voters,,,,,,,,1465
 Muskegon,Blue Lake Township Precinct 1,Ballots Cast,,,,,,,,2179
 Muskegon,Blue Lake Township Precinct 1,Straight Party,,Democratic Party,DEM,262,0,0,29,291
@@ -5161,7 +5161,6 @@ Muskegon,"Sullivan Township, Precinct 1",President,,Jill Stein,GRN,0,1,0,1,2
 Muskegon,"Sullivan Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",NLP,8,7,0,0,15
 Muskegon,"Sullivan Township, Precinct 1",President,,Joseph Kishore,NPA,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",President,,Cornel West,NPA,1,0,0,0,1
-Muskegon,"Sullivan Township, Precinct 1",President,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",President,,Cherunda Lynn Fox (W),,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",President,,Claudia De la Cruz (W),,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",President,,Jay J. Bowman (W),,0,0,0,0,0
@@ -5174,7 +5173,6 @@ Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,LIB,15
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Dave Stein,UST,6,8,0,2,16
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,GRN,3,3,0,2,8
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Doug Dern,NLP,5,4,0,1,10
-Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,James Chapman (W),,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Marcus A. Irvine (W),,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",U.S. Senate,,Valerie Lee Willis (W),,0,0,0,0,0
@@ -5184,12 +5182,10 @@ Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Hillary Scholten,DEM,221,2
 Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Paul Hudson,REP,654,269,0,166,1089
 Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Alex Avery,LIB,9,7,0,5,21
 Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Louis Palus,WC,21,11,0,3,35
-Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Under Votes,,35,24,0,3,62
 Muskegon,"Sullivan Township, Precinct 1",U.S. House,3,Over Votes,,1,0,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",State House,89,Lois E. Maassen,DEM,182,240,0,41,463
 Muskegon,"Sullivan Township, Precinct 1",State House,89,Luke Meerman,REP,712,319,0,171,1202
-Muskegon,"Sullivan Township, Precinct 1",State House,89,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",State House,89,Under Votes,,47,29,0,6,82
 Muskegon,"Sullivan Township, Precinct 1",State House,89,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Members of the State Board of Education,,Theodore Jones,DEM,167,228,0,29,424
@@ -5237,95 +5233,75 @@ Muskegon,"Sullivan Township, Precinct 1",Governor of Wayne State University,,Bla
 Muskegon,"Sullivan Township, Precinct 1",Governor of Wayne State University,,Under Votes,,344,152,0,48,544
 Muskegon,"Sullivan Township, Precinct 1",Governor of Wayne State University,,Over Votes,,1,0,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",Prosecuting Attorney,,D. J. Hilson,DEM,458,351,0,90,899
-Muskegon,"Sullivan Township, Precinct 1",Prosecuting Attorney,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Prosecuting Attorney,,Under Votes,,483,237,0,128,848
 Muskegon,"Sullivan Township, Precinct 1",Prosecuting Attorney,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Sheriff,,Michael J. Poulin,DEM,300,328,0,59,687
 Muskegon,"Sullivan Township, Precinct 1",Sheriff,,Max Riekse,REP,583,230,0,149,962
-Muskegon,"Sullivan Township, Precinct 1",Sheriff,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Sheriff,,Under Votes,,57,30,0,10,97
 Muskegon,"Sullivan Township, Precinct 1",Sheriff,,Over Votes,,1,0,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",Clerk,,Karen D. Buie,DEM,221,279,0,47,547
 Muskegon,"Sullivan Township, Precinct 1",Clerk,,Eric Rothoff,REP,641,273,0,158,1072
-Muskegon,"Sullivan Township, Precinct 1",Clerk,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Clerk,,Under Votes,,79,36,0,13,128
 Muskegon,"Sullivan Township, Precinct 1",Clerk,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Treasurer,,Tony Moulatsiotis,DEM,228,282,0,38,548
 Muskegon,"Sullivan Township, Precinct 1",Treasurer,,Kent Boersema,REP,656,281,0,168,1105
-Muskegon,"Sullivan Township, Precinct 1",Treasurer,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Treasurer,,Under Votes,,57,25,0,12,94
 Muskegon,"Sullivan Township, Precinct 1",Treasurer,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Register of Deeds,,William Moulatsiotis,DEM,213,262,0,38,513
 Muskegon,"Sullivan Township, Precinct 1",Register of Deeds,,Jason M. Hall,REP,650,298,0,165,1113
-Muskegon,"Sullivan Township, Precinct 1",Register of Deeds,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Register of Deeds,,Under Votes,,78,28,0,15,121
 Muskegon,"Sullivan Township, Precinct 1",Register of Deeds,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Water Resources Commissioner,,Stephanie Barrett,DEM,201,251,0,40,492
 Muskegon,"Sullivan Township, Precinct 1",Water Resources Commissioner,,Zach Laring,REP,668,311,0,167,1146
-Muskegon,"Sullivan Township, Precinct 1",Water Resources Commissioner,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Water Resources Commissioner,,Under Votes,,72,26,0,10,108
 Muskegon,"Sullivan Township, Precinct 1",Water Resources Commissioner,,Over Votes,,0,0,0,1,1
 Muskegon,"Sullivan Township, Precinct 1",Surveyor,,Tim DeMumbrum,DEM,414,341,0,80,835
-Muskegon,"Sullivan Township, Precinct 1",Surveyor,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Surveyor,,Under Votes,,527,246,0,138,911
 Muskegon,"Sullivan Township, Precinct 1",Surveyor,,Over Votes,,0,1,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",County Commissioner 3rd District,,Sandra Boone-Thomas,DEM,176,241,0,32,449
 Muskegon,"Sullivan Township, Precinct 1",County Commissioner 3rd District,,Michelle Hazekamp,REP,701,319,0,176,1196
-Muskegon,"Sullivan Township, Precinct 1",County Commissioner 3rd District,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",County Commissioner 3rd District,,Under Votes,,64,28,0,10,102
 Muskegon,"Sullivan Township, Precinct 1",County Commissioner 3rd District,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Supervisor,,Courtney Glavich,REP,599,267,0,145,1011
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Supervisor,,David Sorensen,NPA,231,211,0,46,488
-Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Supervisor,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Supervisor,,Under Votes,,110,110,0,27,247
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Supervisor,,Over Votes,,1,0,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Clerk,,Heather Brown,NPA,462,276,0,88,826
-Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Clerk,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Clerk,,Under Votes,,479,312,0,130,921
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Clerk,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Treasurer,,Brooke VanHouten,NPA,452,270,0,86,808
-Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Treasurer,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Treasurer,,Under Votes,,489,317,0,132,938
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Treasurer,,Over Votes,,0,1,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Michael Hazekamp,REP,657,302,0,164,1123
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Angela Himber,REP,556,248,0,150,954
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Becky Belknap,NPA,145,149,0,20,314
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Tracey R. McGhan,NPA,162,184,0,27,373
-Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Blank (W),,0,-1,0,0,-1
-Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Blank1 (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Under Votes,,362,293,0,75,730
 Muskegon,"Sullivan Township, Precinct 1",Sullivan Township Trustee,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court 8 Year Term,,Andrew Fink,,401,197,0,96,694
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court 8 Year Term,,Kimberly Ann Thomas,,278,251,0,54,583
-Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court 8 Year Term,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court 8 Year Term,,Under Votes,,262,140,0,68,470
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court 8 Year Term,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court Incumbent Position Term Ending 01/01/2029,,Kyra Harris Bolden,,300,260,0,63,623
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court Incumbent Position Term Ending 01/01/2029,,Patrick William O'Grady,,367,184,0,84,635
-Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court Incumbent Position Term Ending 01/01/2029,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court Incumbent Position Term Ending 01/01/2029,,Under Votes,,274,144,0,70,488
 Muskegon,"Sullivan Township, Precinct 1",Justice of Supreme Court Incumbent Position Term Ending 01/01/2029,,Over Votes,,0,0,0,1,1
 Muskegon,"Sullivan Township, Precinct 1",Judge of Court of Appeals 3rd District Incumbent Position,,Philip P. Mariani,,367,271,0,80,718
 Muskegon,"Sullivan Township, Precinct 1",Judge of Court of Appeals 3rd District Incumbent Position,,Christopher P. Yates,,436,288,0,93,817
-Muskegon,"Sullivan Township, Precinct 1",Judge of Court of Appeals 3rd District Incumbent Position,,Blank (W),,0,-2,0,0,-2
 Muskegon,"Sullivan Township, Precinct 1",Judge of Court of Appeals 3rd District Incumbent Position,,Under Votes,,1079,617,0,263,1959
 Muskegon,"Sullivan Township, Precinct 1",Judge of Court of Appeals 3rd District Incumbent Position,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Judge of Circuit Court 14th Circuit Incumbent Position,,Annette R. Smedley,,518,331,0,113,962
-Muskegon,"Sullivan Township, Precinct 1",Judge of Circuit Court 14th Circuit Incumbent Position,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Judge of Circuit Court 14th Circuit Incumbent Position,,Under Votes,,422,257,0,105,784
 Muskegon,"Sullivan Township, Precinct 1",Judge of Circuit Court 14th Circuit Incumbent Position,,Over Votes,,1,0,0,0,1
 Muskegon,"Sullivan Township, Precinct 1",Judge of Probate Court Incumbent Position,,Gregory C. Pittman,,404,226,0,85,715
 Muskegon,"Sullivan Township, Precinct 1",Judge of Probate Court Incumbent Position,,Kendrah Robinson,,257,213,0,57,527
-Muskegon,"Sullivan Township, Precinct 1",Judge of Probate Court Incumbent Position,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Judge of Probate Court Incumbent Position,,Under Votes,,280,149,0,75,504
 Muskegon,"Sullivan Township, Precinct 1",Judge of Probate Court Incumbent Position,,Over Votes,,0,0,0,1,1
 Muskegon,"Sullivan Township, Precinct 1",Judge of District Court 60th District Incumbent Position,,Raymond J. Kostrzewa,,534,327,0,108,969
-Muskegon,"Sullivan Township, Precinct 1",Judge of District Court 60th District Incumbent Position,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Judge of District Court 60th District Incumbent Position,,Under Votes,,407,261,0,110,778
 Muskegon,"Sullivan Township, Precinct 1",Judge of District Court 60th District Incumbent Position,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Donald Crandall,,521,317,0,103,941
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Asaline Scott (W),,1,3,0,0,4
-Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Blank (W),,0,-2,0,1,-1
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Jeffrey Lee Zabrocki (W),,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Kara Olson (W),,0,2,0,0,2
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Neal Alan Barncard (W),,7,4,0,1,12
@@ -5333,12 +5309,9 @@ Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Commu
 Muskegon,"Sullivan Township, Precinct 1",Board of Trustees Member Muskegon Community College,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Alison Gillhespy,,15,9,0,0,24
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Shaun Nelson,,12,6,0,1,19
-Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Blank (W),,0,-1,0,0,-1
-Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Blank1 (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Under Votes,,31,13,0,9,53
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools Term Ending 12/31/2026,,Ryan Post,,11,8,0,0,19
-Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools Term Ending 12/31/2026,,Blank (W),,0,-1,0,0,-1
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools Term Ending 12/31/2026,,Under Votes,,18,6,0,5,29
 Muskegon,"Sullivan Township, Precinct 1",Board Member Coopersville Area Schools Term Ending 12/31/2026,,Over Votes,,0,0,0,0,0
 Muskegon,"Sullivan Township, Precinct 1",Board Member Fruitport Community Schools,,Elroy W. Buckner,,101,74,0,23,198

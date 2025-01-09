@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,total,election_day,early_voting,av_counting_boards,votes
 Lake,"Chase Township, Precinct 1",President,,Ballots Cast,,678,582,96,0,678
-Lake,"Chase Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,126,110,16,0,126
-Lake,"Chase Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,539,459,80,0,539
-Lake,"Chase Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,0,0,3
-Lake,"Chase Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,2,0,0,2
-Lake,"Chase Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,2,0,0,2
-Lake,"Chase Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,5,0,0,5
+Lake,"Chase Township, Precinct 1",President,,Kamala D. Harris,Democrat,126,110,16,0,126
+Lake,"Chase Township, Precinct 1",President,,Donald J. Trump,Republican,539,459,80,0,539
+Lake,"Chase Township, Precinct 1",President,,Chase Oliver,Libertarian,3,3,0,0,3
+Lake,"Chase Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,2,0,0,2
+Lake,"Chase Township, Precinct 1",President,,Jill Stein,Green,2,2,0,0,2
+Lake,"Chase Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,5,0,0,5
 Lake,"Chase Township, Precinct 1",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Chase Township, Precinct 1",President,,Under Vote Count,,1,1,0,0,1
 Lake,"Chase Township, Precinct 1",U.S. Senate,,Ballots Cast,,678,582,96,0,678
@@ -148,12 +148,12 @@ Lake,"Chase Township, Precinct 1",Justice of Supreme Court,,Kimberly Ann Thomas,
 Lake,"Chase Township, Precinct 1",Justice of Supreme Court,,Write-in,,10,10,0,0,10
 Lake,"Chase Township, Precinct 1",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Chase Township, Precinct 1",Justice of Supreme Court,,Under Vote Count,,183,165,18,0,183
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Ballots Cast,,678,582,96,0,678
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,214,181,33,0,214
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,267,226,41,0,267
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Write-in,,13,13,0,0,13
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Chase Township, Precinct 1",Justice of Supreme Court  Partial Term,,Under Vote Count,,184,162,22,0,184
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Ballots Cast,,678,582,96,0,678
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,214,181,33,0,214
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,267,226,41,0,267
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Write-in,,13,13,0,0,13
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Chase Township, Precinct 1",Justice of Supreme Court Partial Term,,Under Vote Count,,184,162,22,0,184
 Lake,"Chase Township, Precinct 1",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,678,582,96,0,678
 Lake,"Chase Township, Precinct 1",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,392,326,66,0,392
 Lake,"Chase Township, Precinct 1",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,16,16,0,0,16
@@ -198,10 +198,10 @@ Lake,"Chase Township, Precinct 1",Lake County Emergency Medical Services Millage
 Lake,"Chase Township, Precinct 1",Lake County Emergency Medical Services Millage Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Chase Township, Precinct 1",Lake County Emergency Medical Services Millage Proposal,,Under Vote Count,,99,89,10,0,99
 Lake,"Cherry Valley Township, Precinct 2",President,,Ballots Cast,,287,255,32,0,287
-Lake,"Cherry Valley Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,90,82,8,0,90
-Lake,"Cherry Valley Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,190,166,24,0,190
-Lake,"Cherry Valley Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,0,0,2
-Lake,"Cherry Valley Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,4,4,0,0,4
+Lake,"Cherry Valley Township, Precinct 2",President,,Kamala D. Harris,Democrat,90,82,8,0,90
+Lake,"Cherry Valley Township, Precinct 2",President,,Donald J. Trump,Republican,190,166,24,0,190
+Lake,"Cherry Valley Township, Precinct 2",President,,Chase Oliver,Libertarian,2,2,0,0,2
+Lake,"Cherry Valley Township, Precinct 2",President,,Jill Stein,Green,4,4,0,0,4
 Lake,"Cherry Valley Township, Precinct 2",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Cherry Valley Township, Precinct 2",President,,Under Vote Count,,1,1,0,0,1
 Lake,"Cherry Valley Township, Precinct 2",U.S. Senate,,Ballots Cast,,287,255,32,0,287
@@ -336,12 +336,12 @@ Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court,,Kimberly Ann
 Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court,,Write-in,,6,5,1,0,6
 Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court,,Under Vote Count,,78,67,11,0,78
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Ballots Cast,,287,255,32,0,287
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,94,85,9,0,94
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,121,106,15,0,121
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Write-in,,5,5,0,0,5
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court  Partial Term,,Under Vote Count,,67,59,8,0,67
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Ballots Cast,,287,255,32,0,287
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,94,85,9,0,94
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,121,106,15,0,121
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Write-in,,5,5,0,0,5
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Cherry Valley Township, Precinct 2",Justice of Supreme Court Partial Term,,Under Vote Count,,67,59,8,0,67
 Lake,"Cherry Valley Township, Precinct 2",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,287,255,32,0,287
 Lake,"Cherry Valley Township, Precinct 2",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,161,146,15,0,161
 Lake,"Cherry Valley Township, Precinct 2",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,11,10,1,0,11
@@ -386,8 +386,8 @@ Lake,"Cherry Valley Township, Precinct 2",Baldwin Community School Safety Bond P
 Lake,"Cherry Valley Township, Precinct 2",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Cherry Valley Township, Precinct 2",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,18,16,2,0,18
 Lake,"Dover Township, Precinct 3",President,,Ballots Cast,,254,241,13,0,254
-Lake,"Dover Township, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,48,46,2,0,48
-Lake,"Dover Township, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,206,195,11,0,206
+Lake,"Dover Township, Precinct 3",President,,Kamala D. Harris,Democrat,48,46,2,0,48
+Lake,"Dover Township, Precinct 3",President,,Donald J. Trump,Republican,206,195,11,0,206
 Lake,"Dover Township, Precinct 3",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Dover Township, Precinct 3",President,,Under Vote Count,,0,0,0,0,0
 Lake,"Dover Township, Precinct 3",U.S. Senate,,Ballots Cast,,254,241,13,0,254
@@ -513,12 +513,12 @@ Lake,"Dover Township, Precinct 3",Justice of Supreme Court,,Kimberly Ann Thomas,
 Lake,"Dover Township, Precinct 3",Justice of Supreme Court,,Write-in,,3,3,0,0,3
 Lake,"Dover Township, Precinct 3",Justice of Supreme Court,,Over Vote Count,,2,2,0,0,2
 Lake,"Dover Township, Precinct 3",Justice of Supreme Court,,Under Vote Count,,83,78,5,0,83
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Ballots Cast,,254,241,13,0,254
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,79,78,1,0,79
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,93,85,8,0,93
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Write-in,,3,3,0,0,3
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Dover Township, Precinct 3",Justice of Supreme Court  Partial Term,,Under Vote Count,,79,75,4,0,79
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Ballots Cast,,254,241,13,0,254
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,79,78,1,0,79
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,93,85,8,0,93
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Write-in,,3,3,0,0,3
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Dover Township, Precinct 3",Justice of Supreme Court Partial Term,,Under Vote Count,,79,75,4,0,79
 Lake,"Dover Township, Precinct 3",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,254,241,13,0,254
 Lake,"Dover Township, Precinct 3",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,137,130,7,0,137
 Lake,"Dover Township, Precinct 3",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,6,6,0,0,6
@@ -554,11 +554,11 @@ Lake,"Dover Township, Precinct 3",Lake County Emergency Medical Services Millage
 Lake,"Dover Township, Precinct 3",Lake County Emergency Medical Services Millage Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Dover Township, Precinct 3",Lake County Emergency Medical Services Millage Proposal,,Under Vote Count,,40,39,1,0,40
 Lake,"Eden Township, Precinct 4",President,,Ballots Cast,,345,308,37,0,345
-Lake,"Eden Township, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,101,94,7,0,101
-Lake,"Eden Township, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,233,203,30,0,233
-Lake,"Eden Township, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,2,2,0,0,2
-Lake,"Eden Township, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,0,0,1
-Lake,"Eden Township, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,3,0,0,3
+Lake,"Eden Township, Precinct 4",President,,Kamala D. Harris,Democrat,101,94,7,0,101
+Lake,"Eden Township, Precinct 4",President,,Donald J. Trump,Republican,233,203,30,0,233
+Lake,"Eden Township, Precinct 4",President,,Chase Oliver,Libertarian,2,2,0,0,2
+Lake,"Eden Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,1,0,0,1
+Lake,"Eden Township, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,3,3,0,0,3
 Lake,"Eden Township, Precinct 4",President,,Write-in,,1,1,0,0,1
 Lake,"Eden Township, Precinct 4",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Eden Township, Precinct 4",President,,Under Vote Count,,4,4,0,0,4
@@ -695,12 +695,12 @@ Lake,"Eden Township, Precinct 4",Justice of Supreme Court,,Kimberly Ann Thomas,,
 Lake,"Eden Township, Precinct 4",Justice of Supreme Court,,Write-in,,3,3,0,0,3
 Lake,"Eden Township, Precinct 4",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Eden Township, Precinct 4",Justice of Supreme Court,,Under Vote Count,,104,92,12,0,104
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Ballots Cast,,345,308,37,0,345
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,102,92,10,0,102
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,136,120,16,0,136
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Write-in,,3,3,0,0,3
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Eden Township, Precinct 4",Justice of Supreme Court  Partial Term,,Under Vote Count,,104,93,11,0,104
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Ballots Cast,,345,308,37,0,345
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,102,92,10,0,102
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,136,120,16,0,136
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Write-in,,3,3,0,0,3
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Eden Township, Precinct 4",Justice of Supreme Court Partial Term,,Under Vote Count,,104,93,11,0,104
 Lake,"Eden Township, Precinct 4",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,345,308,37,0,345
 Lake,"Eden Township, Precinct 4",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,201,180,21,0,201
 Lake,"Eden Township, Precinct 4",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,5,5,0,0,5
@@ -745,11 +745,11 @@ Lake,"Eden Township, Precinct 4",Baldwin Community School Safety Bond Proposal,,
 Lake,"Eden Township, Precinct 4",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Eden Township, Precinct 4",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,44,40,4,0,44
 Lake,"Elk Township, Precinct 5",President,,Ballots Cast,,738,668,70,0,738
-Lake,"Elk Township, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,266,252,14,0,266
-Lake,"Elk Township, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,456,400,56,0,456
-Lake,"Elk Township, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,0,0,3
-Lake,"Elk Township, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,3,3,0,0,3
-Lake,"Elk Township, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,5,0,0,5
+Lake,"Elk Township, Precinct 5",President,,Kamala D. Harris,Democrat,266,252,14,0,266
+Lake,"Elk Township, Precinct 5",President,,Donald J. Trump,Republican,456,400,56,0,456
+Lake,"Elk Township, Precinct 5",President,,Chase Oliver,Libertarian,3,3,0,0,3
+Lake,"Elk Township, Precinct 5",President,,Jill Stein,Green,3,3,0,0,3
+Lake,"Elk Township, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,5,5,0,0,5
 Lake,"Elk Township, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,0,0,1
 Lake,"Elk Township, Precinct 5",President,,Write-in,,1,1,0,0,1
 Lake,"Elk Township, Precinct 5",President,,Over Vote Count,,0,0,0,0,0
@@ -893,12 +893,12 @@ Lake,"Elk Township, Precinct 5",Justice of Supreme Court,,Kimberly Ann Thomas,,2
 Lake,"Elk Township, Precinct 5",Justice of Supreme Court,,Write-in,,5,4,1,0,5
 Lake,"Elk Township, Precinct 5",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Elk Township, Precinct 5",Justice of Supreme Court,,Under Vote Count,,192,167,25,0,192
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Ballots Cast,,738,668,70,0,738
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,301,286,15,0,301
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,236,211,25,0,236
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Write-in,,6,4,2,0,6
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Elk Township, Precinct 5",Justice of Supreme Court  Partial Term,,Under Vote Count,,195,167,28,0,195
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Ballots Cast,,738,668,70,0,738
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,301,286,15,0,301
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,236,211,25,0,236
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Write-in,,6,4,2,0,6
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Elk Township, Precinct 5",Justice of Supreme Court Partial Term,,Under Vote Count,,195,167,28,0,195
 Lake,"Elk Township, Precinct 5",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,738,668,70,0,738
 Lake,"Elk Township, Precinct 5",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,407,375,32,0,407
 Lake,"Elk Township, Precinct 5",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,12,8,4,0,12
@@ -949,10 +949,10 @@ Lake,"Elk Township, Precinct 5",Baldwin Community School Safety Bond Proposal,,N
 Lake,"Elk Township, Precinct 5",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Elk Township, Precinct 5",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,27,23,4,0,27
 Lake,"Ellsworth Township, Precinct 6",President,,Ballots Cast,,504,380,124,0,504
-Lake,"Ellsworth Township, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,127,102,25,0,127
-Lake,"Ellsworth Township, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,365,269,96,0,365
-Lake,"Ellsworth Township, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,1,0,3
-Lake,"Ellsworth Township, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,4,0,0,4
+Lake,"Ellsworth Township, Precinct 6",President,,Kamala D. Harris,Democrat,127,102,25,0,127
+Lake,"Ellsworth Township, Precinct 6",President,,Donald J. Trump,Republican,365,269,96,0,365
+Lake,"Ellsworth Township, Precinct 6",President,,Chase Oliver,Libertarian,3,2,1,0,3
+Lake,"Ellsworth Township, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,4,4,0,0,4
 Lake,"Ellsworth Township, Precinct 6",President,,Write-in,,1,1,0,0,1
 Lake,"Ellsworth Township, Precinct 6",President,,Over Vote Count,,1,0,1,0,1
 Lake,"Ellsworth Township, Precinct 6",President,,Under Vote Count,,3,2,1,0,3
@@ -1096,12 +1096,12 @@ Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court,,Kimberly Ann Tho
 Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court,,Write-in,,5,4,1,0,5
 Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court,,Under Vote Count,,124,94,30,0,124
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Ballots Cast,,504,380,124,0,504
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,167,131,36,0,167
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,200,145,55,0,200
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Write-in,,5,4,1,0,5
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court  Partial Term,,Under Vote Count,,132,100,32,0,132
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Ballots Cast,,504,380,124,0,504
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,167,131,36,0,167
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,200,145,55,0,200
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Write-in,,5,4,1,0,5
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Ellsworth Township, Precinct 6",Justice of Supreme Court Partial Term,,Under Vote Count,,132,100,32,0,132
 Lake,"Ellsworth Township, Precinct 6",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,504,380,124,0,504
 Lake,"Ellsworth Township, Precinct 6",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,301,239,62,0,301
 Lake,"Ellsworth Township, Precinct 6",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,5,4,1,0,5
@@ -1155,10 +1155,10 @@ Lake,"Ellsworth Township, Precinct 6",Lake County Emergency Medical Services Mil
 Lake,"Ellsworth Township, Precinct 6",Lake County Emergency Medical Services Millage Proposal,,Over Vote Count,,1,1,0,0,1
 Lake,"Ellsworth Township, Precinct 6",Lake County Emergency Medical Services Millage Proposal,,Under Vote Count,,68,52,16,0,68
 Lake,"Lake Township, Precinct 7",President,,Ballots Cast,,612,507,105,0,612
-Lake,"Lake Township, Precinct 7",President,,Kamala D. Harris / Tim Walz,Democrat,219,186,33,0,219
-Lake,"Lake Township, Precinct 7",President,,Donald J. Trump / JD Vance,Republican,380,310,70,0,380
-Lake,"Lake Township, Precinct 7",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,1,0,1
-Lake,"Lake Township, Precinct 7",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,5,0,0,5
+Lake,"Lake Township, Precinct 7",President,,Kamala D. Harris,Democrat,219,186,33,0,219
+Lake,"Lake Township, Precinct 7",President,,Donald J. Trump,Republican,380,310,70,0,380
+Lake,"Lake Township, Precinct 7",President,,Chase Oliver,Libertarian,1,0,1,0,1
+Lake,"Lake Township, Precinct 7",President,,"Robert F. Kennedy, Jr.",Natural Law,5,5,0,0,5
 Lake,"Lake Township, Precinct 7",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,1,0,0,1
 Lake,"Lake Township, Precinct 7",President,,Over Vote Count,,1,1,0,0,1
 Lake,"Lake Township, Precinct 7",President,,Under Vote Count,,5,4,1,0,5
@@ -1294,12 +1294,12 @@ Lake,"Lake Township, Precinct 7",Justice of Supreme Court,,Kimberly Ann Thomas,,
 Lake,"Lake Township, Precinct 7",Justice of Supreme Court,,Write-in,,4,3,1,0,4
 Lake,"Lake Township, Precinct 7",Justice of Supreme Court,,Over Vote Count,,1,1,0,0,1
 Lake,"Lake Township, Precinct 7",Justice of Supreme Court,,Under Vote Count,,147,123,24,0,147
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Ballots Cast,,612,507,105,0,612
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,261,227,34,0,261
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,202,152,50,0,202
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Write-in,,5,4,1,0,5
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Lake Township, Precinct 7",Justice of Supreme Court  Partial Term,,Under Vote Count,,144,124,20,0,144
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Ballots Cast,,612,507,105,0,612
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,261,227,34,0,261
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,202,152,50,0,202
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Write-in,,5,4,1,0,5
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Lake Township, Precinct 7",Justice of Supreme Court Partial Term,,Under Vote Count,,144,124,20,0,144
 Lake,"Lake Township, Precinct 7",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,612,507,105,0,612
 Lake,"Lake Township, Precinct 7",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,383,313,70,0,383
 Lake,"Lake Township, Precinct 7",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,9,8,1,0,9
@@ -1352,9 +1352,9 @@ Lake,"Lake Township, Precinct 7",Baldwin Community School Safety Bond Proposal,,
 Lake,"Lake Township, Precinct 7",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Lake Township, Precinct 7",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,32,27,5,0,32
 Lake,"Newkirk Township, Precinct 8",President,,Ballots Cast,,397,268,129,0,397
-Lake,"Newkirk Township, Precinct 8",President,,Kamala D. Harris / Tim Walz,Democrat,80,57,23,0,80
-Lake,"Newkirk Township, Precinct 8",President,,Donald J. Trump / JD Vance,Republican,310,206,104,0,310
-Lake,"Newkirk Township, Precinct 8",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,0,0,2
+Lake,"Newkirk Township, Precinct 8",President,,Kamala D. Harris,Democrat,80,57,23,0,80
+Lake,"Newkirk Township, Precinct 8",President,,Donald J. Trump,Republican,310,206,104,0,310
+Lake,"Newkirk Township, Precinct 8",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0,2
 Lake,"Newkirk Township, Precinct 8",President,,Write-in,,1,1,0,0,1
 Lake,"Newkirk Township, Precinct 8",President,,Over Vote Count,,2,0,2,0,2
 Lake,"Newkirk Township, Precinct 8",President,,Under Vote Count,,2,2,0,0,2
@@ -1492,12 +1492,12 @@ Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court,,Kimberly Ann Thoma
 Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court,,Write-in,,6,4,2,0,6
 Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court,,Over Vote Count,,1,1,0,0,1
 Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court,,Under Vote Count,,133,87,46,0,133
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Ballots Cast,,397,268,129,0,397
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,116,84,32,0,116
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,144,98,46,0,144
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Write-in,,2,2,0,0,2
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court  Partial Term,,Under Vote Count,,135,84,51,0,135
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Ballots Cast,,397,268,129,0,397
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,116,84,32,0,116
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,144,98,46,0,144
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Write-in,,2,2,0,0,2
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Newkirk Township, Precinct 8",Justice of Supreme Court Partial Term,,Under Vote Count,,135,84,51,0,135
 Lake,"Newkirk Township, Precinct 8",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,397,268,129,0,397
 Lake,"Newkirk Township, Precinct 8",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,223,160,63,0,223
 Lake,"Newkirk Township, Precinct 8",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,4,3,1,0,4
@@ -1572,9 +1572,9 @@ Lake,"Newkirk Township, Precinct 8",Baldwin Community School Safety Bond Proposa
 Lake,"Newkirk Township, Precinct 8",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Newkirk Township, Precinct 8",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,12,5,7,0,12
 Lake,"Peacock Township, Precinct 10",President,,Ballots Cast,,315,256,59,0,315
-Lake,"Peacock Township, Precinct 10",President,,Kamala D. Harris / Tim Walz,Democrat,97,86,11,0,97
-Lake,"Peacock Township, Precinct 10",President,,Donald J. Trump / JD Vance,Republican,212,164,48,0,212
-Lake,"Peacock Township, Precinct 10",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,0,0,2
+Lake,"Peacock Township, Precinct 10",President,,Kamala D. Harris,Democrat,97,86,11,0,97
+Lake,"Peacock Township, Precinct 10",President,,Donald J. Trump,Republican,212,164,48,0,212
+Lake,"Peacock Township, Precinct 10",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0,2
 Lake,"Peacock Township, Precinct 10",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,1,0,0,1
 Lake,"Peacock Township, Precinct 10",President,,Write-in,,1,1,0,0,1
 Lake,"Peacock Township, Precinct 10",President,,Over Vote Count,,1,1,0,0,1
@@ -1716,12 +1716,12 @@ Lake,"Peacock Township, Precinct 10",Justice of Supreme Court,,Kimberly Ann Thom
 Lake,"Peacock Township, Precinct 10",Justice of Supreme Court,,Write-in,,4,4,0,0,4
 Lake,"Peacock Township, Precinct 10",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Peacock Township, Precinct 10",Justice of Supreme Court,,Under Vote Count,,88,65,23,0,88
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Ballots Cast,,315,256,59,0,315
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,112,103,9,0,112
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,115,88,27,0,115
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Write-in,,4,4,0,0,4
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Peacock Township, Precinct 10",Justice of Supreme Court  Partial Term,,Under Vote Count,,84,61,23,0,84
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Ballots Cast,,315,256,59,0,315
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,112,103,9,0,112
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,115,88,27,0,115
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Write-in,,4,4,0,0,4
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Peacock Township, Precinct 10",Justice of Supreme Court Partial Term,,Under Vote Count,,84,61,23,0,84
 Lake,"Peacock Township, Precinct 10",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,315,256,59,0,315
 Lake,"Peacock Township, Precinct 10",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,182,155,27,0,182
 Lake,"Peacock Township, Precinct 10",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,5,4,1,0,5
@@ -1771,10 +1771,10 @@ Lake,"Peacock Township, Precinct 10",Baldwin Community School Safety Bond Propos
 Lake,"Peacock Township, Precinct 10",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Peacock Township, Precinct 10",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,26,17,9,0,26
 Lake,"Pinora Township, Precinct 11",President,,Ballots Cast,,465,418,47,0,465
-Lake,"Pinora Township, Precinct 11",President,,Kamala D. Harris / Tim Walz,Democrat,111,102,9,0,111
-Lake,"Pinora Township, Precinct 11",President,,Donald J. Trump / JD Vance,Republican,350,312,38,0,350
-Lake,"Pinora Township, Precinct 11",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,0,1
-Lake,"Pinora Township, Precinct 11",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,0,0,2
+Lake,"Pinora Township, Precinct 11",President,,Kamala D. Harris,Democrat,111,102,9,0,111
+Lake,"Pinora Township, Precinct 11",President,,Donald J. Trump,Republican,350,312,38,0,350
+Lake,"Pinora Township, Precinct 11",President,,Chase Oliver,Libertarian,1,1,0,0,1
+Lake,"Pinora Township, Precinct 11",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,0,0,2
 Lake,"Pinora Township, Precinct 11",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Pinora Township, Precinct 11",President,,Under Vote Count,,1,1,0,0,1
 Lake,"Pinora Township, Precinct 11",U.S. Senate,,Ballots Cast,,465,418,47,0,465
@@ -1913,12 +1913,12 @@ Lake,"Pinora Township, Precinct 11",Justice of Supreme Court,,Kimberly Ann Thoma
 Lake,"Pinora Township, Precinct 11",Justice of Supreme Court,,Write-in,,4,4,0,0,4
 Lake,"Pinora Township, Precinct 11",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Pinora Township, Precinct 11",Justice of Supreme Court,,Under Vote Count,,138,125,13,0,138
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Ballots Cast,,465,418,47,0,465
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,131,119,12,0,131
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,188,162,26,0,188
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Write-in,,7,7,0,0,7
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Pinora Township, Precinct 11",Justice of Supreme Court  Partial Term,,Under Vote Count,,139,130,9,0,139
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Ballots Cast,,465,418,47,0,465
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,131,119,12,0,131
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,188,162,26,0,188
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Write-in,,7,7,0,0,7
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Pinora Township, Precinct 11",Justice of Supreme Court Partial Term,,Under Vote Count,,139,130,9,0,139
 Lake,"Pinora Township, Precinct 11",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,465,418,47,0,465
 Lake,"Pinora Township, Precinct 11",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,256,224,32,0,256
 Lake,"Pinora Township, Precinct 11",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,11,9,2,0,11
@@ -1962,10 +1962,10 @@ Lake,"Pinora Township, Precinct 11",Lake County Emergency Medical Services Milla
 Lake,"Pinora Township, Precinct 11",Lake County Emergency Medical Services Millage Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Pinora Township, Precinct 11",Lake County Emergency Medical Services Millage Proposal,,Under Vote Count,,95,90,5,0,95
 Lake,"Pleasant Plains Township, Precinct 12",President,,Ballots Cast,,795,662,133,0,795
-Lake,"Pleasant Plains Township, Precinct 12",President,,Kamala D. Harris / Tim Walz,Democrat,320,274,46,0,320
-Lake,"Pleasant Plains Township, Precinct 12",President,,Donald J. Trump / JD Vance,Republican,455,369,86,0,455
-Lake,"Pleasant Plains Township, Precinct 12",President,,Chase Oliver / Mike ter Maat,Libertarian,7,7,0,0,7
-Lake,"Pleasant Plains Township, Precinct 12",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,2,1,0,3
+Lake,"Pleasant Plains Township, Precinct 12",President,,Kamala D. Harris,Democrat,320,274,46,0,320
+Lake,"Pleasant Plains Township, Precinct 12",President,,Donald J. Trump,Republican,455,369,86,0,455
+Lake,"Pleasant Plains Township, Precinct 12",President,,Chase Oliver,Libertarian,7,7,0,0,7
+Lake,"Pleasant Plains Township, Precinct 12",President,,"Robert F. Kennedy, Jr.",Natural Law,3,2,1,0,3
 Lake,"Pleasant Plains Township, Precinct 12",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,2,0,0,2
 Lake,"Pleasant Plains Township, Precinct 12",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,0,0,1
 Lake,"Pleasant Plains Township, Precinct 12",President,,Over Vote Count,,1,1,0,0,1
@@ -2113,12 +2113,12 @@ Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court,,Kimberly 
 Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court,,Write-in,,18,15,3,0,18
 Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court,,Under Vote Count,,208,183,25,0,208
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Ballots Cast,,795,662,133,0,795
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,380,316,64,0,380
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,213,175,38,0,213
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Write-in,,14,10,4,0,14
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court  Partial Term,,Under Vote Count,,188,161,27,0,188
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Ballots Cast,,795,662,133,0,795
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,380,316,64,0,380
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,213,175,38,0,213
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Write-in,,14,10,4,0,14
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Pleasant Plains Township, Precinct 12",Justice of Supreme Court Partial Term,,Under Vote Count,,188,161,27,0,188
 Lake,"Pleasant Plains Township, Precinct 12",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,795,662,133,0,795
 Lake,"Pleasant Plains Township, Precinct 12",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,462,386,76,0,462
 Lake,"Pleasant Plains Township, Precinct 12",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,24,18,6,0,24
@@ -2186,9 +2186,9 @@ Lake,"Pleasant Plains Township, Precinct 12",Baldwin Community School Safety Bon
 Lake,"Pleasant Plains Township, Precinct 12",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Pleasant Plains Township, Precinct 12",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,64,54,10,0,64
 Lake,"Sauble Township, Precinct 15",President,,Ballots Cast,,303,279,24,0,303
-Lake,"Sauble Township, Precinct 15",President,,Kamala D. Harris / Tim Walz,Democrat,92,87,5,0,92
-Lake,"Sauble Township, Precinct 15",President,,Donald J. Trump / JD Vance,Republican,207,188,19,0,207
-Lake,"Sauble Township, Precinct 15",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,3,0,0,3
+Lake,"Sauble Township, Precinct 15",President,,Kamala D. Harris,Democrat,92,87,5,0,92
+Lake,"Sauble Township, Precinct 15",President,,Donald J. Trump,Republican,207,188,19,0,207
+Lake,"Sauble Township, Precinct 15",President,,Randall Terry,U.S. Taxpayers,3,3,0,0,3
 Lake,"Sauble Township, Precinct 15",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Sauble Township, Precinct 15",President,,Under Vote Count,,1,1,0,0,1
 Lake,"Sauble Township, Precinct 15",U.S. Senate,,Ballots Cast,,303,279,24,0,303
@@ -2334,12 +2334,12 @@ Lake,"Sauble Township, Precinct 15",Justice of Supreme Court,,Kimberly Ann Thoma
 Lake,"Sauble Township, Precinct 15",Justice of Supreme Court,,Write-in,,4,4,0,0,4
 Lake,"Sauble Township, Precinct 15",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Sauble Township, Precinct 15",Justice of Supreme Court,,Under Vote Count,,77,72,5,0,77
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Ballots Cast,,303,279,24,0,303
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,95,89,6,0,95
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,126,115,11,0,126
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Write-in,,6,5,1,0,6
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Sauble Township, Precinct 15",Justice of Supreme Court  Partial Term,,Under Vote Count,,76,70,6,0,76
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Ballots Cast,,303,279,24,0,303
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,95,89,6,0,95
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,126,115,11,0,126
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Write-in,,6,5,1,0,6
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Sauble Township, Precinct 15",Justice of Supreme Court Partial Term,,Under Vote Count,,76,70,6,0,76
 Lake,"Sauble Township, Precinct 15",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,303,279,24,0,303
 Lake,"Sauble Township, Precinct 15",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,180,164,16,0,180
 Lake,"Sauble Township, Precinct 15",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,5,5,0,0,5
@@ -2384,9 +2384,9 @@ Lake,"Sauble Township, Precinct 15",Baldwin Community School Safety Bond Proposa
 Lake,"Sauble Township, Precinct 15",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Sauble Township, Precinct 15",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,29,27,2,0,29
 Lake,"Sweetwater Township, Precinct 16",President,,Ballots Cast,,152,127,25,0,152
-Lake,"Sweetwater Township, Precinct 16",President,,Kamala D. Harris / Tim Walz,Democrat,56,48,8,0,56
-Lake,"Sweetwater Township, Precinct 16",President,,Donald J. Trump / JD Vance,Republican,90,74,16,0,90
-Lake,"Sweetwater Township, Precinct 16",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,1,0,0,1
+Lake,"Sweetwater Township, Precinct 16",President,,Kamala D. Harris,Democrat,56,48,8,0,56
+Lake,"Sweetwater Township, Precinct 16",President,,Donald J. Trump,Republican,90,74,16,0,90
+Lake,"Sweetwater Township, Precinct 16",President,,"Robert F. Kennedy, Jr.",Natural Law,1,1,0,0,1
 Lake,"Sweetwater Township, Precinct 16",President,,Write-in,,3,3,0,0,3
 Lake,"Sweetwater Township, Precinct 16",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Sweetwater Township, Precinct 16",President,,Under Vote Count,,2,1,1,0,2
@@ -2520,12 +2520,12 @@ Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court,,Kimberly Ann T
 Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court,,Write-in,,3,3,0,0,3
 Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court,,Under Vote Count,,46,39,7,0,46
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Ballots Cast,,152,127,25,0,152
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,59,52,7,0,59
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,44,34,10,0,44
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Write-in,,4,4,0,0,4
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court  Partial Term,,Under Vote Count,,45,37,8,0,45
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Ballots Cast,,152,127,25,0,152
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,59,52,7,0,59
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,44,34,10,0,44
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Write-in,,4,4,0,0,4
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Sweetwater Township, Precinct 16",Justice of Supreme Court Partial Term,,Under Vote Count,,45,37,8,0,45
 Lake,"Sweetwater Township, Precinct 16",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,152,127,25,0,152
 Lake,"Sweetwater Township, Precinct 16",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,89,75,14,0,89
 Lake,"Sweetwater Township, Precinct 16",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,4,4,0,0,4
@@ -2587,12 +2587,12 @@ Lake,"Sweetwater Township, Precinct 16",Mason County Eastern Sinking Fund Millag
 Lake,"Sweetwater Township, Precinct 16",Mason County Eastern Sinking Fund Millage Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Sweetwater Township, Precinct 16",Mason County Eastern Sinking Fund Millage Proposal,,Under Vote Count,,7,0,0,0,0
 Lake,"Webber Township, Precinct 17",President,,Ballots Cast,,658,534,124,0,658
-Lake,"Webber Township, Precinct 17",President,,Kamala D. Harris / Tim Walz,Democrat,285,232,53,0,285
-Lake,"Webber Township, Precinct 17",President,,Donald J. Trump / JD Vance,Republican,351,281,70,0,351
-Lake,"Webber Township, Precinct 17",President,,Chase Oliver / Mike ter Maat,Libertarian,4,4,0,0,4
-Lake,"Webber Township, Precinct 17",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,4,4,0,0,4
-Lake,"Webber Township, Precinct 17",President,,Jill Stein / Rudolph Ware,Green,2,2,0,0,2
-Lake,"Webber Township, Precinct 17",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,6,0,0,6
+Lake,"Webber Township, Precinct 17",President,,Kamala D. Harris,Democrat,285,232,53,0,285
+Lake,"Webber Township, Precinct 17",President,,Donald J. Trump,Republican,351,281,70,0,351
+Lake,"Webber Township, Precinct 17",President,,Chase Oliver,Libertarian,4,4,0,0,4
+Lake,"Webber Township, Precinct 17",President,,Randall Terry,U.S. Taxpayers,4,4,0,0,4
+Lake,"Webber Township, Precinct 17",President,,Jill Stein,Green,2,2,0,0,2
+Lake,"Webber Township, Precinct 17",President,,"Robert F. Kennedy, Jr.",Natural Law,6,6,0,0,6
 Lake,"Webber Township, Precinct 17",President,,Over Vote Count,,3,3,0,0,3
 Lake,"Webber Township, Precinct 17",President,,Under Vote Count,,3,2,1,0,3
 Lake,"Webber Township, Precinct 17",U.S. Senate,,Ballots Cast,,658,534,124,0,658
@@ -2741,12 +2741,12 @@ Lake,"Webber Township, Precinct 17",Justice of Supreme Court,,Kimberly Ann Thoma
 Lake,"Webber Township, Precinct 17",Justice of Supreme Court,,Write-in,,16,13,3,0,16
 Lake,"Webber Township, Precinct 17",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Webber Township, Precinct 17",Justice of Supreme Court,,Under Vote Count,,143,122,21,0,143
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Ballots Cast,,658,534,124,0,658
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,255,203,52,0,255
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,235,196,39,0,235
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Write-in,,20,15,5,0,20
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Webber Township, Precinct 17",Justice of Supreme Court  Partial Term,,Under Vote Count,,148,120,28,0,148
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Ballots Cast,,658,534,124,0,658
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,255,203,52,0,255
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,235,196,39,0,235
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Write-in,,20,15,5,0,20
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Webber Township, Precinct 17",Justice of Supreme Court Partial Term,,Under Vote Count,,148,120,28,0,148
 Lake,"Webber Township, Precinct 17",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,658,534,124,0,658
 Lake,"Webber Township, Precinct 17",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,413,342,71,0,413
 Lake,"Webber Township, Precinct 17",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,23,16,7,0,23
@@ -2804,10 +2804,10 @@ Lake,"Webber Township, Precinct 17",Baldwin Community School Safety Bond Proposa
 Lake,"Webber Township, Precinct 17",Baldwin Community School Safety Bond Proposal,,Over Vote Count,,0,0,0,0,0
 Lake,"Webber Township, Precinct 17",Baldwin Community School Safety Bond Proposal,,Under Vote Count,,43,31,12,0,43
 Lake,"Yates Township, Precinct 19",President,,Ballots Cast,,465,409,56,0,465
-Lake,"Yates Township, Precinct 19",President,,Kamala D. Harris / Tim Walz,Democrat,280,254,26,0,280
-Lake,"Yates Township, Precinct 19",President,,Donald J. Trump / JD Vance,Republican,179,149,30,0,179
-Lake,"Yates Township, Precinct 19",President,,Chase Oliver / Mike ter Maat,Libertarian,1,1,0,0,1
-Lake,"Yates Township, Precinct 19",President,,Jill Stein / Rudolph Ware,Green,1,1,0,0,1
+Lake,"Yates Township, Precinct 19",President,,Kamala D. Harris,Democrat,280,254,26,0,280
+Lake,"Yates Township, Precinct 19",President,,Donald J. Trump,Republican,179,149,30,0,179
+Lake,"Yates Township, Precinct 19",President,,Chase Oliver,Libertarian,1,1,0,0,1
+Lake,"Yates Township, Precinct 19",President,,Jill Stein,Green,1,1,0,0,1
 Lake,"Yates Township, Precinct 19",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,1,0,0,1
 Lake,"Yates Township, Precinct 19",President,,Over Vote Count,,0,0,0,0,0
 Lake,"Yates Township, Precinct 19",President,,Under Vote Count,,3,3,0,0,3
@@ -2949,12 +2949,12 @@ Lake,"Yates Township, Precinct 19",Justice of Supreme Court,,Kimberly Ann Thomas
 Lake,"Yates Township, Precinct 19",Justice of Supreme Court,,Write-in,,12,9,3,0,12
 Lake,"Yates Township, Precinct 19",Justice of Supreme Court,,Over Vote Count,,0,0,0,0,0
 Lake,"Yates Township, Precinct 19",Justice of Supreme Court,,Under Vote Count,,122,103,19,0,122
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Ballots Cast,,465,409,56,0,465
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Kyra Harris Bolden,,231,212,19,0,231
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Patrick William O'Grady,,112,95,17,0,112
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Write-in,,12,9,3,0,12
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Over Vote Count,,0,0,0,0,0
-Lake,"Yates Township, Precinct 19",Justice of Supreme Court  Partial Term,,Under Vote Count,,110,93,17,0,110
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Ballots Cast,,465,409,56,0,465
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Kyra Harris Bolden,,231,212,19,0,231
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Patrick William O'Grady,,112,95,17,0,112
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Write-in,,12,9,3,0,12
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Over Vote Count,,0,0,0,0,0
+Lake,"Yates Township, Precinct 19",Justice of Supreme Court Partial Term,,Under Vote Count,,110,93,17,0,110
 Lake,"Yates Township, Precinct 19",Judge of Court of Appeals 4th District 6 Year Term,,Ballots Cast,,465,409,56,0,465
 Lake,"Yates Township, Precinct 19",Judge of Court of Appeals 4th District 6 Year Term,,Stephen L. Borrello,,244,218,26,0,244
 Lake,"Yates Township, Precinct 19",Judge of Court of Appeals 4th District 6 Year Term,,Write-in,,18,14,4,0,18

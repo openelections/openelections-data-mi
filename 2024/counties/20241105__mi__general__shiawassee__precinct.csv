@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,av_counting_boards,votes
 Shiawassee,"City of Corunna, Precinct 1",President,,Ballots Cast,,1236,385,0,1621
-Shiawassee,"City of Corunna, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,591,130,0,721
-Shiawassee,"City of Corunna, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,609,250,0,859
-Shiawassee,"City of Corunna, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,1,0,6
-Shiawassee,"City of Corunna, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,0,2
-Shiawassee,"City of Corunna, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,4,0,0,4
-Shiawassee,"City of Corunna, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,13,1,0,14
+Shiawassee,"City of Corunna, Precinct 1",President,,Kamala D. Harris,Democrat,591,130,0,721
+Shiawassee,"City of Corunna, Precinct 1",President,,Donald J. Trump,Republican,609,250,0,859
+Shiawassee,"City of Corunna, Precinct 1",President,,Chase Oliver,Libertarian,5,1,0,6
+Shiawassee,"City of Corunna, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
+Shiawassee,"City of Corunna, Precinct 1",President,,Jill Stein,Green,4,0,0,4
+Shiawassee,"City of Corunna, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,13,1,0,14
 Shiawassee,"City of Corunna, Precinct 1",President,,Write-in,,7,1,0,8
 Shiawassee,"City of Corunna, Precinct 1",President,,Over Vote Count,,2,0,0,2
 Shiawassee,"City of Corunna, Precinct 1",President,,Under Vote Count,,4,1,0,5
@@ -143,12 +143,12 @@ Shiawassee,"City of Corunna, Precinct 1",Judge of Court of Appeals 4th District 
 Shiawassee,"City of Corunna, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,29,18,0,47
 Shiawassee,"City of Corunna, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Corunna, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,443,152,0,595
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,1236,385,0,1621
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,494,150,0,644
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,506,147,0,653
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,12,10,0,22
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,224,78,0,302
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,1236,385,0,1621
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,494,150,0,644
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,506,147,0,653
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,12,10,0,22
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Corunna, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,224,78,0,302
 Shiawassee,"City of Corunna, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,1236,385,0,1621
 Shiawassee,"City of Corunna, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,791,224,0,1015
 Shiawassee,"City of Corunna, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,27,14,0,41
@@ -187,14 +187,14 @@ Shiawassee,"City of Corunna, Precinct 1",City of Corunna - Fire Department Servi
 Shiawassee,"City of Corunna, Precinct 1",City of Corunna - Fire Department Services and Protection,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Corunna, Precinct 1",City of Corunna - Fire Department Services and Protection,,Under Vote Count,,135,57,0,192
 Shiawassee,"City of Durand, Precinct 1",President,,Ballots Cast,,490,128,274,892
-Shiawassee,"City of Durand, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,164,36,166,366
-Shiawassee,"City of Durand, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,316,90,99,505
-Shiawassee,"City of Durand, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,0,4
-Shiawassee,"City of Durand, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,2,0,4
-Shiawassee,"City of Durand, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,5,9
+Shiawassee,"City of Durand, Precinct 1",President,,Kamala D. Harris,Democrat,164,36,166,366
+Shiawassee,"City of Durand, Precinct 1",President,,Donald J. Trump,Republican,316,90,99,505
+Shiawassee,"City of Durand, Precinct 1",President,,Chase Oliver,Libertarian,4,0,0,4
+Shiawassee,"City of Durand, Precinct 1",President,,Jill Stein,Green,2,2,0,4
+Shiawassee,"City of Durand, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,5,9
 Shiawassee,"City of Durand, Precinct 1",President,,Over Vote Count,,0,0,1,1
 Shiawassee,"City of Durand, Precinct 1",President,,Under Vote Count,,0,0,1,1
-Shiawassee,"City of Durand, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
+Shiawassee,"City of Durand, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
 Shiawassee,"City of Durand, Precinct 1",U.S. Senate,,Ballots Cast,,490,128,274,892
 Shiawassee,"City of Durand, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,183,38,160,381
 Shiawassee,"City of Durand, Precinct 1",U.S. Senate,,Mike Rogers,Republican,280,87,95,462
@@ -327,12 +327,12 @@ Shiawassee,"City of Durand, Precinct 1",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Durand, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,12,5,6,23
 Shiawassee,"City of Durand, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Durand, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,180,42,110,332
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,490,128,274,892
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,150,54,79,283
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,204,44,120,368
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,7,4,2,13
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,129,26,73,228
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,490,128,274,892
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,150,54,79,283
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,204,44,120,368
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,7,4,2,13
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Durand, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,129,26,73,228
 Shiawassee,"City of Durand, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,490,128,274,892
 Shiawassee,"City of Durand, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,304,81,157,542
 Shiawassee,"City of Durand, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,11,5,9,25
@@ -356,11 +356,11 @@ Shiawassee,"City of Durand, Precinct 1",Durand Area Schools Board Member,,Write-
 Shiawassee,"City of Durand, Precinct 1",Durand Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Durand, Precinct 1",Durand Area Schools Board Member,,Under Vote Count,,482,122,267,871
 Shiawassee,"City of Durand, Precinct 2",President,,Ballots Cast,,566,114,310,990
-Shiawassee,"City of Durand, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,197,25,157,379
-Shiawassee,"City of Durand, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,358,89,143,590
-Shiawassee,"City of Durand, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,4,7
-Shiawassee,"City of Durand, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,2,0,1,3
-Shiawassee,"City of Durand, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,2,6
+Shiawassee,"City of Durand, Precinct 2",President,,Kamala D. Harris,Democrat,197,25,157,379
+Shiawassee,"City of Durand, Precinct 2",President,,Donald J. Trump,Republican,358,89,143,590
+Shiawassee,"City of Durand, Precinct 2",President,,Chase Oliver,Libertarian,3,0,4,7
+Shiawassee,"City of Durand, Precinct 2",President,,Jill Stein,Green,2,0,1,3
+Shiawassee,"City of Durand, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,2,6
 Shiawassee,"City of Durand, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Durand, Precinct 2",President,,Under Vote Count,,2,0,3,5
 Shiawassee,"City of Durand, Precinct 2",U.S. Senate,,Ballots Cast,,566,114,310,990
@@ -496,12 +496,12 @@ Shiawassee,"City of Durand, Precinct 2",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Durand, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,19,5,2,26
 Shiawassee,"City of Durand, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Durand, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,201,47,122,370
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,566,114,310,990
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,168,39,105,312
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,229,41,126,396
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,12,2,0,14
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,157,32,79,268
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,566,114,310,990
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,168,39,105,312
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,229,41,126,396
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,12,2,0,14
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Durand, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,157,32,79,268
 Shiawassee,"City of Durand, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,566,114,310,990
 Shiawassee,"City of Durand, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,355,72,185,612
 Shiawassee,"City of Durand, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,16,2,3,21
@@ -525,12 +525,12 @@ Shiawassee,"City of Durand, Precinct 2",Durand Area Schools Board Member,,Write-
 Shiawassee,"City of Durand, Precinct 2",Durand Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Durand, Precinct 2",Durand Area Schools Board Member,,Under Vote Count,,575,104,243,922
 Shiawassee,"City of Laingsburg, Precinct 1",President,,Ballots Cast,,707,82,0,789
-Shiawassee,"City of Laingsburg, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,270,23,0,293
-Shiawassee,"City of Laingsburg, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,419,59,0,478
-Shiawassee,"City of Laingsburg, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Shiawassee,"City of Laingsburg, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Shiawassee,"City of Laingsburg, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Shiawassee,"City of Laingsburg, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,9,0,0,9
+Shiawassee,"City of Laingsburg, Precinct 1",President,,Kamala D. Harris,Democrat,270,23,0,293
+Shiawassee,"City of Laingsburg, Precinct 1",President,,Donald J. Trump,Republican,419,59,0,478
+Shiawassee,"City of Laingsburg, Precinct 1",President,,Chase Oliver,Libertarian,1,0,0,1
+Shiawassee,"City of Laingsburg, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Shiawassee,"City of Laingsburg, Precinct 1",President,,Jill Stein,Green,2,0,0,2
+Shiawassee,"City of Laingsburg, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,9,0,0,9
 Shiawassee,"City of Laingsburg, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"City of Laingsburg, Precinct 1",President,,Write-in,,2,0,0,2
 Shiawassee,"City of Laingsburg, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -667,12 +667,12 @@ Shiawassee,"City of Laingsburg, Precinct 1",Judge of Court of Appeals 4th Distri
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,11,2,0,13
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,232,38,0,270
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,707,82,0,789
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,166,11,0,177
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,355,39,0,394
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,11,1,0,12
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,175,31,0,206
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,707,82,0,789
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,166,11,0,177
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,355,39,0,394
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,11,1,0,12
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Laingsburg, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,175,31,0,206
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,707,82,0,789
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,464,42,0,506
 Shiawassee,"City of Laingsburg, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,11,1,0,12
@@ -698,12 +698,12 @@ Shiawassee,"City of Laingsburg, Precinct 1",Laingsburg Community Schools Board M
 Shiawassee,"City of Laingsburg, Precinct 1",Laingsburg Community Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Laingsburg, Precinct 1",Laingsburg Community Schools Board Member,,Under Vote Count,,588,68,0,656
 Shiawassee,"City of Owosso, Precinct 1",President,,Ballots Cast,,609,317,561,1487
-Shiawassee,"City of Owosso, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,227,117,368,712
-Shiawassee,"City of Owosso, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,368,195,179,742
-Shiawassee,"City of Owosso, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,2,6
-Shiawassee,"City of Owosso, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,0,0
-Shiawassee,"City of Owosso, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,2,1,4
-Shiawassee,"City of Owosso, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,3,8
+Shiawassee,"City of Owosso, Precinct 1",President,,Kamala D. Harris,Democrat,227,117,368,712
+Shiawassee,"City of Owosso, Precinct 1",President,,Donald J. Trump,Republican,368,195,179,742
+Shiawassee,"City of Owosso, Precinct 1",President,,Chase Oliver,Libertarian,4,0,2,6
+Shiawassee,"City of Owosso, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,0,0
+Shiawassee,"City of Owosso, Precinct 1",President,,Jill Stein,Green,1,2,1,4
+Shiawassee,"City of Owosso, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,3,8
 Shiawassee,"City of Owosso, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,2,3
 Shiawassee,"City of Owosso, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
 Shiawassee,"City of Owosso, Precinct 1",President,,Write-in,,3,0,1,4
@@ -843,12 +843,12 @@ Shiawassee,"City of Owosso, Precinct 1",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,16,4,4,24
 Shiawassee,"City of Owosso, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,263,142,251,656
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,609,317,561,1487
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,221,124,186,531
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,256,133,285,674
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,7,1,2,10
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,125,59,88,272
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,609,317,561,1487
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,221,124,186,531
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,256,133,285,674
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,7,1,2,10
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Owosso, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,125,59,88,272
 Shiawassee,"City of Owosso, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,609,317,561,1487
 Shiawassee,"City of Owosso, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,359,182,307,848
 Shiawassee,"City of Owosso, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,13,3,3,19
@@ -877,12 +877,12 @@ Shiawassee,"City of Owosso, Precinct 1",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,3,0,3
 Shiawassee,"City of Owosso, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,820,444,627,1891
 Shiawassee,"City of Owosso, Precinct 2",President,,Ballots Cast,,673,323,565,1561
-Shiawassee,"City of Owosso, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,268,113,362,743
-Shiawassee,"City of Owosso, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,391,203,194,788
-Shiawassee,"City of Owosso, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,2,5
-Shiawassee,"City of Owosso, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,0,2
-Shiawassee,"City of Owosso, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,2,1,0,3
-Shiawassee,"City of Owosso, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,2,2,10
+Shiawassee,"City of Owosso, Precinct 2",President,,Kamala D. Harris,Democrat,268,113,362,743
+Shiawassee,"City of Owosso, Precinct 2",President,,Donald J. Trump,Republican,391,203,194,788
+Shiawassee,"City of Owosso, Precinct 2",President,,Chase Oliver,Libertarian,3,0,2,5
+Shiawassee,"City of Owosso, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
+Shiawassee,"City of Owosso, Precinct 2",President,,Jill Stein,Green,2,1,0,3
+Shiawassee,"City of Owosso, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,2,10
 Shiawassee,"City of Owosso, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"City of Owosso, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 2",President,,Under Vote Count,,1,3,4,8
@@ -1021,12 +1021,12 @@ Shiawassee,"City of Owosso, Precinct 2",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,18,11,5,34
 Shiawassee,"City of Owosso, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,253,139,252,644
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,673,323,565,1561
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,250,119,175,544
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,309,140,310,759
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,9,1,2,12
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,1,1
-Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,105,63,77,245
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,673,323,565,1561
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,250,119,175,544
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,309,140,310,759
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,9,1,2,12
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,1,1
+Shiawassee,"City of Owosso, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,105,63,77,245
 Shiawassee,"City of Owosso, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,673,323,565,1561
 Shiawassee,"City of Owosso, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,428,191,323,942
 Shiawassee,"City of Owosso, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,15,10,7,32
@@ -1055,11 +1055,11 @@ Shiawassee,"City of Owosso, Precinct 2",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 2",Owosso Public Schools Board Member,,Over Vote Count,,0,3,0,3
 Shiawassee,"City of Owosso, Precinct 2",Owosso Public Schools Board Member,,Under Vote Count,,838,442,645,1925
 Shiawassee,"City of Owosso, Precinct 3",President,,Ballots Cast,,582,247,344,1173
-Shiawassee,"City of Owosso, Precinct 3",President,,Kamala D. Harris / Tim Walz,Democrat,216,99,235,550
-Shiawassee,"City of Owosso, Precinct 3",President,,Donald J. Trump / JD Vance,Republican,347,147,102,596
-Shiawassee,"City of Owosso, Precinct 3",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,1,5
-Shiawassee,"City of Owosso, Precinct 3",President,,Jill Stein / Rudolph Ware,Green,6,0,0,6
-Shiawassee,"City of Owosso, Precinct 3",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,3,8
+Shiawassee,"City of Owosso, Precinct 3",President,,Kamala D. Harris,Democrat,216,99,235,550
+Shiawassee,"City of Owosso, Precinct 3",President,,Donald J. Trump,Republican,347,147,102,596
+Shiawassee,"City of Owosso, Precinct 3",President,,Chase Oliver,Libertarian,4,0,1,5
+Shiawassee,"City of Owosso, Precinct 3",President,,Jill Stein,Green,6,0,0,6
+Shiawassee,"City of Owosso, Precinct 3",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,3,8
 Shiawassee,"City of Owosso, Precinct 3",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
 Shiawassee,"City of Owosso, Precinct 3",President,,Write-in,,2,0,0,2
 Shiawassee,"City of Owosso, Precinct 3",President,,Over Vote Count,,1,0,0,1
@@ -1199,12 +1199,12 @@ Shiawassee,"City of Owosso, Precinct 3",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 3",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,27,11,3,41
 Shiawassee,"City of Owosso, Precinct 3",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 3",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,204,89,151,444
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,Ballots Cast,,582,247,344,1173
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,231,96,109,436
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,234,98,181,513
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,Write-in,,11,4,2,17
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,1,1
-Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court -  Incumbent,,Under Vote Count,,106,49,51,206
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,Ballots Cast,,582,247,344,1173
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,231,96,109,436
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,234,98,181,513
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,Write-in,,11,4,2,17
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,1,1
+Shiawassee,"City of Owosso, Precinct 3",Judge of Probate Court - Incumbent,,Under Vote Count,,106,49,51,206
 Shiawassee,"City of Owosso, Precinct 3",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,582,247,344,1173
 Shiawassee,"City of Owosso, Precinct 3",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,371,156,183,710
 Shiawassee,"City of Owosso, Precinct 3",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,20,6,3,29
@@ -1233,11 +1233,11 @@ Shiawassee,"City of Owosso, Precinct 3",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 3",Owosso Public Schools Board Member,,Over Vote Count,,3,0,0,3
 Shiawassee,"City of Owosso, Precinct 3",Owosso Public Schools Board Member,,Under Vote Count,,764,345,387,1496
 Shiawassee,"City of Owosso, Precinct 4",President,,Ballots Cast,,695,185,260,1140
-Shiawassee,"City of Owosso, Precinct 4",President,,Kamala D. Harris / Tim Walz,Democrat,251,65,158,474
-Shiawassee,"City of Owosso, Precinct 4",President,,Donald J. Trump / JD Vance,Republican,430,116,95,641
-Shiawassee,"City of Owosso, Precinct 4",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,0,4
-Shiawassee,"City of Owosso, Precinct 4",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Shiawassee,"City of Owosso, Precinct 4",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,2,1,9
+Shiawassee,"City of Owosso, Precinct 4",President,,Kamala D. Harris,Democrat,251,65,158,474
+Shiawassee,"City of Owosso, Precinct 4",President,,Donald J. Trump,Republican,430,116,95,641
+Shiawassee,"City of Owosso, Precinct 4",President,,Chase Oliver,Libertarian,3,1,0,4
+Shiawassee,"City of Owosso, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Shiawassee,"City of Owosso, Precinct 4",President,,"Robert F. Kennedy, Jr.",Natural Law,6,2,1,9
 Shiawassee,"City of Owosso, Precinct 4",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,2,3
 Shiawassee,"City of Owosso, Precinct 4",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"City of Owosso, Precinct 4",President,,Write-in,,1,0,0,1
@@ -1377,12 +1377,12 @@ Shiawassee,"City of Owosso, Precinct 4",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 4",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,38,9,4,51
 Shiawassee,"City of Owosso, Precinct 4",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 4",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,213,65,106,384
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,Ballots Cast,,695,185,260,1140
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,229,71,86,386
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,327,76,125,528
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,Write-in,,11,4,0,15
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court -  Incumbent,,Under Vote Count,,128,34,49,211
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,Ballots Cast,,695,185,260,1140
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,229,71,86,386
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,327,76,125,528
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,Write-in,,11,4,0,15
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Owosso, Precinct 4",Judge of Probate Court - Incumbent,,Under Vote Count,,128,34,49,211
 Shiawassee,"City of Owosso, Precinct 4",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,695,185,260,1140
 Shiawassee,"City of Owosso, Precinct 4",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,452,117,157,726
 Shiawassee,"City of Owosso, Precinct 4",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,31,9,5,45
@@ -1411,12 +1411,12 @@ Shiawassee,"City of Owosso, Precinct 4",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 4",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 4",Owosso Public Schools Board Member,,Under Vote Count,,891,226,297,1414
 Shiawassee,"City of Owosso, Precinct 5",President,,Ballots Cast,,537,206,304,1047
-Shiawassee,"City of Owosso, Precinct 5",President,,Kamala D. Harris / Tim Walz,Democrat,177,85,197,459
-Shiawassee,"City of Owosso, Precinct 5",President,,Donald J. Trump / JD Vance,Republican,341,116,99,556
-Shiawassee,"City of Owosso, Precinct 5",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,1,7
-Shiawassee,"City of Owosso, Precinct 5",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,4,0,2,6
-Shiawassee,"City of Owosso, Precinct 5",President,,Jill Stein / Rudolph Ware,Green,3,2,0,5
-Shiawassee,"City of Owosso, Precinct 5",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,2,6
+Shiawassee,"City of Owosso, Precinct 5",President,,Kamala D. Harris,Democrat,177,85,197,459
+Shiawassee,"City of Owosso, Precinct 5",President,,Donald J. Trump,Republican,341,116,99,556
+Shiawassee,"City of Owosso, Precinct 5",President,,Chase Oliver,Libertarian,6,0,1,7
+Shiawassee,"City of Owosso, Precinct 5",President,,Randall Terry,U.S. Taxpayers,4,0,2,6
+Shiawassee,"City of Owosso, Precinct 5",President,,Jill Stein,Green,3,2,0,5
+Shiawassee,"City of Owosso, Precinct 5",President,,"Robert F. Kennedy, Jr.",Natural Law,3,1,2,6
 Shiawassee,"City of Owosso, Precinct 5",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"City of Owosso, Precinct 5",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 5",President,,Under Vote Count,,2,0,0,2
@@ -1556,12 +1556,12 @@ Shiawassee,"City of Owosso, Precinct 5",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 5",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,15,12,4,31
 Shiawassee,"City of Owosso, Precinct 5",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 5",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,155,76,102,333
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,Ballots Cast,,537,206,304,1047
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,221,89,97,407
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,224,83,153,460
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,Write-in,,10,4,2,16
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,Over Vote Count,,1,0,1,2
-Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court -  Incumbent,,Under Vote Count,,81,30,51,162
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,Ballots Cast,,537,206,304,1047
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,221,89,97,407
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,224,83,153,460
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,Write-in,,10,4,2,16
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,Over Vote Count,,1,0,1,2
+Shiawassee,"City of Owosso, Precinct 5",Judge of Probate Court - Incumbent,,Under Vote Count,,81,30,51,162
 Shiawassee,"City of Owosso, Precinct 5",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,537,206,304,1047
 Shiawassee,"City of Owosso, Precinct 5",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,369,126,196,691
 Shiawassee,"City of Owosso, Precinct 5",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,19,12,3,34
@@ -1590,12 +1590,12 @@ Shiawassee,"City of Owosso, Precinct 5",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 5",Owosso Public Schools Board Member,,Over Vote Count,,0,3,3,6
 Shiawassee,"City of Owosso, Precinct 5",Owosso Public Schools Board Member,,Under Vote Count,,654,290,364,1308
 Shiawassee,"City of Owosso, Precinct 6",President,,Ballots Cast,,678,252,278,1208
-Shiawassee,"City of Owosso, Precinct 6",President,,Kamala D. Harris / Tim Walz,Democrat,221,84,168,473
-Shiawassee,"City of Owosso, Precinct 6",President,,Donald J. Trump / JD Vance,Republican,440,167,104,711
-Shiawassee,"City of Owosso, Precinct 6",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,2,5
-Shiawassee,"City of Owosso, Precinct 6",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Shiawassee,"City of Owosso, Precinct 6",President,,Jill Stein / Rudolph Ware,Green,3,1,0,4
-Shiawassee,"City of Owosso, Precinct 6",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,0,1,7
+Shiawassee,"City of Owosso, Precinct 6",President,,Kamala D. Harris,Democrat,221,84,168,473
+Shiawassee,"City of Owosso, Precinct 6",President,,Donald J. Trump,Republican,440,167,104,711
+Shiawassee,"City of Owosso, Precinct 6",President,,Chase Oliver,Libertarian,3,0,2,5
+Shiawassee,"City of Owosso, Precinct 6",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Shiawassee,"City of Owosso, Precinct 6",President,,Jill Stein,Green,3,1,0,4
+Shiawassee,"City of Owosso, Precinct 6",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,1,7
 Shiawassee,"City of Owosso, Precinct 6",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"City of Owosso, Precinct 6",President,,Write-in,,1,0,1,2
 Shiawassee,"City of Owosso, Precinct 6",President,,Over Vote Count,,0,0,1,1
@@ -1733,12 +1733,12 @@ Shiawassee,"City of Owosso, Precinct 6",Judge of Court of Appeals 4th District -
 Shiawassee,"City of Owosso, Precinct 6",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,24,11,3,38
 Shiawassee,"City of Owosso, Precinct 6",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 6",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,215,101,105,421
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,Ballots Cast,,678,252,278,1208
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,232,93,84,409
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,316,103,139,558
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,Write-in,,8,8,2,18
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,1,0,1
-Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court -  Incumbent,,Under Vote Count,,122,47,53,222
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,Ballots Cast,,678,252,278,1208
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,232,93,84,409
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,316,103,139,558
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,Write-in,,8,8,2,18
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,Over Vote Count,,0,1,0,1
+Shiawassee,"City of Owosso, Precinct 6",Judge of Probate Court - Incumbent,,Under Vote Count,,122,47,53,222
 Shiawassee,"City of Owosso, Precinct 6",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,678,252,278,1208
 Shiawassee,"City of Owosso, Precinct 6",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,443,138,178,759
 Shiawassee,"City of Owosso, Precinct 6",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,22,14,3,39
@@ -1767,16 +1767,16 @@ Shiawassee,"City of Owosso, Precinct 6",Owosso Public Schools Board Member,,Writ
 Shiawassee,"City of Owosso, Precinct 6",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Owosso, Precinct 6",Owosso Public Schools Board Member,,Under Vote Count,,926,359,335,1620
 Shiawassee,"City of Perry, Precinct 1",President,,Ballots Cast,,746,102,369,1217
-Shiawassee,"City of Perry, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,196,23,216,435
-Shiawassee,"City of Perry, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,527,79,145,751
-Shiawassee,"City of Perry, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,1,8
-Shiawassee,"City of Perry, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Shiawassee,"City of Perry, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,3,10
+Shiawassee,"City of Perry, Precinct 1",President,,Kamala D. Harris,Democrat,196,23,216,435
+Shiawassee,"City of Perry, Precinct 1",President,,Donald J. Trump,Republican,527,79,145,751
+Shiawassee,"City of Perry, Precinct 1",President,,Chase Oliver,Libertarian,7,0,1,8
+Shiawassee,"City of Perry, Precinct 1",President,,Jill Stein,Green,1,0,1,2
+Shiawassee,"City of Perry, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,0,3,10
 Shiawassee,"City of Perry, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,2,0,0,2
 Shiawassee,"City of Perry, Precinct 1",President,,Write-in,,1,0,0,1
 Shiawassee,"City of Perry, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Shiawassee,"City of Perry, Precinct 1",President,,Under Vote Count,,4,0,1,5
-Shiawassee,"City of Perry, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
+Shiawassee,"City of Perry, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
 Shiawassee,"City of Perry, Precinct 1",U.S. Senate,,Ballots Cast,,746,102,369,1217
 Shiawassee,"City of Perry, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,214,25,212,451
 Shiawassee,"City of Perry, Precinct 1",U.S. Senate,,Mike Rogers,Republican,486,75,143,704
@@ -1910,12 +1910,12 @@ Shiawassee,"City of Perry, Precinct 1",Judge of Court of Appeals 4th District - 
 Shiawassee,"City of Perry, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,12,2,0,14
 Shiawassee,"City of Perry, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Perry, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,290,41,159,490
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,746,102,369,1217
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,231,33,114,378
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,274,43,148,465
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,2,1,9
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,235,24,106,365
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,746,102,369,1217
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,231,33,114,378
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,274,43,148,465
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,2,1,9
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"City of Perry, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,235,24,106,365
 Shiawassee,"City of Perry, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,746,102,369,1217
 Shiawassee,"City of Perry, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,436,58,198,692
 Shiawassee,"City of Perry, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,13,2,0,15
@@ -1955,12 +1955,12 @@ Shiawassee,"City of Perry, Precinct 1",City of Perry - Proposal for City Wide Re
 Shiawassee,"City of Perry, Precinct 1",City of Perry - Proposal for City Wide Recycling,,Over Vote Count,,0,0,0,0
 Shiawassee,"City of Perry, Precinct 1",City of Perry - Proposal for City Wide Recycling,,Under Vote Count,,81,7,23,111
 Shiawassee,"Antrim Township, Precinct 1",President,,Ballots Cast,,790,249,344,1383
-Shiawassee,"Antrim Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,153,48,172,373
-Shiawassee,"Antrim Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,619,201,168,988
-Shiawassee,"Antrim Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,5,0,0,5
-Shiawassee,"Antrim Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Shiawassee,"Antrim Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Shiawassee,"Antrim Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,0,1,7
+Shiawassee,"Antrim Township, Precinct 1",President,,Kamala D. Harris,Democrat,153,48,172,373
+Shiawassee,"Antrim Township, Precinct 1",President,,Donald J. Trump,Republican,619,201,168,988
+Shiawassee,"Antrim Township, Precinct 1",President,,Chase Oliver,Libertarian,5,0,0,5
+Shiawassee,"Antrim Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Shiawassee,"Antrim Township, Precinct 1",President,,Jill Stein,Green,2,0,0,2
+Shiawassee,"Antrim Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,1,7
 Shiawassee,"Antrim Township, Precinct 1",President,,Write-in,,2,0,1,3
 Shiawassee,"Antrim Township, Precinct 1",President,,Peter Sonski,,2,0,0,2
 Shiawassee,"Antrim Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
@@ -2116,12 +2116,12 @@ Shiawassee,"Antrim Township, Precinct 1",Judge of Court of Appeals 4th District 
 Shiawassee,"Antrim Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,11,9,3,23
 Shiawassee,"Antrim Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Antrim Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,382,116,173,671
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,790,249,344,1383
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,199,76,95,370
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,313,89,134,536
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,7,1,14
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,272,77,114,463
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,790,249,344,1383
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,199,76,95,370
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,313,89,134,536
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,7,1,14
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Antrim Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,272,77,114,463
 Shiawassee,"Antrim Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,790,249,344,1383
 Shiawassee,"Antrim Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,424,135,171,730
 Shiawassee,"Antrim Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,8,6,1,15
@@ -2175,15 +2175,15 @@ Shiawassee,"Antrim Township, Precinct 1",Livingston ESA Special Education Millag
 Shiawassee,"Antrim Township, Precinct 1",Livingston ESA Special Education Millage Proposal,,Over Vote Count,,0,0,0,0
 Shiawassee,"Antrim Township, Precinct 1",Livingston ESA Special Education Millage Proposal,,Under Vote Count,,18,2,4,24
 Shiawassee,"Bennington Township, Precinct 1",President,,Ballots Cast,,1034,382,709,2125
-Shiawassee,"Bennington Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,233,83,363,679
-Shiawassee,"Bennington Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,783,295,329,1407
-Shiawassee,"Bennington Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,2,6
-Shiawassee,"Bennington Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,5,0,0,5
-Shiawassee,"Bennington Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,3,10
+Shiawassee,"Bennington Township, Precinct 1",President,,Kamala D. Harris,Democrat,233,83,363,679
+Shiawassee,"Bennington Township, Precinct 1",President,,Donald J. Trump,Republican,783,295,329,1407
+Shiawassee,"Bennington Township, Precinct 1",President,,Chase Oliver,Libertarian,4,0,2,6
+Shiawassee,"Bennington Township, Precinct 1",President,,Jill Stein,Green,5,0,0,5
+Shiawassee,"Bennington Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,3,10
 Shiawassee,"Bennington Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Shiawassee,"Bennington Township, Precinct 1",President,,Over Vote Count,,0,2,1,3
 Shiawassee,"Bennington Township, Precinct 1",President,,Under Vote Count,,2,1,8,11
-Shiawassee,"Bennington Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
+Shiawassee,"Bennington Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
 Shiawassee,"Bennington Township, Precinct 1",President,,Write-in,,0,0,2,2
 Shiawassee,"Bennington Township, Precinct 1",U.S. Senate,,Ballots Cast,,1034,382,709,2125
 Shiawassee,"Bennington Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,238,85,357,680
@@ -2340,12 +2340,12 @@ Shiawassee,"Bennington Township, Precinct 1",Judge of Court of Appeals 4th Distr
 Shiawassee,"Bennington Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,19,5,4,28
 Shiawassee,"Bennington Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Bennington Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,407,150,329,886
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,1034,382,709,2125
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,346,150,187,683
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,439,155,361,955
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,11,3,2,16
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,1,0,0,1
-Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,237,74,159,470
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,1034,382,709,2125
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,346,150,187,683
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,439,155,361,955
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,11,3,2,16
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,1,0,0,1
+Shiawassee,"Bennington Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,237,74,159,470
 Shiawassee,"Bennington Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,1034,382,709,2125
 Shiawassee,"Bennington Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,639,239,374,1252
 Shiawassee,"Bennington Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,17,5,3,25
@@ -2388,12 +2388,12 @@ Shiawassee,"Bennington Township, Precinct 1",Morrice Area Schools Board Member -
 Shiawassee,"Bennington Township, Precinct 1",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Shiawassee,"Bennington Township, Precinct 1",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Under Vote Count,,214,96,166,476
 Shiawassee,"Burns Township, Precinct 1",President,,Ballots Cast,,1051,309,801,2161
-Shiawassee,"Burns Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,218,44,386,648
-Shiawassee,"Burns Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,816,262,398,1476
-Shiawassee,"Burns Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,2,1,6
-Shiawassee,"Burns Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,1,3
-Shiawassee,"Burns Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,2,4
-Shiawassee,"Burns Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,0,6,12
+Shiawassee,"Burns Township, Precinct 1",President,,Kamala D. Harris,Democrat,218,44,386,648
+Shiawassee,"Burns Township, Precinct 1",President,,Donald J. Trump,Republican,816,262,398,1476
+Shiawassee,"Burns Township, Precinct 1",President,,Chase Oliver,Libertarian,3,2,1,6
+Shiawassee,"Burns Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,1,1,3
+Shiawassee,"Burns Township, Precinct 1",President,,Jill Stein,Green,2,0,2,4
+Shiawassee,"Burns Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,6,12
 Shiawassee,"Burns Township, Precinct 1",President,,Write-in,,2,0,2,4
 Shiawassee,"Burns Township, Precinct 1",President,,Over Vote Count,,0,0,3,3
 Shiawassee,"Burns Township, Precinct 1",President,,Under Vote Count,,3,0,2,5
@@ -2551,12 +2551,12 @@ Shiawassee,"Burns Township, Precinct 1",Judge of Court of Appeals 4th District -
 Shiawassee,"Burns Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,17,4,2,23
 Shiawassee,"Burns Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Burns Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,389,107,378,874
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,1051,309,801,2161
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,249,86,205,540
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,463,135,330,928
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,12,4,2,18
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,327,84,264,675
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,1051,309,801,2161
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,249,86,205,540
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,463,135,330,928
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,12,4,2,18
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Burns Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,327,84,264,675
 Shiawassee,"Burns Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,1051,309,801,2161
 Shiawassee,"Burns Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,649,195,425,1269
 Shiawassee,"Burns Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,16,8,2,26
@@ -2593,12 +2593,12 @@ Shiawassee,"Burns Township, Precinct 1",Durand Area Schools Board Member,,Over V
 Shiawassee,"Burns Township, Precinct 1",Durand Area Schools Board Member,,Under Vote Count,,44,27,35,106
 Shiawassee,"Burns Township, Precinct 1",Durand Area Schools Board Member,,Write-in,,0,1,0,1
 Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Ballots Cast,,575,432,694,1701
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,160,118,420,698
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,396,309,256,961
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,1,5
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,3,4
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,3,4
-Shiawassee,"Caledonia Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,11,1,0,12
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Kamala D. Harris,Democrat,160,118,420,698
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Donald J. Trump,Republican,396,309,256,961
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Chase Oliver,Libertarian,3,1,1,5
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,3,4
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Jill Stein,Green,1,0,3,4
+Shiawassee,"Caledonia Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,11,1,0,12
 Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Write-in,,2,1,0,3
 Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Over Vote Count,,0,1,1,2
 Shiawassee,"Caledonia Charter Township, Precinct 1",President,,Under Vote Count,,1,1,6,8
@@ -2766,12 +2766,12 @@ Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Court of Appeals 4t
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,15,6,5,26
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,180,162,275,617
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,575,432,694,1701
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,230,176,244,650
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,252,201,333,786
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,1,1,2,4
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,92,54,115,261
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,575,432,694,1701
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,230,176,244,650
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,252,201,333,786
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,1,1,2,4
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,92,54,115,261
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,575,432,694,1701
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,401,289,410,1100
 Shiawassee,"Caledonia Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,7,3,5,15
@@ -2793,11 +2793,11 @@ Shiawassee,"Caledonia Charter Township, Precinct 1",Owosso Public Schools Board 
 Shiawassee,"Caledonia Charter Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Caledonia Charter Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,287,197,323,807
 Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Ballots Cast,,337,259,346,942
-Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,101,58,199,358
-Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,225,198,137,560
-Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,4,0,1,5
-Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,1,3
-Shiawassee,"Caledonia Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,2,3,7
+Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Kamala D. Harris,Democrat,101,58,199,358
+Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Donald J. Trump,Republican,225,198,137,560
+Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Chase Oliver,Libertarian,4,0,1,5
+Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,2,0,1,3
+Shiawassee,"Caledonia Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,2,2,3,7
 Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Shiawassee,"Caledonia Charter Township, Precinct 2",President,,Under Vote Count,,2,1,3,6
@@ -2963,12 +2963,12 @@ Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Court of Appeals 4t
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,9,8,1,18
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,128,96,153,377
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,337,259,346,942
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,135,115,112,362
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,122,93,172,387
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,8,4,0,12
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,72,47,62,181
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,337,259,346,942
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,135,115,112,362
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,122,93,172,387
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,8,4,0,12
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,72,47,62,181
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,337,259,346,942
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,217,159,197,573
 Shiawassee,"Caledonia Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,9,7,0,16
@@ -2990,10 +2990,10 @@ Shiawassee,"Caledonia Charter Township, Precinct 2",Owosso Public Schools Board 
 Shiawassee,"Caledonia Charter Township, Precinct 2",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Caledonia Charter Township, Precinct 2",Owosso Public Schools Board Member,,Under Vote Count,,172,102,146,420
 Shiawassee,"Fairfield Township, Precinct 1",President,,Ballots Cast,,348,31,0,379
-Shiawassee,"Fairfield Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,111,10,0,121
-Shiawassee,"Fairfield Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,227,20,0,247
-Shiawassee,"Fairfield Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Shiawassee,"Fairfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,1,0,4
+Shiawassee,"Fairfield Township, Precinct 1",President,,Kamala D. Harris,Democrat,111,10,0,121
+Shiawassee,"Fairfield Township, Precinct 1",President,,Donald J. Trump,Republican,227,20,0,247
+Shiawassee,"Fairfield Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
+Shiawassee,"Fairfield Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,1,0,4
 Shiawassee,"Fairfield Township, Precinct 1",President,,Write-in,,1,0,0,1
 Shiawassee,"Fairfield Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Shiawassee,"Fairfield Township, Precinct 1",President,,Under Vote Count,,2,0,0,2
@@ -3151,12 +3151,12 @@ Shiawassee,"Fairfield Township, Precinct 1",Judge of Court of Appeals 4th Distri
 Shiawassee,"Fairfield Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,7,1,0,8
 Shiawassee,"Fairfield Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Fairfield Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,151,16,0,167
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,348,31,0,379
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,80,17,0,97
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,161,7,0,168
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,0,0,6
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,1,0,0,1
-Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,100,7,0,107
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,348,31,0,379
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,80,17,0,97
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,161,7,0,168
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,0,0,6
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,1,0,0,1
+Shiawassee,"Fairfield Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,100,7,0,107
 Shiawassee,"Fairfield Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,348,31,0,379
 Shiawassee,"Fairfield Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,189,16,0,205
 Shiawassee,"Fairfield Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,7,1,0,8
@@ -3172,12 +3172,12 @@ Shiawassee,"Fairfield Township, Precinct 1",Ovid-Elsie Area Schools Board Member
 Shiawassee,"Fairfield Township, Precinct 1",Ovid-Elsie Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Fairfield Township, Precinct 1",Ovid-Elsie Area Schools Board Member,,Under Vote Count,,303,36,0,339
 Shiawassee,"Hazelton Township, Precinct 1",President,,Ballots Cast,,675,179,512,1366
-Shiawassee,"Hazelton Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,151,40,280,471
-Shiawassee,"Hazelton Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,514,139,220,873
-Shiawassee,"Hazelton Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,1,4
-Shiawassee,"Hazelton Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Shiawassee,"Hazelton Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Shiawassee,"Hazelton Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,2,0,5,7
+Shiawassee,"Hazelton Township, Precinct 1",President,,Kamala D. Harris,Democrat,151,40,280,471
+Shiawassee,"Hazelton Township, Precinct 1",President,,Donald J. Trump,Republican,514,139,220,873
+Shiawassee,"Hazelton Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,1,4
+Shiawassee,"Hazelton Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Shiawassee,"Hazelton Township, Precinct 1",President,,Jill Stein,Green,2,0,0,2
+Shiawassee,"Hazelton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,2,0,5,7
 Shiawassee,"Hazelton Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"Hazelton Township, Precinct 1",President,,Under Vote Count,,2,0,5,7
 Shiawassee,"Hazelton Township, Precinct 1",President,,Write-in,,0,0,1,1
@@ -3334,12 +3334,12 @@ Shiawassee,"Hazelton Township, Precinct 1",Judge of Court of Appeals 4th Distric
 Shiawassee,"Hazelton Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,12,1,4,17
 Shiawassee,"Hazelton Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Hazelton Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,280,84,252,616
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,675,179,512,1366
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,150,52,110,312
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,316,67,245,628
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,2,3,11
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,203,58,154,415
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,675,179,512,1366
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,150,52,110,312
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,316,67,245,628
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,2,3,11
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Hazelton Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,203,58,154,415
 Shiawassee,"Hazelton Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,675,179,512,1366
 Shiawassee,"Hazelton Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,401,99,293,793
 Shiawassee,"Hazelton Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,12,2,4,18
@@ -3404,12 +3404,12 @@ Shiawassee,"Hazelton Township, Precinct 1",Owosso Public Schools Board Member,,M
 Shiawassee,"Hazelton Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Hazelton Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,0,0,0,0
 Shiawassee,"Middlebury Township, Precinct 1",President,,Ballots Cast,,842,130,0,972
-Shiawassee,"Middlebury Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,257,16,0,273
-Shiawassee,"Middlebury Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,561,113,0,674
-Shiawassee,"Middlebury Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,0,7
-Shiawassee,"Middlebury Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,5,0,0,5
-Shiawassee,"Middlebury Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Shiawassee,"Middlebury Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,0,5
+Shiawassee,"Middlebury Township, Precinct 1",President,,Kamala D. Harris,Democrat,257,16,0,273
+Shiawassee,"Middlebury Township, Precinct 1",President,,Donald J. Trump,Republican,561,113,0,674
+Shiawassee,"Middlebury Township, Precinct 1",President,,Chase Oliver,Libertarian,7,0,0,7
+Shiawassee,"Middlebury Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,5,0,0,5
+Shiawassee,"Middlebury Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
+Shiawassee,"Middlebury Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,0,5
 Shiawassee,"Middlebury Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Shiawassee,"Middlebury Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
 Shiawassee,"Middlebury Township, Precinct 1",President,,Write-in,,1,0,0,1
@@ -3574,12 +3574,12 @@ Shiawassee,"Middlebury Township, Precinct 1",Judge of Court of Appeals 4th Distr
 Shiawassee,"Middlebury Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,11,2,0,13
 Shiawassee,"Middlebury Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Middlebury Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,346,61,0,407
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,842,130,0,972
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,270,45,0,315
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,315,52,0,367
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,7,2,0,9
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,1,0,0,1
-Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,248,31,0,279
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,842,130,0,972
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,270,45,0,315
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,315,52,0,367
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,7,2,0,9
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,1,0,0,1
+Shiawassee,"Middlebury Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,248,31,0,279
 Shiawassee,"Middlebury Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,842,130,0,972
 Shiawassee,"Middlebury Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,483,73,0,556
 Shiawassee,"Middlebury Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,10,1,0,11
@@ -3602,12 +3602,12 @@ Shiawassee,"Middlebury Township, Precinct 1",Owosso Public Schools Board Member,
 Shiawassee,"Middlebury Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Middlebury Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,0,0,0,0
 Shiawassee,"New Haven Township, Precinct 1",President,,Ballots Cast,,722,103,0,825
-Shiawassee,"New Haven Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,248,27,0,275
-Shiawassee,"New Haven Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,456,75,0,531
-Shiawassee,"New Haven Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,0,3
-Shiawassee,"New Haven Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Shiawassee,"New Haven Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,0,3
-Shiawassee,"New Haven Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,0,3
+Shiawassee,"New Haven Township, Precinct 1",President,,Kamala D. Harris,Democrat,248,27,0,275
+Shiawassee,"New Haven Township, Precinct 1",President,,Donald J. Trump,Republican,456,75,0,531
+Shiawassee,"New Haven Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
+Shiawassee,"New Haven Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Shiawassee,"New Haven Township, Precinct 1",President,,Jill Stein,Green,3,0,0,3
+Shiawassee,"New Haven Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,0,3
 Shiawassee,"New Haven Township, Precinct 1",President,,Write-in,,3,1,0,4
 Shiawassee,"New Haven Township, Precinct 1",President,,Peter Sonski,,1,0,0,1
 Shiawassee,"New Haven Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
@@ -3766,12 +3766,12 @@ Shiawassee,"New Haven Township, Precinct 1",Judge of Court of Appeals 4th Distri
 Shiawassee,"New Haven Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,17,4,0,21
 Shiawassee,"New Haven Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"New Haven Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,279,43,0,322
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,722,103,0,825
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,212,36,0,248
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,369,49,0,418
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,10,2,0,12
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,131,16,0,147
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,722,103,0,825
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,212,36,0,248
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,369,49,0,418
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,10,2,0,12
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"New Haven Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,131,16,0,147
 Shiawassee,"New Haven Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,722,103,0,825
 Shiawassee,"New Haven Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,478,58,0,536
 Shiawassee,"New Haven Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,9,3,0,12
@@ -3807,12 +3807,12 @@ Shiawassee,"New Haven Township, Precinct 1",New Haven Township - Ballot Proposal
 Shiawassee,"New Haven Township, Precinct 1",New Haven Township - Ballot Proposal,,Over Vote Count,,0,0,0,0
 Shiawassee,"New Haven Township, Precinct 1",New Haven Township - Ballot Proposal,,Under Vote Count,,74,11,0,85
 Shiawassee,"Owosso Charter Township, Precinct 1",President,,Ballots Cast,,919,315,620,1854
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,236,84,351,671
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,661,229,261,1151
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,1,0,3
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,3,0,2,5
-Shiawassee,"Owosso Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,4,11
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,Kamala D. Harris,Democrat,236,84,351,671
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,Donald J. Trump,Republican,661,229,261,1151
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,Chase Oliver,Libertarian,1,0,0,1
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,1,0,3
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,Jill Stein,Green,3,0,2,5
+Shiawassee,"Owosso Charter Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,0,4,11
 Shiawassee,"Owosso Charter Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,0,2
 Shiawassee,"Owosso Charter Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"Owosso Charter Township, Precinct 1",President,,Over Vote Count,,0,0,2,2
@@ -3979,12 +3979,12 @@ Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Court of Appeals 4th D
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,40,6,7,53
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,1,0,1
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,322,139,284,745
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,919,315,620,1854
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,349,131,200,680
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,401,114,297,812
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,11,3,4,18
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,1,1,0,2
-Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,157,66,119,342
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,919,315,620,1854
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,349,131,200,680
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,401,114,297,812
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,11,3,4,18
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,1,1,0,2
+Shiawassee,"Owosso Charter Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,157,66,119,342
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,919,315,620,1854
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,596,187,335,1118
 Shiawassee,"Owosso Charter Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,28,6,8,42
@@ -4008,12 +4008,12 @@ Shiawassee,"Owosso Charter Township, Precinct 1",Owosso Public Schools Board Mem
 Shiawassee,"Owosso Charter Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,3,0,3,6
 Shiawassee,"Owosso Charter Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,1190,443,758,2391
 Shiawassee,"Owosso Charter Township, Precinct 2",President,,Ballots Cast,,496,186,467,1149
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,173,62,270,505
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,306,121,184,611
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,6,0,1,7
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,1,1,3
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,1,0,3,4
-Shiawassee,"Owosso Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,1,0,5
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,Kamala D. Harris,Democrat,173,62,270,505
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,Donald J. Trump,Republican,306,121,184,611
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,Chase Oliver,Libertarian,6,0,1,7
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,1,1,1,3
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,Jill Stein,Green,1,0,3,4
+Shiawassee,"Owosso Charter Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,4,1,0,5
 Shiawassee,"Owosso Charter Township, Precinct 2",President,,Write-in,,2,0,0,2
 Shiawassee,"Owosso Charter Township, Precinct 2",President,,Over Vote Count,,0,0,1,1
 Shiawassee,"Owosso Charter Township, Precinct 2",President,,Under Vote Count,,3,1,6,10
@@ -4175,12 +4175,12 @@ Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Court of Appeals 4th D
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,12,2,1,15
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,192,92,231,515
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,496,186,467,1149
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,142,65,121,328
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,278,96,247,621
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,4,0,4,8
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,72,25,95,192
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,496,186,467,1149
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,142,65,121,328
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,278,96,247,621
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,4,0,4,8
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Owosso Charter Township, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,72,25,95,192
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,496,186,467,1149
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,323,112,245,680
 Shiawassee,"Owosso Charter Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,4,0,2,6
@@ -4195,12 +4195,12 @@ Shiawassee,"Owosso Charter Township, Precinct 2",Owosso Public Schools Board Mem
 Shiawassee,"Owosso Charter Township, Precinct 2",Owosso Public Schools Board Member,,Over Vote Count,,3,0,0,3
 Shiawassee,"Owosso Charter Township, Precinct 2",Owosso Public Schools Board Member,,Under Vote Count,,518,230,531,1279
 Shiawassee,"Perry Township, Precinct 1",President,,Ballots Cast,,652,168,413,1233
-Shiawassee,"Perry Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,181,46,231,458
-Shiawassee,"Perry Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,450,122,171,743
-Shiawassee,"Perry Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,0,1,8
-Shiawassee,"Perry Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,1,2
-Shiawassee,"Perry Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,1,2
-Shiawassee,"Perry Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,8,0,3,11
+Shiawassee,"Perry Township, Precinct 1",President,,Kamala D. Harris,Democrat,181,46,231,458
+Shiawassee,"Perry Township, Precinct 1",President,,Donald J. Trump,Republican,450,122,171,743
+Shiawassee,"Perry Township, Precinct 1",President,,Chase Oliver,Libertarian,7,0,1,8
+Shiawassee,"Perry Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
+Shiawassee,"Perry Township, Precinct 1",President,,Jill Stein,Green,1,0,1,2
+Shiawassee,"Perry Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,8,0,3,11
 Shiawassee,"Perry Township, Precinct 1",President,,Write-in,,3,0,2,5
 Shiawassee,"Perry Township, Precinct 1",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 1",President,,Under Vote Count,,1,0,2,3
@@ -4359,12 +4359,12 @@ Shiawassee,"Perry Township, Precinct 1",Judge of Court of Appeals 4th District -
 Shiawassee,"Perry Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,18,2,1,21
 Shiawassee,"Perry Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,270,69,179,518
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,652,168,413,1233
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,175,55,125,355
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,249,66,173,488
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,14,1,2,17
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,214,46,113,373
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,652,168,413,1233
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,175,55,125,355
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,249,66,173,488
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,14,1,2,17
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Perry Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,214,46,113,373
 Shiawassee,"Perry Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,652,168,413,1233
 Shiawassee,"Perry Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,362,99,213,674
 Shiawassee,"Perry Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,18,1,3,22
@@ -4379,16 +4379,16 @@ Shiawassee,"Perry Township, Precinct 1",Perry Public Schools Board Member,,Joshu
 Shiawassee,"Perry Township, Precinct 1",Perry Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 1",Perry Public Schools Board Member,,Under Vote Count,,612,145,329,1086
 Shiawassee,"Perry Township, Precinct 2",President,,Ballots Cast,,650,193,399,1242
-Shiawassee,"Perry Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,151,42,224,417
-Shiawassee,"Perry Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,486,148,168,802
-Shiawassee,"Perry Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,3,1,0,4
-Shiawassee,"Perry Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,1,8
+Shiawassee,"Perry Township, Precinct 2",President,,Kamala D. Harris,Democrat,151,42,224,417
+Shiawassee,"Perry Township, Precinct 2",President,,Donald J. Trump,Republican,486,148,168,802
+Shiawassee,"Perry Township, Precinct 2",President,,Chase Oliver,Libertarian,3,1,0,4
+Shiawassee,"Perry Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,1,8
 Shiawassee,"Perry Township, Precinct 2",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Shiawassee,"Perry Township, Precinct 2",President,,Write-in,,1,0,1,2
 Shiawassee,"Perry Township, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 2",President,,Under Vote Count,,2,0,2,4
-Shiawassee,"Perry Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,2,2
-Shiawassee,"Perry Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,0,1,1,2
+Shiawassee,"Perry Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,0,2,2
+Shiawassee,"Perry Township, Precinct 2",President,,Jill Stein,Green,0,1,1,2
 Shiawassee,"Perry Township, Precinct 2",U.S. Senate,,Ballots Cast,,650,193,399,1242
 Shiawassee,"Perry Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,156,44,219,419
 Shiawassee,"Perry Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,452,145,164,761
@@ -4543,12 +4543,12 @@ Shiawassee,"Perry Township, Precinct 2",Judge of Court of Appeals 4th District -
 Shiawassee,"Perry Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,14,3,2,19
 Shiawassee,"Perry Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,241,76,163,480
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,650,193,399,1242
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,166,66,99,331
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,299,73,198,570
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,8,1,1,10
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,1,1
-Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,177,53,100,330
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,650,193,399,1242
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,166,66,99,331
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,299,73,198,570
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,8,1,1,10
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,1,1
+Shiawassee,"Perry Township, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,177,53,100,330
 Shiawassee,"Perry Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,650,193,399,1242
 Shiawassee,"Perry Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,407,117,224,748
 Shiawassee,"Perry Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,11,2,2,15
@@ -4589,12 +4589,12 @@ Shiawassee,"Perry Township, Precinct 2",Morrice Area Schools Board Member - Part
 Shiawassee,"Perry Township, Precinct 2",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Shiawassee,"Perry Township, Precinct 2",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Under Vote Count,,409,125,240,774
 Shiawassee,"Rush Township, Precinct 1",President,,Ballots Cast,,681,137,0,818
-Shiawassee,"Rush Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,235,36,0,271
-Shiawassee,"Rush Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,426,100,0,526
-Shiawassee,"Rush Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,7,1,0,8
-Shiawassee,"Rush Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Shiawassee,"Rush Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Shiawassee,"Rush Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,3,0,0,3
+Shiawassee,"Rush Township, Precinct 1",President,,Kamala D. Harris,Democrat,235,36,0,271
+Shiawassee,"Rush Township, Precinct 1",President,,Donald J. Trump,Republican,426,100,0,526
+Shiawassee,"Rush Township, Precinct 1",President,,Chase Oliver,Libertarian,7,1,0,8
+Shiawassee,"Rush Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Shiawassee,"Rush Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
+Shiawassee,"Rush Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,3,0,0,3
 Shiawassee,"Rush Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"Rush Township, Precinct 1",President,,Write-in,,3,0,0,3
 Shiawassee,"Rush Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
@@ -4751,12 +4751,12 @@ Shiawassee,"Rush Township, Precinct 1",Judge of Court of Appeals 4th District - 
 Shiawassee,"Rush Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,14,2,0,16
 Shiawassee,"Rush Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Rush Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,295,67,0,362
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,681,137,0,818
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,208,53,0,261
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,309,46,0,355
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,9,2,0,11
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,155,36,0,191
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,681,137,0,818
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,208,53,0,261
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,309,46,0,355
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,9,2,0,11
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Rush Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,155,36,0,191
 Shiawassee,"Rush Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,681,137,0,818
 Shiawassee,"Rush Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,390,72,0,462
 Shiawassee,"Rush Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,13,1,0,14
@@ -4787,16 +4787,16 @@ Shiawassee,"Rush Township, Precinct 1",Owosso Public Schools Board Member,,Write
 Shiawassee,"Rush Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Rush Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,856,197,0,1053
 Shiawassee,"Sciota Township, Precinct 1",President,,Ballots Cast,,613,188,391,1192
-Shiawassee,"Sciota Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,179,61,239,479
-Shiawassee,"Sciota Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,418,126,144,688
-Shiawassee,"Sciota Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,2,0,0,2
-Shiawassee,"Sciota Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,2,0,0,2
-Shiawassee,"Sciota Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,6,1,1,8
+Shiawassee,"Sciota Township, Precinct 1",President,,Kamala D. Harris,Democrat,179,61,239,479
+Shiawassee,"Sciota Township, Precinct 1",President,,Donald J. Trump,Republican,418,126,144,688
+Shiawassee,"Sciota Township, Precinct 1",President,,Chase Oliver,Libertarian,2,0,0,2
+Shiawassee,"Sciota Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
+Shiawassee,"Sciota Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,1,1,8
 Shiawassee,"Sciota Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,0,1
 Shiawassee,"Sciota Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"Sciota Township, Precinct 1",President,,Over Vote Count,,1,0,0,1
 Shiawassee,"Sciota Township, Precinct 1",President,,Under Vote Count,,3,0,5,8
-Shiawassee,"Sciota Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,0,1,1
+Shiawassee,"Sciota Township, Precinct 1",President,,Jill Stein,Green,0,0,1,1
 Shiawassee,"Sciota Township, Precinct 1",President,,Write-in,,0,0,1,1
 Shiawassee,"Sciota Township, Precinct 1",U.S. Senate,,Ballots Cast,,613,188,391,1192
 Shiawassee,"Sciota Township, Precinct 1",U.S. Senate,,Elissa Slotkin,Democrat,185,63,246,494
@@ -4952,12 +4952,12 @@ Shiawassee,"Sciota Township, Precinct 1",Judge of Court of Appeals 4th District 
 Shiawassee,"Sciota Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,8,1,0,9
 Shiawassee,"Sciota Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Sciota Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,235,95,187,517
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,613,188,391,1192
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,156,42,81,279
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,266,78,192,536
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,0,0,6
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,1,1
-Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,185,68,116,369
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,613,188,391,1192
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,156,42,81,279
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,266,78,192,536
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,0,0,6
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,1,1
+Shiawassee,"Sciota Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,185,68,116,369
 Shiawassee,"Sciota Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,613,188,391,1192
 Shiawassee,"Sciota Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,366,94,194,654
 Shiawassee,"Sciota Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,9,0,1,10
@@ -4986,12 +4986,12 @@ Shiawassee,"Sciota Township, Precinct 1",Owosso Public Schools Board Member,,Mar
 Shiawassee,"Sciota Township, Precinct 1",Owosso Public Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Sciota Township, Precinct 1",Owosso Public Schools Board Member,,Under Vote Count,,70,26,34,130
 Shiawassee,"Shiawassee Township, Precinct 1",President,,Ballots Cast,,806,389,615,1810
-Shiawassee,"Shiawassee Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,175,101,332,608
-Shiawassee,"Shiawassee Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,617,284,268,1169
-Shiawassee,"Shiawassee Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,3,4,10
-Shiawassee,"Shiawassee Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,1,4
-Shiawassee,"Shiawassee Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,0,0,0,0
-Shiawassee,"Shiawassee Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,5,0,5,10
+Shiawassee,"Shiawassee Township, Precinct 1",President,,Kamala D. Harris,Democrat,175,101,332,608
+Shiawassee,"Shiawassee Township, Precinct 1",President,,Donald J. Trump,Republican,617,284,268,1169
+Shiawassee,"Shiawassee Township, Precinct 1",President,,Chase Oliver,Libertarian,3,3,4,10
+Shiawassee,"Shiawassee Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,1,4
+Shiawassee,"Shiawassee Township, Precinct 1",President,,Jill Stein,Green,0,0,0,0
+Shiawassee,"Shiawassee Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,5,0,5,10
 Shiawassee,"Shiawassee Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,2,0,1,3
 Shiawassee,"Shiawassee Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,0,0,0
 Shiawassee,"Shiawassee Township, Precinct 1",President,,Write-in,,0,0,1,1
@@ -5151,12 +5151,12 @@ Shiawassee,"Shiawassee Township, Precinct 1",Judge of Court of Appeals 4th Distr
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,21,8,16,45
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,290,141,281,712
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,806,389,615,1810
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,332,145,179,656
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,282,167,306,755
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,12,4,4,20
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,180,73,126,379
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,806,389,615,1810
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,332,145,179,656
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,282,167,306,755
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,12,4,4,20
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Shiawassee Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,180,73,126,379
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,806,389,615,1810
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,505,253,339,1097
 Shiawassee,"Shiawassee Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,22,8,8,38
@@ -5207,12 +5207,12 @@ Shiawassee,"Shiawassee Township, Precinct 1",Morrice Area Schools Board Member -
 Shiawassee,"Shiawassee Township, Precinct 1",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Over Vote Count,,0,0,0,0
 Shiawassee,"Shiawassee Township, Precinct 1",Morrice Area Schools Board Member - Partial Term Ending 12/31/2026,,Under Vote Count,,81,49,72,202
 Shiawassee,"Venice Township, Precinct 1",President,,Ballots Cast,,797,238,384,1419
-Shiawassee,"Venice Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,184,55,198,437
-Shiawassee,"Venice Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,604,179,173,956
-Shiawassee,"Venice Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,1,0,0,1
-Shiawassee,"Venice Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,1,0,0,1
-Shiawassee,"Venice Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,1,0,0,1
-Shiawassee,"Venice Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,1,3,8,12
+Shiawassee,"Venice Township, Precinct 1",President,,Kamala D. Harris,Democrat,184,55,198,437
+Shiawassee,"Venice Township, Precinct 1",President,,Donald J. Trump,Republican,604,179,173,956
+Shiawassee,"Venice Township, Precinct 1",President,,Chase Oliver,Libertarian,1,0,0,1
+Shiawassee,"Venice Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
+Shiawassee,"Venice Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
+Shiawassee,"Venice Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,1,3,8,12
 Shiawassee,"Venice Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,1,0,1,2
 Shiawassee,"Venice Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,1,0,0,1
 Shiawassee,"Venice Township, Precinct 1",President,,Write-in,,1,0,0,1
@@ -5379,12 +5379,12 @@ Shiawassee,"Venice Township, Precinct 1",Judge of Court of Appeals 4th District 
 Shiawassee,"Venice Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,15,6,4,25
 Shiawassee,"Venice Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Venice Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,267,98,148,513
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,797,238,384,1419
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,253,64,113,430
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,350,116,190,656
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,11,1,2,14
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,183,57,79,319
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,797,238,384,1419
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,253,64,113,430
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,350,116,190,656
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,11,1,2,14
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Venice Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,183,57,79,319
 Shiawassee,"Venice Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,797,238,384,1419
 Shiawassee,"Venice Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,521,140,245,906
 Shiawassee,"Venice Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,16,4,3,23
@@ -5431,11 +5431,11 @@ Shiawassee,"Venice Township, Precinct 1",Durand Area Schools Board Member,,Write
 Shiawassee,"Venice Township, Precinct 1",Durand Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Venice Township, Precinct 1",Durand Area Schools Board Member,,Under Vote Count,,355,88,159,602
 Shiawassee,"Vernon Township, Precinct 1",President,,Ballots Cast,,798,235,481,1514
-Shiawassee,"Vernon Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,199,47,254,500
-Shiawassee,"Vernon Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,584,188,221,993
-Shiawassee,"Vernon Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,3,0,4,7
-Shiawassee,"Vernon Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,2,0,0,2
-Shiawassee,"Vernon Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,7,0,1,8
+Shiawassee,"Vernon Township, Precinct 1",President,,Kamala D. Harris,Democrat,199,47,254,500
+Shiawassee,"Vernon Township, Precinct 1",President,,Donald J. Trump,Republican,584,188,221,993
+Shiawassee,"Vernon Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,4,7
+Shiawassee,"Vernon Township, Precinct 1",President,,Jill Stein,Green,2,0,0,2
+Shiawassee,"Vernon Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,7,0,1,8
 Shiawassee,"Vernon Township, Precinct 1",President,,Write-in,,2,0,0,2
 Shiawassee,"Vernon Township, Precinct 1",President,,Over Vote Count,,0,0,1,1
 Shiawassee,"Vernon Township, Precinct 1",President,,Under Vote Count,,1,0,0,1
@@ -5593,12 +5593,12 @@ Shiawassee,"Vernon Township, Precinct 1",Judge of Court of Appeals 4th District 
 Shiawassee,"Vernon Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,27,9,6,42
 Shiawassee,"Vernon Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Vernon Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,299,87,218,604
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,798,235,481,1514
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,272,96,167,535
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,296,78,192,566
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,19,6,1,26
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,1,1,2
-Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,211,54,120,385
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,798,235,481,1514
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,272,96,167,535
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,296,78,192,566
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,19,6,1,26
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,1,1,2
+Shiawassee,"Vernon Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,211,54,120,385
 Shiawassee,"Vernon Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,798,235,481,1514
 Shiawassee,"Vernon Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,490,141,269,900
 Shiawassee,"Vernon Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,23,11,3,37
@@ -5617,16 +5617,16 @@ Shiawassee,"Vernon Township, Precinct 1",Durand Area Schools Board Member,,Write
 Shiawassee,"Vernon Township, Precinct 1",Durand Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Vernon Township, Precinct 1",Durand Area Schools Board Member,,Under Vote Count,,757,219,412,1388
 Shiawassee,"Vernon Township, Precinct 2",President,,Ballots Cast,,643,225,361,1229
-Shiawassee,"Vernon Township, Precinct 2",President,,Kamala D. Harris / Tim Walz,Democrat,184,53,201,438
-Shiawassee,"Vernon Township, Precinct 2",President,,Donald J. Trump / JD Vance,Republican,442,170,151,763
-Shiawassee,"Vernon Township, Precinct 2",President,,Chase Oliver / Mike ter Maat,Libertarian,4,1,0,5
-Shiawassee,"Vernon Township, Precinct 2",President,,Jill Stein / Rudolph Ware,Green,4,0,2,6
-Shiawassee,"Vernon Township, Precinct 2",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,0,2,6
+Shiawassee,"Vernon Township, Precinct 2",President,,Kamala D. Harris,Democrat,184,53,201,438
+Shiawassee,"Vernon Township, Precinct 2",President,,Donald J. Trump,Republican,442,170,151,763
+Shiawassee,"Vernon Township, Precinct 2",President,,Chase Oliver,Libertarian,4,1,0,5
+Shiawassee,"Vernon Township, Precinct 2",President,,Jill Stein,Green,4,0,2,6
+Shiawassee,"Vernon Township, Precinct 2",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,2,6
 Shiawassee,"Vernon Township, Precinct 2",President,,Cornel West / Melina Abdullah,No Party Affiliation,3,0,0,3
 Shiawassee,"Vernon Township, Precinct 2",President,,Write-in,,1,0,0,1
 Shiawassee,"Vernon Township, Precinct 2",President,,Over Vote Count,,1,0,0,1
 Shiawassee,"Vernon Township, Precinct 2",President,,Under Vote Count,,0,1,4,5
-Shiawassee,"Vernon Township, Precinct 2",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,0,0,1,1
+Shiawassee,"Vernon Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
 Shiawassee,"Vernon Township, Precinct 2",U.S. Senate,,Ballots Cast,,643,225,361,1229
 Shiawassee,"Vernon Township, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,185,59,200,444
 Shiawassee,"Vernon Township, Precinct 2",U.S. Senate,,Mike Rogers,Republican,408,161,141,710
@@ -5782,12 +5782,12 @@ Shiawassee,"Vernon Township, Precinct 2",Judge of Court of Appeals 4th District 
 Shiawassee,"Vernon Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,17,7,4,28
 Shiawassee,"Vernon Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Vernon Township, Precinct 2",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,277,79,180,536
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,Ballots Cast,,643,225,361,1229
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,181,86,88,355
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,257,93,171,521
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,Write-in,,11,5,4,20
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,Over Vote Count,,2,1,0,3
-Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court -  Incumbent,,Under Vote Count,,192,40,98,330
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,Ballots Cast,,643,225,361,1229
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,181,86,88,355
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,257,93,171,521
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,Write-in,,11,5,4,20
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,Over Vote Count,,2,1,0,3
+Shiawassee,"Vernon Township, Precinct 2",Judge of Probate Court - Incumbent,,Under Vote Count,,192,40,98,330
 Shiawassee,"Vernon Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,643,225,361,1229
 Shiawassee,"Vernon Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,364,149,190,703
 Shiawassee,"Vernon Township, Precinct 2",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,12,6,4,22
@@ -5823,12 +5823,12 @@ Shiawassee,"Vernon Township, Precinct 2",Durand Area Schools Board Member,,Write
 Shiawassee,"Vernon Township, Precinct 2",Durand Area Schools Board Member,,Over Vote Count,,0,0,0,0
 Shiawassee,"Vernon Township, Precinct 2",Durand Area Schools Board Member,,Under Vote Count,,318,112,197,627
 Shiawassee,"Woodhull Township, Precinct 1",President,,Ballots Cast,,917,406,1166,2489
-Shiawassee,"Woodhull Township, Precinct 1",President,,Kamala D. Harris / Tim Walz,Democrat,268,104,678,1050
-Shiawassee,"Woodhull Township, Precinct 1",President,,Donald J. Trump / JD Vance,Republican,625,292,465,1382
-Shiawassee,"Woodhull Township, Precinct 1",President,,Chase Oliver / Mike ter Maat,Libertarian,6,2,9,17
-Shiawassee,"Woodhull Township, Precinct 1",President,,Randall Terry / Stephen E. Broden,U.S. Taxpayers,3,0,2,5
-Shiawassee,"Woodhull Township, Precinct 1",President,,Jill Stein / Rudolph Ware,Green,6,1,2,9
-Shiawassee,"Woodhull Township, Precinct 1",President,,"Robert F. Kennedy, Jr. / Nicole Shanahan",Natural Law,4,4,7,15
+Shiawassee,"Woodhull Township, Precinct 1",President,,Kamala D. Harris,Democrat,268,104,678,1050
+Shiawassee,"Woodhull Township, Precinct 1",President,,Donald J. Trump,Republican,625,292,465,1382
+Shiawassee,"Woodhull Township, Precinct 1",President,,Chase Oliver,Libertarian,6,2,9,17
+Shiawassee,"Woodhull Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,2,5
+Shiawassee,"Woodhull Township, Precinct 1",President,,Jill Stein,Green,6,1,2,9
+Shiawassee,"Woodhull Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,4,7,15
 Shiawassee,"Woodhull Township, Precinct 1",President,,Joseph Kishore / Jerry White,No Party Affiliation,0,0,0,0
 Shiawassee,"Woodhull Township, Precinct 1",President,,Cornel West / Melina Abdullah,No Party Affiliation,0,1,0,1
 Shiawassee,"Woodhull Township, Precinct 1",President,,Write-in,,2,2,0,4
@@ -5994,12 +5994,12 @@ Shiawassee,"Woodhull Township, Precinct 1",Judge of Court of Appeals 4th Distric
 Shiawassee,"Woodhull Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Write-in,,7,6,9,22
 Shiawassee,"Woodhull Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Over Vote Count,,0,0,0,0
 Shiawassee,"Woodhull Township, Precinct 1",Judge of Court of Appeals 4th District - Incumbent - Partial Term Ending 01/01/2027,,Under Vote Count,,425,171,604,1200
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,Ballots Cast,,917,406,1166,2489
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,"Douglas E. Corwin, Jr.",,251,120,263,634
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,Thomas J. Dignan,,311,157,439,907
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,Write-in,,6,4,8,18
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,Over Vote Count,,0,0,0,0
-Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court -  Incumbent,,Under Vote Count,,347,125,456,928
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,Ballots Cast,,917,406,1166,2489
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,"Douglas E. Corwin, Jr.",,251,120,263,634
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,Thomas J. Dignan,,311,157,439,907
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,Write-in,,6,4,8,18
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,Over Vote Count,,0,0,0,0
+Shiawassee,"Woodhull Township, Precinct 1",Judge of Probate Court - Incumbent,,Under Vote Count,,347,125,456,928
 Shiawassee,"Woodhull Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Ballots Cast,,917,406,1166,2489
 Shiawassee,"Woodhull Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Matthew S. McKone,,487,237,522,1246
 Shiawassee,"Woodhull Township, Precinct 1",Judge of District Court - 66th District - Non-Incumbent,,Write-in,,9,4,7,20

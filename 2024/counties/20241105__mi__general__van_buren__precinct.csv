@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,election_day,early_voting,av_counting_boards,votes
 Van Buren,"City of Bangor, Precinct 1",President,,Ballots Cast,,649,107,0,756
-Van Buren,"City of Bangor, Precinct 1",President,,Kamala Harris,Democrat,301,27,0,328
+Van Buren,"City of Bangor, Precinct 1",President,,Kamala D. Harris,Democrat,301,27,0,328
 Van Buren,"City of Bangor, Precinct 1",President,,Donald J. Trump,Republican,334,80,0,414
 Van Buren,"City of Bangor, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
 Van Buren,"City of Bangor, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,6,0,0,6
@@ -158,7 +158,7 @@ Van Buren,"City of Bangor, Precinct 1",City of Bangor Road Millage Renewal,,No,,
 Van Buren,"City of Bangor, Precinct 1",City of Bangor Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"City of Bangor, Precinct 1",City of Bangor Road Millage Renewal,,Under Vote Count,,134,14,0,148
 Van Buren,"City of Gobles, Precinct 1",President,,Ballots Cast,,383,29,0,412
-Van Buren,"City of Gobles, Precinct 1",President,,Kamala Harris,Democrat,145,4,0,149
+Van Buren,"City of Gobles, Precinct 1",President,,Kamala D. Harris,Democrat,145,4,0,149
 Van Buren,"City of Gobles, Precinct 1",President,,Donald J. Trump,Republican,229,25,0,254
 Van Buren,"City of Gobles, Precinct 1",President,,Chase Oliver,Libertarian,2,0,0,2
 Van Buren,"City of Gobles, Precinct 1",President,,Jill Stein,Green,3,0,0,3
@@ -320,7 +320,7 @@ Van Buren,"City of Gobles, Precinct 1",Gobles Public School Sinking Fund Millage
 Van Buren,"City of Gobles, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"City of Gobles, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Under Vote Count,,50,2,0,52
 Van Buren,"City of Hartford, Precinct 1",President,,Ballots Cast,,770,172,0,942
-Van Buren,"City of Hartford, Precinct 1",President,,Kamala Harris,Democrat,315,53,0,368
+Van Buren,"City of Hartford, Precinct 1",President,,Kamala D. Harris,Democrat,315,53,0,368
 Van Buren,"City of Hartford, Precinct 1",President,,Donald J. Trump,Republican,439,117,0,556
 Van Buren,"City of Hartford, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
 Van Buren,"City of Hartford, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
@@ -490,7 +490,7 @@ Van Buren,"City of Hartford, Precinct 1",Hartford School Board Partial Term,,Wri
 Van Buren,"City of Hartford, Precinct 1",Hartford School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"City of Hartford, Precinct 1",Hartford School Board Partial Term,,Under Vote Count,,273,51,0,324
 Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Ballots Cast,,327,40,378,745
-Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Kamala Harris,Democrat,214,14,278,506
+Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Kamala D. Harris,Democrat,214,14,278,506
 Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Donald J. Trump,Republican,104,23,88,215
 Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Chase Oliver,Libertarian,1,0,2,3
 Van Buren,"City of South Haven, Ward 1, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,0,0
@@ -657,7 +657,7 @@ Van Buren,"City of South Haven, Ward 1, Precinct 1",South Haven School Board,,Wr
 Van Buren,"City of South Haven, Ward 1, Precinct 1",South Haven School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 1, Precinct 1",South Haven School Board,,Under Vote Count,,374,53,433,860
 Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Ballots Cast,,461,68,330,859
-Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Kamala Harris,Democrat,271,32,241,544
+Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Kamala D. Harris,Democrat,271,32,241,544
 Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Donald J. Trump,Republican,175,36,82,293
 Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Chase Oliver,Libertarian,0,0,0,0
 Van Buren,"City of South Haven, Ward 2, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
@@ -824,7 +824,7 @@ Van Buren,"City of South Haven, Ward 2, Precinct 1",South Haven School Board,,Wr
 Van Buren,"City of South Haven, Ward 2, Precinct 1",South Haven School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 2, Precinct 1",South Haven School Board,,Under Vote Count,,497,92,345,934
 Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Ballots Cast,,330,63,474,867
-Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Kamala Harris,Democrat,145,28,298,471
+Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Kamala D. Harris,Democrat,145,28,298,471
 Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Donald J. Trump,Republican,174,34,166,374
 Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Chase Oliver,Libertarian,2,1,2,5
 Van Buren,"City of South Haven, Ward 3, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
@@ -990,82 +990,82 @@ Van Buren,"City of South Haven, Ward 3, Precinct 1",South Haven School Board,,Wr
 Van Buren,"City of South Haven, Ward 3, Precinct 1",South Haven School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 1",South Haven School Board,,Under Vote Count,,369,107,664,1140
 Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Kamala Harris,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Donald J. Trump,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Kamala D. Harris,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Donald J. Trump,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",President,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Mike Rogers,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Elissa Slotkin,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Mike Rogers,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. Senate,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Jessica Swartz,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Bill Huizenga,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Jessica Swartz,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Bill Huizenga,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",U.S. House,4,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Joey Andrews,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Kevin Whiteford,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Joey Andrews,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Kevin Whiteford,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State House,38,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Theodore Jones,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Adam Frederick Zemke,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Tom McMillin,Republican,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Nikki Snyder,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Theodore Jones,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Adam Frederick Zemke,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Tom McMillin,Republican,0,0,0,4
+Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Nikki Snyder,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",State Board of Education,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Denise Ilitch,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Shauna Ryder Diggs,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Carl Meyers,Republican,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Sevag Vartanian,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Denise Ilitch,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Shauna Ryder Diggs,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Carl Meyers,Republican,0,0,0,4
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Sevag Vartanian,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Regent of the University of Michigan,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Rebecca Bahar-Cook,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Thomas Stallworth III,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Mike Balow,Republican,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Julie Maday,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Rebecca Bahar-Cook,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Thomas Stallworth III,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Mike Balow,Republican,0,0,0,4
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Julie Maday,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Trustee of Michigan State University,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Rasha Demashkieh,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Mark T. Gaffney,Democrat,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Michael Busuito,Republican,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Sunny Reddy,Republican,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Rasha Demashkieh,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Mark T. Gaffney,Democrat,0,0,0,10
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Michael Busuito,Republican,0,0,0,4
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Sunny Reddy,Republican,0,0,0,4
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Over Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Governor of Wayne State University,,Under Vote Count,,0,0,0,0
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Kimberly Ann Thomas,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Kimberly Ann Thomas,,0,0,0,5
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Over Vote Count,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Under Vote Count,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court,,Under Vote Count,,0,0,0,9
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Kyra Harris Bolden,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Patrick William O'Grady,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Kyra Harris Bolden,,0,0,0,5
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Patrick William O'Grady,,0,0,0,1
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Over Vote Count,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Under Vote Count,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Justice of Supreme Court Partial,,Under Vote Count,,0,0,0,8
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Philip P. Mariani,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Christopher P. Yates,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Philip P. Mariani,,0,0,0,2
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Christopher P. Yates,,0,0,0,2
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Over Vote Count,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Under Vote Count,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Judge of Court of Appeals 3rd District - Incumbent,,Under Vote Count,,0,0,0,24
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Joan M. Smith,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Mark D. Weber,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Joan M. Smith,,0,0,0,2
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Mark D. Weber,,0,0,0,2
 Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Over Vote Count,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Under Vote Count,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",Board of Trustees LMC,,Under Vote Count,,0,0,0,24
 Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Ballots Cast,,0,3,11,14
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Malissa Acosta,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Leta Faye Covington,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,S. Grassflower,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Justin Ingraham,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Douglas Ransom,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Malissa Acosta,,0,0,0,5
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Leta Faye Covington,,0,0,0,2
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,S. Grassflower,,0,0,0,3
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Justin Ingraham,,0,0,0,1
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Douglas Ransom,,0,0,0,3
 Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Over Vote Count,,0,0,0,0
-Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Under Vote Count,,0,0,0,0
+Van Buren,"City of South Haven, Ward 3, Precinct 2",South Haven School Board,,Under Vote Count,,0,0,0,28
 Van Buren,"Almena Township, Precinct 1",President,,Ballots Cast,,864,229,974,2067
-Van Buren,"Almena Township, Precinct 1",President,,Kamala Harris,Democrat,243,67,557,867
+Van Buren,"Almena Township, Precinct 1",President,,Kamala D. Harris,Democrat,243,67,557,867
 Van Buren,"Almena Township, Precinct 1",President,,Donald J. Trump,Republican,589,157,405,1151
 Van Buren,"Almena Township, Precinct 1",President,,Chase Oliver,Libertarian,9,1,3,13
 Van Buren,"Almena Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,1,1,2
@@ -1261,7 +1261,7 @@ Van Buren,"Almena Township, Precinct 1",Paw Paw District Library Board,,Write-in
 Van Buren,"Almena Township, Precinct 1",Paw Paw District Library Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Almena Township, Precinct 1",Paw Paw District Library Board,,Under Vote Count,,1637,457,1755,3849
 Van Buren,"Almena Township, Precinct 2",President,,Ballots Cast,,571,174,657,1402
-Van Buren,"Almena Township, Precinct 2",President,,Kamala Harris,Democrat,193,60,363,616
+Van Buren,"Almena Township, Precinct 2",President,,Kamala D. Harris,Democrat,193,60,363,616
 Van Buren,"Almena Township, Precinct 2",President,,Donald J. Trump,Republican,370,112,275,757
 Van Buren,"Almena Township, Precinct 2",President,,Chase Oliver,Libertarian,1,0,3,4
 Van Buren,"Almena Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,1,3,4
@@ -1470,7 +1470,7 @@ Van Buren,"Almena Township, Precinct 2",Gobles Public School Sinking Fund Millag
 Van Buren,"Almena Township, Precinct 2",Gobles Public School Sinking Fund Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Almena Township, Precinct 2",Gobles Public School Sinking Fund Millage Renewal,,Under Vote Count,,26,6,16,48
 Van Buren,"Antwerp Township, Precinct 1",President,,Ballots Cast,,732,156,360,1248
-Van Buren,"Antwerp Township, Precinct 1",President,,Kamala Harris,Democrat,271,58,223,552
+Van Buren,"Antwerp Township, Precinct 1",President,,Kamala D. Harris,Democrat,271,58,223,552
 Van Buren,"Antwerp Township, Precinct 1",President,,Donald J. Trump,Republican,438,96,130,664
 Van Buren,"Antwerp Township, Precinct 1",President,,Chase Oliver,Libertarian,9,0,0,9
 Van Buren,"Antwerp Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
@@ -1692,7 +1692,7 @@ Van Buren,"Antwerp Township, Precinct 1",Antwerp Twp Road Millage Renewal,,No,,2
 Van Buren,"Antwerp Township, Precinct 1",Antwerp Twp Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Antwerp Township, Precinct 1",Antwerp Twp Road Millage Renewal,,Under Vote Count,,191,30,62,283
 Van Buren,"Antwerp Township, Precinct 2",President,,Ballots Cast,,966,339,865,2170
-Van Buren,"Antwerp Township, Precinct 2",President,,Kamala Harris,Democrat,350,108,526,984
+Van Buren,"Antwerp Township, Precinct 2",President,,Kamala D. Harris,Democrat,350,108,526,984
 Van Buren,"Antwerp Township, Precinct 2",President,,Donald J. Trump,Republican,582,229,316,1127
 Van Buren,"Antwerp Township, Precinct 2",President,,Chase Oliver,Libertarian,4,0,2,6
 Van Buren,"Antwerp Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,3,0,2,5
@@ -1906,7 +1906,7 @@ Van Buren,"Antwerp Township, Precinct 2",Antwerp Twp Road Millage Renewal,,No,,2
 Van Buren,"Antwerp Township, Precinct 2",Antwerp Twp Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Antwerp Township, Precinct 2",Antwerp Twp Road Millage Renewal,,Under Vote Count,,234,66,136,436
 Van Buren,"Antwerp Township, Precinct 3",President,,Ballots Cast,,602,201,454,1257
-Van Buren,"Antwerp Township, Precinct 3",President,,Kamala Harris,Democrat,205,66,278,549
+Van Buren,"Antwerp Township, Precinct 3",President,,Kamala D. Harris,Democrat,205,66,278,549
 Van Buren,"Antwerp Township, Precinct 3",President,,Donald J. Trump,Republican,388,133,167,688
 Van Buren,"Antwerp Township, Precinct 3",President,,Chase Oliver,Libertarian,3,1,2,6
 Van Buren,"Antwerp Township, Precinct 3",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
@@ -2131,7 +2131,7 @@ Van Buren,"Antwerp Township, Precinct 3",Antwerp Twp Road Millage Renewal,,No,,2
 Van Buren,"Antwerp Township, Precinct 3",Antwerp Twp Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Antwerp Township, Precinct 3",Antwerp Twp Road Millage Renewal,,Under Vote Count,,98,30,58,186
 Van Buren,"Antwerp Township, Precinct 4",President,,Ballots Cast,,851,158,533,1542
-Van Buren,"Antwerp Township, Precinct 4",President,,Kamala Harris,Democrat,325,57,331,713
+Van Buren,"Antwerp Township, Precinct 4",President,,Kamala D. Harris,Democrat,325,57,331,713
 Van Buren,"Antwerp Township, Precinct 4",President,,Donald J. Trump,Republican,515,100,188,803
 Van Buren,"Antwerp Township, Precinct 4",President,,Chase Oliver,Libertarian,1,0,5,6
 Van Buren,"Antwerp Township, Precinct 4",President,,Randall Terry,U.S. Taxpayers,1,1,0,2
@@ -2334,7 +2334,7 @@ Van Buren,"Antwerp Township, Precinct 4",Antwerp Twp Road Millage Renewal,,No,,2
 Van Buren,"Antwerp Township, Precinct 4",Antwerp Twp Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Antwerp Township, Precinct 4",Antwerp Twp Road Millage Renewal,,Under Vote Count,,199,47,86,332
 Van Buren,"Antwerp Township, Precinct 5",President,,Ballots Cast,,773,314,703,1790
-Van Buren,"Antwerp Township, Precinct 5",President,,Kamala Harris,Democrat,266,102,379,747
+Van Buren,"Antwerp Township, Precinct 5",President,,Kamala D. Harris,Democrat,266,102,379,747
 Van Buren,"Antwerp Township, Precinct 5",President,,Donald J. Trump,Republican,482,209,307,998
 Van Buren,"Antwerp Township, Precinct 5",President,,Chase Oliver,Libertarian,7,1,3,11
 Van Buren,"Antwerp Township, Precinct 5",President,,Randall Terry,U.S. Taxpayers,1,0,1,2
@@ -2529,7 +2529,7 @@ Van Buren,"Antwerp Township, Precinct 5",Antwerp Twp Road Millage Renewal,,No,,2
 Van Buren,"Antwerp Township, Precinct 5",Antwerp Twp Road Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Antwerp Township, Precinct 5",Antwerp Twp Road Millage Renewal,,Under Vote Count,,182,65,98,345
 Van Buren,"Arlington Township, Precinct 1",President,,Ballots Cast,,831,240,0,1071
-Van Buren,"Arlington Township, Precinct 1",President,,Kamala Harris,Democrat,322,70,0,392
+Van Buren,"Arlington Township, Precinct 1",President,,Kamala D. Harris,Democrat,322,70,0,392
 Van Buren,"Arlington Township, Precinct 1",President,,Donald J. Trump,Republican,488,166,0,654
 Van Buren,"Arlington Township, Precinct 1",President,,Chase Oliver,Libertarian,2,1,0,3
 Van Buren,"Arlington Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,0,3
@@ -2722,7 +2722,7 @@ Van Buren,"Arlington Township, Precinct 1",Lawrence School Board Partial Term,,W
 Van Buren,"Arlington Township, Precinct 1",Lawrence School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Arlington Township, Precinct 1",Lawrence School Board Partial Term,,Under Vote Count,,96,31,0,127
 Van Buren,"Bangor Township, Precinct 1",President,,Ballots Cast,,672,277,0,949
-Van Buren,"Bangor Township, Precinct 1",President,,Kamala Harris,Democrat,225,68,0,293
+Van Buren,"Bangor Township, Precinct 1",President,,Kamala D. Harris,Democrat,225,68,0,293
 Van Buren,"Bangor Township, Precinct 1",President,,Donald J. Trump,Republican,437,206,0,643
 Van Buren,"Bangor Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
 Van Buren,"Bangor Township, Precinct 1",President,,Jill Stein,Green,1,0,0,1
@@ -2912,7 +2912,7 @@ Van Buren,"Bangor Township, Precinct 1",Hartford School Board Partial Term,,Writ
 Van Buren,"Bangor Township, Precinct 1",Hartford School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Bangor Township, Precinct 1",Hartford School Board Partial Term,,Under Vote Count,,31,19,0,50
 Van Buren,"Bloomingdale Township, Precinct 1",President,,Ballots Cast,,1410,189,0,1599
-Van Buren,"Bloomingdale Township, Precinct 1",President,,Kamala Harris,Democrat,514,55,0,569
+Van Buren,"Bloomingdale Township, Precinct 1",President,,Kamala D. Harris,Democrat,514,55,0,569
 Van Buren,"Bloomingdale Township, Precinct 1",President,,Donald J. Trump,Republican,863,134,0,997
 Van Buren,"Bloomingdale Township, Precinct 1",President,,Chase Oliver,Libertarian,4,0,0,4
 Van Buren,"Bloomingdale Township, Precinct 1",President,,Jill Stein,Green,2,0,0,2
@@ -3122,7 +3122,7 @@ Van Buren,"Bloomingdale Township, Precinct 1",Gobles Public School Sinking Fund 
 Van Buren,"Bloomingdale Township, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Bloomingdale Township, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Under Vote Count,,62,9,0,71
 Van Buren,"Columbia Township, Precinct 1",President,,Ballots Cast,,644,202,364,1210
-Van Buren,"Columbia Township, Precinct 1",President,,Kamala Harris,Democrat,164,44,184,392
+Van Buren,"Columbia Township, Precinct 1",President,,Kamala D. Harris,Democrat,164,44,184,392
 Van Buren,"Columbia Township, Precinct 1",President,,Donald J. Trump,Republican,460,155,172,787
 Van Buren,"Columbia Township, Precinct 1",President,,Chase Oliver,Libertarian,1,2,0,3
 Van Buren,"Columbia Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,2,4
@@ -3324,7 +3324,7 @@ Van Buren,"Columbia Township, Precinct 1",Bloomingdale School Board,,Write-in,,1
 Van Buren,"Columbia Township, Precinct 1",Bloomingdale School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Columbia Township, Precinct 1",Bloomingdale School Board,,Under Vote Count,,355,95,181,631
 Van Buren,"Covert Township, Precinct 1",President,,Ballots Cast,,600,112,365,1077
-Van Buren,"Covert Township, Precinct 1",President,,Kamala Harris,Democrat,296,43,238,577
+Van Buren,"Covert Township, Precinct 1",President,,Kamala D. Harris,Democrat,296,43,238,577
 Van Buren,"Covert Township, Precinct 1",President,,Donald J. Trump,Republican,294,66,119,479
 Van Buren,"Covert Township, Precinct 1",President,,Chase Oliver,Libertarian,0,0,1,1
 Van Buren,"Covert Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
@@ -3537,7 +3537,7 @@ Van Buren,"Covert Township, Precinct 1",Watervliet School Board Partial Term,,Ja
 Van Buren,"Covert Township, Precinct 1",Watervliet School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Covert Township, Precinct 1",Watervliet School Board Partial Term,,Under Vote Count,,0,0,0,0
 Van Buren,"Decatur Township, Precinct 1",President,,Ballots Cast,,1502,203,0,1705
-Van Buren,"Decatur Township, Precinct 1",President,,Kamala Harris,Democrat,569,63,0,632
+Van Buren,"Decatur Township, Precinct 1",President,,Kamala D. Harris,Democrat,569,63,0,632
 Van Buren,"Decatur Township, Precinct 1",President,,Donald J. Trump,Republican,902,139,0,1041
 Van Buren,"Decatur Township, Precinct 1",President,,Chase Oliver,Libertarian,6,0,0,6
 Van Buren,"Decatur Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,0,1
@@ -3743,7 +3743,7 @@ Van Buren,"Decatur Township, Precinct 1",Lawton School Board,,Eric Smith,,0,0,0,
 Van Buren,"Decatur Township, Precinct 1",Lawton School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Decatur Township, Precinct 1",Lawton School Board,,Under Vote Count,,0,0,0,0
 Van Buren,"Geneva Township, Precinct 1",President,,Ballots Cast,,962,239,507,1708
-Van Buren,"Geneva Township, Precinct 1",President,,Kamala Harris,Democrat,325,96,297,718
+Van Buren,"Geneva Township, Precinct 1",President,,Kamala D. Harris,Democrat,325,96,297,718
 Van Buren,"Geneva Township, Precinct 1",President,,Donald J. Trump,Republican,617,140,191,948
 Van Buren,"Geneva Township, Precinct 1",President,,Chase Oliver,Libertarian,2,0,4,6
 Van Buren,"Geneva Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,2,1,4
@@ -3947,7 +3947,7 @@ Van Buren,"Geneva Township, Precinct 1",Covert School Board Partial Term,,Write-
 Van Buren,"Geneva Township, Precinct 1",Covert School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Geneva Township, Precinct 1",Covert School Board Partial Term,,Under Vote Count,,0,0,0,0
 Van Buren,"Hamilton Township, Precinct 1",President,,Ballots Cast,,606,128,0,734
-Van Buren,"Hamilton Township, Precinct 1",President,,Kamala Harris,Democrat,206,31,0,237
+Van Buren,"Hamilton Township, Precinct 1",President,,Kamala D. Harris,Democrat,206,31,0,237
 Van Buren,"Hamilton Township, Precinct 1",President,,Donald J. Trump,Republican,387,97,0,484
 Van Buren,"Hamilton Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
 Van Buren,"Hamilton Township, Precinct 1",President,,"Robert F. Kennedy, Jr.",Natural Law,4,0,0,4
@@ -4133,7 +4133,7 @@ Van Buren,"Hamilton Township, Precinct 1",Decatur School Board,,Write-in,,13,0,0
 Van Buren,"Hamilton Township, Precinct 1",Decatur School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Hamilton Township, Precinct 1",Decatur School Board,,Under Vote Count,,602,164,0,766
 Van Buren,"Hartford Township, Precinct 1",President,,Ballots Cast,,498,430,425,1353
-Van Buren,"Hartford Township, Precinct 1",President,,Kamala Harris,Democrat,132,93,145,370
+Van Buren,"Hartford Township, Precinct 1",President,,Kamala D. Harris,Democrat,132,93,145,370
 Van Buren,"Hartford Township, Precinct 1",President,,Donald J. Trump,Republican,356,331,270,957
 Van Buren,"Hartford Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,1,4
 Van Buren,"Hartford Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,1,3,4
@@ -4328,7 +4328,7 @@ Van Buren,"Hartford Township, Precinct 1",Watervliet School Board Partial Term,,
 Van Buren,"Hartford Township, Precinct 1",Watervliet School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Hartford Township, Precinct 1",Watervliet School Board Partial Term,,Under Vote Count,,6,8,6,20
 Van Buren,"Keeler Township, Precinct 1",President,,Ballots Cast,,877,218,0,1095
-Van Buren,"Keeler Township, Precinct 1",President,,Kamala Harris,Democrat,274,56,0,330
+Van Buren,"Keeler Township, Precinct 1",President,,Kamala D. Harris,Democrat,274,56,0,330
 Van Buren,"Keeler Township, Precinct 1",President,,Donald J. Trump,Republican,588,161,0,749
 Van Buren,"Keeler Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,0,3
 Van Buren,"Keeler Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,0,0,2
@@ -4537,7 +4537,7 @@ Van Buren,"Keeler Township, Precinct 1",Watervliet School Board Partial Term,,Ja
 Van Buren,"Keeler Township, Precinct 1",Watervliet School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"Keeler Township, Precinct 1",Watervliet School Board Partial Term,,Under Vote Count,,0,0,0,0
 Van Buren,"Lawrence Township, Precinct 1",President,,Ballots Cast,,715,437,504,1656
-Van Buren,"Lawrence Township, Precinct 1",President,,Kamala Harris,Democrat,220,122,277,619
+Van Buren,"Lawrence Township, Precinct 1",President,,Kamala D. Harris,Democrat,220,122,277,619
 Van Buren,"Lawrence Township, Precinct 1",President,,Donald J. Trump,Republican,484,312,210,1006
 Van Buren,"Lawrence Township, Precinct 1",President,,Chase Oliver,Libertarian,2,1,0,3
 Van Buren,"Lawrence Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,1,0,2,3
@@ -4769,7 +4769,7 @@ Van Buren,"Lawrence Township, Precinct 1",Paw Paw District Library Board,,Krysta
 Van Buren,"Lawrence Township, Precinct 1",Paw Paw District Library Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Lawrence Township, Precinct 1",Paw Paw District Library Board,,Under Vote Count,,0,0,0,0
 Van Buren,"Paw Paw Township, Precinct 1",President,,Ballots Cast,,705,253,677,1635
-Van Buren,"Paw Paw Township, Precinct 1",President,,Kamala Harris,Democrat,274,92,425,791
+Van Buren,"Paw Paw Township, Precinct 1",President,,Kamala D. Harris,Democrat,274,92,425,791
 Van Buren,"Paw Paw Township, Precinct 1",President,,Donald J. Trump,Republican,410,155,242,807
 Van Buren,"Paw Paw Township, Precinct 1",President,,Chase Oliver,Libertarian,6,1,1,8
 Van Buren,"Paw Paw Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,2,1,1,4
@@ -4981,7 +4981,7 @@ Van Buren,"Paw Paw Township, Precinct 1",Paw Paw Twp Senior Services Millage Ren
 Van Buren,"Paw Paw Township, Precinct 1",Paw Paw Twp Senior Services Millage Renewal,,Over Vote Count,,1,0,0,1
 Van Buren,"Paw Paw Township, Precinct 1",Paw Paw Twp Senior Services Millage Renewal,,Under Vote Count,,176,49,78,303
 Van Buren,"Paw Paw Township, Precinct 2",President,,Ballots Cast,,354,262,436,1052
-Van Buren,"Paw Paw Township, Precinct 2",President,,Kamala Harris,Democrat,111,71,264,446
+Van Buren,"Paw Paw Township, Precinct 2",President,,Kamala D. Harris,Democrat,111,71,264,446
 Van Buren,"Paw Paw Township, Precinct 2",President,,Donald J. Trump,Republican,231,190,165,586
 Van Buren,"Paw Paw Township, Precinct 2",President,,Chase Oliver,Libertarian,3,0,0,3
 Van Buren,"Paw Paw Township, Precinct 2",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
@@ -5191,7 +5191,7 @@ Van Buren,"Paw Paw Township, Precinct 2",Paw Paw Twp Senior Services Millage Ren
 Van Buren,"Paw Paw Township, Precinct 2",Paw Paw Twp Senior Services Millage Renewal,,Over Vote Count,,1,0,0,1
 Van Buren,"Paw Paw Township, Precinct 2",Paw Paw Twp Senior Services Millage Renewal,,Under Vote Count,,95,36,58,189
 Van Buren,"Paw Paw Township, Precinct 3",President,,Ballots Cast,,403,228,592,1223
-Van Buren,"Paw Paw Township, Precinct 3",President,,Kamala Harris,Democrat,132,64,319,515
+Van Buren,"Paw Paw Township, Precinct 3",President,,Kamala D. Harris,Democrat,132,64,319,515
 Van Buren,"Paw Paw Township, Precinct 3",President,,Donald J. Trump,Republican,261,161,262,684
 Van Buren,"Paw Paw Township, Precinct 3",President,,Chase Oliver,Libertarian,5,1,0,6
 Van Buren,"Paw Paw Township, Precinct 3",President,,Jill Stein,Green,2,0,1,3
@@ -5402,7 +5402,7 @@ Van Buren,"Paw Paw Township, Precinct 3",Paw Paw Twp Senior Services Millage Ren
 Van Buren,"Paw Paw Township, Precinct 3",Paw Paw Twp Senior Services Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Paw Paw Township, Precinct 3",Paw Paw Twp Senior Services Millage Renewal,,Under Vote Count,,105,40,68,213
 Van Buren,"Pine Grove Township, Precinct 1",President,,Ballots Cast,,1715,217,0,1932
-Van Buren,"Pine Grove Township, Precinct 1",President,,Kamala Harris,Democrat,581,51,0,632
+Van Buren,"Pine Grove Township, Precinct 1",President,,Kamala D. Harris,Democrat,581,51,0,632
 Van Buren,"Pine Grove Township, Precinct 1",President,,Donald J. Trump,Republican,1092,164,0,1256
 Van Buren,"Pine Grove Township, Precinct 1",President,,Chase Oliver,Libertarian,13,0,0,13
 Van Buren,"Pine Grove Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,6,0,0,6
@@ -5602,7 +5602,7 @@ Van Buren,"Pine Grove Township, Precinct 1",Gobles Public School Sinking Fund Mi
 Van Buren,"Pine Grove Township, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Over Vote Count,,0,0,0,0
 Van Buren,"Pine Grove Township, Precinct 1",Gobles Public School Sinking Fund Millage Renewal,,Under Vote Count,,187,31,0,218
 Van Buren,"Porter Township, Precinct 1",President,,Ballots Cast,,755,299,717,1771
-Van Buren,"Porter Township, Precinct 1",President,,Kamala Harris,Democrat,220,77,395,692
+Van Buren,"Porter Township, Precinct 1",President,,Kamala D. Harris,Democrat,220,77,395,692
 Van Buren,"Porter Township, Precinct 1",President,,Donald J. Trump,Republican,521,222,308,1051
 Van Buren,"Porter Township, Precinct 1",President,,Chase Oliver,Libertarian,3,0,1,4
 Van Buren,"Porter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,3,0,2,5
@@ -5786,7 +5786,7 @@ Van Buren,"Porter Township, Precinct 1",Marcellus School Board,,Write-in,,1,0,8,
 Van Buren,"Porter Township, Precinct 1",Marcellus School Board,,Over Vote Count,,0,0,0,0
 Van Buren,"Porter Township, Precinct 1",Marcellus School Board,,Under Vote Count,,207,87,164,458
 Van Buren,"South Haven Charter Township, Precinct 1",President,,Ballots Cast,,712,170,532,1414
-Van Buren,"South Haven Charter Township, Precinct 1",President,,Kamala Harris,Democrat,275,65,329,669
+Van Buren,"South Haven Charter Township, Precinct 1",President,,Kamala D. Harris,Democrat,275,65,329,669
 Van Buren,"South Haven Charter Township, Precinct 1",President,,Donald J. Trump,Republican,425,102,193,720
 Van Buren,"South Haven Charter Township, Precinct 1",President,,Chase Oliver,Libertarian,7,0,2,9
 Van Buren,"South Haven Charter Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,1,1
@@ -5986,7 +5986,7 @@ Van Buren,"South Haven Charter Township, Precinct 1",Covert School Board Partial
 Van Buren,"South Haven Charter Township, Precinct 1",Covert School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"South Haven Charter Township, Precinct 1",Covert School Board Partial Term,,Under Vote Count,,0,0,0,0
 Van Buren,"South Haven Charter Township, Precinct 2",President,,Ballots Cast,,344,99,317,760
-Van Buren,"South Haven Charter Township, Precinct 2",President,,Kamala Harris,Democrat,140,34,204,378
+Van Buren,"South Haven Charter Township, Precinct 2",President,,Kamala D. Harris,Democrat,140,34,204,378
 Van Buren,"South Haven Charter Township, Precinct 2",President,,Donald J. Trump,Republican,199,64,108,371
 Van Buren,"South Haven Charter Township, Precinct 2",President,,Chase Oliver,Libertarian,1,0,1,2
 Van Buren,"South Haven Charter Township, Precinct 2",President,,Jill Stein,Green,0,0,1,1
@@ -6185,7 +6185,7 @@ Van Buren,"South Haven Charter Township, Precinct 2",Covert School Board Partial
 Van Buren,"South Haven Charter Township, Precinct 2",Covert School Board Partial Term,,Over Vote Count,,0,0,0,0
 Van Buren,"South Haven Charter Township, Precinct 2",Covert School Board Partial Term,,Under Vote Count,,0,0,0,0
 Van Buren,"Waverly Township, Precinct 1",President,,Ballots Cast,,678,275,482,1435
-Van Buren,"Waverly Township, Precinct 1",President,,Kamala Harris,Democrat,182,71,266,519
+Van Buren,"Waverly Township, Precinct 1",President,,Kamala D. Harris,Democrat,182,71,266,519
 Van Buren,"Waverly Township, Precinct 1",President,,Donald J. Trump,Republican,482,201,206,889
 Van Buren,"Waverly Township, Precinct 1",President,,Chase Oliver,Libertarian,6,2,2,10
 Van Buren,"Waverly Township, Precinct 1",President,,Randall Terry,U.S. Taxpayers,0,0,1,1

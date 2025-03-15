@@ -228,12 +228,15 @@ Lenawee,"City of Adrian, Precinct 5",Straight Party,,GRN,Green Party,3,0,2,,1
 Lenawee,"City of Adrian, Precinct 5",Straight Party,,WCP,Working Class Party,7,2,2,,3
 Lenawee,"City of Adrian, Precinct 5",Straight Party,,NLP,Natural Law Party,1,0,0,,1
 Lenawee,"City of Adrian, Precinct 5",Straight Party,,,Write-Ins,0,0,0,,0
-Lenawee,"City of Adrian, Precinct 5",President,,DEM,Kamala D. Harris /,538,94,208,,236
-Lenawee,"City of Adrian, Precinct 5",President,,REP,Donald J. Trump /,571,151,303,,117
-Lenawee,"City of Adrian, Precinct 5",President,,GRN,Jill Stein /,2,,2,,0
-Lenawee,"City of Adrian, Precinct 5",President,,NPA,Joseph Kishore /,0,,0,,
-Lenawee,"City of Adrian, Precinct 5",President,,NPA,Cornel West /,3,1,1,,1
-Lenawee,"City of Adrian, Precinct 5",President,,,Write-Ins,1,0,1,,0
+Lenawee,"City of Adrian, Precinct 5",President,,DEM,Kamala D. Harris /,538,94,208,0,236
+Lenawee,"City of Adrian, Precinct 5",President,,REP,Donald J. Trump /,571,151,303,0,117
+Lenawee,"City of Adrian, Precinct 5",President,,LIB,Chase Oliver / Mike ter Maat,7,0,5,,2
+Lenawee,"City of Adrian, Precinct 5",President,,UST,Randall Terry / Stephen E. Broden,2,0,1,,1
+Lenawee,"City of Adrian, Precinct 5",President,,GRN,Jill Stein /,2,0,2,0,0
+Lenawee,"City of Adrian, Precinct 5",President,,NLP,"Robert F. Kennedy, Jr. / Nicole Shanahan",6,0,3,,3
+Lenawee,"City of Adrian, Precinct 5",President,,NPA,Joseph Kishore /,0,0,0,0,0
+Lenawee,"City of Adrian, Precinct 5",President,,NPA,Cornel West /,3,1,1,0,1
+Lenawee,"City of Adrian, Precinct 5",President,,,Write-Ins,1,0,1,0,0
 Lenawee,"City of Adrian, Precinct 5",U.S. Senate,,DEM,Elissa Slotkin,511,93,195,,223
 Lenawee,"City of Adrian, Precinct 5",U.S. Senate,,REP,Mike Rogers,553,145,288,,120
 Lenawee,"City of Adrian, Precinct 5",U.S. Senate,,LIB,Joseph Solis-Mullen,20,3,14,,3

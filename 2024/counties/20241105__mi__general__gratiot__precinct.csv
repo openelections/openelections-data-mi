@@ -18,13 +18,13 @@ Gratiot,"City of Alma, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,2,0,2
 Gratiot,"City of Alma, Precinct 1",U.S. Senate,,Write-in,,1,1,2
 Gratiot,"City of Alma, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"City of Alma, Precinct 1",U.S. Senate,,Under Vote Count,,17,5,22
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Ballots Cast,,919,165,1084
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Michael Lynch,Democrat,423,68,491
-Gratiot,"City of Alma, Precinct 1",U.S. House,,John R. Moolenaar,Republican,442,88,530
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Ben DeJong,Libertarian,14,1,15
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,10,4,14
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"City of Alma, Precinct 1",U.S. House,,Under Vote Count,,30,4,34
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Ballots Cast,,919,165,1084
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Michael Lynch,Democrat,423,68,491
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,442,88,530
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,14,1,15
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,10,4,14
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"City of Alma, Precinct 1",U.S. House,2,Under Vote Count,,30,4,34
 Gratiot,"City of Alma, Precinct 1",State House,92,Ballots Cast,,919,165,1084
 Gratiot,"City of Alma, Precinct 1",State House,92,Timothy Odykirk,Democrat,456,71,527
 Gratiot,"City of Alma, Precinct 1",State House,92,Jerry Neyer,Republican,431,87,518
@@ -182,14 +182,14 @@ Gratiot,"City of Alma, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,7,1,8
 Gratiot,"City of Alma, Precinct 2",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"City of Alma, Precinct 2",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"City of Alma, Precinct 2",U.S. Senate,,Under Vote Count,,31,3,34
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Ballots Cast,,1262,185,1447
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Michael Lynch,Democrat,557,76,633
-Gratiot,"City of Alma, Precinct 2",U.S. House,,John R. Moolenaar,Republican,613,100,713
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Ben DeJong,Libertarian,26,3,29
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Scott Adams,U.S. Taxpayers,24,0,24
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Write-in,,3,1,4
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Over Vote Count,,1,1,2
-Gratiot,"City of Alma, Precinct 2",U.S. House,,Under Vote Count,,38,4,42
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Ballots Cast,,1262,185,1447
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Michael Lynch,Democrat,557,76,633
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,John R. Moolenaar,Republican,613,100,713
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Ben DeJong,Libertarian,26,3,29
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Scott Adams,U.S. Taxpayers,24,0,24
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Write-in,,3,1,4
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Over Vote Count,,1,1,2
+Gratiot,"City of Alma, Precinct 2",U.S. House,2,Under Vote Count,,38,4,42
 Gratiot,"City of Alma, Precinct 2",State House,92,Ballots Cast,,1262,185,1447
 Gratiot,"City of Alma, Precinct 2",State House,92,Timothy Odykirk,Democrat,602,79,681
 Gratiot,"City of Alma, Precinct 2",State House,92,Jerry Neyer,Republican,611,99,710
@@ -350,14 +350,14 @@ Gratiot,"City of Alma, Precinct 3",U.S. Senate,,Doug Dern,Natural Law,17,1,18
 Gratiot,"City of Alma, Precinct 3",U.S. Senate,,Write-in,,3,0,3
 Gratiot,"City of Alma, Precinct 3",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"City of Alma, Precinct 3",U.S. Senate,,Under Vote Count,,16,1,17
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Ballots Cast,,1192,209,1401
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Michael Lynch,Democrat,458,48,506
-Gratiot,"City of Alma, Precinct 3",U.S. House,,John R. Moolenaar,Republican,644,151,795
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Ben DeJong,Libertarian,33,6,39
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Scott Adams,U.S. Taxpayers,28,2,30
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Write-in,,4,0,4
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"City of Alma, Precinct 3",U.S. House,,Under Vote Count,,25,2,27
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Ballots Cast,,1192,209,1401
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Michael Lynch,Democrat,458,48,506
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,John R. Moolenaar,Republican,644,151,795
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Ben DeJong,Libertarian,33,6,39
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Scott Adams,U.S. Taxpayers,28,2,30
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Write-in,,4,0,4
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"City of Alma, Precinct 3",U.S. House,2,Under Vote Count,,25,2,27
 Gratiot,"City of Alma, Precinct 3",State House,92,Ballots Cast,,1192,209,1401
 Gratiot,"City of Alma, Precinct 3",State House,92,Timothy Odykirk,Democrat,519,53,572
 Gratiot,"City of Alma, Precinct 3",State House,92,Jerry Neyer,Republican,633,151,784
@@ -517,14 +517,14 @@ Gratiot,"City of Ithaca, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,4,5,9
 Gratiot,"City of Ithaca, Precinct 1",U.S. Senate,,Write-in,,0,0,0
 Gratiot,"City of Ithaca, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"City of Ithaca, Precinct 1",U.S. Senate,,Under Vote Count,,34,6,40
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Ballots Cast,,1138,400,1538
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Michael Lynch,Democrat,404,108,512
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,John R. Moolenaar,Republican,644,279,923
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Ben DeJong,Libertarian,20,1,21
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,18,3,21
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Write-in,,0,0,0
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"City of Ithaca, Precinct 1",U.S. House,,Under Vote Count,,52,9,61
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Ballots Cast,,1138,400,1538
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Michael Lynch,Democrat,404,108,512
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,644,279,923
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,20,1,21
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,18,3,21
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Write-in,,0,0,0
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"City of Ithaca, Precinct 1",U.S. House,2,Under Vote Count,,52,9,61
 Gratiot,"City of Ithaca, Precinct 1",State House,92,Ballots Cast,,1138,400,1538
 Gratiot,"City of Ithaca, Precinct 1",State House,92,Timothy Odykirk,Democrat,452,116,568
 Gratiot,"City of Ithaca, Precinct 1",State House,92,Jerry Neyer,Republican,622,274,896
@@ -676,14 +676,14 @@ Gratiot,"City of St. Louis, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,8,1,9
 Gratiot,"City of St. Louis, Precinct 1",U.S. Senate,,Write-in,,2,2,4
 Gratiot,"City of St. Louis, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"City of St. Louis, Precinct 1",U.S. Senate,,Under Vote Count,,30,2,32
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Ballots Cast,,1576,278,1854
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Michael Lynch,Democrat,529,72,601
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,John R. Moolenaar,Republican,943,199,1142
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Ben DeJong,Libertarian,28,1,29
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,29,1,30
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Write-in,,2,0,2
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Over Vote Count,,1,0,1
-Gratiot,"City of St. Louis, Precinct 1",U.S. House,,Under Vote Count,,44,5,49
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Ballots Cast,,1576,278,1854
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Michael Lynch,Democrat,529,72,601
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,943,199,1142
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,28,1,29
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,29,1,30
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Write-in,,2,0,2
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Over Vote Count,,1,0,1
+Gratiot,"City of St. Louis, Precinct 1",U.S. House,2,Under Vote Count,,44,5,49
 Gratiot,"City of St. Louis, Precinct 1",State House,92,Ballots Cast,,1576,278,1854
 Gratiot,"City of St. Louis, Precinct 1",State House,92,Timothy Odykirk,Democrat,570,75,645
 Gratiot,"City of St. Louis, Precinct 1",State House,92,Jerry Neyer,Republican,947,195,1142
@@ -841,14 +841,14 @@ Gratiot,"Arcada Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,1,2
 Gratiot,"Arcada Township, Precinct 1",U.S. Senate,,Write-in,,0,0,0
 Gratiot,"Arcada Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"Arcada Township, Precinct 1",U.S. Senate,,Under Vote Count,,18,4,22
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Ballots Cast,,834,205,1039
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,265,40,305
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,524,156,680
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,7,1,8
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,16,1,17
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Write-in,,0,0,0
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Arcada Township, Precinct 1",U.S. House,,Under Vote Count,,22,7,29
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Ballots Cast,,834,205,1039
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,265,40,305
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,524,156,680
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,7,1,8
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,16,1,17
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Write-in,,0,0,0
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Arcada Township, Precinct 1",U.S. House,2,Under Vote Count,,22,7,29
 Gratiot,"Arcada Township, Precinct 1",State House,92,Ballots Cast,,834,205,1039
 Gratiot,"Arcada Township, Precinct 1",State House,92,Timothy Odykirk,Democrat,284,44,328
 Gratiot,"Arcada Township, Precinct 1",State House,92,Jerry Neyer,Republican,517,150,667
@@ -1025,13 +1025,13 @@ Gratiot,"Bethany Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,3,0,3
 Gratiot,"Bethany Township, Precinct 1",U.S. Senate,,Write-in,,2,0,2
 Gratiot,"Bethany Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Bethany Township, Precinct 1",U.S. Senate,,Under Vote Count,,10,2,12
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Ballots Cast,,667,107,774
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,132,15,147
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,495,90,585
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,9,1,10
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,9,0,9
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Bethany Township, Precinct 1",U.S. House,,Under Vote Count,,22,1,23
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Ballots Cast,,667,107,774
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,132,15,147
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,495,90,585
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,9,1,10
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,9,0,9
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Bethany Township, Precinct 1",U.S. House,2,Under Vote Count,,22,1,23
 Gratiot,"Bethany Township, Precinct 1",State House,92,Ballots Cast,,667,107,774
 Gratiot,"Bethany Township, Precinct 1",State House,92,Timothy Odykirk,Democrat,141,17,158
 Gratiot,"Bethany Township, Precinct 1",State House,92,Jerry Neyer,Republican,494,87,581
@@ -1206,13 +1206,13 @@ Gratiot,"Elba Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,2,0,2
 Gratiot,"Elba Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,1
 Gratiot,"Elba Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,1,1
 Gratiot,"Elba Township, Precinct 1",U.S. Senate,,Under Vote Count,,12,2,14
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Ballots Cast,,634,79,713
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,164,9,173
-Gratiot,"Elba Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,433,67,500
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,7,0,7
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,5,1,6
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Elba Township, Precinct 1",U.S. House,,Under Vote Count,,25,2,27
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Ballots Cast,,634,79,713
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,164,9,173
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,433,67,500
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,7,0,7
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,5,1,6
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Elba Township, Precinct 1",U.S. House,2,Under Vote Count,,25,2,27
 Gratiot,"Elba Township, Precinct 1",State House,,Ballots Cast,,634,79,713
 Gratiot,"Elba Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,164,13,177
 Gratiot,"Elba Township, Precinct 1",State House,,Tim Kelly,Republican,431,64,495
@@ -1418,13 +1418,13 @@ Gratiot,"Emerson Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,1,2
 Gratiot,"Emerson Township, Precinct 1",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"Emerson Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Emerson Township, Precinct 1",U.S. Senate,,Under Vote Count,,15,0,15
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Ballots Cast,,459,93,552
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,116,21,137
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,312,71,383
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,2,1,3
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,7,0,7
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Emerson Township, Precinct 1",U.S. House,,Under Vote Count,,22,0,22
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Ballots Cast,,459,93,552
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,116,21,137
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,312,71,383
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,2,1,3
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,7,0,7
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Emerson Township, Precinct 1",U.S. House,2,Under Vote Count,,22,0,22
 Gratiot,"Emerson Township, Precinct 1",State House,92,Ballots Cast,,459,93,552
 Gratiot,"Emerson Township, Precinct 1",State House,92,Timothy Odykirk,Democrat,125,22,147
 Gratiot,"Emerson Township, Precinct 1",State House,92,Jerry Neyer,Republican,306,69,375
@@ -1611,14 +1611,14 @@ Gratiot,"Fulton Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,3,0,3
 Gratiot,"Fulton Township, Precinct 1",U.S. Senate,,Write-in,,3,0,3
 Gratiot,"Fulton Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Fulton Township, Precinct 1",U.S. Senate,,Under Vote Count,,20,1,21
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Ballots Cast,,1271,218,1489
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,351,32,383
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,833,181,1014
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,22,2,24
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,21,1,22
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Write-in,,4,1,5
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Fulton Township, Precinct 1",U.S. House,,Under Vote Count,,40,1,41
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Ballots Cast,,1271,218,1489
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,351,32,383
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,833,181,1014
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,22,2,24
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,21,1,22
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Write-in,,4,1,5
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Fulton Township, Precinct 1",U.S. House,2,Under Vote Count,,40,1,41
 Gratiot,"Fulton Township, Precinct 1",State House,,Ballots Cast,,1271,218,1489
 Gratiot,"Fulton Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,361,36,397
 Gratiot,"Fulton Township, Precinct 1",State House,,Tim Kelly,Republican,846,177,1023
@@ -1813,14 +1813,14 @@ Gratiot,"Hamilton Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,2,0,2
 Gratiot,"Hamilton Township, Precinct 1",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"Hamilton Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Hamilton Township, Precinct 1",U.S. Senate,,Under Vote Count,,6,0,6
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Ballots Cast,,217,31,248
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,54,6,60
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,144,22,166
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,3,0,3
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,4,1,5
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Write-in,,1,2,3
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Hamilton Township, Precinct 1",U.S. House,,Under Vote Count,,11,0,11
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Ballots Cast,,217,31,248
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,54,6,60
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,144,22,166
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,3,0,3
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,4,1,5
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Write-in,,1,2,3
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Hamilton Township, Precinct 1",U.S. House,2,Under Vote Count,,11,0,11
 Gratiot,"Hamilton Township, Precinct 1",State House,,Ballots Cast,,217,31,248
 Gratiot,"Hamilton Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,60,6,66
 Gratiot,"Hamilton Township, Precinct 1",State House,,Tim Kelly,Republican,141,25,166
@@ -1997,13 +1997,13 @@ Gratiot,"Lafayette Township, Precinct 1",U.S. Senate,,Joseph Solis-Mullen,Libert
 Gratiot,"Lafayette Township, Precinct 1",U.S. Senate,,Dave Stein,U.S. Taxpayers,2,0,2
 Gratiot,"Lafayette Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Lafayette Township, Precinct 1",U.S. Senate,,Under Vote Count,,8,0,8
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Ballots Cast,,290,38,328
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,60,4,64
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,217,33,250
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,2,0,2
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,2,0,2
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Lafayette Township, Precinct 1",U.S. House,,Under Vote Count,,9,1,10
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Ballots Cast,,290,38,328
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,60,4,64
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,217,33,250
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,2,0,2
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,2,0,2
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Lafayette Township, Precinct 1",U.S. House,2,Under Vote Count,,9,1,10
 Gratiot,"Lafayette Township, Precinct 1",State House,,Ballots Cast,,290,38,328
 Gratiot,"Lafayette Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,64,5,69
 Gratiot,"Lafayette Township, Precinct 1",State House,,Tim Kelly,Republican,208,33,241
@@ -2175,14 +2175,14 @@ Gratiot,"New Haven Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,4,1
 Gratiot,"New Haven Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,1
 Gratiot,"New Haven Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"New Haven Township, Precinct 1",U.S. Senate,,Under Vote Count,,4,0,4
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Ballots Cast,,436,79,515
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,98,13,111
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,313,62,375
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,9,1,10
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,8,2,10
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Write-in,,1,0,1
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"New Haven Township, Precinct 1",U.S. House,,Under Vote Count,,7,1,8
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Ballots Cast,,436,79,515
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,98,13,111
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,313,62,375
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,9,1,10
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,8,2,10
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Write-in,,1,0,1
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"New Haven Township, Precinct 1",U.S. House,2,Under Vote Count,,7,1,8
 Gratiot,"New Haven Township, Precinct 1",State House,,Ballots Cast,,436,79,515
 Gratiot,"New Haven Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,99,12,111
 Gratiot,"New Haven Township, Precinct 1",State House,,Tim Kelly,Republican,316,66,382
@@ -2378,14 +2378,14 @@ Gratiot,"Newark Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,1
 Gratiot,"Newark Township, Precinct 1",U.S. Senate,,Write-in,,3,0,3
 Gratiot,"Newark Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"Newark Township, Precinct 1",U.S. Senate,,Under Vote Count,,9,1,10
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Ballots Cast,,416,81,497
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,94,11,105
-Gratiot,"Newark Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,297,69,366
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,7,0,7
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,5,0,5
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Write-in,,2,0,2
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Over Vote Count,,1,0,1
-Gratiot,"Newark Township, Precinct 1",U.S. House,,Under Vote Count,,10,1,11
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Ballots Cast,,416,81,497
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,94,11,105
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,297,69,366
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,7,0,7
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,5,0,5
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Write-in,,2,0,2
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Over Vote Count,,1,0,1
+Gratiot,"Newark Township, Precinct 1",U.S. House,2,Under Vote Count,,10,1,11
 Gratiot,"Newark Township, Precinct 1",State House,,Ballots Cast,,416,81,497
 Gratiot,"Newark Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,98,10,108
 Gratiot,"Newark Township, Precinct 1",State House,,Tim Kelly,Republican,293,69,362
@@ -2561,14 +2561,14 @@ Gratiot,"North Shade Township, Precinct 1",U.S. Senate,,Dave Stein,U.S. Taxpayer
 Gratiot,"North Shade Township, Precinct 1",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"North Shade Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"North Shade Township, Precinct 1",U.S. Senate,,Under Vote Count,,4,0,4
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Ballots Cast,,277,18,295
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,54,3,57
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,209,15,224
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,2,0,2
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,4,0,4
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Write-in,,1,0,1
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"North Shade Township, Precinct 1",U.S. House,,Under Vote Count,,7,0,7
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Ballots Cast,,277,18,295
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,54,3,57
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,209,15,224
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,2,0,2
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,4,0,4
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Write-in,,1,0,1
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"North Shade Township, Precinct 1",U.S. House,2,Under Vote Count,,7,0,7
 Gratiot,"North Shade Township, Precinct 1",State House,,Ballots Cast,,277,18,295
 Gratiot,"North Shade Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,57,3,60
 Gratiot,"North Shade Township, Precinct 1",State House,,Tim Kelly,Republican,211,15,226
@@ -2746,13 +2746,13 @@ Gratiot,"North Star Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,1,
 Gratiot,"North Star Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,1
 Gratiot,"North Star Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1
 Gratiot,"North Star Township, Precinct 1",U.S. Senate,,Under Vote Count,,11,1,12
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Ballots Cast,,428,77,505
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,97,13,110
-Gratiot,"North Star Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,311,60,371
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,2,1,3
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,8,2,10
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"North Star Township, Precinct 1",U.S. House,,Under Vote Count,,10,1,11
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Ballots Cast,,428,77,505
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,97,13,110
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,311,60,371
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,2,1,3
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,8,2,10
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"North Star Township, Precinct 1",U.S. House,2,Under Vote Count,,10,1,11
 Gratiot,"North Star Township, Precinct 1",State House,92,Ballots Cast,,1,0,1
 Gratiot,"North Star Township, Precinct 1",State House,92,Jerry Neyer,Republican,0,0,0
 Gratiot,"North Star Township, Precinct 1",State House,92,Over Vote Count,,0,0,0
@@ -2933,13 +2933,13 @@ Gratiot,"Pine River Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,2,
 Gratiot,"Pine River Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,2,0,2
 Gratiot,"Pine River Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Pine River Township, Precinct 1",U.S. Senate,,Under Vote Count,,26,3,29
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Ballots Cast,,1182,227,1409
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,329,45,374
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,790,177,967
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,13,2,15
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,13,1,14
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Over Vote Count,,1,0,1
-Gratiot,"Pine River Township, Precinct 1",U.S. House,,Under Vote Count,,36,2,38
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Ballots Cast,,1182,227,1409
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,329,45,374
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,790,177,967
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,13,2,15
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,13,1,14
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Over Vote Count,,1,0,1
+Gratiot,"Pine River Township, Precinct 1",U.S. House,2,Under Vote Count,,36,2,38
 Gratiot,"Pine River Township, Precinct 1",State House,92,Ballots Cast,,1182,227,1409
 Gratiot,"Pine River Township, Precinct 1",State House,92,Timothy Odykirk,Democrat,347,44,391
 Gratiot,"Pine River Township, Precinct 1",State House,92,Jerry Neyer,Republican,782,180,962
@@ -3125,14 +3125,14 @@ Gratiot,"Seville Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,5,1,6
 Gratiot,"Seville Township, Precinct 1",U.S. Senate,,Write-in,,1,1,2
 Gratiot,"Seville Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Seville Township, Precinct 1",U.S. Senate,,Under Vote Count,,29,2,31
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Ballots Cast,,1098,172,1270
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,258,26,284
-Gratiot,"Seville Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,762,137,899
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,21,3,24
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,17,1,18
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Write-in,,1,1,2
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Seville Township, Precinct 1",U.S. House,,Under Vote Count,,39,4,43
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Ballots Cast,,1098,172,1270
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,258,26,284
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,762,137,899
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,21,3,24
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,17,1,18
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Write-in,,1,1,2
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Seville Township, Precinct 1",U.S. House,2,Under Vote Count,,39,4,43
 Gratiot,"Seville Township, Precinct 1",State House,92,Ballots Cast,,1098,172,1270
 Gratiot,"Seville Township, Precinct 1",State House,92,Timothy Odykirk,Democrat,271,31,302
 Gratiot,"Seville Township, Precinct 1",State House,92,Jerry Neyer,Republican,780,134,914
@@ -3324,13 +3324,13 @@ Gratiot,"Sumner Township, Precinct 1",U.S. Senate,,Dave Stein,U.S. Taxpayers,4,3
 Gratiot,"Sumner Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,7,1,8
 Gratiot,"Sumner Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Sumner Township, Precinct 1",U.S. Senate,,Under Vote Count,,25,1,26
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Ballots Cast,,880,123,1003
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,218,22,240
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,602,92,694
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,11,1,12
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,16,5,21
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Sumner Township, Precinct 1",U.S. House,,Under Vote Count,,33,3,36
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Ballots Cast,,880,123,1003
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,218,22,240
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,602,92,694
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,11,1,12
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,16,5,21
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Sumner Township, Precinct 1",U.S. House,2,Under Vote Count,,33,3,36
 Gratiot,"Sumner Township, Precinct 1",State House,,Ballots Cast,,880,123,1003
 Gratiot,"Sumner Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,231,24,255
 Gratiot,"Sumner Township, Precinct 1",State House,,Tim Kelly,Republican,601,94,695
@@ -3511,14 +3511,14 @@ Gratiot,"Washington Township, Precinct 1",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"Washington Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Washington Township, Precinct 1",U.S. Senate,,Under Vote Count,,6,1,7
 Gratiot,"Washington Township, Precinct 1",U.S. Senate,,Dave Stein,U.S. Taxpayers,0,1,1
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Ballots Cast,,410,68,478
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,99,7,106
-Gratiot,"Washington Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,291,57,348
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,4,0,4
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,8,1,9
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Write-in,,2,0,2
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0
-Gratiot,"Washington Township, Precinct 1",U.S. House,,Under Vote Count,,6,3,9
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Ballots Cast,,410,68,478
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,99,7,106
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,291,57,348
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,4,0,4
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,8,1,9
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Write-in,,2,0,2
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0
+Gratiot,"Washington Township, Precinct 1",U.S. House,2,Under Vote Count,,6,3,9
 Gratiot,"Washington Township, Precinct 1",State House,,Ballots Cast,,410,68,478
 Gratiot,"Washington Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,104,6,110
 Gratiot,"Washington Township, Precinct 1",State House,,Tim Kelly,Republican,288,59,347
@@ -3730,14 +3730,14 @@ Gratiot,"Wheeler Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,6,1,7
 Gratiot,"Wheeler Township, Precinct 1",U.S. Senate,,Write-in,,1,0,1
 Gratiot,"Wheeler Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0
 Gratiot,"Wheeler Township, Precinct 1",U.S. Senate,,Under Vote Count,,33,4,37
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Ballots Cast,,1304,202,1506
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,344,44,388
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,895,148,1043
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,19,0,19
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,9,5,14
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Write-in,,1,0,1
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Over Vote Count,,2,0,2
-Gratiot,"Wheeler Township, Precinct 1",U.S. House,,Under Vote Count,,34,5,39
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Ballots Cast,,1304,202,1506
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,344,44,388
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,895,148,1043
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,19,0,19
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,9,5,14
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Write-in,,1,0,1
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Over Vote Count,,2,0,2
+Gratiot,"Wheeler Township, Precinct 1",U.S. House,2,Under Vote Count,,34,5,39
 Gratiot,"Wheeler Township, Precinct 1",State House,,Ballots Cast,,1304,202,1506
 Gratiot,"Wheeler Township, Precinct 1",State House,,Kevin C. Seamon,Democrat,364,46,410
 Gratiot,"Wheeler Township, Precinct 1",State House,,Tim Kelly,Republican,875,148,1023

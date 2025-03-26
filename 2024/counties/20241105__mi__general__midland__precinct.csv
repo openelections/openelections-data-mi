@@ -19,14 +19,14 @@ Midland,"City of Coleman, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,2,0,0,
 Midland,"City of Coleman, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,6,0,0,6
 Midland,"City of Coleman, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Coleman, Precinct 1",U.S. Senate,,Under Vote Count,,25,0,0,25
-Midland,"City of Coleman, Precinct 1",U.S. House,,Ballots Cast,,592,38,0,630
-Midland,"City of Coleman, Precinct 1",U.S. House,,Michael Lynch,Democrat,191,4,0,195
-Midland,"City of Coleman, Precinct 1",U.S. House,,John R. Moolenaar,Republican,353,29,0,382
-Midland,"City of Coleman, Precinct 1",U.S. House,,Ben DeJong,Libertarian,10,1,0,11
-Midland,"City of Coleman, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,5,2,0,7
-Midland,"City of Coleman, Precinct 1",U.S. House,,Write-in,,1,0,0,1
-Midland,"City of Coleman, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Coleman, Precinct 1",U.S. House,,Under Vote Count,,32,2,0,34
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Ballots Cast,,592,38,0,630
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Michael Lynch,Democrat,191,4,0,195
+Midland,"City of Coleman, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,353,29,0,382
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,10,1,0,11
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,5,2,0,7
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Write-in,,1,0,0,1
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0,0
+Midland,"City of Coleman, Precinct 1",U.S. House,2,Under Vote Count,,32,2,0,34
 Midland,"City of Coleman, Precinct 1",State House,95,Ballots Cast,,592,38,0,630
 Midland,"City of Coleman, Precinct 1",State House,95,Sabrina Lopez,Democrat,189,5,0,194
 Midland,"City of Coleman, Precinct 1",State House,95,Bill G. Schuette,Republican,368,32,0,400
@@ -227,16 +227,16 @@ Midland,"City of Midland, Ward 1, Precinct 1",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 1, Precinct 1",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 1, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 1, Precinct 1",U.S. Senate,,Under Vote Count,,15,12,15,42
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Ballots Cast,,944,422,853,2219
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,407,174,563,1144
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Paul Junge,Republican,466,221,251,938
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,20,6,9,35
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,6,3,2,11
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Jim Casha,Green,6,1,3,10
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,20,5,11,36
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Write-in,,2,0,0,2
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,,Under Vote Count,,17,12,14,43
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Ballots Cast,,944,422,853,2219
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,407,174,563,1144
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Paul Junge,Republican,466,221,251,938
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,20,6,9,35
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,6,3,2,11
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Jim Casha,Green,6,1,3,10
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,20,5,11,36
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Write-in,,2,0,0,2
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 1, Precinct 1",U.S. House,8,Under Vote Count,,17,12,14,43
 Midland,"City of Midland, Ward 1, Precinct 1",State House,95,Ballots Cast,,944,422,853,2219
 Midland,"City of Midland, Ward 1, Precinct 1",State House,95,Sabrina Lopez,Democrat,328,149,495,972
 Midland,"City of Midland, Ward 1, Precinct 1",State House,95,Bill G. Schuette,Republican,586,252,331,1169
@@ -429,16 +429,16 @@ Midland,"City of Midland, Ward 1, Precinct 2A",U.S. Senate,,Doug Dern,Natural La
 Midland,"City of Midland, Ward 1, Precinct 2A",U.S. Senate,,Write-in,,4,2,0,6
 Midland,"City of Midland, Ward 1, Precinct 2A",U.S. Senate,,Over Vote Count,,0,1,0,1
 Midland,"City of Midland, Ward 1, Precinct 2A",U.S. Senate,,Under Vote Count,,19,9,13,41
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Ballots Cast,,941,492,691,2124
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Kristen McDonald Rivet,Democrat,389,221,421,1031
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Paul Junge,Republican,472,239,234,945
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Steve Barcelo,Libertarian,25,11,6,42
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,James Allen Little,U.S. Taxpayers,8,3,3,14
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Jim Casha,Green,2,0,2,4
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Kathy Goodwin,Working Class,26,8,8,42
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Write-in,,2,1,0,3
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,,Under Vote Count,,17,9,17,43
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Ballots Cast,,941,492,691,2124
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Kristen McDonald Rivet,Democrat,389,221,421,1031
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Paul Junge,Republican,472,239,234,945
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Steve Barcelo,Libertarian,25,11,6,42
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,James Allen Little,U.S. Taxpayers,8,3,3,14
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Jim Casha,Green,2,0,2,4
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Kathy Goodwin,Working Class,26,8,8,42
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Write-in,,2,1,0,3
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 1, Precinct 2A",U.S. House,8,Under Vote Count,,17,9,17,43
 Midland,"City of Midland, Ward 1, Precinct 2A",State House,95,Ballots Cast,,941,492,691,2124
 Midland,"City of Midland, Ward 1, Precinct 2A",State House,95,Sabrina Lopez,Democrat,322,192,371,885
 Midland,"City of Midland, Ward 1, Precinct 2A",State House,95,Bill G. Schuette,Republican,580,286,294,1160
@@ -615,12 +615,12 @@ Midland,"City of Midland, Ward 1, Precinct 2B",U.S. Senate,,Mike Rogers,Republic
 Midland,"City of Midland, Ward 1, Precinct 2B",U.S. Senate,,Dave Stein,U.S. Taxpayers,1,0,1,2
 Midland,"City of Midland, Ward 1, Precinct 2B",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 1, Precinct 2B",U.S. Senate,,Under Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Ballots Cast,,58,14,14,86
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Kristen McDonald Rivet,Democrat,23,2,8,33
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Paul Junge,Republican,30,11,6,47
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Kathy Goodwin,Working Class,3,0,0,3
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,,Under Vote Count,,2,1,0,3
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Ballots Cast,,58,14,14,86
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Kristen McDonald Rivet,Democrat,23,2,8,33
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Paul Junge,Republican,30,11,6,47
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Kathy Goodwin,Working Class,3,0,0,3
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 1, Precinct 2B",U.S. House,8,Under Vote Count,,2,1,0,3
 Midland,"City of Midland, Ward 1, Precinct 2B",State House,95,Ballots Cast,,58,14,14,86
 Midland,"City of Midland, Ward 1, Precinct 2B",State House,95,Sabrina Lopez,Democrat,20,1,7,28
 Midland,"City of Midland, Ward 1, Precinct 2B",State House,95,Bill G. Schuette,Republican,36,12,7,55
@@ -812,16 +812,16 @@ Midland,"City of Midland, Ward 2, Precinct 3",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 2, Precinct 3",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 2, Precinct 3",U.S. Senate,,Under Vote Count,,29,9,14,52
 Midland,"City of Midland, Ward 2, Precinct 3",U.S. Senate,,Write-in,,0,1,0,1
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Ballots Cast,,797,582,894,2273
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Kristen McDonald Rivet,Democrat,313,222,563,1098
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Paul Junge,Republican,404,332,278,1014
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Steve Barcelo,Libertarian,23,3,7,33
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,James Allen Little,U.S. Taxpayers,6,0,2,8
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Jim Casha,Green,5,3,8,16
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Kathy Goodwin,Working Class,21,7,16,44
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Under Vote Count,,25,13,20,58
-Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,,Write-in,,0,2,0,2
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Ballots Cast,,797,582,894,2273
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Kristen McDonald Rivet,Democrat,313,222,563,1098
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Paul Junge,Republican,404,332,278,1014
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Steve Barcelo,Libertarian,23,3,7,33
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,James Allen Little,U.S. Taxpayers,6,0,2,8
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Jim Casha,Green,5,3,8,16
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Kathy Goodwin,Working Class,21,7,16,44
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Under Vote Count,,25,13,20,58
+Midland,"City of Midland, Ward 2, Precinct 3",U.S. House,8,Write-in,,0,2,0,2
 Midland,"City of Midland, Ward 2, Precinct 3",State House,95,Ballots Cast,,797,582,894,2273
 Midland,"City of Midland, Ward 2, Precinct 3",State House,95,Sabrina Lopez,Democrat,269,197,517,983
 Midland,"City of Midland, Ward 2, Precinct 3",State House,95,Bill G. Schuette,Republican,489,366,345,1200
@@ -1014,16 +1014,16 @@ Midland,"City of Midland, Ward 2, Precinct 4",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 2, Precinct 4",U.S. Senate,,Write-in,,1,1,0,2
 Midland,"City of Midland, Ward 2, Precinct 4",U.S. Senate,,Over Vote Count,,1,0,0,1
 Midland,"City of Midland, Ward 2, Precinct 4",U.S. Senate,,Under Vote Count,,21,11,18,50
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Ballots Cast,,887,638,1090,2615
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Kristen McDonald Rivet,Democrat,391,298,742,1431
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Paul Junge,Republican,430,311,315,1056
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Steve Barcelo,Libertarian,19,7,4,30
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,James Allen Little,U.S. Taxpayers,3,2,2,7
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Jim Casha,Green,6,0,0,6
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Kathy Goodwin,Working Class,13,2,10,25
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Write-in,,2,1,0,3
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Over Vote Count,,0,1,0,1
-Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,,Under Vote Count,,23,16,17,56
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Ballots Cast,,887,638,1090,2615
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Kristen McDonald Rivet,Democrat,391,298,742,1431
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Paul Junge,Republican,430,311,315,1056
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Steve Barcelo,Libertarian,19,7,4,30
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,James Allen Little,U.S. Taxpayers,3,2,2,7
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Jim Casha,Green,6,0,0,6
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Kathy Goodwin,Working Class,13,2,10,25
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Write-in,,2,1,0,3
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Over Vote Count,,0,1,0,1
+Midland,"City of Midland, Ward 2, Precinct 4",U.S. House,8,Under Vote Count,,23,16,17,56
 Midland,"City of Midland, Ward 2, Precinct 4",State House,95,Ballots Cast,,887,638,1090,2615
 Midland,"City of Midland, Ward 2, Precinct 4",State House,95,Sabrina Lopez,Democrat,310,262,655,1227
 Midland,"City of Midland, Ward 2, Precinct 4",State House,95,Bill G. Schuette,Republican,540,357,401,1298
@@ -1211,16 +1211,16 @@ Midland,"City of Midland, Ward 3, Precinct 5",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 3, Precinct 5",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 3, Precinct 5",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 3, Precinct 5",U.S. Senate,,Under Vote Count,,11,9,16,36
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Ballots Cast,,836,565,1015,2416
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Kristen McDonald Rivet,Democrat,351,248,603,1202
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Paul Junge,Republican,439,293,377,1109
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Steve Barcelo,Libertarian,12,4,7,23
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,James Allen Little,U.S. Taxpayers,2,1,3,6
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Jim Casha,Green,3,3,3,9
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Kathy Goodwin,Working Class,10,3,4,17
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Write-in,,3,0,0,3
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Over Vote Count,,1,0,0,1
-Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,,Under Vote Count,,15,13,18,46
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Ballots Cast,,836,565,1015,2416
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Kristen McDonald Rivet,Democrat,351,248,603,1202
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Paul Junge,Republican,439,293,377,1109
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Steve Barcelo,Libertarian,12,4,7,23
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,James Allen Little,U.S. Taxpayers,2,1,3,6
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Jim Casha,Green,3,3,3,9
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Kathy Goodwin,Working Class,10,3,4,17
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Write-in,,3,0,0,3
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Over Vote Count,,1,0,0,1
+Midland,"City of Midland, Ward 3, Precinct 5",U.S. House,8,Under Vote Count,,15,13,18,46
 Midland,"City of Midland, Ward 3, Precinct 5",State House,95,Ballots Cast,,836,565,1015,2416
 Midland,"City of Midland, Ward 3, Precinct 5",State House,95,Sabrina Lopez,Democrat,279,223,506,1008
 Midland,"City of Midland, Ward 3, Precinct 5",State House,95,Bill G. Schuette,Republican,529,324,475,1328
@@ -1405,16 +1405,16 @@ Midland,"City of Midland, Ward 3, Precinct 6",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 3, Precinct 6",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 3, Precinct 6",U.S. Senate,,Over Vote Count,,2,0,0,2
 Midland,"City of Midland, Ward 3, Precinct 6",U.S. Senate,,Under Vote Count,,26,5,15,46
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Ballots Cast,,894,690,1207,2791
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Kristen McDonald Rivet,Democrat,335,262,785,1382
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Paul Junge,Republican,485,406,383,1274
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Steve Barcelo,Libertarian,17,10,5,32
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,James Allen Little,U.S. Taxpayers,4,1,1,6
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Jim Casha,Green,5,2,3,10
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Kathy Goodwin,Working Class,19,5,11,35
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Write-in,,3,0,0,3
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,,Under Vote Count,,26,4,19,49
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Ballots Cast,,894,690,1207,2791
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Kristen McDonald Rivet,Democrat,335,262,785,1382
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Paul Junge,Republican,485,406,383,1274
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Steve Barcelo,Libertarian,17,10,5,32
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,James Allen Little,U.S. Taxpayers,4,1,1,6
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Jim Casha,Green,5,2,3,10
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Kathy Goodwin,Working Class,19,5,11,35
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Write-in,,3,0,0,3
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 3, Precinct 6",U.S. House,8,Under Vote Count,,26,4,19,49
 Midland,"City of Midland, Ward 3, Precinct 6",State House,95,Ballots Cast,,894,690,1207,2791
 Midland,"City of Midland, Ward 3, Precinct 6",State House,95,Sabrina Lopez,Democrat,252,219,672,1143
 Midland,"City of Midland, Ward 3, Precinct 6",State House,95,Bill G. Schuette,Republican,606,453,502,1561
@@ -1600,16 +1600,16 @@ Midland,"City of Midland, Ward 4, Precinct 7",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 4, Precinct 7",U.S. Senate,,Write-in,,3,0,0,3
 Midland,"City of Midland, Ward 4, Precinct 7",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 4, Precinct 7",U.S. Senate,,Under Vote Count,,19,3,25,47
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Ballots Cast,,798,513,1250,2561
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Kristen McDonald Rivet,Democrat,311,215,753,1279
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Paul Junge,Republican,437,288,452,1177
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Steve Barcelo,Libertarian,12,1,3,16
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,James Allen Little,U.S. Taxpayers,4,2,2,8
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Kathy Goodwin,Working Class,13,0,9,22
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Write-in,,4,0,0,4
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Under Vote Count,,17,5,28,50
-Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,,Jim Casha,Green,0,2,3,5
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Ballots Cast,,798,513,1250,2561
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Kristen McDonald Rivet,Democrat,311,215,753,1279
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Paul Junge,Republican,437,288,452,1177
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Steve Barcelo,Libertarian,12,1,3,16
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,James Allen Little,U.S. Taxpayers,4,2,2,8
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Kathy Goodwin,Working Class,13,0,9,22
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Write-in,,4,0,0,4
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Under Vote Count,,17,5,28,50
+Midland,"City of Midland, Ward 4, Precinct 7",U.S. House,8,Jim Casha,Green,0,2,3,5
 Midland,"City of Midland, Ward 4, Precinct 7",State House,95,Ballots Cast,,798,513,1250,2561
 Midland,"City of Midland, Ward 4, Precinct 7",State House,95,Sabrina Lopez,Democrat,250,192,650,1092
 Midland,"City of Midland, Ward 4, Precinct 7",State House,95,Bill G. Schuette,Republican,519,312,561,1392
@@ -1802,16 +1802,16 @@ Midland,"City of Midland, Ward 4, Precinct 8",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 4, Precinct 8",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 4, Precinct 8",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 4, Precinct 8",U.S. Senate,,Under Vote Count,,13,7,17,37
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Ballots Cast,,896,682,1240,2818
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Kristen McDonald Rivet,Democrat,374,301,794,1469
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Paul Junge,Republican,466,363,401,1230
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Steve Barcelo,Libertarian,15,5,16,36
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,James Allen Little,U.S. Taxpayers,3,1,0,4
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Jim Casha,Green,7,1,2,10
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Kathy Goodwin,Working Class,10,3,8,21
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Write-in,,4,0,0,4
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,,Under Vote Count,,17,8,19,44
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Ballots Cast,,896,682,1240,2818
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Kristen McDonald Rivet,Democrat,374,301,794,1469
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Paul Junge,Republican,466,363,401,1230
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Steve Barcelo,Libertarian,15,5,16,36
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,James Allen Little,U.S. Taxpayers,3,1,0,4
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Jim Casha,Green,7,1,2,10
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Kathy Goodwin,Working Class,10,3,8,21
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Write-in,,4,0,0,4
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 4, Precinct 8",U.S. House,8,Under Vote Count,,17,8,19,44
 Midland,"City of Midland, Ward 4, Precinct 8",State House,95,Ballots Cast,,896,682,1240,2818
 Midland,"City of Midland, Ward 4, Precinct 8",State House,95,Sabrina Lopez,Democrat,283,255,685,1223
 Midland,"City of Midland, Ward 4, Precinct 8",State House,95,Bill G. Schuette,Republican,583,413,503,1499
@@ -1997,16 +1997,16 @@ Midland,"City of Midland, Ward 5, Precinct 9",U.S. Senate,,Doug Dern,Natural Law
 Midland,"City of Midland, Ward 5, Precinct 9",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 5, Precinct 9",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"City of Midland, Ward 5, Precinct 9",U.S. Senate,,Under Vote Count,,20,5,15,40
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Ballots Cast,,955,570,1045,2570
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Kristen McDonald Rivet,Democrat,415,260,740,1415
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Paul Junge,Republican,456,286,269,1011
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Steve Barcelo,Libertarian,22,6,8,36
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,James Allen Little,U.S. Taxpayers,5,3,2,10
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Jim Casha,Green,2,1,1,4
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Kathy Goodwin,Working Class,29,7,10,46
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Write-in,,2,1,0,3
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,,Under Vote Count,,24,6,15,45
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Ballots Cast,,955,570,1045,2570
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Kristen McDonald Rivet,Democrat,415,260,740,1415
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Paul Junge,Republican,456,286,269,1011
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Steve Barcelo,Libertarian,22,6,8,36
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,James Allen Little,U.S. Taxpayers,5,3,2,10
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Jim Casha,Green,2,1,1,4
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Kathy Goodwin,Working Class,29,7,10,46
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Write-in,,2,1,0,3
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 5, Precinct 9",U.S. House,8,Under Vote Count,,24,6,15,45
 Midland,"City of Midland, Ward 5, Precinct 9",State House,95,Ballots Cast,,955,570,1045,2570
 Midland,"City of Midland, Ward 5, Precinct 9",State House,95,Sabrina Lopez,Democrat,344,227,637,1208
 Midland,"City of Midland, Ward 5, Precinct 9",State House,95,Bill G. Schuette,Republican,578,326,375,1279
@@ -2195,16 +2195,16 @@ Midland,"City of Midland, Ward 5, Precinct 10",U.S. Senate,,Doug Dern,Natural La
 Midland,"City of Midland, Ward 5, Precinct 10",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"City of Midland, Ward 5, Precinct 10",U.S. Senate,,Over Vote Count,,2,0,0,2
 Midland,"City of Midland, Ward 5, Precinct 10",U.S. Senate,,Under Vote Count,,21,5,14,40
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Ballots Cast,,951,692,1168,2811
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Kristen McDonald Rivet,Democrat,399,299,739,1437
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Paul Junge,Republican,481,373,391,1245
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Steve Barcelo,Libertarian,18,4,10,32
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,James Allen Little,U.S. Taxpayers,8,0,2,10
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Jim Casha,Green,5,3,3,11
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Kathy Goodwin,Working Class,16,5,5,26
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Write-in,,2,0,0,2
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,,Under Vote Count,,22,8,18,48
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Ballots Cast,,951,692,1168,2811
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Kristen McDonald Rivet,Democrat,399,299,739,1437
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Paul Junge,Republican,481,373,391,1245
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Steve Barcelo,Libertarian,18,4,10,32
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,James Allen Little,U.S. Taxpayers,8,0,2,10
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Jim Casha,Green,5,3,3,11
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Kathy Goodwin,Working Class,16,5,5,26
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Write-in,,2,0,0,2
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"City of Midland, Ward 5, Precinct 10",U.S. House,8,Under Vote Count,,22,8,18,48
 Midland,"City of Midland, Ward 5, Precinct 10",State House,95,Ballots Cast,,951,692,1168,2811
 Midland,"City of Midland, Ward 5, Precinct 10",State House,95,Sabrina Lopez,Democrat,291,267,647,1205
 Midland,"City of Midland, Ward 5, Precinct 10",State House,95,Bill G. Schuette,Republican,619,408,500,1527
@@ -2391,14 +2391,14 @@ Midland,"Edenville Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,9,0,
 Midland,"Edenville Township, Precinct 1",U.S. Senate,,Write-in,,1,0,0,1
 Midland,"Edenville Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Edenville Township, Precinct 1",U.S. Senate,,Under Vote Count,,27,1,0,28
-Midland,"Edenville Township, Precinct 1",U.S. House,,Ballots Cast,,1373,235,0,1608
-Midland,"Edenville Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,353,49,0,402
-Midland,"Edenville Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,952,177,0,1129
-Midland,"Edenville Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,17,3,0,20
-Midland,"Edenville Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,11,1,0,12
-Midland,"Edenville Township, Precinct 1",U.S. House,,Write-in,,6,0,0,6
-Midland,"Edenville Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Edenville Township, Precinct 1",U.S. House,,Under Vote Count,,34,5,0,39
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Ballots Cast,,1373,235,0,1608
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Michael Lynch,Democrat,353,49,0,402
+Midland,"Edenville Township, Precinct 1",U.S. House,8,John R. Moolenaar,Republican,952,177,0,1129
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Ben DeJong,Libertarian,17,3,0,20
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Scott Adams,U.S. Taxpayers,11,1,0,12
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Write-in,,6,0,0,6
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Edenville Township, Precinct 1",U.S. House,8,Under Vote Count,,34,5,0,39
 Midland,"Edenville Township, Precinct 1",State House,95,Ballots Cast,,1373,235,0,1608
 Midland,"Edenville Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,362,49,0,411
 Midland,"Edenville Township, Precinct 1",State House,95,Bill G. Schuette,Republican,967,177,0,1144
@@ -2617,14 +2617,14 @@ Midland,"Geneva Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,2,0,0,
 Midland,"Geneva Township, Precinct 1",U.S. Senate,,Write-in,,1,0,0,1
 Midland,"Geneva Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Geneva Township, Precinct 1",U.S. Senate,,Under Vote Count,,21,1,0,22
-Midland,"Geneva Township, Precinct 1",U.S. House,,Ballots Cast,,608,52,0,660
-Midland,"Geneva Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,159,9,0,168
-Midland,"Geneva Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,401,42,0,443
-Midland,"Geneva Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,12,0,0,12
-Midland,"Geneva Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,9,0,0,9
-Midland,"Geneva Township, Precinct 1",U.S. House,,Write-in,,1,0,0,1
-Midland,"Geneva Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Geneva Township, Precinct 1",U.S. House,,Under Vote Count,,26,1,0,27
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Ballots Cast,,608,52,0,660
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,159,9,0,168
+Midland,"Geneva Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,401,42,0,443
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,12,0,0,12
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,9,0,0,9
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Write-in,,1,0,0,1
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0,0
+Midland,"Geneva Township, Precinct 1",U.S. House,2,Under Vote Count,,26,1,0,27
 Midland,"Geneva Township, Precinct 1",State House,95,Ballots Cast,,608,52,0,660
 Midland,"Geneva Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,157,9,0,166
 Midland,"Geneva Township, Precinct 1",State House,95,Bill G. Schuette,Republican,423,42,0,465
@@ -2832,14 +2832,14 @@ Midland,"Greendale Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,
 Midland,"Greendale Township, Precinct 1",U.S. Senate,,Write-in,,3,0,0,3
 Midland,"Greendale Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Greendale Township, Precinct 1",U.S. Senate,,Under Vote Count,,20,5,0,25
-Midland,"Greendale Township, Precinct 1",U.S. House,,Ballots Cast,,848,137,0,985
-Midland,"Greendale Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,203,26,0,229
-Midland,"Greendale Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,582,102,0,684
-Midland,"Greendale Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,19,2,0,21
-Midland,"Greendale Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,12,0,0,12
-Midland,"Greendale Township, Precinct 1",U.S. House,,Write-in,,4,0,0,4
-Midland,"Greendale Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Greendale Township, Precinct 1",U.S. House,,Under Vote Count,,28,7,0,35
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Ballots Cast,,848,137,0,985
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,203,26,0,229
+Midland,"Greendale Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,582,102,0,684
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,19,2,0,21
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,12,0,0,12
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Write-in,,4,0,0,4
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0,0
+Midland,"Greendale Township, Precinct 1",U.S. House,2,Under Vote Count,,28,7,0,35
 Midland,"Greendale Township, Precinct 1",State House,95,Ballots Cast,,848,137,0,985
 Midland,"Greendale Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,198,30,0,228
 Midland,"Greendale Township, Precinct 1",State House,95,Bill G. Schuette,Republican,612,101,0,713
@@ -3071,16 +3071,16 @@ Midland,"Homer Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,3,1,0,4
 Midland,"Homer Township, Precinct 1",U.S. Senate,,Write-in,,1,0,0,1
 Midland,"Homer Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,0,1
 Midland,"Homer Township, Precinct 1",U.S. Senate,,Under Vote Count,,9,1,0,10
-Midland,"Homer Township, Precinct 1",U.S. House,,Ballots Cast,,652,143,0,795
-Midland,"Homer Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,273,55,0,328
-Midland,"Homer Township, Precinct 1",U.S. House,,Paul Junge,Republican,349,81,0,430
-Midland,"Homer Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,5,2,0,7
-Midland,"Homer Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,2,0,0,2
-Midland,"Homer Township, Precinct 1",U.S. House,,Jim Casha,Green,5,1,0,6
-Midland,"Homer Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,5,0,0,5
-Midland,"Homer Township, Precinct 1",U.S. House,,Write-in,,2,0,0,2
-Midland,"Homer Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Homer Township, Precinct 1",U.S. House,,Under Vote Count,,11,4,0,15
+Midland,"Homer Township, Precinct 1",U.S. House,8,Ballots Cast,,652,143,0,795
+Midland,"Homer Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,273,55,0,328
+Midland,"Homer Township, Precinct 1",U.S. House,8,Paul Junge,Republican,349,81,0,430
+Midland,"Homer Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,5,2,0,7
+Midland,"Homer Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,2,0,0,2
+Midland,"Homer Township, Precinct 1",U.S. House,8,Jim Casha,Green,5,1,0,6
+Midland,"Homer Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,5,0,0,5
+Midland,"Homer Township, Precinct 1",U.S. House,8,Write-in,,2,0,0,2
+Midland,"Homer Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Homer Township, Precinct 1",U.S. House,8,Under Vote Count,,11,4,0,15
 Midland,"Homer Township, Precinct 1",State House,95,Ballots Cast,,652,143,0,795
 Midland,"Homer Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,229,44,0,273
 Midland,"Homer Township, Precinct 1",State House,95,Bill G. Schuette,Republican,403,95,0,498
@@ -3292,16 +3292,16 @@ Midland,"Homer Township, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,1,1,0,2
 Midland,"Homer Township, Precinct 2",U.S. Senate,,Write-in,,1,0,0,1
 Midland,"Homer Township, Precinct 2",U.S. Senate,,Over Vote Count,,1,1,0,2
 Midland,"Homer Township, Precinct 2",U.S. Senate,,Under Vote Count,,16,1,0,17
-Midland,"Homer Township, Precinct 2",U.S. House,,Ballots Cast,,621,148,0,769
-Midland,"Homer Township, Precinct 2",U.S. House,,Kristen McDonald Rivet,Democrat,223,50,0,273
-Midland,"Homer Township, Precinct 2",U.S. House,,Paul Junge,Republican,351,92,0,443
-Midland,"Homer Township, Precinct 2",U.S. House,,Steve Barcelo,Libertarian,4,2,0,6
-Midland,"Homer Township, Precinct 2",U.S. House,,James Allen Little,U.S. Taxpayers,6,0,0,6
-Midland,"Homer Township, Precinct 2",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Homer Township, Precinct 2",U.S. House,,Kathy Goodwin,Working Class,14,1,0,15
-Midland,"Homer Township, Precinct 2",U.S. House,,Write-in,,2,0,0,2
-Midland,"Homer Township, Precinct 2",U.S. House,,Over Vote Count,,0,1,0,1
-Midland,"Homer Township, Precinct 2",U.S. House,,Under Vote Count,,19,2,0,21
+Midland,"Homer Township, Precinct 2",U.S. House,8,Ballots Cast,,621,148,0,769
+Midland,"Homer Township, Precinct 2",U.S. House,8,Kristen McDonald Rivet,Democrat,223,50,0,273
+Midland,"Homer Township, Precinct 2",U.S. House,8,Paul Junge,Republican,351,92,0,443
+Midland,"Homer Township, Precinct 2",U.S. House,8,Steve Barcelo,Libertarian,4,2,0,6
+Midland,"Homer Township, Precinct 2",U.S. House,8,James Allen Little,U.S. Taxpayers,6,0,0,6
+Midland,"Homer Township, Precinct 2",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Homer Township, Precinct 2",U.S. House,8,Kathy Goodwin,Working Class,14,1,0,15
+Midland,"Homer Township, Precinct 2",U.S. House,8,Write-in,,2,0,0,2
+Midland,"Homer Township, Precinct 2",U.S. House,8,Over Vote Count,,0,1,0,1
+Midland,"Homer Township, Precinct 2",U.S. House,8,Under Vote Count,,19,2,0,21
 Midland,"Homer Township, Precinct 2",State House,95,Ballots Cast,,621,148,0,769
 Midland,"Homer Township, Precinct 2",State House,95,Sabrina Lopez,Democrat,186,42,0,228
 Midland,"Homer Township, Precinct 2",State House,95,Bill G. Schuette,Republican,410,102,0,512
@@ -3517,16 +3517,16 @@ Midland,"Homer Township, Precinct 3",U.S. Senate,,Doug Dern,Natural Law,5,0,0,5
 Midland,"Homer Township, Precinct 3",U.S. Senate,,Write-in,,2,1,0,3
 Midland,"Homer Township, Precinct 3",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Homer Township, Precinct 3",U.S. Senate,,Under Vote Count,,24,3,0,27
-Midland,"Homer Township, Precinct 3",U.S. House,,Ballots Cast,,854,177,0,1031
-Midland,"Homer Township, Precinct 3",U.S. House,,Kristen McDonald Rivet,Democrat,344,56,0,400
-Midland,"Homer Township, Precinct 3",U.S. House,,Paul Junge,Republican,441,114,0,555
-Midland,"Homer Township, Precinct 3",U.S. House,,Steve Barcelo,Libertarian,14,1,0,15
-Midland,"Homer Township, Precinct 3",U.S. House,,James Allen Little,U.S. Taxpayers,7,0,0,7
-Midland,"Homer Township, Precinct 3",U.S. House,,Jim Casha,Green,1,1,0,2
-Midland,"Homer Township, Precinct 3",U.S. House,,Kathy Goodwin,Working Class,14,2,0,16
-Midland,"Homer Township, Precinct 3",U.S. House,,Write-in,,3,1,0,4
-Midland,"Homer Township, Precinct 3",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Homer Township, Precinct 3",U.S. House,,Under Vote Count,,30,2,0,32
+Midland,"Homer Township, Precinct 3",U.S. House,8,Ballots Cast,,854,177,0,1031
+Midland,"Homer Township, Precinct 3",U.S. House,8,Kristen McDonald Rivet,Democrat,344,56,0,400
+Midland,"Homer Township, Precinct 3",U.S. House,8,Paul Junge,Republican,441,114,0,555
+Midland,"Homer Township, Precinct 3",U.S. House,8,Steve Barcelo,Libertarian,14,1,0,15
+Midland,"Homer Township, Precinct 3",U.S. House,8,James Allen Little,U.S. Taxpayers,7,0,0,7
+Midland,"Homer Township, Precinct 3",U.S. House,8,Jim Casha,Green,1,1,0,2
+Midland,"Homer Township, Precinct 3",U.S. House,8,Kathy Goodwin,Working Class,14,2,0,16
+Midland,"Homer Township, Precinct 3",U.S. House,8,Write-in,,3,1,0,4
+Midland,"Homer Township, Precinct 3",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Homer Township, Precinct 3",U.S. House,8,Under Vote Count,,30,2,0,32
 Midland,"Homer Township, Precinct 3",State House,95,Ballots Cast,,854,177,0,1031
 Midland,"Homer Township, Precinct 3",State House,95,Sabrina Lopez,Democrat,279,44,0,323
 Midland,"Homer Township, Precinct 3",State House,95,Bill G. Schuette,Republican,539,129,0,668
@@ -3738,16 +3738,16 @@ Midland,"Hope Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,3,0,0,3
 Midland,"Hope Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,2,0,0,2
 Midland,"Hope Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Hope Township, Precinct 1",U.S. Senate,,Under Vote Count,,24,3,0,27
-Midland,"Hope Township, Precinct 1",U.S. House,,Ballots Cast,,839,122,0,961
-Midland,"Hope Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,243,30,0,273
-Midland,"Hope Township, Precinct 1",U.S. House,,Paul Junge,Republican,530,84,0,614
-Midland,"Hope Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,13,2,0,15
-Midland,"Hope Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,2,0,0,2
-Midland,"Hope Township, Precinct 1",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Hope Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,19,3,0,22
-Midland,"Hope Township, Precinct 1",U.S. House,,Write-in,,1,0,0,1
-Midland,"Hope Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Hope Township, Precinct 1",U.S. House,,Under Vote Count,,29,3,0,32
+Midland,"Hope Township, Precinct 1",U.S. House,8,Ballots Cast,,839,122,0,961
+Midland,"Hope Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,243,30,0,273
+Midland,"Hope Township, Precinct 1",U.S. House,8,Paul Junge,Republican,530,84,0,614
+Midland,"Hope Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,13,2,0,15
+Midland,"Hope Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,2,0,0,2
+Midland,"Hope Township, Precinct 1",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Hope Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,19,3,0,22
+Midland,"Hope Township, Precinct 1",U.S. House,8,Write-in,,1,0,0,1
+Midland,"Hope Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Hope Township, Precinct 1",U.S. House,8,Under Vote Count,,29,3,0,32
 Midland,"Hope Township, Precinct 1",State House,95,Ballots Cast,,839,122,0,961
 Midland,"Hope Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,195,28,0,223
 Midland,"Hope Township, Precinct 1",State House,95,Bill G. Schuette,Republican,610,91,0,701
@@ -3962,15 +3962,15 @@ Midland,"Ingersoll Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,4,0
 Midland,"Ingersoll Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,5,0,0,5
 Midland,"Ingersoll Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Ingersoll Township, Precinct 1",U.S. Senate,,Under Vote Count,,18,2,0,20
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Ballots Cast,,815,164,0,979
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,286,48,0,334
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Paul Junge,Republican,479,110,0,589
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,13,1,0,14
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,5,0,0,5
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Jim Casha,Green,3,0,0,3
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,12,1,0,13
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Ingersoll Township, Precinct 1",U.S. House,,Under Vote Count,,17,4,0,21
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Ballots Cast,,815,164,0,979
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,286,48,0,334
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Paul Junge,Republican,479,110,0,589
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,13,1,0,14
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,5,0,0,5
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Jim Casha,Green,3,0,0,3
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,12,1,0,13
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Ingersoll Township, Precinct 1",U.S. House,8,Under Vote Count,,17,4,0,21
 Midland,"Ingersoll Township, Precinct 1",State House,95,Ballots Cast,,815,164,0,979
 Midland,"Ingersoll Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,237,38,0,275
 Midland,"Ingersoll Township, Precinct 1",State House,95,Bill G. Schuette,Republican,544,118,0,662
@@ -4184,16 +4184,16 @@ Midland,"Ingersoll Township, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,2,0,
 Midland,"Ingersoll Township, Precinct 2",U.S. Senate,,Write-in,,3,0,0,3
 Midland,"Ingersoll Township, Precinct 2",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Ingersoll Township, Precinct 2",U.S. Senate,,Under Vote Count,,15,2,0,17
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Ballots Cast,,629,76,0,705
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Kristen McDonald Rivet,Democrat,195,33,0,228
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Paul Junge,Republican,397,39,0,436
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Steve Barcelo,Libertarian,4,0,0,4
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,James Allen Little,U.S. Taxpayers,3,1,0,4
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Kathy Goodwin,Working Class,10,0,0,10
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Write-in,,2,0,0,2
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Ingersoll Township, Precinct 2",U.S. House,,Under Vote Count,,16,3,0,19
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Ballots Cast,,629,76,0,705
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Kristen McDonald Rivet,Democrat,195,33,0,228
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Paul Junge,Republican,397,39,0,436
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Steve Barcelo,Libertarian,4,0,0,4
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,James Allen Little,U.S. Taxpayers,3,1,0,4
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Kathy Goodwin,Working Class,10,0,0,10
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Write-in,,2,0,0,2
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Ingersoll Township, Precinct 2",U.S. House,8,Under Vote Count,,16,3,0,19
 Midland,"Ingersoll Township, Precinct 2",State House,95,Ballots Cast,,629,76,0,705
 Midland,"Ingersoll Township, Precinct 2",State House,95,Sabrina Lopez,Democrat,151,25,0,176
 Midland,"Ingersoll Township, Precinct 2",State House,95,Bill G. Schuette,Republican,456,48,0,504
@@ -4429,13 +4429,13 @@ Midland,"Jasper Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,1,0,0,
 Midland,"Jasper Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,1,0,0,1
 Midland,"Jasper Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Jasper Township, Precinct 1",U.S. Senate,,Under Vote Count,,10,0,0,10
-Midland,"Jasper Township, Precinct 1",U.S. House,,Ballots Cast,,573,24,0,597
-Midland,"Jasper Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,131,5,0,136
-Midland,"Jasper Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,408,18,0,426
-Midland,"Jasper Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,7,0,0,7
-Midland,"Jasper Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,7,0,0,7
-Midland,"Jasper Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Jasper Township, Precinct 1",U.S. House,,Under Vote Count,,20,1,0,21
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Ballots Cast,,573,24,0,597
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,131,5,0,136
+Midland,"Jasper Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,408,18,0,426
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,7,0,0,7
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,7,0,0,7
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Over Vote Count,,0,0,0,0
+Midland,"Jasper Township, Precinct 1",U.S. House,2,Under Vote Count,,20,1,0,21
 Midland,"Jasper Township, Precinct 1",State House,95,Ballots Cast,,573,24,0,597
 Midland,"Jasper Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,135,7,0,142
 Midland,"Jasper Township, Precinct 1",State House,95,Bill G. Schuette,Republican,416,17,0,433
@@ -4638,16 +4638,16 @@ Midland,"Jerome Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,4,1,3,
 Midland,"Jerome Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,3,0,2,5
 Midland,"Jerome Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,1,2
 Midland,"Jerome Township, Precinct 1",U.S. Senate,,Under Vote Count,,15,5,9,29
-Midland,"Jerome Township, Precinct 1",U.S. House,,Ballots Cast,,449,272,678,1399
-Midland,"Jerome Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,111,77,357,545
-Midland,"Jerome Township, Precinct 1",U.S. House,,Paul Junge,Republican,287,180,300,767
-Midland,"Jerome Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,16,4,4,24
-Midland,"Jerome Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,1,1,2,4
-Midland,"Jerome Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,16,2,7,25
-Midland,"Jerome Township, Precinct 1",U.S. House,,Write-in,,1,0,0,1
-Midland,"Jerome Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Jerome Township, Precinct 1",U.S. House,,Under Vote Count,,17,6,6,29
-Midland,"Jerome Township, Precinct 1",U.S. House,,Jim Casha,Green,0,2,2,4
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Ballots Cast,,449,272,678,1399
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,111,77,357,545
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Paul Junge,Republican,287,180,300,767
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,16,4,4,24
+Midland,"Jerome Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,1,1,2,4
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,16,2,7,25
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Write-in,,1,0,0,1
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Under Vote Count,,17,6,6,29
+Midland,"Jerome Township, Precinct 1",U.S. House,8,Jim Casha,Green,0,2,2,4
 Midland,"Jerome Township, Precinct 1",State House,95,Ballots Cast,,449,272,678,1399
 Midland,"Jerome Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,79,67,291,437
 Midland,"Jerome Township, Precinct 1",State House,95,Bill G. Schuette,Republican,350,197,377,924
@@ -4877,16 +4877,16 @@ Midland,"Jerome Township, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,7,1,7,1
 Midland,"Jerome Township, Precinct 2",U.S. Senate,,Write-in,,4,0,0,4
 Midland,"Jerome Township, Precinct 2",U.S. Senate,,Over Vote Count,,0,0,1,1
 Midland,"Jerome Township, Precinct 2",U.S. Senate,,Under Vote Count,,23,5,11,39
-Midland,"Jerome Township, Precinct 2",U.S. House,,Ballots Cast,,617,306,596,1519
-Midland,"Jerome Township, Precinct 2",U.S. House,,Kristen McDonald Rivet,Democrat,122,67,285,474
-Midland,"Jerome Township, Precinct 2",U.S. House,,Paul Junge,Republican,415,226,277,918
-Midland,"Jerome Township, Precinct 2",U.S. House,,Steve Barcelo,Libertarian,18,1,2,21
-Midland,"Jerome Township, Precinct 2",U.S. House,,James Allen Little,U.S. Taxpayers,12,0,3,15
-Midland,"Jerome Township, Precinct 2",U.S. House,,Jim Casha,Green,4,2,0,6
-Midland,"Jerome Township, Precinct 2",U.S. House,,Kathy Goodwin,Working Class,20,2,14,36
-Midland,"Jerome Township, Precinct 2",U.S. House,,Write-in,,3,0,0,3
-Midland,"Jerome Township, Precinct 2",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Jerome Township, Precinct 2",U.S. House,,Under Vote Count,,23,8,15,46
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Ballots Cast,,617,306,596,1519
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Kristen McDonald Rivet,Democrat,122,67,285,474
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Paul Junge,Republican,415,226,277,918
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Steve Barcelo,Libertarian,18,1,2,21
+Midland,"Jerome Township, Precinct 2",U.S. House,8,James Allen Little,U.S. Taxpayers,12,0,3,15
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Jim Casha,Green,4,2,0,6
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Kathy Goodwin,Working Class,20,2,14,36
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Write-in,,3,0,0,3
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Jerome Township, Precinct 2",U.S. House,8,Under Vote Count,,23,8,15,46
 Midland,"Jerome Township, Precinct 2",State House,95,Ballots Cast,,617,306,596,1519
 Midland,"Jerome Township, Precinct 2",State House,95,Sabrina Lopez,Democrat,88,56,225,369
 Midland,"Jerome Township, Precinct 2",State House,95,Bill G. Schuette,Republican,492,239,344,1075
@@ -5115,16 +5115,16 @@ Midland,"Larkin Township, Precinct 1",U.S. Senate,,Dave Stein,U.S. Taxpayers,7,1
 Midland,"Larkin Township, Precinct 1",U.S. Senate,,Douglas P. Marsh,Green,2,3,3,8
 Midland,"Larkin Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Larkin Township, Precinct 1",U.S. Senate,,Under Vote Count,,12,3,16,31
-Midland,"Larkin Township, Precinct 1",U.S. House,,Ballots Cast,,519,330,581,1430
-Midland,"Larkin Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,142,106,275,523
-Midland,"Larkin Township, Precinct 1",U.S. House,,Paul Junge,Republican,339,211,280,830
-Midland,"Larkin Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,10,1,4,15
-Midland,"Larkin Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,4,2,0,6
-Midland,"Larkin Township, Precinct 1",U.S. House,,Jim Casha,Green,5,2,2,9
-Midland,"Larkin Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,4,4,4,12
-Midland,"Larkin Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Larkin Township, Precinct 1",U.S. House,,Under Vote Count,,15,3,15,33
-Midland,"Larkin Township, Precinct 1",U.S. House,,Write-in,,0,1,1,2
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Ballots Cast,,519,330,581,1430
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,142,106,275,523
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Paul Junge,Republican,339,211,280,830
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,10,1,4,15
+Midland,"Larkin Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,4,2,0,6
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Jim Casha,Green,5,2,2,9
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,4,4,4,12
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Under Vote Count,,15,3,15,33
+Midland,"Larkin Township, Precinct 1",U.S. House,8,Write-in,,0,1,1,2
 Midland,"Larkin Township, Precinct 1",State House,95,Ballots Cast,,519,330,581,1430
 Midland,"Larkin Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,95,76,223,394
 Midland,"Larkin Township, Precinct 1",State House,95,Bill G. Schuette,Republican,406,248,335,989
@@ -5341,16 +5341,16 @@ Midland,"Larkin Township, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,1,0,0,1
 Midland,"Larkin Township, Precinct 2",U.S. Senate,,Write-in,,1,0,0,1
 Midland,"Larkin Township, Precinct 2",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Larkin Township, Precinct 2",U.S. Senate,,Under Vote Count,,9,3,9,21
-Midland,"Larkin Township, Precinct 2",U.S. House,,Ballots Cast,,507,213,469,1189
-Midland,"Larkin Township, Precinct 2",U.S. House,,Kristen McDonald Rivet,Democrat,161,73,252,486
-Midland,"Larkin Township, Precinct 2",U.S. House,,Paul Junge,Republican,304,132,195,631
-Midland,"Larkin Township, Precinct 2",U.S. House,,Steve Barcelo,Libertarian,10,1,5,16
-Midland,"Larkin Township, Precinct 2",U.S. House,,James Allen Little,U.S. Taxpayers,6,0,1,7
-Midland,"Larkin Township, Precinct 2",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Larkin Township, Precinct 2",U.S. House,,Kathy Goodwin,Working Class,6,4,4,14
-Midland,"Larkin Township, Precinct 2",U.S. House,,Write-in,,4,0,0,4
-Midland,"Larkin Township, Precinct 2",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Larkin Township, Precinct 2",U.S. House,,Under Vote Count,,14,3,12,29
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Ballots Cast,,507,213,469,1189
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Kristen McDonald Rivet,Democrat,161,73,252,486
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Paul Junge,Republican,304,132,195,631
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Steve Barcelo,Libertarian,10,1,5,16
+Midland,"Larkin Township, Precinct 2",U.S. House,8,James Allen Little,U.S. Taxpayers,6,0,1,7
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Kathy Goodwin,Working Class,6,4,4,14
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Write-in,,4,0,0,4
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Larkin Township, Precinct 2",U.S. House,8,Under Vote Count,,14,3,12,29
 Midland,"Larkin Township, Precinct 2",State House,95,Ballots Cast,,507,213,469,1189
 Midland,"Larkin Township, Precinct 2",State House,95,Sabrina Lopez,Democrat,96,64,211,371
 Midland,"Larkin Township, Precinct 2",State House,95,Bill G. Schuette,Republican,392,144,243,779
@@ -5554,15 +5554,15 @@ Midland,"Larkin Township, Precinct 3",U.S. Senate,,Douglas P. Marsh,Green,5,1,7,
 Midland,"Larkin Township, Precinct 3",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Larkin Township, Precinct 3",U.S. Senate,,Under Vote Count,,6,1,4,11
 Midland,"Larkin Township, Precinct 3",U.S. Senate,,Write-in,,0,2,1,3
-Midland,"Larkin Township, Precinct 3",U.S. House,,Ballots Cast,,403,197,444,1044
-Midland,"Larkin Township, Precinct 3",U.S. House,,Kristen McDonald Rivet,Democrat,142,77,251,470
-Midland,"Larkin Township, Precinct 3",U.S. House,,Paul Junge,Republican,241,111,175,527
-Midland,"Larkin Township, Precinct 3",U.S. House,,Steve Barcelo,Libertarian,4,3,6,13
-Midland,"Larkin Township, Precinct 3",U.S. House,,Kathy Goodwin,Working Class,3,2,0,5
-Midland,"Larkin Township, Precinct 3",U.S. House,,Over Vote Count,,1,0,0,1
-Midland,"Larkin Township, Precinct 3",U.S. House,,Under Vote Count,,12,2,7,21
-Midland,"Larkin Township, Precinct 3",U.S. House,,Jim Casha,Green,0,0,4,4
-Midland,"Larkin Township, Precinct 3",U.S. House,,Write-in,,0,2,1,3
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Ballots Cast,,403,197,444,1044
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Kristen McDonald Rivet,Democrat,142,77,251,470
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Paul Junge,Republican,241,111,175,527
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Steve Barcelo,Libertarian,4,3,6,13
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Kathy Goodwin,Working Class,3,2,0,5
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Over Vote Count,,1,0,0,1
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Under Vote Count,,12,2,7,21
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Jim Casha,Green,0,0,4,4
+Midland,"Larkin Township, Precinct 3",U.S. House,8,Write-in,,0,2,1,3
 Midland,"Larkin Township, Precinct 3",State House,95,Ballots Cast,,403,197,444,1044
 Midland,"Larkin Township, Precinct 3",State House,95,Sabrina Lopez,Democrat,104,64,210,378
 Midland,"Larkin Township, Precinct 3",State House,95,Bill G. Schuette,Republican,285,127,222,634
@@ -5767,16 +5767,16 @@ Midland,"Lee Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,4,1,0,5
 Midland,"Lee Township, Precinct 1",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"Lee Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Lee Township, Precinct 1",U.S. Senate,,Under Vote Count,,28,2,0,30
-Midland,"Lee Township, Precinct 1",U.S. House,,Ballots Cast,,944,179,0,1123
-Midland,"Lee Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,297,50,0,347
-Midland,"Lee Township, Precinct 1",U.S. House,,Paul Junge,Republican,559,121,0,680
-Midland,"Lee Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,11,3,0,14
-Midland,"Lee Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,13,1,0,14
-Midland,"Lee Township, Precinct 1",U.S. House,,Jim Casha,Green,7,0,0,7
-Midland,"Lee Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,18,1,0,19
-Midland,"Lee Township, Precinct 1",U.S. House,,Write-in,,2,0,0,2
-Midland,"Lee Township, Precinct 1",U.S. House,,Over Vote Count,,1,0,0,1
-Midland,"Lee Township, Precinct 1",U.S. House,,Under Vote Count,,36,3,0,39
+Midland,"Lee Township, Precinct 1",U.S. House,8,Ballots Cast,,944,179,0,1123
+Midland,"Lee Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,297,50,0,347
+Midland,"Lee Township, Precinct 1",U.S. House,8,Paul Junge,Republican,559,121,0,680
+Midland,"Lee Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,11,3,0,14
+Midland,"Lee Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,13,1,0,14
+Midland,"Lee Township, Precinct 1",U.S. House,8,Jim Casha,Green,7,0,0,7
+Midland,"Lee Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,18,1,0,19
+Midland,"Lee Township, Precinct 1",U.S. House,8,Write-in,,2,0,0,2
+Midland,"Lee Township, Precinct 1",U.S. House,8,Over Vote Count,,1,0,0,1
+Midland,"Lee Township, Precinct 1",U.S. House,8,Under Vote Count,,36,3,0,39
 Midland,"Lee Township, Precinct 1",State House,95,Ballots Cast,,944,179,0,1123
 Midland,"Lee Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,248,43,0,291
 Midland,"Lee Township, Precinct 1",State House,95,Bill G. Schuette,Republican,652,131,0,783
@@ -5993,16 +5993,16 @@ Midland,"Lee Township, Precinct 2",U.S. Senate,,Doug Dern,Natural Law,3,0,0,3
 Midland,"Lee Township, Precinct 2",U.S. Senate,,Write-in,,3,0,0,3
 Midland,"Lee Township, Precinct 2",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Lee Township, Precinct 2",U.S. Senate,,Under Vote Count,,21,0,0,21
-Midland,"Lee Township, Precinct 2",U.S. House,,Ballots Cast,,854,166,0,1020
-Midland,"Lee Township, Precinct 2",U.S. House,,Kristen McDonald Rivet,Democrat,273,50,0,323
-Midland,"Lee Township, Precinct 2",U.S. House,,Paul Junge,Republican,525,110,0,635
-Midland,"Lee Township, Precinct 2",U.S. House,,Steve Barcelo,Libertarian,6,3,0,9
-Midland,"Lee Township, Precinct 2",U.S. House,,James Allen Little,U.S. Taxpayers,9,1,0,10
-Midland,"Lee Township, Precinct 2",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Lee Township, Precinct 2",U.S. House,,Kathy Goodwin,Working Class,13,1,0,14
-Midland,"Lee Township, Precinct 2",U.S. House,,Write-in,,3,0,0,3
-Midland,"Lee Township, Precinct 2",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Lee Township, Precinct 2",U.S. House,,Under Vote Count,,23,1,0,24
+Midland,"Lee Township, Precinct 2",U.S. House,8,Ballots Cast,,854,166,0,1020
+Midland,"Lee Township, Precinct 2",U.S. House,8,Kristen McDonald Rivet,Democrat,273,50,0,323
+Midland,"Lee Township, Precinct 2",U.S. House,8,Paul Junge,Republican,525,110,0,635
+Midland,"Lee Township, Precinct 2",U.S. House,8,Steve Barcelo,Libertarian,6,3,0,9
+Midland,"Lee Township, Precinct 2",U.S. House,8,James Allen Little,U.S. Taxpayers,9,1,0,10
+Midland,"Lee Township, Precinct 2",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Lee Township, Precinct 2",U.S. House,8,Kathy Goodwin,Working Class,13,1,0,14
+Midland,"Lee Township, Precinct 2",U.S. House,8,Write-in,,3,0,0,3
+Midland,"Lee Township, Precinct 2",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Lee Township, Precinct 2",U.S. House,8,Under Vote Count,,23,1,0,24
 Midland,"Lee Township, Precinct 2",State House,95,Ballots Cast,,854,166,0,1020
 Midland,"Lee Township, Precinct 2",State House,95,Sabrina Lopez,Democrat,205,47,0,252
 Midland,"Lee Township, Precinct 2",State House,95,Bill G. Schuette,Republican,614,116,0,730
@@ -6213,16 +6213,16 @@ Midland,"Lincoln Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,4,0,0,
 Midland,"Lincoln Township, Precinct 1",U.S. Senate,,Write-in,,3,1,0,4
 Midland,"Lincoln Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Lincoln Township, Precinct 1",U.S. Senate,,Under Vote Count,,43,4,0,47
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Ballots Cast,,1308,304,0,1612
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,495,89,0,584
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Paul Junge,Republican,712,203,0,915
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,9,1,0,10
-Midland,"Lincoln Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,10,1,0,11
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Jim Casha,Green,4,0,0,4
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,27,4,0,31
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Write-in,,5,1,0,6
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Lincoln Township, Precinct 1",U.S. House,,Under Vote Count,,46,5,0,51
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Ballots Cast,,1308,304,0,1612
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,495,89,0,584
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Paul Junge,Republican,712,203,0,915
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,9,1,0,10
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,10,1,0,11
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Jim Casha,Green,4,0,0,4
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,27,4,0,31
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Write-in,,5,1,0,6
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Lincoln Township, Precinct 1",U.S. House,8,Under Vote Count,,46,5,0,51
 Midland,"Lincoln Township, Precinct 1",State House,95,Ballots Cast,,1308,304,0,1612
 Midland,"Lincoln Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,400,71,0,471
 Midland,"Lincoln Township, Precinct 1",State House,95,Bill G. Schuette,Republican,855,225,0,1080
@@ -6447,16 +6447,16 @@ Midland,"Midland Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,5,0,0,
 Midland,"Midland Township, Precinct 1",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"Midland Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Midland Township, Precinct 1",U.S. Senate,,Under Vote Count,,35,0,0,35
-Midland,"Midland Township, Precinct 1",U.S. House,,Ballots Cast,,1127,211,0,1338
-Midland,"Midland Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,430,70,0,500
-Midland,"Midland Township, Precinct 1",U.S. House,,Paul Junge,Republican,617,130,0,747
-Midland,"Midland Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,18,2,0,20
-Midland,"Midland Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,2,2,0,4
-Midland,"Midland Township, Precinct 1",U.S. House,,Jim Casha,Green,5,0,0,5
-Midland,"Midland Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,21,3,0,24
-Midland,"Midland Township, Precinct 1",U.S. House,,Write-in,,2,1,0,3
-Midland,"Midland Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Midland Township, Precinct 1",U.S. House,,Under Vote Count,,32,3,0,35
+Midland,"Midland Township, Precinct 1",U.S. House,8,Ballots Cast,,1127,211,0,1338
+Midland,"Midland Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,430,70,0,500
+Midland,"Midland Township, Precinct 1",U.S. House,8,Paul Junge,Republican,617,130,0,747
+Midland,"Midland Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,18,2,0,20
+Midland,"Midland Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,2,2,0,4
+Midland,"Midland Township, Precinct 1",U.S. House,8,Jim Casha,Green,5,0,0,5
+Midland,"Midland Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,21,3,0,24
+Midland,"Midland Township, Precinct 1",U.S. House,8,Write-in,,2,1,0,3
+Midland,"Midland Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Midland Township, Precinct 1",U.S. House,8,Under Vote Count,,32,3,0,35
 Midland,"Midland Township, Precinct 1",State House,95,Ballots Cast,,1127,211,0,1338
 Midland,"Midland Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,333,61,0,394
 Midland,"Midland Township, Precinct 1",State House,95,Bill G. Schuette,Republican,743,145,0,888
@@ -6669,16 +6669,16 @@ Midland,"Mills Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,6,2,0,8
 Midland,"Mills Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Mills Township, Precinct 1",U.S. Senate,,Under Vote Count,,21,2,0,23
 Midland,"Mills Township, Precinct 1",U.S. Senate,,Write-in,,0,1,0,1
-Midland,"Mills Township, Precinct 1",U.S. House,,Ballots Cast,,964,135,0,1099
-Midland,"Mills Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,339,46,0,385
-Midland,"Mills Township, Precinct 1",U.S. House,,Paul Junge,Republican,563,79,0,642
-Midland,"Mills Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,13,3,0,16
-Midland,"Mills Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,9,1,0,10
-Midland,"Mills Township, Precinct 1",U.S. House,,Jim Casha,Green,2,1,0,3
-Midland,"Mills Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,12,3,0,15
-Midland,"Mills Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Mills Township, Precinct 1",U.S. House,,Under Vote Count,,26,1,0,27
-Midland,"Mills Township, Precinct 1",U.S. House,,Write-in,,0,1,0,1
+Midland,"Mills Township, Precinct 1",U.S. House,8,Ballots Cast,,964,135,0,1099
+Midland,"Mills Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,339,46,0,385
+Midland,"Mills Township, Precinct 1",U.S. House,8,Paul Junge,Republican,563,79,0,642
+Midland,"Mills Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,13,3,0,16
+Midland,"Mills Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,9,1,0,10
+Midland,"Mills Township, Precinct 1",U.S. House,8,Jim Casha,Green,2,1,0,3
+Midland,"Mills Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,12,3,0,15
+Midland,"Mills Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Mills Township, Precinct 1",U.S. House,8,Under Vote Count,,26,1,0,27
+Midland,"Mills Township, Precinct 1",U.S. House,8,Write-in,,0,1,0,1
 Midland,"Mills Township, Precinct 1",State House,95,Ballots Cast,,964,135,0,1099
 Midland,"Mills Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,264,40,0,304
 Midland,"Mills Township, Precinct 1",State House,95,Bill G. Schuette,Republican,665,93,0,758
@@ -6886,16 +6886,16 @@ Midland,"Mt. Haley Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,3,2,
 Midland,"Mt. Haley Township, Precinct 1",U.S. Senate,,Write-in,,1,1,0,2
 Midland,"Mt. Haley Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Mt. Haley Township, Precinct 1",U.S. Senate,,Under Vote Count,,20,0,0,20
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Ballots Cast,,917,118,0,1035
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,312,37,0,349
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Paul Junge,Republican,543,76,0,619
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,15,2,0,17
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,6,0,0,6
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Jim Casha,Green,4,1,0,5
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,18,1,0,19
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Over Vote Count,,0,0,0,0
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Under Vote Count,,19,0,0,19
-Midland,"Mt. Haley Township, Precinct 1",U.S. House,,Write-in,,0,1,0,1
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Ballots Cast,,917,118,0,1035
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,312,37,0,349
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Paul Junge,Republican,543,76,0,619
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,15,2,0,17
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,6,0,0,6
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Jim Casha,Green,4,1,0,5
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,18,1,0,19
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Over Vote Count,,0,0,0,0
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Under Vote Count,,19,0,0,19
+Midland,"Mt. Haley Township, Precinct 1",U.S. House,8,Write-in,,0,1,0,1
 Midland,"Mt. Haley Township, Precinct 1",State House,95,Ballots Cast,,917,118,0,1035
 Midland,"Mt. Haley Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,235,32,0,267
 Midland,"Mt. Haley Township, Precinct 1",State House,95,Bill G. Schuette,Republican,645,83,0,728
@@ -7117,16 +7117,16 @@ Midland,"Porter Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,4,0,0,4
 Midland,"Porter Township, Precinct 1",U.S. Senate,,Write-in,,3,0,0,3
 Midland,"Porter Township, Precinct 1",U.S. Senate,,Over Vote Count,,0,0,0,0
 Midland,"Porter Township, Precinct 1",U.S. Senate,,Under Vote Count,,11,0,0,11
-Midland,"Porter Township, Precinct 1",U.S. House,,Ballots Cast,,625,47,0,672
-Midland,"Porter Township, Precinct 1",U.S. House,,Kristen McDonald Rivet,Democrat,185,8,0,193
-Midland,"Porter Township, Precinct 1",U.S. House,,Paul Junge,Republican,390,39,0,429
-Midland,"Porter Township, Precinct 1",U.S. House,,Steve Barcelo,Libertarian,8,0,0,8
-Midland,"Porter Township, Precinct 1",U.S. House,,James Allen Little,U.S. Taxpayers,6,0,0,6
-Midland,"Porter Township, Precinct 1",U.S. House,,Jim Casha,Green,2,0,0,2
-Midland,"Porter Township, Precinct 1",U.S. House,,Kathy Goodwin,Working Class,13,0,0,13
-Midland,"Porter Township, Precinct 1",U.S. House,,Write-in,,3,0,0,3
-Midland,"Porter Township, Precinct 1",U.S. House,,Over Vote Count,,1,0,0,1
-Midland,"Porter Township, Precinct 1",U.S. House,,Under Vote Count,,17,0,0,17
+Midland,"Porter Township, Precinct 1",U.S. House,8,Ballots Cast,,625,47,0,672
+Midland,"Porter Township, Precinct 1",U.S. House,8,Kristen McDonald Rivet,Democrat,185,8,0,193
+Midland,"Porter Township, Precinct 1",U.S. House,8,Paul Junge,Republican,390,39,0,429
+Midland,"Porter Township, Precinct 1",U.S. House,8,Steve Barcelo,Libertarian,8,0,0,8
+Midland,"Porter Township, Precinct 1",U.S. House,8,James Allen Little,U.S. Taxpayers,6,0,0,6
+Midland,"Porter Township, Precinct 1",U.S. House,8,Jim Casha,Green,2,0,0,2
+Midland,"Porter Township, Precinct 1",U.S. House,8,Kathy Goodwin,Working Class,13,0,0,13
+Midland,"Porter Township, Precinct 1",U.S. House,8,Write-in,,3,0,0,3
+Midland,"Porter Township, Precinct 1",U.S. House,8,Over Vote Count,,1,0,0,1
+Midland,"Porter Township, Precinct 1",U.S. House,8,Under Vote Count,,17,0,0,17
 Midland,"Porter Township, Precinct 1",State House,95,Ballots Cast,,625,47,0,672
 Midland,"Porter Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,147,7,0,154
 Midland,"Porter Township, Precinct 1",State House,95,Bill G. Schuette,Republican,457,40,0,497
@@ -7347,14 +7347,14 @@ Midland,"Warren Township, Precinct 1",U.S. Senate,,Doug Dern,Natural Law,4,0,0,4
 Midland,"Warren Township, Precinct 1",U.S. Senate,,Write-in,,2,0,0,2
 Midland,"Warren Township, Precinct 1",U.S. Senate,,Over Vote Count,,1,0,0,1
 Midland,"Warren Township, Precinct 1",U.S. Senate,,Under Vote Count,,31,1,0,32
-Midland,"Warren Township, Precinct 1",U.S. House,,Ballots Cast,,1104,99,0,1203
-Midland,"Warren Township, Precinct 1",U.S. House,,Michael Lynch,Democrat,253,13,0,266
-Midland,"Warren Township, Precinct 1",U.S. House,,John R. Moolenaar,Republican,770,85,0,855
-Midland,"Warren Township, Precinct 1",U.S. House,,Ben DeJong,Libertarian,14,0,0,14
-Midland,"Warren Township, Precinct 1",U.S. House,,Scott Adams,U.S. Taxpayers,20,0,0,20
-Midland,"Warren Township, Precinct 1",U.S. House,,Write-in,,2,0,0,2
-Midland,"Warren Township, Precinct 1",U.S. House,,Over Vote Count,,1,0,0,1
-Midland,"Warren Township, Precinct 1",U.S. House,,Under Vote Count,,44,1,0,45
+Midland,"Warren Township, Precinct 1",U.S. House,2,Ballots Cast,,1104,99,0,1203
+Midland,"Warren Township, Precinct 1",U.S. House,2,Michael Lynch,Democrat,253,13,0,266
+Midland,"Warren Township, Precinct 1",U.S. House,2,John R. Moolenaar,Republican,770,85,0,855
+Midland,"Warren Township, Precinct 1",U.S. House,2,Ben DeJong,Libertarian,14,0,0,14
+Midland,"Warren Township, Precinct 1",U.S. House,2,Scott Adams,U.S. Taxpayers,20,0,0,20
+Midland,"Warren Township, Precinct 1",U.S. House,2,Write-in,,2,0,0,2
+Midland,"Warren Township, Precinct 1",U.S. House,2,Over Vote Count,,1,0,0,1
+Midland,"Warren Township, Precinct 1",U.S. House,2,Under Vote Count,,44,1,0,45
 Midland,"Warren Township, Precinct 1",State House,95,Ballots Cast,,1104,99,0,1203
 Midland,"Warren Township, Precinct 1",State House,95,Sabrina Lopez,Democrat,243,13,0,256
 Midland,"Warren Township, Precinct 1",State House,95,Bill G. Schuette,Republican,815,86,0,901

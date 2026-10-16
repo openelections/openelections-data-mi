@@ -51,7 +51,7 @@ for d in districts.keys():
                     for idx, cp in enumerate(candidates_with_party):
                         vote_group = vote_groups[idx]
                         results.append(['Macomb', precinct, office, district, cp[0], cp[1].replace(')','').replace('(',''), vote_group[0], vote_group[1], vote_group[2]])
-            except:
+            except Exception:
                 continue
         else:
             continue
